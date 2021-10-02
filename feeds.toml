@@ -10,6 +10,7 @@ linkSelector = "div.text_area a.link_end"
 imageSelector = "div.image_area a img"
 contentSelector = "p.text_feed.ell"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [fashion]
 title = "코스모폴리탄 코리아 ─ 패션"
@@ -20,6 +21,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+onFail = "stale"
 
 [beauty]
 title = "코스모폴리탄 코리아 ─ 뷰티"
@@ -30,6 +32,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+onFail = "stale"
 
 [celebs]
 title = "코스모폴리탄 코리아 ─ 셀레브리티"
@@ -50,6 +53,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+onFail = "stale"
 
 [life]
 title = "코스모폴리탄 코리아 ─ 라이프"
@@ -60,6 +64,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+onFail = "stale"
 
 [cofficial]
 title = "코스모폴리탄 코리아 ─ 코피셜"
@@ -70,3 +75,4 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+onFail = "stale"
