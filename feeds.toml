@@ -1,0 +1,59 @@
+[fashion]
+title = "코스모폴리탄 코리아 ─ 패션"
+url = "https://www.cosmopolitan.co.kr/fashion"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[beauty]
+title = "코스모폴리탄 코리아 ─ 뷰티"
+url = "https://www.cosmopolitan.co.kr/beauty"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[celebs]
+title = "코스모폴리탄 코리아 ─ 셀레브리티"
+url = "https://www.cosmopolitan.co.kr/celebs"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[love]
+title = "코스모폴리탄 코리아 ─ 러브"
+url = "https://www.cosmopolitan.co.kr/love"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[life]
+title = "코스모폴리탄 코리아 ─ 라이프"
+url = "https://www.cosmopolitan.co.kr/life"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[cofficial]
+title = "코스모폴리탄 코리아 ─ 코피셜"
+url = "https://www.cosmopolitan.co.kr/cofficial"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
