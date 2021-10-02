@@ -1,60 +1,6 @@
 [default]
 timeout = 120
 
-[naverpost_beauty]
-title = "네이버 포스트 ─ 코스모폴리탄 코리아 ─ 뷰티 A to Z"
-url = "https://post.naver.com/my/series/detail.naver?seriesNo=57748&memberNo=11800362"
-entrySelector = "#el_list_container ul ul li"
-titleSelector = "div.spot_post_name span.ell"
-linkSelector = "a[href]"
-imageSelector = "img"
-contentSelector = "span.writer_name"
-
-[naverpost_lifestyle]
-title = "네이버 포스트 ─ 코스모폴리탄 코리아 ─ FOR YOUR LIFESTYLE"
-url = "https://post.naver.com/my/series/detail.naver?seriesNo=124042&memberNo=11800362"
-entrySelector = "#el_list_container ul ul li"
-titleSelector = "div.spot_post_name span.ell"
-linkSelector = "a[href]"
-imageSelector = "img"
-contentSelector = "span.writer_name"
-
-[naverpost_photoshoot]
-title = "네이버 포스트 ─ 코스모폴리탄 코리아 ─ COSMOPOLITAN 화보 저장소"
-url = "https://post.naver.com/my/series/detail.naver?seriesNo=59012&memberNo=11800362"
-entrySelector = "#el_list_container ul ul li"
-titleSelector = "div.spot_post_name span.ell"
-linkSelector = "a[href]"
-imageSelector = "img"
-contentSelector = "span.writer_name"
-
-[naverpost_health]
-title = "네이버 포스트 ─ 코스모폴리탄 코리아 ─ 우리 몸에 대한 이야기"
-url = "https://post.naver.com/my/series/detail.naver?seriesNo=55827&memberNo=11800362"
-entrySelector = "#el_list_container ul ul li"
-titleSelector = "div.spot_post_name span.ell"
-linkSelector = "a[href]"
-imageSelector = "img"
-contentSelector = "span.writer_name"
-
-[naverpost_beautynew]
-title = "네이버 포스트 ─ 코스모폴리탄 코리아 ─ 따끈따끈 뷰티 신상"
-url = "https://post.naver.com/my/series/detail.naver?seriesNo=58820&memberNo=11800362"
-entrySelector = "#el_list_container ul ul li"
-titleSelector = "div.spot_post_name span.ell"
-linkSelector = "a[href]"
-imageSelector = "img"
-contentSelector = "span.writer_name"
-
-[naverpost_hair]
-title = "네이버 포스트 ─ 코스모폴리탄 코리아 ─ 예쁜 머리가 하고 싶어 헤어꿀팁"
-url = "https://post.naver.com/my/series/detail.naver?seriesNo=449881&memberNo=11800362"
-entrySelector = "#el_list_container ul ul li"
-titleSelector = "div.spot_post_name span.ell"
-linkSelector = "a[href]"
-imageSelector = "img"
-contentSelector = "span.writer_name"
-
 [fashion]
 title = "코스모폴리탄 코리아 ─ 패션"
 url = "https://www.cosmopolitan.co.kr/fashion"
