@@ -9,7 +9,7 @@ titleSelector = "strong.tit_feed.ell"
 linkSelector = "div.text_area a.link_end"
 imageSelector = "div.image_area a img"
 contentSelector = "p.text_feed.ell"
-timeout = 60
+waitUntil = "networkidle"
 
 [fashion]
 title = "코스모폴리탄 코리아 ─ 패션"
