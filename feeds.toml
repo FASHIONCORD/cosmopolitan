@@ -9,7 +9,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
 
 [beauty]
 title = "코스모폴리탄 코리아 ─ 뷰티"
@@ -19,7 +19,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
 
 [celebs]
 title = "코스모폴리탄 코리아 ─ 셀레브리티"
@@ -29,7 +29,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
 
 [love]
 title = "코스모폴리탄 코리아 ─ 러브"
@@ -39,7 +39,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
 
 [life]
 title = "코스모폴리탄 코리아 ─ 라이프"
@@ -49,7 +49,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
 
 [cofficial]
 title = "코스모폴리탄 코리아 ─ 코피셜"
@@ -59,4 +59,4 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitUntil = "networkidle"
+waitForSelector = ".articlebox"
