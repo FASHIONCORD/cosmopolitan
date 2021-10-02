@@ -1,6 +1,16 @@
 [default]
 timeout = 120
 
+[naverpost]
+title = "네이버 포스트 ─ 코스모폴리탄 코리아"
+url = "https://post.naver.com/my.naver?memberNo=11800362"
+entrySelector = "ul.lst_feed li._cds.check_visible"
+titleSelector = "strong.tit_feed.ell"
+linkSelector = "div.text_area a.link_end"
+imageSelector = "div.image_area a img"
+contentSelector = "p.text_feed.ell"
+timeout = 60
+
 [fashion]
 title = "코스모폴리탄 코리아 ─ 패션"
 url = "https://www.cosmopolitan.co.kr/fashion"
