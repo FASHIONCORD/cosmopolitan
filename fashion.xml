@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 14:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 15:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임>이 낳은 스타, 정호연의 사복 패션!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58938</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58938</guid>
+            <pubDate>Sun, 03 Oct 2021 15:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 슈퍼 모델에서 글로벌 스타로 거듭난 정호연은 어떤 패션을 즐길까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/d0fd5d65-7f35-4bb1-b2ea-63ddcc051c8a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[므찌다 울언니! ‘스우파’ 잇템 따라잡기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58920</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 01:23:42 GMT</pubDate>
             <content:encoded><![CDATA[일상 속 그녀들의 코디는 반전의 반전으로 스타일리쉬하다는 사실!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/14c34d1a-bb6f-442c-90b5-21cdfb76578e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인테리어 효과 뽐뿌, 품절대란 명품 캔들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58858</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58858</guid>
-            <pubDate>Sat, 02 Oct 2021 01:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[조 말론 런던, 딥티크, 반 클리프 아펠, 디에스앤더가, 엑스니힐로 명품 중에 명품, 신상 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/f2bb3c8b-6943-42b5-8ab5-e0d0b21d53e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
