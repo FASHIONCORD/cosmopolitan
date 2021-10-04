@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 22:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 23:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무려 1억원대 침대 브랜드가 세상 힙한 협업 아이템을 선보인다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58929</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58929</guid>
+            <pubDate>Mon, 04 Oct 2021 23:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[9월 마지막 주, 핫한 소식들만 모은 라이프스타일 뉴스를 공유합니다! #코스모라이프]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/98e914fe-833e-4079-96cf-9d219c82eecb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주름지고 처지는 게 뭐 어때서? 자연스럽게 나이 든 할리우드 스타들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58925</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 01:24:32 GMT</pubDate>
             <content:encoded><![CDATA[영화 찍다 사랑에 빠진 건 같은데, 행보는 몹시 다른 두 커플.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/488c9018-d9bb-4158-85ab-dca46005c978.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야, 너도 할 수 있어! 언니 삼고 싶은 여성 뮤지션의 자존감 높여주는 노래 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58862</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58862</guid>
-            <pubDate>Sat, 02 Oct 2021 01:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[자존감 떨어져? 이 노래를 들어봐!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/5defdcde-0632-4ad0-8a65-ba0c38e2bf6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
