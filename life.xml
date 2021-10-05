@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 00:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 01:57:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월에 만개하는 핑크뮬리! 핑크뮬리 핫스팟 어딘데?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58969</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58969</guid>
+            <pubDate>Tue, 05 Oct 2021 01:57:13 GMT</pubDate>
+            <content:encoded><![CDATA[핑크뮬리 배경으로 인생샷 건지는 사람들 속출!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/25bdac6f-e6ac-4b83-9e66-50c93ecc0fa6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을엔 밤 아니겠어? 비주얼 끝판왕 밤 디저트 맛집 모음]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58962</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 01:25:17 GMT</pubDate>
             <content:encoded><![CDATA[거리 두기는 물론 맛있는 디저트와 프라이빗한 공간이 있는 4곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/ee6fa596-7194-4978-8df0-3a8fa415ae4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4세대 대세 걸그룹 스테이씨의 첫 음방 1위 공약은 원래 얼굴 낙서였다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58930</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58930</guid>
-            <pubDate>Sat, 02 Oct 2021 01:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 2000대생=스테이씨, 모두 이런 미친 텐션인 거 실화...?(감당 불가 주의)]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/1fd38c9f-0d7f-491c-bacc-525a7ad2e5f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
