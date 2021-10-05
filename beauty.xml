@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 10:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 11:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 픽! 10월의 머스트 해브 아이템은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58976</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58976</guid>
+            <pubDate>Tue, 05 Oct 2021 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/112fd493-f43e-49d2-a444-763ab8130b01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엉덩이 기억상실증, 장미색 비강진. 이런 병 들어봤어요?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58971</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 01:23:59 GMT</pubDate>
             <content:encoded><![CDATA[조 말론 런던, 딥티크, 반 클리프 아펠, 디에스앤더가, 엑스니힐로 명품 중에 명품, 신상 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/f2bb3c8b-6943-42b5-8ab5-e0d0b21d53e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사·윈터·예지, 앞머리 있는 게 예뻐요? 없는 게 예뻐요?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58849</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58849</guid>
-            <pubDate>Sat, 02 Oct 2021 01:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[앞머리 있어도, 없어도 예쁘긔 있긔? 없긔? 앞머리 하나로 이미지 변신에 성공한 그녀들의 뉴...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/39d0c4ff-d838-41cc-b4b3-8fd85ef1f60d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
