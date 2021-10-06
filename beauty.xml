@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 07:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 08:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 뷰티템 본 적 있어? 희소성 갑, 이색 뷰티템 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59019</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59019</guid>
+            <pubDate>Wed, 06 Oct 2021 08:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[재미와 희소성으론 여기가 극락! 실종된 웃음기마저 되살아나게 만드는 펀 뷰티 이색템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/dd9c7206-97e7-4c77-8834-52821e1ef6d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루즈 디올의 새로운 꾸뛰르 립밤]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58983</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 01:23:59 GMT</pubDate>
             <content:encoded><![CDATA[노력으로 완성한 갓벽 몸매!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/73a0739a-d7fe-4642-9381-ee18fa3b450b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착해도 너~무 착한 친환경 뷰티템이 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58923</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58923</guid>
-            <pubDate>Sat, 02 Oct 2021 01:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[리유저블이 대세? 화장품 업계도 적극 친환경 행보중입니다만!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/00b7dd9e-7e1b-42af-8da4-9f77928dfbd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
