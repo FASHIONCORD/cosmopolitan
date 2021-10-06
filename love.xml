@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 11:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 12:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-드라마  <오징어게임>에서 발견한 짜릿한 배우들은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58750</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58750</guid>
+            <pubDate>Wed, 06 Oct 2021 12:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[전세계 2위 등극한 K-드라마, 공유와 딱지치기 한 판?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/2817e6df-99a9-41d0-9c6b-9c474dd228e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선섹스 후연애! 요즘 세대 연애 방식?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58739</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 01:24:48 GMT</pubDate>
             <content:encoded><![CDATA[카더라 통신은 가라! 서울 라헬 여성의원 김재원 원장이 질염에 대한 진짜 이야기를 들려준다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/e3a5493c-6617-4b85-b6da-17fcbce44f44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 '뜨밤'의 흔적을 남김 없이 지우는 법은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58566</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58566</guid>
-            <pubDate>Sat, 02 Oct 2021 01:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[이 페이지를 찢어서 매트리스 밑에 숨겨뒀다가 비상시에 꺼내 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/f51293ca-41b6-40f2-b18f-6b4b6e781c9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
