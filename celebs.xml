@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 03:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 04:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이게 머선129! 초청작 100% 극장 상영한다는 2021 부산 국제 영화제]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59041</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59041</guid>
+            <pubDate>Thu, 07 Oct 2021 04:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 이후 최초의 정규 국제행사?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/ea0bd5da-d703-4e99-9780-593276a29075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝스타부터 월클 배우까지, 어마어마한 블랙핑크 로제의 찐친 모음 ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59040</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 01:24:32 GMT</pubDate>
             <content:encoded><![CDATA[세월을 정통으로 맞아? 내 얼굴 똑바로 봐!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/3571aa42-9405-4114-b3f4-99f4c002420a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정채연이 솔직하게 밝힌 -16kg 극성수기 다이어트 비법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58924</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58924</guid>
-            <pubDate>Sat, 02 Oct 2021 01:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[노력으로 완성한 갓벽 몸매!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/73a0739a-d7fe-4642-9381-ee18fa3b450b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
