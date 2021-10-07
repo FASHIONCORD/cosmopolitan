@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 00:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 03:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝스타부터 월클 배우까지, 어마어마한 블랙핑크 로제의 찐친 모음 ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59040</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59040</guid>
+            <pubDate>Thu, 07 Oct 2021 03:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[로제와 친한 월클 다 모여!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/b9d9cff7-e37f-4e22-8821-e62a0ed58c99.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한소희가 출연하는 <마이 네임>이 손꼽아 기다려지는 이유! TOP 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59011</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 01:24:32 GMT</pubDate>
             <content:encoded><![CDATA[노력으로 완성한 갓벽 몸매!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/73a0739a-d7fe-4642-9381-ee18fa3b450b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감독이 직접 밝힌 <오징어 게임> TMI]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58921</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58921</guid>
-            <pubDate>Sat, 02 Oct 2021 01:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;오징어 게임&gt; 황동혁 감독 피셜 숨은 뒷이야기.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/a83c9fce-684c-4213-ba18-db4becabb044.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
