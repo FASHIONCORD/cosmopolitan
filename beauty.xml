@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 07:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 09:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건조한 환절기에 딱! 환절기 뷰벤저스 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59072</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59072</guid>
+            <pubDate>Thu, 07 Oct 2021 09:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[하반기 브라운관을 점령할 뷰티 여주들과 미니미 포켓템, 환절기 뷰벤져스까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/da128934-7d75-4bb2-beee-cdf11e157360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코알라 필독! 술 덜 취하는 꿀팁이 있다는데?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59061</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 01:54:06 GMT</pubDate>
             <content:encoded><![CDATA[이름은 생소하지만 알아둬야 할 이 질병. 알고 있나요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/ebb302c9-fba8-40bb-9af2-c4bc4a4321a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코치 드림 선셋과 함께 떠나는 골든 아워 여행]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58557</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58557</guid>
-            <pubDate>Sat, 02 Oct 2021 21:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[노을 빛을 담은 코치 드림 선셋 향수를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/527fc37e-34bf-4df3-9656-46a616df6291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

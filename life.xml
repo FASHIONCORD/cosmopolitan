@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 07:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 09:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 ‘홍게’가 제철이라던데~ 제철 ‘홍게’ 택배 서비스 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59065</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59065</guid>
+            <pubDate>Thu, 07 Oct 2021 09:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[집에서 홍게 코스 요리 쌉 가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/642a8b9e-b6c4-4f5d-ad8a-5b17aef7c7d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[택배 쌉 가능! 전국 그릭 요거트 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59064</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59064</guid>
+            <pubDate>Thu, 07 Oct 2021 09:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[꾸덕-한 그릭 요거트 집에서 받아 먹는 법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/8de55bfa-c77c-483b-9723-281f3be26675.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코알라 필독! 술 덜 취하는 꿀팁이 있다는데?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59061</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 15:26:26 GMT</pubDate>
             <content:encoded><![CDATA[박지현 매력 모르는 사람 없게 해주세요]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/a11fd339-7adc-44d2-a1f9-34cea56f869c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉덩이 기억상실증, 장미색 비강진. 이런 병 들어봤어요?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58971</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58971</guid>
-            <pubDate>Tue, 05 Oct 2021 15:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[이름은 생소하지만 알아둬야 할 이 질병. 알고 있나요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/ebb302c9-fba8-40bb-9af2-c4bc4a4321a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<D.P.>에 출연한 매드 클라운의 친동생? 빛이 난다, 빛이나! 명품 조연.SSUL]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58970</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58970</guid>
-            <pubDate>Tue, 05 Oct 2021 15:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[이들이 없었다면 지금 이 작품이 과연 이만큼의 호평을 받을 수 있었을까? 그 어느 때보다 반...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/16f9e5c3-affc-4e3b-86e0-9fe98c5f64d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
