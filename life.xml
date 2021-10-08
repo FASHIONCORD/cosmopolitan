@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 07:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 09:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['산'부터 '우주정거장'까지, 서울 이색 컨셉 카페 모음 ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59066</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59066</guid>
+            <pubDate>Fri, 08 Oct 2021 09:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[컨셉에 진심인 카페만 모았다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/4c9b7ee2-fdc5-4808-971c-9656ba423c07.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 ‘홍게’가 제철이라던데~ 제철 ‘홍게’ 택배 서비스 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59065</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 17:09:33 GMT</pubDate>
             <content:encoded><![CDATA[한소희 원톱 액션에, &lt;인간수업&gt;의 김진민 감독 게다가 언더커버 물이라고요? 이걸 어떻게 안...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/a856b550-aa35-483a-890e-fb48c3cdcb20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유미의 세포들 ‘새이’ 박지현 패션 파헤치기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58993</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58993</guid>
-            <pubDate>Thu, 07 Oct 2021 17:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[박지현 매력 모르는 사람 없게 해주세요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/a11fd339-7adc-44d2-a1f9-34cea56f869c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
