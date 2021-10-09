@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 18:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 20:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여혐과 유사성 논란까지 터진 <오징어 게임> 호? 불호?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58769</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58769</guid>
+            <pubDate>Sat, 09 Oct 2021 20:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계를 사로잡은 넷플릭스 시리즈 &lt;오징어 게임&gt;. 호평 가득한 해외와 달리 국내에선 유사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/2aad3877-74c0-4fd0-9801-67ff8c04953a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-드라마  <오징어게임>에서 발견한 짜릿한 배우들은 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58750</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 17:09:23 GMT</pubDate>
             <content:encoded><![CDATA[그저 설레기만 하면 재미없잖아? 질투, 배신, 후회, 증오 정도는 조미료처럼 버무려져야 그게...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/9364b1fe-c121-430f-9ff9-a1900e936742.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지긋지긋한 질염에 대한 팩트 체크 7 #초급편]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58599</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58599</guid>
-            <pubDate>Thu, 07 Oct 2021 17:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[카더라 통신은 가라! 서울 라헬 여성의원 김재원 원장이 질염에 대한 진짜 이야기를 들려준다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/e3a5493c-6617-4b85-b6da-17fcbce44f44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
