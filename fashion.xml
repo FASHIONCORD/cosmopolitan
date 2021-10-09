@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 16:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 18:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올가을 트렌드! 셀럽들의 비비드한 컬러 니트 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59063</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59063</guid>
+            <pubDate>Sat, 09 Oct 2021 18:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[클래식한 컬러 니트 활용법을 배워보자]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/0154724d-03ab-44e8-b413-3132f50b225e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우아한 룩을 완성시키는 마이클 코어스 칼리 샤첼백]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59055</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 11:07:31 GMT</pubDate>
             <content:encoded><![CDATA[한 편의 영화 아니야? 오니츠카타이거가 밀라노에서 도쿄로의 여행을 상상해낸 2022 S/S ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/750d37bf-b31e-44b7-accd-dd94061ab406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세기의 만남! 펜디와 베르사체의 스와핑 콜라보레이션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58942</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58942</guid>
-            <pubDate>Tue, 05 Oct 2021 11:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[또 하나의 기념비적인 협업이 탄생했다. 펜디와 베르사체의 결합 펜다체(FENDACE)!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/6442bee0-0304-4a9f-8bdf-622fcd5e616e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
