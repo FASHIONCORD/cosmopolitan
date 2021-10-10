@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 14:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 16:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대들 집합한 요즘 필드 분위기 어때?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59120</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59120</guid>
+            <pubDate>Sun, 10 Oct 2021 16:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘아재 스포츠’였던 골프가 MZ세대의 힙한 레저로 떠오른 요즘. 이제 막 머리를 올린 ‘골린...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/386fa8ca-3e7b-4e68-813e-744c56f44b00.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<유미의 세포들>에 나온 오션뷰 호텔 거기 어디?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59109</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 17:09:33 GMT</pubDate>
             <content:encoded><![CDATA[열일 하는 유미 패션 세포 칭찬해~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/9663f7d7-eacc-4eec-93e2-465d30368ed7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 감성 낭낭한 갈대밭 공원으로 드라이브는 못 참아!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59057</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59057</guid>
-            <pubDate>Thu, 07 Oct 2021 17:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[더 늦기 전에 갈대밭으로 인생 사진 찍으러 가보자고~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/6f5bfee0-15ed-4b7b-9bf7-210931419d04.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

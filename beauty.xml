@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 14:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 16:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다채로운 텍스처와 색감으로 완전 무장! 10가지 신상 립스틱]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59129</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59129</guid>
+            <pubDate>Sun, 10 Oct 2021 16:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 텍스처와 색감으로 무장한 10가지 신상 립의 화려한 배틀을 지금 시작한다. 그간 억...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/dcbca158-0c69-4033-9f41-4eca26b41de2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한국피부과학연구원' 안인숙 원장이 말하는 깐달걀 피부 비법 Q&A]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59124</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 17:08:31 GMT</pubDate>
             <content:encoded><![CDATA[하반기 브라운관을 점령할 뷰티 여주들과 미니미 포켓템, 환절기 뷰벤져스까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/da128934-7d75-4bb2-beee-cdf11e157360.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코알라 필독! 술 덜 취하는 꿀팁이 있다는데?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59061</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59061</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[술은 마시지만 덜 취하고 싶다고요? 알려드립니다. 정신과 건강 지키는 음주법. 그렇다고 덮어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/35efc5cc-234a-4667-8986-25f10b2a0b34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
