@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 16:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 17:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성시경이 베개싸움하고, 서지혜가 뿅망치 맞던 시절의 연애 리얼리티?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58813</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58813</guid>
+            <pubDate>Sun, 10 Oct 2021 17:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;짝&gt;과 &lt;하트시그널&gt;부터 &lt;환승연애&gt;까지 연애 리얼리티 원조, &lt;산장 미팅: 장미의 전쟁&gt;...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/61c35e2d-0f0f-4a8b-b53f-53822e6b2ee1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여혐과 유사성 논란까지 터진 <오징어 게임> 호? 불호?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58769</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 17:09:23 GMT</pubDate>
             <content:encoded><![CDATA[연예인 부부 리얼리티에서 배우는 싸움과 화해의 기술.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/1717f443-e485-484f-a049-abc6dbec530e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기가 바로 으른들의 연애, 혐관 로맨스!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58646</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58646</guid>
-            <pubDate>Thu, 07 Oct 2021 17:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[그저 설레기만 하면 재미없잖아? 질투, 배신, 후회, 증오 정도는 조미료처럼 버무려져야 그게...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/9364b1fe-c121-430f-9ff9-a1900e936742.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
