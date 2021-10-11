@@ -43,6 +43,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+onFail = "stale"
 
 [love]
 title = "코스모폴리탄 코리아 ─ 러브"
