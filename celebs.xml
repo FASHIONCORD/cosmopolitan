@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 15:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 언니가 임신했다고?! 할리우드 스타들의 임신&출산 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59110</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59110</guid>
+            <pubDate>Tue, 12 Oct 2021 15:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[베이비, 베이비, 베이비 오~예!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/b325828b-f594-4e93-a383-6990a7122b89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<유미의 세포들>에 나온 오션뷰 호텔 거기 어디?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59109</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 17:08:42 GMT</pubDate>
             <content:encoded><![CDATA[한소희 원톱 액션에, &lt;인간수업&gt;의 김진민 감독 게다가 언더커버 물이라고요? 이걸 어떻게 안...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/a856b550-aa35-483a-890e-fb48c3cdcb20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압도적인 비주얼과 넘사벽 연기력으로 복귀한 여배우들의 헤어&메이크업 포인트는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59005</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59005</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[소리 질럿~. 압도적인 갓미모 비주얼과 넘사벽 연기력으로 브라운관 복귀를 예고한 하반기 라인...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/ab8f429c-5583-4a06-bc04-581898a7565a.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

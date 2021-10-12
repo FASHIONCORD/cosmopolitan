@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 15:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이생망 머릿결에 킹받는다면 필독해야할 헤어 관리 꿀TIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59161</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59161</guid>
+            <pubDate>Tue, 12 Oct 2021 15:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[시들시들 흩날리는 최약체 머리카락 땜에 킹받네! 두피와 모발을 열불 나게 만드는 잦은 스타일...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/c5da1fcf-f43b-4035-833c-ec78aecaf815.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환절기 불쑥 찾아온 얼태기를 해결해줄 그린 코스메틱!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59159</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 17:17:50 GMT</pubDate>
             <content:encoded><![CDATA[브랜드와 찰떡 케미 인정!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/b253f01e-db9a-44c2-9251-b972295b967a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 컬렉션에 등판한 제니부터, 자라 X 샤를로뜨 갱스부르까지]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59085</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59085</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[10월 둘째 주 코스모 Pick 패션뉴스 &lt;코스모라이크&gt;]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/e84ce9ae-5286-4ce1-9099-ceb8098e32ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
