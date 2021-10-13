@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 06:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 07:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/a856b550-aa35-483a-890e-fb48c3cdcb20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드디어 시즌3! <오티스의 비밀 상담소> 19금 좌표 모음 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58852</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58852</guid>
+            <pubDate>Wed, 13 Oct 2021 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[좌표만 봐도 한 눈에 보이는 오티스-메이브의 감질맛 나는 서사!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/86b5d20d-cfd5-4106-9ee5-691725001855.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성시경이 베개싸움하고, 서지혜가 뿅망치 맞던 시절의 연애 리얼리티? (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58813</link>
             <guid>https://www.cosmopolitan.co.kr/article/58813</guid>
@@ -415,14 +423,6 @@
             <pubDate>Sat, 02 Oct 2021 01:24:48 GMT</pubDate>
             <content:encoded><![CDATA[학창시절 미담과 박재범과의 꿀케미까지]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/d628b9fb-cf61-4f54-b4f1-919e096b7a76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권태기 커플 모두 집중! 연예인 부부가 싸우고 화해하는 특별한 방법이 있다고? (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58657</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58657</guid>
-            <pubDate>Sat, 02 Oct 2021 01:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[연예인 부부 리얼리티에서 배우는 싸움과 화해의 기술.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/1717f443-e485-484f-a049-abc6dbec530e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믓찌다, 믓찌다 울 언니들! 요즘 제일 핫한 언니들 모음.ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
