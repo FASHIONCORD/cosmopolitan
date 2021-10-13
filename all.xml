@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 17:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 18:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/d628b9fb-cf61-4f54-b4f1-919e096b7a76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이번 주말, 더 늦으면 못보는 코스모스 맛집 가지 않을래? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59260</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59260</guid>
+            <pubDate>Wed, 13 Oct 2021 18:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[마지막 예쁨주의! 여행도 소풍도 드라이브도 SSAP가능, 코스모스 맛집을 찾아서~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/26f7cbe6-8322-444e-946d-e8aedbcb3eec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[저자의 비판과 반성이 뒤섞인 K-에세이 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59248</link>
             <guid>https://www.cosmopolitan.co.kr/article/59248</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 11 Oct 2021 01:58:17 GMT</pubDate>
             <content:encoded><![CDATA[슬기롭게 떠날 수 있는 하와이. 여행 준비는 물론 로컬 맛집까지 정리했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5eac8d9b-e6c9-431e-9269-20c691c75344.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코시국 불금엔 '홈텐딩'이 대세, 똥손도 만들 수 있는 초간단 칵테일 레시피 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59147</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59147</guid>
-            <pubDate>Tue, 12 Oct 2021 10:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[잠은 안오고 술이 땡겨서. 유튜브에서 주종별로 만들어볼만한 칵테일 레시피를 줍줍해왔어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/9f1152bc-aae1-4414-8bab-abf44802c00d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 생각하는 4세대 아이돌 탑티어 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
