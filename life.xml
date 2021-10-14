@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 13:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 14:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬 바람 불 땐 수프 아니겠어요? 서울 수프 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59304</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59304</guid>
+            <pubDate>Thu, 14 Oct 2021 14:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[추워지면 이젠 핫초코 말고 수프 각]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/29b21e64-1a65-4b7e-a72b-aa811d8715be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모르면 아쉽지! 보문역 신상 핫플 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59303</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59303</guid>
+            <pubDate>Thu, 14 Oct 2021 14:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[교토 감성 물씬 카페부터 셀럽 픽 와인바까지~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/f31a7758-ba5a-45e9-b007-409442962b25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[댕댕이 엄빠 필독, COSMOPOLITAN PET AWARDS 2021 1탄]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59290</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 18:11:55 GMT</pubDate>
             <content:encoded><![CDATA[마지막 예쁨주의! 여행도 소풍도 드라이브도 SSAP가능, 코스모스 맛집을 찾아서~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/26f7cbe6-8322-444e-946d-e8aedbcb3eec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저자의 비판과 반성이 뒤섞인 K-에세이]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59248</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59248</guid>
-            <pubDate>Wed, 13 Oct 2021 08:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[교보문고 ‘새로 나온 에세이’ 코너에 3권의 책이 비치됐지만 단 한 권도 흥행하지 못한 저자...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/4f4619a7-d4a3-4656-a6b9-237d2cfc4512.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모폴리탄에서 최초 공개하는 <스트릿 우먼 파이터> 언니들의 뉴 포포몬쓰?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59239</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59239</guid>
-            <pubDate>Wed, 13 Oct 2021 08:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[언니들, 우리가 원했던 게 이거잖아! 우리가 보고 싶었던 거, 이거!!!!!!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/018a8727-9eee-45cd-a122-dca7031357de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
