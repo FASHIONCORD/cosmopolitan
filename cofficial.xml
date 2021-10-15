@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 08:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 09:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동! 난 재미로 해~ 요즘 인싸 운동 번지 피지오와 F45를 소개합니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/57713</link>
+            <guid>https://www.cosmopolitan.co.kr/article/57713</guid>
+            <pubDate>Fri, 15 Oct 2021 09:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[운동에 재미를 붙이면 다이어트와 활력은 1+2로 따라 붙는다. 보기만 해도 따라 하고 싶고,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/14/81016fdc-391f-4b5e-b13c-1b975b042b75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 생각하는 4세대 아이돌 탑티어 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/57433</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
             <content:encoded><![CDATA[‘카카오톡 선물하기’ 사용해 봤다면 클릭! 기프티콘을 넘어 명품 쇼핑까지 SSAP가능한 언택...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202105/31/4114bb61-b367-483c-a231-2bf89d1f0382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈 vs 애플, 세기의 재판 과연 승자는?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55557</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55557</guid>
-            <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[에픽게임즈가 인앱결제 외 더 저렴한 구매 방법을 홍보하면서 애플과 구글은 규칙 위반이라며 포...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202105/26/f13e2b76-68be-4969-8ab7-4889107390fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
