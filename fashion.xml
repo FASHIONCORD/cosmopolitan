@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 14:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 15:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곡선의 미를 간직한 '호보백' 완벽 스타일링 파헤치기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59288</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59288</guid>
+            <pubDate>Fri, 15 Oct 2021 15:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[새 시즌을 위해 당신이 기억해야 할, 10가지의 뉴 액세서리 트렌드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/41d3f46e-17d4-4c20-a9ee-e1f150557daf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오징어 게임과 사랑에 빠진 패션계!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59270</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 10:09:26 GMT</pubDate>
             <content:encoded><![CDATA[내 이름을 불러줘! 뮤지션과 제대로 사랑에 빠진 패션계 소식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/a76dd63d-8647-45ce-b47f-e53a17a1f5ca.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[운동은 장비빨! 운동별 장비빨 세워주는 신상템 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59136</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59136</guid>
-            <pubDate>Wed, 13 Oct 2021 10:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[골프에서 트레일 러닝까지 올가을 ‘장비빨’ ‘스타일빨’ 세워줄 아이템을 선별했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/1b477a41-b064-436c-922e-e5277cea4da8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

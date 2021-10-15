@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 14:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 15:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘엔 이렇게 광고해요! SNS '좋아요' 마케팅 시대]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59325</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59325</guid>
+            <pubDate>Fri, 15 Oct 2021 15:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램의 등장 이후 그 어느 때보다 빠르고 다양하게 진화한 SNS 마케팅. 이 트렌디한 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/ea008367-7f70-4b2b-8d1d-76624ccc0f0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[품절 대란, <오징어 게임>으로 미친듯이 팔린다는 ‘이것’은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59321</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 14:10:12 GMT</pubDate>
             <content:encoded><![CDATA[교토 감성 물씬 카페부터 셀럽 픽 와인바까지~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/f31a7758-ba5a-45e9-b007-409442962b25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댕댕이 엄빠 필독, COSMOPOLITAN PET AWARDS 2021 1탄]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59290</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59290</guid>
-            <pubDate>Thu, 14 Oct 2021 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[들리나요? 댕댕이 엄빠, 냥이 집사 지갑 털리는 소리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/fb0644d7-1b60-4536-9e98-36513a312781.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
