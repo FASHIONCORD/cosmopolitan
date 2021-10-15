@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 09:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 10:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/d628b9fb-cf61-4f54-b4f1-919e096b7a76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[품절 대란, <오징어 게임>으로 미친듯이 팔린다는 ‘이것’은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59321</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59321</guid>
+            <pubDate>Fri, 15 Oct 2021 10:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[오징어 게임이 판매량 제대로 캐리한 제품은 바로 이거.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/5ab75181-416c-4e5e-82b2-c1b75240afe6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[혹시 ESFJ 재질? 귀욤뽀짝 신차, 캐스퍼 리뷰 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59320</link>
             <guid>https://www.cosmopolitan.co.kr/article/59320</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Oct 2021 09:10:33 GMT</pubDate>
             <content:encoded><![CDATA[들리나요? 댕댕이 엄빠, 냥이 집사 지갑 털리는 소리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/fb0644d7-1b60-4536-9e98-36513a312781.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[오징어 게임과 사랑에 빠진 패션계! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59270</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59270</guid>
-            <pubDate>Thu, 14 Oct 2021 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 &lt;오징어 게임&gt;이 방영 중인 모든 국가에서 1위 하며 지난 3주 동안 문화계에 큰 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/cd159044-6e70-418e-8283-1baccb37eed2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[운동! 난 재미로 해~ 요즘 인싸 운동 번지 피지오와 F45를 소개합니다 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
