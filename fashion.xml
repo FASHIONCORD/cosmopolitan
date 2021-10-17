@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 14:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 15:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤아, 김고은, 슬기의 레전드 셔츠 스타일링 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59305</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59305</guid>
+            <pubDate>Sun, 17 Oct 2021 15:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[셔츠의 무궁무진한 매력은 어디까지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/25414b22-6073-4ed4-85ef-9355ffc42076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FW 액세서리 트렌드 총정리]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59291</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 16:11:59 GMT</pubDate>
             <content:encoded><![CDATA[새 시즌을 위해 당신이 기억해야 할, 10가지의 뉴 액세서리 트렌드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/c30de3c2-b3a1-4a5d-9255-bebe730f82a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세는 핑크 브릿지? 핑크 하이라이트 헤어 여돌 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59197</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59197</guid>
-            <pubDate>Wed, 13 Oct 2021 10:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 제니, 에스파 지젤, ITZY 예지 중 당신이 꼽은 소화력 갑은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/93ab0c63-f111-486a-b209-f1036d40f893.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
