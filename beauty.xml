@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 07:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 08:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갑자기 추워지면 생기기 쉽다는 이 ‘질환’은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59262</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59262</guid>
+            <pubDate>Mon, 18 Oct 2021 08:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[가을은 어디 가고, 겨울 벌써 왔냐고? 요즘처럼 추운 날씨엔 감기 말고 조심해야 하는 병이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/2a564ef1-b0af-4ec6-9dbd-230f0048dbae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭉친 근육을 갓벽하게 풀어줄 스트레칭 방법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59244</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59244</guid>
+            <pubDate>Mon, 18 Oct 2021 08:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[숨은 턱! 통증은 윽! 온몸이 땅기고 뻐근하고, 그야말로 난리가 났다. 운동을 했는데도 개운...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/92c1954d-04c9-4730-8974-75b22f846a6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레저 활동에서 활용도 만점! 진정에 좋은 아웃도어 뷰티템]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59208</link>
@@ -53,22 +69,6 @@
             <pubDate>Mon, 11 Oct 2021 16:12:00 GMT</pubDate>
             <content:encoded><![CDATA[환절기 불쑥 찾아온 얼태기를 해결해줄 그린 코즈메틱.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/003bc3ba-a45d-4ec2-87c6-c2ab131b8e9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백신 접종 완료했다면 자가격리 없이 하와이 여행 가능? 네가 가라 하와이!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59157</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59157</guid>
-            <pubDate>Mon, 11 Oct 2021 01:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[슬기롭게 떠날 수 있는 하와이. 여행 준비는 물론 로컬 맛집까지 정리했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5eac8d9b-e6c9-431e-9269-20c691c75344.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 텍스처와 색감으로 완전 무장! 10가지 신상 립스틱]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59129</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59129</guid>
-            <pubDate>Sun, 10 Oct 2021 16:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 텍스처와 색감으로 무장한 10가지 신상 립의 화려한 배틀을 지금 시작한다. 그간 억...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/dcbca158-0c69-4033-9f41-4eca26b41de2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
