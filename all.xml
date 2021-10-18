@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 11:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 12:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,6 +360,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1f349de7-218b-4078-9ee3-7196efbe1dbe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요상한 꿈 많이 꾸면 그거 '병'일 수 있다고? (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58868</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58868</guid>
+            <pubDate>Mon, 18 Oct 2021 12:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[어제 꾼 그 꿈. 로또 살 게 아니라 ‘병’일 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/e4d35f4b-2ecc-425a-8257-6962909a7ad0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드디어 시즌3! <오티스의 비밀 상담소> 19금 좌표 모음 (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58852</link>
             <guid>https://www.cosmopolitan.co.kr/article/58852</guid>
@@ -414,14 +422,6 @@
             <pubDate>Sat, 02 Oct 2021 01:24:48 GMT</pubDate>
             <content:encoded><![CDATA[음식 보고 군침 싹 돌아 또 과식했다고? ‘명절 증후군’ 소화불량에 대처하는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/d0d71c1b-9190-4451-befd-75cf85dfaf64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕따 당한 친구를 구제해준 요즘 대세 댄서는 누구? #허니제이 의 입덕 포인트 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58659</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58659</guid>
-            <pubDate>Sat, 02 Oct 2021 01:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[학창시절 미담과 박재범과의 꿀케미까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/d628b9fb-cf61-4f54-b4f1-919e096b7a76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결제 각! 디즈니+ 한국 콘텐츠 라인업 (코스모폴리탄 코리아 ─ 라이프)]]></title>
