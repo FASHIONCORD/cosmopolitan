@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 03:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 04:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/57825</link>
+            <guid>https://www.cosmopolitan.co.kr/article/57825</guid>
+            <pubDate>Mon, 18 Oct 2021 04:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[말해 뭐해! 젠더 뉴트럴, 레트로 무드 등 요즘 떡상하는 올해의 뷰티 트렌드를 골라보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/19/4d0ae733-0f48-48f0-9aef-0eaa1212b649.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동! 난 재미로 해~ 요즘 인싸 운동 번지 피지오와 F45를 소개합니다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/57713</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
             <content:encoded><![CDATA[당신의 ‘레깅스 착용 가능 구역’은 어디까지?<br>원 마일 웨어, 애슬레저… 모든 트렌드...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/03/7f0875df-8077-426a-ab88-3ceb10e30f70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야, 너도 카톡 선물 할 수 있어!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55673</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55673</guid>
-            <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘카카오톡 선물하기’ 사용해 봤다면 클릭! 기프티콘을 넘어 명품 쇼핑까지 SSAP가능한 언택...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202105/31/4114bb61-b367-483c-a231-2bf89d1f0382.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
