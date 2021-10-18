@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 14:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 15:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니, 백예린, 고민시의 가을 원피스 레이어링 팁!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59306</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59306</guid>
+            <pubDate>Mon, 18 Oct 2021 15:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[레이어드할수록 매력적인 가을 원피스는 이런 느낌!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/5151bf67-ed80-458c-94c7-c2cd060346e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤아, 김고은, 슬기의 레전드 셔츠 스타일링 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59305</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 16:11:59 GMT</pubDate>
             <content:encoded><![CDATA[사랑스러움이 폭팔하는 그녀의 원피스 스타일링 파헤치기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/687bc9c0-3d22-4177-9128-ed7dda1d4902.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 돌아온 '로고' 트렌드, 가장 쉽게 스타일링 할 수 있는 주얼리 활용법!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59223</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59223</guid>
-            <pubDate>Wed, 13 Oct 2021 16:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[새 시즌을 위해 당신이 기억해야 할, 10가지의 뉴 액세서리 트렌드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/c30de3c2-b3a1-4a5d-9255-bebe730f82a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
