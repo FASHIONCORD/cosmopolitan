@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 05:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 06:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfMjgz/MDAxNjMyNDQxNzgyMDE5.Mcg9KGYJ0M06N5qDDnFhiOIapBWvjMZnkpOGaZ-H048g.VOog3qpB6DYiEap_zB5l5818M00wT2T0Xy1QSjiFlhIg.JPEG/I4jFKK7Dqdpr3wXptmtLlKMYWq4A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021년의 코르셋 스타일은?! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59368</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59368</guid>
+            <pubDate>Tue, 19 Oct 2021 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[여성을 억압하고 옥죄던 코르셋은 잊어라. 이제 코르셋은 사회적 의미를 벗어나 나를 표현하는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/8e894638-92da-4333-898e-be5b99848bc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스타일리시한 아웃도어 룩 활용법 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59338</link>
             <guid>https://www.cosmopolitan.co.kr/article/59338</guid>
@@ -223,14 +231,6 @@
             <pubDate>Thu, 14 Oct 2021 08:10:45 GMT</pubDate>
             <content:encoded><![CDATA[넘사벽 인맥 자랑하며 이번 파리 패션위크에서 역대급 스포트라이트를 받은 블랙핑크 멤버들. 그...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/70b3e7ba-0203-4fa3-be02-8118f28c6a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니, 슬기, 차정원의 꾸안꾸 연청 패션! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59266</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59266</guid>
-            <pubDate>Thu, 14 Oct 2021 08:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[가을이라고 누가 요새 다크하게만 입습니까, 환절기에 대처하는 셀럽들의 연청 룩을 살펴본다! ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/f7c94da0-1297-41aa-a50c-182ed52a39d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이시영,설현,유리도 반한 서울 야간 등산 코스 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/d0d71c1b-9190-4451-befd-75cf85dfaf64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에미넴과 저스틴 비버가 '노래한 대로' 장사를 한다고?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59418</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59418</guid>
+            <pubDate>Tue, 19 Oct 2021 06:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[노래한 대로~ 노래한 대로~ 에미넴은 디트로이트에 스파게티집을 열고, 저스틴 비버는 캘리포니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/f05da791-7662-48ff-a9e2-cfe64239cdf6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공개되자마자 넷플릭스 1위 찍은 화제작 <마이 네임> 존잼 포인트는?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59416</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59416</guid>
+            <pubDate>Tue, 19 Oct 2021 06:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[한소희의 한소희를 위한 여성 원톱 액션 누아르!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/ded397ef-19e8-49fc-8223-11822028f6d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[따뜻한 커피에 촉촉한 쿠키 한입! 요즘 핫한 서울 쿠키 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59414</link>
             <guid>https://www.cosmopolitan.co.kr/article/59414</guid>
@@ -470,22 +486,6 @@
             <pubDate>Mon, 18 Oct 2021 08:11:58 GMT</pubDate>
             <content:encoded><![CDATA[예쁜 애, 옆에 예쁜 애! 스페셜 싱글 앨범 'Talk &amp; Talk' 활동을 성공적으로 마친...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/2c6fdd4c-3ed0-4344-914b-53140550311f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흑화X시크한 프로미스나인의 'Talk & Talk' 퍼포먼스는 처음이지? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59390</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59390</guid>
-            <pubDate>Mon, 18 Oct 2021 08:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[시크해도 청량한 프롬이들의 검은맛 'Talk &amp; Talk' 포포먼쓰 최초공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/d695425c-1245-4ffa-9995-c8a12fa299fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 SNS에 '부캐' 하나쯤은 품고 사는 거잖아요 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59367</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59367</guid>
-            <pubDate>Mon, 18 Oct 2021 08:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[어느덧 팔이피플의 난장이 된 인스타그램, 말 많고 탈 많은 트위터, 블로그의 상위 호환 버전...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/c338ee5e-5194-4423-9625-c50ce3066bf3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
