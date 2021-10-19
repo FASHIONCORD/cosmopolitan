@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 02:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 03:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이시영,설현,유리도 반한 서울 야간 등산 코스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59345</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59345</guid>
+            <pubDate>Tue, 19 Oct 2021 03:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[‘가을 별빛이 내린’ 서울 야경을 한눈에 감상할 수 있는 그 곳! 등린이도 정복할 수 있는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/8f2ae0cc-03f7-4376-b0e9-13bcce095c78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야한 얘기하는 거 좋아해? 그럼 슬쩍 클릭해봐! 19금 섹스 토크 TPO]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59264</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59264</guid>
+            <pubDate>Tue, 19 Oct 2021 03:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[아무리 세상이 변했다지만 시조 때도 없이 섹스 이야기를 꺼냈다간 ‘넌씨눈’이 되기 십상. 섹...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/cd7efa4c-ddfe-4eca-8a8a-81057eeab3f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갑자기 추워지면 생기기 쉽다는 이 ‘질환’은 무엇?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59262</link>
@@ -29,7 +45,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/59208</guid>
             <pubDate>Mon, 18 Oct 2021 02:02:14 GMT</pubDate>
             <content:encoded><![CDATA[그림의 떡인 해외여행 대신 골프, 등산, 차박 등 레저 활동에 꽂힌 아웃도어족 컴온! 더도 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/ece47725-2ea6-4bd3-95f0-4af1750b5d6c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/ece47725-2ea6-4bd3-95f0-4af1750b5d6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대세는 핑크 브릿지? 핑크 하이라이트 헤어 여돌 5]]></title>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 13 Oct 2021 08:11:22 GMT</pubDate>
             <content:encoded><![CDATA[얇아진 지갑 사정 탓에 집중 안티에이징이 망설여지는 뷰티 쫄보들은 주목! n백만원 초고가 시...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d7759e77-0439-4f91-8d18-9cca93e3b6f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이생망 머릿결에 킹받는다면 필독해야할 헤어 관리 꿀TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59161</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59161</guid>
-            <pubDate>Tue, 12 Oct 2021 15:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[시들시들 흩날리는 최약체 머리카락 땜에 킹받네! 두피와 모발을 열불 나게 만드는 잦은 스타일...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/c5da1fcf-f43b-4035-833c-ec78aecaf815.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환절기 불쑥 찾아온 얼태기를 해결해줄 그린 코스메틱!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59159</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59159</guid>
-            <pubDate>Mon, 11 Oct 2021 16:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[환절기 불쑥 찾아온 얼태기를 해결해줄 그린 코즈메틱.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/003bc3ba-a45d-4ec2-87c6-c2ab131b8e9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
