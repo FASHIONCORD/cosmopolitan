@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 06:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 07:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글이 키운 스타트업 클라스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59408</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59408</guid>
+            <pubDate>Tue, 19 Oct 2021 07:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[될성부른 스타트업을 발굴하고 밀어주는 구글의 스타트업 지원 프로그램, ‘구글 스타트업 캠퍼스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/0b444787-cb86-42af-95fd-8c48aa3d4af4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에미넴과 저스틴 비버가 '노래한 대로' 장사를 한다고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59418</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Oct 2021 09:14:16 GMT</pubDate>
             <content:encoded><![CDATA[자꾸만 과몰입하게 되는 겉바속촉 &lt;스트릿 우먼 파이터 &gt;속 뇌리에 박힌 잊을 수 없는 장면은...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/39df2079-b44e-41bf-9372-c66e6b215ca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4세대 대표 걸그룹, 프로미스나인의 완전체 디지털 화보 최초공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59398</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59398</guid>
-            <pubDate>Mon, 18 Oct 2021 08:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[예쁜 애, 옆에 예쁜 애! 스페셜 싱글 앨범 'Talk &amp; Talk' 활동을 성공적으로 마친...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/2c6fdd4c-3ed0-4344-914b-53140550311f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
