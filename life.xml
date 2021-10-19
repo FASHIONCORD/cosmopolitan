@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 03:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 04:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피로도 녹이고, 몸도 녹여줄 제주 노천탕 스테이 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59410</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59410</guid>
+            <pubDate>Tue, 19 Oct 2021 04:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[몸과 마음을 말랑하게! 아늑한 제주도 노천 맛집을 소개합니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/21dd107b-5bef-43fd-aa06-3ee6a40a758a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결제 각! 디즈니+ 한국 콘텐츠 라인업]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59404</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Oct 2021 04:13:30 GMT</pubDate>
             <content:encoded><![CDATA[안 보면 아싸 각! 조회수 폭발하는 라이브 무대 하이라이트 모아 보기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/6319363e-8936-4dad-9988-da3c33d27e07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 드라마 전쟁 시작! 고현정과 이영애와 전지현이 동시에 드라마를 시작한다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59332</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59332</guid>
-            <pubDate>Mon, 18 Oct 2021 02:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[연기는 기본, 리즈는 매번 갱신된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/87aaf290-73a3-4492-9fac-8159ded7f72b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
