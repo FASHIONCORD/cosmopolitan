@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 11:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 12:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -423,6 +423,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/d0d71c1b-9190-4451-befd-75cf85dfaf64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인생 샷 SAAP 가능! 대전 둔산동 분위기 맛집 카페 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59436</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59436</guid>
+            <pubDate>Wed, 20 Oct 2021 12:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[어디서 찍어도 인생 샷을 건질 수 있습니다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/628b7328-cf97-46ce-a3f4-713e794c473b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[풍부한 우유맛 보장! 서울 신상 라떼 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59434</link>
             <guid>https://www.cosmopolitan.co.kr/article/59434</guid>
@@ -477,14 +485,6 @@
             <pubDate>Tue, 19 Oct 2021 05:09:55 GMT</pubDate>
             <content:encoded><![CDATA[따아에 달콤한 쿠키라니 이건 반칙이지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/71b0e8e1-baa2-4cc3-94ac-31f5b9cd189a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 '술 푸게' 하는 언니들! 본격 술 땡기는 프로그램 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59412</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59412</guid>
-            <pubDate>Tue, 19 Oct 2021 05:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[경고, 지나친 음주는 간경화와... 됐고, 적시자]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/49c9505c-0c12-4bd5-a979-e4a16633aabf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
