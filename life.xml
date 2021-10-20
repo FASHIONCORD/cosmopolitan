@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 08:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여배우 포스 작렬! 전소미의 어머니의 엄청난 미모가 화제라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59433</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59433</guid>
+            <pubDate>Wed, 20 Oct 2021 09:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[넘모 아름다워!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/87a03ba2-a016-4cb4-a12e-8bf6b2379677.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<너를 닮은 사람> 속 리즈 갱신한 고현정의 럭셔리 화가 패션 파헤치기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59432</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59432</guid>
+            <pubDate>Wed, 20 Oct 2021 09:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트 성공 후 리즈 갱신한 그녀의 럭셔리 패션 분석!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/fc40a517-6115-4c1a-ac34-496ad03075d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글이 키운 스타트업 클라스]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59408</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 04:13:50 GMT</pubDate>
             <content:encoded><![CDATA[몸과 마음을 말랑하게! 아늑한 제주도 노천 맛집을 소개합니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/21dd107b-5bef-43fd-aa06-3ee6a40a758a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결제 각! 디즈니+ 한국 콘텐츠 라인업]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59404</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59404</guid>
-            <pubDate>Mon, 18 Oct 2021 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일 상륙하는 디즈니+ 세계의 주목을 받는 한국 드라마 라인업]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/b89cff05-04d3-4dbf-aeb9-fc5d58df6069.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겉바속촉 <스우파> 명장면은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59377</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59377</guid>
-            <pubDate>Mon, 18 Oct 2021 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[자꾸만 과몰입하게 되는 겉바속촉 &lt;스트릿 우먼 파이터 &gt;속 뇌리에 박힌 잊을 수 없는 장면은...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/39df2079-b44e-41bf-9372-c66e6b215ca5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
