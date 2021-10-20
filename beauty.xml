@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 07:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 08:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 지수, 강혜원, 레드벨벳 조이 등 요즘 대세 픽한 ‘이 메이크업’은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59399</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59399</guid>
+            <pubDate>Wed, 20 Oct 2021 08:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[분위기 여신으로 변신 완료!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/64822a3d-6382-488f-957e-12b0f1e6ecdb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이시영,설현,유리도 반한 서울 야간 등산 코스]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59345</link>
@@ -61,14 +69,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/59188</guid>
             <pubDate>Wed, 13 Oct 2021 08:11:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/a48f8375-c9d3-4fed-9b64-baeab1a45aa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓성비 갑! 안티에이징 효과 좋은 뷰티 시술 & 아이템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59178</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59178</guid>
-            <pubDate>Wed, 13 Oct 2021 08:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[얇아진 지갑 사정 탓에 집중 안티에이징이 망설여지는 뷰티 쫄보들은 주목! n백만원 초고가 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d7759e77-0439-4f91-8d18-9cca93e3b6f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
