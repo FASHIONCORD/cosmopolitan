@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 12:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 13:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<갯마을 차차차> '식혜커플'처럼 어떻게든 티 내고 싶은 게 사랑! 비밀 연애 감지법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59093</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59093</guid>
+            <pubDate>Wed, 20 Oct 2021 13:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘우리 사실 연애해’라는 폭탄선언에 표정 변화 하나 없이 ‘어, 알아’라고 말하는 지인들. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/c513b879-a370-4b2c-b967-fbc6c71843aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요상한 꿈 많이 꾸면 그거 '병'일 수 있다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58868</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 17:09:23 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터 '수민'과 곧 방영 예정인 &lt;쇼미더머니 10&gt;의 프로듀서 '슬롬'이 만났다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/f3002966-dd38-4422-b428-fdd5c299f809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명절 음식 먹고 속 안 좋으면 이렇게 하라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58666</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58666</guid>
-            <pubDate>Thu, 07 Oct 2021 17:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[음식 보고 군침 싹 돌아 또 과식했다고? ‘명절 증후군’ 소화불량에 대처하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/d0d71c1b-9190-4451-befd-75cf85dfaf64.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
