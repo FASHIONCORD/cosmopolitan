@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 03:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인테리어 장인, 김나영이 최근에 산 빈티지 가구와 최애 빈티지 가구숍은 어디?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59437</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59437</guid>
+            <pubDate>Thu, 21 Oct 2021 03:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[김나영 언니와 빈티지 가구 매력에 빠질 시간!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/6dd675e4-975c-4392-9227-6aac277a816f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인생 샷 SAAP 가능! 대전 둔산동 분위기 맛집 카페 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59436</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 06:11:51 GMT</pubDate>
             <content:encoded><![CDATA[한소희의 한소희를 위한 여성 원톱 액션 누아르!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/ded397ef-19e8-49fc-8223-11822028f6d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따뜻한 커피에 촉촉한 쿠키 한입! 요즘 핫한 서울 쿠키 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59414</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59414</guid>
-            <pubDate>Tue, 19 Oct 2021 05:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[따아에 달콤한 쿠키라니 이건 반칙이지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/71b0e8e1-baa2-4cc3-94ac-31f5b9cd189a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
