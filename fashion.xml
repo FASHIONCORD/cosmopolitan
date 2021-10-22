@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 14:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 15:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[욕 나오는 일교차 극뽁 ‘환절기’ 패션 아이템 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59508</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59508</guid>
+            <pubDate>Fri, 22 Oct 2021 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[날씬해 보이는 방한 스타일링 팁도 있다구!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/62cbd324-5c60-46e1-9bdc-bd91816a26ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비니 뙇! 갠지 뙇! 손쉬운 비니 스타일링 TIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59507</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
             <content:encoded><![CDATA[다이어트 성공 후 리즈 갱신한 그녀의 럭셔리 패션 분석!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/fc40a517-6115-4c1a-ac34-496ad03075d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 나라지! 머리부터 발끝까지 사랑스러운 신민아의 굴욕없는 과거 사진 대방출]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59430</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59430</guid>
-            <pubDate>Thu, 21 Oct 2021 03:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[이게 나라지! 머리부터 발끝까지 사랑스러운 신민아의 굴욕없는 과거 사진 대방출]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/6b4bec78-a242-4127-a112-517364316abd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
