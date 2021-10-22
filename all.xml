@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 03:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 04:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/eaa72306-23a0-44c7-b232-40d822a18792.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뽀샵 한 줄? NCT 재현 ∙ BTS 정국 ∙ 뉴이스트 황민현 등 꿀 피부를 자랑하는 남돌의 피부관리법 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59429</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59429</guid>
+            <pubDate>Fri, 22 Oct 2021 04:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[매끈한 게 멀리서도 눈부시게 빛이 나!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/837c0cf3-3aff-4fc2-acc6-c4870c38b6c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[몸매 종결자, 이하늬가 통통함을 극복할 수 있었던 다이어트 비결 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59411</link>
             <guid>https://www.cosmopolitan.co.kr/article/59411</guid>
@@ -288,12 +296,28 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/92c1954d-04c9-4730-8974-75b22f846a6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레저 활동에서 활용도 만점! 진정에 좋은 아웃도어 뷰티템 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59208</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59208</guid>
-            <pubDate>Mon, 18 Oct 2021 02:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[그림의 떡인 해외여행 대신 골프, 등산, 차박 등 레저 활동에 꽂힌 아웃도어족 컴온! 더도 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/ece47725-2ea6-4bd3-95f0-4af1750b5d6c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[넌 요리할 때 제일 예뻐! 주방 조명 아래 빛나는 언니들 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59525</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59525</guid>
+            <pubDate>Fri, 22 Oct 2021 04:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[이 언니가 이렇게 예뻤나? 주방에서 칼 쓰고 불 쓰며 새 전성기를 맞은 스타들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/eae29803-a2ff-41e8-a750-1f935fe0e7fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워맨스가 필요해! 안방극장 달구는 드라마 속 여여(女女) 케미 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59524</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59524</guid>
+            <pubDate>Fri, 22 Oct 2021 04:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[고현정♥신현빈 VS 박은빈♥정채연, 당신의 픽은 누규?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/454d22fa-32c2-4d44-8add-2b7d71c509aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이런 말’이 가스라이팅의 신호라고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59523</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59523</guid>
+            <pubDate>Fri, 22 Oct 2021 04:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[당신이 대수롭지 않게 넘겼던 그 말, 혹시 가스라이팅의 시그널은 아닐까? 연인 간의 가스라이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f75cf5eb-84f5-4ea5-8563-6e397b86d9d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슬기, 장원영, 정채연의 롱원피스 패션은?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -336,28 +360,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ec0eb58b-64b0-4596-bc6d-79e68f6d91fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[9인 9색 '시크미' 매력 폭발한 프로미스나인, 이렇게 예쁘다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59481</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59481</guid>
-            <pubDate>Thu, 21 Oct 2021 04:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 컨셉도 찰떡, 도대체 소화 못하는 게 뭐야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/f2714039-f147-460f-8ffd-a2a6cfcae3bd.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 아린, 김성철, 전웅태가 입은 플리스재킷은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59443</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59443</guid>
-            <pubDate>Thu, 21 Oct 2021 03:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[환경은 물론 우리 삶에도 에너지의 선순환이 필요하다. 김성철, 아린, 전웅태가 전하는 긍정 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/f86a51d9-73f7-420f-8246-a8f16eb78943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어펜저스' 김정환, 김준호 선수의 멘탈 관리 비법은?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59435</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59435</guid>
-            <pubDate>Thu, 21 Oct 2021 03:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[펜싱 사브르 종목 국가대표 김정환 김준호 선수가 룰루레몬과 함께 전하는 피스트밖 일상과 멘탈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/390b7b8c-764f-4ba1-bca8-e5fbca37d2f9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[야한 얘기하는 거 좋아해? 그럼 슬쩍 클릭해봐! 19금 섹스 토크 TPO (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59264</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59264</guid>
+            <pubDate>Tue, 19 Oct 2021 03:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[아무리 세상이 변했다지만 시조 때도 없이 섹스 이야기를 꺼냈다간 ‘넌씨눈’이 되기 십상. 섹...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/cd7efa4c-ddfe-4eca-8a8a-81057eeab3f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공통점 대신 찾아주는 요즘 데이팅 앱이 있다고? (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -413,14 +421,6 @@
             <pubDate>Sat, 09 Oct 2021 20:10:33 GMT</pubDate>
             <content:encoded><![CDATA[전 세계를 사로잡은 넷플릭스 시리즈 &lt;오징어 게임&gt;. 호평 가득한 해외와 달리 국내에선 유사...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/2aad3877-74c0-4fd0-9801-67ff8c04953a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-드라마  <오징어게임>에서 발견한 짜릿한 배우들은 누구? (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58750</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58750</guid>
-            <pubDate>Wed, 06 Oct 2021 12:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[전세계 2위 등극한 K-드라마, 공유와 딱지치기 한 판?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/2817e6df-99a9-41d0-9c6b-9c474dd228e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한소희의 누아르 액션물, <마이 네임>이 클리셰 범벅이라고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
