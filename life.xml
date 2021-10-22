@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 00:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 02:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한소희의 누아르 액션물, <마이 네임>이 클리셰 범벅이라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59486</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59486</guid>
+            <pubDate>Fri, 22 Oct 2021 02:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[보는 내내 기시감을 선사했던 &lt;마이 네임&gt;의 클리셰스러운 요소들, 코스모가 짚어봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ec0eb58b-64b0-4596-bc6d-79e68f6d91fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9인 9색 '시크미' 매력 폭발한 프로미스나인, 이렇게 예쁘다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59481</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 09:11:30 GMT</pubDate>
             <content:encoded><![CDATA[다이어트 성공 후 리즈 갱신한 그녀의 럭셔리 패션 분석!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/fc40a517-6115-4c1a-ac34-496ad03075d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글이 키운 스타트업 클라스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59408</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59408</guid>
-            <pubDate>Tue, 19 Oct 2021 07:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[될성부른 스타트업을 발굴하고 밀어주는 구글의 스타트업 지원 프로그램, ‘구글 스타트업 캠퍼스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/0b444787-cb86-42af-95fd-8c48aa3d4af4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

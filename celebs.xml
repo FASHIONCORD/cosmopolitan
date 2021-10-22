@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 00:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 02:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬기, 장원영, 정채연의 롱원피스 패션은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59506</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59506</guid>
+            <pubDate>Fri, 22 Oct 2021 02:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[샌들부터 스타킹, 시스루까지, 꿀팁 대방출. 이래도 안 들어올 거? 참, 다리 길어 보이는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/834b4ad2-7e1e-4128-a238-72d2e1e7eb39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포근한 잇템! 셀럽들의 '스카프' 스타일링 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59504</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 03:10:18 GMT</pubDate>
             <content:encoded><![CDATA[펜싱 사브르 종목 국가대표 김정환 김준호 선수가 룰루레몬과 함께 전하는 피스트밖 일상과 멘탈...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/390b7b8c-764f-4ba1-bca8-e5fbca37d2f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여배우 포스 작렬! 전소미의 어머니의 엄청난 미모가 화제라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59433</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59433</guid>
-            <pubDate>Thu, 21 Oct 2021 02:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[넘모 아름다워!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/87a03ba2-a016-4cb4-a12e-8bf6b2379677.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

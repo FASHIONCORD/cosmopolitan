@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 00:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 02:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공통점 대신 찾아주는 요즘 데이팅 앱이 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59191</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59191</guid>
+            <pubDate>Fri, 22 Oct 2021 02:06:38 GMT</pubDate>
+            <content:encoded><![CDATA[목적이 연애뿐인 데이팅 앱에서 일말의 로맨스까지 꿈꾸는 이들을 위해, 화려한 스펙 칠갑이 다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/8278974a-d0b8-40ee-a7a5-4a78da0508fc.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[우주 최강 섹스 테크닉, '비너스 퍼터플라이'가 뭔데?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59175</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 07 Oct 2021 17:09:23 GMT</pubDate>
             <content:encoded><![CDATA[전세계 2위 등극한 K-드라마, 공유와 딱지치기 한 판?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/2817e6df-99a9-41d0-9c6b-9c474dd228e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선섹스 후연애! 요즘 세대 연애 방식?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58739</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58739</guid>
-            <pubDate>Thu, 07 Oct 2021 17:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[사랑에 순서가 어디있겠냐만은 여전히 뜨거운 갑론을박이 계속되고 있는 선섹스 후연애. 코스모가...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/c211542d-69f3-4274-862b-730aca574d4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
