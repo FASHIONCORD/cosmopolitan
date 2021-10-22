@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 06:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아무도 없는 숲속에서 조용히 힐링하고 싶다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59501</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59501</guid>
+            <pubDate>Fri, 22 Oct 2021 06:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[겨울이 제철인 숲 속 스테이는 어떠한가.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/78e5b7bb-468a-4652-976b-8ab7847e7a28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울바다와 바다예술제 보러 부산? 그렇다면 가오픈 카페는 필수 코스!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59487</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59487</guid>
+            <pubDate>Fri, 22 Oct 2021 06:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[처음 열리는 부산 바다예술제 갔다면 카페는 이쪽으로 출첵!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/17f0b2cf-7d3d-4ac3-a152-a02b42417f9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한소희의 누아르 액션물, <마이 네임>이 클리셰 범벅이라고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59486</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 11:10:44 GMT</pubDate>
             <content:encoded><![CDATA[GOD 오픈한 신상 라떼 맛집만 모았어요]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/06b92f15-dd07-468e-9009-26688f3ccacb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여배우 포스 작렬! 전소미의 어머니의 엄청난 미모가 화제라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59433</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59433</guid>
-            <pubDate>Wed, 20 Oct 2021 09:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[넘모 아름다워!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/87a03ba2-a016-4cb4-a12e-8bf6b2379677.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<너를 닮은 사람> 속 리즈 갱신한 고현정의 럭셔리 화가 패션 파헤치기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59432</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59432</guid>
-            <pubDate>Wed, 20 Oct 2021 09:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 성공 후 리즈 갱신한 그녀의 럭셔리 패션 분석!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/fc40a517-6115-4c1a-ac34-496ad03075d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
