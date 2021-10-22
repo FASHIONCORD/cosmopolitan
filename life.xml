@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 10:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 11:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워맨스가 필요해! 안방극장 달구는 드라마 속 여여(女女) 케미]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59524</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59524</guid>
+            <pubDate>Fri, 22 Oct 2021 11:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[고현정♥신현빈 VS 박은빈♥정채연, 당신의 픽은 누규?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/454d22fa-32c2-4d44-8add-2b7d71c509aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아무도 없는 숲속에서 조용히 힐링하고 싶다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59501</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 12:15:56 GMT</pubDate>
             <content:encoded><![CDATA[어디서 찍어도 인생 샷을 건질 수 있습니다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/628b7328-cf97-46ce-a3f4-713e794c473b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍부한 우유맛 보장! 서울 신상 라떼 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59434</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59434</guid>
-            <pubDate>Wed, 20 Oct 2021 11:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[GOD 오픈한 신상 라떼 맛집만 모았어요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/06b92f15-dd07-468e-9009-26688f3ccacb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
