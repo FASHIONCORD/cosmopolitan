@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 17:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 18:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷 잘 입는다고 소문난 김무열&윤승아, 정승민&장윤주, 김원중&곽지영, 봉태규&하시시박 부부의 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59528</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59528</guid>
+            <pubDate>Sat, 23 Oct 2021 18:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[‘사랑하면 닮는다’ 패션까지 닮아가는 연예계 패셔니스타 부부!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/b8d2c8ea-1e5a-4cec-a534-44f412df435a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[욕 나오는 일교차 극뽁 ‘환절기’ 패션 아이템 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59508</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
             <content:encoded><![CDATA[바쁜 일상에서 벗어나 자연 속 캠핑의 매력에 빠진 송강의 하루.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/58a30982-9c09-4062-bfc2-0b672f58c15f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<너를 닮은 사람> 속 리즈 갱신한 고현정의 럭셔리 화가 패션 파헤치기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59432</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59432</guid>
-            <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 성공 후 리즈 갱신한 그녀의 럭셔리 패션 분석!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/fc40a517-6115-4c1a-ac34-496ad03075d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
