@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 16:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 17:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버추얼 인플루언서 로지와 판도라의 핑크빛 만남!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59572</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59572</guid>
+            <pubDate>Mon, 25 Oct 2021 17:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[한국 최초의 버추얼 인플루언서 로지와 덴마크 주얼리 브랜드 판도라의 만남을 코스모폴리탄이 포...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/9f8fcac1-4bda-4a52-812d-126f8ed4c401.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유리 멘탈러들 필독! 펜싱 선수 김정환&김준호, 금메달 딴 '찐' 멘탈 케어 비법은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59558</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 09:18:24 GMT</pubDate>
             <content:encoded><![CDATA[패턴, 핏에 따라 다양하게 코디해보는 가을 니트 베스트]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/567e949f-c77b-4f79-ae04-564f8a3c98e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포근한 잇템! 셀럽들의 '스카프' 스타일링 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59504</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59504</guid>
-            <pubDate>Thu, 21 Oct 2021 09:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 무드 연출이 가능한 팔색조 매력의 아이템 스카프!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f79765d3-16f9-42f7-b199-2f2ff7439d47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
