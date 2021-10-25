@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 07:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 08:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리정 노출 절대 지켜! 영보스, YGX 리정X여진의 범접 불가 댄스 배틀]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59560</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59560</guid>
+            <pubDate>Mon, 25 Oct 2021 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[리정과 여진의 부드러운 움직임에 정신 혼미해짐 주의!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/5dcd370b-cbc2-4bd5-a6ac-ac341dcc2030.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유리 멘탈러들 필독! 펜싱 선수 김정환&김준호, 금메달 딴 '찐' 멘탈 케어 비법은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59558</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 10:11:49 GMT</pubDate>
             <content:encoded><![CDATA[시크한 컨셉도 찰떡, 도대체 소화 못하는 게 뭐야!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/f2714039-f147-460f-8ffd-a2a6cfcae3bd.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[곱창집에서 주는 생간, 안 익은 가지 등 이 음식 먹으면 안된다고? 혼란하다, 혼란해!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59477</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59477</guid>
-            <pubDate>Thu, 21 Oct 2021 10:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[먹는 게 세상에서 제일 좋아도, 그래도 고민될 때가 있다. 먹어도 되나 긴가민가한 ‘그 음식...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/a2b19a2e-9f16-4568-a273-b9e169a3e1e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
