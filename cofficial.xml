@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 06:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 07:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인플루언서 꿈나무 VS 어둠의 일기 부계정, SNS 사용 패턴은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58255</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58255</guid>
+            <pubDate>Mon, 25 Oct 2021 07:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[기나긴 '방콕 생활'이 시작되며 스크린 타임은 늘어만 가고... 모두가 갇혀버린 네모난 SN...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/03/bda2c573-e0cd-4246-8cab-49241bdcb47f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/57825</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
             <content:encoded><![CDATA[‘빨리빨리의 민족’은 여름을 앞두고 어김없이 효율적인 운동을 찾아 헤맨다. 여기 소개하는 8...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/07/41fb97ed-b0ab-4209-b179-83c7c2c1a377.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[레깅스, 어디까지 가능?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55794</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55794</guid>
-            <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 ‘레깅스 착용 가능 구역’은 어디까지?<br>원 마일 웨어, 애슬레저… 모든 트렌드...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/03/7f0875df-8077-426a-ab88-3ceb10e30f70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
