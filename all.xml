@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 00:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 01:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDNfMTQw/MDAxNjMzMjI5MTkyNDg0.zbCDwNkkvIAU2xxNdtF2H1a10ywD4I2FgW_k78JrthYg.87sg-gBnoroNYpGltfISmJuswhvc0K_1TWOJpZvoS6Ug.JPEG/IhcfZLf2n36lgZUtRgNwQPbrPmQs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로퍼, 클래식 or 펑크? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59531</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59531</guid>
+            <pubDate>Mon, 25 Oct 2021 01:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[러블리하거나 힙하거나, 나의 로퍼 스타일은 어느 쪽?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/4827e5ad-2c92-460e-8d78-d8f1fec4b349.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[옷 잘 입는다고 소문난 김무열&윤승아, 정승민&장윤주, 김원중&곽지영, 봉태규&하시시박 부부의 패션 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59528</link>
             <guid>https://www.cosmopolitan.co.kr/article/59528</guid>
@@ -222,14 +230,6 @@
             <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
             <content:encoded><![CDATA[10월 넷째주 코스모 Pick 패션 뉴스]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ddf675de-971d-41b1-87af-d5525061be69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을과 겨울 사이, 송강과 머렐 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59442</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59442</guid>
-            <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[바쁜 일상에서 벗어나 자연 속 캠핑의 매력에 빠진 송강의 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/58a30982-9c09-4062-bfc2-0b672f58c15f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뽀샵 한 줄? NCT 재현 ∙ BTS 정국 ∙ 뉴이스트 황민현 등 꿀 피부를 자랑하는 남돌의 피부관리법 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,6 +296,30 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/92c1954d-04c9-4730-8974-75b22f846a6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<지리산> 고민시, 신인상 타기 전에 똥꿈 꿨다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59564</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59564</guid>
+            <pubDate>Mon, 25 Oct 2021 01:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[“촬영 현장에 피가 튈 때 에너지를 받아요.” 연기에 대한 순수한 열정과 강렬한 취향으로 무...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ee4239b4-de47-4d4e-af6f-bc6afa8cdcdd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리정 노출 절대 지켜! 영보스, YGX 리정X여진의 범접 불가 댄스 배틀 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59560</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59560</guid>
+            <pubDate>Mon, 25 Oct 2021 01:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[리정과 여진의 부드러운 움직임에 정신 혼미해짐 주의!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/5dcd370b-cbc2-4bd5-a6ac-ac341dcc2030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유리 멘탈러들 필독! 펜싱 선수 김정환&김준호, 금메달 딴 '찐' 멘탈 케어 비법은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59558</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59558</guid>
+            <pubDate>Mon, 25 Oct 2021 01:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[두 명의 골드 멘탈리스트가 전하는 정신 건강에서 승리하는 조언을 참고할 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6b68d06a-d0fe-4fcf-8f90-e83783e63126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[옷 잘 입는다고 소문난 김무열&윤승아, 정승민&장윤주, 김원중&곽지영, 봉태규&하시시박 부부의 패션 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59528</link>
             <guid>https://www.cosmopolitan.co.kr/article/59528</guid>
@@ -336,28 +360,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/834b4ad2-7e1e-4128-a238-72d2e1e7eb39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포근한 잇템! 셀럽들의 '스카프' 스타일링 5 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59504</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59504</guid>
-            <pubDate>Thu, 21 Oct 2021 09:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 무드 연출이 가능한 팔색조 매력의 아이템 스카프!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f79765d3-16f9-42f7-b199-2f2ff7439d47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전소미 패션브랜드 모델 등판부터 더 현대 서울 CDG 팝업까지! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59502</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59502</guid>
-            <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[10월 넷째주 코스모 Pick 패션 뉴스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ddf675de-971d-41b1-87af-d5525061be69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽이 말고 정호연은 어떤 사람? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59496</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59496</guid>
+            <title><![CDATA[한소희의 누아르 액션물, <마이 네임>이 클리셰 범벅이라고? (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59486</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59486</guid>
             <pubDate>Thu, 21 Oct 2021 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[기회를 자신의 운명으로 만든 정호연. &lt;오징어 게임&gt;에서 선보인 첫 연기로 놀라운 성과를 낸...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/edae75ee-2a90-4df5-9914-305aaf9563e5.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[보는 내내 기시감을 선사했던 &lt;마이 네임&gt;의 클리셰스러운 요소들, 코스모가 짚어봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ec0eb58b-64b0-4596-bc6d-79e68f6d91fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[섹스를 미룬다고? 쾌감을 참는 게 아니야! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -413,14 +421,6 @@
             <pubDate>Wed, 13 Oct 2021 07:10:15 GMT</pubDate>
             <content:encoded><![CDATA[좌표만 봐도 한 눈에 보이는 오티스-메이브의 감질맛 나는 서사!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/86b5d20d-cfd5-4106-9ee5-691725001855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경이 베개싸움하고, 서지혜가 뿅망치 맞던 시절의 연애 리얼리티? (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58813</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58813</guid>
-            <pubDate>Sun, 10 Oct 2021 17:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;짝&gt;과 &lt;하트시그널&gt;부터 &lt;환승연애&gt;까지 연애 리얼리티 원조, &lt;산장 미팅: 장미의 전쟁&gt;...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/61c35e2d-0f0f-4a8b-b53f-53822e6b2ee1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워맨스가 필요해! 안방극장 달구는 드라마 속 여여(女女) 케미 (코스모폴리탄 코리아 ─ 라이프)]]></title>

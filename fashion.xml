@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 00:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 01:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로퍼, 클래식 or 펑크?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59531</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59531</guid>
+            <pubDate>Mon, 25 Oct 2021 01:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[러블리하거나 힙하거나, 나의 로퍼 스타일은 어느 쪽?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/4827e5ad-2c92-460e-8d78-d8f1fec4b349.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷 잘 입는다고 소문난 김무열&윤승아, 정승민&장윤주, 김원중&곽지영, 봉태규&하시시박 부부의 패션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59528</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
             <content:encoded><![CDATA[10월 넷째주 코스모 Pick 패션 뉴스]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ddf675de-971d-41b1-87af-d5525061be69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을과 겨울 사이, 송강과 머렐]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59442</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59442</guid>
-            <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[바쁜 일상에서 벗어나 자연 속 캠핑의 매력에 빠진 송강의 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/58a30982-9c09-4062-bfc2-0b672f58c15f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

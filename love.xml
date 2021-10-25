@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 00:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 01:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한소희의 누아르 액션물, <마이 네임>이 클리셰 범벅이라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59486</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59486</guid>
+            <pubDate>Mon, 25 Oct 2021 01:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[보는 내내 기시감을 선사했던 &lt;마이 네임&gt;의 클리셰스러운 요소들, 코스모가 짚어봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ec0eb58b-64b0-4596-bc6d-79e68f6d91fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섹스를 미룬다고? 쾌감을 참는 게 아니야!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59420</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 13 Oct 2021 07:10:15 GMT</pubDate>
             <content:encoded><![CDATA[좌표만 봐도 한 눈에 보이는 오티스-메이브의 감질맛 나는 서사!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/86b5d20d-cfd5-4106-9ee5-691725001855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경이 베개싸움하고, 서지혜가 뿅망치 맞던 시절의 연애 리얼리티?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58813</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58813</guid>
-            <pubDate>Sun, 10 Oct 2021 17:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;짝&gt;과 &lt;하트시그널&gt;부터 &lt;환승연애&gt;까지 연애 리얼리티 원조, &lt;산장 미팅: 장미의 전쟁&gt;...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/61c35e2d-0f0f-4a8b-b53f-53822e6b2ee1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
