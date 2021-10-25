@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 02:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 03:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뒤늦은 사과, 끝나지 않은 논란? 김선호에 대한 엇갈린 추세]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59565</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59565</guid>
+            <pubDate>Mon, 25 Oct 2021 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[단 며칠 만에 폭로 글, 사과문, 폭로자의 신상부터 지인의 폭로예고까지. 다사다난했던 김선호...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ac8afb9e-4f11-477a-a88a-362872478167.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<지리산> 고민시, 신인상 타기 전에 똥꿈 꿨다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59564</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 04:11:39 GMT</pubDate>
             <content:encoded><![CDATA[당신이 대수롭지 않게 넘겼던 그 말, 혹시 가스라이팅의 시그널은 아닐까? 연인 간의 가스라이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f75cf5eb-84f5-4ea5-8563-6e397b86d9d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬기, 장원영, 정채연의 롱원피스 패션은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59506</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59506</guid>
-            <pubDate>Fri, 22 Oct 2021 02:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[샌들부터 스타킹, 시스루까지, 꿀팁 대방출. 이래도 안 들어올 거? 참, 다리 길어 보이는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/834b4ad2-7e1e-4128-a238-72d2e1e7eb39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
