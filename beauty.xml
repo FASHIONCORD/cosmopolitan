@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 05:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 06:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이런 말’이 가스라이팅의 신호라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59523</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59523</guid>
+            <pubDate>Mon, 25 Oct 2021 06:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[당신이 대수롭지 않게 넘겼던 그 말, 혹시 가스라이팅의 시그널은 아닐까? 연인 간의 가스라이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f75cf5eb-84f5-4ea5-8563-6e397b86d9d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아무도 없는 숲속에서 조용히 힐링하고 싶다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59501</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 08:10:45 GMT</pubDate>
             <content:encoded><![CDATA[분위기 여신으로 변신 완료!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/64822a3d-6382-488f-957e-12b0f1e6ecdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시영,설현,유리도 반한 서울 야간 등산 코스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59345</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59345</guid>
-            <pubDate>Tue, 19 Oct 2021 03:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[‘가을 별빛이 내린’ 서울 야경을 한눈에 감상할 수 있는 그 곳! 등린이도 정복할 수 있는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/8f2ae0cc-03f7-4376-b0e9-13bcce095c78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 05:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 06:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유리 멘탈러들 필독! 펜싱 선수 김정환&김준호, 금메달 딴 '찐' 멘탈 케어 비법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59558</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59558</guid>
+            <pubDate>Mon, 25 Oct 2021 06:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[두 명의 골드 멘탈리스트가 전하는 정신 건강에서 승리하는 조언을 참고할 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6b68d06a-d0fe-4fcf-8f90-e83783e63126.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로퍼, 클래식 or 펑크?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59531</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 09:18:24 GMT</pubDate>
             <content:encoded><![CDATA[다양한 무드 연출이 가능한 팔색조 매력의 아이템 스카프!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f79765d3-16f9-42f7-b199-2f2ff7439d47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전소미 패션브랜드 모델 등판부터 더 현대 서울 CDG 팝업까지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59502</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59502</guid>
-            <pubDate>Thu, 21 Oct 2021 04:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[10월 넷째주 코스모 Pick 패션 뉴스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ddf675de-971d-41b1-87af-d5525061be69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
