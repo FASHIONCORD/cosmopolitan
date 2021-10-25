@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 03:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 04:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유리 멘탈러들 필독! 펜싱 선수 김정환&김준호, 금메달 딴 '찐' 멘탈 케어 비법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59558</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59558</guid>
+            <pubDate>Mon, 25 Oct 2021 04:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[두 명의 골드 멘탈리스트가 전하는 정신 건강에서 승리하는 조언을 참고할 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6b68d06a-d0fe-4fcf-8f90-e83783e63126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넌 요리할 때 제일 예뻐! 주방 조명 아래 빛나는 언니들 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59525</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59525</guid>
+            <pubDate>Mon, 25 Oct 2021 04:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[이 언니가 이렇게 예뻤나? 주방에서 칼 쓰고 불 쓰며 새 전성기를 맞은 스타들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/eae29803-a2ff-41e8-a750-1f935fe0e7fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워맨스가 필요해! 안방극장 달구는 드라마 속 여여(女女) 케미]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59524</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 10:11:49 GMT</pubDate>
             <content:encoded><![CDATA[먹는 게 세상에서 제일 좋아도, 그래도 고민될 때가 있다. 먹어도 되나 긴가민가한 ‘그 음식...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/a2b19a2e-9f16-4568-a273-b9e169a3e1e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인테리어 장인, 김나영이 최근에 산 빈티지 가구와 최애 빈티지 가구숍은 어디?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59437</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59437</guid>
-            <pubDate>Thu, 21 Oct 2021 03:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[김나영 언니와 빈티지 가구 매력에 빠질 시간!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/6dd675e4-975c-4392-9227-6aac277a816f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생 샷 SAAP 가능! 대전 둔산동 분위기 맛집 카페 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59436</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59436</guid>
-            <pubDate>Wed, 20 Oct 2021 12:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[어디서 찍어도 인생 샷을 건질 수 있습니다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/628b7328-cf97-46ce-a3f4-713e794c473b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
