@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 04:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 05:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/64822a3d-6382-488f-957e-12b0f1e6ecdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김혜수, 김나영, 이혜성은 모두 워커 홀릭? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59616</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59616</guid>
+            <pubDate>Tue, 26 Oct 2021 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[맛집 탐험, 다이어트, 여행, 운동 등등 목적은 제각각! 김혜수, 김나영, 이혜성 모두 걷는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/e1602827-0a56-4fa7-ac40-20ff53f62b63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오은영 박사가 알려주는 어른이들을 위한 상담소 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59612</link>
             <guid>https://www.cosmopolitan.co.kr/article/59612</guid>
@@ -350,14 +358,6 @@
             <pubDate>Mon, 25 Oct 2021 01:55:47 GMT</pubDate>
             <content:encoded><![CDATA[“촬영 현장에 피가 튈 때 에너지를 받아요.” 연기에 대한 순수한 열정과 강렬한 취향으로 무...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ee4239b4-de47-4d4e-af6f-bc6afa8cdcdd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리정 노출 절대 지켜! 영보스, YGX 리정X여진의 범접 불가 댄스 배틀 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59560</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59560</guid>
-            <pubDate>Mon, 25 Oct 2021 01:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[리정과 여진의 부드러운 움직임에 정신 혼미해짐 주의!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/5dcd370b-cbc2-4bd5-a6ac-ac341dcc2030.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이런 말’이 가스라이팅의 신호라고? (코스모폴리탄 코리아 ─ 러브)]]></title>
