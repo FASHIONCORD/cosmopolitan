@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 09:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 10:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32582392&amp;memberNo=11800362</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32582392&amp;memberNo=11800362</guid>
             <pubDate>Tue, 26 Oct 2021 09:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[모조에스핀을 입은 우리들의 슈퍼 뮤지션. ▼ 클릭 ▼(프리뷰) www.cosmopolitan.co.kr ▼ 클릭 ▼&lt;슈퍼밴드2&gt; 뮤지션 7인 X 모조에스핀 기획전 보러가기  예지가 입은 더블 칼라 리본 블라우스, 블랙 트위드 쇼트···]]></content:encoded>
+            <content:encoded><![CDATA[모조에스핀을 입은 우리들의 슈퍼 뮤지션.▼ 클릭 ▼▼ 클릭 ▼ &lt;슈퍼밴드2&gt; 뮤지션 7인 X 모조에스핀 기획전 보러가기]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMjQ2/MDAxNjM0NjI4NDk4MTM4.YUVOHfCL5wtr2RuibCIcNwL0mRjgenHRoJFqtqiV_GYg.4jHnwU6abGhGG6hpxkuscu2n5hF8ci5UvGl91ypTqlgg.JPEG/I4rf301VeSJGj_OpJa2TUwCx-aZk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDZfMTQx/MDAxNjMzNTAwNjQyMTUw.9eKWzvYIQZGQkBM9nNikEtHzV3k-L19rHr3Ufl9rZpQg.40pF6QXWP-yCR24lwzTqMjE_0n5Ivx94BvFhnwAJQNMg.JPEG/INWwOcH0XK1evYrpfzEDx8K-eoFY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SK8ER GIRL (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59594</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59594</guid>
+            <pubDate>Tue, 26 Oct 2021 10:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[흩날리는 튈, 반짝이는 시퀸…. 스케이트보드 위에서 생동하는 화려한 룩!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/925d789e-40b9-48e5-a0ee-6b75a17b78ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셀럽들의 골프 웨어 스타일링 BEST 921 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59586</link>
             <guid>https://www.cosmopolitan.co.kr/article/59586</guid>
@@ -222,14 +230,6 @@
             <pubDate>Fri, 22 Oct 2021 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[다들 비니 하나쯤은 있잖아? 물 아끼자, 지금 바로 옷장으로 고고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ff4cb55d-4b61-46c0-881c-ea89f4214ce0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬기, 장원영, 정채연의 롱원피스 패션은?! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59506</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59506</guid>
-            <pubDate>Fri, 22 Oct 2021 02:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[샌들부터 스타킹, 시스루까지, 꿀팁 대방출. 이래도 안 들어올 거? 참, 다리 길어 보이는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/834b4ad2-7e1e-4128-a238-72d2e1e7eb39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이런 말’이 가스라이팅의 신호라고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
