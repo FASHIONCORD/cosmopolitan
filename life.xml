@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 03:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 04:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오은영 박사가 알려주는 어른이들을 위한 상담소]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59612</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59612</guid>
+            <pubDate>Wed, 27 Oct 2021 04:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[어린이부터 어른까지 전국민 멘탈 케어 전문가로 나선 오은영 박사님이 알려주는 어른이들을 위한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/7555f34a-ec8a-42d8-94bc-5000c61798e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유미의 세포들> 유미처럼 우연히 전남친 만난 ssul]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59577</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59577</guid>
+            <pubDate>Wed, 27 Oct 2021 04:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;유미의 세포들&gt;에서 유미는 전남친 우기를 만나고 세상 킹쿨한 모습을 보였는데, 이게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ca494b6d-2823-429b-aa23-77c7d1db482c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<바퀴 달린 집>에 나온 그곳? 노지 캠핑 맛집 알려드림!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59562</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 06:12:21 GMT</pubDate>
             <content:encoded><![CDATA[겨울이 제철인 숲 속 스테이는 어떠한가.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/78e5b7bb-468a-4652-976b-8ab7847e7a28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울바다와 바다예술제 보러 부산? 그렇다면 가오픈 카페는 필수 코스!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59487</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59487</guid>
-            <pubDate>Fri, 22 Oct 2021 06:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[처음 열리는 부산 바다예술제 갔다면 카페는 이쪽으로 출첵!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/17f0b2cf-7d3d-4ac3-a152-a02b42417f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희의 누아르 액션물, <마이 네임>이 클리셰 범벅이라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59486</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59486</guid>
-            <pubDate>Fri, 22 Oct 2021 02:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[보는 내내 기시감을 선사했던 &lt;마이 네임&gt;의 클리셰스러운 요소들, 코스모가 짚어봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ec0eb58b-64b0-4596-bc6d-79e68f6d91fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
