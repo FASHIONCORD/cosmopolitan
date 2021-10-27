@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 08:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 09:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올가을 핫한 명품 백&슈즈 모음]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59638</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59638</guid>
+            <pubDate>Wed, 27 Oct 2021 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 액세서리가 선사하는 매혹적인 무브먼트! 이번 시즌 백&amp;슈즈 키워드가 바로 여기에 있다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/09a0a40a-8641-4681-9b36-7143678b60a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈 부시게 빛나는 정호연]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59621</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 01:55:01 GMT</pubDate>
             <content:encoded><![CDATA[러블리하거나 힙하거나, 나의 로퍼 스타일은 어느 쪽?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/4827e5ad-2c92-460e-8d78-d8f1fec4b349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷 잘 입는다고 소문난 김무열&윤승아, 정승민&장윤주, 김원중&곽지영, 봉태규&하시시박 부부의 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59528</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59528</guid>
-            <pubDate>Sat, 23 Oct 2021 18:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[‘사랑하면 닮는다’ 패션까지 닮아가는 연예계 패셔니스타 부부!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/b8d2c8ea-1e5a-4cec-a534-44f412df435a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
