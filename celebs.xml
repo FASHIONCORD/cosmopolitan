@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 05:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 06:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스우파 시즌2> 뽐뿌 오는 B컷 화보 대방출]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60673</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60673</guid>
+            <pubDate>Wed, 27 Oct 2021 06:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[그.. 저기 뭐냐, 아직 스우파에 빠져 계시잖아요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/11b19ac2-88c2-4a42-b3f0-612a7fc6a6ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내 베일 벗은 미스테리 산악 드라마 <지리산>에 관한 모든 TMI]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60671</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[맛집 탐험, 다이어트, 여행, 운동 등등 목적은 제각각! 김혜수, 김나영, 이혜성 모두 걷는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/e1602827-0a56-4fa7-ac40-20ff53f62b63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오은영 박사가 알려주는 어른이들을 위한 상담소]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59612</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59612</guid>
-            <pubDate>Mon, 25 Oct 2021 13:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[어린이부터 어른까지 전국민 멘탈 케어 전문가로 나선 오은영 박사님이 알려주는 어른이들을 위한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/7555f34a-ec8a-42d8-94bc-5000c61798e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
