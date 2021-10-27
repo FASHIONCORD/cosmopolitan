@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 14:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 15:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDZfMTQ4/MDAxNjMzNTAwOTk4MzUz.ur9qzfAplrerNe1VSfmMQLvpJQnR2h3-tCLF4lOdEwMg.BlHyQfZqf8TX36dWiWo-DhPixFHa1STh2EwfokGdkP0g.JPEG/IBuBoBL5B8skU6AWYPC43_LGkQiI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시험 기간에 딱 좋은 ‘에코백’! 셀럽들의 에코백 패션 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60709</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60709</guid>
+            <pubDate>Wed, 27 Oct 2021 15:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[무거운 전공 책 들쳐 메고 다닐때 좋은 꾸안꾸 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/945d283a-dfe7-46ad-851a-64cf66b9e1e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스우파 허니제이, 리헤이, 노제의 프리스타일 춤선비교 직캠! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60700</link>
             <guid>https://www.cosmopolitan.co.kr/article/60700</guid>
@@ -224,7 +232,15 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/30a44b98-d527-47fe-8e8f-3debcc6f9055.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[출시되자마자 동났다! 스타가 완전 사랑하는 이미스 헤어밴드 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <title><![CDATA[오은영 박사가 알려주는 어른이들을 위한 상담소 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59612</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59612</guid>
+            <pubDate>Wed, 27 Oct 2021 15:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[어린이부터 어른까지 전국민 멘탈 케어 전문가로 나선 오은영 박사님이 알려주는 어른이들을 위한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/7555f34a-ec8a-42d8-94bc-5000c61798e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출시되자마자 동났다! 스타가 완전 사랑하는 이미스 헤어밴드 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59611</link>
             <guid>https://www.cosmopolitan.co.kr/article/59611</guid>
             <pubDate>Mon, 25 Oct 2021 13:19:31 GMT</pubDate>
@@ -278,22 +294,6 @@
             <pubDate>Fri, 22 Oct 2021 04:11:07 GMT</pubDate>
             <content:encoded><![CDATA[매끈한 게 멀리서도 눈부시게 빛이 나!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/837c0cf3-3aff-4fc2-acc6-c4870c38b6c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몸매 종결자, 이하늬가 통통함을 극복할 수 있었던 다이어트 비결 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59411</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59411</guid>
-            <pubDate>Thu, 21 Oct 2021 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[탄탄함 갑 오브 갑, 국보급 몸매 비법은 바로~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/4f1af2c5-cac9-4063-a9f9-8d0ae99bedc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피로도 녹이고, 몸도 녹여줄 제주 노천탕 스테이 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59410</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59410</guid>
-            <pubDate>Thu, 21 Oct 2021 03:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[몸과 마음을 말랑하게! 아늑한 제주도 노천 맛집을 소개합니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/21dd107b-5bef-43fd-aa06-3ee6a40a758a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니, 있지, 한소희도 홀릭중~ MZ 세대들의 갓성비 명품 브랜드 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -360,6 +360,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/4936f6df-0b70-4b26-aea2-c521f3b97e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘이런 말’이 가스라이팅의 신호라고? (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59523</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59523</guid>
+            <pubDate>Mon, 25 Oct 2021 05:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[당신이 대수롭지 않게 넘겼던 그 말, 혹시 가스라이팅의 시그널은 아닐까? 연인 간의 가스라이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f75cf5eb-84f5-4ea5-8563-6e397b86d9d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한소희의 누아르 액션물, <마이 네임>이 클리셰 범벅이라고? (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59486</link>
             <guid>https://www.cosmopolitan.co.kr/article/59486</guid>
@@ -413,14 +421,6 @@
             <pubDate>Mon, 18 Oct 2021 12:15:03 GMT</pubDate>
             <content:encoded><![CDATA[어제 꾼 그 꿈. 로또 살 게 아니라 ‘병’일 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/e4d35f4b-2ecc-425a-8257-6962909a7ad0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 시즌3! <오티스의 비밀 상담소> 19금 좌표 모음 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58852</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58852</guid>
-            <pubDate>Wed, 27 Oct 2021 04:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[좌표만 봐도 한 눈에 보이는 오티스-메이브의 감질맛 나는 서사!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/86b5d20d-cfd5-4106-9ee5-691725001855.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계에서 유일하게 한국에만 출시되는 코카콜라 제품이 있다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
