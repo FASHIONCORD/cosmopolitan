@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDZfMTQx/MDAxNjMzNTAwNjQyMTUw.9eKWzvYIQZGQkBM9nNikEtHzV3k-L19rHr3Ufl9rZpQg.40pF6QXWP-yCR24lwzTqMjE_0n5Ivx94BvFhnwAJQNMg.JPEG/INWwOcH0XK1evYrpfzEDx8K-eoFY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[출시되자마자 동났다! 스타가 완전 사랑하는 이미스 헤어밴드 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59611</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59611</guid>
+            <pubDate>Mon, 25 Oct 2021 13:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[오픈런이 명품에만 해당된다고? 완판 품절대란으로 현재 구입하기 힘든 헤어 액세서리계의 금쪽이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/3bc13cd6-478f-42f5-a91c-b72504d23da8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SK8ER GIRL (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59594</link>
             <guid>https://www.cosmopolitan.co.kr/article/59594</guid>
@@ -222,14 +230,6 @@
             <pubDate>Fri, 22 Oct 2021 15:08:55 GMT</pubDate>
             <content:encoded><![CDATA[날씬해 보이는 방한 스타일링 팁도 있다구!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/62cbd324-5c60-46e1-9bdc-bd91816a26ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비니 뙇! 갠지 뙇! 손쉬운 비니 스타일링 TIP (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59507</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59507</guid>
-            <pubDate>Fri, 22 Oct 2021 08:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[다들 비니 하나쯤은 있잖아? 물 아끼자, 지금 바로 옷장으로 고고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ff4cb55d-4b61-46c0-881c-ea89f4214ce0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이런 말’이 가스라이팅의 신호라고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,12 +296,52 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/64822a3d-6382-488f-957e-12b0f1e6ecdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잘 봐, 스우파 언니들 레전드 화보다~ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59647</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59647</guid>
+            <pubDate>Wed, 27 Oct 2021 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[모니카, 립제이, 리안, 시미즈, 로잘린, 엠마, 여진, 리정. 진작 이름으로 불러주었어야 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/fc25a021-8b68-47c1-aea8-ec38d01f7417.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이거 모르면 애송이야, 길은지의 05학번 세계관 정복! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59635</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59635</guid>
+            <pubDate>Wed, 27 Oct 2021 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[길은지 언니처럼 깔쌈하게!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/4936f6df-0b70-4b26-aea2-c521f3b97e19.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goal 때리게 재밌다! 시즌 2로 돌아온 <골 때리는 그녀들> (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59631</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59631</guid>
+            <pubDate>Wed, 27 Oct 2021 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[이 라인업 실화냐? 신생팀 ‘FC원더우먼’, ‘FC탑걸’ 화려한 선수진 공개]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/4fa554b4-3a4a-41f1-8dd5-f33ace69a6b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈 부시게 빛나는 정호연 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59621</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59621</guid>
+            <pubDate>Wed, 27 Oct 2021 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[스스로를 계속 변화하는 사람이라고 말하는 정호연. 그의 다채로운 모습이 담긴 주얼리 필름! ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/30a44b98-d527-47fe-8e8f-3debcc6f9055.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전지현∙리사∙윈터∙현아∙조유리, 제2의 단발좌는 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59620</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59620</guid>
+            <pubDate>Wed, 27 Oct 2021 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[감금됐던 단발병 세포를 봉인 해제시킬 ‘신흥 단발병 유발자’ 모음.zip]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/85557347-09a0-4c6a-a3af-e21e2bfea0e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김혜수, 김나영, 이혜성은 모두 워커 홀릭? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59616</link>
             <guid>https://www.cosmopolitan.co.kr/article/59616</guid>
             <pubDate>Tue, 26 Oct 2021 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[맛집 탐험, 다이어트, 여행, 운동 등등 목적은 제각각! 김혜수, 김나영, 이혜성 모두 걷는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/e1602827-0a56-4fa7-ac40-20ff53f62b63.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/e1602827-0a56-4fa7-ac40-20ff53f62b63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오은영 박사가 알려주는 어른이들을 위한 상담소 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -309,7 +349,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/59612</guid>
             <pubDate>Mon, 25 Oct 2021 13:19:31 GMT</pubDate>
             <content:encoded><![CDATA[어린이부터 어른까지 전국민 멘탈 케어 전문가로 나선 오은영 박사님이 알려주는 어른이들을 위한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/7555f34a-ec8a-42d8-94bc-5000c61798e8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/7555f34a-ec8a-42d8-94bc-5000c61798e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[출시되자마자 동났다! 스타가 완전 사랑하는 이미스 헤어밴드 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -318,46 +358,6 @@
             <pubDate>Mon, 25 Oct 2021 13:19:31 GMT</pubDate>
             <content:encoded><![CDATA[오픈런이 명품에만 해당된다고? 완판 품절대란으로 현재 구입하기 힘든 헤어 액세서리계의 금쪽이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/3bc13cd6-478f-42f5-a91c-b72504d23da8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 비틀스이자 오아시스, 투보컬 케미 폭발 <슈퍼밴드2> 준우승팀 시네마 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59608</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59608</guid>
-            <pubDate>Mon, 25 Oct 2021 13:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슈퍼밴드2&gt;의 대장정이 끝난 뒤, 새로운 활동의 시작점에 선 두 팀을 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/a3186419-bae5-4669-b35b-bb1dd8adad52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 록 밴드 다 죽었다고 누가 그래? <슈퍼밴드2> 우승팀 크랙실버 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59610</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59610</guid>
-            <pubDate>Mon, 25 Oct 2021 13:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슈퍼밴드2&gt;의 대장정이 끝난 뒤, 새로운 활동의 시작점에 선 두 팀을 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/c7400db1-94b6-4505-966c-199b0e9f1458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<유미의 세포들> 유미처럼 우연히 전남친 만난 ssul (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59577</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59577</guid>
-            <pubDate>Mon, 25 Oct 2021 04:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;유미의 세포들&gt;에서 유미는 전남친 우기를 만나고 세상 킹쿨한 모습을 보였는데, 이게...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ca494b6d-2823-429b-aa23-77c7d1db482c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤늦은 사과, 끝나지 않은 논란? 김선호에 대한 엇갈린 추세 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59565</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59565</guid>
-            <pubDate>Mon, 25 Oct 2021 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[단 며칠 만에 폭로 글, 사과문, 폭로자의 신상부터 지인의 폭로예고까지. 다사다난했던 김선호...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ac8afb9e-4f11-477a-a88a-362872478167.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<지리산> 고민시, 신인상 타기 전에 똥꿈 꿨다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59564</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59564</guid>
-            <pubDate>Mon, 25 Oct 2021 01:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[“촬영 현장에 피가 튈 때 에너지를 받아요.” 연기에 대한 순수한 열정과 강렬한 취향으로 무...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ee4239b4-de47-4d4e-af6f-bc6afa8cdcdd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이런 말’이 가스라이팅의 신호라고? (코스모폴리탄 코리아 ─ 러브)]]></title>
