@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 14:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 15:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘스타필드’ 가는 김에 커피 한잔 어때? 삼송역 핫한 카페 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60702</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60702</guid>
+            <pubDate>Thu, 28 Oct 2021 15:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[삼송역엔 스타필드만 있는 게 아니라고요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/46e437ff-c7fe-4f36-9a69-ce6fc18b4175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 제주도는 동백꽃 밭? ‘동백꽃 필무렵’ 갈 제주도 동백 맛집 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60701</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 12:16:09 GMT</pubDate>
             <content:encoded><![CDATA[가을 감성 자극하는 전시, 맛집, 카페까지 단풍 데이트 코스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/6a5888af-2774-4be0-bc74-44a80a51936e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민낯으로 출연했다는 <마이 네임> 한소희의 피부 실화야?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60690</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60690</guid>
-            <pubDate>Wed, 27 Oct 2021 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[민낯이 이 정도라고?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/880a7c58-a311-447a-be16-92abc06471d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
