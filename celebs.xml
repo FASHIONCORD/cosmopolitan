@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 02:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 제일 재밌다는 <우당탕탕 안테나>, 이렇게 웃기기야?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60681</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60681</guid>
+            <pubDate>Thu, 28 Oct 2021 03:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[넘모 재밌쟈나~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/32d66336-a606-4ed1-a7ec-a89d454b667e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니, 있지, 한소희도 홀릭중~ MZ 세대들의 갓성비 명품 브랜드 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60678</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 03:11:30 GMT</pubDate>
             <content:encoded><![CDATA[모니카, 립제이, 리안, 시미즈, 로잘린, 엠마, 여진, 리정. 진작 이름으로 불러주었어야 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/fc25a021-8b68-47c1-aea8-ec38d01f7417.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 모르면 애송이야, 길은지의 05학번 세계관 정복!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59635</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59635</guid>
-            <pubDate>Wed, 27 Oct 2021 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[길은지 언니처럼 깔쌈하게!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/4936f6df-0b70-4b26-aea2-c521f3b97e19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 02:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스우파 허니제이, 리헤이, 노제의 프리스타일 춤선비교 직캠!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60700</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60700</guid>
+            <pubDate>Thu, 28 Oct 2021 03:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 공수해온 지금 가장 핫한 그녀들의 프리스타일!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/1132c0e6-a8f1-4ddf-bb5b-370e89e8b4bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계에서 유일하게 한국에만 출시되는 코카콜라 제품이 있다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60699</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 12:16:09 GMT</pubDate>
             <content:encoded><![CDATA[넘모 재밌쟈나~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/32d66336-a606-4ed1-a7ec-a89d454b667e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사과가 빵빵빵! 제철 사과를 빵빵하게 먹는 방법 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60679</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60679</guid>
-            <pubDate>Wed, 27 Oct 2021 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 사과가 맛있는 계절. 사과보다 맛있는 사과빵을 소개한다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8dcf7ca3-f60b-4574-bf14-f68ff3015183.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
