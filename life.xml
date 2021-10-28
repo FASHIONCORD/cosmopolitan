@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 10:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 11:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 제주도는 동백꽃 밭? ‘동백꽃 필무렵’ 갈 제주도 동백 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60701</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60701</guid>
+            <pubDate>Thu, 28 Oct 2021 11:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[겨울 제주는 동백, 동백꽃 피면 겨울 제주!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/61db08df-ed40-41fe-b790-fbcbbeee3911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스우파 허니제이, 리헤이, 노제의 프리스타일 춤선비교 직캠!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60700</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 12:16:09 GMT</pubDate>
             <content:encoded><![CDATA[민낯이 이 정도라고?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/880a7c58-a311-447a-be16-92abc06471d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 제일 재밌다는 <우당탕탕 안테나>, 이렇게 웃기기야?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60681</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60681</guid>
-            <pubDate>Wed, 27 Oct 2021 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[넘모 재밌쟈나~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/32d66336-a606-4ed1-a7ec-a89d454b667e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
