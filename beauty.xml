@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 03:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 04:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김혜수, 김나영, 이혜성은 모두 워커 홀릭?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59616</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59616</guid>
+            <pubDate>Thu, 28 Oct 2021 04:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[맛집 탐험, 다이어트, 여행, 운동 등등 목적은 제각각! 김혜수, 김나영, 이혜성 모두 걷는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/e1602827-0a56-4fa7-ac40-20ff53f62b63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오은영 박사가 알려주는 어른이들을 위한 상담소]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59612</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 03:09:52 GMT</pubDate>
             <content:encoded><![CDATA[이게 나라지! 머리부터 발끝까지 사랑스러운 신민아의 굴욕없는 과거 사진 대방출]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/6b4bec78-a242-4127-a112-517364316abd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뽀샵 한 줄? NCT 재현 ∙ BTS 정국 ∙ 뉴이스트 황민현 등 꿀 피부를 자랑하는 남돌의 피부관리법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59429</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59429</guid>
-            <pubDate>Fri, 22 Oct 2021 04:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[매끈한 게 멀리서도 눈부시게 빛이 나!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/837c0cf3-3aff-4fc2-acc6-c4870c38b6c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
