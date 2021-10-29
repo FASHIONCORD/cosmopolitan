@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 12:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 13:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만 불편한 거 아니지? 팔이피플의 두 얼굴]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60756</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60756</guid>
+            <pubDate>Fri, 29 Oct 2021 13:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[지금껏 인스타 공구에 실패해본 적이 없다고? 배송 지연, 미배송, 연락 두절, 차단. 언제 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/b947c8e6-c42e-4396-8cd8-7935c371972b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식물 똥손 모여라! ‘LG 틔운’으로 나만의 스마트 정원 만들기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60739</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60739</guid>
+            <pubDate>Fri, 29 Oct 2021 13:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[식물 생활 가전이라는 멋진 신세계]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/94590cde-764e-4695-8eec-d0f597bf885e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커밍쑨! 화려한 라인업으로 무장한 NEW 예능 프로]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60729</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 03:12:03 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 공수해온 지금 가장 핫한 그녀들의 프리스타일!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/1132c0e6-a8f1-4ddf-bb5b-370e89e8b4bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계에서 유일하게 한국에만 출시되는 코카콜라 제품이 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60699</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60699</guid>
-            <pubDate>Wed, 27 Oct 2021 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[무라벨 페트 코카콜라와 가장 힙한 디저트 베이커리 등 10월 마지막 주, 가장 핫한 라이프스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/72610c7c-41a6-494f-ace9-24e0fbb8e8c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모니카X립제이 쌤들 퍼포먼스, 우리가 원했던 게 이거잖아!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60697</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60697</guid>
-            <pubDate>Wed, 27 Oct 2021 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA['모립' 쌤들 퍼포먼스는 말해 뭐해?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/930d971a-b57c-4b7b-a084-4986287ccde8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
