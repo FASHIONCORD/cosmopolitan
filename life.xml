@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 18:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 19:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외대생이 추천하는 회기동 가성비 갑 소울 푸드!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60768</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60768</guid>
+            <pubDate>Sat, 30 Oct 2021 19:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[저렴하고 맛있고 소중한 회기 맛집 6]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/28a97cb8-df14-4d66-9946-44853b793cf5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나만 불편한 거 아니지? 팔이피플의 두 얼굴]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60756</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 11:13:41 GMT</pubDate>
             <content:encoded><![CDATA[겨울 제주는 동백, 동백꽃 피면 겨울 제주!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/61db08df-ed40-41fe-b790-fbcbbeee3911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스우파 허니제이, 리헤이, 노제의 프리스타일 춤선비교 직캠!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60700</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60700</guid>
-            <pubDate>Thu, 28 Oct 2021 03:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 공수해온 지금 가장 핫한 그녀들의 프리스타일!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/1132c0e6-a8f1-4ddf-bb5b-370e89e8b4bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
