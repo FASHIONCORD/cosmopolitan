@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 09:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 10:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갑분베드신? <마이 네임> 갑론을박]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60789</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60789</guid>
+            <pubDate>Tue, 02 Nov 2021 10:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[냉혹한 복수극 도중에 뜬금없이 등장했던 &lt;마이 네임&gt; 속 베드신. 사실 이 베드신이 예고된 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/48715ffb-5a46-49a2-83db-325c5e704d95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스우파 리더즈의 인생 띵언]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60782</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60782</guid>
+            <pubDate>Tue, 02 Nov 2021 10:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[무조건 믿고 따를 수 밖에 없는 피가 되고 살이 되는 띵언을 쏟아내는 스우파 리더즈! 모니카...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/f869c3e1-aeb0-4958-8a45-2a5e90ef3a73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우리가 이렇게 해도 되나?" "무식한 열정이었어요." <슈퍼밴드2> 우승&준우승 크랙실버, 시네마의 비하인드컷]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60779</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 14:13:44 GMT</pubDate>
             <content:encoded><![CDATA[한선화, 경리, 이시영, 정혜성, 기은세의 일상룩에서 알아보는 롱부츠 스타일링]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/7a683a80-8ba8-4c50-9487-c798c3123987.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사·소미·태연·원호 따라하면 할로윈 인싸 등극!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60743</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60743</guid>
-            <pubDate>Fri, 29 Oct 2021 14:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[방구석 할로윈이라도 메이크업만은 색다르게 도전해보자. 귀요미부터 여신까지. 팔색조 아이돌 메...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ec90c386-91ec-4aa9-a9ee-edd19bec61c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커밍쑨! 화려한 라인업으로 무장한 NEW 예능 프로]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60729</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60729</guid>
-            <pubDate>Fri, 29 Oct 2021 03:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[김태호PD, 스우파 리더들, 오마이걸까지! 볼거리 쏟아지는 예능 신작]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/a7c09130-164e-4228-857a-b669962f8b13.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
