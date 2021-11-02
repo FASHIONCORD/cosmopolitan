@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 22:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 23:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상 예쁨주의! 거꾸로 나이 먹는 예쁜 언니야들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60766</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60766</guid>
+            <pubDate>Tue, 02 Nov 2021 23:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 급식들은 모르는 송혜교, 전지현, 신민아, 배두나, 고현정의 ‘태어날 때부터 예뻤던’ ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/7ad0dc29-bada-4be4-8883-8efaa4a91980.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀프 체형 교정 쌉파서블! 헬린이도 따라 하기 쉬운 8가지 SNPE 무브먼트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60759</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 18:12:57 GMT</pubDate>
             <content:encoded><![CDATA[민낯이 이 정도라고?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/880a7c58-a311-447a-be16-92abc06471d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전지현∙리사∙윈터∙현아∙조유리, 제2의 단발좌는 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59620</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59620</guid>
-            <pubDate>Thu, 28 Oct 2021 18:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[감금됐던 단발병 세포를 봉인 해제시킬 ‘신흥 단발병 유발자’ 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/85557347-09a0-4c6a-a3af-e21e2bfea0e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
