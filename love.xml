@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 11:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 12:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나 생리 중이야.' 말하지 않아도 남친이 안다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59458</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59458</guid>
+            <pubDate>Wed, 03 Nov 2021 12:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[내가 필요해서 시작했는데 남친이 더 좋아한다는 그 커플템]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/e09efe54-d5bc-4a4e-b216-1f72a20dfbcd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<유미의 세포들> 유미처럼 우연히 전남친 만난  SSUL?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/59577</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Oct 2021 07:10:17 GMT</pubDate>
             <content:encoded><![CDATA[아무리 세상이 변했다지만 시조 때도 없이 섹스 이야기를 꺼냈다간 ‘넌씨눈’이 되기 십상. 섹...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/cd7efa4c-ddfe-4eca-8a8a-81057eeab3f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공통점 대신 찾아주는 요즘 데이팅 앱이 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59191</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59191</guid>
-            <pubDate>Sun, 31 Oct 2021 07:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[목적이 연애뿐인 데이팅 앱에서 일말의 로맨스까지 꿈꾸는 이들을 위해, 화려한 스펙 칠갑이 다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/8278974a-d0b8-40ee-a7a5-4a78da0508fc.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

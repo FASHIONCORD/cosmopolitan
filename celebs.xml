@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 11:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 12:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우가 아닌 예능 기획자로 변신한 공효진! 그녀가 선택한 찐 잇템은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60867</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60867</guid>
+            <pubDate>Wed, 03 Nov 2021 12:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[‘환경 예능’ 필 무렵~ 공블리에서 공기획으로 변신한 공효진?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/36afa4ac-8e87-48a8-ac08-162dbac82e61.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블핑 리사부터 에스파 윈터까지! 할로윈에 미친 ★들 모여! 2021 할로윈 어워즈]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60865</guid>
+            <pubDate>Wed, 03 Nov 2021 12:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[할로윈에 진심인 스타들 가운데, 노력이 매우 가상한 분들께 이 상을 드립니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/33d27491-6cb6-49ad-89e2-2654955b1cc2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나를 책임져, 티미! 지금 우리가 사랑하는 티모시 샬라메의 모든 것]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60852</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 05:09:10 GMT</pubDate>
             <content:encoded><![CDATA[앞머리 염색하면 브릿지, 마수리부터 생각나는 라떼 당신, 당장 클릭!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/2c49ce4d-2e19-4bed-85df-8226a2306cce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송민호가 '찢어졌다'고 극찬한 <쇼미10> 랩천재, 머드 더 스튜턴트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60767</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60767</guid>
-            <pubDate>Tue, 02 Nov 2021 05:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;쇼미더머니 10&gt;의 머드 더 스튜던트는 현장학습을 떠나는 학생 같은 마음으로 경연에 임한다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/8a35decc-b341-4653-aacc-ac490bb00921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIP 스타 이영지가 찐으로 애정 하는 헤어스타일은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60769</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60769</guid>
-            <pubDate>Fri, 29 Oct 2021 14:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[소화력 만렙! 이영지 is 뭔들~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d2e6c3a1-6b6d-4696-bb64-4dbbe6f6ccf7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
