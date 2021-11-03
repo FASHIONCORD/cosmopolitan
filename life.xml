@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 16:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 17:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우가 아닌 예능 기획자로 변신한 공효진! 그녀가 선택한 찐 잇템은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60867</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60867</guid>
+            <pubDate>Wed, 03 Nov 2021 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘환경 예능’ 필 무렵~ 공블리에서 공기획으로 변신한 공효진?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/36afa4ac-8e87-48a8-ac08-162dbac82e61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나를 책임져, 티미! 지금 우리가 사랑하는 티모시 샬라메의 모든 것]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60852</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 10:10:24 GMT</pubDate>
             <content:encoded><![CDATA[무조건 믿고 따를 수 밖에 없는 피가 되고 살이 되는 띵언을 쏟아내는 스우파 리더즈! 모니카...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/f869c3e1-aeb0-4958-8a45-2a5e90ef3a73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외대생이 추천하는 회기동 가성비 갑 소울 푸드!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60768</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60768</guid>
-            <pubDate>Sun, 31 Oct 2021 22:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[저렴하고 맛있고 소중한 회기 맛집 6]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/28a97cb8-df14-4d66-9946-44853b793cf5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
