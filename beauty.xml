@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 23:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 00:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HIP 스타 이영지가 찐으로 애정 하는 헤어스타일은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60769</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60769</guid>
+            <pubDate>Thu, 04 Nov 2021 00:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[소화력 만렙! 이영지 is 뭔들~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d2e6c3a1-6b6d-4696-bb64-4dbbe6f6ccf7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상 예쁨주의! 거꾸로 나이 먹는 예쁜 언니야들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60766</link>
@@ -53,7 +61,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/60722</guid>
             <pubDate>Fri, 29 Oct 2021 13:16:50 GMT</pubDate>
             <content:encoded><![CDATA[‘어디서 봤더라?’ 왠지 모르게 낯익은 화장품들. 그 정체는 베스트셀러 원조템을 기반으로 태...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/58d683b4-66bd-4466-9365-afd25aa6df5f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/58d683b4-66bd-4466-9365-afd25aa6df5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“빵야빵야” 아찔한 ‘피어싱’ 스타일링]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 18:12:57 GMT</pubDate>
             <content:encoded><![CDATA[뻔한 귀 말고 다른 부위를 보자구! 섹시와 청순, 그 사이 어디 즈음~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/ad5f3210-d0e9-48a6-9d50-88bd86433713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민낯으로 출연했다는 <마이 네임> 한소희의 피부 실화야?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60690</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60690</guid>
-            <pubDate>Thu, 28 Oct 2021 18:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[민낯이 이 정도라고?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/880a7c58-a311-447a-be16-92abc06471d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
