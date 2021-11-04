@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 06:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 07:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/cd7efa4c-ddfe-4eca-8a8a-81057eeab3f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['모히토 라떼'부터 '아보카도 커피'까지 이색 커피 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60870</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60870</guid>
+            <pubDate>Thu, 04 Nov 2021 07:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[나만 알고 싶은 유니크한 이색 커피 맛집을 소개합니다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/5d0c74b9-9943-4b87-b655-6226a560a278.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘용산공원’ 간 김에 여긴 어때? 용산공원 근처 핫플 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60868</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60868</guid>
+            <pubDate>Thu, 04 Nov 2021 07:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[핫플 옆 핫플이라니, 당장 방문 각!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/77801631-354b-46de-a172-ae63a4f790c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배우가 아닌 예능 기획자로 변신한 공효진! 그녀가 선택한 찐 잇템은?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60867</link>
             <guid>https://www.cosmopolitan.co.kr/article/60867</guid>
@@ -470,22 +486,6 @@
             <pubDate>Tue, 02 Nov 2021 10:10:24 GMT</pubDate>
             <content:encoded><![CDATA[먹깨비, 힐링깨비, 동물깨비, 식물깨비 모두 모여라~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/2b4c04fb-79bc-46ce-92a8-67156bbcaa75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갑분베드신? <마이 네임> 갑론을박 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60789</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60789</guid>
-            <pubDate>Tue, 02 Nov 2021 10:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[냉혹한 복수극 도중에 뜬금없이 등장했던 &lt;마이 네임&gt; 속 베드신. 사실 이 베드신이 예고된 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/48715ffb-5a46-49a2-83db-325c5e704d95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스우파 리더즈의 인생 띵언 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60782</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60782</guid>
-            <pubDate>Tue, 02 Nov 2021 10:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[무조건 믿고 따를 수 밖에 없는 피가 되고 살이 되는 띵언을 쏟아내는 스우파 리더즈! 모니카...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/f869c3e1-aeb0-4958-8a45-2a5e90ef3a73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
