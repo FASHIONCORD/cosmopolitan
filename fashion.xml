@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 15:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연, 수영, 김고은의 가을 선글라스 스타일]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60873</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60873</guid>
+            <pubDate>Thu, 04 Nov 2021 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[땡볕 아래 필수품, 이왕이면 스타일리시하게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/4841db28-667c-4dd6-8772-b42c620abb20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 지민부터 봉태규까지! 옷장 공유각, 치마 입는 남자들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60872</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 15:09:26 GMT</pubDate>
             <content:encoded><![CDATA[헤어밴드로 러블리함과 힙함을 동시에 잡자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/cb0d409c-7c0d-4aa1-8718-3a24926331b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추위와 패션 모두 포기 못하겠다면? 정답은 롱 부츠!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60744</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60744</guid>
-            <pubDate>Sun, 31 Oct 2021 15:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[한선화, 경리, 이시영, 정혜성, 기은세의 일상룩에서 알아보는 롱부츠 스타일링]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/7a683a80-8ba8-4c50-9487-c798c3123987.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
