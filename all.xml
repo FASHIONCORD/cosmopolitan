@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 16:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 17:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/eba52dc6-f062-455a-a5f4-236d133506d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슬기로운 의사생활팀의 산촌생활이 궁금해? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60933</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60933</guid>
+            <pubDate>Fri, 05 Nov 2021 17:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[슬기로운 산촌 생활 속 보글보글 랜선 요리]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/75cbaa43-e3c0-4a90-a742-1e09856c72d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을 단풍 절정~ 지금 당장 가야 할 가을 드라이브 명소 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60921</link>
             <guid>https://www.cosmopolitan.co.kr/article/60921</guid>
@@ -480,12 +488,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/36afa4ac-8e87-48a8-ac08-162dbac82e61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나를 책임져, 티미! 지금 우리가 사랑하는 티모시 샬라메의 모든 것 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60852</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60852</guid>
-            <pubDate>Wed, 03 Nov 2021 07:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;듄&gt;으로 지구는 물론이고 우주에서 가장 아름다운 생명체로 거듭난 티모시 샬라메. 하지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/658158d5-9df5-49c3-a22a-ec086b27fbd6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[샤넬이 점 찍은 최연소 테니스 스타 라두카누 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58604</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58604</guid>
+            <pubDate>Fri, 05 Nov 2021 17:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021 US오픈 여자 단식 우승자 라두카누의 눈물겨운 우승 스토리]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/53061e7d-1596-4cb8-a19b-e3fee27606c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인플루언서 꿈나무 VS 어둠의 일기 부계정, SNS 사용 패턴은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/58255</link>
+            <guid>https://www.cosmopolitan.co.kr/article/58255</guid>
+            <pubDate>Fri, 05 Nov 2021 17:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[기나긴 '방콕 생활'이 시작되며 스크린 타임은 늘어만 가고... 모두가 갇혀버린 네모난 SN...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/03/bda2c573-e0cd-4246-8cab-49241bdcb47f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -534,22 +550,6 @@
             <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
             <content:encoded><![CDATA[연애는 내가 아니라 드라마가 해요. 썸 타는 법, 키스법, 애인까지 드라마에서 골라골라~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/06/470f053f-8b35-4234-b768-1b19f3462403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빨리빨리의 민족'에게 제격인 효율적인 피트니스 8가지 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55853</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55853</guid>
-            <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘빨리빨리의 민족’은 여름을 앞두고 어김없이 효율적인 운동을 찾아 헤맨다. 여기 소개하는 8...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/07/41fb97ed-b0ab-4209-b179-83c7c2c1a377.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[레깅스, 어디까지 가능?! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55794</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55794</guid>
-            <pubDate>Wed, 27 Oct 2021 06:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 ‘레깅스 착용 가능 구역’은 어디까지?<br>원 마일 웨어, 애슬레저… 모든 트렌드...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/03/7f0875df-8077-426a-ab88-3ceb10e30f70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
