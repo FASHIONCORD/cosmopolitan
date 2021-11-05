@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 06:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회사에서 이런 말 좀 하지 마! 회사에서 쓰면 도리어 독이 되는 말말말.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60794</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60794</guid>
+            <pubDate>Fri, 05 Nov 2021 07:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[당신이 직장에서 습관적으로 쓰는 그 말이 당신을 깎아내리고, 관계에 해를 끼친다는 거 알고 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/27ce8cf9-3ab6-4b92-bcda-22afc4baca18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 모모ㆍ있지 예지ㆍ스트레이 키즈 필릭스ㆍNCT 런쥔 & 제노도 했다! 젠지’s 앞머리 염색]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60777</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 13:16:50 GMT</pubDate>
             <content:encoded><![CDATA[감탄이 절로 터지는 우아!의 리더 나나의 머릿결과 피부 비결.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/7d7bf185-9178-45f1-a373-fca5aa90fd82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역시는 역시! 베스트셀러 원조템을 기반으로 태어난 리바이벌 뷰티템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60722</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60722</guid>
-            <pubDate>Fri, 29 Oct 2021 13:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[‘어디서 봤더라?’ 왠지 모르게 낯익은 화장품들. 그 정체는 베스트셀러 원조템을 기반으로 태...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/58d683b4-66bd-4466-9365-afd25aa6df5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

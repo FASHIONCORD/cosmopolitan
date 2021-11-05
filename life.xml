@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 06:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄마 나 40살 OPPA 좋아해! 요즘 핫한 중년 남자 배우 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60905</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60905</guid>
+            <pubDate>Fri, 05 Nov 2021 07:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[조승우, 박해수 그리고 박희순까지. 올해, 그 어떤 젊은 세대 남배우보다 큰 인기를 끌었던 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/51eb67ff-8a65-4916-88d8-201ac0da727b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이영자도 줄 서서 먹는다는 한국 속 찐 미국! 용산공원 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60887</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60887</guid>
+            <pubDate>Fri, 05 Nov 2021 07:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[여권없이 가는 해외 여행, 용산공원 개방 기념 진짜 맛집까지 모두 알려드림.jpg]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/983032ec-cbc7-4c1d-b221-9052b3bd617c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강민경이 방문한 맛집은 어디? 강민경 픽 맛집 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60871</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 10:10:24 GMT</pubDate>
             <content:encoded><![CDATA[마! 이게 히어로들의 찐친 바이브다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/202cc576-0459-4cfe-a81f-a3d9a1db4b54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김지석이 시트콤, 아니 B급 감성의 미원 광고를 어떻게 찍었길래 이 난리야?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60821</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60821</guid>
-            <pubDate>Tue, 02 Nov 2021 10:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[까다로운 젠지들의 입맛을 단번에 사로잡은 인싸 재질 광고들! 2003년 애니콜 광고를 오마주...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/06d450d8-87c7-44a2-82d0-332f0163dba9.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[남친의 여사친, 그 쎄~했던 순간들을 모았다! 여사친 레이더 발동 모먼트 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60800</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60800</guid>
-            <pubDate>Tue, 02 Nov 2021 10:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[남자친구의 여사친, 그 불길한 예감이 확신이 되었던 순간]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d3a656fa-b08a-4f28-ab65-421fc81edc9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
