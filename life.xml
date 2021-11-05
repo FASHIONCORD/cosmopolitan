@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 13:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 14:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 단풍 절정~ 지금 당장 가야 할 가을 드라이브 명소 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60921</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60921</guid>
+            <pubDate>Fri, 05 Nov 2021 14:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[차만 있으면 가을 만끽! 단풍 비가 내려오는 경치 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/db4b6852-7e41-4944-972d-7807b74e2c18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엄마 나 40살 OPPA 좋아해! 요즘 핫한 중년 남자 배우 모음.ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60905</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 07:12:19 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;듄&gt;으로 지구는 물론이고 우주에서 가장 아름다운 생명체로 거듭난 티모시 샬라메. 하지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/658158d5-9df5-49c3-a22a-ec086b27fbd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우zi 우정 forever..★ 마동석&안젤리나 졸리, 찐친 케미 포착?! (feat. 이터널스)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60849</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60849</guid>
-            <pubDate>Tue, 02 Nov 2021 10:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[마! 이게 히어로들의 찐친 바이브다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/202cc576-0459-4cfe-a81f-a3d9a1db4b54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
