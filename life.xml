@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 05:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 06:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“시험 끝났다! 놀러 가자~” 가을 캠핑 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60939</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60939</guid>
+            <pubDate>Sat, 06 Nov 2021 06:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑을 더 즐겁게 만드는 수지와 정호연, 공효진, 손담비의 스타일링 팁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/de0f7e99-4760-41c4-8fc7-70a2f9a5dab9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬기로운 의사생활팀의 산촌생활이 궁금해?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60933</link>
@@ -21,7 +29,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/60921</guid>
             <pubDate>Fri, 05 Nov 2021 14:11:01 GMT</pubDate>
             <content:encoded><![CDATA[차만 있으면 가을 만끽! 단풍 비가 내려오는 경치 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/db4b6852-7e41-4944-972d-7807b74e2c18.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/db4b6852-7e41-4944-972d-7807b74e2c18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄마 나 40살 OPPA 좋아해! 요즘 핫한 중년 남자 배우 모음.ZIP]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 07:11:17 GMT</pubDate>
             <content:encoded><![CDATA[핫플 옆 핫플이라니, 당장 방문 각!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/77801631-354b-46de-a172-ae63a4f790c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우가 아닌 예능 기획자로 변신한 공효진! 그녀가 선택한 찐 잇템은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60867</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60867</guid>
-            <pubDate>Wed, 03 Nov 2021 17:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘환경 예능’ 필 무렵~ 공블리에서 공기획으로 변신한 공효진?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/36afa4ac-8e87-48a8-ac08-162dbac82e61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
