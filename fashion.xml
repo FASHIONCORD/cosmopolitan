@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 15:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 16:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“시험 끝났다! 놀러 가자~” 가을 캠핑 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60939</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60939</guid>
+            <pubDate>Sun, 07 Nov 2021 16:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑을 더 즐겁게 만드는 수지와 정호연, 공효진, 손담비의 스타일링 팁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/de0f7e99-4760-41c4-8fc7-70a2f9a5dab9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리정, 이 비주얼 실화? 불가리의 비제로원과 YGX 영보스 리정의 파워풀한 만남!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60935</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 18:10:28 GMT</pubDate>
             <content:encoded><![CDATA[세 번째 디지털 런웨이를 선보인 2022 S/S 서울패션위크의 첫번째 리뷰! 영 제너레이션의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/1b9ba0d8-d276-476d-a64b-9dd321932ad3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 Y2K 패션 아이콘 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60774</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60774</guid>
-            <pubDate>Tue, 02 Nov 2021 11:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[1990년대를 지나 대세는 2000년대! 대담하고 제멋대로인 세기말 패션, Y2K가 부활했다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/81b3a72c-6c55-4d64-b31b-430007736c58.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
