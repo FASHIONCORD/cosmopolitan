@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 02:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 03:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<구경이> 김혜준의 치명미 폭팔 패션 파헤치기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60960</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60960</guid>
+            <pubDate>Mon, 08 Nov 2021 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[한국판 &lt;킬링이브&gt;의 빌라넬?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/df7149e8-0875-4f30-b3bf-d9cef5ae35f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[므찌다 갖고 싶다 노트북계의 '스우파']]></title>
             <link>https://www.cosmopolitan.co.kr/article/60930</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 20:13:18 GMT</pubDate>
             <content:encoded><![CDATA[민경은 한식, 양식, 일식은 물론이요, 디저트까지 민경은 전국구 맛집만 간다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/059d5bcf-7e9d-45b2-93c1-182e6e87ae05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모히토 라떼'부터 '아보카도 커피'까지 이색 커피 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60870</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60870</guid>
-            <pubDate>Thu, 04 Nov 2021 07:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[나만 알고 싶은 유니크한 이색 커피 맛집을 소개합니다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/5d0c74b9-9943-4b87-b655-6226a560a278.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
