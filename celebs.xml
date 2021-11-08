@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 10:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 11:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬기로운 의사생활팀의 산촌생활이 궁금해?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60933</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60933</guid>
+            <pubDate>Mon, 08 Nov 2021 11:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[슬기로운 산촌 생활 속 보글보글 랜선 요리]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/75cbaa43-e3c0-4a90-a742-1e09856c72d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건물 가격만 수십 아니 수백억?! 건물주된 재테크 갑 오브 갑 아이돌 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60931</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 12:14:45 GMT</pubDate>
             <content:encoded><![CDATA[‘환경 예능’ 필 무렵~ 공블리에서 공기획으로 변신한 공효진?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/36afa4ac-8e87-48a8-ac08-162dbac82e61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블핑 리사부터 에스파 윈터까지! 할로윈에 미친 ★들 모여! 2021 할로윈 어워즈]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60865</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60865</guid>
-            <pubDate>Wed, 03 Nov 2021 12:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[할로윈에 진심인 스타들 가운데, 노력이 매우 가상한 분들께 이 상을 드립니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/33d27491-6cb6-49ad-89e2-2654955b1cc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
