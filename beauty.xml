@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 00:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 01:56:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 신상 막차 탑승! 힙한 11월 뷰티 신상템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60882</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60882</guid>
+            <pubDate>Mon, 08 Nov 2021 01:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[가을 신상 막차 탑승할 사람, 여기 모여라~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d1d6559e-8af5-432f-a8d2-444e62c90239.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대인들을 위한 원샷원킬 올인원템을 최저가로 구하는 방법?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60831</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 13:16:50 GMT</pubDate>
             <content:encoded><![CDATA[헤어밴드로 러블리함과 힙함을 동시에 잡자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/cb0d409c-7c0d-4aa1-8718-3a24926331b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사·소미·태연·원호 따라하면 할로윈 인싸 등극!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60743</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60743</guid>
-            <pubDate>Fri, 29 Oct 2021 13:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[방구석 할로윈이라도 메이크업만은 색다르게 도전해보자. 귀요미부터 여신까지. 팔색조 아이돌 메...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ec90c386-91ec-4aa9-a9ee-edd19bec61c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
