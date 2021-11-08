@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 11:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 12:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리정, 이 비주얼 실화? 불가리의 비제로원과 YGX 영보스 리정의 파워풀한 만남!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60935</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60935</guid>
+            <pubDate>Mon, 08 Nov 2021 12:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[리정의 갓벽한 퍼포먼스, 레디? 파이트]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/865048a3-0a13-47d7-b368-4dfea27a6ed6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬기로운 의사생활팀의 산촌생활이 궁금해?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60933</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
             <content:encoded><![CDATA[민경은 한식, 양식, 일식은 물론이요, 디저트까지 민경은 전국구 맛집만 간다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/059d5bcf-7e9d-45b2-93c1-182e6e87ae05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우가 아닌 예능 기획자로 변신한 공효진! 그녀가 선택한 찐 잇템은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60867</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60867</guid>
-            <pubDate>Wed, 03 Nov 2021 12:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘환경 예능’ 필 무렵~ 공블리에서 공기획으로 변신한 공효진?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/36afa4ac-8e87-48a8-ac08-162dbac82e61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
