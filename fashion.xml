@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 14:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 15:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 S/S 서울패션위크 리뷰 3, 제너레이션 넥스트!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60952</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60952</guid>
+            <pubDate>Tue, 09 Nov 2021 15:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 패션을 이끌어갈 신진 디자이너들의 등용문 제너레이션 넥스트에서 발견한 '럭키 7'을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/9a54a0e2-7b17-40a2-bf74-ab83e3d2356c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아온 패션위크 패피들의 스트릿 패션!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60951</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[“여성스럽다”, “남성스럽다”는 옛말이 된 지 오래.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/fe37693f-425e-4e7c-b689-d2c4254fa88d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 픽! 소장각 부르는 11월의 머스트 해브 아이템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60837</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60837</guid>
-            <pubDate>Thu, 04 Nov 2021 09:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/1cba7539-c901-48ad-b8c7-712fa876552c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

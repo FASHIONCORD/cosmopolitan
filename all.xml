@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 14:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 15:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMjIw/MDAxNjM0NjIyNDUzMjA2.cY50lUbjzEy7IoF5oaQms3jjFz47Ubs91k3z6-LTpgYg.8da1j2V9qXzM8TDiGaumpgqQTemQ0VOrA9SiJ83liQ8g.JPEG/I-FfEv1FaytAscXtcvRd4_nwwW2Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 S/S 서울패션위크 리뷰 3, 제너레이션 넥스트! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60952</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60952</guid>
+            <pubDate>Tue, 09 Nov 2021 15:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 패션을 이끌어갈 신진 디자이너들의 등용문 제너레이션 넥스트에서 발견한 '럭키 7'을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/9a54a0e2-7b17-40a2-bf74-ab83e3d2356c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[돌아온 패션위크 패피들의 스트릿 패션! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60951</link>
             <guid>https://www.cosmopolitan.co.kr/article/60951</guid>
@@ -224,12 +232,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/fe37693f-425e-4e7c-b689-d2c4254fa88d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코스모 픽! 소장각 부르는 11월의 머스트 해브 아이템 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60837</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60837</guid>
-            <pubDate>Thu, 04 Nov 2021 09:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/1cba7539-c901-48ad-b8c7-712fa876552c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연예인은 이렇게 다이어트 한다?! 신세경의 스포한 찐 다이어트 방법! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60897</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60897</guid>
+            <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[신세경의 갓벽한 몸매 비결은 바로~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/2bd2547d-a1eb-4997-ab37-b7beb653e32d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을 신상 막차 탑승! 힙한 11월 뷰티 신상템 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -286,14 +294,6 @@
             <pubDate>Mon, 01 Nov 2021 07:10:34 GMT</pubDate>
             <content:encoded><![CDATA[머리~ 어깨, 무릎, 발, 무릎, 발~! 하루 30초, 5~10세트! 운동이 낯선 헬린이도 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/64723cfa-6d15-4e64-ab9c-08ce90310575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장희령, 강민경, 김나영이 요즘 꽂힌 헤어밴드 룩 5 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60747</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60747</guid>
-            <pubDate>Fri, 29 Oct 2021 13:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[헤어밴드로 러블리함과 힙함을 동시에 잡자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/cb0d409c-7c0d-4aa1-8718-3a24926331b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잘 봐~ 언니들 예능이다! 놀토, 전참시, 유퀴즈, 런닝맨, 나혼산 등 예능 장악한 스우파 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>

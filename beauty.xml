@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 14:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 15:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연예인은 이렇게 다이어트 한다?! 신세경의 스포한 찐 다이어트 방법!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60897</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60897</guid>
+            <pubDate>Tue, 09 Nov 2021 15:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[신세경의 갓벽한 몸매 비결은 바로~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/2bd2547d-a1eb-4997-ab37-b7beb653e32d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 신상 막차 탑승! 힙한 11월 뷰티 신상템]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60882</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 07:10:34 GMT</pubDate>
             <content:encoded><![CDATA[머리~ 어깨, 무릎, 발, 무릎, 발~! 하루 30초, 5~10세트! 운동이 낯선 헬린이도 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/64723cfa-6d15-4e64-ab9c-08ce90310575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장희령, 강민경, 김나영이 요즘 꽂힌 헤어밴드 룩 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60747</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60747</guid>
-            <pubDate>Fri, 29 Oct 2021 13:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[헤어밴드로 러블리함과 힙함을 동시에 잡자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/cb0d409c-7c0d-4aa1-8718-3a24926331b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
