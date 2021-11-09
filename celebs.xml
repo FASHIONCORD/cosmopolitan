@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 06:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 봐~ 언니들 예능이다! 놀토, 전참시, 유퀴즈, 런닝맨, 나혼산 등 예능 장악한 스우파]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60994</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60994</guid>
+            <pubDate>Tue, 09 Nov 2021 06:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말에 뭐 볼래? 스우파 언니들의 출연 예능 본방, 재방송 스케줄까지 정리했다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/f094d62e-0f5c-47ed-ba80-d56b653ebc80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“시험 끝났다! 놀러 가자~” 가을 캠핑 스타일링 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60939</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
             <content:encoded><![CDATA[애 이름 갖고 장난 치는 거 아냐, 소리가 절로 나오는 우주 대스타들의 우주적 2세 작명]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/af0c013f-7923-4787-862c-4a1a6f13e30c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연, 수영, 김고은의 가을 선글라스 스타일]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60873</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60873</guid>
-            <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[땡볕 아래 필수품, 이왕이면 스타일리시하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/4841db28-667c-4dd6-8772-b42c620abb20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
