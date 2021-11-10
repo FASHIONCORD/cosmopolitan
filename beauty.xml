@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 06:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일 열심히 양치질 했는데도 누래지는 이유는 뭘까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60956</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60956</guid>
+            <pubDate>Wed, 10 Nov 2021 06:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[매일 하는 양치, 제대로 하고 있을까? 아래 올바른 양치 방법을 모았다. 몇 개나 제대로 하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/e4883d84-9073-4e4a-bc18-94e437daf881.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고급짐 주의! 패션 하우스에서 선보인 F/W 하이엔드 신상 뷰티템 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60948</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 00:29:02 GMT</pubDate>
             <content:encoded><![CDATA[소화력 만렙! 이영지 is 뭔들~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d2e6c3a1-6b6d-4696-bb64-4dbbe6f6ccf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 예쁨주의! 거꾸로 나이 먹는 예쁜 언니야들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60766</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60766</guid>
-            <pubDate>Tue, 02 Nov 2021 23:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 급식들은 모르는 송혜교, 전지현, 신민아, 배두나, 고현정의 ‘태어날 때부터 예뻤던’ ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/7ad0dc29-bada-4be4-8883-8efaa4a91980.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
