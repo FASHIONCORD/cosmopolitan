@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유연성 갑 댄서 엠마와 불가리 비제로원 환상적인 프로젝트!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61016</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61016</guid>
+            <pubDate>Wed, 10 Nov 2021 07:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[유연성 갑 엠마의 환상적인 춤선과 비제로원 락 컬렉션'을 착용한 엠마의 영상 레디? 파이트!...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/79f609bf-5c06-425d-bff1-cbb1a0c14045.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노을의 황금빛을 담은 에르메스 2022 S/S 컬렉션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61007</link>
@@ -37,7 +45,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/60951</guid>
             <pubDate>Tue, 09 Nov 2021 03:09:35 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹으로 멈췄던 패션 위크가 조심스럽게 재개됐다. 오랜만에 거리를 물들인 패션 피플들의 다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/2bd3ddfc-40ec-4e2b-a6f1-cbd70e2564ba.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/a8317834-7c6c-4655-b8ef-2c15460de1d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강민경, 차정원, 장희령에게 정석 훈녀 st 코트룩 배우기!]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/60935</guid>
             <pubDate>Fri, 05 Nov 2021 07:09:37 GMT</pubDate>
             <content:encoded><![CDATA[리정의 갓벽한 퍼포먼스, 레디? 파이트]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/865048a3-0a13-47d7-b368-4dfea27a6ed6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 S/S 서울패션위크 리뷰 2]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60916</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60916</guid>
-            <pubDate>Thu, 04 Nov 2021 19:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[예술적인 디자인과 서정미가 돋보인 컬렉션을 선보인 4인의 디자이너를 만나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/581207cd-f7d4-49b8-9923-713e7038d952.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/c8238147-65b1-4f1a-913d-d80163f76bc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

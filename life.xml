@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해의 국뽕 미나리VS오징어게임? 코스모 2021 연말결산]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60995</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60995</guid>
+            <pubDate>Wed, 10 Nov 2021 07:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[올해 당신이 가장 피부로 느낀 이슈들을 고르고 몰스킨 기프트 세트 받아가자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/3172ba42-b176-4c35-9686-8103b7c16e32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐~ 언니들 예능이다! 놀토, 전참시, 유퀴즈, 런닝맨, 나혼산 등 예능 장악한 스우파]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60994</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 17:17:30 GMT</pubDate>
             <content:encoded><![CDATA[슬기로운 산촌 생활 속 보글보글 랜선 요리]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/75cbaa43-e3c0-4a90-a742-1e09856c72d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 단풍 절정~ 지금 당장 가야 할 가을 드라이브 명소 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60921</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60921</guid>
-            <pubDate>Fri, 05 Nov 2021 14:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[차만 있으면 가을 만끽! 단풍 비가 내려오는 경치 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/db4b6852-7e41-4944-972d-7807b74e2c18.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
