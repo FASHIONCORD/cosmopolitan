@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 01:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 02:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/fe37693f-425e-4e7c-b689-d2c4254fa88d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고급짐 주의! 패션 하우스에서 선보인 F/W 하이엔드 신상 뷰티템 5 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60948</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60948</guid>
+            <pubDate>Wed, 10 Nov 2021 02:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[패션 하우스의 부내템과 올가을 요긴하게 쓸 신상들. 그리고 뷰티 신을 점령한 넥스트 아이콘까...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/509ad313-c436-455f-8b46-7917bbc24d55.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[연예인은 이렇게 다이어트 한다?! 신세경의 스포한 찐 다이어트 방법! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60897</link>
             <guid>https://www.cosmopolitan.co.kr/article/60897</guid>
@@ -288,12 +296,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/7ad0dc29-bada-4be4-8883-8efaa4a91980.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[셀프 체형 교정 쌉파서블! 헬린이도 따라 하기 쉬운 8가지 SNPE 무브먼트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60759</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60759</guid>
-            <pubDate>Mon, 01 Nov 2021 07:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[머리~ 어깨, 무릎, 발, 무릎, 발~! 하루 30초, 5~10세트! 운동이 낯선 헬린이도 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/64723cfa-6d15-4e64-ab9c-08ce90310575.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[유연성 갑 댄서 엠마와 불가리 비제로원 환상적인 프로젝트! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61016</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61016</guid>
+            <pubDate>Wed, 10 Nov 2021 02:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[유연성 갑 엠마의 환상적인 춤선과 비제로원 락 컬렉션'을 착용한 엠마의 영상 레디? 파이트!...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/79f609bf-5c06-425d-bff1-cbb1a0c14045.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잘 봐~ 언니들 예능이다! 놀토, 전참시, 유퀴즈, 런닝맨, 나혼산 등 예능 장악한 스우파 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -350,14 +358,6 @@
             <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
             <content:encoded><![CDATA[신세경의 갓벽한 몸매 비결은 바로~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/2bd2547d-a1eb-4997-ab37-b7beb653e32d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 CEO의 아기 이름이 XX라고? 헐리웃 셀럽들의 유니크한 2세 이름 모음.ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60893</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60893</guid>
-            <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[애 이름 갖고 장난 치는 거 아냐, 소리가 절로 나오는 우주 대스타들의 우주적 2세 작명]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/af0c013f-7923-4787-862c-4a1a6f13e30c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갑분베드신? <마이 네임> 갑론을박 (코스모폴리탄 코리아 ─ 러브)]]></title>

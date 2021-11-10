@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 01:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 02:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유연성 갑 댄서 엠마와 불가리 비제로원 환상적인 프로젝트!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61016</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61016</guid>
+            <pubDate>Wed, 10 Nov 2021 02:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[유연성 갑 엠마의 환상적인 춤선과 비제로원 락 컬렉션'을 착용한 엠마의 영상 레디? 파이트!...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/79f609bf-5c06-425d-bff1-cbb1a0c14045.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐~ 언니들 예능이다! 놀토, 전참시, 유퀴즈, 런닝맨, 나혼산 등 예능 장악한 스우파]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60994</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
             <content:encoded><![CDATA[신세경의 갓벽한 몸매 비결은 바로~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/2bd2547d-a1eb-4997-ab37-b7beb653e32d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 CEO의 아기 이름이 XX라고? 헐리웃 셀럽들의 유니크한 2세 이름 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60893</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60893</guid>
-            <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[애 이름 갖고 장난 치는 거 아냐, 소리가 절로 나오는 우주 대스타들의 우주적 2세 작명]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/af0c013f-7923-4787-862c-4a1a6f13e30c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
