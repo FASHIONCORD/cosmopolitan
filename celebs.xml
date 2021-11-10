@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 04:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공연 중 욕한 할리우드 스타 애덤 리바인? 접근 금지 떨어진 제인 말릭? 대체 머선 129?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61026</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61026</guid>
+            <pubDate>Wed, 10 Nov 2021 05:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[워워~ 일단 정황 좀 살펴보고, 욕은 나중에 하는 걸로]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/064f68c2-1199-4c0b-bbe9-94a9d74930a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유연성 갑 댄서 엠마와 불가리 비제로원 환상적인 프로젝트!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61016</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Nov 2021 06:12:40 GMT</pubDate>
             <content:encoded><![CDATA[조승우, 박해수 그리고 박희순까지. 올해, 그 어떤 젊은 세대 남배우보다 큰 인기를 끌었던 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/51eb67ff-8a65-4916-88d8-201ac0da727b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연예인은 이렇게 다이어트 한다?! 신세경의 스포한 찐 다이어트 방법!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60897</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60897</guid>
-            <pubDate>Thu, 04 Nov 2021 14:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[신세경의 갓벽한 몸매 비결은 바로~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/2bd2547d-a1eb-4997-ab37-b7beb653e32d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

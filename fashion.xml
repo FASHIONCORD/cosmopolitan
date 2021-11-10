@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 04:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노을의 황금빛을 담은 에르메스 2022 S/S 컬렉션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61007</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61007</guid>
+            <pubDate>Wed, 10 Nov 2021 05:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[황금빛이 펼쳐진 수평선을 가로지르는 듯한 런웨이에서 펼쳐진 에르메스의 2022 s/s 여성 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/f6dbd966-44f7-42e4-8024-2e3706979820.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<구경이> 김혜준의 치명미 폭팔 패션 파헤치기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60960</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60960</guid>
+            <pubDate>Wed, 10 Nov 2021 05:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[한국판 &lt;킬링이브&gt;의 빌라넬?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/df7149e8-0875-4f30-b3bf-d9cef5ae35f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 S/S 서울패션위크 리뷰 3, 제너레이션 넥스트!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60952</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 19:07:57 GMT</pubDate>
             <content:encoded><![CDATA[예술적인 디자인과 서정미가 돋보인 컬렉션을 선보인 4인의 디자이너를 만나보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/581207cd-f7d4-49b8-9923-713e7038d952.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연, 수영, 김고은의 가을 선글라스 스타일]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60873</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60873</guid>
-            <pubDate>Thu, 04 Nov 2021 15:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[땡볕 아래 필수품, 이왕이면 스타일리시하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/4841db28-667c-4dd6-8772-b42c620abb20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민부터 봉태규까지! 옷장 공유각, 치마 입는 남자들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60872</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60872</guid>
-            <pubDate>Thu, 04 Nov 2021 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[“여성스럽다”, “남성스럽다”는 옛말이 된 지 오래.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/fe37693f-425e-4e7c-b689-d2c4254fa88d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
