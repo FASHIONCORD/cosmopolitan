@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성분 뭣이 중헌디? 화장품 성분에 관한 뷰티 TMI]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60997</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60997</guid>
+            <pubDate>Wed, 10 Nov 2021 09:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 시장에서 유독 잘 팔리는 키워드 중 하나인 콘셉트 성분 화장품! 제품의 콘셉트를 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/e88e9b8e-b2fd-4333-be89-ebb4bc9394da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일 열심히 양치질 했는데도 누래지는 이유는 뭘까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60956</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 18:10:20 GMT</pubDate>
             <content:encoded><![CDATA[앞머리 염색하면 브릿지, 마수리부터 생각나는 라떼 당신, 당장 클릭!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/2c49ce4d-2e19-4bed-85df-8226a2306cce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIP 스타 이영지가 찐으로 애정 하는 헤어스타일은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60769</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60769</guid>
-            <pubDate>Thu, 04 Nov 2021 00:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[소화력 만렙! 이영지 is 뭔들~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d2e6c3a1-6b6d-4696-bb64-4dbbe6f6ccf7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/c8238147-65b1-4f1a-913d-d80163f76bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성분 뭣이 중헌디? 화장품 성분에 관한 뷰티 TMI (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60997</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60997</guid>
+            <pubDate>Wed, 10 Nov 2021 09:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 시장에서 유독 잘 팔리는 키워드 중 하나인 콘셉트 성분 화장품! 제품의 콘셉트를 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/e88e9b8e-b2fd-4333-be89-ebb4bc9394da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[매일 열심히 양치질 했는데도 누래지는 이유는 뭘까? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60956</link>
             <guid>https://www.cosmopolitan.co.kr/article/60956</guid>
@@ -286,14 +294,6 @@
             <pubDate>Thu, 04 Nov 2021 18:10:20 GMT</pubDate>
             <content:encoded><![CDATA[앞머리 염색하면 브릿지, 마수리부터 생각나는 라떼 당신, 당장 클릭!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/2c49ce4d-2e19-4bed-85df-8226a2306cce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIP 스타 이영지가 찐으로 애정 하는 헤어스타일은 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60769</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60769</guid>
-            <pubDate>Thu, 04 Nov 2021 00:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[소화력 만렙! 이영지 is 뭔들~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d2e6c3a1-6b6d-4696-bb64-4dbbe6f6ccf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지드래곤 X 나이키 한정판 스니커즈 ‘권도1’을 받은 행운의 셀럽들이 있다고?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ec0eb58b-64b0-4596-bc6d-79e68f6d91fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘같이 추워지면 꼭 먹어야 하는 제철 굴! 개성 넘치는 오이스터바 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61064</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61064</guid>
+            <pubDate>Wed, 10 Nov 2021 09:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[초장은 이제 그만. 신선함에 호로록, 색다른 재미로 느껴보는 굴 요리 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/d572e0f0-94e8-45be-927d-1770893210b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뱃살이 많으면 추위를 더 탄다고? 유독 추위 잘 타는 사람은 ‘이게’ 문제! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61063</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61063</guid>
+            <pubDate>Wed, 10 Nov 2021 09:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[나만 이렇게 추워? 유독 추위 잘 탄다면 점검해봐야 할 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/61643afb-3c09-4af2-9e17-9193a7ded2bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내 배터리만 빨리 닳는다면? 이게 문제 ! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61014</link>
             <guid>https://www.cosmopolitan.co.kr/article/61014</guid>
@@ -470,22 +486,6 @@
             <pubDate>Mon, 08 Nov 2021 03:11:44 GMT</pubDate>
             <content:encoded><![CDATA[한국판 &lt;킬링이브&gt;의 빌라넬?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/df7149e8-0875-4f30-b3bf-d9cef5ae35f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[므찌다 갖고 싶다 노트북계의 '스우파' (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60930</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60930</guid>
-            <pubDate>Sat, 06 Nov 2021 16:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 노트북의 '끝판왕' 레노버 요가 슬림 7 프로 올레드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/c75b95f0-a4f5-455a-ad71-d2da7c22ea58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“시험 끝났다! 놀러 가자~” 가을 캠핑 스타일링 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60939</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60939</guid>
-            <pubDate>Sat, 06 Nov 2021 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑을 더 즐겁게 만드는 수지와 정호연, 공효진, 손담비의 스타일링 팁.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/de0f7e99-4760-41c4-8fc7-70a2f9a5dab9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
