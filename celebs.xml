@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 03:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 04:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국 왕세손비 귀고리가 1만7천원이라고? '케이트 미들턴'의 ‘칩&로열’ 패션템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61067</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61067</guid>
+            <pubDate>Thu, 11 Nov 2021 04:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[‘돌려 입기’ 여왕, ‘알뜰 주부’ 왕족, 영국 왕실 패셔니스타. 케이트 미들턴 왕세손비가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/cc8edacf-e315-4c8d-b5bf-f9b7e8b3a995.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몸매 갑 셀럽들의 다이어트 비법이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61060</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 Nov 2021 06:12:30 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말에 뭐 볼래? 스우파 언니들의 출연 예능 본방, 재방송 스케줄까지 정리했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/f094d62e-0f5c-47ed-ba80-d56b653ebc80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“시험 끝났다! 놀러 가자~” 가을 캠핑 스타일링 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60939</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60939</guid>
-            <pubDate>Tue, 09 Nov 2021 02:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑을 더 즐겁게 만드는 수지와 정호연, 공효진, 손담비의 스타일링 팁.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/de0f7e99-4760-41c4-8fc7-70a2f9a5dab9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

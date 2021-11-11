@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 03:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 04:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬은 못 참지! 스타들의 #내돈내산 샤넬 털기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61061</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61061</guid>
+            <pubDate>Thu, 11 Nov 2021 04:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타는 샤넬을 좋아해? 조이, 아이린, 김나영, 이시영, 한효주, 장희령이 득템한 숨은 그림...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/7ebb2084-d871-4fa3-9c34-0933f889bae7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 겨울 액세서리 트렌드 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61055</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61055</guid>
+            <pubDate>Thu, 11 Nov 2021 04:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[‘피할 수 없다면, 즐겨라!’ 매서운 추위를 피할 수 없다면, 멋진 윈터 액세서리와 함께 겨...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/c15072c4-e8b4-4605-baa3-0ccca54aa839.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지드래곤 X 나이키 한정판 스니커즈 ‘권도1’을 받은 행운의 셀럽들이 있다고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61041</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 09 Nov 2021 03:09:35 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹으로 멈췄던 패션 위크가 조심스럽게 재개됐다. 오랜만에 거리를 물들인 패션 피플들의 다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/a8317834-7c6c-4655-b8ef-2c15460de1d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강민경, 차정원, 장희령에게 정석 훈녀 st 코트룩 배우기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60940</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60940</guid>
-            <pubDate>Mon, 08 Nov 2021 03:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[코트의 계절이 다가옵니다. 모두 이 글을 클릭하세요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/2af4504a-6b50-40cd-b042-83074361e831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“시험 끝났다! 놀러 가자~” 가을 캠핑 스타일링 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60939</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60939</guid>
-            <pubDate>Sun, 07 Nov 2021 16:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑을 더 즐겁게 만드는 수지와 정호연, 공효진, 손담비의 스타일링 팁.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/de0f7e99-4760-41c4-8fc7-70a2f9a5dab9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
