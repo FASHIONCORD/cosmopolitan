@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 12:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 13:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남친의 여사친, 그 쎄~했던 순간들을 모았다! 여사친 레이더 발동 모먼트 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60800</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60800</guid>
+            <pubDate>Thu, 11 Nov 2021 13:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[남자친구의 여사친, 그 불길한 예감이 확신이 되었던 순간]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d3a656fa-b08a-4f28-ab65-421fc81edc9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회사에서 이런 말 좀 하지 마! 회사에서 쓰면 도리어 독이 되는 말말말.]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60794</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Oct 2021 07:10:17 GMT</pubDate>
             <content:encoded><![CDATA[두 명의 골드 멘탈리스트가 전하는 정신 건강에서 승리하는 조언을 참고할 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6b68d06a-d0fe-4fcf-8f90-e83783e63126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이런 말’이 가스라이팅의 신호라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/59523</link>
-            <guid>https://www.cosmopolitan.co.kr/article/59523</guid>
-            <pubDate>Sun, 31 Oct 2021 07:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 대수롭지 않게 넘겼던 그 말, 혹시 가스라이팅의 시그널은 아닐까? 연인 간의 가스라이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f75cf5eb-84f5-4ea5-8563-6e397b86d9d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
