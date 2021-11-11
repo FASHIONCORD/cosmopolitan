@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 04:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 05:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“평범함은 거부한다!” 은은하게 돌은 듯한 스타들의 커피차 문화 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61068</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61068</guid>
+            <pubDate>Thu, 11 Nov 2021 05:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[훈훈함과 돌+i 그 사이의 감성..☆]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/73b81e80-b6ba-46b6-84dc-05ec14bf443f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영국 왕세손비 귀고리가 1만7천원이라고? '케이트 미들턴'의 ‘칩&로열’ 패션템]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61067</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 02:25:59 GMT</pubDate>
             <content:encoded><![CDATA[유연성 갑 엠마의 환상적인 춤선과 비제로원 락 컬렉션'을 착용한 엠마의 영상 레디? 파이트!...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/79f609bf-5c06-425d-bff1-cbb1a0c14045.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐~ 언니들 예능이다! 놀토, 전참시, 유퀴즈, 런닝맨, 나혼산 등 예능 장악한 스우파]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60994</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60994</guid>
-            <pubDate>Tue, 09 Nov 2021 06:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말에 뭐 볼래? 스우파 언니들의 출연 예능 본방, 재방송 스케줄까지 정리했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/f094d62e-0f5c-47ed-ba80-d56b653ebc80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

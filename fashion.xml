@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 04:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 05:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국 왕세손비 귀고리가 1만7천원이라고? '케이트 미들턴'의 ‘칩&로열’ 패션템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61067</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61067</guid>
+            <pubDate>Thu, 11 Nov 2021 05:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘돌려 입기’ 여왕, ‘알뜰 주부’ 왕족, 영국 왕실 패셔니스타. 케이트 미들턴 왕세손비가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/cc8edacf-e315-4c8d-b5bf-f9b7e8b3a995.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬은 못 참지! 스타들의 #내돈내산 샤넬 털기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61061</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 Nov 2021 15:09:33 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 패션을 이끌어갈 신진 디자이너들의 등용문 제너레이션 넥스트에서 발견한 '럭키 7'을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/9a54a0e2-7b17-40a2-bf74-ab83e3d2356c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 패션위크 패피들의 스트릿 패션!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60951</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60951</guid>
-            <pubDate>Tue, 09 Nov 2021 03:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹으로 멈췄던 패션 위크가 조심스럽게 재개됐다. 오랜만에 거리를 물들인 패션 피플들의 다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/a8317834-7c6c-4655-b8ef-2c15460de1d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
