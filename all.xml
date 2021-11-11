@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 05:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 06:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/9a54a0e2-7b17-40a2-bf74-ab83e3d2356c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내 배터리만 빨리 닳는다면? 이게 문제 ! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61014</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61014</guid>
+            <pubDate>Wed, 10 Nov 2021 08:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[핸드폰을 오래 쓸수록 배터리 수명은 줄어든다. 오늘도 배터리 없는 핸드폰을 부여잡고 발을 동...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/0a127c37-97f0-4fc2-a576-32ac7a0e45c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성분 뭣이 중헌디? 화장품 성분에 관한 뷰티 TMI (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60997</link>
             <guid>https://www.cosmopolitan.co.kr/article/60997</guid>
@@ -286,14 +294,6 @@
             <pubDate>Fri, 05 Nov 2021 07:09:55 GMT</pubDate>
             <content:encoded><![CDATA[당신이 직장에서 습관적으로 쓰는 그 말이 당신을 깎아내리고, 관계에 해를 끼친다는 거 알고 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/27ce8cf9-3ab6-4b92-bcda-22afc4baca18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 모모ㆍ있지 예지ㆍ스트레이 키즈 필릭스ㆍNCT 런쥔 & 제노도 했다! 젠지’s 앞머리 염색 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60777</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60777</guid>
-            <pubDate>Thu, 04 Nov 2021 18:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[앞머리 염색하면 브릿지, 마수리부터 생각나는 라떼 당신, 당장 클릭!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/2c49ce4d-2e19-4bed-85df-8226a2306cce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“평범함은 거부한다!” 은은하게 돌은 듯한 스타들의 커피차 문화 모음.ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
