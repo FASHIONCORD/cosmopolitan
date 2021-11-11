@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 10:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/f75cf5eb-84f5-4ea5-8563-6e397b86d9d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전시 관람 후 먹는 밥이 얼~마나 맛있게요? 미술관 근처 맛집 추천 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61077</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61077</guid>
+            <pubDate>Thu, 11 Nov 2021 10:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[‘미술관 옆 동물원’이 아니라 ‘미술관 옆 맛집’ 이요~~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/d3441822-d7d5-4c6a-9cdd-487c73008552.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재석 애제자?! 러블리즈 미주의 힙한 사복 패션! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61071</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61071</guid>
+            <pubDate>Thu, 11 Nov 2021 08:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[안테나 전속계약이 유력한 러블리즈 미주! 사복 패션 센스도 남달라]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/5ad104d4-f3c9-4d0c-b981-a4b7535d05a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드라마 <지리산> 보고 여행 뽐뿌 왔다면, 지리산 VIEW 맛집 숙소는 어때? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61066</link>
             <guid>https://www.cosmopolitan.co.kr/article/61066</guid>
@@ -470,22 +486,6 @@
             <pubDate>Tue, 09 Nov 2021 06:12:30 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말에 뭐 볼래? 스우파 언니들의 출연 예능 본방, 재방송 스케줄까지 정리했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/f094d62e-0f5c-47ed-ba80-d56b653ebc80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 나의 쇼핑 라이프 돌아보기! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60984</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60984</guid>
-            <pubDate>Wed, 10 Nov 2021 04:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[올 한해 무엇을, 어디에서 구매했나요? 펜데믹 이후 더욱 다양해진 쇼핑 스타일! 올해 당신의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/52b6b856-680b-4eb4-965b-1505765b3bc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 올해의 얼굴은 누구? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60975</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60975</guid>
-            <pubDate>Wed, 10 Nov 2021 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021년, 뷰티 업계를 뜨겁게 달군 이들은 누굴까? 올해의 단발좌부터 베스트 오브 베스트 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/ef666217-f779-4ff8-961c-b98a2dfa809a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
