@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 13:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 14:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자취생이라면 주목! 1인가구러 들이 ‘꼭’ 알아야하는 꿀 같은 지원제도 5가지]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61111</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61111</guid>
+            <pubDate>Fri, 12 Nov 2021 14:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[서울시 세 가구 중 한 가구는 1인 가구. 혼자 산다면 알아둬야 할 1인 가구 지원제도를 모...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/4901160b-faec-49c0-9421-47205d6481ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현아 던 결혼?! 부케부터 약지 반지까지! 현던커플 럽스타 모음]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61106</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61106</guid>
+            <pubDate>Fri, 12 Nov 2021 14:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[결혼설이 들려오는 찰떡 궁합 현던 커플 럽스타]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/920b7a93-e221-4ea8-83f3-8f60a56069fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 전농동이 그렇게 핫하다며? 전농동 감성 카페 추천5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61081</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[초장은 이제 그만. 신선함에 호로록, 색다른 재미로 느껴보는 굴 요리 맛집들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/d572e0f0-94e8-45be-927d-1770893210b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱃살이 많으면 추위를 더 탄다고? 유독 추위 잘 타는 사람은 ‘이게’ 문제!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61063</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61063</guid>
-            <pubDate>Wed, 10 Nov 2021 09:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[나만 이렇게 추워? 유독 추위 잘 탄다면 점검해봐야 할 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/61643afb-3c09-4af2-9e17-9193a7ded2bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 배터리만 빨리 닳는다면? 이게 문제 !]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61014</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61014</guid>
-            <pubDate>Wed, 10 Nov 2021 08:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[핸드폰을 오래 쓸수록 배터리 수명은 줄어든다. 오늘도 배터리 없는 핸드폰을 부여잡고 발을 동...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/0a127c37-97f0-4fc2-a576-32ac7a0e45c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
