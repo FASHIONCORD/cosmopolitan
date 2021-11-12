@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따뜻한 밀크티를 연상케하는 가을 찰떡 뷰티템은 무엇?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61054</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61054</guid>
+            <pubDate>Fri, 12 Nov 2021 07:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[차가운 공기마저 따뜻하게 데워줄 밀크티 한 잔. 올가을엔 뷰티템으로 즐길 차례!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/1825dac9-da80-432e-8b5a-5143db6b1d39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 배터리만 빨리 닳는다면? 이게 문제 !]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61014</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Nov 2021 15:10:03 GMT</pubDate>
             <content:encoded><![CDATA[코스모 에디터가 픽한 ‘Know Now’ 숍의 11월 주제는 쉴 틈 없이 바쁜 현대인을 위한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/890212ac-0b03-4580-b9eb-128ade662ca2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회사에서 이런 말 좀 하지 마! 회사에서 쓰면 도리어 독이 되는 말말말.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60794</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60794</guid>
-            <pubDate>Fri, 05 Nov 2021 07:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 직장에서 습관적으로 쓰는 그 말이 당신을 깎아내리고, 관계에 해를 끼친다는 거 알고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/27ce8cf9-3ab6-4b92-bcda-22afc4baca18.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

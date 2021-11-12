@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 전농동이 그렇게 핫하다며? 전농동 감성 카페 추천5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61081</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61081</guid>
+            <pubDate>Fri, 12 Nov 2021 07:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[식물원 느낌 카페부터 도쿄 커피 맛집 공식 쇼룸까지, 조용하지만 강한 편!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/241baa85-805e-4b98-8cb9-ebbad0a53749.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핫해하태! 맛잘알 안소희가 픽한 인스타그램 찐 맛집 TOP 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61079</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 08:16:16 GMT</pubDate>
             <content:encoded><![CDATA[핸드폰을 오래 쓸수록 배터리 수명은 줄어든다. 오늘도 배터리 없는 핸드폰을 부여잡고 발을 동...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/0a127c37-97f0-4fc2-a576-32ac7a0e45c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해의 국뽕 미나리VS오징어게임? 코스모 2021 연말결산]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60995</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60995</guid>
-            <pubDate>Wed, 10 Nov 2021 07:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[올해 당신이 가장 피부로 느낀 이슈들을 고르고 몰스킨 기프트 세트 받아가자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/3172ba42-b176-4c35-9686-8103b7c16e32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
