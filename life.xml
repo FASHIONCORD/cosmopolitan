@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 03:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 04:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫해하태! 맛잘알 안소희가 픽한 인스타그램 찐 맛집 TOP 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61079</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61079</guid>
+            <pubDate>Fri, 12 Nov 2021 04:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[예전에도, 오늘도, 앞으로도 나는 소희 손민수~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/e2a60b5a-0c70-4f08-a5f4-8c41958e4b11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전시 관람 후 먹는 밥이 얼~마나 맛있게요? 미술관 근처 맛집 추천 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61077</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 07:13:11 GMT</pubDate>
             <content:encoded><![CDATA[올해 당신이 가장 피부로 느낀 이슈들을 고르고 몰스킨 기프트 세트 받아가자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/3172ba42-b176-4c35-9686-8103b7c16e32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐~ 언니들 예능이다! 놀토, 전참시, 유퀴즈, 런닝맨, 나혼산 등 예능 장악한 스우파]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60994</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60994</guid>
-            <pubDate>Wed, 10 Nov 2021 06:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말에 뭐 볼래? 스우파 언니들의 출연 예능 본방, 재방송 스케줄까지 정리했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/f094d62e-0f5c-47ed-ba80-d56b653ebc80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
