@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사치 부릴 거면 이렇게! 엠마 왓슨의 有개념 사치(feat. 친환경)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61097</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61097</guid>
+            <pubDate>Sun, 14 Nov 2021 15:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[배우이자 활동가인 엠마 왓슨의 '지속 가능한 패션' 고집은 어제 오늘 일이 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/e8d3b619-543e-4921-90cd-9c015a58209f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캠린이를 위한 캠핑 패션 추천!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61092</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:08:42 GMT</pubDate>
             <content:encoded><![CDATA[유연성 갑 엠마의 환상적인 춤선과 비제로원 락 컬렉션'을 착용한 엠마의 영상 레디? 파이트!...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/79f609bf-5c06-425d-bff1-cbb1a0c14045.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노을의 황금빛을 담은 에르메스 2022 S/S 컬렉션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61007</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61007</guid>
-            <pubDate>Sun, 14 Nov 2021 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[황금빛이 펼쳐진 수평선을 가로지르는 듯한 런웨이에서 펼쳐진 에르메스의 2022 s/s 여성 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/f6dbd966-44f7-42e4-8024-2e3706979820.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

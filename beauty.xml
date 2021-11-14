@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몸매 갑 셀럽들의 다이어트 비법이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61060</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61060</guid>
+            <pubDate>Sun, 14 Nov 2021 15:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[매일 매일 다이어트 목표에 도달한 강소라, 효민, 전소민의 다이어트 팁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/030cbc7d-2eb2-4e95-b9a5-557a38887e07.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따뜻한 밀크티를 연상케하는 가을 찰떡 뷰티템은 무엇?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61054</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
             <content:encoded><![CDATA[가을 신상 막차 탑승할 사람, 여기 모여라~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d1d6559e-8af5-432f-a8d2-444e62c90239.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대인들을 위한 원샷원킬 올인원템을 최저가로 구하는 방법?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60831</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60831</guid>
-            <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 에디터가 픽한 ‘Know Now’ 숍의 11월 주제는 쉴 틈 없이 바쁜 현대인을 위한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/890212ac-0b03-4580-b9eb-128ade662ca2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
