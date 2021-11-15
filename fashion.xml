@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 06:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편집숍 아니야?! 뷰티템보다 더 탐나는 굿즈 맛집 8]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61157</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61157</guid>
+            <pubDate>Mon, 15 Nov 2021 06:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[여기가 뷰티 브랜드야, 편집숍이야? ‘알잘딱깔센’한 굿즈로 뷰티템보다 더 탐나는 넘사벽 굿즈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/cbed2cb6-0715-421b-8b09-77b6bf06671c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현아 던 결혼?! 부케부터 약지 반지까지! 현던커플 럽스타 모음]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61106</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:08:42 GMT</pubDate>
             <content:encoded><![CDATA[‘돌려 입기’ 여왕, ‘알뜰 주부’ 왕족, 영국 왕실 패셔니스타. 케이트 미들턴 왕세손비가 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/cc8edacf-e315-4c8d-b5bf-f9b7e8b3a995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬은 못 참지! 스타들의 #내돈내산 샤넬 털기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61061</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61061</guid>
-            <pubDate>Sun, 14 Nov 2021 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[스타는 샤넬을 좋아해? 조이, 아이린, 김나영, 이시영, 한효주, 장희령이 득템한 숨은 그림...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/7ebb2084-d871-4fa3-9c34-0933f889bae7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
