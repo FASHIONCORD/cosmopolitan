@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 08:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d1d6559e-8af5-432f-a8d2-444e62c90239.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘비니’맛집! 셀렙들의 꾸안꾸, 꾸꾸꾸 다되는 비니 룩 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61193</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61193</guid>
+            <pubDate>Mon, 15 Nov 2021 09:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[안유진, 장희령, 최수영, 이유비, 손담비, 한지민 비니 쓴 모습 보고 모두가 이번 겨울에는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/cde9c984-0430-4000-841e-fe1392bc7844.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차은우가 뮤비 촬영장에 훈제 치킨을 사들고 온 SSUL? 아스트로 MJ가 밝힌 '계세요' 비하인드! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61192</link>
             <guid>https://www.cosmopolitan.co.kr/article/61192</guid>
@@ -350,14 +358,6 @@
             <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
             <content:encoded><![CDATA[비주얼 찢었다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/bd201eef-bc46-48a2-9eb7-d7c147a195db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현아 던 결혼?! 부케부터 약지 반지까지! 현던커플 럽스타 모음 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61106</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61106</guid>
-            <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[결혼설이 들려오는 찰떡 궁합 현던 커플 럽스타]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/920b7a93-e221-4ea8-83f3-8f60a56069fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브 밤을 조심하라고? 연애 시장에서 사용되는 위험한 수단! (코스모폴리탄 코리아 ─ 러브)]]></title>
