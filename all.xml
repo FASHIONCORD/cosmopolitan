@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 14:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 15:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/e09efe54-d5bc-4a4e-b216-1f72a20dfbcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[골프 러버 주목, 삼성전자가 스마트한 골프 에디션을 선보인다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61146</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61146</guid>
+            <pubDate>Mon, 15 Nov 2021 15:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 한정 출시 소식이 가득한 11월 둘째 주 라이프스타일 뉴스! (근데 이제 약간의 연말...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/3edf2f87-e6ba-43b3-824f-f5fc0a653271.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<쇼미더머니10>의 혼합맛 래퍼 천재, 머드가 팬 댓글에 '비추'를 누른 이유? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61144</link>
             <guid>https://www.cosmopolitan.co.kr/article/61144</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
             <content:encoded><![CDATA[식물원 느낌 카페부터 도쿄 커피 맛집 공식 쇼룸까지, 조용하지만 강한 편!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/241baa85-805e-4b98-8cb9-ebbad0a53749.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫해하태! 맛잘알 안소희가 픽한 인스타그램 찐 맛집 TOP 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61079</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61079</guid>
-            <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[예전에도, 오늘도, 앞으로도 나는 소희 손민수~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/e2a60b5a-0c70-4f08-a5f4-8c41958e4b11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
