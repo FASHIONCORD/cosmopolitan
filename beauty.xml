@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 06:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뱃살이 많으면 추위를 더 탄다고? 유독 추위 잘 타는 사람은 ‘이게’ 문제!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61063</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61063</guid>
+            <pubDate>Tue, 16 Nov 2021 06:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[나만 이렇게 추워? 유독 추위 잘 탄다면 점검해봐야 할 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/61643afb-3c09-4af2-9e17-9193a7ded2bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몸매 갑 셀럽들의 다이어트 비법이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61060</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
             <content:encoded><![CDATA[신세경의 갓벽한 몸매 비결은 바로~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/2bd2547d-a1eb-4997-ab37-b7beb653e32d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 신상 막차 탑승! 힙한 11월 뷰티 신상템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60882</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60882</guid>
-            <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[가을 신상 막차 탑승할 사람, 여기 모여라~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d1d6559e-8af5-432f-a8d2-444e62c90239.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
