@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 09:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 10:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박한별 근황, 제주도 카페 사장?! 매장 페인트칠까지 직접 한다고!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61200</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61200</guid>
+            <pubDate>Tue, 16 Nov 2021 10:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[박한별의 제주 힐링 근황!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/78506be5-fda3-44d1-a663-aa6a1fc728e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘빽’투더2000, 다시 유행중인 티파니, 헤이즈, 한지현, 차정원의 ‘호보백’ 스타일링이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61198</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 06:12:01 GMT</pubDate>
             <content:encoded><![CDATA[셀럽들처럼 느낌 있는 인생 사진 찍으러 출발!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/e8e70a1e-9a2f-4ac6-87b5-250c8fe32f55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<쇼미더머니10>의 혼합맛 래퍼 천재, 머드가 팬 댓글에 '비추'를 누른 이유?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61144</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61144</guid>
-            <pubDate>Mon, 15 Nov 2021 04:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[머드의 '머며 드는' 라이브와 인터뷰 최초공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/62578cbe-2727-4572-8b99-839139719924.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
