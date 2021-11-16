@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 14:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 15:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어쩔 수 없는 K-BLOOD, 뼛속부터 한국人인 당신은 K-유교걸?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61104</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61104</guid>
+            <pubDate>Tue, 16 Nov 2021 15:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[K-BLOOD의 유교걸 인증 순간들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/a58fb141-3d26-4885-9ad7-1767ee7759fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노제, 블랙핑크 리사, 아이유의 공통점은? 앞머리 뽐뿌 부르는 스타들의 뱅 헤어 모음.ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61072</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
             <content:encoded><![CDATA[매일 하는 양치, 제대로 하고 있을까? 아래 올바른 양치 방법을 모았다. 몇 개나 제대로 하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/e4883d84-9073-4e4a-bc18-94e437daf881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고급짐 주의! 패션 하우스에서 선보인 F/W 하이엔드 신상 뷰티템 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60948</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60948</guid>
-            <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[패션 하우스의 부내템과 올가을 요긴하게 쓸 신상들. 그리고 뷰티 신을 점령한 넥스트 아이콘까...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/509ad313-c436-455f-8b46-7917bbc24d55.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
