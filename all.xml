@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 02:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 03:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,12 +296,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d1d6559e-8af5-432f-a8d2-444e62c90239.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남친짤, 여친짤은 이제훈, 김우빈, 제니, 고민시처럼! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61196</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61196</guid>
+            <pubDate>Tue, 16 Nov 2021 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[마구마구 자랑하고 싶은 남친짤, 여친짤 생성 노하우 이제훈, 김우빈, 제니, 고민시에게 한번...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/36682dd8-6b18-4416-a250-2decf1d4b23c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘비니’맛집! 셀렙들의 꾸안꾸, 꾸꾸꾸 다되는 비니 룩 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61193</link>
             <guid>https://www.cosmopolitan.co.kr/article/61193</guid>
             <pubDate>Mon, 15 Nov 2021 09:10:45 GMT</pubDate>
             <content:encoded><![CDATA[안유진, 장희령, 최수영, 이유비, 손담비, 한지민 비니 쓴 모습 보고 모두가 이번 겨울에는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/cde9c984-0430-4000-841e-fe1392bc7844.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/cde9c984-0430-4000-841e-fe1392bc7844.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우가 뮤비 촬영장에 훈제 치킨을 사들고 온 SSUL? 아스트로 MJ가 밝힌 '계세요' 비하인드! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -350,14 +358,6 @@
             <pubDate>Mon, 15 Nov 2021 04:13:08 GMT</pubDate>
             <content:encoded><![CDATA[어다행다! 어차피 다이어트할 거 행복하게 하세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/a8d29d91-1457-4bff-b6a4-afc2cd7bd9e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스우파 댄서 노제, 연기자로 변신! 함께 연인 역할을 맡은 옹성우의 반응은?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61112</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61112</guid>
-            <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[비주얼 찢었다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/bd201eef-bc46-48a2-9eb7-d7c147a195db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브 밤을 조심하라고? 연애 시장에서 사용되는 위험한 수단! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/e09efe54-d5bc-4a4e-b216-1f72a20dfbcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 틱톡에서 맛있다고 난리 난 '핵인싸' 레시피 모음.ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61152</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61152</guid>
+            <pubDate>Tue, 16 Nov 2021 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 틱톡에서 맛있다고 난리 난 레시피.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/e5a953d5-0504-4fa9-bddc-ce99411dc738.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[골프 러버 주목, 삼성전자가 스마트한 골프 에디션을 선보인다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61146</link>
             <guid>https://www.cosmopolitan.co.kr/article/61146</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
             <content:encoded><![CDATA[결혼설이 들려오는 찰떡 궁합 현던 커플 럽스타]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/920b7a93-e221-4ea8-83f3-8f60a56069fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 전농동이 그렇게 핫하다며? 전농동 감성 카페 추천5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61081</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61081</guid>
-            <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[식물원 느낌 카페부터 도쿄 커피 맛집 공식 쇼룸까지, 조용하지만 강한 편!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/241baa85-805e-4b98-8cb9-ebbad0a53749.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
