@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 05:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 06:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출시하자마자 완판! 펜디 X 스킴스 컬렉션을 입은 셀럽들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61190</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61190</guid>
+            <pubDate>Wed, 17 Nov 2021 06:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[핫한 언니들 텅장각! 만들고있는 펜디 X 스킴스 컬렉션에 셀럽들도 열광중~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/80287280-1d50-4428-b536-4bacc0356e93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에어팟 목걸이라고? 스마트 기기 액세서리 모음!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61181</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:08:42 GMT</pubDate>
             <content:encoded><![CDATA[캠핑, 캠핑패션, 텐트, 텐트추천, 여자캠핑패션, 캠핑룩, 후리스, 아노락, 스노우피크, 백...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/7813b823-4bac-48e2-81a6-ae170650bc68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재석 애제자?! 러블리즈 미주의 힙한 사복 패션!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61071</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61071</guid>
-            <pubDate>Sun, 14 Nov 2021 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[안테나 전속계약이 유력한 러블리즈 미주! 사복 패션 센스도 남달라]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/5ad104d4-f3c9-4d0c-b981-a4b7535d05a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

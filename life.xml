@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 05:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 06:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박한별 근황, 제주도 카페 사장?! 매장 페인트칠까지 직접 한다고!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61200</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61200</guid>
+            <pubDate>Wed, 17 Nov 2021 06:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[박한별의 제주 힐링 근황!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/78506be5-fda3-44d1-a663-aa6a1fc728e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차은우가 뮤비 촬영장에 훈제 치킨을 사들고 온 SSUL? 아스트로 MJ가 밝힌 '계세요' 비하인드!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61192</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 02:27:10 GMT</pubDate>
             <content:encoded><![CDATA[한국의 겨울왕국 강원도의 소문난 설경 맛집은 이곳이라고~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/a5014b56-297e-4c64-9171-967c5c7c64ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스우파 댄서 노제, 연기자로 변신! 함께 연인 역할을 맡은 옹성우의 반응은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61112</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61112</guid>
-            <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[비주얼 찢었다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/bd201eef-bc46-48a2-9eb7-d7c147a195db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

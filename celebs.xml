@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 05:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 06:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대 최초 MAMA 여성 호스트로 선정된 ‘이효리’의 레전드 퍼포먼스 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61201</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61201</guid>
+            <pubDate>Wed, 17 Nov 2021 06:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[잘 봐, 효리 언니 무대다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/16870498-1dd9-4e30-9ca0-a3be59ea7839.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박한별 근황, 제주도 카페 사장?! 매장 페인트칠까지 직접 한다고!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61200</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 07:11:05 GMT</pubDate>
             <content:encoded><![CDATA[핫한 언니들 텅장각! 만들고있는 펜디 X 스킴스 컬렉션에 셀럽들도 열광중~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/80287280-1d50-4428-b536-4bacc0356e93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫한 로제, 수영, 차정원의 찍기 만하면 건지는 국내 인생사진 핫스팟은 어딜까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61189</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61189</guid>
-            <pubDate>Mon, 15 Nov 2021 06:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[셀럽들처럼 느낌 있는 인생 사진 찍으러 출발!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/e8e70a1e-9a2f-4ac6-87b5-250c8fe32f55.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
