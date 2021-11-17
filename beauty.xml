@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 09:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 10:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살 빼려면 소금을 먹으라고?! 나트륨에 대한 오해와 진실]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61178</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61178</guid>
+            <pubDate>Wed, 17 Nov 2021 10:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트의 적이라 불렸던 나트륨의 오해와 진실에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/da97028d-5411-4e6a-b2b3-c9617847400d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누가 요즘 굶으면서 다이어트해? 신세경, 수영 등 셀럽들이 먹는 맛있는 저칼로리 레시피 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61137</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61137</guid>
+            <pubDate>Wed, 17 Nov 2021 10:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[어다행다! 어차피 다이어트할 거 행복하게 하세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/a8d29d91-1457-4bff-b6a4-afc2cd7bd9e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어쩔 수 없는 K-BLOOD, 뼛속부터 한국人인 당신은 K-유교걸?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61104</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
             <content:encoded><![CDATA[핸드폰을 오래 쓸수록 배터리 수명은 줄어든다. 오늘도 배터리 없는 핸드폰을 부여잡고 발을 동...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/0a127c37-97f0-4fc2-a576-32ac7a0e45c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성분 뭣이 중헌디? 화장품 성분에 관한 뷰티 TMI]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60997</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60997</guid>
-            <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[K-뷰티 시장에서 유독 잘 팔리는 키워드 중 하나인 콘셉트 성분 화장품! 제품의 콘셉트를 만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/e88e9b8e-b2fd-4333-be89-ebb4bc9394da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 열심히 양치질 했는데도 누래지는 이유는 뭘까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60956</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60956</guid>
-            <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[매일 하는 양치, 제대로 하고 있을까? 아래 올바른 양치 방법을 모았다. 몇 개나 제대로 하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/e4883d84-9073-4e4a-bc18-94e437daf881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
