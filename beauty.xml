@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부르즈 할리파에서 계단 운동을? 할리웃 오빠들의 다이어트 비법이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61230</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61230</guid>
+            <pubDate>Thu, 18 Nov 2021 07:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트에 제대로 돌은 자, 윌 스미스와 크리스 프랫.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/2b320ee6-5dba-409e-bb2c-e082dffa6bba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뿌까머리도 찰떡인 리정, 모모, 닝닝, 선미의 시선강탈 힙한 비주얼!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61222</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61222</guid>
+            <pubDate>Thu, 18 Nov 2021 07:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[잼민이들만 하는 건 줄 알았다고? 아직 늦지 않았어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/0e707bed-c2e0-4a8e-8723-52d28dc56767.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살 빼려면 소금을 먹으라고?! 나트륨에 대한 오해와 진실]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61178</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 15:09:34 GMT</pubDate>
             <content:encoded><![CDATA[매일 매일 다이어트 목표에 도달한 강소라, 효민, 전소민의 다이어트 팁.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/030cbc7d-2eb2-4e95-b9a5-557a38887e07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따뜻한 밀크티를 연상케하는 가을 찰떡 뷰티템은 무엇?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61054</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61054</guid>
-            <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[차가운 공기마저 따뜻하게 데워줄 밀크티 한 잔. 올가을엔 뷰티템으로 즐길 차례!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/1825dac9-da80-432e-8b5a-5143db6b1d39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 배터리만 빨리 닳는다면? 이게 문제 !]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61014</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61014</guid>
-            <pubDate>Sun, 14 Nov 2021 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[핸드폰을 오래 쓸수록 배터리 수명은 줄어든다. 오늘도 배터리 없는 핸드폰을 부여잡고 발을 동...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/0a127c37-97f0-4fc2-a576-32ac7a0e45c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
