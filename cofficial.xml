@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 11:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 12:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겉바속촉 <스우파> 명장면은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/59377</link>
+            <guid>https://www.cosmopolitan.co.kr/article/59377</guid>
+            <pubDate>Thu, 18 Nov 2021 12:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[자꾸만 과몰입하게 되는 겉바속촉 &lt;스트릿 우먼 파이터 &gt;속 뇌리에 박힌 잊을 수 없는 장면은...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/39df2079-b44e-41bf-9372-c66e6b215ca5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인플루언서 꿈나무 VS 어둠의 일기 부계정, SNS 사용 패턴은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/58255</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[당신의 ‘레깅스 착용 가능 구역’은 어디까지?<br>원 마일 웨어, 애슬레저… 모든 트렌드...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/03/7f0875df-8077-426a-ab88-3ceb10e30f70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야, 너도 카톡 선물 할 수 있어!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55673</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55673</guid>
-            <pubDate>Thu, 18 Nov 2021 04:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘카카오톡 선물하기’ 사용해 봤다면 클릭! 기프티콘을 넘어 명품 쇼핑까지 SSAP가능한 언택...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202105/31/4114bb61-b367-483c-a231-2bf89d1f0382.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
