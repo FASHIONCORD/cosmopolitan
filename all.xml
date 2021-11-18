@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 10:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 11:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/d689994c-ce5c-4151-97b8-93399681b252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도르마무! 전통과 현대가 공존하는 공간이 있다? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61267</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61267</guid>
+            <pubDate>Thu, 18 Nov 2021 11:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[아름지기 20주년 특별 기획전 &lt;홈, 커밍 Homecoming&gt;은 전통문화와 현대 기술이 어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/51600ae6-bea4-42dd-925c-4da11b7f50d3.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[전시 취향에도 MBTI가 있다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61269</link>
             <guid>https://www.cosmopolitan.co.kr/article/61269</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 17 Nov 2021 10:11:55 GMT</pubDate>
             <content:encoded><![CDATA[방한과 스타일 모두 책임지는 눈밭 패션, 이렇게 해봐!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/f8ae77d6-3770-46c9-9b33-a06beb5df3e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미술계 인싸, 핫한 건 다 하는 크리에이티브 그룹 '아워레이보'? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61235</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61235</guid>
-            <pubDate>Wed, 17 Nov 2021 10:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[‘아워레이보’를 안다면 당신은 미술계 인싸다. 노동의 브랜드화에 가장 성공한 크리에이티브 그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/7b3d2594-2e84-41e7-b0ba-cb944e7ef7c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인플루언서 꿈나무 VS 어둠의 일기 부계정, SNS 사용 패턴은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
