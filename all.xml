@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 06:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/0a127c37-97f0-4fc2-a576-32ac7a0e45c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꿀언니, 이하늬의 꿀내나는 12월호 무빙커버와 다이슨 스페셜 에디션 최초 공개? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61254</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61254</guid>
+            <pubDate>Thu, 18 Nov 2021 06:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[꿀언니 픽, 아이템 말해 뭐해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/0c122c63-12fd-46a6-b645-1b46f217851e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유연성 갑, 댄서 엠마가 건강을 유지하는 꿀팁은? 엠마의 장 건강 비법 공개! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61247</link>
             <guid>https://www.cosmopolitan.co.kr/article/61247</guid>
@@ -350,14 +358,6 @@
             <pubDate>Wed, 17 Nov 2021 10:11:06 GMT</pubDate>
             <content:encoded><![CDATA[오늘부터 국어사전에 예쁨 뜻은 신세경, 신민아, 구혜선]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/065d7fbe-f60b-4809-8ec3-639041e761a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 최초 MAMA 여성 호스트로 선정된 ‘이효리’의 레전드 퍼포먼스 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61201</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61201</guid>
-            <pubDate>Wed, 17 Nov 2021 06:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[잘 봐, 효리 언니 무대다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/16870498-1dd9-4e30-9ca0-a3be59ea7839.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브 밤을 조심하라고? 연애 시장에서 사용되는 위험한 수단! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -424,6 +424,30 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/e09efe54-d5bc-4a4e-b216-1f72a20dfbcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[친밀한 관계에서의 '파트너 폭력', 들어보셨나요? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61263</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61263</guid>
+            <pubDate>Thu, 18 Nov 2021 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[UN 등 영미권 국가에서는 '데이트 폭력' 대신 '파트너 폭력'이라는 단어를 사용하는 것, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/9bfb3564-c19d-4860-b5df-9cca573b012c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿀언니, 이하늬의 꿀내나는 12월호 무빙커버와 다이슨 스페셜 에디션 최초 공개? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61254</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61254</guid>
+            <pubDate>Thu, 18 Nov 2021 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[꿀언니 픽, 아이템 말해 뭐해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/0c122c63-12fd-46a6-b645-1b46f217851e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['술꾼도시여자들'도 반할만한 신상 콜라보 막걸리와 맥주가 출시됐다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61250</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61250</guid>
+            <pubDate>Thu, 18 Nov 2021 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[바밤바, 사이다, 블루보틀, 불닭? 술도녀들 모두 드루와!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/c3b37135-32ca-45bb-8bf2-594ad4b79dd7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유연성 갑, 댄서 엠마가 건강을 유지하는 꿀팁은? 엠마의 장 건강 비법 공개! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61247</link>
             <guid>https://www.cosmopolitan.co.kr/article/61247</guid>
@@ -462,30 +486,6 @@
             <pubDate>Wed, 17 Nov 2021 10:11:55 GMT</pubDate>
             <content:encoded><![CDATA[이 중에 네 취향이 한 가지는 있겠지. 매력적인 디즈니의 세계관으로 빠져든다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/c30a7d3f-0b28-4b40-bfe2-b22839f1247f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최고 300억원대! 초호화 펜트 하우스, 롯데월드타워 시그니엘에 사는 셀럽들은 누구?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61215</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61215</guid>
-            <pubDate>Wed, 17 Nov 2021 10:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[조인성, 김준수 등 많은 셀럽들이 펜트 하우스 ‘현실 주단태’ 인증했다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/50443ff3-5c0b-487c-8272-d952f9a1c2d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['딥페이크'라는 루머의 루머의 루머의 루머 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61209</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61209</guid>
-            <pubDate>Wed, 17 Nov 2021 10:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 미국의 한 작은 마을에서 10대 딸을 둔 엄마가 기소됐다. 악의적인 목적으로 합성, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/a935bc05-6508-4a78-9570-aa926e1a0cb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박한별 근황, 제주도 카페 사장?! 매장 페인트칠까지 직접 한다고! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61200</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61200</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[박한별의 제주 힐링 근황!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/78506be5-fda3-44d1-a663-aa6a1fc728e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인플루언서 꿈나무 VS 어둠의 일기 부계정, SNS 사용 패턴은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

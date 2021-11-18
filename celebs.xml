@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 06:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀언니, 이하늬의 꿀내나는 12월호 무빙커버와 다이슨 스페셜 에디션 최초 공개?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61254</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61254</guid>
+            <pubDate>Thu, 18 Nov 2021 06:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[꿀언니 픽, 아이템 말해 뭐해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/0c122c63-12fd-46a6-b645-1b46f217851e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유연성 갑, 댄서 엠마가 건강을 유지하는 꿀팁은? 엠마의 장 건강 비법 공개!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61247</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 17 Nov 2021 10:11:06 GMT</pubDate>
             <content:encoded><![CDATA[오늘부터 국어사전에 예쁨 뜻은 신세경, 신민아, 구혜선]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/065d7fbe-f60b-4809-8ec3-639041e761a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 최초 MAMA 여성 호스트로 선정된 ‘이효리’의 레전드 퍼포먼스 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61201</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61201</guid>
-            <pubDate>Wed, 17 Nov 2021 06:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[잘 봐, 효리 언니 무대다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/16870498-1dd9-4e30-9ca0-a3be59ea7839.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
