@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 08:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 09:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMTQ1/MDAxNjM1MzE0NzUxNTI0.Xr-pceyZtypKjWM_9j915QM6nE4iVWbxeeHsn8Bqf90g.8xR-OT9czWTxAw80OoWnR21hlU9Plbvj8sYHxF3gW8og.JPEG/Ioeja3TZ6-k8qfPppJ-o1aURVomU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘술꾼도시여자들’ 역대급 예쁜 또라이 한선화의 사복 패션이 궁금하다면? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61272</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61272</guid>
+            <pubDate>Thu, 18 Nov 2021 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스러운 외모만큼 매력적인 그녀의 일상 속 다양한 스타일링!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/84494022-a5ab-4352-a330-59c59bf13664.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[켄달, 벨라, 제시카, 효연까지. 스키장 패션왕 누구? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61244</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61244</guid>
+            <pubDate>Wed, 17 Nov 2021 10:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[방한과 스타일 모두 책임지는 눈밭 패션, 이렇게 해봐!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/f8ae77d6-3770-46c9-9b33-a06beb5df3e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘빽’투더2000, 다시 유행중인 티파니, 헤이즈, 한지현, 차정원의 ‘호보백’ 스타일링이 궁금하다면? (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61198</link>
             <guid>https://www.cosmopolitan.co.kr/article/61198</guid>
@@ -214,22 +230,6 @@
             <pubDate>Mon, 15 Nov 2021 07:09:42 GMT</pubDate>
             <content:encoded><![CDATA[이제 주얼리도 스마트한 시대! 스마트폰과 스마트 워치, 블루투스 이어폰을 위한 신박한 액세...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/5956ad10-e757-41bd-8a6a-d3223ccb48c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편집숍 아니야?! 뷰티템보다 더 탐나는 굿즈 맛집 8 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61157</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61157</guid>
-            <pubDate>Mon, 15 Nov 2021 06:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[여기가 뷰티 브랜드야, 편집숍이야? ‘알잘딱깔센’한 굿즈로 뷰티템보다 더 탐나는 넘사벽 굿즈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/cbed2cb6-0715-421b-8b09-77b6bf06671c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현아 던 결혼?! 부케부터 약지 반지까지! 현던커플 럽스타 모음 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61106</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61106</guid>
-            <pubDate>Sun, 14 Nov 2021 11:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[결혼설이 들려오는 찰떡 궁합 현던 커플 럽스타]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/920b7a93-e221-4ea8-83f3-8f60a56069fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부르즈 할리파에서 계단 운동을? 할리웃 오빠들의 다이어트 비법이 궁금하다면? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,6 +296,38 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/030cbc7d-2eb2-4e95-b9a5-557a38887e07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한 걸음 앞으로 다가온 ‘섹스앤더시티’ 후속작 속 캐리의 패션 맛보기. ‘And just like that’! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61273</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61273</guid>
+            <pubDate>Thu, 18 Nov 2021 09:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[17년이 지난 캐리 언니의 패션은 여전히 멋질까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/a461cae8-b121-4465-b91e-07619c62be53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘술꾼도시여자들’ 역대급 예쁜 또라이 한선화의 사복 패션이 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61272</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61272</guid>
+            <pubDate>Thu, 18 Nov 2021 09:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스러운 외모만큼 매력적인 그녀의 일상 속 다양한 스타일링!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/84494022-a5ab-4352-a330-59c59bf13664.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야! 너도 유재석 라인이야? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61271</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61271</guid>
+            <pubDate>Thu, 18 Nov 2021 09:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[지석진, 하하, 조세호, 전소민에 이어 제시, 이영지, 이미주까지 유재석에게 간택 받은 신흥...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/10b21755-68eb-4d61-be20-a1dc1cf69024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신박하고 예뻐서 화제가 된 BTS, 아이유, 청하, 에이티즈의  2022 시즌 그리팅이 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61262</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61262</guid>
+            <pubDate>Thu, 18 Nov 2021 09:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[BTS, 아이유, 청하 등! 콘셉트 장인 아이돌들의 𝙈𝙄𝘾𝙃𝙄𝙉 매력]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/a043883f-8583-432f-8414-a85a9e2ade41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿀언니, 이하늬의 꿀내나는 12월호 무빙커버와 다이슨 스페셜 에디션 최초 공개? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61254</link>
             <guid>https://www.cosmopolitan.co.kr/article/61254</guid>
@@ -326,38 +358,6 @@
             <pubDate>Thu, 18 Nov 2021 01:52:55 GMT</pubDate>
             <content:encoded><![CDATA[출연 이후 피트 데이비슨과의 데이트가 연일 포착되고 있는 킴 카다시안. 킴칸예는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/e39a0f85-69d0-4199-b558-8ad7be27ee87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부르즈 할리파에서 계단 운동을? 할리웃 오빠들의 다이어트 비법이 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61230</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61230</guid>
-            <pubDate>Wed, 17 Nov 2021 10:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트에 제대로 돌은 자, 윌 스미스와 크리스 프랫.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/2b320ee6-5dba-409e-bb2c-e082dffa6bba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뿌까머리도 찰떡인 리정, 모모, 닝닝, 선미의 시선강탈 힙한 비주얼! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61222</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61222</guid>
-            <pubDate>Wed, 17 Nov 2021 10:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[잼민이들만 하는 건 줄 알았다고? 아직 늦지 않았어!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/0e707bed-c2e0-4a8e-8723-52d28dc56767.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최고 300억원대! 초호화 펜트 하우스, 롯데월드타워 시그니엘에 사는 셀럽들은 누구?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61215</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61215</guid>
-            <pubDate>Wed, 17 Nov 2021 10:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[조인성, 김준수 등 많은 셀럽들이 펜트 하우스 ‘현실 주단태’ 인증했다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/50443ff3-5c0b-487c-8272-d952f9a1c2d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 프로필 사진 찍고 레전드 여신 미모로 숨멎…인 여배우 TOP3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61204</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61204</guid>
-            <pubDate>Wed, 17 Nov 2021 10:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[오늘부터 국어사전에 예쁨 뜻은 신세경, 신민아, 구혜선]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/065d7fbe-f60b-4809-8ec3-639041e761a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이것은 커플 비즈니스인가, 비즈니스 커플인가 (코스모폴리탄 코리아 ─ 러브)]]></title>

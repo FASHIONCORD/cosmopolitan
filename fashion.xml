@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 08:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 09:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘술꾼도시여자들’ 역대급 예쁜 또라이 한선화의 사복 패션이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61272</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61272</guid>
+            <pubDate>Thu, 18 Nov 2021 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스러운 외모만큼 매력적인 그녀의 일상 속 다양한 스타일링!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/84494022-a5ab-4352-a330-59c59bf13664.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[켄달, 벨라, 제시카, 효연까지. 스키장 패션왕 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61244</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61244</guid>
+            <pubDate>Thu, 18 Nov 2021 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[방한과 스타일 모두 책임지는 눈밭 패션, 이렇게 해봐!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/f8ae77d6-3770-46c9-9b33-a06beb5df3e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘빽’투더2000, 다시 유행중인 티파니, 헤이즈, 한지현, 차정원의 ‘호보백’ 스타일링이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61198</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 07:09:42 GMT</pubDate>
             <content:encoded><![CDATA[이제 주얼리도 스마트한 시대! 스마트폰과 스마트 워치, 블루투스 이어폰을 위한 신박한 액세...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/5956ad10-e757-41bd-8a6a-d3223ccb48c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편집숍 아니야?! 뷰티템보다 더 탐나는 굿즈 맛집 8]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61157</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61157</guid>
-            <pubDate>Mon, 15 Nov 2021 06:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[여기가 뷰티 브랜드야, 편집숍이야? ‘알잘딱깔센’한 굿즈로 뷰티템보다 더 탐나는 넘사벽 굿즈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/cbed2cb6-0715-421b-8b09-77b6bf06671c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현아 던 결혼?! 부케부터 약지 반지까지! 현던커플 럽스타 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61106</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61106</guid>
-            <pubDate>Mon, 15 Nov 2021 05:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[결혼설이 들려오는 찰떡 궁합 현던 커플 럽스타]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/920b7a93-e221-4ea8-83f3-8f60a56069fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
