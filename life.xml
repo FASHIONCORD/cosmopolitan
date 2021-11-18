@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 07:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 08:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전시 취향에도 MBTI가 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61269</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61269</guid>
+            <pubDate>Thu, 18 Nov 2021 08:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[물론! MBTI보다 확실하게 취저 갤러리 ‘궁예’해드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/d55b80a7-aacb-4439-8c7a-0128af8f7876.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친밀한 관계에서의 '파트너 폭력', 들어보셨나요?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61263</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 17 Nov 2021 10:11:55 GMT</pubDate>
             <content:encoded><![CDATA[‘아워레이보’를 안다면 당신은 미술계 인싸다. 노동의 브랜드화에 가장 성공한 크리에이티브 그...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/7b3d2594-2e84-41e7-b0ba-cb944e7ef7c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 덤벼라! 화제의 콘텐츠, 디즈니+ 드디어 국내 상륙! 뭐부터 볼까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61225</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61225</guid>
-            <pubDate>Wed, 17 Nov 2021 10:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[이 중에 네 취향이 한 가지는 있겠지. 매력적인 디즈니의 세계관으로 빠져든다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/c30a7d3f-0b28-4b40-bfe2-b22839f1247f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

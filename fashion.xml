@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 07:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 08:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘빽’투더2000, 다시 유행중인 티파니, 헤이즈, 한지현, 차정원의 ‘호보백’ 스타일링이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61198</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61198</guid>
+            <pubDate>Thu, 18 Nov 2021 08:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[내가 골반바지 입을게. 호보백은 누가 멜래?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/d19d5e5d-acd6-4fb9-b28a-b7ff7666815c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남친짤, 여친짤은 이제훈, 김우빈, 제니, 고민시처럼!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61196</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 05:08:45 GMT</pubDate>
             <content:encoded><![CDATA[결혼설이 들려오는 찰떡 궁합 현던 커플 럽스타]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/920b7a93-e221-4ea8-83f3-8f60a56069fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써부터 들썩들썩! 2022 넥스트 레벨 신흥 미모 원톱 여돌은 뉴구?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61103</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61103</guid>
-            <pubDate>Mon, 15 Nov 2021 03:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[예고부터 난리 났다. 미모 원톱 제니, 카리나에 이어 비주얼 쇼크라고 불리는 아이브 장원영,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/49bc5d3f-b73c-4393-aa04-3530ff1dfc2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
