@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 10:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 11:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천재적 큐레이션의 경험, 몽클레르 하우스 오브 지니어스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61278</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61278</guid>
+            <pubDate>Fri, 19 Nov 2021 11:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[노란 거울 방 안에 펼쳐진 컬래버의 신세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/93697b05-3ef4-4d6a-ab76-cef8a68cba32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 걸음 앞으로 다가온 ‘섹스앤더시티’ 후속작 속 캐리의 패션 맛보기. ‘And just like that’!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61273</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 01:51:51 GMT</pubDate>
             <content:encoded><![CDATA[mbti 과몰입러 에디터가 분석하는 아이돌 패션 ( •͈ᴗ-)ᓂ-ෆ]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/86c97fb4-4817-4414-ab53-607f59f10632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출시하자마자 완판! 펜디 X 스킴스 컬렉션을 입은 셀럽들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61190</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61190</guid>
-            <pubDate>Wed, 17 Nov 2021 06:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[핫한 언니들 텅장각! 만들고있는 펜디 X 스킴스 컬렉션에 셀럽들도 열광중~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/80287280-1d50-4428-b536-4bacc0356e93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
