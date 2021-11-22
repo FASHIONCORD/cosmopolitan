@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[렌즈 안 끼고 싶은 날, 셀럽들은 힙하게 ‘안경’ 툭]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61389</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61389</guid>
+            <pubDate>Mon, 22 Nov 2021 15:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 디자인의 안경을 써볼지 고민시와 수영, 화사, 김도연의 셀렉션으로 골라보자]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/3fe05432-fde4-498d-a94e-7300bb555584.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가죽 봄버 재킷은 어때? 봄버 재킷 4way 활용법!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61357</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 15:09:27 GMT</pubDate>
             <content:encoded><![CDATA[방부제를 씹어 드셨다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/e5c63981-178e-4793-ba22-6ca996f495b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천재적 큐레이션의 경험, 몽클레르 하우스 오브 지니어스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61278</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61278</guid>
-            <pubDate>Fri, 19 Nov 2021 11:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[노란 거울 방 안에 펼쳐진 컬래버의 신세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/93697b05-3ef4-4d6a-ab76-cef8a68cba32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
