@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 07:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 08:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽들의 손민수 하고픈 다이어트 레시피가 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61290</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61290</guid>
+            <pubDate>Mon, 22 Nov 2021 08:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[맛있고 건강한데다가 쉽기까지~ 이런 다이어트라면 할 만하지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/8cacd640-d401-4e7f-8e62-dbe23000e0b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 계절에 ‘홍시’는 또 못 참지, 요즘 핫한 홍시 디저트 맛집 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61285</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 06:16:09 GMT</pubDate>
             <content:encoded><![CDATA[바밤바, 사이다, 블루보틀, 불닭? 술도녀들 모두 드루와!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/c3b37135-32ca-45bb-8bf2-594ad4b79dd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유연성 갑, 댄서 엠마가 건강을 유지하는 꿀팁은? 엠마의 장 건강 비법 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61247</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61247</guid>
-            <pubDate>Wed, 17 Nov 2021 15:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[나보다 나를 더 잘 아는 유산균 '더바이옴'이 그 비법이라는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/1d45f2d6-ec66-42c8-b4a8-5b03c80e4b76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
