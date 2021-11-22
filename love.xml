@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 03:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어쩔 수 없는 K-BLOOD, 뼛속부터 한국人인 당신은 K-유교걸?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61104</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61104</guid>
+            <pubDate>Mon, 22 Nov 2021 04:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[K-BLOOD의 유교걸 인증 순간들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/a58fb141-3d26-4885-9ad7-1767ee7759fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이것은 커플 비즈니스인가, 비즈니스 커플인가]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61089</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 10:11:16 GMT</pubDate>
             <content:encoded><![CDATA[냉혹한 복수극 도중에 뜬금없이 등장했던 &lt;마이 네임&gt; 속 베드신. 사실 이 베드신이 예고된 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/48715ffb-5a46-49a2-83db-325c5e704d95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여전히 꿀 떨어지는 에릭 ♥ 나혜미 부부, 럽스타 모음 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60698</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60698</guid>
-            <pubDate>Sun, 14 Nov 2021 10:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[꽁냥꽁냥, 너무 부러워!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/d689994c-ce5c-4151-97b8-93399681b252.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

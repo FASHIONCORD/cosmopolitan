@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 03:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -359,6 +359,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/1d45f2d6-ec66-42c8-b4a8-5b03c80e4b76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어쩔 수 없는 K-BLOOD, 뼛속부터 한국人인 당신은 K-유교걸? (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61104</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61104</guid>
+            <pubDate>Mon, 22 Nov 2021 04:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[K-BLOOD의 유교걸 인증 순간들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/a58fb141-3d26-4885-9ad7-1767ee7759fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이것은 커플 비즈니스인가, 비즈니스 커플인가 (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61089</link>
             <guid>https://www.cosmopolitan.co.kr/article/61089</guid>
@@ -415,12 +423,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/48715ffb-5a46-49a2-83db-325c5e704d95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여전히 꿀 떨어지는 에릭 ♥ 나혜미 부부, 럽스타 모음 ZIP (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/60698</link>
-            <guid>https://www.cosmopolitan.co.kr/article/60698</guid>
-            <pubDate>Fri, 05 Nov 2021 07:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[꽁냥꽁냥, 너무 부러워!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/d689994c-ce5c-4151-97b8-93399681b252.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이 계절에 ‘홍시’는 또 못 참지, 요즘 핫한 홍시 디저트 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61285</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61285</guid>
+            <pubDate>Mon, 22 Nov 2021 04:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[공기, 햇살 그리고 습도까지,,, 홍시 디저트 먹기 딱 좋은 날 아닌가]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/8a67158f-87fa-4a4c-90fb-5a9678bb6b4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샐러드도 구독이 된다고요? 샐러드 구독 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -477,14 +485,6 @@
             <pubDate>Wed, 17 Nov 2021 15:13:21 GMT</pubDate>
             <content:encoded><![CDATA[나보다 나를 더 잘 아는 유산균 '더바이옴'이 그 비법이라는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/1d45f2d6-ec66-42c8-b4a8-5b03c80e4b76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울철 최고의 간식 붕어빵, 호떡! 칼로리가 그렇게 높다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61245</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61245</guid>
-            <pubDate>Wed, 17 Nov 2021 15:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[찬바람 불면 찾아오는 겨울 간식. 조그만 크기에 그렇지 못한 칼로리. 그…그래도 붕어빵은 포...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/c53a0f68-db54-4379-ade0-bc814d7d2e55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겉바속촉 <스우파> 명장면은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
