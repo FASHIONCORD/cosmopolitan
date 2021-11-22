@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 06:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 07:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스커트를 입은 남자들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61308</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61308</guid>
+            <pubDate>Mon, 22 Nov 2021 07:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[남자들이 자유와 자기 표현을 위해 스커트를 입기 시작했다. 성별을 떠나 타인의 시선과 케케묵...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/9d00e5b9-2709-42be-98f5-9e779469ca4c.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[제니, 수지, 신예은, 차정원의 가을 스타일링 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61300</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61300</guid>
+            <pubDate>Mon, 22 Nov 2021 07:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽들은 가을패션 어떻게 연출해?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/3cef537f-ceea-4a54-8ceb-fc01bbc1bacc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꾸안꾸 스타일링에 찰떡! 당장 손민수하고픈 셀럽들의 컬러 볼캡]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61299</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[방한과 스타일 모두 책임지는 눈밭 패션, 이렇게 해봐!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/f8ae77d6-3770-46c9-9b33-a06beb5df3e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘빽’투더2000, 다시 유행중인 티파니, 헤이즈, 한지현, 차정원의 ‘호보백’ 스타일링이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61198</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61198</guid>
-            <pubDate>Thu, 18 Nov 2021 08:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[내가 골반바지 입을게. 호보백은 누가 멜래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/d19d5e5d-acd6-4fb9-b28a-b7ff7666815c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남친짤, 여친짤은 이제훈, 김우빈, 제니, 고민시처럼!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61196</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61196</guid>
-            <pubDate>Thu, 18 Nov 2021 03:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[마구마구 자랑하고 싶은 남친짤, 여친짤 생성 노하우 이제훈, 김우빈, 제니, 고민시에게 한번...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/36682dd8-6b18-4416-a250-2decf1d4b23c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
