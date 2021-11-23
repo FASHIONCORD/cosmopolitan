@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 11:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 12:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘생쁨 주의! 숏컷도 찰떡인 송지효의 헤어스타일이 변한 이유는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61417</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61417</guid>
+            <pubDate>Tue, 23 Nov 2021 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[올해 나이가 ‘40’이라니! 매일이 미모 레전드인 송지효의 헤어스타일 변천사]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/8096c470-923c-4796-85c0-c688a24c36fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알고 보니 금수저 ‘의사 집안’이라는 쇼미 래퍼 3인방?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61416</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 05:09:24 GMT</pubDate>
             <content:encoded><![CDATA[11번가 광고에 등장했다고? 영화 대본리딩에 참석한거 실화?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/e6c70dd7-2bef-4570-9d5f-42e3bc820ceb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이하이, 리정, 조이의 시어링 아우터 스타일링!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61392</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61392</guid>
-            <pubDate>Tue, 23 Nov 2021 05:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[이번 겨울의 패션 템 시어링 아우터. 이하이, 윈터, 리정, 정채연, 조이처럼 멋지게 입어보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/90b3a106-36e2-4006-8a0a-b969e1ad084d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
