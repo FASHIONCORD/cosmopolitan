@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 16:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울엔 머플러지! 따뜻하고 예쁜 셀럽들의 머플러 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61410</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61410</guid>
+            <pubDate>Tue, 23 Nov 2021 17:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[따라하고픈 패피들의 러블리한 머플러룩!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/71d962b8-4123-4ca8-a265-db4e7c41d0d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[십 원도 없지만, 건물주가 되는 투자 아이디어가 있다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61406</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61406</guid>
+            <pubDate>Tue, 23 Nov 2021 17:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[괜찮아, ‘빵원’부터 시작하자. 땡전 한푼 없이 시작해 건물주가 되는 투자 아이디어 빅 픽처...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/ae322907-3ddf-494c-96a2-62145508b494.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영, 차정원, 배정남 등 패피 셀럽의 미국 맛 핫플로 등극한 용산공원!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61401</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[멋스러운 어텀 룩을 위한 에센셜, 브라운 톤의 울 트위드 체크 재킷과 가죽 봄버 재킷으로 완...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/b2d0ed24-92c1-41f2-b7f5-caee02066fce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체크 재킷 4way 활용법!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61341</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61341</guid>
-            <pubDate>Mon, 22 Nov 2021 09:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[멋스러운 어텀 룩을 위한 에센셜, 브라운 톤의 울 트위드 체크 재킷과 가죽 봄버 재킷으로 완...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/f621241e-06f8-4b3a-9cbe-a338e0ac8867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보테가 베네타 새로운 CD부터 지드래곤 피마원 '퀀도1' 발매정보까지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61331</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61331</guid>
-            <pubDate>Mon, 22 Nov 2021 09:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모라이크&gt; 11월 셋째주 코스모 Pick 패션 뉴스!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/7dec932d-3012-4d1b-8a9c-88b243ae1998.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
