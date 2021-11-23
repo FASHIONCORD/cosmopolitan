@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 12:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 13:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영, 차정원, 배정남 등 패피 셀럽의 미국 맛 핫플로 등극한 용산공원!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61401</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61401</guid>
+            <pubDate>Tue, 23 Nov 2021 13:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[여권 없이 미국 여행 쌉가능한 용산공원 미군 기지에서 인증샷 남긴 셀럽들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/2dfaa08e-8f20-4b7e-8b19-f98cee0af4ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<술꾼도시여자들> , 그들보다 심한 게 나야… 다들 술 거하게 마시고 흑역사 생성한 경험 있쥬?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61393</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61393</guid>
+            <pubDate>Tue, 23 Nov 2021 13:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;술꾼도시여자들&gt; 속 삼인방들보다 흑역사 심한 게 나야나…]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/12c9e190-5723-4213-998f-0e8894aa3e08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에디터가 직접 채변 검사하고 갓벽한 유산균 찾은 SSUL! MBTI 유산균 '더바이옴'이 뭔데?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61372</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 04:13:01 GMT</pubDate>
             <content:encoded><![CDATA[공기, 햇살 그리고 습도까지,,, 홍시 디저트 먹기 딱 좋은 날 아닌가]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/8a67158f-87fa-4a4c-90fb-5a9678bb6b4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샐러드도 구독이 된다고요? 샐러드 구독 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61281</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61281</guid>
-            <pubDate>Fri, 19 Nov 2021 01:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[어차피 먹을 거 구독 하면 더 싼데 당장 구독 해야지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/84489cb8-c208-4ea6-8e88-b7a06ed73af0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도르마무! 전통과 현대가 공존하는 공간이 있다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61267</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61267</guid>
-            <pubDate>Thu, 18 Nov 2021 11:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[아름지기 20주년 특별 기획전 &lt;홈, 커밍 Homecoming&gt;은 전통문화와 현대 기술이 어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/51600ae6-bea4-42dd-925c-4da11b7f50d3.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
