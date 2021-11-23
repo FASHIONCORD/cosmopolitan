@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 06:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울엔 머플러지! 따뜻하고 예쁜 셀럽들의 머플러 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61410</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61410</guid>
+            <pubDate>Tue, 23 Nov 2021 06:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[따라하고픈 패피들의 러블리한 머플러룩!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/71d962b8-4123-4ca8-a265-db4e7c41d0d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한소희, 모니카, 이동휘도 방문한 구찌 X 발렌시아가 더해커프로젝트 팝업 스토어, 가보자고~!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61399</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 09:10:14 GMT</pubDate>
             <content:encoded><![CDATA[어떤 디자인의 안경을 써볼지 고민시와 수영, 화사, 김도연의 셀렉션으로 골라보자]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/3fe05432-fde4-498d-a94e-7300bb555584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 28주년 리마인드 웨딩 스냅을 찍었다는 최수종&하희라, 찐애정 모멘트?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61380</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61380</guid>
-            <pubDate>Mon, 22 Nov 2021 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[28년째 꿀 떨어지는 중!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/bc1dec9d-2542-46d2-a26f-14283f0ffaa0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
