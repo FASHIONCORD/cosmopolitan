@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 06:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 07:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 코시국 속 외로움을 느낀 적 있다? 없다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61304</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61304</guid>
+            <pubDate>Tue, 23 Nov 2021 07:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 대면 수업이 있었는데, 없었어요... 코로나가 뺏어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/705c8d66-8ced-4907-a92f-d903497551b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말 홈파티 요리에 자신 없다면, 집에서 먹는 호텔 음식은 어때?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61294</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 06:16:09 GMT</pubDate>
             <content:encoded><![CDATA[UN 등 영미권 국가에서는 '데이트 폭력' 대신 '파트너 폭력'이라는 단어를 사용하는 것, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/9bfb3564-c19d-4860-b5df-9cca573b012c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀언니, 이하늬의 꿀내나는 12월호 무빙커버와 다이슨 스페셜 에디션 최초 공개?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61254</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61254</guid>
-            <pubDate>Thu, 18 Nov 2021 06:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[꿀언니 픽, 아이템 말해 뭐해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/0c122c63-12fd-46a6-b645-1b46f217851e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
