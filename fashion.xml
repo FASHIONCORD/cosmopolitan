@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 23:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 00:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 칼바람 극복할 셀럽들의 ‘패딩’ 스타일링이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61390</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61390</guid>
+            <pubDate>Tue, 23 Nov 2021 00:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[잘 산 패딩 점퍼 하나 열 코트 안 부럽다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/b9d28225-230e-45a2-a01b-de68521aa2be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[렌즈 안 끼고 싶은 날, 셀럽들은 힙하게 ‘안경’ 툭]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61389</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 21 Nov 2021 19:07:50 GMT</pubDate>
             <content:encoded><![CDATA[볼캡 하나로 패피력 만렙 될 수 있다?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/017f4b67-9a38-47c8-8dbd-7c0535f06f80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<지금 헤어지는 중입니다> 의 패션 디자이너, 송혜교 픽 스타일리시한 룩이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61295</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61295</guid>
-            <pubDate>Fri, 19 Nov 2021 15:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[방부제를 씹어 드셨다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/e5c63981-178e-4793-ba22-6ca996f495b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
