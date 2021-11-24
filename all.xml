@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 07:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 08:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/90b3a106-36e2-4006-8a0a-b969e1ad084d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[볼살 실종, 대체 다이어트 비법이 뭐야? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61373</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61373</guid>
+            <pubDate>Wed, 24 Nov 2021 08:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[귀엽고 아가아가한 볼살 실종, 안소희, 엄지, 소미, 세정의 더 예뻐진 다이어트 비결이 뭐야...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/429d5af0-f0eb-4d49-86a4-3ca173a52689.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에디터가 직접 채변 검사하고 갓벽한 유산균 찾은 SSUL! MBTI 유산균 '더바이옴'이 뭔데? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61372</link>
             <guid>https://www.cosmopolitan.co.kr/article/61372</guid>
@@ -285,14 +293,6 @@
             <pubDate>Wed, 17 Nov 2021 15:13:21 GMT</pubDate>
             <content:encoded><![CDATA[나보다 나를 더 잘 아는 유산균 '더바이옴'이 그 비법이라는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/1d45f2d6-ec66-42c8-b4a8-5b03c80e4b76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱구 눈썹 노노! 코스모피셜 나노 단위의 아이 브로 스케일링 메뉴얼 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61237</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61237</guid>
-            <pubDate>Thu, 18 Nov 2021 15:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[샥샥샥 그렸는데 거울만 보면 짱구 눈썹? 잘나가는 강남 반영구 1타 강사 부럽지 않은 코스모...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/58786c4e-4cde-4d20-bf41-9e8c2e37365b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워너비 패셔니스타 공효진ㆍ아이린ㆍ강민경의 갓벽한 겨울 니트 활용법! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
