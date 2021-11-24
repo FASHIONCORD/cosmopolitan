@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 03:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 04:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙과 따듯함 둘 다 잡는다! 슬기, 조이, 노제가 쓴 겨울 비니는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61441</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61441</guid>
+            <pubDate>Wed, 24 Nov 2021 04:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽들의 겨울 비니 패션을 참고해보자]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/2f2c25d0-7a30-4a75-9542-298c00a08269.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장원영ㆍ정려원ㆍ차정원ㆍ강민경ㆍ김재경, 발라클라바 유행 열차에 탑승!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61433</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[이번 겨울의 패션 템 시어링 아우터. 이하이, 윈터, 리정, 정채연, 조이처럼 멋지게 입어보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/90b3a106-36e2-4006-8a0a-b969e1ad084d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 칼바람 극복할 셀럽들의 ‘패딩’ 스타일링이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61390</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61390</guid>
-            <pubDate>Tue, 23 Nov 2021 00:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[잘 산 패딩 점퍼 하나 열 코트 안 부럽다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/b9d28225-230e-45a2-a01b-de68521aa2be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
