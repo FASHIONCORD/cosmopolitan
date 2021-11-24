@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[축의금은 얼마 해야 돼? 사소하지만 사소하지 않은 일상 속 에티켓 모음.ZIP 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61426</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61426</guid>
+            <pubDate>Wed, 24 Nov 2021 03:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[축의금, 부의금 기준은 뭘까? 은근 헷갈리는 일상 매너 모음]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/a476c0e3-b6dd-47c2-a3f6-7eee74c02bbc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영, 차정원, 배정남 등 패피 셀럽의 미국 맛 핫플로 등극한 용산공원!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61401</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 08:15:07 GMT</pubDate>
             <content:encoded><![CDATA[맛있고 건강한데다가 쉽기까지~ 이런 다이어트라면 할 만하지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/8cacd640-d401-4e7f-8e62-dbe23000e0b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 계절에 ‘홍시’는 또 못 참지, 요즘 핫한 홍시 디저트 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61285</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61285</guid>
-            <pubDate>Mon, 22 Nov 2021 04:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[공기, 햇살 그리고 습도까지,,, 홍시 디저트 먹기 딱 좋은 날 아닌가]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/8a67158f-87fa-4a4c-90fb-5a9678bb6b4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
