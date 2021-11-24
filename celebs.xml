@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 23:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 00:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼 준비과정에서 소중한 생명까지, 연예계 비주얼 커플 박신혜, 최태준의 겹경사 소식!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61418</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61418</guid>
+            <pubDate>Wed, 24 Nov 2021 00:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[박신혜, 최태준 4년 열애 끝에 결혼+임신까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/d4fc3812-3326-45d2-b4f4-88c91c64ac57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘생쁨 주의! 숏컷도 찰떡인 송지효의 헤어스타일이 변한 이유는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61417</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 05:09:24 GMT</pubDate>
             <content:encoded><![CDATA[매번 아시아 ‘최초’ 타이틀을 찍는 BTS AMA에서 3관왕 수상!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/a0f969bf-1894-400e-aa29-295a589e77f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사생활 논란 김선호, 활동 재개 하나?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61395</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61395</guid>
-            <pubDate>Tue, 23 Nov 2021 05:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[11번가 광고에 등장했다고? 영화 대본리딩에 참석한거 실화?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/e6c70dd7-2bef-4570-9d5f-42e3bc820ceb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 23:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 00:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워너비 패셔니스타 공효진ㆍ아이린ㆍ강민경의 갓벽한 겨울 니트 활용법!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61431</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61431</guid>
+            <pubDate>Wed, 24 Nov 2021 00:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[효민, 강민경, 엄지원, 아이린, 공효진도 즐겨하는 니트 걸치기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/985f5a6d-5cda-4a05-9c93-59fc73fe7493.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울엔 머플러지! 따뜻하고 예쁜 셀럽들의 머플러 스타일링]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61410</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 15:10:25 GMT</pubDate>
             <content:encoded><![CDATA[어떤 디자인의 안경을 써볼지 고민시와 수영, 화사, 김도연의 셀렉션으로 골라보자]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/3fe05432-fde4-498d-a94e-7300bb555584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가죽 봄버 재킷은 어때? 봄버 재킷 4way 활용법!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61357</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61357</guid>
-            <pubDate>Mon, 22 Nov 2021 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[멋스러운 어텀 룩을 위한 에센셜, 브라운 톤의 울 트위드 체크 재킷과 가죽 봄버 재킷으로 완...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/b2d0ed24-92c1-41f2-b7f5-caee02066fce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
