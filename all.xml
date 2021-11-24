@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 06:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/58786c4e-4cde-4d20-bf41-9e8c2e37365b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[워너비 패셔니스타 공효진ㆍ아이린ㆍ강민경의 갓벽한 겨울 니트 활용법! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61431</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61431</guid>
+            <pubDate>Wed, 24 Nov 2021 00:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[효민, 강민경, 엄지원, 아이린, 공효진도 즐겨하는 니트 걸치기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/985f5a6d-5cda-4a05-9c93-59fc73fe7493.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[벌써 전 세계 1위라고? <지옥> 관전 포인트 TOP3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61429</link>
             <guid>https://www.cosmopolitan.co.kr/article/61429</guid>
@@ -349,14 +357,6 @@
             <pubDate>Tue, 23 Nov 2021 05:09:24 GMT</pubDate>
             <content:encoded><![CDATA[구찌 X 발렌시아가 콜라보래이션 팝업 스토어가 청담동 분더샵에 오픈했다. 핫한 콜라보인 만큼...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/e43848a8-7bb7-4e58-824e-35f57b6e9512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정자가 누구야? 넷플릭스 드라마<지옥>의 무서운 신 스틸러들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61398</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61398</guid>
-            <pubDate>Tue, 23 Nov 2021 05:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[저희가 30억을 드리겠습니다. 자기 소개를... 해주시겠습니까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/4bb511f3-e70e-457f-a400-ad3a6670af95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[골든 페니스 신드롬을 아시나요? (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -423,6 +423,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/27ce8cf9-3ab6-4b92-bcda-22afc4baca18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뭘 그래 놀라? 다이어터를 위한 서울 그래놀라 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61437</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61437</guid>
+            <pubDate>Wed, 24 Nov 2021 06:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[그냥 먹어도 맛있고, 그릭 요거트랑 먹으면 더 맛있고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/4c09ee97-eb15-4b01-8ca6-2fc3bb01892e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미쉐린에 새롭게 추가된 빕그루망 맛집 공개? 합리적인 가격에 훌륭한 맛은 덤! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61436</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61436</guid>
+            <pubDate>Wed, 24 Nov 2021 06:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022 미슐랭 가이드에 추가한 빕그루망 맛집4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/96ae554c-0c0f-4c88-84c5-6c3ad342a8aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[축의금은 얼마 해야 돼? 사소하지만 사소하지 않은 일상 속 에티켓 모음.ZIP 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61426</link>
             <guid>https://www.cosmopolitan.co.kr/article/61426</guid>
@@ -471,20 +487,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/705c8d66-8ced-4907-a92f-d903497551b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연말 홈파티 요리에 자신 없다면, 집에서 먹는 호텔 음식은 어때? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61294</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61294</guid>
-            <pubDate>Mon, 22 Nov 2021 13:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[호텔에서 가볍게 들고나오면 우리집이 맛집! 호텔 투고 서비스 맛집 모아보기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/27a26de4-d3d9-4059-ad56-2e0879b59b24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들의 손민수 하고픈 다이어트 레시피가 궁금하다면? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61290</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61290</guid>
-            <pubDate>Mon, 22 Nov 2021 08:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[맛있고 건강한데다가 쉽기까지~ 이런 다이어트라면 할 만하지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/8cacd640-d401-4e7f-8e62-dbe23000e0b1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2021 올해의 얼굴은 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60975</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60975</guid>
+            <pubDate>Wed, 24 Nov 2021 06:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021년, 뷰티 업계를 뜨겁게 달군 이들은 누굴까? 올해의 단발좌부터 베스트 오브 베스트 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/ef666217-f779-4ff8-961c-b98a2dfa809a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겉바속촉 <스우파> 명장면은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -541,14 +549,6 @@
             <pubDate>Mon, 08 Nov 2021 02:28:44 GMT</pubDate>
             <content:encoded><![CDATA[연애는 내가 아니라 드라마가 해요. 썸 타는 법, 키스법, 애인까지 드라마에서 골라골라~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/06/470f053f-8b35-4234-b768-1b19f3462403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레깅스, 어디까지 가능?! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55794</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55794</guid>
-            <pubDate>Mon, 08 Nov 2021 02:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 ‘레깅스 착용 가능 구역’은 어디까지?<br>원 마일 웨어, 애슬레저… 모든 트렌드...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/03/7f0875df-8077-426a-ab88-3ceb10e30f70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
