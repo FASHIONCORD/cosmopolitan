@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -423,6 +423,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d3a656fa-b08a-4f28-ab65-421fc81edc9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여권 없이 떠나자! 용리단길 속 세계 미식 여행 리스트3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61465</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61465</guid>
+            <pubDate>Wed, 24 Nov 2021 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[코시국에 비행기 대신 지하철 타고 세계 맛집 여행 기분 내면 기분이 조크든요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/86607f2f-4fa9-47bc-a6a8-f878fced2281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이모님 마음 가는 대로~ 요즘 핫플 이모카세 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61457</link>
             <guid>https://www.cosmopolitan.co.kr/article/61457</guid>
@@ -477,14 +485,6 @@
             <pubDate>Tue, 23 Nov 2021 13:17:00 GMT</pubDate>
             <content:encoded><![CDATA[여권 없이 미국 여행 쌉가능한 용산공원 미군 기지에서 인증샷 남긴 셀럽들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/2dfaa08e-8f20-4b7e-8b19-f98cee0af4ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<술꾼도시여자들> , 그들보다 심한 게 나야… 다들 술 거하게 마시고 흑역사 생성한 경험 있쥬?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61393</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61393</guid>
-            <pubDate>Tue, 23 Nov 2021 13:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;술꾼도시여자들&gt; 속 삼인방들보다 흑역사 심한 게 나야나…]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/12c9e190-5723-4213-998f-0e8894aa3e08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 올해의 얼굴은 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
