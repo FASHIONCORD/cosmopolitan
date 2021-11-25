@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 02:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 최고 가수는 상 받을 때 뭐 입나? ‘아메리칸 뮤직 어워즈’ 패션 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61450</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61450</guid>
+            <pubDate>Thu, 25 Nov 2021 02:28:54 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단이 ‘아메리칸 뮤직 어워즈’에서 올해의 아티스트를 수상했다. 아시아 아티스트 최초다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/f325ea06-0c6d-403e-a693-02e128ef7f18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷰티브랜드CEO 아리아나 그란데, 해리 스타일스의 각 브랜드 아이덴티티에 대해 파헤쳐볼까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61440</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 07:12:13 GMT</pubDate>
             <content:encoded><![CDATA[의사 집안에서 래퍼 난다?! 상상도 못한 그들의 정체는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/02b8dde5-cbd2-416e-901f-f837e4dc5dc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정민이 초딩 느와르 영화를 만들었다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61413</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61413</guid>
-            <pubDate>Tue, 23 Nov 2021 07:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[연출가로서 27명의 어린이 연기자와 호흡한 박정민은 동심을 ‘가장 현재를 충실히 살아가는 아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/15911bf7-2e31-4292-ac38-4cdd8281c534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
