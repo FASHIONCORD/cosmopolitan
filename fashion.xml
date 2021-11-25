@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 23:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 00:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 이하늬의 영롱 영롱한 홀리데이 뷰티 모먼트! 고급진 헤어 스타일링 비결은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61422</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61422</guid>
+            <pubDate>Thu, 25 Nov 2021 00:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[연중 가장 화려하고 대담하게 변신할 수 있는 블링블링 홀리데이! 반짝반짝 빛나는 이브닝 나잇...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/c6ff7d54-8e68-440c-93b4-59a1a0b35905.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙과 따듯함 둘 다 잡는다! 슬기, 조이, 노제가 쓴 겨울 비니는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61441</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[구찌 X 발렌시아가 콜라보래이션 팝업 스토어가 청담동 분더샵에 오픈했다. 핫한 콜라보인 만큼...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/e43848a8-7bb7-4e58-824e-35f57b6e9512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이하이, 리정, 조이의 시어링 아우터 스타일링!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61392</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61392</guid>
-            <pubDate>Tue, 23 Nov 2021 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[이번 겨울의 패션 템 시어링 아우터. 이하이, 윈터, 리정, 정채연, 조이처럼 멋지게 입어보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/90b3a106-36e2-4006-8a0a-b969e1ad084d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
