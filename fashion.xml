@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지속가능 패션의 시대가 도래했다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61446</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61446</guid>
+            <pubDate>Thu, 25 Nov 2021 03:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 일상이 지구의 평화로운 시간을 단축시키는 것이었다면? 깨끗한 공기와 물, 익숙한 날씨...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/197e9859-99d4-43b7-ba57-8fa5e8368a6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 이하늬의 영롱 영롱한 홀리데이 뷰티 모먼트! 고급진 헤어 스타일링 비결은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61422</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 13:17:00 GMT</pubDate>
             <content:encoded><![CDATA[여권 없이 미국 여행 쌉가능한 용산공원 미군 기지에서 인증샷 남긴 셀럽들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/2dfaa08e-8f20-4b7e-8b19-f98cee0af4ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희, 모니카, 이동휘도 방문한 구찌 X 발렌시아가 더해커프로젝트 팝업 스토어, 가보자고~!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61399</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61399</guid>
-            <pubDate>Tue, 23 Nov 2021 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[구찌 X 발렌시아가 콜라보래이션 팝업 스토어가 청담동 분더샵에 오픈했다. 핫한 콜라보인 만큼...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/e43848a8-7bb7-4e58-824e-35f57b6e9512.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
