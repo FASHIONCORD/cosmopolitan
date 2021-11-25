@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -423,6 +423,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/51eb67ff-8a65-4916-88d8-201ac0da727b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유명해지기 전에 얼른 가보자! 비경이 숨어 있는 한적한 국내 여행명소4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61476</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61476</guid>
+            <pubDate>Thu, 25 Nov 2021 15:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[스노클링, 승마, 트레킹, 사이클까지. 섬여행을 오만 배 즐겁게 해줄 액티비티는 덤]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/8d540b53-a543-4e7d-9463-0f84cc114593.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인스타에서 많이 보던 거기 어디? 크리스마스 스폿 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61474</link>
             <guid>https://www.cosmopolitan.co.kr/article/61474</guid>
@@ -477,14 +485,6 @@
             <pubDate>Wed, 24 Nov 2021 06:13:03 GMT</pubDate>
             <content:encoded><![CDATA[그냥 먹어도 맛있고, 그릭 요거트랑 먹으면 더 맛있고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/4c09ee97-eb15-4b01-8ca6-2fc3bb01892e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미쉐린에 새롭게 추가된 빕그루망 맛집 공개? 합리적인 가격에 훌륭한 맛은 덤! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61436</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61436</guid>
-            <pubDate>Wed, 24 Nov 2021 06:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022 미슐랭 가이드에 추가한 빕그루망 맛집4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/96ae554c-0c0f-4c88-84c5-6c3ad342a8aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 올해의 얼굴은 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
