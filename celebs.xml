@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 09:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 10:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유미의 의미]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61451</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61451</guid>
+            <pubDate>Thu, 25 Nov 2021 10:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[이러니저러니 해도 ‘사람 공부’ 하는 연기가 제일 재미있다. 말갛고 또렷한 얼굴로 연기에 대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/da657b7e-77cc-4785-9344-d54b71db96b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 최고 가수는 상 받을 때 뭐 입나? ‘아메리칸 뮤직 어워즈’ 패션 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61450</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 12:15:14 GMT</pubDate>
             <content:encoded><![CDATA[올해 나이가 ‘40’이라니! 매일이 미모 레전드인 송지효의 헤어스타일 변천사]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/8096c470-923c-4796-85c0-c688a24c36fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고 보니 금수저 ‘의사 집안’이라는 쇼미 래퍼 3인방?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61416</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61416</guid>
-            <pubDate>Tue, 23 Nov 2021 07:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[의사 집안에서 래퍼 난다?! 상상도 못한 그들의 정체는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/02b8dde5-cbd2-416e-901f-f837e4dc5dc8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
