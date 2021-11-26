@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 09:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 10:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ITZY 유나·레드벨벳 웬디 등의 셀럽이 올 타임 레전드를 찍은 헤어가 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61480</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61480</guid>
+            <pubDate>Fri, 26 Nov 2021 10:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[소화력 1000%인 것 다들 인정!?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/cae8f585-8737-4b26-b5bf-afa02fc4e8cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김세정ㆍ이영지ㆍ기안84ㆍ김희철의 한 달 단기 다이어트 꿀TIP은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61460</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 01:52:04 GMT</pubDate>
             <content:encoded><![CDATA[까칠해진 손을 부드럽게 케어해줄 신상 핸드크림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/685187bf-3e2a-4c51-bc6d-ed4818824ea9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모가 주목한 넥스트 뷰티 아이콘은 뉴구?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61309</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61309</guid>
-            <pubDate>Tue, 23 Nov 2021 09:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[패션 하우스의 부내템과 올가을 요긴하게 쓸 신상들. 그리고 뷰티 신을 점령한 넥스트 아이콘까...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/e91afee6-4792-4ae6-9c5c-f341ecfebf03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
