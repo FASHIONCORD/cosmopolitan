@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라이클리닝 하면 패딩이 망가진다고? 겨울 의류 세탁법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61456</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61456</guid>
+            <pubDate>Fri, 26 Nov 2021 09:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[니트, 패딩, 머플러까지. 무조건 겨울옷은 드라이클리닝 한다고? 비싼 옷 망치지 말고 제대로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/d50edb51-dc8c-47d3-9621-83a9475bd384.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 홀리데이의 세계로]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61454</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 00:29:57 GMT</pubDate>
             <content:encoded><![CDATA[효민, 강민경, 엄지원, 아이린, 공효진도 즐겨하는 니트 걸치기!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/985f5a6d-5cda-4a05-9c93-59fc73fe7493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울엔 머플러지! 따뜻하고 예쁜 셀럽들의 머플러 스타일링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61410</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61410</guid>
-            <pubDate>Tue, 23 Nov 2021 17:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[따라하고픈 패피들의 러블리한 머플러룩!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/71d962b8-4123-4ca8-a265-db4e7c41d0d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

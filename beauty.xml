@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김세정ㆍ이영지ㆍ기안84ㆍ김희철의 한 달 단기 다이어트 꿀TIP은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61460</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61460</guid>
+            <pubDate>Fri, 26 Nov 2021 09:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[굶기만 하는 단기 다이어트는 NO ~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/4ca8b88e-3ec7-4fc2-9551-1edd60858218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별한 홀리데이의 세계로]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61454</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61454</guid>
+            <pubDate>Fri, 26 Nov 2021 09:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷰티브랜드CEO 아리아나 그란데, 해리 스타일스의 각 브랜드 아이덴티티에 대해 파헤쳐볼까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61440</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 09:10:31 GMT</pubDate>
             <content:encoded><![CDATA[패션 하우스의 부내템과 올가을 요긴하게 쓸 신상들. 그리고 뷰티 신을 점령한 넥스트 아이콘까...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/e91afee6-4792-4ae6-9c5c-f341ecfebf03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들의 손민수 하고픈 다이어트 레시피가 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61290</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61290</guid>
-            <pubDate>Tue, 23 Nov 2021 02:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[맛있고 건강한데다가 쉽기까지~ 이런 다이어트라면 할 만하지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/8cacd640-d401-4e7f-8e62-dbe23000e0b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샐러드도 구독이 된다고요? 샐러드 구독 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61281</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61281</guid>
-            <pubDate>Mon, 22 Nov 2021 02:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[어차피 먹을 거 구독 하면 더 싼데 당장 구독 해야지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/84489cb8-c208-4ea6-8e88-b7a06ed73af0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
