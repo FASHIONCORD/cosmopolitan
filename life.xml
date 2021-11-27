@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 16:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 17:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<술꾼도시여자들>의 '술꾼들', 이선빈·한선화·정은지 센스에 취하는~ 패션 스타일링은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61510</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61510</guid>
+            <pubDate>Sat, 27 Nov 2021 17:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[배우들의 미친 연기력으로 많은 사랑을 받고 있는 &lt;술꾼도시여자들&gt;! 캐릭터별 ‘찰떡’ 패션으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/54600e50-1bd1-43ea-af32-346eecfc7cde.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나도 '아트테크' 가능할까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61491</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 09:12:04 GMT</pubDate>
             <content:encoded><![CDATA[메뉴판 앞에서 결정 장애인 사람이라면 묻지도 따지지도 않고, 이모가 주시는 대로 먹기만 하면...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/5a413535-46f5-4a04-a9e2-51d84285e56f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어서 와, 이런 단호박은 처음이지? 서울 이색 단호박 디저트 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61439</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61439</guid>
-            <pubDate>Wed, 24 Nov 2021 09:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[단호박으로 말합니다, 이거 꼭 드셔 주시죠!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/866bbe08-4a6c-458c-a99c-8e489b7d9385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
