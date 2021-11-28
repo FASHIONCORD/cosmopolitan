@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 15:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국·디노·주헌·선미·리정·제인 이 밀고 나가는 요즘 트렌드는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61495</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61495</guid>
+            <pubDate>Sun, 28 Nov 2021 15:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[대세들의 입술 피어싱! 안 뚫어도 괜찮아요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/c7546efe-997f-4a70-bdeb-e4cd838ebc16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라이클리닝 하면 패딩이 망가진다고? 겨울 의류 세탁법]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61456</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 01:51:48 GMT</pubDate>
             <content:encoded><![CDATA[차정원, 강민경, 장원영, 김재경, 정려원의 핫한 겨울 대비 필수 아이템]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/ca45440b-8d8f-4d9a-85d0-d5470640b65e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워너비 패셔니스타 공효진ㆍ아이린ㆍ강민경의 갓벽한 겨울 니트 활용법!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61431</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61431</guid>
-            <pubDate>Wed, 24 Nov 2021 00:29:57 GMT</pubDate>
-            <content:encoded><![CDATA[효민, 강민경, 엄지원, 아이린, 공효진도 즐겨하는 니트 걸치기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/985f5a6d-5cda-4a05-9c93-59fc73fe7493.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
