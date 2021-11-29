@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61384</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61384</guid>
+            <pubDate>Mon, 29 Nov 2021 03:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키와 허니제이, 리정, 예리, 은지가 선보이는 무한한 가능성의 춤]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61514</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 07:10:12 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단이 ‘아메리칸 뮤직 어워즈’에서 올해의 아티스트를 수상했다. 아시아 아티스트 최초다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/f325ea06-0c6d-403e-a693-02e128ef7f18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속가능 패션의 시대가 도래했다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61446</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61446</guid>
-            <pubDate>Thu, 25 Nov 2021 03:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 일상이 지구의 평화로운 시간을 단축시키는 것이었다면? 깨끗한 공기와 물, 익숙한 날씨...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/197e9859-99d4-43b7-ba57-8fa5e8368a6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
