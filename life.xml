@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 06:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 07:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 당장 예약해야 하는 호텔 크리스마스 케이크 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61592</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61592</guid>
+            <pubDate>Mon, 29 Nov 2021 07:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[연말 파티 분위기를 단숨에 업그레이드시켜줄 케이크 zip.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/6deceaf7-75ab-4980-9ead-58111c8d2b76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['위드 코로나' 시국엔 무알콜이지! JMT 무알콜 술 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61581</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61581</guid>
+            <pubDate>Mon, 29 Nov 2021 07:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[맥주, 샴페인, 칵테일까지 다 있는 무알코올 주류 시장에 와인이 가세했다. 색깔과 맛만 교묘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/833a1ec2-aab4-44fa-b0a7-88be86bfbb00.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[무알콜 와인이 대세 오브 대세, 알쓰들이 열광할 와인은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61572</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 19:09:43 GMT</pubDate>
             <content:encoded><![CDATA[세상에는 세 부류의 사람이 있다. 미술관에서 작품을 보는 사람, 작품을 집에 걸어두고 보는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/3f68bcff-5706-4dea-b0b4-0c9329f8d1fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치사량 주의! 국뽕 차오르는 K컬처와 심상치 않은 해외 반응들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61479</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61479</guid>
-            <pubDate>Fri, 26 Nov 2021 08:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[어서 와, K-유니버스는 처음이지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/a35c590a-8635-4644-b67f-ba84bb9a0473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명해지기 전에 얼른 가보자! 비경이 숨어 있는 한적한 국내 여행명소4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61476</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61476</guid>
-            <pubDate>Thu, 25 Nov 2021 15:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[스노클링, 승마, 트레킹, 사이클까지. 섬여행을 오만 배 즐겁게 해줄 액티비티는 덤]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/8d540b53-a543-4e7d-9463-0f84cc114593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
