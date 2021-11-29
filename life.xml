@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 00:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:57:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숙소만 예약해도 해외 여행 감성 완충! 이국적인 국내 숙소 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61515</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61515</guid>
+            <pubDate>Mon, 29 Nov 2021 01:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[추운 겨울에는 숙소 콕이 진리. 풍경이 제일 재밌는 숙소 4곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/5ccbd5db-4e4b-4670-8587-6eb3f07a9ecb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<술꾼도시여자들>의 '술꾼들', 이선빈·한선화·정은지 센스에 취하는~ 패션 스타일링은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61510</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 15:16:29 GMT</pubDate>
             <content:encoded><![CDATA[코시국에 비행기 대신 지하철 타고 세계 맛집 여행 기분 내면 기분이 조크든요~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/86607f2f-4fa9-47bc-a6a8-f878fced2281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이모님 마음 가는 대로~ 요즘 핫플 이모카세 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61457</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61457</guid>
-            <pubDate>Wed, 24 Nov 2021 09:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[메뉴판 앞에서 결정 장애인 사람이라면 묻지도 따지지도 않고, 이모가 주시는 대로 먹기만 하면...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/5a413535-46f5-4a04-a9e2-51d84285e56f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
