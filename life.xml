@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 01:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 02:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠핑은 번거롭고 호텔은 따분할 때! 전국 이색 글램핑 스폿 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61549</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61549</guid>
+            <pubDate>Mon, 29 Nov 2021 02:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[연말 연시 가족, 친구 모임에 제격인 갬성 글램핑장]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/88d9e1f4-1e04-43a0-84a6-879581a73058.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트테크를 위한 플랫폼이 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61522</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61522</guid>
+            <pubDate>Mon, 29 Nov 2021 02:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[세상에는 세 부류의 사람이 있다. 미술관에서 작품을 보는 사람, 작품을 집에 걸어두고 보는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/33a38626-c01d-4a49-a207-10f476a0b262.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숙소만 예약해도 해외 여행 감성 완충! 이국적인 국내 숙소 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61515</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[홀리데이 분위기 물씬 나는 인증샷 각 스폿 5]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/f4f0297e-7e85-4e8b-a488-697c9402ecac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61462</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61462</guid>
-            <pubDate>Thu, 25 Nov 2021 09:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[코스모폴리탄과 입생로랑 뷰티, 한국여성의전화가 함께하는 ‘파트너 폭력 인식 개선 프로그램’으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b63604de-8bd7-4196-beac-5f95a0e0a6c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여권 없이 떠나자! 용리단길 속 세계 미식 여행 리스트3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61465</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61465</guid>
-            <pubDate>Wed, 24 Nov 2021 15:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[코시국에 비행기 대신 지하철 타고 세계 맛집 여행 기분 내면 기분이 조크든요~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/86607f2f-4fa9-47bc-a6a8-f878fced2281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
