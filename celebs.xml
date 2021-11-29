@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 03:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 04:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일요일의 남자, 송해]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61594</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61594</guid>
+            <pubDate>Mon, 29 Nov 2021 04:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[1927년생 송복희는 “바다처럼 많은 이야기를 품었던 사람”으로 기억되고 싶다. 송해가 세상...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7a7c3a8b-385b-4bc6-9556-872a6b42904d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지방 탈출! 다이어트 성공 연예인 조세호ㆍ김현숙ㆍ이희경의 다이어트 근황은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61551</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 11:09:03 GMT</pubDate>
             <content:encoded><![CDATA[소화력 1000%인 것 다들 인정!?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/cae8f585-8737-4b26-b5bf-afa02fc4e8cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치사량 주의! 국뽕 차오르는 K컬처와 심상치 않은 해외 반응들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61479</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61479</guid>
-            <pubDate>Fri, 26 Nov 2021 01:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[어서 와, K-유니버스는 처음이지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/a35c590a-8635-4644-b67f-ba84bb9a0473.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
