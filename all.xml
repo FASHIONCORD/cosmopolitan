@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 16:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 17:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMjQw/MDAxNjM2OTMzMDI4OTY0.FINx7NzmQn-ayzdiWVOXF4z_OQ7m_-tyJFvxboAshbgg.I31NXwb3DM7PiqBTfiqzojanZ6B87epRD-HdlCfBYlIg.JPEG/ITOUjYYFJ-gJSNxXGm6AVrF4-MIY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슬기로운 초식 생활 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61585</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61585</guid>
+            <pubDate>Mon, 29 Nov 2021 17:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[비건은 풀떼기만 먹고 사냐고? 그 ‘풀떼기’만으로 놀고 먹고 마시는 건 물론 심지어 섹스까지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/e5d978f2-eb3c-4261-8d10-c93473d7f478.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 디지털 세상 속으로 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61384</link>
             <guid>https://www.cosmopolitan.co.kr/article/61384</guid>
@@ -221,14 +229,6 @@
             <pubDate>Thu, 25 Nov 2021 08:11:27 GMT</pubDate>
             <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최고 가수는 상 받을 때 뭐 입나? ‘아메리칸 뮤직 어워즈’ 패션 3 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61450</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61450</guid>
-            <pubDate>Thu, 25 Nov 2021 02:28:54 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단이 ‘아메리칸 뮤직 어워즈’에서 올해의 아티스트를 수상했다. 아시아 아티스트 최초다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/f325ea06-0c6d-403e-a693-02e128ef7f18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘화사’를 우린 ‘힙’이라 부르기로 했어요, 마마무 화사의 뉴 컴백 스타일! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
