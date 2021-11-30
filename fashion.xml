@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잇프제(ISFJ) 소녀시대 태연, 트와이스 다현, ITZY 예지, 세븐틴 정한, NCT 도영의 스타일링이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61605</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61605</guid>
+            <pubDate>Tue, 30 Nov 2021 06:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[MBTI 과몰입러 에디터가 분석하는 아이돌 패션 센스 엿보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/101d855d-cc33-4007-932c-db3f62b190d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 추워지기 전에 빨리 입자! 초겨울 '미니' 스퍼트 올리기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61604</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 01:52:50 GMT</pubDate>
             <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정국·디노·주헌·선미·리정·제인 이 밀고 나가는 요즘 트렌드는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61495</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61495</guid>
-            <pubDate>Sun, 28 Nov 2021 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[대세들의 입술 피어싱! 안 뚫어도 괜찮아요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/c7546efe-997f-4a70-bdeb-e4cd838ebc16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

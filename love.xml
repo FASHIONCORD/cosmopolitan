@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼 28주년 리마인드 웨딩 스냅을 찍었다는 최수종&하희라, 찐애정 모멘트?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61380</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61380</guid>
+            <pubDate>Tue, 30 Nov 2021 06:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[28년째 꿀 떨어지는 중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/bc1dec9d-2542-46d2-a26f-14283f0ffaa0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실제로 엄청난 사랑꾼이라는 도경완! 장윤정 바라기 돋는 찐사랑 럽스타 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61375</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 07:11:11 GMT</pubDate>
             <content:encoded><![CDATA[어쩌다 우리는 연애 콘텐츠 홍수 속에 살게 됐을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/62c39354-80e2-4a9f-8754-b80dd25858a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러브 밤을 조심하라고? 연애 시장에서 사용되는 위험한 수단!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61039</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61039</guid>
-            <pubDate>Mon, 15 Nov 2021 04:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[사이비 종교의 포교 수단으로 쓰이던 방법이 연애 시장에서도 사용된다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/a0c86f9f-b48a-42e1-8368-45d938865646.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
