@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 03:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 추워지기 전에 빨리 입자! 초겨울 '미니' 스퍼트 올리기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61604</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61604</guid>
+            <pubDate>Tue, 30 Nov 2021 04:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[찐 패셔니스타는 ㅊ…추…위를 타지 않아!!!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/d2b2547a-baa2-48c7-8241-677ed0fc97f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수능 끝, 선물 뭐 하지? 고생한 언니•동생•친구에게 선물하기 딱 좋은 선물 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61601</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61601</guid>
+            <pubDate>Tue, 30 Nov 2021 04:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[제니와 주이, 현아, 선미로 보는 4가지 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c396e7a4-a8f2-46dc-858c-0b6c5275b937.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬기로운 초식 생활]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61585</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 28 Nov 2021 15:09:28 GMT</pubDate>
             <content:encoded><![CDATA[대세들의 입술 피어싱! 안 뚫어도 괜찮아요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/c7546efe-997f-4a70-bdeb-e4cd838ebc16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이클리닝 하면 패딩이 망가진다고? 겨울 의류 세탁법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61456</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61456</guid>
-            <pubDate>Fri, 26 Nov 2021 09:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[니트, 패딩, 머플러까지. 무조건 겨울옷은 드라이클리닝 한다고? 비싼 옷 망치지 말고 제대로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/d50edb51-dc8c-47d3-9621-83a9475bd384.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 홀리데이의 세계로]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61454</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61454</guid>
-            <pubDate>Thu, 25 Nov 2021 08:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
