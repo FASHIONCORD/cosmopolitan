@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 07:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 08:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 초식 생활이라면, 평생 할 수 있겠어요! 갓벽한 비건 제품과 서비스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61633</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61633</guid>
+            <pubDate>Tue, 30 Nov 2021 08:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[비건은 풀떼기만 먹고 사냐고? 그 ‘풀떼기’만으로 놀고 먹고 마시는 건 물론 심지어 섹스까지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/ebe0da28-72c1-4a33-abb6-e49a3478a260.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[우주적 영감으로 가득 찬 아이템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61427</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61427</guid>
+            <pubDate>Tue, 30 Nov 2021 08:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[우주적 영감으로 가득 찬 2021년의 패션&amp;뷰티 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/587735ae-f094-47fd-b948-fec91a19cdf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잇프제(ISFJ) 소녀시대 태연, 트와이스 다현, ITZY 예지, 세븐틴 정한, NCT 도영의 스타일링이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61605</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 01:52:50 GMT</pubDate>
             <content:encoded><![CDATA[춤을 즐기기 위한 자격 같은 건 없어요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/4d9d4f2a-3048-4dd3-a8c3-e74c97fbcfa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<술꾼도시여자들>의 '술꾼들', 이선빈·한선화·정은지 센스에 취하는~ 패션 스타일링은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61510</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61510</guid>
-            <pubDate>Mon, 29 Nov 2021 01:52:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우들의 미친 연기력으로 많은 사랑을 받고 있는 &lt;술꾼도시여자들&gt;! 캐릭터별 ‘찰떡’ 패션으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/54600e50-1bd1-43ea-af32-346eecfc7cde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOLIDAY DREAM]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61366</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61366</guid>
-            <pubDate>Mon, 29 Nov 2021 01:52:50 GMT</pubDate>
-            <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

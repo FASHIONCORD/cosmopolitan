@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 07:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 08:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플tv+ 디즈니+ 왜 구독했냐고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61653</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61653</guid>
+            <pubDate>Tue, 30 Nov 2021 08:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[애플TV는 시리 리모트 쓰고 싶어서 샀고, 디즈니플러스는 론칭 갈라쇼 보다가 동심이랑 국뽕 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e18be7fd-5ecb-4a63-87bc-56cccc82252b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왁킹? 팝핀? 야너두 출 수 있어! 스우파 언니들의 수업이 듣고싶다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61644</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 01:49:12 GMT</pubDate>
             <content:encoded><![CDATA[신예은, 도경수, 원진아 한국판 &lt;말할 수 없는 비밀&gt; 주연 확정]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/44708da4-b2f7-40b9-bafb-cb00305a5dab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김혜수와 유해진이 결별 10년만에 재회했다고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61606</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61606</guid>
-            <pubDate>Tue, 30 Nov 2021 01:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;타짜&gt; 리마스터링 버전 12월 1일에 개봉 실화? 주연배우들 15년만에 다시 만나다 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7cc0cc9c-be79-4fa4-8514-de8317e4d2d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
