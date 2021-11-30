@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61384</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61384</guid>
+            <pubDate>Tue, 30 Nov 2021 03:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지방 탈출! 다이어트 성공 연예인 조세호ㆍ김현숙ㆍ이희경의 다이어트 근황은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61551</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 08:11:18 GMT</pubDate>
             <content:encoded><![CDATA[본업은 뮤지션, 부업은 사업가? 이제 막 자신의 코스메틱 브랜드를 론칭한 아리아나 그란데와 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b200953b-4465-44d2-a69c-b7a8e7a5ab96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘생쁨 주의! 숏컷도 찰떡인 송지효의 헤어스타일이 변한 이유는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61417</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61417</guid>
-            <pubDate>Thu, 25 Nov 2021 03:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[올해 나이가 ‘40’이라니! 매일이 미모 레전드인 송지효의 헤어스타일 변천사]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/8096c470-923c-4796-85c0-c688a24c36fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
