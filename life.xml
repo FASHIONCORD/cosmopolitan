@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 08:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 09:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61370</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61370</guid>
+            <pubDate>Tue, 30 Nov 2021 09:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플tv+ 디즈니+ 왜 구독했냐고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61653</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 01:49:12 GMT</pubDate>
             <content:encoded><![CDATA[지금 헤어지는 중입니다? 이미 헤어졌습니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c7365b2d-c41a-4453-95f0-8e811790ac52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국판 <말할 수 없는 비밀> 캐스팅 확정! 피아노치는 도경수 볼 수 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61607</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61607</guid>
-            <pubDate>Tue, 30 Nov 2021 01:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[신예은, 도경수, 원진아 한국판 &lt;말할 수 없는 비밀&gt; 주연 확정]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/44708da4-b2f7-40b9-bafb-cb00305a5dab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
