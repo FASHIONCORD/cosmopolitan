@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 01:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 02:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지방 탈출! 다이어트 성공 연예인 조세호ㆍ김현숙ㆍ이희경의 다이어트 근황은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61551</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61551</guid>
+            <pubDate>Mon, 29 Nov 2021 02:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[한평생 뚠뚜니로 살아온 조세호, 김현숙, 이희경의 비포 &amp; 애프터 사진을 보고 다이어트를 시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/51c8b380-e9ca-4247-ad55-6aa373c7e011.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘화사’를 우린 ‘힙’이라 부르기로 했어요, 마마무 화사의 뉴 컴백 스타일! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61547</link>
             <guid>https://www.cosmopolitan.co.kr/article/61547</guid>
@@ -287,12 +295,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/8096c470-923c-4796-85c0-c688a24c36fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[볼살 실종, 대체 다이어트 비법이 뭐야? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61373</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61373</guid>
-            <pubDate>Wed, 24 Nov 2021 08:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[귀엽고 아가아가한 볼살 실종, 안소희, 엄지, 소미, 세정의 더 예뻐진 다이어트 비결이 뭐야...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/429d5af0-f0eb-4d49-86a4-3ca173a52689.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국판 <말할 수 없는 비밀> 캐스팅 확정! 피아노치는 도경수 볼 수 있다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61607</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61607</guid>
+            <pubDate>Tue, 30 Nov 2021 01:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[신예은, 도경수, 원진아 한국판 &lt;말할 수 없는 비밀&gt; 주연 확정]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/44708da4-b2f7-40b9-bafb-cb00305a5dab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 김혜수와 유해진이 결별 10년만에 재회했다고?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61606</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61606</guid>
+            <pubDate>Tue, 30 Nov 2021 01:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;타짜&gt; 리마스터링 버전 12월 1일에 개봉 실화? 주연배우들 15년만에 다시 만나다 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7cc0cc9c-be79-4fa4-8514-de8317e4d2d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 추워지기 전에 빨리 입자! 초겨울 '미니' 스퍼트 올리기 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -341,22 +357,6 @@
             <pubDate>Mon, 29 Nov 2021 02:25:49 GMT</pubDate>
             <content:encoded><![CDATA[안은진은 현재만 생각하며 산다. 현재밖에 몰라서가 아니라, 미래가 너무 중요해서다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/e37a7e8d-cdc7-4de8-a1c2-6b24834738b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#찐덕후 와 #해시태그 의 성지, 트위터를 만드는 트윕들은 어떻게 일할까? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61528</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61528</guid>
-            <pubDate>Mon, 29 Nov 2021 02:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[“무슨 일이 일어나고 있나요?!” 지금 사람들 입에 뜨겁게 오르내리는 주제가 뭔지 가장 빠르...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/9bb16fc7-33a1-499a-b932-3a3805efc0f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<술꾼도시여자들>의 '술꾼들', 이선빈·한선화·정은지 센스에 취하는~ 패션 스타일링은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61510</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61510</guid>
-            <pubDate>Sat, 27 Nov 2021 17:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우들의 미친 연기력으로 많은 사랑을 받고 있는 &lt;술꾼도시여자들&gt;! 캐릭터별 ‘찰떡’ 패션으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/54600e50-1bd1-43ea-af32-346eecfc7cde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실제로 엄청난 사랑꾼이라는 도경완! 장윤정 바라기 돋는 찐사랑 럽스타 모음ZIP (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -487,6 +487,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/33a38626-c01d-4a49-a207-10f476a0b262.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021년 나의 쇼핑 라이프 돌아보기! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60984</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60984</guid>
+            <pubDate>Tue, 30 Nov 2021 02:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[올 한해 무엇을, 어디에서 구매했나요? 펜데믹 이후 더욱 다양해진 쇼핑 스타일! 올해 당신의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/52b6b856-680b-4eb4-965b-1505765b3bc4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021 올해의 얼굴은 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60975</link>
             <guid>https://www.cosmopolitan.co.kr/article/60975</guid>
@@ -541,14 +549,6 @@
             <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
             <content:encoded><![CDATA[화내기도 애매하고 안내기도 애매하고! 내가 예민한걸까? 자꾸 거슬리는 내 애인 or 배우자와...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/23/b8b0ac36-d84a-4ed7-b2b0-185b15ffd2f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 최애 연애 재질 캐릭터는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55871</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55871</guid>
-            <pubDate>Mon, 08 Nov 2021 02:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[연애는 내가 아니라 드라마가 해요. 썸 타는 법, 키스법, 애인까지 드라마에서 골라골라~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/06/470f053f-8b35-4234-b768-1b19f3462403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

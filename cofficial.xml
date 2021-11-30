@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 01:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 02:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021년 나의 쇼핑 라이프 돌아보기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60984</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60984</guid>
+            <pubDate>Tue, 30 Nov 2021 02:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[올 한해 무엇을, 어디에서 구매했나요? 펜데믹 이후 더욱 다양해진 쇼핑 스타일! 올해 당신의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/52b6b856-680b-4eb4-965b-1505765b3bc4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 올해의 얼굴은 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60975</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[화내기도 애매하고 안내기도 애매하고! 내가 예민한걸까? 자꾸 거슬리는 내 애인 or 배우자와...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/23/b8b0ac36-d84a-4ed7-b2b0-185b15ffd2f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 최애 연애 재질 캐릭터는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/55871</link>
-            <guid>https://www.cosmopolitan.co.kr/article/55871</guid>
-            <pubDate>Sun, 14 Nov 2021 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[연애는 내가 아니라 드라마가 해요. 썸 타는 법, 키스법, 애인까지 드라마에서 골라골라~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/06/470f053f-8b35-4234-b768-1b19f3462403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
