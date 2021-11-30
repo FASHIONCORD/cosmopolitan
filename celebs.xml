@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 크리스마스 준비 중이라면? 홀리데이 플레이리스트와 혼맥이 제격이지!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61642</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61642</guid>
+            <pubDate>Tue, 30 Nov 2021 07:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[스포티파이와 이하이가 함께 준비한 크리스마스 음악부터 상큼한 블랙라거 캔맥주 신상품까지! #...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/cb288bba-08d9-4950-81f7-4554a3cc6031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 12월? 덕질의 한 해 마무리, 시그는 못 참지!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61619</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 07:10:39 GMT</pubDate>
             <content:encoded><![CDATA[제니와 주이, 현아, 선미로 보는 4가지 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c396e7a4-a8f2-46dc-858c-0b6c5275b937.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일요일의 남자, 송해]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61594</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61594</guid>
-            <pubDate>Mon, 29 Nov 2021 04:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[1927년생 송복희는 “바다처럼 많은 이야기를 품었던 사람”으로 기억되고 싶다. 송해가 세상...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7a7c3a8b-385b-4bc6-9556-872a6b42904d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

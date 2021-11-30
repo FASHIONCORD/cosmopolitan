@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우주적 영감으로 가득 찬 아이템 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61427</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61427</guid>
+            <pubDate>Tue, 30 Nov 2021 07:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[우주적 영감으로 가득 찬 2021년의 패션&amp;뷰티 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/587735ae-f094-47fd-b948-fec91a19cdf4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신비로운 배우 주지훈과 광활한 자연에서 영감받아 탄생한 디올 소바쥬와의 만남 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61562</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61562</guid>
+            <pubDate>Tue, 30 Nov 2021 07:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[광활하고 무한한 대지 끝에서 마주한 배우 주지훈 그리고 그 자연에서 영감받아 탄생한 디올 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/f168b88f-d5dd-4e46-8ee3-bb33575762a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 디지털 세상 속으로 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61384</link>
             <guid>https://www.cosmopolitan.co.kr/article/61384</guid>
@@ -279,20 +295,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/4ca8b88e-3ec7-4fc2-9551-1edd60858218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[특별한 홀리데이의 세계로 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61454</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61454</guid>
-            <pubDate>Thu, 25 Nov 2021 08:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티브랜드CEO 아리아나 그란데, 해리 스타일스의 각 브랜드 아이덴티티에 대해 파헤쳐볼까? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61440</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61440</guid>
-            <pubDate>Wed, 24 Nov 2021 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[본업은 뮤지션, 부업은 사업가? 이제 막 자신의 코스메틱 브랜드를 론칭한 아리아나 그란데와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b200953b-4465-44d2-a69c-b7a8e7a5ab96.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미리 크리스마스 준비 중이라면? 홀리데이 플레이리스트와 혼맥이 제격이지! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61642</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61642</guid>
+            <pubDate>Tue, 30 Nov 2021 07:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[스포티파이와 이하이가 함께 준비한 크리스마스 음악부터 상큼한 블랙라거 캔맥주 신상품까지! #...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/cb288bba-08d9-4950-81f7-4554a3cc6031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌써 12월? 덕질의 한 해 마무리, 시그는 못 참지! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -349,14 +357,6 @@
             <pubDate>Mon, 29 Nov 2021 07:10:39 GMT</pubDate>
             <content:encoded><![CDATA[제니와 주이, 현아, 선미로 보는 4가지 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c396e7a4-a8f2-46dc-858c-0b6c5275b937.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일요일의 남자, 송해 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61594</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61594</guid>
-            <pubDate>Mon, 29 Nov 2021 04:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[1927년생 송복희는 “바다처럼 많은 이야기를 품었던 사람”으로 기억되고 싶다. 송해가 세상...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7a7c3a8b-385b-4bc6-9556-872a6b42904d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 28주년 리마인드 웨딩 스냅을 찍었다는 최수종&하희라, 찐애정 모멘트?! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -423,6 +423,30 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/62c39354-80e2-4a9f-8754-b80dd25858a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[왁킹? 팝핀? 야너두 출 수 있어! 스우파 언니들의 수업이 듣고싶다면? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61644</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61644</guid>
+            <pubDate>Tue, 30 Nov 2021 07:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[잘 봐, 이번엔 10대들 춤싸움이다~ 여고생 원탑 크루 선발전 &lt;스트릿댄스 걸스 파이터&gt;가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/49189ecb-34eb-468f-9645-afd6c8dc5da3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귤덕후 모여라! 제철 귤디저트 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61643</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61643</guid>
+            <pubDate>Tue, 30 Nov 2021 07:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[이불 안에서 까먹는 귤 말고 좀 더 기분 내면서 먹고 싶을 때]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/7ec6bdaa-9178-4001-8bad-586613617246.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미리 크리스마스 준비 중이라면? 홀리데이 플레이리스트와 혼맥이 제격이지! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61642</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61642</guid>
+            <pubDate>Tue, 30 Nov 2021 07:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[스포티파이와 이하이가 함께 준비한 크리스마스 음악부터 상큼한 블랙라거 캔맥주 신상품까지! #...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/cb288bba-08d9-4950-81f7-4554a3cc6031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[벌써 12월? 덕질의 한 해 마무리, 시그는 못 참지! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61619</link>
             <guid>https://www.cosmopolitan.co.kr/article/61619</guid>
@@ -461,30 +485,6 @@
             <pubDate>Tue, 30 Nov 2021 01:49:12 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;타짜&gt; 리마스터링 버전 12월 1일에 개봉 실화? 주연배우들 15년만에 다시 만나다 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7cc0cc9c-be79-4fa4-8514-de8317e4d2d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 당장 예약해야 하는 호텔 크리스마스 케이크 7 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61592</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61592</guid>
-            <pubDate>Mon, 29 Nov 2021 07:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[연말 파티 분위기를 단숨에 업그레이드시켜줄 케이크 zip.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/6deceaf7-75ab-4980-9ead-58111c8d2b76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['위드 코로나' 시국엔 무알콜이지! JMT 무알콜 술 모음.ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61581</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61581</guid>
-            <pubDate>Mon, 29 Nov 2021 07:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[맥주, 샴페인, 칵테일까지 다 있는 무알코올 주류 시장에 와인이 가세했다. 색깔과 맛만 교묘...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/833a1ec2-aab4-44fa-b0a7-88be86bfbb00.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[무알콜 와인이 대세 오브 대세, 알쓰들이 열광할 와인은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61572</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61572</guid>
-            <pubDate>Mon, 29 Nov 2021 06:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[맥주, 샴페인, 칵테일까지 다 있는 무알코올 주류 시장에 와인이 가세했다. 색깔과 맛만 교묘...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/5126d543-77fc-47c7-a079-32e312a56423.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2021년 나의 쇼핑 라이프 돌아보기! (코스모폴리탄 코리아 ─ 코피셜)]]></title>

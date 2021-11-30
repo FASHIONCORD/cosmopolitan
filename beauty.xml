@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주적 영감으로 가득 찬 아이템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61427</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61427</guid>
+            <pubDate>Tue, 30 Nov 2021 07:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[우주적 영감으로 가득 찬 2021년의 패션&amp;뷰티 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/587735ae-f094-47fd-b948-fec91a19cdf4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신비로운 배우 주지훈과 광활한 자연에서 영감받아 탄생한 디올 소바쥬와의 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61562</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61562</guid>
+            <pubDate>Tue, 30 Nov 2021 07:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[광활하고 무한한 대지 끝에서 마주한 배우 주지훈 그리고 그 자연에서 영감받아 탄생한 디올 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/f168b88f-d5dd-4e46-8ee3-bb33575762a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 디지털 세상 속으로]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61384</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 09:10:04 GMT</pubDate>
             <content:encoded><![CDATA[굶기만 하는 단기 다이어트는 NO ~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/4ca8b88e-3ec7-4fc2-9551-1edd60858218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 홀리데이의 세계로]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61454</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61454</guid>
-            <pubDate>Fri, 26 Nov 2021 09:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티브랜드CEO 아리아나 그란데, 해리 스타일스의 각 브랜드 아이덴티티에 대해 파헤쳐볼까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61440</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61440</guid>
-            <pubDate>Fri, 26 Nov 2021 08:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[본업은 뮤지션, 부업은 사업가? 이제 막 자신의 코스메틱 브랜드를 론칭한 아리아나 그란데와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b200953b-4465-44d2-a69c-b7a8e7a5ab96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
