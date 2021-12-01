@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[멍뭉미 넘치던 윈터·소연·조이를 냉미녀로 만들어준 치트키는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61671</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61671</guid>
+            <pubDate>Wed, 01 Dec 2021 04:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[‘흑발’ 하나로 쎈캐 장착 완료!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/027edd4b-ee80-4d50-ad4e-4c5ef20cbcdc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신민아·송민호 등 패션과 뷰티 모두 점령한 셀럽들이 있다고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61672</link>
             <guid>https://www.cosmopolitan.co.kr/article/61672</guid>
@@ -285,14 +293,6 @@
             <pubDate>Tue, 30 Nov 2021 07:09:25 GMT</pubDate>
             <content:encoded><![CDATA[우주적 영감으로 가득 찬 2021년의 패션&amp;뷰티 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/587735ae-f094-47fd-b948-fec91a19cdf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신비로운 배우 주지훈과 광활한 자연에서 영감받아 탄생한 디올 소바쥬와의 만남 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61562</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61562</guid>
-            <pubDate>Tue, 30 Nov 2021 07:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[광활하고 무한한 대지 끝에서 마주한 배우 주지훈 그리고 그 자연에서 영감받아 탄생한 디올 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/f168b88f-d5dd-4e46-8ee3-bb33575762a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강민경 차정원·나나·이선빈·설현이 푹 빠진 찐맛집이 궁금하다면?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
