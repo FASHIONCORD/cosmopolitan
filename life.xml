@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 09:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 10:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS가 즐겨 찾고, 백종원이 마시는 찐 맥주 맛집4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61665</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61665</guid>
+            <pubDate>Wed, 01 Dec 2021 10:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[강원도엔 다 있다! 강원 수제 맥주 브루어리 성지 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/dce1b311-9ce5-4eca-be3b-0b5ec276b60f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강민경 차정원·나나·이선빈·설현이 푹 빠진 찐맛집이 궁금하다면?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61664</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61664</guid>
+            <pubDate>Wed, 01 Dec 2021 10:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[핫플 쫌 안다는 강민경, 차정원, 나나, 이선빈, 설현의 맛집 추천 모음]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/b55d1599-14b0-49ac-aa35-0c86fd0b28d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넌 운전만해~ 향기로운 드라이브 쌉파서블?! 요즘 핫한 차랑용 디퓨저 모음ZIP 6]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61658</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[스포티파이와 이하이가 함께 준비한 크리스마스 음악부터 상큼한 블랙라거 캔맥주 신상품까지! #...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/cb288bba-08d9-4950-81f7-4554a3cc6031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 12월? 덕질의 한 해 마무리, 시그는 못 참지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61619</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61619</guid>
-            <pubDate>Tue, 30 Nov 2021 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[컨셉에 진심인 2022년 아이돌 시즌 그리팅 모음집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/69e3b54b-0f10-4301-8c6f-7a0e003a746a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이름 빼고 다 가짜? <러브캐처 인 서울>의 머니캐처는 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61617</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61617</guid>
-            <pubDate>Tue, 30 Nov 2021 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[진정한 사랑을 찾는 '러브캐처'일까, 5천만 원 상금을 노린 '머니캐처'일까? &lt;러브캐처 인...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/b5c7c478-f8ee-4366-b9fc-37235ebec964.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
