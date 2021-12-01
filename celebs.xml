@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 23:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 00:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강민경 차정원·나나·이선빈·설현이 푹 빠진 찐맛집이 궁금하다면?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61664</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61664</guid>
+            <pubDate>Wed, 01 Dec 2021 00:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[핫플 쫌 안다는 강민경, 차정원, 나나, 이선빈, 설현의 맛집 추천 모음]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/b55d1599-14b0-49ac-aa35-0c86fd0b28d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몸매 갑 셀럽 화사·수영·리사·다현의 탐나는 보디라인, 누가 1등?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61662</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 06:12:15 GMT</pubDate>
             <content:encoded><![CDATA[어떻게 찍어도 커플일 수 밖에 없는 혜리 &amp; 류준열, 백진희 &amp; 윤현민, 수영 &amp; 정경호, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/0c620b36-8032-4d2e-9be6-bbf898269343.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 파티 준비 완료! 요즘 핫한 셀럽들의 블링블링 스톤 메이크업 연출법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61609</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61609</guid>
-            <pubDate>Tue, 30 Nov 2021 03:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[눈, 볼, 입 어디에 붙여볼까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/1c5bec9c-08d7-4418-b66c-535b24ec7d1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

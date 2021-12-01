@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 23:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 00:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신민아·송민호 등 패션과 뷰티 모두 점령한 셀럽들이 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61672</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61672</guid>
+            <pubDate>Wed, 01 Dec 2021 00:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[이러면 반칙이지! 근데 넘모 완벽하자나~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/147e227e-8bec-4c50-89c9-7fb33ffec9e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몸매 갑 셀럽 화사·수영·리사·다현의 탐나는 보디라인, 누가 1등?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61662</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 07:09:25 GMT</pubDate>
             <content:encoded><![CDATA[광활하고 무한한 대지 끝에서 마주한 배우 주지훈 그리고 그 자연에서 영감받아 탄생한 디올 소...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/f168b88f-d5dd-4e46-8ee3-bb33575762a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61384</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61384</guid>
-            <pubDate>Tue, 30 Nov 2021 03:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
