@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61370</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61370</guid>
+            <pubDate>Wed, 01 Dec 2021 06:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어그부츠의 계절이 돌아왔다! 털신 신고 신나는 겨울~ 해외 셀럽들의 어그부츠 코디가 궁금하다면?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61652</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 17:17:02 GMT</pubDate>
             <content:encoded><![CDATA[비건은 풀떼기만 먹고 사냐고? 그 ‘풀떼기’만으로 놀고 먹고 마시는 건 물론 심지어 섹스까지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e5d978f2-eb3c-4261-8d10-c93473d7f478.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61384</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61384</guid>
-            <pubDate>Mon, 29 Nov 2021 03:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

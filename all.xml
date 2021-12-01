@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfOTAg/MDAxNjM3Mjc3ODEzNDc4.n8AgUK7B0S6Uai542siCtDyKM7_C072SSx4cdkDqeDgg.XOByH2bhv3WyyZtljvtnS2MvkY9sIFeI0b93b5DEkdMg.JPEG/IXyupD8Ycvszo_Gq0z_nzGW-dQgM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[EVERYDAY HOLIDAY (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61370</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61370</guid>
+            <pubDate>Tue, 30 Nov 2021 09:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어그부츠의 계절이 돌아왔다! 털신 신고 신나는 겨울~ 해외 셀럽들의 어그부츠 코디가 궁금하다면?! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61652</link>
             <guid>https://www.cosmopolitan.co.kr/article/61652</guid>
@@ -221,14 +229,6 @@
             <pubDate>Mon, 29 Nov 2021 17:17:02 GMT</pubDate>
             <content:encoded><![CDATA[비건은 풀떼기만 먹고 사냐고? 그 ‘풀떼기’만으로 놀고 먹고 마시는 건 물론 심지어 섹스까지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e5d978f2-eb3c-4261-8d10-c93473d7f478.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 디지털 세상 속으로 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61384</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61384</guid>
-            <pubDate>Mon, 29 Nov 2021 03:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멍뭉미 넘치던 윈터·소연·조이를 냉미녀로 만들어준 치트키는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -295,6 +295,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/587735ae-f094-47fd-b948-fec91a19cdf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<쇼미더머니10>의 신스·미노이·미란이 등 여자 힙합 아티스트의 힙한 사복 패션은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61669</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61669</guid>
+            <pubDate>Wed, 01 Dec 2021 06:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[난 슬플 때 힙합을 춰!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/0dcbb3d0-35ed-46ed-8b4f-909e44061145.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강민경 차정원·나나·이선빈·설현이 푹 빠진 찐맛집이 궁금하다면?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61664</link>
             <guid>https://www.cosmopolitan.co.kr/article/61664</guid>
@@ -349,14 +357,6 @@
             <pubDate>Tue, 30 Nov 2021 03:10:32 GMT</pubDate>
             <content:encoded><![CDATA[컨셉에 진심인 2022년 아이돌 시즌 그리팅 모음집.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/69e3b54b-0f10-4301-8c6f-7a0e003a746a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심장아 나대지마! 커플들의 빼박 ‘열애중’ 트윈 샷 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61614</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61614</guid>
-            <pubDate>Tue, 30 Nov 2021 06:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[어떻게 찍어도 커플일 수 밖에 없는 혜리 &amp; 류준열, 백진희 &amp; 윤현민, 수영 &amp; 정경호, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/0c620b36-8032-4d2e-9be6-bbf898269343.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데미 로바토가 섹스 토이를? 섹스 토이 사업에 뛰어든 할리우드 스타들 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -423,6 +423,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/a58fb141-3d26-4885-9ad7-1767ee7759fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넌 운전만해~ 향기로운 드라이브 쌉파서블?! 요즘 핫한 차랑용 디퓨저 모음ZIP 6 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61658</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61658</guid>
+            <pubDate>Tue, 30 Nov 2021 16:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[달리는 차 안에~ 우린 아무 말없네~ 공기 너무 너무 답답해! 추운 날씨 탓에 자동차 환기나...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/87e2d9bc-d484-46fb-b6f0-bdf7d3e52de3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[EVERYDAY HOLIDAY (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61370</link>
             <guid>https://www.cosmopolitan.co.kr/article/61370</guid>
@@ -477,14 +485,6 @@
             <pubDate>Tue, 30 Nov 2021 03:10:32 GMT</pubDate>
             <content:encoded><![CDATA[진정한 사랑을 찾는 '러브캐처'일까, 5천만 원 상금을 노린 '머니캐처'일까? &lt;러브캐처 인...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/b5c7c478-f8ee-4366-b9fc-37235ebec964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 <지금 헤어지는 중입니다> 속 송혜교는 애틋하기라도 했지… 그때 왜 헤어졌어? 갖가지 이별 썰 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61616</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61616</guid>
-            <pubDate>Tue, 30 Nov 2021 01:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[지금 헤어지는 중입니다? 이미 헤어졌습니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c7365b2d-c41a-4453-95f0-8e811790ac52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 나의 쇼핑 라이프 돌아보기! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
