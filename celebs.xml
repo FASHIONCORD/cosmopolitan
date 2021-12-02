@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산다라박, 힙한 자취집 최애템은 한강 라면 기계? <나 혼자 산다>에서 최초 공개한 자취집 인테리어!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61673</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61673</guid>
+            <pubDate>Thu, 02 Dec 2021 06:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[언니, 저도 놀러가면 안될까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/06f37902-0b1d-4def-a13f-a5881ad81067.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멍뭉미 넘치던 윈터·소연·조이를 냉미녀로 만들어준 치트키는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61671</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[김나영, 헤일리 비버, 지지 하디드, 카이아 거버, 엘사 호스크, 이리나 샤크의 선택! 어그...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/b4f17e02-72e3-46eb-9739-7790b64195c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미연, 소희, 예리 ‘리.얼.뷰.티.템!’ 손민수하고 싶으면 드루와~ 드루와]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61646</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61646</guid>
-            <pubDate>Tue, 30 Nov 2021 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[따라하고 싶은 그녀들! 광고X 협찬X. 그녀들이 직접 답해준 리얼 뷰티템을 엿봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/9e65467b-82cb-4bbb-8dec-8decb40e4b62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

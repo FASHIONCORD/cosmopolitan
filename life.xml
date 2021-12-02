@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대리 설렘 미쳤네! 올겨울, 더 뜨거운 연애 리얼리티가 찾아온다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61668</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61668</guid>
+            <pubDate>Thu, 02 Dec 2021 06:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[연애의 민낯을 과감하게 드러내는, 올겨울 핫한 연애 리얼리티.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/04bdab4c-761c-40db-903f-f9ab623d7371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS가 즐겨 찾고, 백종원이 마시는 찐 맥주 맛집4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61665</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[이불 안에서 까먹는 귤 말고 좀 더 기분 내면서 먹고 싶을 때]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/7ec6bdaa-9178-4001-8bad-586613617246.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 크리스마스 준비 중이라면? 홀리데이 플레이리스트와 혼맥이 제격이지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61642</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61642</guid>
-            <pubDate>Tue, 30 Nov 2021 07:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[스포티파이와 이하이가 함께 준비한 크리스마스 음악부터 상큼한 블랙라거 캔맥주 신상품까지! #...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/cb288bba-08d9-4950-81f7-4554a3cc6031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
