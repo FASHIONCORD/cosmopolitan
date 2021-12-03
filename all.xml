@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 09:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 10:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/bd135a71-c099-461c-a8b6-866c40b65126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 대세는 니플패치! 김나영도 선택한 니플패치 추천 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61757</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61757</guid>
+            <pubDate>Fri, 03 Dec 2021 10:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[니플패치에 진심인 에디터가 추천하는 다양한 아이템들에 주목]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/4a408add-8691-4bd2-8ffc-a9b248691c9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Z세대들은 모여라! 아이유·몬스타엑스·NCT DREAM·더보이즈의 화제의 꿈빛 파티시엘 챌린지 모음.zip (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61754</link>
             <guid>https://www.cosmopolitan.co.kr/article/61754</guid>
@@ -349,14 +357,6 @@
             <pubDate>Thu, 02 Dec 2021 06:15:40 GMT</pubDate>
             <content:encoded><![CDATA[언니, 저도 놀러가면 안될까요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/06f37902-0b1d-4def-a13f-a5881ad81067.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멍뭉미 넘치던 윈터·소연·조이를 냉미녀로 만들어준 치트키는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61671</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61671</guid>
-            <pubDate>Wed, 01 Dec 2021 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘흑발’ 하나로 쎈캐 장착 완료!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/027edd4b-ee80-4d50-ad4e-4c5ef20cbcdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이름 빼고 다 가짜? <러브캐처 인 서울>의 머니캐처는 누구? (코스모폴리탄 코리아 ─ 러브)]]></title>
