@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 14:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 15:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데뷔 임박 아이브와 케플러의 메이크업 스타일링 중, 당신의 원픽은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61702</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61702</guid>
+            <pubDate>Fri, 03 Dec 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[입덕 준비 완료! 데뷔돌 헤메 비교 분석]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/99717615-340d-4425-b64c-344cfb550aa9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘파트너 폭력’ 셀프 테스트! 과연 나의 ‘파트너 폭력 인식 지수’는 몇점?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61693</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 01 Dec 2021 00:31:26 GMT</pubDate>
             <content:encoded><![CDATA[이러면 반칙이지! 근데 넘모 완벽하자나~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/147e227e-8bec-4c50-89c9-7fb33ffec9e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몸매 갑 셀럽 화사·수영·리사·다현의 탐나는 보디라인, 누가 1등?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61662</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61662</guid>
-            <pubDate>Tue, 30 Nov 2021 16:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[화사, 수영, 리사, 다현의 훔치고 싶은 완벽 보디 라인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/bd135a71-c099-461c-a8b6-866c40b65126.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

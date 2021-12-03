@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 14:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 15:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 픽! 12월 꼭 소장해야 할 머스트해브 아이템 2]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61714</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61714</guid>
+            <pubDate>Fri, 03 Dec 2021 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/0fc2e3e0-104d-4f65-9d1c-44a49128ec49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브 장원영의 뮤직뱅크 패션 모아보기!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61709</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 01 Dec 2021 06:13:10 GMT</pubDate>
             <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어그부츠의 계절이 돌아왔다! 털신 신고 신나는 겨울~ 해외 셀럽들의 어그부츠 코디가 궁금하다면?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61652</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61652</guid>
-            <pubDate>Tue, 30 Nov 2021 09:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[김나영, 헤일리 비버, 지지 하디드, 카이아 거버, 엘사 호스크, 이리나 샤크의 선택! 어그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/b4f17e02-72e3-46eb-9739-7790b64195c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
