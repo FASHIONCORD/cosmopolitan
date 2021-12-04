@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 14:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 15:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버질 아블로 추모 행렬부터 구찌 가문의 영화 유감 성명까지?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61729</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61729</guid>
+            <pubDate>Sat, 04 Dec 2021 15:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 Pick 12월 첫째주 패션 뉴스 &lt;코스모라이크&gt;]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/64ab80c1-b8ff-4cfe-8de7-9bed4918f6df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모 픽! 12월 꼭 소장해야 할 머스트해브 아이템 2]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61714</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 01 Dec 2021 11:07:58 GMT</pubDate>
             <content:encoded><![CDATA[화사, 수영, 리사, 다현의 훔치고 싶은 완벽 보디 라인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/bd135a71-c099-461c-a8b6-866c40b65126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61370</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61370</guid>
-            <pubDate>Wed, 01 Dec 2021 06:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
