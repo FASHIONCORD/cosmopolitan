@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 17:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 18:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2021! 클래식한 보틀을 지닌 베스트 홈 프래그런스 아이템은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61784</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61784</guid>
+            <pubDate>Sun, 05 Dec 2021 18:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/25c922d7-7e6e-43ef-b8fa-0d33d6f2e201.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 대세는 니플패치! 김나영도 선택한 니플패치 추천 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61757</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61757</guid>
+            <pubDate>Sun, 05 Dec 2021 18:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[니플패치에 진심인 에디터가 추천하는 다양한 아이템들에 주목]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/4a408add-8691-4bd2-8ffc-a9b248691c9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2021! 전국민이 완소하는 베스트 우먼 프래그런스는?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61743</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61743</guid>
+            <pubDate>Sun, 05 Dec 2021 18:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/3f05bd5a-8bb7-4149-a292-491686122efe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모 뷰티 어워즈 2021! 수십 년째 롱런하는 베스트 안티에이징 세럼은?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61742</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 02 Dec 2021 19:08:49 GMT</pubDate>
             <content:encoded><![CDATA[몸과 마음이 늘어지기 십상인 겨울도 ‘Know Now’ 숍을 참고하면 문제없다! 에디터가 이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/df53932b-0783-4807-b315-0d3ff0bd2092.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 뷰티 어워즈 2021! 1등의 영광을 가져간 베스트 샴푸는?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61681</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61681</guid>
-            <pubDate>Wed, 01 Dec 2021 15:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/a238f02a-39e2-4e4c-a6fe-3565bc154cc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 뷰티 어워즈 2021! 예쁘고 세련된 컬을 완성해주는 베스트 뷰티 디바이스는?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61680</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61680</guid>
-            <pubDate>Thu, 02 Dec 2021 19:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/180fd30a-bcb7-428c-bebe-0fe733933d37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 뷰티 어워즈 2021! 아시아 TOP 10에 오른 럭셔리 끝판왕 크림은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61679</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61679</guid>
-            <pubDate>Wed, 01 Dec 2021 09:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/e5e0e278-5308-4761-b2ac-8c4492007210.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
