@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2021! 수십 년째 롱런하는 베스트 안티에이징 세럼은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61742</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61742</guid>
+            <pubDate>Sun, 05 Dec 2021 15:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/8a6cc311-e438-4b34-8000-5d7ffd90da22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여기가 홀리데이 극락! 연말을 더 화려하게 빛내줄 탐나는 한정판 뷰티 에디션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61717</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 01 Dec 2021 09:10:32 GMT</pubDate>
             <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/e5e0e278-5308-4761-b2ac-8c4492007210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멍뭉미 넘치던 윈터·소연·조이를 냉미녀로 만들어준 치트키는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61671</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61671</guid>
-            <pubDate>Wed, 01 Dec 2021 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘흑발’ 하나로 쎈캐 장착 완료!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/027edd4b-ee80-4d50-ad4e-4c5ef20cbcdc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
