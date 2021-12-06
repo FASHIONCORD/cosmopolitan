@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 11:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 13:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 효창 공원 까페 아직도 안 가봤니?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61829</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61829</guid>
+            <pubDate>Mon, 06 Dec 2021 13:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 동네 어디? 코스모의 예민한 레이더망에 따르면 효창공원이 심상치 않다. 일단 코스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/f0279627-2286-4167-84f6-d7ef6d7feaea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 연말은 고급 한식 레스토랑 어때? 한식러 들을 위한 맛집 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61825</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 02:02:42 GMT</pubDate>
             <content:encoded><![CDATA[코스모 Pick 12월 첫째주 패션 뉴스 &lt;코스모라이크&gt;]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/64ab80c1-b8ff-4cfe-8de7-9bed4918f6df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여수 겨울 밤바다~ 감성을 꽉 채워 줄 여수 감성 숙소 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61704</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61704</guid>
-            <pubDate>Mon, 06 Dec 2021 02:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[쌀쌀한 겨울엔 숙소콕!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/73f2b27b-7c4f-43be-9505-b7b86d6322e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
