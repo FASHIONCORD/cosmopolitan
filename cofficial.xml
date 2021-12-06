@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 07:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해의 국뽕 미나리VS오징어게임? 코스모 2021 연말결산]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/60995</link>
+            <guid>https://www.cosmopolitan.co.kr/article/60995</guid>
+            <pubDate>Mon, 06 Dec 2021 09:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[올해 당신이 가장 피부로 느낀 이슈들을 고르고 몰스킨 기프트 세트 받아가자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/3172ba42-b176-4c35-9686-8103b7c16e32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021년 나의 쇼핑 라이프 돌아보기!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60984</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[어...? 예쁘다..(입틀막) 인간 복숭아세요? 아무나 소화 못한다는 헤어 스타일링에도 분홍...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202107/22/a1c1dbe2-6bbe-4097-a0f9-dd961bcebe61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자꾸 거슬리는 내 애인과 직장 동료의 관계, 절대 용인할 수 없는 행동을 고른다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/56292</link>
-            <guid>https://www.cosmopolitan.co.kr/article/56292</guid>
-            <pubDate>Sun, 14 Nov 2021 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[화내기도 애매하고 안내기도 애매하고! 내가 예민한걸까? 자꾸 거슬리는 내 애인 or 배우자와...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202106/23/b8b0ac36-d84a-4ed7-b2b0-185b15ffd2f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

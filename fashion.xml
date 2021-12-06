@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 07:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차정원·김나영·강민경·려원의 스타일리쉬한 양말 스타일링 꿀팁!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61823</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61823</guid>
+            <pubDate>Mon, 06 Dec 2021 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[커피 한 잔 값으로 패션 지수 UP!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/39a4d556-3b25-41fc-b237-57c9d4a28967.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔프제(ENFJ) 지민·리아·민혁·승희·이채연의 스타일리쉬한 패션이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61822</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61822</guid>
+            <pubDate>Mon, 06 Dec 2021 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[mbti 과몰입러 에디터가 분석하는 아이돌 패션]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/4a682943-a99a-40a4-98bf-9ea1d0f2d96f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홀리데이 분위기 물씬 나는 연말 선물 BEST 11]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61802</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 04 Dec 2021 15:12:04 GMT</pubDate>
             <content:encoded><![CDATA[코스모 Pick 12월 첫째주 패션 뉴스 &lt;코스모라이크&gt;]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/64ab80c1-b8ff-4cfe-8de7-9bed4918f6df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 픽! 12월 꼭 소장해야 할 머스트해브 아이템 2]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61714</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61714</guid>
-            <pubDate>Fri, 03 Dec 2021 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/0fc2e3e0-104d-4f65-9d1c-44a49128ec49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브 장원영의 뮤직뱅크 패션 모아보기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61709</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61709</guid>
-            <pubDate>Fri, 03 Dec 2021 04:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[아이브로 돌아온 그녀의 레전드 뮤뱅 MC룩! 그 옷 어디꺼라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/41f46ed4-3cfb-4656-87ec-dd828e306cec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
