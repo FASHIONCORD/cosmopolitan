@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 14:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 15:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영 페기구·로제·기은세의 ‘털’털한 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61824</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61824</guid>
+            <pubDate>Mon, 06 Dec 2021 15:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[커피 한 잔 값으로 패션 지수 UP!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/0bccb64c-c321-49aa-bf31-014830f3e498.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차정원·김나영·강민경·려원의 스타일리쉬한 양말 스타일링 꿀팁!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61823</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 00:30:19 GMT</pubDate>
             <content:encoded><![CDATA[드라마와 뮤지션으로 증명된 한국 콘텐츠의 힘은 패션계에서도 서서히 존재감을 키워가고 있다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/04418546-116d-48e7-a3f8-feeb4ab99732.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[버질 아블로 추모 행렬부터 구찌 가문의 영화 유감 성명까지?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61729</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61729</guid>
-            <pubDate>Sat, 04 Dec 2021 15:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 Pick 12월 첫째주 패션 뉴스 &lt;코스모라이크&gt;]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/64ab80c1-b8ff-4cfe-8de7-9bed4918f6df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
