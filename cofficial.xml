@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친밀한 관계에서의 '파트너 폭력', 들어보셨나요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61263</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61263</guid>
+            <pubDate>Tue, 07 Dec 2021 09:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[UN 등 영미권 국가에서는 '데이트 폭력' 대신 '파트너 폭력'이라는 단어를 사용하는 것, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/9bfb3564-c19d-4860-b5df-9cca573b012c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해의 국뽕 미나리VS오징어게임? 코스모 2021 연말결산]]></title>
             <link>https://www.cosmopolitan.co.kr/article/60995</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[덕질 N년차 짬으로 궁예했을 때 4세대 아이돌 탑티어를 골라보자. 설문으로 그간의 덕질 인증...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/04/8eb540d9-7b6c-496e-8f3e-5ddfaeb4dd5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핑크 헤어 스타일링이 가장 잘 어울리는 소화력 갑 아이돌을 골라보자.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/57068</link>
-            <guid>https://www.cosmopolitan.co.kr/article/57068</guid>
-            <pubDate>Sun, 14 Nov 2021 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[어...? 예쁘다..(입틀막) 인간 복숭아세요? 아무나 소화 못한다는 헤어 스타일링에도 분홍...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202107/22/a1c1dbe2-6bbe-4097-a0f9-dd961bcebe61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
