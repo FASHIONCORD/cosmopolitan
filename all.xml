@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 09:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 11:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,6 +360,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/eb915c44-f9f4-4eec-9e60-0a0354bf9733.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대리 설렘 미쳤네! 올겨울, 더 뜨거운 연애 리얼리티가 찾아온다! (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61668</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61668</guid>
+            <pubDate>Tue, 07 Dec 2021 11:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[연애의 민낯을 과감하게 드러내는, 올겨울 핫한 연애 리얼리티.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/04bdab4c-761c-40db-903f-f9ab623d7371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슬의생 전미도, 남편과 꿀 떨어지는 럽스타! 그녀의 1호팬이라는 남편은 뉴구?! (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61659</link>
             <guid>https://www.cosmopolitan.co.kr/article/61659</guid>
@@ -416,18 +424,10 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/334ae925-8103-4eda-a562-b32277747589.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[같은 여자라서 괜찮다구요? 혐오가 아니라, 그 반대라서 더 고민이야! (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61292</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61292</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[이건 동성애에 반대하는 것과 전혀 다른 이야기다. 동성애 성향을 가진 친구에게 겪었던 당황스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/76fcf9e0-e4ff-4067-82ac-f7c66cb21b86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바쁘다 바빠 배두나! 지금이 가장 뜨거운 배두나의 2021년 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61841</link>
             <guid>https://www.cosmopolitan.co.kr/article/61841</guid>
-            <pubDate>Tue, 07 Dec 2021 09:11:46 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[월클 언니 배두나가 돌아왔다. 23년의 활동을 담은 책 &lt;배우 배두나&gt;가 나왔고, 넷플릭스 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/946f856b-3af1-4755-931f-2ea35593b529.jpg" length="0" type="image/jpg"/>
         </item>
@@ -435,7 +435,7 @@
             <title><![CDATA[똑 단발 핑크 머리로 파격변신 하고 아이돌 데뷔한 정유미?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61840</link>
             <guid>https://www.cosmopolitan.co.kr/article/61840</guid>
-            <pubDate>Tue, 07 Dec 2021 09:11:46 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[콜드X정유미 역대급 콜라보로 트렌디 감성 뿜뿜]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/aafd39a3-ce97-4ca5-8266-1f7a6e5829e6.jpg" length="0" type="image/jpg"/>
         </item>
