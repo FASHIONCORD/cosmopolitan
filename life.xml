@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 20:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 21:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의리도 월클! BTS 뷔X최우식 참우정 모먼트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61844</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61844</guid>
+            <pubDate>Tue, 07 Dec 2021 21:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방영되는 최우식 주연 ‘그 해 우리는’ OST 참여해]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/2128a255-8eda-42ff-8335-ebffe00c63be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바쁘다 바빠 배두나! 지금이 가장 뜨거운 배두나의 2021년]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61841</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 09:15:51 GMT</pubDate>
             <content:encoded><![CDATA[흑임자 라떼 찐 맛집부터 수제 버터 맛집까지 놀랍다 놀라워!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/ed3d229b-bfbe-4488-b8bc-ddfc0c2b016f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 또 못 참지! 비주얼부터 찢어버린 샌드위치 신상 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61820</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61820</guid>
-            <pubDate>Mon, 06 Dec 2021 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[갓 오픈한 영국식 샌드위치 맛집부터 강남역 핫플 까지, 전부 다 모아왔다~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/fb68e09e-cb31-4c88-9baf-423b4db9cc66.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
