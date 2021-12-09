@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 15:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 16:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfMjk4/MDAxNjM3NjUzNTE5Mzc0.n12JopMJZ0qwD8JvXlPzaQRyCDYnb1inma6cnbL0_8og.Ri1Cuik2F1UoHpc0fjaLPuPJ9AexPmxBIkI9U7YTWgog.JPEG/IlRkvntfPzHkQD7XoJvGw9m9HmaI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이걸 다 소화한다고? 컨셉 맛집 아이유의 갓벽한 MMA 무대 의상 정보 다 모았다! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61859</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61859</guid>
+            <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[헤,메,코 모두 찢었다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/c10bf03c-1d4d-4b70-999e-667fda76d17c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패딩 부츠, 패딩 바지? 올겨울 패션 트렌드는 패딩! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61852</link>
             <guid>https://www.cosmopolitan.co.kr/article/61852</guid>
@@ -222,14 +230,6 @@
             <pubDate>Mon, 06 Dec 2021 09:09:58 GMT</pubDate>
             <content:encoded><![CDATA[커피 한 잔 값으로 패션 지수 UP!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/39a4d556-3b25-41fc-b237-57c9d4a28967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔프제(ENFJ) 지민·리아·민혁·승희·이채연의 스타일리쉬한 패션이 궁금하다면? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61822</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61822</guid>
-            <pubDate>Mon, 06 Dec 2021 07:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[mbti 과몰입러 에디터가 분석하는 아이돌 패션]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/4a682943-a99a-40a4-98bf-9ea1d0f2d96f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해장 뭘로 하세요? 술꾼들은 해장을 위해 ‘이거’ 먹는다 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
