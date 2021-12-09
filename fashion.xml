@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 23:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 00:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[똑 단발 핑크 머리로 파격변신 하고 아이돌 데뷔한 정유미?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61840</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61840</guid>
+            <pubDate>Thu, 09 Dec 2021 00:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[콜드X정유미 역대급 콜라보로 트렌디 감성 뿜뿜]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/aafd39a3-ce97-4ca5-8266-1f7a6e5829e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021AAA MC 장원영, 2억원 넘는 주얼리 착용해 화제!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61839</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 05:11:39 GMT</pubDate>
             <content:encoded><![CDATA[행복한 연말을 위한 홀리데이 컬렉션!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/e409d43b-09e9-4f9b-aa0c-fb2ffb39108b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월을 더욱 근사하게 만들어줄 신상 코스메틱과 NEW 뷰티 이슈!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61791</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61791</guid>
-            <pubDate>Mon, 06 Dec 2021 05:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월을 더욱 근사하게 만들어줄 신상 코스메틱과 뷰티 이슈!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/8a2b2a0e-1529-40e5-9692-71c022f1ee44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
