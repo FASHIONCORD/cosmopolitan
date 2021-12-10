@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 15:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 16:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담비 언니는 연애 중! 손담비 사복 패션으로 알아보는 다양한 데이트룩에 다들 주목~~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61873</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61873</guid>
+            <pubDate>Fri, 10 Dec 2021 16:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[담비 언니처럼 입으면 우리 모두 올겨울 연애 대성공?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/adb0bb95-c46e-4540-b70f-8af5277e00d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이걸 다 소화한다고? 컨셉 맛집 아이유의 갓벽한 MMA 무대 의상 정보 다 모았다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61859</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 15:09:40 GMT</pubDate>
             <content:encoded><![CDATA[커피 한 잔 값으로 패션 지수 UP!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/0bccb64c-c321-49aa-bf31-014830f3e498.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차정원·김나영·강민경·려원의 스타일리쉬한 양말 스타일링 꿀팁!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61823</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61823</guid>
-            <pubDate>Mon, 06 Dec 2021 09:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[커피 한 잔 값으로 패션 지수 UP!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/39a4d556-3b25-41fc-b237-57c9d4a28967.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
