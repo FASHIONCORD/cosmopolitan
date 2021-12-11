@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 13:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 16:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파격적인 멜론 뮤직 어워드2021 이청아 패션! 그리고 그의 미술관 패션까지 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61874</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61874</guid>
+            <pubDate>Sat, 11 Dec 2021 16:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[드레스 안에 청바지를 입어 화제의 중심에 선 이청아에게 주목해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/6f4d19cb-d9f1-428e-a981-7347f6d8f281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[담비 언니는 연애 중! 손담비 사복 패션으로 알아보는 다양한 데이트룩에 다들 주목~~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61873</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Dec 2021 08:11:35 GMT</pubDate>
             <content:encoded><![CDATA[YGX 리정, 오마이걸 유아, 모모랜드 주이, 백예린의 공통점, 큐티섹시의 바이블!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/081c8c53-93fe-424a-8dd0-eac25fd08872.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영 페기구·로제·기은세의 ‘털’털한 스타일링 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61824</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61824</guid>
-            <pubDate>Mon, 06 Dec 2021 15:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[커피 한 잔 값으로 패션 지수 UP!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/0bccb64c-c321-49aa-bf31-014830f3e498.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
