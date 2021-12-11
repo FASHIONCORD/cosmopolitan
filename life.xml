@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 02:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 02:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꾸덕함이 폭발했다~ 요즘 핫한 서울 버터바 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61901</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61901</guid>
+            <pubDate>Sat, 11 Dec 2021 02:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[진한 버터의 풍미에 쫀득한 식감까지, 이건 안 먹을 수 없죠!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/cb755384-f2f5-4e92-bfac-baf4388b04c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월 따끈따끈한 전시와 신간 리스트는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61882</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Dec 2021 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[월클 언니 배두나가 돌아왔다. 23년의 활동을 담은 책 &lt;배우 배두나&gt;가 나왔고, 넷플릭스 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/946f856b-3af1-4755-931f-2ea35593b529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[똑 단발 핑크 머리로 파격변신 하고 아이돌 데뷔한 정유미?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61840</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61840</guid>
-            <pubDate>Tue, 07 Dec 2021 09:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[콜드X정유미 역대급 콜라보로 트렌디 감성 뿜뿜]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/aafd39a3-ce97-4ca5-8266-1f7a6e5829e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
