@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 14:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 15:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헐리웃 셀럽에게 배우는 겨울 스타일링법 8]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62031</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62031</guid>
+            <pubDate>Mon, 13 Dec 2021 15:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[잘 봐~. 언니들 박시하게 입은 거! 위드 코로나에도 여전히 흥행 중인 원마일 웨어. 스웨트...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/57d356a8-e485-445a-bce7-f5e7b1a8a307.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽실몽실 귀여운 니트가 대세!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62030</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 11 Dec 2021 16:14:36 GMT</pubDate>
             <content:encoded><![CDATA[드레스 안에 청바지를 입어 화제의 중심에 선 이청아에게 주목해보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/6f4d19cb-d9f1-428e-a981-7347f6d8f281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[담비 언니는 연애 중! 손담비 사복 패션으로 알아보는 다양한 데이트룩에 다들 주목~~]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61873</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61873</guid>
-            <pubDate>Fri, 10 Dec 2021 16:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[담비 언니처럼 입으면 우리 모두 올겨울 연애 대성공?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/adb0bb95-c46e-4540-b70f-8af5277e00d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
