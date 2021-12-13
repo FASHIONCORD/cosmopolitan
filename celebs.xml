@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 02:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 03:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파격적인 멜론 뮤직 어워드2021 이청아 패션! 그리고 그의 미술관 패션까지 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61874</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61874</guid>
+            <pubDate>Mon, 13 Dec 2021 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[드레스 안에 청바지를 입어 화제의 중심에 선 이청아에게 주목해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/6f4d19cb-d9f1-428e-a981-7347f6d8f281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[담비 언니는 연애 중! 손담비 사복 패션으로 알아보는 다양한 데이트룩에 다들 주목~~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61873</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[다가오는 크리스마스, 미스 디올 오 드 퍼퓸과 함께 다채로운 추억을 만들어보세요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/051bbeec-1ae8-4d18-abc0-bb548ace2584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의리도 월클! BTS 뷔X최우식 참우정 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61844</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61844</guid>
-            <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 방영되는 최우식 주연 ‘그 해 우리는’ OST 참여해]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/2128a255-8eda-42ff-8335-ebffe00c63be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

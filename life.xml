@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 02:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 03:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[땅콩 싫어하는 사람도 사랑할 수밖에 없는 편, 전국 피넛버터 디저트 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61907</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61907</guid>
+            <pubDate>Mon, 13 Dec 2021 03:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[심플하고 무난한데 참 맛있단 말이지~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/20778172-c5fe-4667-bcbc-5c3073638e50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식상한 디저트는 그만! 먹는 순간 맛에 놀라는 독특한 이탈리안 디저트 모음 ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61904</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61904</guid>
+            <pubDate>Mon, 13 Dec 2021 03:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[어서 와, 이런 디저트는 처음이지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/8804e80a-ec0a-444d-a782-f88ed99c3b14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꾸덕함이 폭발했다~ 요즘 핫한 서울 버터바 맛집 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61901</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 08 Dec 2021 02:39:03 GMT</pubDate>
             <content:encoded><![CDATA[자동차의 수명을 깎아 먹는 사소한 운전 습관들. 어렵고 귀하게 산 차잖아요? 이거 하지 맙시...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/e488df30-9a9b-4551-98f5-c8a99a443900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의리도 월클! BTS 뷔X최우식 참우정 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61844</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61844</guid>
-            <pubDate>Tue, 07 Dec 2021 21:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 방영되는 최우식 주연 ‘그 해 우리는’ OST 참여해]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/2128a255-8eda-42ff-8335-ebffe00c63be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바쁘다 바빠 배두나! 지금이 가장 뜨거운 배두나의 2021년]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61841</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61841</guid>
-            <pubDate>Tue, 07 Dec 2021 09:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[월클 언니 배두나가 돌아왔다. 23년의 활동을 담은 책 &lt;배우 배두나&gt;가 나왔고, 넷플릭스 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/946f856b-3af1-4755-931f-2ea35593b529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
