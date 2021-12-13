@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 00:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 01:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMzUg/MDAxNjM3NzIwMDAwOTIw.jdjOGTsnrOiKyJne_JbwX3N2O2qd278VwJUmyHlucjMg.gtrclnXGkq4QmMXel610-IQOf_ov1_F_1yP4bNLnxdEg.JPEG/IlHPrJ3Bo-Je_uxW9XD9DSQcbnWo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 쇼핑 트렌드 보고서 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61974</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61974</guid>
+            <pubDate>Mon, 13 Dec 2021 01:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹에도 쇼핑은 계속된다! 2021년의 쇼핑 라이프 돌아보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/9bfba567-5bd3-4cb3-b770-6e6f8e581036.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[옷소매 붉은 끝동 ‘이세영’의 한복 아닌 사복 패션 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61948</link>
             <guid>https://www.cosmopolitan.co.kr/article/61948</guid>
@@ -222,14 +230,6 @@
             <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[콜드X정유미 역대급 콜라보로 트렌디 감성 뿜뿜]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/aafd39a3-ce97-4ca5-8266-1f7a6e5829e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021AAA MC 장원영, 2억원 넘는 주얼리 착용해 화제! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61839</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61839</guid>
-            <pubDate>Tue, 07 Dec 2021 08:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[2004년생 올해 17살 맞나 싶을 정도로 화려하고 갓-벽한 장원영의 시상식 진행 모습]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/eb915c44-f9f4-4eec-9e60-0a0354bf9733.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스모 뷰티 어워즈 2021! 피부 손상을 개선해줄 베스트 트러블 케어 아이템은?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/d857bd37-6295-445b-8d85-dfed52ebc27e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[담비 언니는 연애 중! 손담비 사복 패션으로 알아보는 다양한 데이트룩에 다들 주목~~ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61873</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61873</guid>
+            <pubDate>Fri, 10 Dec 2021 16:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[담비 언니처럼 입으면 우리 모두 올겨울 연애 대성공?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/adb0bb95-c46e-4540-b70f-8af5277e00d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김다미♥최우식, 서로 죽이는 연기를 하다가 첫사랑 커플 연기를 한다고? 대환장인데 좋못사... (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61872</link>
             <guid>https://www.cosmopolitan.co.kr/article/61872</guid>
@@ -350,14 +358,6 @@
             <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[오늘 방영되는 최우식 주연 ‘그 해 우리는’ OST 참여해]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/2128a255-8eda-42ff-8335-ebffe00c63be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바쁘다 바빠 배두나! 지금이 가장 뜨거운 배두나의 2021년 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61841</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61841</guid>
-            <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[월클 언니 배두나가 돌아왔다. 23년의 활동을 담은 책 &lt;배우 배두나&gt;가 나왔고, 넷플릭스 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/946f856b-3af1-4755-931f-2ea35593b529.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손담비, 5살 연상 전 국가대표와 3개월째 열애중? (코스모폴리탄 코리아 ─ 러브)]]></title>

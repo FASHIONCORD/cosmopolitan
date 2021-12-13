@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 00:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 01:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담비 언니는 연애 중! 손담비 사복 패션으로 알아보는 다양한 데이트룩에 다들 주목~~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61873</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61873</guid>
+            <pubDate>Mon, 13 Dec 2021 01:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[담비 언니처럼 입으면 우리 모두 올겨울 연애 대성공?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/adb0bb95-c46e-4540-b70f-8af5277e00d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김다미♥최우식, 서로 죽이는 연기를 하다가 첫사랑 커플 연기를 한다고? 대환장인데 좋못사...]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61872</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[오늘 방영되는 최우식 주연 ‘그 해 우리는’ OST 참여해]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/2128a255-8eda-42ff-8335-ebffe00c63be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바쁘다 바빠 배두나! 지금이 가장 뜨거운 배두나의 2021년]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61841</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61841</guid>
-            <pubDate>Tue, 07 Dec 2021 09:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[월클 언니 배두나가 돌아왔다. 23년의 활동을 담은 책 &lt;배우 배두나&gt;가 나왔고, 넷플릭스 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/946f856b-3af1-4755-931f-2ea35593b529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
