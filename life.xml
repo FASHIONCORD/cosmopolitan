@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 04:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 05:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벌써 산은 눈이 한가득이라고? 하얀 풍경 맛집 소개해드림!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61926</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61926</guid>
+            <pubDate>Mon, 13 Dec 2021 05:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[프로 등산러들은 벌써 눈 오는 산 구경 중. 지금 가도 눈 구경 SSAP 가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/c0fff037-01f2-48b8-a08a-66de613d023a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[땅콩 싫어하는 사람도 사랑할 수밖에 없는 편, 전국 피넛버터 디저트 맛집 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61907</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Dec 2021 03:15:20 GMT</pubDate>
             <content:encoded><![CDATA[김나영도 반한 신상 와인 맛집 4]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/12/4d2f795d-08cc-4413-8afa-6fe939624211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것 줄이니 자동차 수명 늘었다! 알아두면 좋은 자동차 수명 줄이는 운전 습관 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61868</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61868</guid>
-            <pubDate>Wed, 08 Dec 2021 02:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[자동차의 수명을 깎아 먹는 사소한 운전 습관들. 어렵고 귀하게 산 차잖아요? 이거 하지 맙시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/e488df30-9a9b-4551-98f5-c8a99a443900.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

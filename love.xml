@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 04:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 05:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민효린&태양 부부 아들 출산 소식! 서로에 대한 사랑이 어마어마하다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61835</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61835</guid>
+            <pubDate>Mon, 13 Dec 2021 05:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[훈훈한 찐 사랑꾼 부부의 건강한 아들 출산을 축하하는 바!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/27eebe95-6d6b-4e41-bbe8-64937a06ccee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손담비, 5살 연상 전 국가대표와 3개월째 열애중?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61728</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 01 Dec 2021 07:11:53 GMT</pubDate>
             <content:encoded><![CDATA[지금 헤어지는 중입니다? 이미 헤어졌습니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c7365b2d-c41a-4453-95f0-8e811790ac52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애할 때 최대의 장애물, 바로 '돈'이라고? 돈때문에 연인이랑 싸운 SSUL...]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61511</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61511</guid>
-            <pubDate>Wed, 01 Dec 2021 07:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[사랑이 밥도 먹여주는 세상이면 좋으련만 알다시피 그런 건 없다. 겨우 밥 한 끼 값 하나로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/b1d7d881-cdf2-48df-a8bd-10642346079a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
