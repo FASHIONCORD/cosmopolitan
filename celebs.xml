@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 07:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 08:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네가 왜 거기서 나와? 서울대 나온 ‘뇌섹’ 배우들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62047</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62047</guid>
+            <pubDate>Tue, 14 Dec 2021 08:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[김태희, 이하늬, 이상윤 말고 숨겨진 서울대 출신 연기파 배우들을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/476d3ef8-a9ca-4dc0-b682-8ded5ded3bca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 MAMA, 파격 보디 슈트마저 갓벽하게 소화한 이효리의 다이어트 비결은?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62045</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Dec 2021 09:17:09 GMT</pubDate>
             <content:encoded><![CDATA[숨멎주의! 얼굴이 서사인 공유, 조인성, 주지훈, 이정재, 정우성 오빠야들과의 비대면 웹 데...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/88a7ea4a-2458-44e7-b181-69563f2ae3b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷소매 붉은 끝동 ‘이세영’의 한복 아닌 사복 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61948</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61948</guid>
-            <pubDate>Mon, 13 Dec 2021 09:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[수수美의 끝판왕.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/ae0e0d0e-2412-43c4-89ff-d6d36df1e99b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
