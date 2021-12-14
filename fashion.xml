@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 00:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 02:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사…사랑합니다! 40대 이상 오빠야들의 미친 극락 비주얼]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62033</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62033</guid>
+            <pubDate>Tue, 14 Dec 2021 01:59:54 GMT</pubDate>
+            <content:encoded><![CDATA[숨멎주의! 얼굴이 서사인 공유, 조인성, 주지훈, 이정재, 정우성 오빠야들과의 비대면 웹 데...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/88a7ea4a-2458-44e7-b181-69563f2ae3b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헐리웃 셀럽에게 배우는 겨울 스타일링법 8]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62031</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 12 Dec 2021 16:17:09 GMT</pubDate>
             <content:encoded><![CDATA[아델이 컴백했다. 45kg을 감량하고서! 그야말로 반쪽이 된 그녀의 비법이라는 서트푸드 다이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/e047edc5-20ec-4411-9794-bcb99e434c77.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[파격적인 멜론 뮤직 어워드2021 이청아 패션! 그리고 그의 미술관 패션까지 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61874</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61874</guid>
-            <pubDate>Sat, 11 Dec 2021 16:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[드레스 안에 청바지를 입어 화제의 중심에 선 이청아에게 주목해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/6f4d19cb-d9f1-428e-a981-7347f6d8f281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
