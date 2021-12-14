@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 09:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 10:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<지금 헤어지는 중입니다> 송혜교의 패션회사 디자이너 룩은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62035</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62035</guid>
+            <pubDate>Tue, 14 Dec 2021 10:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[‘지헤중’ 속 트렌디한 커리어 우먼 송혜교 패션 파헤치기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/a8703469-9265-4184-891a-5f8b3d328219.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사…사랑합니다! 40대 이상 오빠야들의 미친 극락 비주얼]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62033</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 12 Dec 2021 16:17:09 GMT</pubDate>
             <content:encoded><![CDATA[수수美의 끝판왕.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/ae0e0d0e-2412-43c4-89ff-d6d36df1e99b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[45kg을 감량한 아델의 비법은 서트푸드 다이어트?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61936</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61936</guid>
-            <pubDate>Sun, 12 Dec 2021 16:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[아델이 컴백했다. 45kg을 감량하고서! 그야말로 반쪽이 된 그녀의 비법이라는 서트푸드 다이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/e047edc5-20ec-4411-9794-bcb99e434c77.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
