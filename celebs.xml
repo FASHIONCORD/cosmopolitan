@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 08:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 09:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매력녀 아이키에게 빠진 이효리·노제·이선빈·함연지! 도대체 그녀의 매력은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62108</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62108</guid>
+            <pubDate>Wed, 15 Dec 2021 09:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[노제, 이선빈, 함연지 그리고 이효리까지 사로잡은 아이키의 매력은 뭐야!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/726667fa-bacc-45e9-a0c2-fcbe4eb6c0fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이렇게 유니크한 크리스마스 트리가 있어? 블랙핑크 지수, 윤승아, 정려원 등 셀럽들의 취향 저격 크리스마스 인테리어!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62106</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 06:13:50 GMT</pubDate>
             <content:encoded><![CDATA[로제부터 조이, 태연, 유아, 티파니까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/c942a6dd-73e9-4d3a-af27-16b4030be473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박소담, 건강검진서 갑상선 유두암 진단]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62051</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62051</guid>
-            <pubDate>Tue, 14 Dec 2021 11:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;기생충&gt;의 주연 배우였던 박소담(30),  갑상선 유두암 진단을 받고 수술후 회복중이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/e0563fa3-cae6-401f-92ac-f8f60a34f281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
