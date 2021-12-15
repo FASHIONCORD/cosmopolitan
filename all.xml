@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 10:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 11:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/88a7ea4a-2458-44e7-b181-69563f2ae3b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<옷소매 붉은 끝동> 쪽진 머리도 완벽 소화한 이세영의 헤어스타일 변천사 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62061</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62061</guid>
+            <pubDate>Wed, 15 Dec 2021 11:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[숏 컷부터 긴 생머리까지! 도대체 안 어울리는 게 뭐야?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/0ea89c31-560d-455c-9064-b91dc79def1c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021 MAMA, 파격 보디 슈트마저 갓벽하게 소화한 이효리의 다이어트 비결은?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62045</link>
             <guid>https://www.cosmopolitan.co.kr/article/62045</guid>
@@ -288,12 +296,28 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/8b9d24fe-0bc1-4d99-ad76-be4ef6c2597c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찰떡 케미로 드라마틱한 효능을 보장하는 최고의 영양제 궁합 리스트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61970</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61970</guid>
-            <pubDate>Mon, 13 Dec 2021 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[하나보단 둘! 찰떡 케미로 드라마틱한 효능을 보장하는 최고의 영양제 궁합 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/e5d32f90-f8eb-4ba2-b57c-fb53dabb0ada.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[화려한 골드, 로즈, 실버 헤어와 스타일링을 찰떡 소화하는, 태연! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62127</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62127</guid>
+            <pubDate>Wed, 15 Dec 2021 11:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[이러다가 무지개컬러까지 어울리겠어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/4f4d0e88-f5c7-4f18-8811-d6af3a15880e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그 해 우리는>으로 돌아온 김다미의 단발 변천사! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62126</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62126</guid>
+            <pubDate>Wed, 15 Dec 2021 11:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[다 다른 다미의 단발을 다 살펴보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/addcbe3b-ffcc-458b-8c41-0705ad855fad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이런 수학 선생님 어딨어요? <멜랑꼴리아> 임수정만의 놈코어 패션 탐구 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62125</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62125</guid>
+            <pubDate>Wed, 15 Dec 2021 11:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[남다른 한 끗 뽀인트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/679834df-fb60-4947-8642-5e160116df09.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이정재가 발급받은 ‘헉’소리 나는 블랙카드… 연회비만 250만원? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -334,30 +358,6 @@
             <pubDate>Wed, 15 Dec 2021 09:10:13 GMT</pubDate>
             <content:encoded><![CDATA[노제, 이선빈, 함연지 그리고 이효리까지 사로잡은 아이키의 매력은 뭐야!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/726667fa-bacc-45e9-a0c2-fcbe4eb6c0fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 유니크한 크리스마스 트리가 있어? 블랙핑크 지수, 윤승아, 정려원 등 셀럽들의 취향 저격 크리스마스 인테리어! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62106</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62106</guid>
-            <pubDate>Wed, 15 Dec 2021 08:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[대형 트리와 오너먼트, 다양한 크리스마스 오브제까지! 이번 크리스마스에 나도 손민수 각?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/4f1d0016-d5b0-494d-9dfe-4dd1e7b32a9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핏 존예! 태연·수영·효연·노제의 에슬레저 찐 천재 룩 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62105</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62105</guid>
-            <pubDate>Wed, 15 Dec 2021 08:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[편하고 예쁜 태연, 수영, 효연, 노제의 애슬레저 사복 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/994df6e4-9723-492b-819f-6d63a302a770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-KING 본좌 주지훈이 ‘궁’ 리메이크에?! 그 시절 ‘궁’ 토크부터 최애 향수, 붕어빵 취향, 오늘의 TMI까지! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62082</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62082</guid>
-            <pubDate>Wed, 15 Dec 2021 08:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[심장이 주쥰주쥰..♥ 주지훈 과몰입러라면 당장 클릭!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/a8390764-5134-4818-95ee-ad5a62f7edee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김다미♥최우식, 서로 죽이는 연기를 하다가 첫사랑 커플 연기를 한다고? 대환장인데 좋못사... (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -424,6 +424,30 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/b5c7c478-f8ee-4366-b9fc-37235ebec964.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[긍정 바이러스, 비투비의 서은광과 이민혁이 MZ세대 청춘들에게 전하고 싶은 말이 있다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62114</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62114</guid>
+            <pubDate>Wed, 15 Dec 2021 10:14:32 GMT</pubDate>
+            <content:encoded><![CDATA["여러분 인생에서는 스스로가 모두 주인공이에요."]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/8889eaa5-c2f2-4ea0-97bb-47e293f56bb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놀면 뭐하니가 낳은 역대급 프로젝트 그룹들, 그들의 놀라운 최신 근황은?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62113</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62113</guid>
+            <pubDate>Wed, 15 Dec 2021 10:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[토요태부터 싹쓰리, 환불원정대, MSG 워너비까지! 놀뭐즈 멤버들의 美친 케미]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/f9db7e6e-66a4-45dc-a9c8-74044b299c43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 RM이 다녀갈(지도 모를), 꼭 봐야할 전시 리스트 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62110</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62110</guid>
+            <pubDate>Wed, 15 Dec 2021 11:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[RM이 다녀간 후에는 보기 힘들지도 모를, 볼거리도 많은데다 울림도 있는 전시들을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/a1b4c53d-42c3-47d8-bcb8-c68c397f441a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[등산코스따라 겨울산행 하즈아! 눈도 보고 산행도 하기 좋은 겨울 등산코스 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62107</link>
             <guid>https://www.cosmopolitan.co.kr/article/62107</guid>
@@ -462,30 +486,6 @@
             <pubDate>Tue, 14 Dec 2021 02:00:51 GMT</pubDate>
             <content:encoded><![CDATA[정경호&amp;수영, 조정석&amp;거미, 홍성기&amp;이현이, 박희순&amp;박예진 커플보며 내가 이렇게 흐뭇하고 설...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/6cb299d9-4f79-4f15-ad9f-28007dd80d69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 2021년 최다 스트리밍 달성한 한국 아티스트에 선정됐다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62041</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62041</guid>
-            <pubDate>Mon, 13 Dec 2021 09:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[따끈따끈한 연말 라이프스타일 소식 가득한 라이프스타일 소식! #코스모라이프]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/4af47ca0-6396-4ede-9bfd-25bab52096c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모니카, 본인이 예쁘다고 생각한 적 없다? 모니카쌤 칭찬 감옥에 가둘 사람, 다 드루와! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62039</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62039</guid>
-            <pubDate>Mon, 13 Dec 2021 09:17:09 GMT</pubDate>
-            <content:encoded><![CDATA["제가 신정우다워 좋아요. 저는 제 모습을 좋아해서 자신감이 넘치거든요"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/f4714425-0f13-4e3e-9793-75c718ad7566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호랑이 기운이 쑥쑥! 서울에서도 볼 수 있어 미리 알아두면 좋은 해돋이 명소 6 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62037</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62037</guid>
-            <pubDate>Tue, 14 Dec 2021 10:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 2022년 호랑이해! 멀리 정동진까지 가지 말아요~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/4f005aeb-c410-4564-bf76-e1a7d34d6689.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친밀한 관계에서의 '파트너 폭력', 들어보셨나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

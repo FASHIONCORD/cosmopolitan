@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 10:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 11:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<옷소매 붉은 끝동> 쪽진 머리도 완벽 소화한 이세영의 헤어스타일 변천사]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62061</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62061</guid>
+            <pubDate>Wed, 15 Dec 2021 11:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[숏 컷부터 긴 생머리까지! 도대체 안 어울리는 게 뭐야?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/0ea89c31-560d-455c-9064-b91dc79def1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 MAMA, 파격 보디 슈트마저 갓벽하게 소화한 이효리의 다이어트 비결은?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62045</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Dec 2021 04:12:18 GMT</pubDate>
             <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/8b9d24fe-0bc1-4d99-ad76-be4ef6c2597c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰떡 케미로 드라마틱한 효능을 보장하는 최고의 영양제 궁합 리스트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61970</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61970</guid>
-            <pubDate>Mon, 13 Dec 2021 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[하나보단 둘! 찰떡 케미로 드라마틱한 효능을 보장하는 최고의 영양제 궁합 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/e5d32f90-f8eb-4ba2-b57c-fb53dabb0ada.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
