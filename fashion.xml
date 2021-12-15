@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 09:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 10:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행운을 가까이 하세요! 특별한 의미를 담은 원석 목걸이]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62090</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62090</guid>
+            <pubDate>Wed, 15 Dec 2021 10:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 심장 가까이에 행운을 간직하세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/f72d2385-13ea-412b-8464-10bb5b374d1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<신사와 아가씨> 박단단! 배우 이세희의 힙한 사복 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62078</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62078</guid>
+            <pubDate>Wed, 15 Dec 2021 10:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘아이돌 아니야?’ 신사와 아가씨 이세희의 사복 패션 파헤치기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/567540c7-9c50-4354-a9bd-d92cdbdb70d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“집에서도 화려하게” 친구들과 맞춰 입기 좋은 블링블링 연말 파티 룩 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62060</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 14 Dec 2021 01:59:54 GMT</pubDate>
             <content:encoded><![CDATA[숨멎주의! 얼굴이 서사인 공유, 조인성, 주지훈, 이정재, 정우성 오빠야들과의 비대면 웹 데...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/88a7ea4a-2458-44e7-b181-69563f2ae3b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헐리웃 셀럽에게 배우는 겨울 스타일링법 8]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62031</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62031</guid>
-            <pubDate>Mon, 13 Dec 2021 15:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[잘 봐~. 언니들 박시하게 입은 거! 위드 코로나에도 여전히 흥행 중인 원마일 웨어. 스웨트...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/57d356a8-e485-445a-bce7-f5e7b1a8a307.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽실몽실 귀여운 니트가 대세!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62030</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62030</guid>
-            <pubDate>Mon, 13 Dec 2021 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[매년 겨울 비슷한 니트가 지루하다고? 위트로 무장한 뉴 시즌 스웨터에 주목! 겨울 스타일링에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/3cdbad6f-f709-42ee-b669-d2648887783e.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
