@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 06:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 07:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c7365b2d-c41a-4453-95f0-8e811790ac52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네가 왜 거기서 나와? 서울대 나온 ‘뇌섹’ 배우들 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62047</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62047</guid>
+            <pubDate>Tue, 14 Dec 2021 08:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[김태희, 이하늬, 이상윤 말고 숨겨진 서울대 출신 연기파 배우들을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/476d3ef8-a9ca-4dc0-b682-8ded5ded3bca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 왜 설레여? 너무 달달한 찐 스윗남 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62043</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62043</guid>
+            <pubDate>Tue, 14 Dec 2021 02:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[정경호&amp;수영, 조정석&amp;거미, 홍성기&amp;이현이, 박희순&amp;박예진 커플보며 내가 이렇게 흐뭇하고 설...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/6cb299d9-4f79-4f15-ad9f-28007dd80d69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS, 2021년 최다 스트리밍 달성한 한국 아티스트에 선정됐다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62041</link>
             <guid>https://www.cosmopolitan.co.kr/article/62041</guid>
@@ -470,22 +486,6 @@
             <pubDate>Mon, 13 Dec 2021 06:18:13 GMT</pubDate>
             <content:encoded><![CDATA[서울우유가 비공개 처리한 광고 내용이 어떻길래?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/19893b70-6172-43f0-8924-eb28f565dcce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 산은 눈이 한가득이라고? 하얀 풍경 맛집 소개해드림! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61926</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61926</guid>
-            <pubDate>Mon, 13 Dec 2021 05:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[프로 등산러들은 벌써 눈 오는 산 구경 중. 지금 가도 눈 구경 SSAP 가능!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/c0fff037-01f2-48b8-a08a-66de613d023a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[땅콩 싫어하는 사람도 사랑할 수밖에 없는 편, 전국 피넛버터 디저트 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61907</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61907</guid>
-            <pubDate>Mon, 13 Dec 2021 03:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[심플하고 무난한데 참 맛있단 말이지~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/20778172-c5fe-4667-bcbc-5c3073638e50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친밀한 관계에서의 '파트너 폭력', 들어보셨나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
