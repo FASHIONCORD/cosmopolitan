@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 07:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 08:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<신사와 아가씨> 박단단! 배우 이세희의 힙한 사복 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62078</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62078</guid>
+            <pubDate>Wed, 15 Dec 2021 08:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[‘아이돌 아니야?’ 신사와 아가씨 이세희의 사복 패션 파헤치기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/567540c7-9c50-4354-a9bd-d92cdbdb70d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네가 왜 거기서 나와? 서울대 나온 ‘뇌섹’ 배우들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62047</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Dec 2021 07:17:43 GMT</pubDate>
             <content:encoded><![CDATA[수고했어, 올해도! 댕댕이와의 평안한 연말을 위한 호캉스 리스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/11/e0991d4d-2e5a-4852-bf47-462a868f7546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성을 젖소에 비유해 우유 광고를 찍었다고? 서울우유 여성혐오 광고 논란]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61945</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61945</guid>
-            <pubDate>Mon, 13 Dec 2021 06:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[서울우유가 비공개 처리한 광고 내용이 어떻길래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/19893b70-6172-43f0-8924-eb28f565dcce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 07:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 08:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 MAMA, 파격 보디 슈트마저 갓벽하게 소화한 이효리의 다이어트 비결은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62045</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62045</guid>
+            <pubDate>Wed, 15 Dec 2021 08:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[외쳐, 갓 효리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/2dd80e38-5a86-4374-9de9-b58ce53d23dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말 분위기 즐기려면 지금 해야 한다구! 홀리데이 네일아트 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62038</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Dec 2021 03:16:36 GMT</pubDate>
             <content:encoded><![CDATA[하나보단 둘! 찰떡 케미로 드라마틱한 효능을 보장하는 최고의 영양제 궁합 리스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/e5d32f90-f8eb-4ba2-b57c-fb53dabb0ada.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 뷰티 어워즈 2021! 피부 손상을 개선해줄 베스트 트러블 케어 아이템은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61938</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61938</guid>
-            <pubDate>Sun, 12 Dec 2021 19:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/f5024d72-9423-4730-bb71-7e592d0c575b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
