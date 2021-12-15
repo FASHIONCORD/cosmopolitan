@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 15:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 16:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[확 추워진 날씨에는 뜨끈한 오뎅 국물 앞으로! 찐한 맛 느낄 수 있는 오뎅바 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62122</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62122</guid>
+            <pubDate>Wed, 15 Dec 2021 16:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[살이 통통, 국물이 홀홀~ 생각만 해도 술술 넘어가는 겨울 대표 맛집]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/d476d14e-5a5c-4328-88f1-ae95745b652f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긍정 바이러스, 비투비의 서은광과 이민혁이 MZ세대 청춘들에게 전하고 싶은 말이 있다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62114</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 07:12:37 GMT</pubDate>
             <content:encoded><![CDATA[김태희, 이하늬, 이상윤 말고 숨겨진 서울대 출신 연기파 배우들을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/476d3ef8-a9ca-4dc0-b682-8ded5ded3bca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 왜 설레여? 너무 달달한 찐 스윗남 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62043</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62043</guid>
-            <pubDate>Wed, 15 Dec 2021 07:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[정경호&amp;수영, 조정석&amp;거미, 홍성기&amp;이현이, 박희순&amp;박예진 커플보며 내가 이렇게 흐뭇하고 설...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/6cb299d9-4f79-4f15-ad9f-28007dd80d69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
