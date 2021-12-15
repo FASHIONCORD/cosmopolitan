@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 14:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 15:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포근하고 빈티지한 패턴 니트 아이템 8]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62088</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62088</guid>
+            <pubDate>Wed, 15 Dec 2021 15:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[매년 겨울 비슷한 니트가 지루하다고? 위트로 무장한 뉴 시즌 스웨터에 주목! 겨울 스타일링에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/ef923c88-bf89-4558-85cc-5b34745920e0.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[행운을 가까이 하세요! 특별한 의미를 담은 원석 목걸이]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62090</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 14 Dec 2021 10:09:50 GMT</pubDate>
             <content:encoded><![CDATA[‘지헤중’ 속 트렌디한 커리어 우먼 송혜교 패션 파헤치기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/a8703469-9265-4184-891a-5f8b3d328219.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사…사랑합니다! 40대 이상 오빠야들의 미친 극락 비주얼]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62033</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62033</guid>
-            <pubDate>Tue, 14 Dec 2021 01:59:54 GMT</pubDate>
-            <content:encoded><![CDATA[숨멎주의! 얼굴이 서사인 공유, 조인성, 주지훈, 이정재, 정우성 오빠야들과의 비대면 웹 데...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/88a7ea4a-2458-44e7-b181-69563f2ae3b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
