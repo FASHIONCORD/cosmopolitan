@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 04:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 05:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쯔위∙장원영∙김도연 등 셀럽이 ‘롱다리' 미녀가 될 수 있었던 비결은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62079</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62079</guid>
+            <pubDate>Thu, 16 Dec 2021 05:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[완벽한 페이스에 큰 키까지? 모델 포스 뿜뿜!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/5550e01d-a8c0-4fc6-8cad-2460b84fbe27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찐열애 중, 이하늬 가방 속 필수템 공개? 이너뷰티 끝판왕 꿀언니의 건강 시크릿 대방출!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62073</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 14 Dec 2021 02:00:06 GMT</pubDate>
             <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/d24332e9-b53a-4d34-969d-1a25e25a6b14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 뷰티 어워즈 2021! 아시아 3개국 에디터들이 픽한 존좋 나이트 세럼은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61966</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61966</guid>
-            <pubDate>Mon, 13 Dec 2021 11:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/94a9d2c7-7449-454c-b43d-52e7c3fd861e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
