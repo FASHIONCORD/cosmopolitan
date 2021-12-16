@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 02:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 02:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산행 KTX값이 반값이라고? 이 기회에 부산 핫한 신상 맛집 놀러가자!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62123</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62123</guid>
+            <pubDate>Thu, 16 Dec 2021 02:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[KTX 반값 정보부터 핫한 신상 맛집까지 싹 정리했다~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/41d5d577-faf4-4232-80d1-9f48e5f7697e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[확 추워진 날씨에는 뜨끈한 오뎅 국물 앞으로! 찐한 맛 느낄 수 있는 오뎅바 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62122</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 08:14:58 GMT</pubDate>
             <content:encoded><![CDATA[‘아이돌 아니야?’ 신사와 아가씨 이세희의 사복 패션 파헤치기!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/567540c7-9c50-4354-a9bd-d92cdbdb70d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 왜 거기서 나와? 서울대 나온 ‘뇌섹’ 배우들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62047</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62047</guid>
-            <pubDate>Wed, 15 Dec 2021 07:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[김태희, 이하늬, 이상윤 말고 숨겨진 서울대 출신 연기파 배우들을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/476d3ef8-a9ca-4dc0-b682-8ded5ded3bca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

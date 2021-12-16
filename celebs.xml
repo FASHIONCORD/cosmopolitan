@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 02:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 02:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌리 아일리시, 8월에 코로나 감염 후 아직까지 부작용으로 고생중]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62129</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62129</guid>
+            <pubDate>Thu, 16 Dec 2021 02:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[백신 맞아서 그나마 이정도…안맞았으면 죽었을 것이라고 입장을 표명]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/f719f86e-8c27-4614-b300-81d34d5d1bf8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연의 퍼스널 컬러가 뭔데? 화려한 골드, 로즈, 실버 헤어와 스타일링을 찰떡 소화한다고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62127</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[너와 나의 연결 고리 인별그램! 성별, 나이 불문 찐우정 자랑하는 연예계 절친들?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/a19b04ec-f265-4b27-9254-50dbdf3594c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매력녀 아이키에게 빠진 이효리·노제·이선빈·함연지! 도대체 그녀의 매력은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62108</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62108</guid>
-            <pubDate>Wed, 15 Dec 2021 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[노제, 이선빈, 함연지 그리고 이효리까지 사로잡은 아이키의 매력은 뭐야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/726667fa-bacc-45e9-a0c2-fcbe4eb6c0fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
