@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 14:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 15:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비와 노홍철의 덤앤더머? 김태호 PD의 퇴사 후 첫 예능 <먹보와 털보> 봤어?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62132</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62132</guid>
+            <pubDate>Thu, 16 Dec 2021 15:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[15일, '오늘 한국의 톱10 콘텐트' 1위에 오르며 넷플릭스 오리지널 예능 잔혹사를 끝낸 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/1e458652-dda2-4b2c-8c54-5630ce18074b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산행 KTX값이 반값이라고? 이 기회에 부산 핫한 신상 맛집 놀러가자!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62123</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[대형 트리와 오너먼트, 다양한 크리스마스 오브제까지! 이번 크리스마스에 나도 손민수 각?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/4f1d0016-d5b0-494d-9dfe-4dd1e7b32a9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<신사와 아가씨> 박단단! 배우 이세희의 힙한 사복 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62078</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62078</guid>
-            <pubDate>Wed, 15 Dec 2021 08:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘아이돌 아니야?’ 신사와 아가씨 이세희의 사복 패션 파헤치기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/567540c7-9c50-4354-a9bd-d92cdbdb70d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
