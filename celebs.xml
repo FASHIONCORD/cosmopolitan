@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 02:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 02:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크·선미·전소미 등 유명 셀럽들의 네일리스트로 알아보는 네일 쉐입은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62134</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62134</guid>
+            <pubDate>Fri, 17 Dec 2021 02:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[스틸레토, 오벌, 스퀘어, 코핀, 립스틱 쉐입까지 취향에 따라 선택하는 다양한 쉐입 추천.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/0cc6e7b9-dcff-4cb7-9b88-242f5d32aeba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비와 노홍철의 덤앤더머? 김태호 PD의 퇴사 후 첫 예능 <먹보와 털보> 봤어?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62132</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[이정재와 현대카드 부회장 정태영의 찐친모드 인증!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/010384fc-d6d1-40f9-8436-2221e31a0878.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긍정 바이러스, 비투비의 서은광과 이민혁이 MZ세대 청춘들에게 전하고 싶은 말이 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62114</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62114</guid>
-            <pubDate>Wed, 15 Dec 2021 10:14:32 GMT</pubDate>
-            <content:encoded><![CDATA["여러분 인생에서는 스스로가 모두 주인공이에요."]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/8889eaa5-c2f2-4ea0-97bb-47e293f56bb9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
