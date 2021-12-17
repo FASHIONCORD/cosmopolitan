@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 06:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정려원·이시영·설현·아이린·함연지도 만끽 중인 홈 크리스마스 트리가 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62135</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62135</guid>
+            <pubDate>Fri, 17 Dec 2021 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 진짜 준비해야 할 때! 더 늦기 전 크리스마스 트리 꾸밀 준비됐나요~?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/0bdc287b-4a08-4c56-b88a-aeae2909811c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크·선미·전소미 등 유명 셀럽들의 네일리스트로 알아보는 네일 쉐입은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62134</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 11:08:52 GMT</pubDate>
             <content:encoded><![CDATA[남다른 한 끗 뽀인트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/158572fe-062f-4d24-9187-21d0a77b7ac0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정재가 발급받은 ‘헉’소리 나는 블랙카드… 연회비만 250만원?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62119</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62119</guid>
-            <pubDate>Wed, 15 Dec 2021 10:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[이정재와 현대카드 부회장 정태영의 찐친모드 인증!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/010384fc-d6d1-40f9-8436-2221e31a0878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
