@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 15:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 16:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -488,6 +488,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/f9db7e6e-66a4-45dc-a9c8-74044b299c43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 코시국 속 외로움을 느낀 적 있다? 없다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61304</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61304</guid>
+            <pubDate>Fri, 17 Dec 2021 16:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 대면 수업이 있었는데, 없었어요... 코로나가 뺏어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/705c8d66-8ced-4907-a92f-d903497551b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[친밀한 관계에서의 '파트너 폭력', 들어보셨나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61263</link>
             <guid>https://www.cosmopolitan.co.kr/article/61263</guid>
@@ -542,14 +550,6 @@
             <pubDate>Mon, 18 Oct 2021 04:14:01 GMT</pubDate>
             <content:encoded><![CDATA[말해 뭐해! 젠더 뉴트럴, 레트로 무드 등 요즘 떡상하는 올해의 뷰티 트렌드를 골라보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/19/4d0ae733-0f48-48f0-9aef-0eaa1212b649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 생각하는 4세대 아이돌 탑티어 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/57433</link>
-            <guid>https://www.cosmopolitan.co.kr/article/57433</guid>
-            <pubDate>Thu, 07 Oct 2021 18:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[덕질 N년차 짬으로 궁예했을 때 4세대 아이돌 탑티어를 골라보자. 설문으로 그간의 덕질 인증...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/04/8eb540d9-7b6c-496e-8f3e-5ddfaeb4dd5e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
