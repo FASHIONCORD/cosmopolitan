@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 23:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 00:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 24일이요? 냉면의 날 아닌가요? 전국 각지의 냉면 맛집 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62133</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62133</guid>
+            <pubDate>Fri, 17 Dec 2021 00:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[전국의 냉면집들이 ‘냉면의 제철은 겨울’이라며 ‘냉면의 날’을 만들었다. 음력 11월 11일...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/206c652a-3ad8-41e3-82bc-d9a5dd2650ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비와 노홍철의 덤앤더머? 김태호 PD의 퇴사 후 첫 예능 <먹보와 털보> 봤어?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62132</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[눈앞에 진짜 겨울 왕국이 펼쳐지는 겨울 산의 매력, 장비만 갖추면 등린이도 충분히 할 수 있...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/aaa1fbbe-45be-4356-a6fa-c7933e563983.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 유니크한 크리스마스 트리가 있어? 블랙핑크 지수, 윤승아, 정려원 등 셀럽들의 취향 저격 크리스마스 인테리어!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62106</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62106</guid>
-            <pubDate>Wed, 15 Dec 2021 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[대형 트리와 오너먼트, 다양한 크리스마스 오브제까지! 이번 크리스마스에 나도 손민수 각?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/4f1d0016-d5b0-494d-9dfe-4dd1e7b32a9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
