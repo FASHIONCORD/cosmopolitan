@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 18:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 19:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/b5c7c478-f8ee-4366-b9fc-37235ebec964.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애플 TV+, 디즈니+ 왜 구독했냐고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62175</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62175</guid>
+            <pubDate>Sat, 18 Dec 2021 19:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[애플 TV 4K는 시리 리모트 쓰고 싶어서 샀고, 디즈니+는 론칭 갈라쇼 보다가 동심이랑 국...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/077d8a47-6389-4d8f-9ce8-abed62be78fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이틴 미드 속 한 장면으로! 키치한 무드의 카페 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62151</link>
             <guid>https://www.cosmopolitan.co.kr/article/62151</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 15 Dec 2021 16:14:59 GMT</pubDate>
             <content:encoded><![CDATA[살이 통통, 국물이 홀홀~ 생각만 해도 술술 넘어가는 겨울 대표 맛집]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/d476d14e-5a5c-4328-88f1-ae95745b652f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긍정 바이러스, 비투비의 서은광과 이민혁이 MZ세대 청춘들에게 전하고 싶은 말이 있다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62114</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62114</guid>
-            <pubDate>Wed, 15 Dec 2021 10:14:32 GMT</pubDate>
-            <content:encoded><![CDATA["여러분 인생에서는 스스로가 모두 주인공이에요."]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/8889eaa5-c2f2-4ea0-97bb-47e293f56bb9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 코시국 속 외로움을 느낀 적 있다? 없다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
