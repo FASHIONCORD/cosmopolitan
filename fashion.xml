@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 15:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 수학 선생님 어딨어요? <멜랑꼴리아> 임수정만의 놈코어 패션 탐구]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62125</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62125</guid>
+            <pubDate>Sun, 19 Dec 2021 15:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[남다른 한 끗 뽀인트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/158572fe-062f-4d24-9187-21d0a77b7ac0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핏 존예! 태연·수영·효연·노제의 에슬레저 찐 천재 룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62105</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 14 Dec 2021 15:13:32 GMT</pubDate>
             <content:encoded><![CDATA[혹시 친자매 아니야?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/de0212dd-b4b2-4976-b18a-178cdf56177d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일리스트가 안티? 송지효 스타일링에 뿔난 팬들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62036</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62036</guid>
-            <pubDate>Tue, 14 Dec 2021 15:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[송지효 팬들의 스태프 교체 요구 성명, 대체 무슨 일이야?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/0d6e3b69-84d6-462e-8d6e-5910053f16aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

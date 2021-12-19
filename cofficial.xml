@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 15:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61462</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61462</guid>
+            <pubDate>Sun, 19 Dec 2021 15:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[코스모폴리탄과 입생로랑 뷰티, 한국여성의전화가 함께하는 ‘파트너 폭력 인식 개선 프로그램’으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b63604de-8bd7-4196-beac-5f95a0e0a6c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 코시국 속 외로움을 느낀 적 있다? 없다?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61304</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 17 Nov 2021 06:13:45 GMT</pubDate>
             <content:encoded><![CDATA[기나긴 '방콕 생활'이 시작되며 스크린 타임은 늘어만 가고... 모두가 갇혀버린 네모난 SN...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/03/bda2c573-e0cd-4246-8cab-49241bdcb47f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 '찐'으로 인정하는 2021 뷰티 트렌드는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/57825</link>
-            <guid>https://www.cosmopolitan.co.kr/article/57825</guid>
-            <pubDate>Sun, 14 Nov 2021 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[말해 뭐해! 젠더 뉴트럴, 레트로 무드 등 요즘 떡상하는 올해의 뷰티 트렌드를 골라보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/19/4d0ae733-0f48-48f0-9aef-0eaa1212b649.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
