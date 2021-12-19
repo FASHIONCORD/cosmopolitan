@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 15:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 16:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/b5c7c478-f8ee-4366-b9fc-37235ebec964.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[독일 크리스마스 전통 빵? 눈덩이를 닮은 슈톨렌 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62179</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62179</guid>
+            <pubDate>Sun, 19 Dec 2021 16:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[와인, 커피와 찰떡 궁합! 크리스마스 전통 브레드 슈톨렌 맛집]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/a1d92f81-3698-4391-853c-3cbac0d9363d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애플 TV+, 디즈니+ 왜 구독했냐고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62175</link>
             <guid>https://www.cosmopolitan.co.kr/article/62175</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 16 Dec 2021 02:29:01 GMT</pubDate>
             <content:encoded><![CDATA[KTX 반값 정보부터 핫한 신상 맛집까지 싹 정리했다~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/41d5d577-faf4-4232-80d1-9f48e5f7697e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확 추워진 날씨에는 뜨끈한 오뎅 국물 앞으로! 찐한 맛 느낄 수 있는 오뎅바 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62122</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62122</guid>
-            <pubDate>Wed, 15 Dec 2021 16:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[살이 통통, 국물이 홀홀~ 생각만 해도 술술 넘어가는 겨울 대표 맛집]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/d476d14e-5a5c-4328-88f1-ae95745b652f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
