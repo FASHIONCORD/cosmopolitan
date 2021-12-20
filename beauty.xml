@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 04:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 팬톤 컬러 ‘베리 페리’로 염색한 아이돌 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62148</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62148</guid>
+            <pubDate>Mon, 20 Dec 2021 05:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[BTS 정국부터 트와이스 사나까지! 팬톤이 선정한 2022년 올해의 컬러 ‘베리 페리’와 꼭...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/12494b69-db5b-4b47-91a6-0bdf65226be1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크·선미·전소미 등 유명 셀럽들의 네일리스트로 알아보는 네일 쉐입은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62134</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 08:13:19 GMT</pubDate>
             <content:encoded><![CDATA[외쳐, 갓 효리!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/2dd80e38-5a86-4374-9de9-b58ce53d23dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 분위기 즐기려면 지금 해야 한다구! 홀리데이 네일아트 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62038</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62038</guid>
-            <pubDate>Tue, 14 Dec 2021 15:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[심플한 디자인부터 블링블링한 디자인까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/6a9632e1-00c0-49e0-bd7e-326d2574ba7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

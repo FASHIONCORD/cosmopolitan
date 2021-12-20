@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 04:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구찌 레스토랑 서울 오픈부터 이효리의 디지털 드레스까지!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62236</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62236</guid>
+            <pubDate>Mon, 20 Dec 2021 05:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[12월 셋째주 코스모 Pick 패션뉴스 #코스모라이크]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/f25a31e3-6f71-49ff-b984-49adce88f879.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올연말은 차분히 즐기는 웰니스 스테이 어때요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62228</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62228</guid>
+            <pubDate>Mon, 20 Dec 2021 05:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[내 안의 소리에 귀 기울이고 몸과 마음의 밸런스를 찾아가는 여정인 요가와 명상. 한 해 동안...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/3a350b83-4415-45f5-99ba-4f4780954699.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[당신의 명상을 도와줄 테라피 아이템 7]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62223</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 18 Dec 2021 19:09:09 GMT</pubDate>
             <content:encoded><![CDATA[애플 TV 4K는 시리 리모트 쓰고 싶어서 샀고, 디즈니+는 론칭 갈라쇼 보다가 동심이랑 국...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/077d8a47-6389-4d8f-9ce8-abed62be78fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이틴 미드 속 한 장면으로! 키치한 무드의 카페 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62151</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62151</guid>
-            <pubDate>Sat, 18 Dec 2021 04:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[대충 찍어도 하이틴 갬성 폭발하는 카페 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/3d51cb51-896b-4fad-ae49-36df8163416d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평생 함께할 섹스 토이를 찾고 있다면 클릭하세요! 언니들이 알려주는 나만의 섹스 토이 찾는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62139</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62139</guid>
-            <pubDate>Fri, 17 Dec 2021 15:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[데칼코마니처럼 나와 딱 포개지는 나만의 섹스 토이, 아니 반려 가전을 찾는 법은? 여성 전용...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/c2ce2dfc-35fc-4ce8-9e02-840ccf5e0255.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
