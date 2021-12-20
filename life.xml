@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 00:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 02:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임>은 왜 하필 미국에서 터졌을까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62208</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62208</guid>
+            <pubDate>Mon, 20 Dec 2021 02:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어 게임&gt;의 에미상 출품 가능성까지 점쳐지는 요즘. 아닌 게 아니라 &lt;기생충&gt;의 성공 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/0964a8cd-599c-40bb-9763-942a9377676d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독일 크리스마스 전통 빵? 눈덩이를 닮은 슈톨렌 맛집 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62179</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Dec 2021 15:14:28 GMT</pubDate>
             <content:encoded><![CDATA[15일, '오늘 한국의 톱10 콘텐트' 1위에 오르며 넷플릭스 오리지널 예능 잔혹사를 끝낸 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/1e458652-dda2-4b2c-8c54-5630ce18074b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산행 KTX값이 반값이라고? 이 기회에 부산 핫한 신상 맛집 놀러가자!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62123</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62123</guid>
-            <pubDate>Thu, 16 Dec 2021 02:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[KTX 반값 정보부터 핫한 신상 맛집까지 싹 정리했다~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/41d5d577-faf4-4232-80d1-9f48e5f7697e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
