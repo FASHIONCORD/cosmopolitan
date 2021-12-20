@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 02:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 03:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<불가살>에서 맨날 싸웠다는 이진욱과 이준의 브로맨스 화보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62182</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62182</guid>
+            <pubDate>Mon, 20 Dec 2021 03:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[한국형 판타지 &lt;불가살&gt;의 두 배우, 이진욱과 이준의 고요하고 안온한 다담(茶談).]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/8b37f413-71f8-4e1e-811d-2e6f7c06218e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허리 사이즈 25인치라는 51세 박소현의 충격적 식단은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62153</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Dec 2021 05:19:04 GMT</pubDate>
             <content:encoded><![CDATA[초록우산 어린이재단 고액 기부자 모임 그린노블클럽의 146번째 멤버. BTS 제이홉이 ‘개념...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/0fa837de-69db-4bd6-b667-427e2f86e2d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리 아일리시, 8월에 코로나 감염 후 아직까지 부작용으로 고생중]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62129</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62129</guid>
-            <pubDate>Thu, 16 Dec 2021 02:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[백신 맞아서 그나마 이정도…안맞았으면 죽었을 것이라고 입장을 표명]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/f719f86e-8c27-4614-b300-81d34d5d1bf8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
