@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 09:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 10:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/44ebde1e-5280-4e79-b25e-dd1534e8a996.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[평범한 건 싫다고요! 힙력 초과, 일산 ‘밤리단길’ 핫플 모음 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62292</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62292</guid>
+            <pubDate>Tue, 21 Dec 2021 10:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[‘밤리단길’은 처음인 당신께,,]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/63955ab5-f3c6-4984-ade5-a9b66bdf6ebc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인천의 또다른 이름이 ‘감성’ 이었다고? 감성 넘치는 구월동 신상 카페 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62290</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62290</guid>
+            <pubDate>Tue, 21 Dec 2021 10:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[누군가 힙한 카페에 대해 묻거든 고개를 들어 ‘구월동’을 보게 하라!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/d9cb2d17-114c-4fac-89ff-dc7a670d8577.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[또 낚시야? 경수진∙김유정∙공유도 푹 빠진 바다 낚시 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62283</link>
             <guid>https://www.cosmopolitan.co.kr/article/62283</guid>
@@ -470,22 +486,6 @@
             <pubDate>Mon, 20 Dec 2021 08:13:19 GMT</pubDate>
             <content:encoded><![CDATA[산타와 루돌프도 사진 찍고 갈 홀리데이 시즌 포토 스폿.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/e6ab87df-dae9-495f-8c48-c93a35a0100d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기 한국 맞아? 해외여행 가고 싶다면 외국 감성 카페라도 가보자! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62263</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62263</guid>
-            <pubDate>Mon, 20 Dec 2021 08:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[여권 없어도 갈 수 있어! 해외여행 간 듯한 카페 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/85277d80-0d5c-4f00-a776-831cc741299e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안은진이 밝히는 이상이의 대왕 발가락썰? 전설의 한예종 10학번 NEW 에피소드 전격 공개! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62261</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62261</guid>
-            <pubDate>Mon, 20 Dec 2021 08:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[N번 들어도 웃긴 건 안 비밀!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/a249c5af-f765-40ea-a58e-b491ee08ea5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
