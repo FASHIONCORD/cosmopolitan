@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 08:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이하이∙기은세∙크리스탈∙배윤영∙예리의 ‘빵빵’하게 추위 이길 푸퍼 스타일링 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62289</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62289</guid>
+            <pubDate>Tue, 21 Dec 2021 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[이하이와 기은세, 크리스탈, 배윤영, 예리의 스타일리쉬한 푸퍼 활용법!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/cbe56da4-c554-4760-bf7b-c1d0f859523c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영∙예리∙고민시∙태연, "진짜보다 좋은 가짜!" 페이크 퍼 아이템 룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62287</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Dec 2021 10:10:34 GMT</pubDate>
             <content:encoded><![CDATA[커다란 리본핀이 대세입니다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/54646dc7-93d6-4629-9662-9500ffe20134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스에 뭐 입지? 멜크룩 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62238</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62238</guid>
-            <pubDate>Mon, 20 Dec 2021 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[제니, 카리나, 장원영 등 인스타에서 찾아본 메리크리스마스 데이트룩!!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/3311d01d-c0e7-44e0-a3d0-2639300dab3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
