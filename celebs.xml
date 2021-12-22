@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 05:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 06:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모여라! 전설의 한예종 10학번(feat. 코스모)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62321</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62321</guid>
+            <pubDate>Wed, 22 Dec 2021 06:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[안은진의 &lt;라디오 스타&gt; 출연으로 다시 한 번 화제가 된 전설의 한예종 10학번. 안은진, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/fa59fb8e-1a76-47a3-841d-6346e204af61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 이하늬, 비연예인 직장인과 결혼 소식! 결혼식은 생략?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62319</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Dec 2021 08:14:20 GMT</pubDate>
             <content:encoded><![CDATA[반짝반짝 눈부신 헤어 액세서리의 두두등장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/166f756a-fc06-4df8-966f-fafe8216b1c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원슈타인 소속사의 숨겨둔 천재 지올팍]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62305</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62305</guid>
-            <pubDate>Tue, 21 Dec 2021 04:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[이미 감지했다면 행운, 지금 알아봤다면 다행, 미처 주시하지 못했다면 응당 기억해야 할 뮤지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/6e4fd636-5e68-40c4-b807-b4ae7c7b3adf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
