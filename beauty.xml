@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 11:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 12:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔색조 매력 업! 누구보다 헤어에 찐심인 선미의 헤어스타일 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62315</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62315</guid>
+            <pubDate>Wed, 22 Dec 2021 12:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[선미의 변신은 어디까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/1525e633-3a5e-45a3-997e-d59f4b55325b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니·아이유·카리나·장원영·태연의 공통점은 바로 '점'! 요즘 대세, 점 메이크업 해볼래?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62310</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62310</guid>
+            <pubDate>Wed, 22 Dec 2021 12:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[매력 점 하나로 미모 업그레이드! 어디에 콕 찍어볼까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/91299162-a26b-4a42-9641-a971a55d2a78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리에 저게 뭐야? 라치카 가비·에스파 닝닝·소녀시대 유리·벨라하디드 머리 위에 새로운 트렌드가 있다?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62309</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 21 Dec 2021 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[커다란 리본핀이 대세입니다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/54646dc7-93d6-4629-9662-9500ffe20134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 코스모 뷰티 어워즈, 1위의 영광을 거머쥔 베스트 오브 베스트 뷰티템 모음ZIP!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62212</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62212</guid>
-            <pubDate>Mon, 20 Dec 2021 08:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/2d2ad7dd-da59-4b4a-a7c4-9c41a3aff91f.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[허리 사이즈 25인치라는 51세 박소현의 충격적 식단은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62153</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62153</guid>
-            <pubDate>Mon, 20 Dec 2021 08:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[약 30년간 47kg를 유지할 수 있었던 비법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/5c645d25-4fc4-48f2-b997-e4192fc90622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
