@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 00:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 02:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올겨울 주목해야 할 윈터 아우터 10]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62300</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62300</guid>
+            <pubDate>Wed, 22 Dec 2021 01:59:24 GMT</pubDate>
+            <content:encoded><![CDATA[스타일 지수도 체온도 뜨겁게 높여줄 아우터 10.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/805a5298-bc66-436c-8768-de91905bcd18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이하이∙기은세∙크리스탈∙배윤영∙예리의 ‘빵빵’하게 추위 이길 푸퍼 스타일링 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62289</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Dec 2021 10:10:34 GMT</pubDate>
             <content:encoded><![CDATA[힙하고 우아하고! 혼자 다 하네 이 언니~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/4472c215-d12f-47ca-ad74-da455f9fa8f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세는 왕 큰 리본! 제니·김나영·강민경의 빅 리본 헤어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62237</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62237</guid>
-            <pubDate>Mon, 20 Dec 2021 10:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[커다란 리본핀이 대세입니다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/54646dc7-93d6-4629-9662-9500ffe20134.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
