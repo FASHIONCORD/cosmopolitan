@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 15:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 17:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/bf6ef04b-718b-451f-835f-a61318fd973b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[찬 바람 불면 치아 건강도 휘청! 치아 건강을 위협하는 행동은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62317</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62317</guid>
+            <pubDate>Wed, 22 Dec 2021 17:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[면역력 떨어지는 겨울철. 치아 건강 위협하는 적신호 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/03bd4717-59da-411d-aa99-60233ca3f335.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팔색조 매력 업! 누구보다 헤어에 찐심인 선미의 헤어스타일 모음.ZIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62315</link>
             <guid>https://www.cosmopolitan.co.kr/article/62315</guid>
@@ -286,14 +294,6 @@
             <pubDate>Tue, 21 Dec 2021 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[이번 연말에는 특별하게 샤넬의 한정판 에디션으로~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/3c406994-0d09-43e6-b8bd-90a72b8eb557.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세는 왕 큰 리본! 제니·김나영·강민경의 빅 리본 헤어 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62237</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62237</guid>
-            <pubDate>Mon, 20 Dec 2021 10:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[커다란 리본핀이 대세입니다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/54646dc7-93d6-4629-9662-9500ffe20134.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌아온 스파이더맨! 톰 홀랜드 ♥ 젠데이아 커플 패션 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
