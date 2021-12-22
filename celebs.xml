@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 08:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 09:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아온 스파이더맨! 톰 홀랜드 ♥ 젠데이아 커플 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62362</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62362</guid>
+            <pubDate>Wed, 22 Dec 2021 09:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[최근 스파이더맨의 새로운 시리즈 &lt;스파이더맨 : 노 웨이 홈&gt;이 코로나19 펜데믹 이후 최고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/e0ba43c6-bf81-4f22-a22a-610a4f85442b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남자는 핑크! 송민호∙티모시∙저스틴비버 등 스타일리시한 ‘핫뽀이’들의 핑크 코디법~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62358</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Dec 2021 03:13:18 GMT</pubDate>
             <content:encoded><![CDATA[품절녀 이하늬, 지난달에 반지 받더니 이번달에는 결혼 소식으로!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/32e37f60-d1d1-4eaa-b8d2-f171518d6e7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 AOA 출신 권민아, 피부관리숍 매니저로 새출발 시작!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62316</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62316</guid>
-            <pubDate>Wed, 22 Dec 2021 02:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[권민아의 깜짝 근황 공개]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/89997a54-8065-4fe0-bc50-73322e3a7a6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
