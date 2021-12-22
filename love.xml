@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 07:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 08:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지인들 사이에서 사랑꾼으로 유명하다는 슬리피의 럽스타 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62235</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62235</guid>
+            <pubDate>Wed, 22 Dec 2021 08:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[엄청 달달하구려!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/cc332778-fe08-42a9-895d-0994860b0dcc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긍정 바이러스, 비투비의 서은광과 이민혁이 MZ세대 청춘들에게 전하고 싶은 말이 있다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62114</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Dec 2021 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[훈훈한 찐 사랑꾼 부부의 건강한 아들 출산을 축하하는 바!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/27eebe95-6d6b-4e41-bbe8-64937a06ccee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손담비, 5살 연상 전 국가대표와 3개월째 열애중?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61728</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61728</guid>
-            <pubDate>Thu, 09 Dec 2021 04:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[손담비 전 국가대표 이규혁과 열애중 실화!?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/44ebde1e-5280-4e79-b25e-dd1534e8a996.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
