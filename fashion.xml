@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 14:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리데이 인싸 각! 제니, 노제 처럼 블링한 아이 메이크업 하기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62345</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62345</guid>
+            <pubDate>Thu, 23 Dec 2021 15:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[제니, 다현, 예지, 노제, 유진으로 보는 여돌 글리터 메이크업 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/72c0114a-4ad2-4184-8dc1-272e67e31d78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니·태연·장원영·노제·강혜원·정은지·지효의 핫템 ‘워머’ 활용법!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62323</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Dec 2021 03:10:30 GMT</pubDate>
             <content:encoded><![CDATA[방한과 스타일, 두 마리 토끼를 동시에!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/622fb1e1-d975-4859-9d93-35cb39f7c232.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인티피(INTP) 슈가∙전소연∙정은지∙휘인∙송강의 스타일리쉬한 패션이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62286</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62286</guid>
-            <pubDate>Tue, 21 Dec 2021 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[mbti 과몰입러 에디터가 분석하는 아이돌 패션! 이번엔 배우계 아이돌 송강까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/a04f0391-cbd4-4f55-b588-e80bb2685605.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

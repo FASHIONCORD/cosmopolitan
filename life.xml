@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 14:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대체 ‘가든타워’에 뭐가 있길래?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62418</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62418</guid>
+            <pubDate>Thu, 23 Dec 2021 15:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[밖에서 보면 특별할 것 없는 오래된 건물일 뿐이다. 1970년대쯤 근대화 시절 지어진 건물에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/117ae2eb-bc4d-4bfa-8e22-e4566121cae8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1인 1토스트는 기본이지 뭐~ 겉바속촉 서울 찐 프렌치토스트 맛집 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62408</link>
@@ -48,12 +56,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/66067886-d8f5-4ab9-be9d-cb120ee6aaf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여기 갈래? 1탄 : 감성 가득한! 서촌 쇼룸 투어]]></title>
+            <title><![CDATA[요즘 힙스터들은 여기서 쇼핑하던데? 감성 가득한 서촌 쇼룸 투어 #1]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62377</link>
             <guid>https://www.cosmopolitan.co.kr/article/62377</guid>
             <pubDate>Thu, 23 Dec 2021 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[알짜배기 쇼룸들만 모았다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/435ff4d4-85b9-4195-a08c-81b57e637074.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[알짜배기 서촌 쇼룸들만 모았다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/435ff4d4-85b9-4195-a08c-81b57e637074.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여기 갈래? 2탄: 힙스러움이 가득한! 한남동 쇼룸 투어]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/62375</guid>
             <pubDate>Thu, 23 Dec 2021 03:15:34 GMT</pubDate>
             <content:encoded><![CDATA[이번에는 한남동이다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/127a392d-c034-4e78-84fa-53d9c65919c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 29금 아니에요? 집콕 데이트용 19금 작품 모음Zip]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62373</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62373</guid>
-            <pubDate>Thu, 23 Dec 2021 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[아직도 안 봤다고? 유명한 덴 다 이유가 있다! 집콕 데이트 때 연인과 함께 보면 더욱 후끈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/1015a312-2a64-4bec-b4b8-a8c6625ee6ab.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/127a392d-c034-4e78-84fa-53d9c65919c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

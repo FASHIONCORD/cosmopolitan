@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 14:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfNDUg/MDAxNjM4NTAzMDQ3NTYw.T09vxLffvRDw7i4LoJitI3hsAG8XKwUTpqu6dTCqSi4g.a3UBMDdZBTdXNoIXyA5DNnLFksiClZg6LS7cQJ3p6v4g.JPEG/IhFsSS7XD9scNZEdfUQAd7oh_Je0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[홀리데이 인싸 각! 제니, 노제 처럼 블링한 아이 메이크업 하기 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62345</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62345</guid>
+            <pubDate>Wed, 22 Dec 2021 07:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[제니, 다현, 예지, 노제, 유진으로 보는 여돌 글리터 메이크업 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/72c0114a-4ad2-4184-8dc1-272e67e31d78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제니·태연·장원영·노제·강혜원·정은지·지효의 핫템 ‘워머’ 활용법! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62323</link>
             <guid>https://www.cosmopolitan.co.kr/article/62323</guid>
@@ -222,14 +230,6 @@
             <pubDate>Tue, 21 Dec 2021 03:10:30 GMT</pubDate>
             <content:encoded><![CDATA[방한과 스타일, 두 마리 토끼를 동시에!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/622fb1e1-d975-4859-9d93-35cb39f7c232.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인티피(INTP) 슈가∙전소연∙정은지∙휘인∙송강의 스타일리쉬한 패션이 궁금하다면? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62286</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62286</guid>
-            <pubDate>Tue, 21 Dec 2021 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[mbti 과몰입러 에디터가 분석하는 아이돌 패션! 이번엔 배우계 아이돌 송강까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/a04f0391-cbd4-4f55-b588-e80bb2685605.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송민호∙조권∙디피알∙프니엘∙페데즈까지 한 멋짐 하는 남자들의 네일아트는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/27eebe95-6d6b-4e41-bbe8-64937a06ccee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대체 ‘가든타워’에 뭐가 있길래? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62418</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62418</guid>
+            <pubDate>Thu, 23 Dec 2021 15:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[밖에서 보면 특별할 것 없는 오래된 건물일 뿐이다. 1970년대쯤 근대화 시절 지어진 건물에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/117ae2eb-bc4d-4bfa-8e22-e4566121cae8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1인 1토스트는 기본이지 뭐~ 겉바속촉 서울 찐 프렌치토스트 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62408</link>
             <guid>https://www.cosmopolitan.co.kr/article/62408</guid>
@@ -464,12 +472,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/66067886-d8f5-4ab9-be9d-cb120ee6aaf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여기 갈래? 1탄 : 감성 가득한! 서촌 쇼룸 투어 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <title><![CDATA[요즘 힙스터들은 여기서 쇼핑하던데? 감성 가득한 서촌 쇼룸 투어 #1 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62377</link>
             <guid>https://www.cosmopolitan.co.kr/article/62377</guid>
             <pubDate>Thu, 23 Dec 2021 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[알짜배기 쇼룸들만 모았다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/435ff4d4-85b9-4195-a08c-81b57e637074.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[알짜배기 서촌 쇼룸들만 모았다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/435ff4d4-85b9-4195-a08c-81b57e637074.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여기 갈래? 2탄: 힙스러움이 가득한! 한남동 쇼룸 투어 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -477,15 +485,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/62375</guid>
             <pubDate>Thu, 23 Dec 2021 03:15:34 GMT</pubDate>
             <content:encoded><![CDATA[이번에는 한남동이다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/127a392d-c034-4e78-84fa-53d9c65919c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 29금 아니에요? 집콕 데이트용 19금 작품 모음Zip (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62373</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62373</guid>
-            <pubDate>Thu, 23 Dec 2021 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[아직도 안 봤다고? 유명한 덴 다 이유가 있다! 집콕 데이트 때 연인과 함께 보면 더욱 후끈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/1015a312-2a64-4bec-b4b8-a8c6625ee6ab.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/127a392d-c034-4e78-84fa-53d9c65919c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왁킹? 팝핀? 야너두 출 수 있어! 스우파 언니들의 수업이 듣고싶다면? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
