@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 02:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 03:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리데이 인싸 각! 제니, 노제 처럼 블링한 아이 메이크업 하기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62345</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62345</guid>
+            <pubDate>Thu, 23 Dec 2021 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[제니, 다현, 예지, 노제, 유진으로 보는 여돌 글리터 메이크업 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/72c0114a-4ad2-4184-8dc1-272e67e31d78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬 바람 불면 치아 건강도 휘청! 치아 건강을 위협하는 행동은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62317</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Dec 2021 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA["여러분이 가진 장점을 놓치지 마세요. 자책할 필요도 없어요. 저마다 사람은 다르니까요."]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/ed8171d9-4732-4f7f-8d98-c21c8f471520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 No.5 100주년 홀리데이 에디션!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62257</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62257</guid>
-            <pubDate>Tue, 21 Dec 2021 05:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[이번 연말에는 특별하게 샤넬의 한정판 에디션으로~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/3c406994-0d09-43e6-b8bd-90a72b8eb557.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

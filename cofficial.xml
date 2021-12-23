@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 02:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 03:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왁킹? 팝핀? 야너두 출 수 있어! 스우파 언니들의 수업이 듣고싶다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61644</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61644</guid>
+            <pubDate>Thu, 23 Dec 2021 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[잘 봐, 이번엔 10대들 춤싸움이다~ 여고생 원탑 크루 선발전 &lt;스트릿댄스 걸스 파이터&gt;가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/49189ecb-34eb-468f-9645-afd6c8dc5da3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61462</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 12:18:19 GMT</pubDate>
             <content:encoded><![CDATA[자꾸만 과몰입하게 되는 겉바속촉 &lt;스트릿 우먼 파이터 &gt;속 뇌리에 박힌 잊을 수 없는 장면은...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/39df2079-b44e-41bf-9372-c66e6b215ca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인플루언서 꿈나무 VS 어둠의 일기 부계정, SNS 사용 패턴은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58255</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58255</guid>
-            <pubDate>Wed, 17 Nov 2021 06:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[기나긴 '방콕 생활'이 시작되며 스크린 타임은 늘어만 가고... 모두가 갇혀버린 네모난 SN...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/03/bda2c573-e0cd-4246-8cab-49241bdcb47f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
