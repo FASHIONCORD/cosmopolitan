@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 10:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 11:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정도면 사기 아닌가! 여전히 첫사랑 비주얼]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62412</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62412</guid>
+            <pubDate>Thu, 23 Dec 2021 11:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[세월 폭탄은 나만 정통으로 맞는건가! 너무 예뻐서 인정할 수 밖에 없는 영원한 첫사랑 아이콘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/77c06cc0-ad45-48a5-b99b-c8b8a4330eea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최우식∙준호, 멍뭉미에 섹시미 까지! 볼수록 빠져드는 그들의 매력의 끝은 어디?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62403</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Dec 2021 04:15:12 GMT</pubDate>
             <content:encoded><![CDATA[남자의 네일은 어떨까? 네일 케어는 기본, 개성 넘치는 네일아트까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/9e7174e4-9cfb-413f-935f-ceaada7161be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영∙한소희도 즐기는 연말, 연초 파티용품 추천은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62365</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62365</guid>
-            <pubDate>Thu, 23 Dec 2021 04:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[파티 커튼, 풍선, 패션아이템, 와인잔, 와인 웨어까지 파티 준비는 이걸로 끝.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/7caf0a76-2dd7-429b-991f-d76801222a3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
