@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 09:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 10:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/27eebe95-6d6b-4e41-bbe8-64937a06ccee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1인 1토스트는 기본이지 뭐~ 겉바속촉 서울 찐 프렌치토스트 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62408</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62408</guid>
+            <pubDate>Thu, 23 Dec 2021 10:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[이곳의 프렌치토스트 한 입이면 앉아서 천국 가기 쌉 가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/adcd65af-9120-4035-a7c8-48e3e6754a55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스콘은 다 거기서 거기라는 당신께, 전국구 크림 스콘 레전드 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62407</link>
             <guid>https://www.cosmopolitan.co.kr/article/62407</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 23 Dec 2021 03:15:34 GMT</pubDate>
             <content:encoded><![CDATA[아직도 안 봤다고? 유명한 덴 다 이유가 있다! 집콕 데이트 때 연인과 함께 보면 더욱 후끈...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/1015a312-2a64-4bec-b4b8-a8c6625ee6ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 크리스마스 갈 곳 못 정했다면 여긴 어때? 크리스마스 분위기 물씬 나는 곳4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62348</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62348</guid>
-            <pubDate>Thu, 23 Dec 2021 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 걸으면서 즐기는 크리스마스 축제]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/b15204bf-4133-42ee-8271-5f72c13bc7e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왁킹? 팝핀? 야너두 출 수 있어! 스우파 언니들의 수업이 듣고싶다면? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
