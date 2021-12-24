@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 08:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 09:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니∙강민경∙차정원∙김나영∙장원영으로 보는 포근한 스웨터 룩 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62450</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62450</guid>
+            <pubDate>Fri, 24 Dec 2021 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[추위, 다 비켱!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/3b902865-21a5-4a19-b288-910ad4f74c7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ISFP&ENFP, 찰떡궁합으로 난리 난 다비치로 보는 트윈룩♡]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62448</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 05:12:47 GMT</pubDate>
             <content:encoded><![CDATA[붉은 석양으로 물드는 마법같은 시간. 매직 아워를 담은 강렬하면서도 신비로운 디올 소바쥬와 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/2b76fc2f-fa23-42f1-a29c-c09f687c7f8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 해도 예뻐! 리얼 연애 서바이벌 ‘솔로지옥’에서 첫인상 인기 폭발 ‘송지아’는 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62415</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62415</guid>
-            <pubDate>Fri, 24 Dec 2021 05:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[방영 직후부터 화제! 넷플릭스 연애 서바이벌, ‘솔로지옥’에 출연하며 호감남에게 매력 만렙으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/3533c24c-4a53-492b-a6b3-a3cf8afa3217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
