@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 02:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 04:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹드라마 <백수세끼>로 연기에 도전장을 내민 임현주의 사복 패션이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62368</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62368</guid>
+            <pubDate>Fri, 24 Dec 2021 04:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[단발머리가 잘 어울리는 하트시그널 임현주 패션으로 다양한 여친st 도전~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/773cbc99-510e-4caf-801f-f072e7faa78b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아온 스파이더맨! 톰 홀랜드 ♥ 젠데이아 커플 패션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62362</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Dec 2021 06:12:04 GMT</pubDate>
             <content:encoded><![CDATA[반짝반짝 눈부신 헤어 액세서리의 두두등장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/166f756a-fc06-4df8-966f-fafe8216b1c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올겨울 주목해야 할 윈터 아우터 10]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62300</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62300</guid>
-            <pubDate>Wed, 22 Dec 2021 01:59:24 GMT</pubDate>
-            <content:encoded><![CDATA[스타일 지수도 체온도 뜨겁게 높여줄 아우터 10.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/805a5298-bc66-436c-8768-de91905bcd18.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
