@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 10:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 11:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,6 +360,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/2b76fc2f-fa23-42f1-a29c-c09f687c7f8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 정도면 이별 SSAP가능? 내가 만난 <백수세끼> 남친 경험 썰... (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62270</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62270</guid>
+            <pubDate>Fri, 24 Dec 2021 11:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[사랑이 강도짓도 아니고, 언제 돈을 내놓으라고 했나요. 센스가 문제라고요, 센스가!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/e5ac729d-1cbd-4a13-bf8c-31ae5f0965b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<나는 SOLO> 속 그 남자, ‘영철’... 다들 한 번쯤은 만나봤잖아요? (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62269</link>
             <guid>https://www.cosmopolitan.co.kr/article/62269</guid>
@@ -414,14 +422,6 @@
             <pubDate>Mon, 20 Dec 2021 05:14:12 GMT</pubDate>
             <content:encoded><![CDATA[가만히 있으면 그 남자가 텔레파시 마냥 내 마음을 눈치채고 ‘진심을 다해’ 다가오는, 드라마...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/1e2eaeae-46c6-4c13-bce9-d1424513ef20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자친구의 전 여친 흔적… 잊지 못한 걸까, 둔한 걸까? (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61915</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61915</guid>
-            <pubDate>Mon, 20 Dec 2021 02:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[아직도 정리 못한 거냐고 화를 낼 수도 없고, 그렇다고 가져다 버리라고 하기도 애매했던 내 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/e35c07b2-02d2-4336-b0ab-d80e7e5580b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유승호랑 혜리가 화보찍으며 꽁냥꽁냥하던 빈티지 쇼룸? (코스모폴리탄 코리아 ─ 라이프)]]></title>
