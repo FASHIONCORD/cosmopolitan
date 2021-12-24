@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 06:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍윤화 턱선 봤어? 한 달에 10kg 감량 성공한 비결이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62369</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62369</guid>
+            <pubDate>Fri, 24 Dec 2021 06:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;맛있는 녀석들&gt;의 뉴 멤버 홍윤화. 최근 턱선 날렵해진 비결은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/b52f39ce-b1e9-44e5-92f1-4117a438cd02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송민호∙조권∙디피알∙프니엘∙페데즈까지 한 멋짐 하는 남자들의 네일아트는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62366</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Dec 2021 02:36:33 GMT</pubDate>
             <content:encoded><![CDATA[반짝반짝 눈부신 헤어 액세서리의 두두등장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/166f756a-fc06-4df8-966f-fafe8216b1c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTOB 서은광과 이민혁·댄서 모니카·뇌부자들의 허규형 선생님이 함께 인스타그램 라이브 방송을 한 이유는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62282</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62282</guid>
-            <pubDate>Wed, 22 Dec 2021 01:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[코시국 속, 고립감과 외로움을 느끼는 MZ세대들에게 찐-한 고민 상담을 해줬다는데?! 모두 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/aad04745-610d-4af1-ad07-807bb658fba0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

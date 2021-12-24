@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 06:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나는 SOLO> 속 그 남자, ‘영철’... 다들 한 번쯤은 만나봤잖아요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62269</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62269</guid>
+            <pubDate>Fri, 24 Dec 2021 06:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[무례함도 가지가지! 내가 만났던 그 남자도 완전체였다고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/6655a3a0-79d3-4abe-b0ce-a24bdafb0520.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐 정신건강의학과 전문의 허규형 선생님이 알려주는 멘탈 케어 관리 방법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62260</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62260</guid>
+            <pubDate>Fri, 24 Dec 2021 06:13:32 GMT</pubDate>
+            <content:encoded><![CDATA["여러분이 가진 장점을 놓치지 마세요. 자책할 필요도 없어요. 저마다 사람은 다르니까요."]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/ed8171d9-4732-4f7f-8d98-c21c8f471520.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지인들 사이에서 사랑꾼으로 유명하다는 슬리피의 럽스타 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62235</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 20 Dec 2021 02:01:36 GMT</pubDate>
             <content:encoded><![CDATA[아직도 정리 못한 거냐고 화를 낼 수도 없고, 그렇다고 가져다 버리라고 하기도 애매했던 내 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/e35c07b2-02d2-4336-b0ab-d80e7e5580b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김다미♥최우식, 서로 죽이는 연기를 하다가 첫사랑 커플 연기를 한다고? 대환장인데 좋못사...]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61872</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61872</guid>
-            <pubDate>Wed, 15 Dec 2021 08:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;마녀&gt; 첫 만남 비하인드부터 드라마 &lt;그 해 우리는&gt;의 현인상 에피소드까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/ec9a652b-ab99-4791-8ea5-c6b3ee77b3ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민효린&태양 부부 아들 출산 소식! 서로에 대한 사랑이 어마어마하다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61835</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61835</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[훈훈한 찐 사랑꾼 부부의 건강한 아들 출산을 축하하는 바!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/27eebe95-6d6b-4e41-bbe8-64937a06ccee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
