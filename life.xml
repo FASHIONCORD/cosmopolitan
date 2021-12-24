@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 15:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 제일 맛있는 과일이 뭐게? 올해 꼭 가야할 딸기뷔페 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62455</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62455</guid>
+            <pubDate>Fri, 24 Dec 2021 15:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[지금 금값인 딸기! 뷔페에서 박박 많이 먹을 수 있다구!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/ea8e3660-aeab-4300-a0cc-3d14848c8d1f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기말고사 끝나고 놀러 가기 딱 좋은 전시 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62454</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62454</guid>
+            <pubDate>Fri, 24 Dec 2021 15:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통과 에르메스의 힙한 셀렉션부터 따스한 사진전까지, 오늘 누울 자리는 여기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/389b1c4c-3c22-4cb8-814b-a311cdeff878.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유승호랑 혜리가 화보찍으며 꽁냥꽁냥하던 빈티지 쇼룸?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62453</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 04:19:37 GMT</pubDate>
             <content:encoded><![CDATA[&lt;스우파&gt;에 이어 &lt;스걸파&gt;도 화제 만발. 화제의 중심에 있는 ‘스걸파’들을 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/e235100b-588e-4ca2-a90d-5785c65a4b2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙지로에서 크리에이티브하게 사는 법!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62421</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62421</guid>
-            <pubDate>Fri, 24 Dec 2021 04:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[버지니아 울프는 여성에게는 나만의 방과 500파운드가 필요하다고 말했다. 그만큼 혼자 보낼 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/63e61fc6-ab1e-4773-ae80-a723645baf58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대체 ‘가든타워’에 뭐가 있길래?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62418</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62418</guid>
-            <pubDate>Thu, 23 Dec 2021 15:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[밖에서 보면 특별할 것 없는 오래된 건물일 뿐이다. 1970년대쯤 근대화 시절 지어진 건물에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/117ae2eb-bc4d-4bfa-8e22-e4566121cae8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
