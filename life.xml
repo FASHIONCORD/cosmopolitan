@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 16:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 17:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 맛집 <에밀리, 파리에 가다 시즌2> 속, 릴리 콜린스의 파리지엔 스타일 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62460</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62460</guid>
+            <pubDate>Sat, 25 Dec 2021 17:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[스타일도 연애도 더 대담하고 낭만적인, &lt;에밀리 파리에 가다 시즌2&gt;!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/00b2ccdd-636a-4d85-b8c3-b3a04b23cad8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 제일 맛있는 과일이 뭐게? 올해 꼭 가야할 딸기뷔페 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62455</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 04:19:37 GMT</pubDate>
             <content:encoded><![CDATA[여기, 국수 한 그릇이랑 이진욱 사리 추가요~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/a2d97a70-aa19-4924-b97f-688138ef7cd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS RM도 찐팬이라는 <스걸파>, 그렇게 재밌어?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62422</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62422</guid>
-            <pubDate>Fri, 24 Dec 2021 04:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;스우파&gt;에 이어 &lt;스걸파&gt;도 화제 만발. 화제의 중심에 있는 ‘스걸파’들을 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/e235100b-588e-4ca2-a90d-5785c65a4b2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
