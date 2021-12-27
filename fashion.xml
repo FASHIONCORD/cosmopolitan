@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 03:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 04:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ISFP&ENFP, 찰떡궁합으로 난리 난 다비치로 보는 트윈룩♡]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62448</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62448</guid>
+            <pubDate>Mon, 27 Dec 2021 04:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[부업이 가수, 본업이 개그우먼이라는 소문이..]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/f3d856ce-ae54-4acf-9fd6-6a3ed130962d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100만원대 갓성비 신상 명품백을 소개합니다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62436</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Dec 2021 03:09:58 GMT</pubDate>
             <content:encoded><![CDATA[노제, 제니, 태연, 강혜원, 정은지, 지효, 장원영 픽! 올 겨울 핫템으로 떠오르는 ‘워머...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/7d2a70b1-1638-4bf2-a659-7ead2f70e887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션하면 강민경! 그녀의 인스타로 엿보는 연말 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62314</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62314</guid>
-            <pubDate>Wed, 22 Dec 2021 08:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 입으면 나도 매일 크리스마스?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/c056fa8d-715c-45b1-a209-19b7c5180fdd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

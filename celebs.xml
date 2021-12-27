@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 03:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 04:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 맛집 <에밀리, 파리에 가다 시즌2> 속, 릴리 콜린스의 파리지엔 스타일 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62460</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62460</guid>
+            <pubDate>Mon, 27 Dec 2021 04:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타일도 연애도 더 대담하고 낭만적인, &lt;에밀리 파리에 가다 시즌2&gt;!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/00b2ccdd-636a-4d85-b8c3-b3a04b23cad8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유승호랑 혜리가 화보찍으며 꽁냥꽁냥하던 빈티지 쇼룸?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62453</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 05:12:47 GMT</pubDate>
             <content:encoded><![CDATA[국악인 송소희와 로커 황소윤은 축구를 하면서 다른 사람이 됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/b9075e3a-8d53-423f-874c-20225d5a486e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FT아일랜드 최민환의 그녀 율희! 아이셋 유부녀 몸매 맞아?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62424</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62424</guid>
-            <pubDate>Fri, 24 Dec 2021 05:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[전직 걸그룹 라붐 출신 율희의 찐 다이어트 성공 인증샷!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/9c3cc3dd-f8fd-426b-91f5-742ce924293f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

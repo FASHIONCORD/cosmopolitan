@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 03:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 04:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AOMG 대표 남매, 로꼬X이하이가 타이거라들러와 크리스마스를 보내는 특별한 방법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62476</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62476</guid>
+            <pubDate>Mon, 27 Dec 2021 04:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스에 집콕하며 '간맥'을 즐기고 싶다면? 이하이X로꼬 픽, 타이거라들러 레시피를 적극...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/a1d895c1-c2cc-4bd9-98dc-8a10ef4a5af3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 살 더 먹으면 서른?! 스물아홉 영화 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62466</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 07:15:26 GMT</pubDate>
             <content:encoded><![CDATA[‘위드 코로나’를 맞아 꾹 참아온 여행을 떠났다. 첫 스텝부터 기록해본 ‘이 시국’ 여행기....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/d9c0af69-3bc1-4f95-a443-84c7451fffe2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛, 분위기, 가성비까지 터지는! 오마카세 와인 바가 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62427</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62427</guid>
-            <pubDate>Fri, 24 Dec 2021 04:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[다섯 잔에 3만 8천원? 이런 혜자스러운 와인 바를 봤나!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/0430c471-247f-4547-b9f5-c1da9fe8a454.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
