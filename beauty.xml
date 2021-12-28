@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 16:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 18:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베베 꼬였네, 아이린∙엠마∙리정∙소연∙다현∙주헌의 브레이드 스타일 따라잡기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62465</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62465</guid>
+            <pubDate>Tue, 28 Dec 2021 18:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[모발을 베베 꼬아 만든 트위스트 헤어가 대세! 위로 아래로, 길게, 짧게! 어떻게 꼬아도 예...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/0347f641-6d47-4b7f-bed0-7555d17c1e9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 홀리데이를 위한, 디올 소바쥬!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62464</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 06:12:42 GMT</pubDate>
             <content:encoded><![CDATA[&lt;맛있는 녀석들&gt;의 뉴 멤버 홍윤화. 최근 턱선 날렵해진 비결은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/b52f39ce-b1e9-44e5-92f1-4117a438cd02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송민호∙조권∙디피알∙프니엘∙페데즈까지 한 멋짐 하는 남자들의 네일아트는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62366</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62366</guid>
-            <pubDate>Thu, 23 Dec 2021 06:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[남자의 네일은 어떨까? 네일 케어는 기본, 개성 넘치는 네일아트까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/9e7174e4-9cfb-413f-935f-ceaada7161be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
