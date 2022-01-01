@@ -4,9 +4,16 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 22:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 00:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2021! 독보적인 사랑의 향기로 위상을 입증한 '미스 디올 오 드 퍼퓸']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62394</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62394</guid>
+            <pubDate>Sat, 01 Jan 2022 00:32:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/96f31c19-86ee-4961-b949-19c7b0c66e5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베베 꼬였네, 아이린∙엠마∙리정∙소연∙다현∙주헌의 브레이드 스타일 따라잡기!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62465</link>
@@ -62,14 +69,6 @@
             <pubDate>Fri, 24 Dec 2021 07:12:03 GMT</pubDate>
             <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/db03b324-8bd3-4af5-9dfb-7d48ce35a571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍윤화 턱선 봤어? 한 달에 10kg 감량 성공한 비결이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62369</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62369</guid>
-            <pubDate>Fri, 24 Dec 2021 06:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;맛있는 녀석들&gt;의 뉴 멤버 홍윤화. 최근 턱선 날렵해진 비결은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/b52f39ce-b1e9-44e5-92f1-4117a438cd02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

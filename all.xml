@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 22:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 00:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/7d2a70b1-1638-4bf2-a659-7ead2f70e887.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2021! 독보적인 사랑의 향기로 위상을 입증한 '미스 디올 오 드 퍼퓸' (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62394</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62394</guid>
+            <pubDate>Sat, 01 Jan 2022 00:32:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/96f31c19-86ee-4961-b949-19c7b0c66e5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[베베 꼬였네, 아이린∙엠마∙리정∙소연∙다현∙주헌의 브레이드 스타일 따라잡기! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62465</link>
             <guid>https://www.cosmopolitan.co.kr/article/62465</guid>
@@ -288,12 +295,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/db03b324-8bd3-4af5-9dfb-7d48ce35a571.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홍윤화 턱선 봤어? 한 달에 10kg 감량 성공한 비결이 궁금하다면? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62369</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62369</guid>
-            <pubDate>Fri, 24 Dec 2021 06:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;맛있는 녀석들&gt;의 뉴 멤버 홍윤화. 최근 턱선 날렵해진 비결은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/b52f39ce-b1e9-44e5-92f1-4117a438cd02.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[베베 꼬였네, 아이린∙엠마∙리정∙소연∙다현∙주헌의 브레이드 스타일 따라잡기! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62465</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62465</guid>
+            <pubDate>Tue, 28 Dec 2021 18:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[모발을 베베 꼬아 만든 트위스트 헤어가 대세! 위로 아래로, 길게, 짧게! 어떻게 꼬아도 예...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/0347f641-6d47-4b7f-bed0-7555d17c1e9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션 맛집 <에밀리, 파리에 가다 시즌2> 속, 릴리 콜린스의 파리지엔 스타일 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -350,14 +357,6 @@
             <pubDate>Fri, 24 Dec 2021 05:12:47 GMT</pubDate>
             <content:encoded><![CDATA[*스포주의* 로꼬X이하이와 청량한 라거에 과즙이 더해진 타이거라들러의 협업, 티저를 살짝 선...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/9126ac61-a864-481f-aa4a-7c59082c8f3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["선생님 저희도 축구가 하고 싶었어요" <골때녀> 송소희&황소윤 인터뷰 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62423</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62423</guid>
-            <pubDate>Fri, 24 Dec 2021 05:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[국악인 송소희와 로커 황소윤은 축구를 하면서 다른 사람이 됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/b9075e3a-8d53-423f-874c-20225d5a486e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홀리데이엔 섹스로 챙겨야지! 침대 위의 연기자, 올해는 나야 나! (코스모폴리탄 코리아 ─ 러브)]]></title>

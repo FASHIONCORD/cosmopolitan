@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 22:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 00:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베베 꼬였네, 아이린∙엠마∙리정∙소연∙다현∙주헌의 브레이드 스타일 따라잡기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62465</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62465</guid>
+            <pubDate>Sat, 01 Jan 2022 00:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[모발을 베베 꼬아 만든 트위스트 헤어가 대세! 위로 아래로, 길게, 짧게! 어떻게 꼬아도 예...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/0347f641-6d47-4b7f-bed0-7555d17c1e9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 맛집 <에밀리, 파리에 가다 시즌2> 속, 릴리 콜린스의 파리지엔 스타일 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62460</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 05:12:47 GMT</pubDate>
             <content:encoded><![CDATA[*스포주의* 로꼬X이하이와 청량한 라거에 과즙이 더해진 타이거라들러의 협업, 티저를 살짝 선...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/9126ac61-a864-481f-aa4a-7c59082c8f3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["선생님 저희도 축구가 하고 싶었어요" <골때녀> 송소희&황소윤 인터뷰]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62423</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62423</guid>
-            <pubDate>Fri, 24 Dec 2021 05:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[국악인 송소희와 로커 황소윤은 축구를 하면서 다른 사람이 됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/b9075e3a-8d53-423f-874c-20225d5a486e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
