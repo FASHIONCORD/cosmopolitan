@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 08:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 09:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2021! 완벽한 세정력을 지닌 베스트 오브 베스트 클렌저는?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62509</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62509</guid>
+            <pubDate>Mon, 03 Jan 2022 09:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/17007270-d41f-49bb-86a6-629a108f53c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모 뷰티 어워즈 2021! 갓벽한 두피 케어 효과를 갖춘 베스트 스칼프 케어템은?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62508</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 26 Dec 2021 17:19:24 GMT</pubDate>
             <content:encoded><![CDATA[방영 직후부터 화제! 넷플릭스 연애 서바이벌, ‘솔로지옥’에 출연하며 호감남에게 매력 만렙으...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/3533c24c-4a53-492b-a6b3-a3cf8afa3217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유∙에스파 카리나∙YGX 리정 등 마라 맛 레드 립도 갓벽하게 소화하는 그녀들!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62396</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62396</guid>
-            <pubDate>Fri, 24 Dec 2021 07:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[빨간~ 립스틱~ 진하게 바르고~♪ 싶은 겨울, 이들만 손민수하면 레드 립 마스터 SSAP에이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/79dc3b51-72d8-47bf-b871-2d37b06b6d56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
