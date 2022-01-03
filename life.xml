@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 07:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 08:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Petcation with dyson]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62500</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62500</guid>
+            <pubDate>Mon, 03 Jan 2022 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[다이슨의 기술로 새로이 구현한 레스케이프 호텔 룸. 반려동물 집사들이 호캉스를 떠나야 할 합...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/26/8174c058-16f5-4a1f-96ce-06030ddd413c.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[LA는 백신 접종과 무관하게 실내에서 마스크 착용이 의무화라고? 에디터의 LA 여행기_EP2]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62490</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 15:15:58 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통과 에르메스의 힙한 셀렉션부터 따스한 사진전까지, 오늘 누울 자리는 여기!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/389b1c4c-3c22-4cb8-814b-a311cdeff878.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유승호랑 혜리가 화보찍으며 꽁냥꽁냥하던 빈티지 쇼룸?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62453</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62453</guid>
-            <pubDate>Fri, 24 Dec 2021 10:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[1950년대에 지어진 한국 최초의 타운하우스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/1acbde9b-36ba-49c8-8fad-e97266dd4ae2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
