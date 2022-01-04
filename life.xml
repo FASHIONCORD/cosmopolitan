@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 03:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 04:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터키즈에서도 공개하지 않은 트와이스 사나의 하이볼 맛집은 어디? 사나 취향 낱낱이 파헤침!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62521</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62521</guid>
+            <pubDate>Tue, 04 Jan 2022 04:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[사나 없이 사나 마나!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/730580ce-641c-47d2-b248-670f8f4e3798.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하나하나 메모합시다! 연애 고수 프리지아의 <솔로지옥> 속 모먼트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62503</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 25 Dec 2021 17:18:36 GMT</pubDate>
             <content:encoded><![CDATA[스타일도 연애도 더 대담하고 낭만적인, &lt;에밀리 파리에 가다 시즌2&gt;!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/00b2ccdd-636a-4d85-b8c3-b3a04b23cad8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 제일 맛있는 과일이 뭐게? 올해 꼭 가야할 딸기뷔페 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62455</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62455</guid>
-            <pubDate>Fri, 24 Dec 2021 15:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[지금 금값인 딸기! 뷔페에서 박박 많이 먹을 수 있다구!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/ea8e3660-aeab-4300-a0cc-3d14848c8d1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
