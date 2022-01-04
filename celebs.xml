@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 09:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 10:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 봐! <솔로지옥> 송지아의 애슬레저 룩 꿀팁이다~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62672</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62672</guid>
+            <pubDate>Tue, 04 Jan 2022 10:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[세상 화려한 옷들만 입을 것 같은 그녀는 알고보면 트레이닝복 매니아라는 사실! 편안하면서도 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/400087c0-fb7c-4c16-bf1e-fb3f0c58e8e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호랑이띠 셀럽 유아인∙박민영∙트와이스 다현∙세븐틴 승관! 2022 한해 대박날까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62665</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Jan 2022 08:12:31 GMT</pubDate>
             <content:encoded><![CDATA[유튜버 a.k.a 셀럽 프리지아가 출연한 넷플릭스의 데이팅 예능 &lt;솔로지옥&gt;. 눈부신 외모뿐...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/e56ecaf6-1b97-4457-96a6-013828bc5066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AOMG 대표 남매, 로꼬X이하이가 타이거라들러와 크리스마스를 보내는 특별한 방법은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62476</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62476</guid>
-            <pubDate>Mon, 03 Jan 2022 05:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스에 집콕하며 '간맥'을 즐기고 싶다면? 이하이X로꼬 픽, 타이거라들러 레시피를 적극...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/080ef5c5-c27d-42e9-852b-28d5cc56aed4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
