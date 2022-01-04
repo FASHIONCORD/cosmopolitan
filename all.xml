@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 07:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 08:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/d4c17c2f-9601-4c7c-bc00-5a8caa6f3e41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아시아 톱 10 프로덕트 수상의 영광을 거머쥔 NEW '미스 디올 오 드 퍼퓸'이 그려낸 아름다운 뷰티 신! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62395</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62395</guid>
+            <pubDate>Tue, 04 Jan 2022 08:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[A Dream of Love and Beauty.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/b0790bab-be69-4da9-8227-5d2ca15448ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[터키즈에서도 공개하지 않은 트와이스 사나의 하이볼 맛집은 어디? 사나 취향 낱낱이 파헤침! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62521</link>
             <guid>https://www.cosmopolitan.co.kr/article/62521</guid>
@@ -285,14 +293,6 @@
             <pubDate>Sun, 26 Dec 2021 02:41:44 GMT</pubDate>
             <content:encoded><![CDATA[나연ㆍ다현ㆍ태연ㆍ슈화ㆍ예지ㆍ예리는 이렇게!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/fb2a2712-33bd-4734-863b-cd3d9c1a5082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주지훈과 디올 소바쥬의 신비롭고 강렬한 만남 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62417</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62417</guid>
-            <pubDate>Sun, 26 Dec 2021 17:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[붉은 석양으로 물드는 마법같은 시간. 매직 아워를 담은 강렬하면서도 신비로운 디올 소바쥬와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/2b76fc2f-fa23-42f1-a29c-c09f687c7f8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호랑이띠 셀럽 유아인∙박민영∙트와이스 다현∙세븐틴 승관! 2022 한해 대박날까? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
