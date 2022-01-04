@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 02:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 02:43:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하나하나 메모합시다! 연애 고수 프리지아의 <솔로지옥> 속 모먼트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62503</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62503</guid>
+            <pubDate>Tue, 04 Jan 2022 02:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 a.k.a 셀럽 프리지아가 출연한 넷플릭스의 데이팅 예능 &lt;솔로지옥&gt;. 눈부신 외모뿐...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/e56ecaf6-1b97-4457-96a6-013828bc5066.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Petcation with dyson]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62500</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 15:15:58 GMT</pubDate>
             <content:encoded><![CDATA[지금 금값인 딸기! 뷔페에서 박박 많이 먹을 수 있다구!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/ea8e3660-aeab-4300-a0cc-3d14848c8d1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기말고사 끝나고 놀러 가기 딱 좋은 전시 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62454</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62454</guid>
-            <pubDate>Fri, 24 Dec 2021 15:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[루이 비통과 에르메스의 힙한 셀렉션부터 따스한 사진전까지, 오늘 누울 자리는 여기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/389b1c4c-3c22-4cb8-814b-a311cdeff878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
