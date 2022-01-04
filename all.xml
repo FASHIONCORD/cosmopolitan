@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 14:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 15:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -423,6 +423,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/f4714425-0f13-4e3e-9793-75c718ad7566.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-콘텐츠 속 성 정체성과 성적 취향의 모든 것! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62533</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62533</guid>
+            <pubDate>Tue, 04 Jan 2022 15:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[10년 전에는 별일이던 일이, 더 이상 별일이 아니게 됐다. K-콘텐츠 속 성 정체성과 성적...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/a9fcf4f0-3110-4ea1-b4aa-b1db002fb91c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[터키즈에서도 공개하지 않은 트와이스 사나의 하이볼 맛집은 어디? 사나 취향 낱낱이 파헤침! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62521</link>
             <guid>https://www.cosmopolitan.co.kr/article/62521</guid>
@@ -477,14 +485,6 @@
             <pubDate>Sun, 26 Dec 2021 04:13:48 GMT</pubDate>
             <content:encoded><![CDATA[라떼킹 로코 &lt;싱글즈&gt;부터 요즘 연애 영화 &lt;연애 빠진 로맨스&gt;까지, 스물아홉을 위로하는 영...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/7133b776-b9dd-4e89-97f1-ab3bc2e6728d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 맛집 <에밀리, 파리에 가다 시즌2> 속, 릴리 콜린스의 파리지엔 스타일 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62460</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62460</guid>
-            <pubDate>Sat, 25 Dec 2021 17:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[스타일도 연애도 더 대담하고 낭만적인, &lt;에밀리 파리에 가다 시즌2&gt;!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/00b2ccdd-636a-4d85-b8c3-b3a04b23cad8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왁킹? 팝핀? 야너두 출 수 있어! 스우파 언니들의 수업이 듣고싶다면? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
