@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 00:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 02:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니∙강민경∙차정원∙김나영∙장원영으로 보는 포근한 스웨터 룩 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62450</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62450</guid>
+            <pubDate>Tue, 04 Jan 2022 02:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[추위, 다 비켱!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/3b902865-21a5-4a19-b288-910ad4f74c7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ISFP&ENFP, 찰떡궁합으로 난리 난 다비치로 보는 트윈룩♡]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62448</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Dec 2021 15:09:15 GMT</pubDate>
             <content:encoded><![CDATA[제니, 다현, 예지, 노제, 유진으로 보는 여돌 글리터 메이크업 룩]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/72c0114a-4ad2-4184-8dc1-272e67e31d78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니·태연·장원영·노제·강혜원·정은지·지효의 핫템 ‘워머’ 활용법!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62323</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62323</guid>
-            <pubDate>Thu, 23 Dec 2021 03:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[노제, 제니, 태연, 강혜원, 정은지, 지효, 장원영 픽! 올 겨울 핫템으로 떠오르는 ‘워머...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/7d2a70b1-1638-4bf2-a659-7ead2f70e887.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
