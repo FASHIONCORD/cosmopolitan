@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 06:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 07:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터키즈에서도 공개하지 않은 트와이스 사나의 하이볼 맛집은 어디? 사나 취향 낱낱이 파헤침!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62521</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62521</guid>
+            <pubDate>Tue, 04 Jan 2022 07:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[사나 없이 사나 마나!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/730580ce-641c-47d2-b248-670f8f4e3798.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 맛집 <에밀리, 파리에 가다 시즌2> 속, 릴리 콜린스의 파리지엔 스타일 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62460</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 06:12:25 GMT</pubDate>
             <content:encoded><![CDATA[핫 걸들의 발마다 찾아온 왕발 슈즈의 정체는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/d4c17c2f-9601-4c7c-bc00-5a8caa6f3e41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹드라마 <백수세끼>로 연기에 도전장을 내민 임현주의 사복 패션이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62368</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62368</guid>
-            <pubDate>Fri, 24 Dec 2021 04:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[단발머리가 잘 어울리는 하트시그널 임현주 패션으로 다양한 여친st 도전~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/773cbc99-510e-4caf-801f-f072e7faa78b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
