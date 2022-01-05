@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 06:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 인간 샤넬 등장? <솔로지옥> 프리지아 명품 패션!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62671</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62671</guid>
+            <pubDate>Wed, 05 Jan 2022 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬, 발망, 프라다까지 핫한요자 프리지아의 찰떡 명품 룩은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5a7eb76c-56df-468f-948d-0d76636cf042.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백종원도 마신 호랑이술! 올해의 시작은 호랑이 술과 함께 술술술~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62666</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Jan 2022 08:13:28 GMT</pubDate>
             <content:encoded><![CDATA[다이슨의 기술로 새로이 구현한 레스케이프 호텔 룸. 반려동물 집사들이 호캉스를 떠나야 할 합...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/26/8174c058-16f5-4a1f-96ce-06030ddd413c.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[LA는 백신 접종과 무관하게 실내에서 마스크 착용이 의무화라고? 에디터의 LA 여행기_EP2]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62490</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62490</guid>
-            <pubDate>Tue, 28 Dec 2021 16:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘위드 코로나’를 맞아 꾹 참아온 여행을 떠났다. 첫 스텝부터 기록해본 ‘이 시국’ 여행기....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/83671c1f-d3c3-48da-b712-cb7154dccf44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
