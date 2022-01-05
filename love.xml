@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 03:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 04:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑하지만, 헤어졌다? 드라마 <그 해 우리는> 공감 SSAP가능! 그때 우리는, 왜 헤어졌을까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62457</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62457</guid>
+            <pubDate>Wed, 05 Jan 2022 04:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;그 해 우리는&gt; 속 ‘연수’는 버거운 현실 때문에 여전히 사랑하는 ‘웅’에게 어쩔 수 없이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/8e59c66c-93be-489a-9933-dd757ad27f93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스 기념, 타이거라들러와 함께 인간레몬과 자몽으로 변신한 아티스트는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62446</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Dec 2021 08:21:06 GMT</pubDate>
             <content:encoded><![CDATA[엄청 달달하구려!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/cc332778-fe08-42a9-895d-0994860b0dcc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긍정 바이러스, 비투비의 서은광과 이민혁이 MZ세대 청춘들에게 전하고 싶은 말이 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62114</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62114</guid>
-            <pubDate>Mon, 20 Dec 2021 13:22:52 GMT</pubDate>
-            <content:encoded><![CDATA["여러분 인생에서는 스스로가 모두 주인공이에요."]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/8889eaa5-c2f2-4ea0-97bb-47e293f56bb9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

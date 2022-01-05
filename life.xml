@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 03:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 04:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백종원도 마신 호랑이술! 올해의 시작은 호랑이 술과 함께 술술술~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62666</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62666</guid>
+            <pubDate>Wed, 05 Jan 2022 04:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[새해의 좋은 기운 가져다줄 호랑이 술 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5cc5a442-4cfd-4d51-a344-7c7cfdcbbb2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<옷소매 붉은 끝동> 속 궁녀즈의 SNS 속 훈훈뽀짝 친목 모음Zip]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62647</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62647</guid>
+            <pubDate>Wed, 05 Jan 2022 04:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[우리 우정 포에버…!  드라마 종영 후에도 꾸준히 만난다는 궁녀즈?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/e7bb58ea-ca7e-490e-9fc4-693a86f78f82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HELLO, 2022! 코스모폴리탄이 2022년 감성 달력을 만들었다는데?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62552</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 28 Dec 2021 16:22:34 GMT</pubDate>
             <content:encoded><![CDATA[‘위드 코로나’를 맞아 꾹 참아온 여행을 떠났다. 첫 스텝부터 기록해본 ‘이 시국’ 여행기....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/83671c1f-d3c3-48da-b712-cb7154dccf44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편하게 누워서 일출 보는 게 갓생이다! 침대에서 보는 새해 해돋이 뷰맛집 숙소4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62486</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62486</guid>
-            <pubDate>Mon, 27 Dec 2021 18:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[일출 맛집으로 소문난 동해안 숙소 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/06ce2b79-2229-47f7-914b-e222a8482c4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AOMG 대표 남매, 로꼬X이하이가 타이거라들러와 크리스마스를 보내는 특별한 방법은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62476</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62476</guid>
-            <pubDate>Mon, 27 Dec 2021 04:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스에 집콕하며 '간맥'을 즐기고 싶다면? 이하이X로꼬 픽, 타이거라들러 레시피를 적극...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/080ef5c5-c27d-42e9-852b-28d5cc56aed4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
