@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 10:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년, 정신을 환기시키고 영감을 불어넣어줄 새해 전시와 신간은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62692</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62692</guid>
+            <pubDate>Wed, 05 Jan 2022 10:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[정신을 환기시키고 영감을 불어넣어줄 새해의 전시와 신간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/45f447af-80f4-4b3d-9e72-e8ddb1237ef0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 인간 샤넬 등장? <솔로지옥> 프리지아 명품 패션!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62671</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 04 Jan 2022 02:42:49 GMT</pubDate>
             <content:encoded><![CDATA[유튜버 a.k.a 셀럽 프리지아가 출연한 넷플릭스의 데이팅 예능 &lt;솔로지옥&gt;. 눈부신 외모뿐...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/e56ecaf6-1b97-4457-96a6-013828bc5066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Petcation with dyson]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62500</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62500</guid>
-            <pubDate>Mon, 03 Jan 2022 08:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[다이슨의 기술로 새로이 구현한 레스케이프 호텔 룸. 반려동물 집사들이 호캉스를 떠나야 할 합...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/26/8174c058-16f5-4a1f-96ce-06030ddd413c.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
