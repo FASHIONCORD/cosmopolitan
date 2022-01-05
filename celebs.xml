@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 10:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 13:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너네냐? 일진에게 반한 애들이? 누적 조회수 2억뷰를 기록한 웹드라마 <일진에게 반했을 때> 청춘들의 이야기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62698</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62698</guid>
+            <pubDate>Wed, 05 Jan 2022 13:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[청춘이다, 청춘이야!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/463e58bc-4910-497b-aa34-4c1fd8bcc062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일이 리즈! 잘~자라줘서 고마운 아역 출신 여배우들 근황 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62682</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 04 Jan 2022 07:15:53 GMT</pubDate>
             <content:encoded><![CDATA[86년생 보아, 유아인, 박민영, 그레이 그리고 98년생 트와이스 다현, 세븐틴 승관, 버논...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/c141fb15-a01c-4fea-8a71-55a846e8306a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<옷소매 붉은 끝동> 속 궁녀즈의 SNS 속 훈훈뽀짝 친목 모음Zip]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62647</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62647</guid>
-            <pubDate>Tue, 04 Jan 2022 06:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[우리 우정 포에버…!  드라마 종영 후에도 꾸준히 만난다는 궁녀즈?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/e7bb58ea-ca7e-490e-9fc4-693a86f78f82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
