@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 02:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스마스 기념, 타이거라들러와 함께 인간레몬과 자몽으로 변신한 아티스트는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62446</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62446</guid>
+            <pubDate>Wed, 05 Jan 2022 03:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[*스포주의* 로꼬X이하이와 청량한 라거에 과즙이 더해진 타이거라들러의 협업, 티저를 살짝 선...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/9126ac61-a864-481f-aa4a-7c59082c8f3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홀리데이엔 섹스로 챙겨야지! 침대 위의 연기자, 올해는 나야 나!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62372</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Dec 2021 13:22:52 GMT</pubDate>
             <content:encoded><![CDATA["여러분 인생에서는 스스로가 모두 주인공이에요."]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/8889eaa5-c2f2-4ea0-97bb-47e293f56bb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모니카, 본인이 예쁘다고 생각한 적 없다? 모니카쌤 칭찬 감옥에 가둘 사람, 다 드루와!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62039</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62039</guid>
-            <pubDate>Mon, 20 Dec 2021 13:22:52 GMT</pubDate>
-            <content:encoded><![CDATA["제가 신정우다워 좋아요. 저는 제 모습을 좋아해서 자신감이 넘치거든요"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/f4714425-0f13-4e3e-9793-75c718ad7566.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

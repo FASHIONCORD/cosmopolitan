@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 02:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HELLO, 2022! 코스모폴리탄이 2022년 감성 달력을 만들었다는데?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62552</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62552</guid>
+            <pubDate>Wed, 05 Jan 2022 03:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[다가오는 새해를 맞아 코스모만의 감성이 깃든 달력을 책갈피 속 마른 낙엽처럼 슬쩍 끼워 넣었...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/1806ee10-81b6-4e66-98f4-2f8f4a0e38fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-콘텐츠 속 성 정체성과 성적 취향의 모든 것!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62533</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Dec 2021 04:20:28 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스에 집콕하며 '간맥'을 즐기고 싶다면? 이하이X로꼬 픽, 타이거라들러 레시피를 적극...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/080ef5c5-c27d-42e9-852b-28d5cc56aed4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 살 더 먹으면 서른?! 스물아홉 영화 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62466</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62466</guid>
-            <pubDate>Sun, 26 Dec 2021 04:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[라떼킹 로코 &lt;싱글즈&gt;부터 요즘 연애 영화 &lt;연애 빠진 로맨스&gt;까지, 스물아홉을 위로하는 영...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/7133b776-b9dd-4e89-97f1-ab3bc2e6728d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
