@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<그 해 우리는> 촬영지 어딘데? 최웅 집과 작업실부터 웅♥연수 키스신 장소까지!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62704</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62704</guid>
+            <pubDate>Thu, 06 Jan 2022 09:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[웅∙연수 커플처럼 연애 텐션 올려 줄 데이트 코스 추천 4곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/fd8b5fc7-e225-497a-a04f-18b136274e19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SNL 인턴 기자 주현영이 코스모폴리탄 인턴 에디터로 등장한 이유는? '일찍이들' 본캐 다 파헤침...]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62703</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 05 Jan 2022 03:13:29 GMT</pubDate>
             <content:encoded><![CDATA[다가오는 새해를 맞아 코스모만의 감성이 깃든 달력을 책갈피 속 마른 낙엽처럼 슬쩍 끼워 넣었...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/1806ee10-81b6-4e66-98f4-2f8f4a0e38fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-콘텐츠 속 성 정체성과 성적 취향의 모든 것!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62533</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62533</guid>
-            <pubDate>Tue, 04 Jan 2022 15:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[10년 전에는 별일이던 일이, 더 이상 별일이 아니게 됐다. K-콘텐츠 속 성 정체성과 성적...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/a9fcf4f0-3110-4ea1-b4aa-b1db002fb91c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

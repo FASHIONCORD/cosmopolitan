@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국판 투핫 <솔로 지옥>에서 솔직 당당한 프리지아의 사복 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62735</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62735</guid>
+            <pubDate>Thu, 06 Jan 2022 09:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[송지아의(a.k.a 프리지아) 혈액형은? AB형 아니고 인형!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/69325563-b8c7-44e3-bc91-f2dac73e6110.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<솔로 지옥> 순한맛 VS 매운맛, 신지연과 송지아의 패션 전격 분석!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62720</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 05 Jan 2022 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[도대체 안 예쁜 날이 언제야?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/7348a132-3589-494d-a0d1-2d3d94825565.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금발이 너무해! 금발로 미모 업그레이드한 셀럽들이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62677</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62677</guid>
-            <pubDate>Wed, 05 Jan 2022 04:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[새해엔 금발 도전? 탈색의 고통쯤 기꺼이 감내하고픈 금발 모음zip.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5313527c-accd-488f-8f91-bfafef61cbd3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
