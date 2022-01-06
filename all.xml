@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 04:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/ed8171d9-4732-4f7f-8d98-c21c8f471520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SNL 인턴 기자 주현영이 코스모폴리탄 인턴 에디터로 등장한 이유는? '일찍이들' 본캐 다 파헤침... (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62703</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62703</guid>
+            <pubDate>Thu, 06 Jan 2022 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[이 집, 케미 맛집이네?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/588762ba-fc52-4dc3-aa41-4fa811fcb77d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[너네냐? 일진에게 반한 애들이? 누적 조회수 2억뷰를 기록한 웹드라마 <일진에게 반했을 때> 청춘들의 이야기! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62698</link>
             <guid>https://www.cosmopolitan.co.kr/article/62698</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 04 Jan 2022 15:15:54 GMT</pubDate>
             <content:encoded><![CDATA[10년 전에는 별일이던 일이, 더 이상 별일이 아니게 됐다. K-콘텐츠 속 성 정체성과 성적...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/a9fcf4f0-3110-4ea1-b4aa-b1db002fb91c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터키즈에서도 공개하지 않은 트와이스 사나의 하이볼 맛집은 어디? 사나 취향 낱낱이 파헤침! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62521</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62521</guid>
-            <pubDate>Tue, 04 Jan 2022 02:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[사나 없이 사나 마나!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/730580ce-641c-47d2-b248-670f8f4e3798.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#운동 못해도 운동복 재질! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
