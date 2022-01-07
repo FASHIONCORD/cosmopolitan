@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 06:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 07:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/ed8171d9-4732-4f7f-8d98-c21c8f471520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<솔로 지옥> 순한맛 VS 매운맛, 신지연과 송지아의 패션 전격 분석! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62720</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62720</guid>
+            <pubDate>Thu, 06 Jan 2022 06:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[순한맛 VS 매운맛 버전 다 모았다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/e0410c3e-616b-4085-add4-042acd6bf8f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[첫사랑 소환 패션, <그 해 우리는> 속 김다미∙노정의∙최우식∙김성철의 패션 비교 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62710</link>
             <guid>https://www.cosmopolitan.co.kr/article/62710</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 05 Jan 2022 04:19:04 GMT</pubDate>
             <content:encoded><![CDATA[새해의 좋은 기운 가져다줄 호랑이 술 4]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5cc5a442-4cfd-4d51-a344-7c7cfdcbbb2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<옷소매 붉은 끝동> 속 궁녀즈의 SNS 속 훈훈뽀짝 친목 모음Zip (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62647</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62647</guid>
-            <pubDate>Tue, 04 Jan 2022 06:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[우리 우정 포에버…!  드라마 종영 후에도 꾸준히 만난다는 궁녀즈?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/e7bb58ea-ca7e-490e-9fc4-693a86f78f82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니멀하고 지속 가능한 뷰티 습관, 클린뷰티 어디까지 알고 있나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
