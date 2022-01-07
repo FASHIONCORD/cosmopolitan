@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 14:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 15:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화려한 비주얼로 지름신 소환하는 새해 첫 뷰티 신상 28]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62691</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62691</guid>
+            <pubDate>Fri, 07 Jan 2022 15:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[화려한 비주얼로 지름신 소환하는 새해 첫 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/9556a95f-971d-4009-8ef0-19630b284f0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEW RED POWER! 호랑이해의 에너지를 가득 담은 레드 컬러 뉴 이어 컬렉션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62686</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 04 Jan 2022 17:20:08 GMT</pubDate>
             <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/9a102cc8-03a8-4b60-9b8d-3b4e4f8d988b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모던한 ‘하운즈투스’ 패턴을 입은 디올 뷰티의 2022 첫 리미티드 에디션, ‘뉴 룩 컬렉션’]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62567</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62567</guid>
-            <pubDate>Tue, 04 Jan 2022 10:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[NEW 디올 2022 뉴 룩 컬렉션으로 당신만의 우아하고 대담한 뉴 룩 스타일과 뷰티를 완성...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/01/6d9215d0-1ab5-4870-8055-759034b07be3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 14:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 15:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<솔로 지옥> 순한맛 VS 매운맛, 신지연과 송지아의 패션 전격 분석!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62720</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62720</guid>
+            <pubDate>Fri, 07 Jan 2022 15:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[순한맛 VS 매운맛 버전 다 모았다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/e0410c3e-616b-4085-add4-042acd6bf8f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<옷소매 붉은 끝동> 이세영의 심플하고 센스 있는 사복 패션 룩 파헤치기!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62711</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 17:20:15 GMT</pubDate>
             <content:encoded><![CDATA[샤넬, 발망, 프라다까지 핫한요자 프리지아의 찰떡 명품 룩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5a7eb76c-56df-468f-948d-0d76636cf042.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모가 픽한 이달의 머스트해브 아이템은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62660</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62660</guid>
-            <pubDate>Thu, 06 Jan 2022 17:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/569f2ce4-fc36-4597-b2eb-fdffa0615fe5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
