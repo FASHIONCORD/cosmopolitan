@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 14:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 16:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[센터는 나야 나! 4세대 걸 그룹 중 독보적인 센터 오브 센터는 뉴구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62731</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62731</guid>
+            <pubDate>Sat, 08 Jan 2022 16:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[호랑이해의 에너지를 가득 담은 강렬한 레드 컬러의 뉴 이어 컬렉션!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/bb09d2c7-5bf4-4539-bb0e-02e577c7a74e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<솔로 지옥> 순한맛 VS 매운맛, 신지연과 송지아의 패션 전격 분석!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62720</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 17:20:15 GMT</pubDate>
             <content:encoded><![CDATA[새해엔 이들처럼 입고 센스 있는 남친 되어 사랑받자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/b6522441-1e50-42c9-8f84-eaa24138d8d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 인간 샤넬 등장? <솔로지옥> 프리지아 명품 패션!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62671</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62671</guid>
-            <pubDate>Thu, 06 Jan 2022 17:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬, 발망, 프라다까지 핫한요자 프리지아의 찰떡 명품 룩은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5a7eb76c-56df-468f-948d-0d76636cf042.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
