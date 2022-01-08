@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 16:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 18:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2021! 올해를 빛낸 베스트 모이스처라이저는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62732</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62732</guid>
+            <pubDate>Sat, 08 Jan 2022 18:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/8a33f324-4338-4241-9b3b-43d82b51040c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화려한 비주얼로 지름신 소환하는 새해 첫 뷰티 신상 28]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62691</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 04 Jan 2022 17:20:08 GMT</pubDate>
             <content:encoded><![CDATA[나스의 베스트 셀링 아이템 3가지를 만날 수 있다고 하니, 무조건 소장각!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/71490604-0d2e-455b-b2ca-887e2159ae88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 뷰티 어워즈 2021! 성분과 제형, 사용감 모두 존좋인 베스트 오브 베스트 토너는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62632</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62632</guid>
-            <pubDate>Tue, 04 Jan 2022 17:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/9a102cc8-03a8-4b60-9b8d-3b4e4f8d988b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
