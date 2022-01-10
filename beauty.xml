@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 14:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 18:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구 환경을 생각하는 클린 뷰티 뉴비 레이블이 궁금하다면 드루와~.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62811</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62811</guid>
+            <pubDate>Mon, 10 Jan 2022 18:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 삶과 지구환경에 대한 의식을 전제로 하는 클린 뷰티 뉴비 레이블이 궁금하다면 드루와~...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/d5cef82d-1a9d-4719-82ad-7e97d8145052.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진정성 있는 뷰티 패러다임으로 대중화 기로에 선 클린 뷰티, A to Z!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62801</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 17:20:56 GMT</pubDate>
             <content:encoded><![CDATA[호랑이해의 에너지를 가득 담은 강렬한 레드 컬러의 뉴 이어 컬렉션!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/0d6744f3-a17f-40ed-b1c8-0fdcc7b67728.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YUMMY! 달콤 달콤한 향기가 매력적인 신상 향수 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62687</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62687</guid>
-            <pubDate>Thu, 06 Jan 2022 17:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[호랑이해의 에너지를 가득 담은 강렬한 레드 컬러의 뉴 이어 컬렉션!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/27de33b3-ca01-4c55-ab39-18363b86368f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
