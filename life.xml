@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 06:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 07:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덕수궁 돌담 길을 걸으면 헤어진다? 이젠 #럽스타그램 가능한 ‘서순라길’]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62828</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62828</guid>
+            <pubDate>Mon, 10 Jan 2022 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[덕수궁 돌담길을 걸으면 헤어진다는 징크는 라떼 시절 얘기! 종묘 서쪽 담장 따라 서순라길을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e4fdcd32-d267-409a-b7b7-a3b6c9382a8d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[질투하는 남친이 위험한 이유]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62775</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62775</guid>
+            <pubDate>Mon, 10 Jan 2022 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어서와, 간헐적 채식은 처음이지?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62764</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 17:22:07 GMT</pubDate>
             <content:encoded><![CDATA[어떤 스타일이 더 끌려?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/0fb6227c-d3ee-428d-89e7-e726cf255670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그 해 우리는> 촬영지 어딘데? 최웅 집과 작업실부터 웅♥연수 키스신 장소까지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62704</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62704</guid>
-            <pubDate>Thu, 06 Jan 2022 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[웅∙연수 커플처럼 연애 텐션 올려 줄 데이트 코스 추천 4곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/fd8b5fc7-e225-497a-a04f-18b136274e19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNL 인턴 기자 주현영이 코스모폴리탄 인턴 에디터로 등장한 이유는? '일찍이들' 본캐 다 파헤침...]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62703</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62703</guid>
-            <pubDate>Thu, 06 Jan 2022 05:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[이 집, 케미 맛집이네?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/588762ba-fc52-4dc3-aa41-4fa811fcb77d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
