@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 02:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 03:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['산알못'을 위한 지침서, 언니들은 왜 산으로 갔을까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62727</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62727</guid>
+            <pubDate>Mon, 10 Jan 2022 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[여전히 등산 하면 한숨부터 나오는 모든 ‘산알못’을 위해 코스모가 대신 물었다. 언니들, 대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/97ec934e-2444-4681-8fcc-8f8a8af01817.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<솔로 지옥> 순한맛 VS 매운맛, 신지연과 송지아의 패션 전격 분석!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62720</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 05 Jan 2022 06:20:00 GMT</pubDate>
             <content:encoded><![CDATA[샤넬, 발망, 프라다까지 핫한요자 프리지아의 찰떡 명품 룩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5a7eb76c-56df-468f-948d-0d76636cf042.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원도 마신 호랑이술! 올해의 시작은 호랑이 술과 함께 술술술~]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62666</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62666</guid>
-            <pubDate>Wed, 05 Jan 2022 04:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[새해의 좋은 기운 가져다줄 호랑이 술 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5cc5a442-4cfd-4d51-a344-7c7cfdcbbb2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
