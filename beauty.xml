@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진정성 있는 뷰티 패러다임으로 대중화 기로에 선 클린 뷰티, A to Z!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62801</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62801</guid>
+            <pubDate>Mon, 10 Jan 2022 08:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[피부 건강은 물론 동물과 지구환경을 위한 바른 선택! 윤리적 소비를 위한 코스모식 클린 큐레...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/08/13ac1017-cfb6-49df-bf13-27ee8469be31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모 뷰티 어워즈 2021! 맨스 스킨케어 부문 1위로 선정된 올인원 플루이드는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62768</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 17:20:56 GMT</pubDate>
             <content:encoded><![CDATA[호랑이해의 에너지를 가득 담은 강렬한 레드 컬러의 뉴 이어 컬렉션!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/27de33b3-ca01-4c55-ab39-18363b86368f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일이 리즈! 잘~자라줘서 고마운 아역 출신 여배우들 근황 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62682</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62682</guid>
-            <pubDate>Thu, 06 Jan 2022 03:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[도대체 안 예쁜 날이 언제야?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/7348a132-3589-494d-a0d1-2d3d94825565.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
