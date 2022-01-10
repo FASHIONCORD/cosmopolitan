@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 06:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어서와, 간헐적 채식은 처음이지?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62764</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62764</guid>
+            <pubDate>Mon, 10 Jan 2022 06:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[새해 딱 한 달만 비건으로 살아보기. 나의 건강은 물론, 환경과 동물을 위하는 비거뉴어리 챌...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/e5fc79d1-6239-4d49-bac0-5d36fc20285a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과몰입 끝판왕! <옷 소매 붉은 끝동>, <박열> 등 실화 바탕 작품들이 궁금하다면?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62753</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62753</guid>
+            <pubDate>Mon, 10 Jan 2022 06:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[판타지 사극이 넘쳐나는 요즘, 정직하고 담백하게 역사를 담아낸 작품들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/3c993f1e-6f81-47ab-99a9-9f45ee53438a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<솔로지옥> 신지연과 오진택이 즐긴 자쿠지룸 거기 어딘데? 천국도 호텔 낱낱이 파헤쳐드림]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62738</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 05:14:34 GMT</pubDate>
             <content:encoded><![CDATA[이 집, 케미 맛집이네?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/588762ba-fc52-4dc3-aa41-4fa811fcb77d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너네냐? 일진에게 반한 애들이? 누적 조회수 2억뷰를 기록한 웹드라마 <일진에게 반했을 때> 청춘들의 이야기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62698</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62698</guid>
-            <pubDate>Wed, 05 Jan 2022 15:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[청춘이다, 청춘이야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/463e58bc-4910-497b-aa34-4c1fd8bcc062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년, 정신을 환기시키고 영감을 불어넣어줄 새해 전시와 신간은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62692</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62692</guid>
-            <pubDate>Wed, 05 Jan 2022 10:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[정신을 환기시키고 영감을 불어넣어줄 새해의 전시와 신간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/45f447af-80f4-4b3d-9e72-e8ddb1237ef0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

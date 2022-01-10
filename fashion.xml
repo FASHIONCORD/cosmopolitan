@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 06:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따뜻함과 힙함을 동시에 잡는 아이템 9]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62808</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62808</guid>
+            <pubDate>Mon, 10 Jan 2022 06:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[포근해, 따뜻해, 귀여워! 한번 빠지면 헤어날 수 없는 패딩의 매력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/0b18396f-b4da-45fb-9979-d0edf8b11344.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호랑이 띠의 해! 타이거 모티브 아이템을 소개합니다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62802</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 17:20:15 GMT</pubDate>
             <content:encoded><![CDATA[따라하고 싶은 덕임이의 사복 패션 스타일링!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/e4739354-b2ba-4c6d-8967-fe6a9a702799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑 소환 패션, <그 해 우리는> 속 김다미∙노정의∙최우식∙김성철의 패션 비교]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62710</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62710</guid>
-            <pubDate>Thu, 06 Jan 2022 17:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 스타일이 더 끌려?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/0fb6227c-d3ee-428d-89e7-e726cf255670.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

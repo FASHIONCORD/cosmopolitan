@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 06:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfMzEg/MDAxNjM5NjUyOTM5NTgy.FSGDQ-iC-bj7g4BjNJBzNSVZJkyLAjlh8-AuJfUjoe4g.FL7IrSnuLhJkZpwrGyGEfQrpUQtfPcpP7zyBkOpFDzkg.JPEG/IGbSSbJ9Uu8N6c6XNkD_FqcO2db0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[따뜻함과 힙함을 동시에 잡는 아이템 9 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62808</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62808</guid>
+            <pubDate>Mon, 10 Jan 2022 06:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[포근해, 따뜻해, 귀여워! 한번 빠지면 헤어날 수 없는 패딩의 매력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/0b18396f-b4da-45fb-9979-d0edf8b11344.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[호랑이 띠의 해! 타이거 모티브 아이템을 소개합니다 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62802</link>
             <guid>https://www.cosmopolitan.co.kr/article/62802</guid>
@@ -222,14 +230,6 @@
             <pubDate>Thu, 06 Jan 2022 03:12:38 GMT</pubDate>
             <content:encoded><![CDATA[따라하고 싶은 덕임이의 사복 패션 스타일링!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/e4739354-b2ba-4c6d-8967-fe6a9a702799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑 소환 패션, <그 해 우리는> 속 김다미∙노정의∙최우식∙김성철의 패션 비교 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62710</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62710</guid>
-            <pubDate>Thu, 06 Jan 2022 03:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 스타일이 더 끌려?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/0fb6227c-d3ee-428d-89e7-e726cf255670.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스모 뷰티 어워즈 2021! 맨스 스킨케어 부문 1위로 선정된 올인원 플루이드는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/e5ac729d-1cbd-4a13-bf8c-31ae5f0965b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어서와, 간헐적 채식은 처음이지? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62764</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62764</guid>
+            <pubDate>Mon, 10 Jan 2022 06:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[새해 딱 한 달만 비건으로 살아보기. 나의 건강은 물론, 환경과 동물을 위하는 비거뉴어리 챌...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/e5fc79d1-6239-4d49-bac0-5d36fc20285a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과몰입 끝판왕! <옷 소매 붉은 끝동>, <박열> 등 실화 바탕 작품들이 궁금하다면?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62753</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62753</guid>
+            <pubDate>Mon, 10 Jan 2022 06:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[판타지 사극이 넘쳐나는 요즘, 정직하고 담백하게 역사를 담아낸 작품들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/3c993f1e-6f81-47ab-99a9-9f45ee53438a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<솔로지옥> 신지연과 오진택이 즐긴 자쿠지룸 거기 어딘데? 천국도 호텔 낱낱이 파헤쳐드림 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62738</link>
             <guid>https://www.cosmopolitan.co.kr/article/62738</guid>
@@ -470,22 +486,6 @@
             <pubDate>Thu, 06 Jan 2022 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[이 집, 케미 맛집이네?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/588762ba-fc52-4dc3-aa41-4fa811fcb77d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너네냐? 일진에게 반한 애들이? 누적 조회수 2억뷰를 기록한 웹드라마 <일진에게 반했을 때> 청춘들의 이야기! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62698</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62698</guid>
-            <pubDate>Wed, 05 Jan 2022 13:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[청춘이다, 청춘이야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/463e58bc-4910-497b-aa34-4c1fd8bcc062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년, 정신을 환기시키고 영감을 불어넣어줄 새해 전시와 신간은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62692</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62692</guid>
-            <pubDate>Wed, 05 Jan 2022 10:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[정신을 환기시키고 영감을 불어넣어줄 새해의 전시와 신간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/45f447af-80f4-4b3d-9e72-e8ddb1237ef0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니멀하고 지속 가능한 뷰티 습관, 클린뷰티 어디까지 알고 있나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
