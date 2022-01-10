@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 03:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 04:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국판 투핫 <솔로 지옥>에서 솔직 당당한 프리지아의 사복 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62735</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62735</guid>
+            <pubDate>Mon, 10 Jan 2022 04:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[송지아의(a.k.a 프리지아) 혈액형은? AB형 아니고 인형!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/69325563-b8c7-44e3-bc91-f2dac73e6110.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[센터는 나야 나! 4세대 걸 그룹 중 독보적인 센터 오브 센터는 뉴구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62731</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 17:20:15 GMT</pubDate>
             <content:encoded><![CDATA[러블리, 코지, 힙! 임인년엔 다양한 스타일을 참고해보자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/f12beae0-5ef7-4212-a01f-036ccf18ae65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소문난 남친 룩 강자들! 이동휘∙류준열∙피오∙최우식∙김우빈의 남친 룩 모음 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62675</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62675</guid>
-            <pubDate>Thu, 06 Jan 2022 17:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[새해엔 이들처럼 입고 센스 있는 남친 되어 사랑받자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/b6522441-1e50-42c9-8f84-eaa24138d8d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
