@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 09:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 10:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<그 해 우리는> 속 ‘국연수’, 설렘 가득한 김다미 직딩 패션 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62829</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62829</guid>
+            <pubDate>Mon, 10 Jan 2022 10:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[웅… 웅아!!!!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/4e755a1e-a63e-4c15-a5df-1a67b968812c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덕수궁 돌담 길을 걸으면 헤어진다? 이젠 #럽스타그램 가능한 ‘서순라길’]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62828</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 07 Jan 2022 07:13:54 GMT</pubDate>
             <content:encoded><![CDATA[순한맛 VS 매운맛 버전 다 모았다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/e0410c3e-616b-4085-add4-042acd6bf8f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑 소환 패션, <그 해 우리는> 속 김다미∙노정의∙최우식∙김성철의 패션 비교]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62710</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62710</guid>
-            <pubDate>Thu, 06 Jan 2022 17:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 스타일이 더 끌려?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/0fb6227c-d3ee-428d-89e7-e726cf255670.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
