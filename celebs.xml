@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 02:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임>오영수, 한국 배우 최초로 골든글로브 남우조연상 수상]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62835</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62835</guid>
+            <pubDate>Tue, 11 Jan 2022 02:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[우리 깐부잖아~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/68e991f2-2c29-46d3-93ed-79e1f9024580.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어흥~ 호랑이 해를 맞아 준비한 셀럽들의 호피 패션 모음zip]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62834</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62834</guid>
+            <pubDate>Tue, 11 Jan 2022 02:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[송지아, 지젤, 장원영, 한소희, 현아, 이영지의 호피, 레오파드 패션 참고해서 호랑이 기운...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/08253bd6-13da-4dad-9e0c-01eaca6d55a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박규영∙차정원∙레드벨벳예리∙고민시∙소시태연 의 스타일리시한 운동복 모음 ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62833</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
             <content:encoded><![CDATA[쟈기가 도대체 몇 명이야!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/6a10ca85-06ce-4af4-8bde-17dd2c9300dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한가인, SBS 예능 <써클하우스>로 첫 MC도전!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62746</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62746</guid>
-            <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[4년만에 활동 복귀 한다던데~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/50d1dfb9-f9f2-47c4-9c7f-78d20b44e6bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<기묘한 이야기> 노아 슈냅과 <벌새> 박지후의 공통점은? 바로 22학번 새내기라는 것!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62743</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62743</guid>
-            <pubDate>Mon, 10 Jan 2022 04:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[막내 동생 같던 이 배우들이 대학생이 된다고?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/44d5bcc6-9232-49ae-a3af-ec3beb224e9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
