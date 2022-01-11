@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 02:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 03:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 '뷔'가 직접 디자인한 가방과 브로치라고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62838</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62838</guid>
+            <pubDate>Tue, 11 Jan 2022 03:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[예술적 감각 충만한 방탄 뷔의 아티스트 메이드 컬렉션 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/889b10b8-3859-482c-9cb6-55981ba2afb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<오징어 게임>오영수, 한국 배우 최초로 골든글로브 남우조연상 수상]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62835</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
             <content:encoded><![CDATA[‘가장 이상형에 가까운 남성’ 매력녀 송지아의 한마디에 들썩들썩, &lt;솔로지옥&gt; 차현승이 누군...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/064c3d1e-d20f-42ce-8aba-4a117a48c05f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가수 백예린, 본인 SNS에 “쟈기”라 언급한 이 남자는 누규?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62749</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62749</guid>
-            <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[쟈기가 도대체 몇 명이야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/6a10ca85-06ce-4af4-8bde-17dd2c9300dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
