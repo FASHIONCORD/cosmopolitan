@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 07:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갓 오픈했습니다! 망원 & 합정 신상 베이커리 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62841</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62841</guid>
+            <pubDate>Tue, 11 Jan 2022 07:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[아무리 많은 핫플이 생겨나도 여전히 ‘망원과 합정’을 사랑할 수 밖에 없는 이유랄까]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/8533b824-f050-48c3-9112-c06660c3adab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘순천’ 가면 여긴 어때? 순천 핫한 카페 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62840</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62840</guid>
+            <pubDate>Tue, 11 Jan 2022 07:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘순천만’ 만 아는 당신께,,, 님아 그곳만 가지 마오.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/76597d7b-4d48-4aab-a36e-7c2408787a35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울의 또다른 이름이 ‘딸기’가 아니었던가? 서울 딸기 디저트 맛집 추천 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62839</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 06:17:38 GMT</pubDate>
             <content:encoded><![CDATA[새해 딱 한 달만 비건으로 살아보기. 나의 건강은 물론, 환경과 동물을 위하는 비거뉴어리 챌...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/e5fc79d1-6239-4d49-bac0-5d36fc20285a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과몰입 끝판왕! <옷 소매 붉은 끝동>, <박열> 등 실화 바탕 작품들이 궁금하다면?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62753</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62753</guid>
-            <pubDate>Mon, 10 Jan 2022 06:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[판타지 사극이 넘쳐나는 요즘, 정직하고 담백하게 역사를 담아낸 작품들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/3c993f1e-6f81-47ab-99a9-9f45ee53438a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<솔로지옥> 신지연과 오진택이 즐긴 자쿠지룸 거기 어딘데? 천국도 호텔 낱낱이 파헤쳐드림]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62738</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62738</guid>
-            <pubDate>Mon, 10 Jan 2022 04:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘솔로지옥’ 천국도 만큼 아름다운 섬에 있는 럭셔리 호텔 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/e5e46574-4363-43ca-924e-f11ad32cb175.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
