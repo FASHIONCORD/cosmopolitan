@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 08:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄까지 킹정한 ‘스걸파’ 댄서들의 찐 젠지 룩이 궁금해?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62873</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62873</guid>
+            <pubDate>Tue, 11 Jan 2022 08:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 RM, 정국의 애정공세로 종영 후에도 열기가 식지 않는 스걸파 앓이~ BTS의 마...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/2319ec99-b9a5-480f-be9d-180a0ebc5458.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최애가 왜 여기서 나와?! 예상치 못하게 뉴스에 등장한 연예인 모음.zip]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62867</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 02:44:16 GMT</pubDate>
             <content:encoded><![CDATA[우리 깐부잖아~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/68e991f2-2c29-46d3-93ed-79e1f9024580.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어흥~ 호랑이 해를 맞아 준비한 셀럽들의 호피 패션 모음zip]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62834</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62834</guid>
-            <pubDate>Tue, 11 Jan 2022 02:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[송지아, 지젤, 장원영, 한소희, 현아, 이영지의 호피, 레오파드 패션 참고해서 호랑이 기운...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/08253bd6-13da-4dad-9e0c-01eaca6d55a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
