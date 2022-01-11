@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 00:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/e4739354-b2ba-4c6d-8967-fe6a9a702799.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2021! 극강의 윤기와 부드러움을 선사하는 베스트 헤어 트리트먼트는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62821</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62821</guid>
+            <pubDate>Tue, 11 Jan 2022 02:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/46f8482e-e0e5-421a-aff7-9b1e8cc89383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지구 환경을 생각하는 클린 뷰티 뉴비 레이블이 궁금하다면 드루와~. (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62811</link>
             <guid>https://www.cosmopolitan.co.kr/article/62811</guid>
@@ -286,14 +294,6 @@
             <pubDate>Fri, 07 Jan 2022 15:10:19 GMT</pubDate>
             <content:encoded><![CDATA[화려한 비주얼로 지름신 소환하는 새해 첫 뷰티 신상!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/9556a95f-971d-4009-8ef0-19630b284f0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW RED POWER! 호랑이해의 에너지를 가득 담은 레드 컬러 뉴 이어 컬렉션 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62686</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62686</guid>
-            <pubDate>Thu, 06 Jan 2022 17:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[호랑이해의 에너지를 가득 담은 강렬한 레드 컬러의 뉴 이어 컬렉션!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/0d6744f3-a17f-40ed-b1c8-0fdcc7b67728.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박규영∙차정원∙레드벨벳예리∙고민시∙소시태연 의 스타일리시한 운동복 모음 ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
