@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 05:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 06:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너네냐? 일진에게 반한 애들이? 누적 조회수 2억뷰를 기록한 웹드라마 <일진에게 반했을 때> 청춘들의 이야기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62698</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62698</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[청춘이다, 청춘이야!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/463e58bc-4910-497b-aa34-4c1fd8bcc062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이시언&서지승 결혼! 의리 갑 ‘나혼산’ 멤버들이 공개한 유쾌한 결혼식 현장은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62519</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 26 Dec 2021 02:41:59 GMT</pubDate>
             <content:encoded><![CDATA[코시국 속, 고립감과 외로움을 느끼는 MZ세대들에게 찐-한 고민 상담을 해줬다는데?! 모두 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/aad04745-610d-4af1-ad07-807bb658fba0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 정도면 이별 SSAP가능? 내가 만난 <백수세끼> 남친 경험 썰...]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62270</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62270</guid>
-            <pubDate>Fri, 24 Dec 2021 11:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[사랑이 강도짓도 아니고, 언제 돈을 내놓으라고 했나요. 센스가 문제라고요, 센스가!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/e5ac729d-1cbd-4a13-bf8c-31ae5f0965b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

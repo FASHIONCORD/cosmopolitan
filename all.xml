@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 05:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 06:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfMTkx/MDAxNjM5OTgzMDQ1Mzk1.CwvzKTWpl6_s41Nrm3XFq_HCIe2--QpaLy7x-UEhxI0g.W0rBGD8YEf6O22V396TmBe2ymdBj-h-_JjLcW7ueyx0g.JPEG/I-CQl93RnuAJGvpBQpdBeGMHnlzg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[툭 걸치는 게 멋, 해외 셀럽들의 목도리 스타일링 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62831</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62831</guid>
+            <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[잘 고른 머플러 열 코트 안 부럽다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e7d3c7f3-1a26-408d-aa8e-875ee75155cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<그 해 우리는> 속 ‘국연수’, 설렘 가득한 김다미 직딩 패션 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62829</link>
             <guid>https://www.cosmopolitan.co.kr/article/62829</guid>
@@ -221,15 +229,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/62731</guid>
             <pubDate>Sat, 08 Jan 2022 16:20:52 GMT</pubDate>
             <content:encoded><![CDATA[호랑이해의 에너지를 가득 담은 강렬한 레드 컬러의 뉴 이어 컬렉션!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/bb09d2c7-5bf4-4539-bb0e-02e577c7a74e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<솔로 지옥> 순한맛 VS 매운맛, 신지연과 송지아의 패션 전격 분석! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62720</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62720</guid>
-            <pubDate>Thu, 06 Jan 2022 06:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[순한맛 VS 매운맛 버전 다 모았다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/e0410c3e-616b-4085-add4-042acd6bf8f0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/bb09d2c7-5bf4-4539-bb0e-02e577c7a74e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클린 성분 백과사전! 수많은 전문가의 검증을 거친 클린 성분은 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,6 +296,30 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/8a33f324-4338-4241-9b3b-43d82b51040c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안재현∙송강∙정해인, 완깐머리 하고 순둥이 이미지 탈피한 남배우들?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62866</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62866</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[덮머리vs깐머리, 앞머리 따라 온도 차이 확 나는 천의 얼굴들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/7c7b55d9-9de3-409e-8400-0f51408820f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김나영♥마이큐 커플 패션 탐구! 사랑스러운 패피 둘의 만남 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62865</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[옷장까지 공유하는 사이?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e660af21-acac-476d-88ca-17f276aaa96a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈에서 꿀이 뚝뚝!<솔로지옥>∙<돌싱글즈2>등 지금 가장 달달한 커플4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62847</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62847</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[얘들아 잘 봐, 언니들 연애다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/a78d8c5c-9c2e-4615-b453-02e38bb5c565.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘갓기’란 바로 이런 것! 압도적 비주얼의 4세대 여돌 막냉이 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62845</link>
             <guid>https://www.cosmopolitan.co.kr/article/62845</guid>
@@ -336,28 +360,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/be25a3c7-adb6-408e-9080-ad97d326aa2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[툭 걸치는 게 멋, 해외 셀럽들의 목도리 스타일링 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62831</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62831</guid>
-            <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[잘 고른 머플러 열 코트 안 부럽다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e7d3c7f3-1a26-408d-aa8e-875ee75155cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그 해 우리는> 속 ‘국연수’, 설렘 가득한 김다미 직딩 패션 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62829</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62829</guid>
-            <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[웅… 웅아!!!!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/4e755a1e-a63e-4c15-a5df-1a67b968812c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉∙김나영∙아이유∙쌈디의 놀라운 공통점은? 아낌 없는 기부 플렉스 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62827</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62827</guid>
-            <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 마음 씀씀이까지 훈훈하고 매력적인데, 반하나 안 반하나?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/0c38eea6-1560-4a1f-836a-475f7bbe9e60.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[너네냐? 일진에게 반한 애들이? 누적 조회수 2억뷰를 기록한 웹드라마 <일진에게 반했을 때> 청춘들의 이야기! (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62698</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62698</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[청춘이다, 청춘이야!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/463e58bc-4910-497b-aa34-4c1fd8bcc062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이시언&서지승 결혼! 의리 갑 ‘나혼산’ 멤버들이 공개한 유쾌한 결혼식 현장은? (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -416,12 +424,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/aad04745-610d-4af1-ad07-807bb658fba0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이 정도면 이별 SSAP가능? 내가 만난 <백수세끼> 남친 경험 썰... (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62270</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62270</guid>
-            <pubDate>Fri, 24 Dec 2021 11:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[사랑이 강도짓도 아니고, 언제 돈을 내놓으라고 했나요. 센스가 문제라고요, 센스가!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/e5ac729d-1cbd-4a13-bf8c-31ae5f0965b2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[겨울의 또다른 이름이 ‘딸기’가 아니었던가? 서울 딸기 디저트 맛집 추천 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62839</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62839</guid>
+            <pubDate>Tue, 11 Jan 2022 06:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[딸기에 빠진 게 죄는 아니잖아~ 안 먹는 게 죄 일뿐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/6d26eb20-351d-4517-b812-cfb120d4a894.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<오징어 게임>오영수, 한국 배우 최초로 골든글로브 남우조연상 수상 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 10 Jan 2022 04:13:51 GMT</pubDate>
             <content:encoded><![CDATA[‘솔로지옥’ 천국도 만큼 아름다운 섬에 있는 럭셔리 호텔 4]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/e5e46574-4363-43ca-924e-f11ad32cb175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['산알못'을 위한 지침서, 언니들은 왜 산으로 갔을까? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62727</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62727</guid>
-            <pubDate>Mon, 10 Jan 2022 03:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 등산 하면 한숨부터 나오는 모든 ‘산알못’을 위해 코스모가 대신 물었다. 언니들, 대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/97ec934e-2444-4681-8fcc-8f8a8af01817.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니멀하고 지속 가능한 뷰티 습관, 클린뷰티 어디까지 알고 있나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
