@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 14:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 15:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범이 소주 브랜드를 만들었다고? 호랑이 기운 가득한 핫한 소식 다 모았다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62883</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62883</guid>
+            <pubDate>Wed, 12 Jan 2022 15:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 임인년 새해, 호랑이 기운 가득한 라이프스타일 소식! #코스모라이프]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/877f43a2-1c41-400a-93dc-40b218509347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 <에밀리 파리에 가다> 매력녀 민디! 미국계 한국인 애슐리 박 모르면 섭섭해~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62882</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 07:11:15 GMT</pubDate>
             <content:encoded><![CDATA[‘순천만’ 만 아는 당신께,,, 님아 그곳만 가지 마오.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/76597d7b-4d48-4aab-a36e-7c2408787a35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울의 또다른 이름이 ‘딸기’가 아니었던가? 서울 딸기 디저트 맛집 추천 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62839</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62839</guid>
-            <pubDate>Tue, 11 Jan 2022 06:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[딸기에 빠진 게 죄는 아니잖아~ 안 먹는 게 죄 일뿐.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/6d26eb20-351d-4517-b812-cfb120d4a894.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
