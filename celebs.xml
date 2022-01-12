@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 <에밀리 파리에 가다> 매력녀 민디! 미국계 한국인 애슐리 박 모르면 섭섭해~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62882</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62882</guid>
+            <pubDate>Wed, 12 Jan 2022 09:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[민디의 시작 담피피 패션에서 애슐리 박 사복 패션까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/38d856e2-b4c1-43e0-b20f-410833f52ad2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차예련 ♥ 주상욱, 올해로 6년차 부부의 달~달한 럽스타 근황!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62877</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
             <content:encoded><![CDATA[옷장까지 공유하는 사이?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e660af21-acac-476d-88ca-17f276aaa96a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈에서 꿀이 뚝뚝!<솔로지옥>∙<돌싱글즈2>등 지금 가장 달달한 커플4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62847</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62847</guid>
-            <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[얘들아 잘 봐, 언니들 연애다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/a78d8c5c-9c2e-4615-b453-02e38bb5c565.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

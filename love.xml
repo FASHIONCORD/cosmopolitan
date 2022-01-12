@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[번호 따는 방...? 카카오톡 오픈채팅 ‘번따방’이 실제로 존재한다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62705</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62705</guid>
+            <pubDate>Wed, 12 Jan 2022 09:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[길에서 번호도 못 주는 세상! 번호 따는 게 왜? 문제는 그 다음이었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/07fb781b-881f-439f-9e61-347a0738a8dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SNL 인턴 기자 주현영이 코스모폴리탄 인턴 에디터로 등장한 이유는? '일찍이들' 본캐 다 파헤침...]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62703</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 05 Jan 2022 03:12:42 GMT</pubDate>
             <content:encoded><![CDATA[*스포주의* 로꼬X이하이와 청량한 라거에 과즙이 더해진 타이거라들러의 협업, 티저를 살짝 선...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/9126ac61-a864-481f-aa4a-7c59082c8f3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀리데이엔 섹스로 챙겨야지! 침대 위의 연기자, 올해는 나야 나!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62372</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62372</guid>
-            <pubDate>Mon, 27 Dec 2021 03:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[사랑하는 사람이라면 어떤 섹스들 안좋겠냐마는 섹스도 홀리데이를 챙기면 좋잖아? 언니들의 이벤...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/025f35d6-bae2-4e01-9e79-84ac727b8776.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄까지 킹정한 ‘스걸파’ 댄서들의 찐 젠지 룩이 궁금해?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62873</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62873</guid>
+            <pubDate>Wed, 12 Jan 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 RM, 정국의 애정공세로 종영 후에도 열기가 식지 않는 스걸파 앓이~ BTS의 마...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/2319ec99-b9a5-480f-be9d-180a0ebc5458.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영♥마이큐 커플 패션 탐구! 사랑스러운 패피 둘의 만남]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62865</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 06:12:33 GMT</pubDate>
             <content:encoded><![CDATA[포근해, 따뜻해, 귀여워! 한번 빠지면 헤어날 수 없는 패딩의 매력.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/0b18396f-b4da-45fb-9979-d0edf8b11344.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호랑이 띠의 해! 타이거 모티브 아이템을 소개합니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62802</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62802</guid>
-            <pubDate>Mon, 10 Jan 2022 05:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[“호랑이 기운이 솟아나요!” 2022년의 띠 동물 호랑이의 파워풀한 에너지와 카리스마를 간직...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/08/36ca9e5c-e541-4c73-b433-f8a6ffe02560.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
