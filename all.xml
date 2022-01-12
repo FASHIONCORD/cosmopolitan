@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 06:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfNTcg/MDAxNjM5OTk4MjMzMjQw.r1_bAzYxPIELaONYApkhc_QSR45wHK9CSoE4HnbRucUg.5LjQJSmJOhL6bOQJx0jMQ0nuOvsfETn6dqbZn8noaggg.JPEG/IDOb3DwvsDuXe9D1mZTXKSsnbh1c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김나영♥마이큐 커플 패션 탐구! 사랑스러운 패피 둘의 만남 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62865</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[옷장까지 공유하는 사이?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e660af21-acac-476d-88ca-17f276aaa96a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단 '뷔'가 직접 디자인한 가방과 브로치라고?! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62838</link>
             <guid>https://www.cosmopolitan.co.kr/article/62838</guid>
@@ -222,14 +230,6 @@
             <pubDate>Mon, 10 Jan 2022 05:13:17 GMT</pubDate>
             <content:encoded><![CDATA[“호랑이 기운이 솟아나요!” 2022년의 띠 동물 호랑이의 파워풀한 에너지와 카리스마를 간직...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/08/36ca9e5c-e541-4c73-b433-f8a6ffe02560.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운동은 장비 빨! 차정원∙한선화∙고민시∙손나은의 운동복 스타일링 모음 ZIP (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62737</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62737</guid>
-            <pubDate>Mon, 10 Jan 2022 04:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[신년 계획이 운동이라면 먼저 운동복을 사야겠죠?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/c8c7299b-90a3-4c57-a113-3381918f1950.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클린 성분 백과사전! 수많은 전문가의 검증을 거친 클린 성분은 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,6 +296,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/8a33f324-4338-4241-9b3b-43d82b51040c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차예련 ♥ 주상욱, 올해로 6년차 부부의 달~달한 럽스타 근황! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62877</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62877</guid>
+            <pubDate>Wed, 12 Jan 2022 06:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이런게 바로 찐사랑~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/bd80a404-b5e1-4087-bde9-f54cdf1c5183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 강예원, <솔로지옥> 송지아의 매니저로 전환? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62876</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62876</guid>
+            <pubDate>Wed, 12 Jan 2022 06:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;전참시&gt; 에서 어떤 모습으로 등장할지 주목!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/aa5a4098-e1d0-4636-872a-1e1f72fca7f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[본캐 연예인 부캐 화가인 솔비∙송민호∙하정우∙하지원∙박기웅 이들이 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62874</link>
             <guid>https://www.cosmopolitan.co.kr/article/62874</guid>
@@ -342,22 +358,6 @@
             <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
             <content:encoded><![CDATA[얘들아 잘 봐, 언니들 연애다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/a78d8c5c-9c2e-4615-b453-02e38bb5c565.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘갓기’란 바로 이런 것! 압도적 비주얼의 4세대 여돌 막냉이 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62845</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62845</guid>
-            <pubDate>Tue, 11 Jan 2022 05:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[완벽하다 완벽해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/d2b80674-093c-4fb8-9a9c-c6f7c506c3b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '뷔'가 직접 디자인한 가방과 브로치라고?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62838</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62838</guid>
-            <pubDate>Tue, 11 Jan 2022 03:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[예술적 감각 충만한 방탄 뷔의 아티스트 메이드 컬렉션 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/889b10b8-3859-482c-9cb6-55981ba2afb2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SNL 인턴 기자 주현영이 코스모폴리탄 인턴 에디터로 등장한 이유는? '일찍이들' 본캐 다 파헤침... (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/025f35d6-bae2-4e01-9e79-84ac727b8776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[겨울 갬성 채워주는 서울의 고즈넉한 산책로들 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62878</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62878</guid>
+            <pubDate>Wed, 12 Jan 2022 06:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[나 지금 CM해~ 겨울 감성 채워줄 서울의 핫플 옆 산책로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/008fa825-8062-4a9c-bb4b-db1d61ea77b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LBTI라고 들어봤어? 사랑의 MBTI를 유형별로 분석했다! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62859</link>
             <guid>https://www.cosmopolitan.co.kr/article/62859</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 10 Jan 2022 08:16:31 GMT</pubDate>
             <content:encoded><![CDATA[웅… 웅아!!!!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/4e755a1e-a63e-4c15-a5df-1a67b968812c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덕수궁 돌담 길을 걸으면 헤어진다? 이젠 #럽스타그램 가능한 ‘서순라길’ (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62828</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62828</guid>
-            <pubDate>Mon, 10 Jan 2022 07:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[덕수궁 돌담길을 걸으면 헤어진다는 징크는 라떼 시절 얘기! 종묘 서쪽 담장 따라 서순라길을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e4fdcd32-d267-409a-b7b7-a3b6c9382a8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니멀하고 지속 가능한 뷰티 습관, 클린뷰티 어디까지 알고 있나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

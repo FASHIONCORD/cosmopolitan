@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 06:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영♥마이큐 커플 패션 탐구! 사랑스러운 패피 둘의 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62865</guid>
+            <pubDate>Wed, 12 Jan 2022 06:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[옷장까지 공유하는 사이?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e660af21-acac-476d-88ca-17f276aaa96a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 '뷔'가 직접 디자인한 가방과 브로치라고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62838</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 05:13:17 GMT</pubDate>
             <content:encoded><![CDATA[“호랑이 기운이 솟아나요!” 2022년의 띠 동물 호랑이의 파워풀한 에너지와 카리스마를 간직...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/08/36ca9e5c-e541-4c73-b433-f8a6ffe02560.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운동은 장비 빨! 차정원∙한선화∙고민시∙손나은의 운동복 스타일링 모음 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62737</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62737</guid>
-            <pubDate>Mon, 10 Jan 2022 05:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[신년 계획이 운동이라면 먼저 운동복을 사야겠죠?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/c8c7299b-90a3-4c57-a113-3381918f1950.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
