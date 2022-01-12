@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 00:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 02:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LBTI라고 들어봤어? 사랑의 MBTI를 유형별로 분석했다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62859</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62859</guid>
+            <pubDate>Wed, 12 Jan 2022 02:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[아플 때 약과 죽을 사다 주고는 떠나는 애인, 혹은 빈손일지언정 하루 종일 곁을 지키는 애인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e3e051ec-905e-47eb-aead-98200a682d18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈에서 꿀이 뚝뚝!<솔로지옥>∙<돌싱글즈2>등 지금 가장 달달한 커플4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62847</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 07:18:12 GMT</pubDate>
             <content:encoded><![CDATA[덕수궁 돌담길을 걸으면 헤어진다는 징크는 라떼 시절 얘기! 종묘 서쪽 담장 따라 서순라길을 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e4fdcd32-d267-409a-b7b7-a3b6c9382a8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[질투하는 남친이 위험한 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62775</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62775</guid>
-            <pubDate>Mon, 10 Jan 2022 07:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
