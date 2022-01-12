@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 02:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/8a33f324-4338-4241-9b3b-43d82b51040c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[본캐 연예인 부캐 화가인 솔비∙송민호∙하정우∙하지원∙박기웅 이들이 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62874</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62874</guid>
+            <pubDate>Wed, 12 Jan 2022 03:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[투잡러? 아니구 아트테이너~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/edd0e35f-3aa0-448d-80e0-eb3181cf929e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄까지 킹정한 ‘스걸파’ 댄서들의 찐 젠지 룩이 궁금해? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62873</link>
             <guid>https://www.cosmopolitan.co.kr/article/62873</guid>
@@ -350,14 +358,6 @@
             <pubDate>Tue, 11 Jan 2022 03:13:45 GMT</pubDate>
             <content:encoded><![CDATA[예술적 감각 충만한 방탄 뷔의 아티스트 메이드 컬렉션 공개!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/889b10b8-3859-482c-9cb6-55981ba2afb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오징어 게임>오영수, 한국 배우 최초로 골든글로브 남우조연상 수상 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62835</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62835</guid>
-            <pubDate>Mon, 10 Jan 2022 19:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[우리 깐부잖아~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/68e991f2-2c29-46d3-93ed-79e1f9024580.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SNL 인턴 기자 주현영이 코스모폴리탄 인턴 에디터로 등장한 이유는? '일찍이들' 본캐 다 파헤침... (코스모폴리탄 코리아 ─ 러브)]]></title>
