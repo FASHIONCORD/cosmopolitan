@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 14:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정신차려! 작심삼일 다이어트엔 팩폭이 답이지]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62905</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62905</guid>
+            <pubDate>Thu, 13 Jan 2022 15:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[올해도 다이어트는 작심삼일? 느슨해지기 전에 지민, 수지, 송민호, 옥주현 한혜진의 다이어트...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/3071b373-6f58-4964-8075-df5b567253f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안재현∙송강∙정해인, 완깐머리 하고 순둥이 이미지 탈피한 남배우들?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62866</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 02:01:39 GMT</pubDate>
             <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/46f8482e-e0e5-421a-aff7-9b1e8cc89383.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구 환경을 생각하는 클린 뷰티 뉴비 레이블이 궁금하다면 드루와~.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62811</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62811</guid>
-            <pubDate>Mon, 10 Jan 2022 18:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 삶과 지구환경에 대한 의식을 전제로 하는 클린 뷰티 뉴비 레이블이 궁금하다면 드루와~...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/d5cef82d-1a9d-4719-82ad-7e97d8145052.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
