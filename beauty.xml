@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 00:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘갓기’란 바로 이런 것! 압도적 비주얼의 4세대 여돌 막냉이 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62845</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62845</guid>
+            <pubDate>Thu, 13 Jan 2022 02:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[완벽하다 완벽해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/d2b80674-093c-4fb8-9a9c-c6f7c506c3b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BEAUTY NEW YEAR! 2022 꼭 기억해야 할 뷰티 키워드는 무엇?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62825</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 09 Jan 2022 18:12:49 GMT</pubDate>
             <content:encoded><![CDATA[호랑이해의 에너지를 가득 담은 강렬한 레드 컬러의 뉴 이어 컬렉션!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/17a978a5-e1ed-4e8b-8bc4-8ebbc6d61d21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축구선수 황의조와 열애중인 효민, ‘헉’소리 나는 대 환장 몸매 혹시 CG?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62736</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62736</guid>
-            <pubDate>Sun, 09 Jan 2022 18:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[국보급 몸매를 자랑하는 효민의 비결은 운동, 운동, 또 운동!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/feed79ae-10c1-4c85-9b59-b33eeb34b715.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 00:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몬스타엑스∙SF9∙에이티즈 와 나 혼자 결혼하고 나 혼자 이혼했습니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62903</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62903</guid>
+            <pubDate>Thu, 13 Jan 2022 02:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[혼자서 상상 드라마 한 편 뚝딱하게 만드는 무드 장인 남돌 3인의 기억 조작 모먼트! 은은한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/a376b52e-bc8d-404d-99e4-0d75e5b25753.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박재범이 소주 브랜드를 만들었다고? 호랑이 기운 가득한 핫한 소식 다 모았다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62883</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62883</guid>
+            <pubDate>Thu, 13 Jan 2022 02:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 임인년 새해, 호랑이 기운 가득한 라이프스타일 소식! #코스모라이프]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/877f43a2-1c41-400a-93dc-40b218509347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 <에밀리 파리에 가다> 매력녀 민디! 미국계 한국인 애슐리 박 모르면 섭섭해~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62882</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 07:10:23 GMT</pubDate>
             <content:encoded><![CDATA[뉴스를 뒤집어 놓은 아이돌, 래퍼, 배우의 정체는?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/ae4b8a6b-3cfb-495c-b956-e2481a642fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안재현∙송강∙정해인, 완깐머리 하고 순둥이 이미지 탈피한 남배우들?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62866</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62866</guid>
-            <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[덮머리vs깐머리, 앞머리 따라 온도 차이 확 나는 천의 얼굴들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/7c7b55d9-9de3-409e-8400-0f51408820f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영♥마이큐 커플 패션 탐구! 사랑스러운 패피 둘의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62865</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62865</guid>
-            <pubDate>Tue, 11 Jan 2022 06:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[옷장까지 공유하는 사이?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e660af21-acac-476d-88ca-17f276aaa96a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
