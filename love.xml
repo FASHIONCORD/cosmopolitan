@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 02:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[질투하는 남친이 위험한 이유]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62775</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62775</guid>
+            <pubDate>Thu, 13 Jan 2022 03:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[번호 따는 방...? 카카오톡 오픈채팅 ‘번따방’이 실제로 존재한다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62705</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 05 Jan 2022 04:18:20 GMT</pubDate>
             <content:encoded><![CDATA[&lt;그 해 우리는&gt; 속 ‘연수’는 버거운 현실 때문에 여전히 사랑하는 ‘웅’에게 어쩔 수 없이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/8e59c66c-93be-489a-9933-dd757ad27f93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 기념, 타이거라들러와 함께 인간레몬과 자몽으로 변신한 아티스트는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62446</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62446</guid>
-            <pubDate>Wed, 05 Jan 2022 03:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[*스포주의* 로꼬X이하이와 청량한 라거에 과즙이 더해진 타이거라들러의 협업, 티저를 살짝 선...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/9126ac61-a864-481f-aa4a-7c59082c8f3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

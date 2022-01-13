@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 02:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두피의 노화 속도는 얼굴 피부보다 6배 빠르다고?! 두피 고민 순삭해줄 헤어 샴푸 모음ZIP!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62861</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62861</guid>
+            <pubDate>Thu, 13 Jan 2022 03:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[두피의 노화 속도는 얼굴 피부보다 약 6배 빠르다는 사실을 아는지! 그동안 간과했지만 두피도...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/09067864-c406-4782-9d9b-673729fc5bdc.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[‘갓기’란 바로 이런 것! 압도적 비주얼의 4세대 여돌 막냉이 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62845</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 09 Jan 2022 18:12:49 GMT</pubDate>
             <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/c901b10f-2237-49b1-b832-fab8bf79b764.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착하다 착해! 그 누구보다 환경에 찐심인 에코 패키지의 코스메틱은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62767</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62767</guid>
-            <pubDate>Sun, 09 Jan 2022 18:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[호랑이해의 에너지를 가득 담은 강렬한 레드 컬러의 뉴 이어 컬렉션!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/17a978a5-e1ed-4e8b-8bc4-8ebbc6d61d21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
