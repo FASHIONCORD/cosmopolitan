@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 08:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 09:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안재현∙송강∙정해인, 완깐머리 하고 순둥이 이미지 탈피한 남배우들?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62866</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62866</guid>
+            <pubDate>Thu, 13 Jan 2022 09:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[덮머리vs깐머리, 앞머리 따라 온도 차이 확 나는 천의 얼굴들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/7c7b55d9-9de3-409e-8400-0f51408820f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년, ‘인간 에코’가 되고 싶다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62864</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 18:12:52 GMT</pubDate>
             <content:encoded><![CDATA[건강한 삶과 지구환경에 대한 의식을 전제로 하는 클린 뷰티 뉴비 레이블이 궁금하다면 드루와~...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/d5cef82d-1a9d-4719-82ad-7e97d8145052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진정성 있는 뷰티 패러다임으로 대중화 기로에 선 클린 뷰티, A to Z!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62801</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62801</guid>
-            <pubDate>Mon, 10 Jan 2022 08:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[피부 건강은 물론 동물과 지구환경을 위한 바른 선택! 윤리적 소비를 위한 코스모식 클린 큐레...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/08/13ac1017-cfb6-49df-bf13-27ee8469be31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
