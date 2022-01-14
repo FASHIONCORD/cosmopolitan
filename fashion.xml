@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 14:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 15:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스파이더맨의 그녀, 젠데이아 패션 파헤치기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62940</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62940</guid>
+            <pubDate>Fri, 14 Jan 2022 15:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[이 시대의 쿨 걸, 레드 카펫 룩의 신흥 강자 젠데이아 콜먼! 패션도 애티튜드도 사랑스러운 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/eefa80b4-689d-40c5-94ad-d7892a742d72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에디터가 알려주는 코트 따뜻하게 입는 노하우]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62939</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62939</guid>
+            <pubDate>Fri, 14 Jan 2022 15:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[포근해, 따뜻해, 귀여워! 한번 빠지면 헤어날 수 없는 패딩의 매력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/a6ba624e-3e62-4b5d-9750-948895ee0c41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐, 언니 명품 백 샀다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62922</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 12 Jan 2022 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단 RM, 정국의 애정공세로 종영 후에도 열기가 식지 않는 스걸파 앓이~ BTS의 마...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/2319ec99-b9a5-480f-be9d-180a0ebc5458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영♥마이큐 커플 패션 탐구! 사랑스러운 패피 둘의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62865</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62865</guid>
-            <pubDate>Wed, 12 Jan 2022 06:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[옷장까지 공유하는 사이?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e660af21-acac-476d-88ca-17f276aaa96a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 '뷔'가 직접 디자인한 가방과 브로치라고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62838</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62838</guid>
-            <pubDate>Tue, 11 Jan 2022 15:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[예술적 감각 충만한 방탄 뷔의 아티스트 메이드 컬렉션 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/889b10b8-3859-482c-9cb6-55981ba2afb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
