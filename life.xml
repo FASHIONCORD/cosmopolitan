@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 13:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 15:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잠 각! 떡 실신 시켜주는 불면증 지뢰 밭, 백색 소음 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62911</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62911</guid>
+            <pubDate>Sun, 16 Jan 2022 15:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[요즘의 숙면 트렌드? 불면증에 시달리거나, 자다가 자주 깬다면, 다양한 주제로 확장된 엄청난...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/142eb246-ba15-4a2c-a194-7233557fc185.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBC 퇴사하는 김태호 PD, 이효리와 예능 시작한다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62909</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Jan 2022 02:41:38 GMT</pubDate>
             <content:encoded><![CDATA[아플 때 약과 죽을 사다 주고는 떠나는 애인, 혹은 빈손일지언정 하루 종일 곁을 지키는 애인...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e3e051ec-905e-47eb-aead-98200a682d18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈에서 꿀이 뚝뚝!<솔로지옥>∙<돌싱글즈2>등 지금 가장 달달한 커플4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62847</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62847</guid>
-            <pubDate>Tue, 11 Jan 2022 08:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[얘들아 잘 봐, 언니들 연애다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/a78d8c5c-9c2e-4615-b453-02e38bb5c565.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
