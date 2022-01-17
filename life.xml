@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 13:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 15:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해에 가장 인상 깊게 본 인터넷 콘텐츠는? 솔직한 와이파이 독후감]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63012</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63012</guid>
+            <pubDate>Mon, 17 Jan 2022 15:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[왜 책이나 영화만 독후감을 쓸까? 그보다는 SNS와 유튜브를 통해 순간순간 영감받고 생각의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/84d31200-e3b6-4a8d-9edd-1c1bc7c85469.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대기원 사원이 퇴사 전에 본전 찾는 법은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62992</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Jan 2022 15:13:30 GMT</pubDate>
             <content:encoded><![CDATA[파이 하면 뭐가 떠오르나? 맥도날드에서 먹던 애플파이? 바닐라 아이스크림 한 스쿱 올려 먹는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/3394728d-26d2-4775-87cf-276eac0b09e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범이 소주 브랜드를 만들었다고? 호랑이 기운 가득한 핫한 소식 다 모았다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62883</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62883</guid>
-            <pubDate>Wed, 12 Jan 2022 15:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 임인년 새해, 호랑이 기운 가득한 라이프스타일 소식! #코스모라이프]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/877f43a2-1c41-400a-93dc-40b218509347.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
