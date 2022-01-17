@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 06:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 07:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출근 룩으로 딱! <그 해 우리는> 김다미 패션 파헤치기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63019</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63019</guid>
+            <pubDate>Mon, 17 Jan 2022 07:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[국연수 팀장님만 따라하면 센스 있는 오피스 룩 쌉가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/e4373d7a-e1dc-441b-898e-5862c5cf94d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SFDF 2년 연속 수상! 디자이너 강혁 듀오를 만나다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63014</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 15 Jan 2022 15:09:01 GMT</pubDate>
             <content:encoded><![CDATA[진주 목걸이, 이제는 힙한 패션아이템!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/1ca0dfb2-7304-43c7-9466-012f7f473b99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이더맨의 그녀, 젠데이아 패션 파헤치기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62940</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62940</guid>
-            <pubDate>Fri, 14 Jan 2022 15:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[이 시대의 쿨 걸, 레드 카펫 룩의 신흥 강자 젠데이아 콜먼! 패션도 애티튜드도 사랑스러운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/eefa80b4-689d-40c5-94ad-d7892a742d72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
