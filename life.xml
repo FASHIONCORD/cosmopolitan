@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 03:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 04:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지영아, 네가 거기서 왜 나와? <세서미 스트리트> '지영이'가 누군데!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62937</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62937</guid>
+            <pubDate>Mon, 17 Jan 2022 04:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;세서미 스트리트&gt; 52년 역사상 최초의 아시안 캐릭터 ‘Ji-Young’이 누구냐면….]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/66706dc1-ff41-4464-ab9d-acd0b2fee0e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만의 고요의 바다를 찾고 싶다면? 신상 오션뷰 카페 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62927</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62927</guid>
+            <pubDate>Mon, 17 Jan 2022 04:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[고요한 바다는 오션뷰에서 찾을 수 있다고! 심연처럼 깊은 감동을 선사하는 신상 카페 당장 입...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/d35f939f-8485-4778-bbfd-3367c90043cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀잠 각! 떡 실신 시켜주는 불면증 지뢰 밭, 백색 소음 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62911</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 12 Jan 2022 07:11:17 GMT</pubDate>
             <content:encoded><![CDATA[코로나때매, 흉흉한 민심때매, 너도 나도 다 아프다. 이럴때 지친 우리의 심신을 위로해주는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/51a4d384-b3dc-4033-affd-90030a8005eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 갬성 채워주는 서울의 고즈넉한 산책로들 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62878</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62878</guid>
-            <pubDate>Wed, 12 Jan 2022 06:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[나 지금 CM해~ 겨울 감성 채워줄 서울의 핫플 옆 산책로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/008fa825-8062-4a9c-bb4b-db1d61ea77b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LBTI라고 들어봤어? 사랑의 MBTI를 유형별로 분석했다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62859</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62859</guid>
-            <pubDate>Wed, 12 Jan 2022 02:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[아플 때 약과 죽을 사다 주고는 떠나는 애인, 혹은 빈손일지언정 하루 종일 곁을 지키는 애인...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/e3e051ec-905e-47eb-aead-98200a682d18.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
