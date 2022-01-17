@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 04:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차예련 ♥ 주상욱, 올해로 6년차 부부의 달~달한 럽스타 근황!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62877</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62877</guid>
+            <pubDate>Mon, 17 Jan 2022 05:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[이런게 바로 찐사랑~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/bd80a404-b5e1-4087-bde9-f54cdf1c5183.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해에는 꼭... 초 2개와 설탕으로 소원을 비는 방법이 있다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62796</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 07 Jan 2022 08:13:42 GMT</pubDate>
             <content:encoded><![CDATA[유튜버 a.k.a 셀럽 프리지아가 출연한 넷플릭스의 데이팅 예능 &lt;솔로지옥&gt;. 눈부신 외모뿐...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/e56ecaf6-1b97-4457-96a6-013828bc5066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 살 더 먹으면 서른?! 스물아홉 영화 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62466</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62466</guid>
-            <pubDate>Wed, 05 Jan 2022 05:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[라떼킹 로코 &lt;싱글즈&gt;부터 요즘 연애 영화 &lt;연애 빠진 로맨스&gt;까지, 스물아홉을 위로하는 영...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/7133b776-b9dd-4e89-97f1-ab3bc2e6728d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
