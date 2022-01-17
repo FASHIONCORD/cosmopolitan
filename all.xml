@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 09:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 10:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/29/e56ecaf6-1b97-4457-96a6-013828bc5066.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대기원 사원이 퇴사 전에 본전 찾는 법은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62992</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62992</guid>
+            <pubDate>Mon, 17 Jan 2022 10:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[남들피셜 ‘그 좋은 대기업’을 그만두고 프리랜서가 되고 나니, “그래도 큰 회사 한 번쯤은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/15/55a4ddf0-b853-4c97-b20e-87bbf8fa711d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코스모폴리탄이 노티드의 '슈가베어' 인터뷰를 해봤습니다! 슈가베어 피셜 K-도넛 노티드의 정체는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62969</link>
             <guid>https://www.cosmopolitan.co.kr/article/62969</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 12 Jan 2022 15:15:41 GMT</pubDate>
             <content:encoded><![CDATA[2022년 임인년 새해, 호랑이 기운 가득한 라이프스타일 소식! #코스모라이프]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/877f43a2-1c41-400a-93dc-40b218509347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 <에밀리 파리에 가다> 매력녀 민디! 미국계 한국인 애슐리 박 모르면 섭섭해~ (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62882</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62882</guid>
-            <pubDate>Wed, 12 Jan 2022 09:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[민디의 시작 담피피 패션에서 애슐리 박 사복 패션까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/38d856e2-b4c1-43e0-b20f-410833f52ad2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 코시국 속 외로움을 느낀 적 있다? 없다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
