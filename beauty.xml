@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 05:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 06:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 코스모 뷰티 어워즈, 1위의 타이틀을 차지한 베스트 오브 베스트 뷰티템은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62968</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62968</guid>
+            <pubDate>Tue, 18 Jan 2022 06:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/87308ebb-11f2-478c-8efc-bdd38a8c654e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발렌타인데이 선물은 너야 너!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62960</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Jan 2022 07:10:23 GMT</pubDate>
             <content:encoded><![CDATA[친환경은 이제 선택이 아닌 필수! 텀블러와 에코백을 사용하는 것 말고 쉽고 간편하게 참여 가...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/a1d369c2-1cfa-4233-a7af-ef161d4bb0fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두피의 노화 속도는 얼굴 피부보다 6배 빠르다고?! 두피 고민 순삭해줄 헤어 샴푸 모음ZIP!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62861</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62861</guid>
-            <pubDate>Thu, 13 Jan 2022 03:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[두피의 노화 속도는 얼굴 피부보다 약 6배 빠르다는 사실을 아는지! 그동안 간과했지만 두피도...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/09067864-c406-4782-9d9b-673729fc5bdc.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
