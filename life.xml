@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 10:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 12:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳∙몬스타엑스∙위키미키∙세븐틴이 갑자기 전시회에 나타났다고? “몰랐는데,,, 나 ‘ART’ 좋아하네?”]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63041</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63041</guid>
+            <pubDate>Tue, 18 Jan 2022 12:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[이번 방학 혹은 주말, 아이돌들의 시선을 훔친 전시회에서 예술과 문화 충전을 계획해 보는 건...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/c0f071b1-c520-476d-b062-fedae71a0d11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS RM이 다녀가 '돈쭐'이 난 비스킷 맛집 카페가 어딘데?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63024</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 17 Jan 2022 04:15:22 GMT</pubDate>
             <content:encoded><![CDATA[고요한 바다는 오션뷰에서 찾을 수 있다고! 심연처럼 깊은 감동을 선사하는 신상 카페 당장 입...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/d35f939f-8485-4778-bbfd-3367c90043cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잠 각! 떡 실신 시켜주는 불면증 지뢰 밭, 백색 소음 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62911</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62911</guid>
-            <pubDate>Sun, 16 Jan 2022 15:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[요즘의 숙면 트렌드? 불면증에 시달리거나, 자다가 자주 깬다면, 다양한 주제로 확장된 엄청난...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/142eb246-ba15-4a2c-a194-7233557fc185.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
