@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 23:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:05:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송희수∙리안∙가비∙배윤영의 반짝이는 치아의 비밀은 무엇?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62953</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62953</guid>
+            <pubDate>Tue, 18 Jan 2022 02:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[누가누가 어떤 투스젬을 했을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/3dab9844-91a4-47c4-8ebe-ee638fec88b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연∙현아∙지효∙위키미키 최유정의 속 보이는 겨울 네일 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62947</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Jan 2022 02:03:32 GMT</pubDate>
             <content:encoded><![CDATA[완벽하다 완벽해!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/d2b80674-093c-4fb8-9a9c-c6f7c506c3b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEAUTY NEW YEAR! 2022 꼭 기억해야 할 뷰티 키워드는 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62825</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62825</guid>
-            <pubDate>Wed, 12 Jan 2022 07:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[장기화로 이어진 팬데믹 사태가 뷰티 시장에 예상치 못한 변수를 만들었고, 이는 2022년에도...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/3e684f91-7422-4586-8f09-5cad570d105d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
