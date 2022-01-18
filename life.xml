@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 02:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 04:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출근 룩으로 딱! <그 해 우리는> 김다미 패션 파헤치기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63019</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63019</guid>
+            <pubDate>Tue, 18 Jan 2022 04:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[국연수 팀장님만 따라하면 센스 있는 오피스 룩 쌉가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/e4373d7a-e1dc-441b-898e-5862c5cf94d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해에 가장 인상 깊게 본 인터넷 콘텐츠는? 솔직한 와이파이 독후감]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63012</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 14 Jan 2022 20:12:27 GMT</pubDate>
             <content:encoded><![CDATA[놀면뭐하니?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/a490d93d-a509-4624-92d0-835e5e0022d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 런 각? 쩝쩝박사에게 찜콩당한 파이 맛집!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62901</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62901</guid>
-            <pubDate>Thu, 13 Jan 2022 15:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[파이 하면 뭐가 떠오르나? 맥도날드에서 먹던 애플파이? 바닐라 아이스크림 한 스쿱 올려 먹는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/3394728d-26d2-4775-87cf-276eac0b09e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

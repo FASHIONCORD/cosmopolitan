@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 02:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 04:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발렌타인데이 선물은 너야 너!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62960</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62960</guid>
+            <pubDate>Tue, 18 Jan 2022 04:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[다가오는 발렌타인데이 선물을 미리 고민하는 여친이라면 과몰입주의!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/ca56095e-de6a-48e2-8107-cbfb6abc6a08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송희수∙리안∙가비∙배윤영의 반짝이는 치아의 비밀은 무엇?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62953</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Jan 2022 03:12:55 GMT</pubDate>
             <content:encoded><![CDATA[두피의 노화 속도는 얼굴 피부보다 약 6배 빠르다는 사실을 아는지! 그동안 간과했지만 두피도...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/09067864-c406-4782-9d9b-673729fc5bdc.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[‘갓기’란 바로 이런 것! 압도적 비주얼의 4세대 여돌 막냉이 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62845</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62845</guid>
-            <pubDate>Thu, 13 Jan 2022 02:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[완벽하다 완벽해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/d2b80674-093c-4fb8-9a9c-c6f7c506c3b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
