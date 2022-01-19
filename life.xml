@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 16:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔직히 평범한 건 죄 아닌가? 서울 이색 파스타 맛집 모음 ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63112</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63112</guid>
+            <pubDate>Wed, 19 Jan 2022 16:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘고등어 파스타’ 부터 ‘참나물 파스타’ 까지! 독특한데 또 맛있단 말이지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/7e9d220f-3d0a-4847-b216-f852986d3add.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 여기가 핫하다던데?! 부산 ‘전포동’ 신상 핫플 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63111</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 07:12:37 GMT</pubDate>
             <content:encoded><![CDATA[제 3회 볼드 우먼 어워드 코리아 2021 수상자가 베일을 벗었다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/01d65511-3e71-4095-b97b-41845318a13b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 이름으로 활동하는 외국 일러스트 작가 '예솔'이가 그린 그림은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63051</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63051</guid>
-            <pubDate>Wed, 19 Jan 2022 04:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[‘예솔’이라는 한국 이름으로 활동하는 일러스트 작가, 코리 페더. 그는 때수건, 한복, 고려...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/2b61c915-e873-4bb9-b989-7dd95563bc13.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

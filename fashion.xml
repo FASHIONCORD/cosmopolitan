@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 16:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남친한테 풀착하고 싶은 <그 해 우리는> 속 최우식 손민수템 모음.zip]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63079</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63079</guid>
+            <pubDate>Wed, 19 Jan 2022 16:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[남친룩의 정석! 최우식의 설렘사 주의 스타일이 궁금하다면?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/cae28fdb-22d0-47e1-909a-ae8ad404263b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니, 리사, 윤아의 컬러풀한 겨울 니트 PICK은?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63078</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Jan 2022 07:10:14 GMT</pubDate>
             <content:encoded><![CDATA[빠르게 유연해지고 있는 근무 형태만큼 오피스 룩도 변화할 예정이다. 포스트 코로나 시대에는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/cf9f8e38-db0a-4df6-b791-86a5db415575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스탈∙예리∙제니∙카리나∙선미가 픽! 한 이번 겨울 트렌드 무스탕패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63043</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63043</guid>
-            <pubDate>Tue, 18 Jan 2022 04:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[패딩, 코트가 지겹다면, 무스탕은 어떠세요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/c598f790-599e-44e1-8e44-f771bebb1dd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
