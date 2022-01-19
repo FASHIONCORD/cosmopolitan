@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 05:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 06:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,20 +192,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/61b566a9-b0e5-4e53-a7f1-80d3343b9840.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일상에서도 입을 수 있는 스포츠 웨어 패션 5 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63052</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63052</guid>
-            <pubDate>Tue, 18 Jan 2022 07:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[빠르게 유연해지고 있는 근무 형태만큼 오피스 룩도 변화할 예정이다. 포스트 코로나 시대에는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/9c8d7ce7-b954-48f0-a1de-98edff953248.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오피스에서도 쿨하고 편한 '워크레저 룩'이 대세! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63053</link>
             <guid>https://www.cosmopolitan.co.kr/article/63053</guid>
             <pubDate>Tue, 18 Jan 2022 07:10:14 GMT</pubDate>
             <content:encoded><![CDATA[빠르게 유연해지고 있는 근무 형태만큼 오피스 룩도 변화할 예정이다. 포스트 코로나 시대에는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/cf9f8e38-db0a-4df6-b791-86a5db415575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상에서도 입을 수 있는 스포츠 웨어 패션 5 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63052</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63052</guid>
+            <pubDate>Tue, 18 Jan 2022 07:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[빠르게 유연해지고 있는 근무 형태만큼 오피스 룩도 변화할 예정이다. 포스트 코로나 시대에는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/9c8d7ce7-b954-48f0-a1de-98edff953248.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스탈∙예리∙제니∙카리나∙선미가 픽! 한 이번 겨울 트렌드 무스탕패션 (코스모폴리탄 코리아 ─ 패션)]]></title>
