@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 23:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 목표가 꼭 ‘다이어트 성공’이라면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63073</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63073</guid>
+            <pubDate>Wed, 19 Jan 2022 01:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[바쁘고 바쁜 현대사회 속 우리, 시간과 돈이 들어가는 계획보다, ‘투자’도 ‘투지’도 없이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/0993f34d-9203-4e94-858b-17909eee20bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샴페인 하우스 뵈브 클리코가 선정한 2021 대담한 한국 여성은 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63071</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Jan 2022 06:12:11 GMT</pubDate>
             <content:encoded><![CDATA[3명의 왁커와 2명의 락커로 구성된 K.L.W.C(Korea Locking Waacking ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/3b4eec31-5615-4cab-8b3b-2874e2efc7e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 보고 싶었던 스트릿댄스, 이거! 뉴니온 완전체 화보]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63058</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63058</guid>
-            <pubDate>Tue, 18 Jan 2022 06:12:11 GMT</pubDate>
-            <content:encoded><![CDATA["도발하거나 위협하는 건 못해요" 순둥말랑콩떡 재질, 준우승 팀 뉴니온의 뚝심.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/a6d5ca67-9bc1-4462-ab0f-d6ed33a44407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
