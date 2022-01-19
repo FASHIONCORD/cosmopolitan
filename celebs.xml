@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 01:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 03:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 드라마∙영화 속 연상연하 커플! 케미 기대-ing]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63074</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63074</guid>
+            <pubDate>Wed, 19 Jan 2022 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[드라마, 영화 흥행 필수 공식은 연상연하 케미! 그럼 2022년 드라마, 영화 중 기대되는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/8d3c48dd-6609-487d-9ad9-4b356382c141.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 목표가 꼭 ‘다이어트 성공’이라면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63073</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Jan 2022 06:12:11 GMT</pubDate>
             <content:encoded><![CDATA[보아, 태연, 효연, 슬기, 웬디, 카리나, 윈터가 모인 레전드 of 레전드 그룹 등장!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/b01c9496-23ac-4354-9f44-e4590d93d30f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후회 없이 했어, 안 했어? 그럼 된 거야! 클루씨 완전체 화보]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63056</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63056</guid>
-            <pubDate>Tue, 18 Jan 2022 06:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[3명의 왁커와 2명의 락커로 구성된 K.L.W.C(Korea Locking Waacking ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/3b4eec31-5615-4cab-8b3b-2874e2efc7e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
