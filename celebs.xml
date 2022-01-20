@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<지금 우리 학교는>의 주인공 박지후∙이유미∙조이현의 평소 사복 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63123</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63123</guid>
+            <pubDate>Thu, 20 Jan 2022 06:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[너무 매력적인 본캐들의 패션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/845bf1d2-f388-405f-a639-837736255e20.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신화 앤디, 1월의 품절남 되다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63116</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63116</guid>
+            <pubDate>Thu, 20 Jan 2022 06:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[에릭, 전진에 이어 3번째 유뷰남! 과연 다음은 뉴구?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/79f657d8-9783-4d97-a77d-cfb9ab44f700.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트는 내일부터! 배신하고 다이어트 성공한 핵인싸 이영지의 헤어스타일은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63095</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 03:16:50 GMT</pubDate>
             <content:encoded><![CDATA[드라마, 영화 흥행 필수 공식은 연상연하 케미! 그럼 2022년 드라마, 영화 중 기대되는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/8d3c48dd-6609-487d-9ad9-4b356382c141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 목표가 꼭 ‘다이어트 성공’이라면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63073</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63073</guid>
-            <pubDate>Wed, 19 Jan 2022 01:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[바쁘고 바쁜 현대사회 속 우리, 시간과 돈이 들어가는 계획보다, ‘투자’도 ‘투지’도 없이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/0993f34d-9203-4e94-858b-17909eee20bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샴페인 하우스 뵈브 클리코가 선정한 2021 대담한 한국 여성은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63071</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63071</guid>
-            <pubDate>Tue, 18 Jan 2022 07:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[제 3회 볼드 우먼 어워드 코리아 2021 수상자가 베일을 벗었다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/01d65511-3e71-4095-b97b-41845318a13b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

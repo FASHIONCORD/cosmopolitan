@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숲이 보이는 숲뷰카페? 취향대로 골라 힐링 하러 가보자고!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63114</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63114</guid>
+            <pubDate>Thu, 20 Jan 2022 06:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[자작나무, 배나무, 소나무, 대나무가 훤히 보이는 힐링 맛집 카페 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/f2c69816-e5a2-4ae6-872c-33331386f9fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[솔직히 평범한 건 죄 아닌가? 서울 이색 파스타 맛집 모음 ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63112</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 07:12:37 GMT</pubDate>
             <content:encoded><![CDATA[드라마, 영화 흥행 필수 공식은 연상연하 케미! 그럼 2022년 드라마, 영화 중 기대되는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/8d3c48dd-6609-487d-9ad9-4b356382c141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샴페인 하우스 뵈브 클리코가 선정한 2021 대담한 한국 여성은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63071</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63071</guid>
-            <pubDate>Wed, 19 Jan 2022 07:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[제 3회 볼드 우먼 어워드 코리아 2021 수상자가 베일을 벗었다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/01d65511-3e71-4095-b97b-41845318a13b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
