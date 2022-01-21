@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 23:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 02:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니∙태연∙슬기∙윤아∙예리의 핸드폰 Sexy Back]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63146</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63146</guid>
+            <pubDate>Fri, 21 Jan 2022 02:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 힙한 건 다 있네! 제니, 태연, 슬기, 윤아, 예리의 핸드폰 섹시 뒤 태.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/5f76d85f-9eba-4a50-9a80-b2f882d35cfa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹방 1티어 혜리의 대동'맛'지도 가보자고~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63133</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 09:12:22 GMT</pubDate>
             <content:encoded><![CDATA[남친룩의 정석! 최우식의 설렘사 주의 스타일이 궁금하다면?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/cae28fdb-22d0-47e1-909a-ae8ad404263b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭발적 인기 누렸던 <하트시그널> 멤버들의 상상도 못한 근황은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63077</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63077</guid>
-            <pubDate>Wed, 19 Jan 2022 09:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[군 입대부터 연기 도전까지, 바쁘다 바빠! &lt;하트시그널&gt; 멤버들의 NEW 소식]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/10d23aa7-e6e9-4c27-aff0-2ec67fb3bfbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
