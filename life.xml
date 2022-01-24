@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stand up Please! 다~ 생각이 있는 요즘 스탠딩 바]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63177</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63177</guid>
+            <pubDate>Mon, 24 Jan 2022 07:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘힙찔이’나 ‘컨셉충’ 절대 아님 주의! 다~ 생각이 있는 요즘 스탠딩 바.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/7acaef8f-e7ff-44d3-a247-0165a94a9b71.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가스파르 울리엘, 스키 사고로 사망]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63152</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 16:21:29 GMT</pubDate>
             <content:encoded><![CDATA[‘고등어 파스타’ 부터 ‘참나물 파스타’ 까지! 독특한데 또 맛있단 말이지]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/7e9d220f-3d0a-4847-b216-f852986d3add.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 여기가 핫하다던데?! 부산 ‘전포동’ 신상 핫플 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63111</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63111</guid>
-            <pubDate>Wed, 19 Jan 2022 09:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[부산러 픽 이니 믿고 가야죠~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/f71de9f4-c5a8-42d5-9d93-e12b4e3aeaa8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파 닝닝∙마마무 휘인∙노제∙이하이의 유니크한 타투 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63130</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63130</guid>
+            <pubDate>Mon, 24 Jan 2022 07:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[레터링 타투는 뻔하다고? 다른 사람들과 차별화된 ‘어나더 레벨’ 타투를 고민하고 있다면 셀럽...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/90299e49-06bd-457f-8209-db14d1319c78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<지금 우리 학교는>의 주인공 박지후∙이유미∙조이현의 평소 사복 패션은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63123</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 04:11:27 GMT</pubDate>
             <content:encoded><![CDATA[새해 위시리스트에 빠지지 않고 등장하는 바디프로필, 어떻게 입어야 잘 나올까?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/394d5426-2753-4b2c-8422-e82f2741779d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사∙태연∙현아의 한 땀 한 땀 니트 버킷햇 스타일링 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63063</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63063</guid>
-            <pubDate>Tue, 18 Jan 2022 15:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 리사, 태연, 현아까지! 셀럽들이 선택한 바로 그 모자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/21/835cbeae-25e7-42eb-b782-9a587706cf45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
