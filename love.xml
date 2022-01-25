@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 02:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 03:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펨셀...? 인셀...? 이 신조어 나만 몰라? 이게 다 무슨 뜻인데?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63025</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63025</guid>
+            <pubDate>Tue, 25 Jan 2022 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[비자발적 독신주의자를 뜻하는 ‘펨셀'. 최근 국내에서 일어난 ‘4B’ 운동과 비슷하다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/611cd741-cb6b-4fea-b4d8-249babea6c1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나로 인해 국내 이혼율이 감소했다고? 사회적 거리두기 명절엔 오히려 좋아!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/62946</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Jan 2022 09:11:10 GMT</pubDate>
             <content:encoded><![CDATA[길에서 번호도 못 주는 세상! 번호 따는 게 왜? 문제는 그 다음이었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/07fb781b-881f-439f-9e61-347a0738a8dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNL 인턴 기자 주현영이 코스모폴리탄 인턴 에디터로 등장한 이유는? '일찍이들' 본캐 다 파헤침...]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62703</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62703</guid>
-            <pubDate>Tue, 11 Jan 2022 16:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[이 집, 케미 맛집이네?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/588762ba-fc52-4dc3-aa41-4fa811fcb77d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
