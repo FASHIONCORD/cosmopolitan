@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 03:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 04:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아니, 벌써 발렌타인? 여친에게 선물하면 칭찬 각, 수제 초콜릿 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63230</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63230</guid>
+            <pubDate>Tue, 25 Jan 2022 04:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[정성이 들어간 수제 초콜릿 맛집 top 5]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/c47dfcb1-d00c-408e-b185-676d6cc43d38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stand up Please! 다~ 생각이 있는 요즘 스탠딩 바]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63177</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 20 Jan 2022 06:15:41 GMT</pubDate>
             <content:encoded><![CDATA[자작나무, 배나무, 소나무, 대나무가 훤히 보이는 힐링 맛집 카페 4]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/f2c69816-e5a2-4ae6-872c-33331386f9fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔직히 평범한 건 죄 아닌가? 서울 이색 파스타 맛집 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63112</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63112</guid>
-            <pubDate>Wed, 19 Jan 2022 16:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[‘고등어 파스타’ 부터 ‘참나물 파스타’ 까지! 독특한데 또 맛있단 말이지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/7e9d220f-3d0a-4847-b216-f852986d3add.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

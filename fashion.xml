@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 03:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 04:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬기∙김나영∙차정원∙수지∙조이의 "손 시려도 못 잃어!" 톱핸들백 스타일링 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63252</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63252</guid>
+            <pubDate>Tue, 25 Jan 2022 04:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[이 참에 예쁜 장갑까지 마련?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/293d81b4-f641-44d6-9bb5-5fd5891fbe67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["나 이 브랜드 좋아해" 제니∙차정원∙효민∙지수의 로고 "콕' 박힌 볼캡 스타일링]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63250</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 06:11:07 GMT</pubDate>
             <content:encoded><![CDATA[너무 매력적인 본캐들의 패션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/845bf1d2-f388-405f-a639-837736255e20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2초면 신는 스니커, 나이키 다이나모 고]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63097</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63097</guid>
-            <pubDate>Mon, 24 Jan 2022 06:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[랜선 이모들 설빔 결제 준비! 곧 설날이야.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/c2b21e0d-c90e-4896-b93a-cba67480dc91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 03:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 04:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 박세영 ♥ 곽정욱과 오는 2월 결혼]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63255</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63255</guid>
+            <pubDate>Tue, 25 Jan 2022 04:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;학교 2013&gt; 부부 탄생!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/b6e1c9f1-1484-4170-8f33-58e950e1cd83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[효연∙손나은∙리사∙지수, 그레이 후드 톱 하나가 개성이 되는 모먼트!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63254</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 10:15:08 GMT</pubDate>
             <content:encoded><![CDATA[배우 이민호, 이서진, 류준열의 찐친 인증은 물론 축가가 무려 이적, 디오, 이홍기?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/837f25a1-ae04-46f0-ac8d-01054673db06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 2022 설맞이, 한복을 찰떡같이 소화하는 여자 연예인 Best 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63238</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63238</guid>
-            <pubDate>Mon, 24 Jan 2022 10:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[단아함의 끝판왕! 연예계 한복 여신들 납시오~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/deeeaeeb-ab05-4007-bfef-1ee01f63a26f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
