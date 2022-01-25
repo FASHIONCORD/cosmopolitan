@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 07:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 09:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이세영∙이영지∙유이∙솔라∙AOA찬미가 알려주는 바디프로필 코디 꿀팁!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63069</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63069</guid>
+            <pubDate>Tue, 25 Jan 2022 09:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[새해 위시리스트에 빠지지 않고 등장하는 바디프로필, 어떻게 입어야 잘 나올까?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/394d5426-2753-4b2c-8422-e82f2741779d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보아∙소녀시대∙레드벨벳∙에스파가 총출동! ‘갓 더 비트’ 도대체 누구야?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63059</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 17 Jan 2022 05:15:47 GMT</pubDate>
             <content:encoded><![CDATA[읏추읏추! 추운 겨울에도 시스루가 대세!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/db954ba0-dd6a-4e8d-b9d4-16d36ea708fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 하고 싶은 프리지아의 헤어스타일 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62942</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62942</guid>
-            <pubDate>Mon, 17 Jan 2022 05:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 &lt;솔로지옥&gt; 속 이슈의 중심, 프리지아! 그녀의 미모가 유독 빛나 보이는 이유는? ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/d09a2fa3-2219-480a-b076-f1459735f13a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
