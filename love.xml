@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 11:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 13:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이하늬, 곧 엄마된다?! 벌써 임신 4개월차로 올해 6월 출산 예정이라고!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63027</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63027</guid>
+            <pubDate>Tue, 25 Jan 2022 13:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[반가운 겹겹사 소식!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/145049c0-dcfe-4f08-8cdd-ba5069765ad5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펨셀...? 인셀...? 이 신조어 나만 몰라? 이게 다 무슨 뜻인데?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63025</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Jan 2022 03:15:33 GMT</pubDate>
             <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번호 따는 방...? 카카오톡 오픈채팅 ‘번따방’이 실제로 존재한다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62705</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62705</guid>
-            <pubDate>Wed, 12 Jan 2022 09:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[길에서 번호도 못 주는 세상! 번호 따는 게 왜? 문제는 그 다음이었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/07fb781b-881f-439f-9e61-347a0738a8dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
