@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 11:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 12:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/08/4d45691c-21a9-4ab5-afd2-6b25e5f1de0d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이게 후암동 바이브 아니겠어? 후암동 뷰 맛집 카페 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63324</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63324</guid>
+            <pubDate>Wed, 26 Jan 2022 12:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[오를 언덕이 있다는 것은 그만큼 멋진 뷰가 우리를 기다린다는 것~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/3ec30196-3f8c-4b27-825b-53fd60d83153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[평택 하면 ‘여기’ 아니겠어? 나만 알 순 없는 평택 핫플 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63323</link>
             <guid>https://www.cosmopolitan.co.kr/article/63323</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 26 Jan 2022 07:11:13 GMT</pubDate>
             <content:encoded><![CDATA[2022년에는 살도 빼고 술도 줄이기로 굳게 다짐했지만 원래 계획이란 수정되기 마련! 여기 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/413ea16b-e1ab-496b-9a20-27651f0af6f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 수위 괜찮나요? <모럴센스> 관전포인트 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63242</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63242</guid>
-            <pubDate>Wed, 26 Jan 2022 07:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[서현과 이준영이 BDSM 영화를 찍었다고? 키워드만으로 실시간 트렌드에 오를 정도로 엄청난 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/e4be83ab-44db-4ec3-bf5d-f87cbb4c30cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
