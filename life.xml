@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 09:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 10:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[평택 하면 ‘여기’ 아니겠어? 나만 알 순 없는 평택 핫플 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63323</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63323</guid>
+            <pubDate>Wed, 26 Jan 2022 10:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[넌 아직도 부대찌개 먹으러 평택 가니?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/0a61c2ae-2875-4ab1-a0d7-ee7684db8424.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책 한 장 그리고 술 한 모금, 읽고 마시는 사람을 위한 서울 ‘북 바’ 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63318</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63318</guid>
+            <pubDate>Wed, 26 Jan 2022 10:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[이런 분위기에서라면 책 한 권 뚝딱 이라고요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/fe1d5d62-0c24-4367-84ad-4c9b93340482.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에서 즐길 수 있는, Hip한 이색 원데이 클래스 추천 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63312</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 07:11:13 GMT</pubDate>
             <content:encoded><![CDATA[서현과 이준영이 BDSM 영화를 찍었다고? 키워드만으로 실시간 트렌드에 오를 정도로 엄청난 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/e4be83ab-44db-4ec3-bf5d-f87cbb4c30cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※얼굴합 폭발주의※ 잇몸 악건성 만드는 로맨스 신작 드라마 라인업은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63234</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63234</guid>
-            <pubDate>Tue, 25 Jan 2022 09:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[죽은 연애세포 살리는, 드라마 NEW 커플들 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/34b0fc5b-e47f-4751-b7d1-8658d387a013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기 서울 맞아? 이토록 가까운 자연을 느낄 수 있는 우이동 카페 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63233</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63233</guid>
-            <pubDate>Tue, 25 Jan 2022 07:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 서울 핫플로 떠오르기 바로 직전! 서울 아닌 듯 자연미 넘치는 우이동.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/3830d42f-2067-4cfd-bfdf-0a62b86dc339.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
