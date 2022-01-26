@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜버 ‘프리지아’ 송지아, 결국 활동 중단 선언]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63293</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63293</guid>
+            <pubDate>Wed, 26 Jan 2022 08:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[모든 SNS채널 비공개로 전환했다고,,,]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/2e15e456-81b9-4eda-81ad-60b336c87325.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현아♥던, 생방송 무대에서 찐-한 딥키스를 했다고...? 이것이 바로 29금 ‘으른 연애’ 모먼트다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63292</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Jan 2022 09:10:05 GMT</pubDate>
             <content:encoded><![CDATA[K-하이틴 좀비물을 표방하는 넷플릭스 시리즈 &lt;지금 우리 학교는&gt;. 박지후와 윤찬영, 조이현...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/e3c4f05d-2b16-47cf-a696-6fc9a6753adf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 박세영 ♥ 곽정욱과 오는 2월 결혼]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63255</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63255</guid>
-            <pubDate>Tue, 25 Jan 2022 04:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;학교 2013&gt; 부부 탄생!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/b6e1c9f1-1484-4170-8f33-58e950e1cd83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

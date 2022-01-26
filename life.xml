@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현아♥던, 생방송 무대에서 찐-한 딥키스를 했다고...? 이것이 바로 29금 ‘으른 연애’ 모먼트다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63292</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63292</guid>
+            <pubDate>Wed, 26 Jan 2022 08:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[오늘만 사는 K-아이돌 커플의 사랑 이야기, 부러우면 지는 거다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/cc3942f1-dee0-4e51-ab45-abfb9efcfee1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 해의 운을 알려주는 디저트? 프랑스 갈레트 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63284</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63284</guid>
+            <pubDate>Wed, 26 Jan 2022 08:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스에서는 '갈레트 데 루아'만 먹어도 운을 알 수 있다고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/ae87c777-97a7-4010-a514-1a333d2e6586.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그냥 막 찍어도 포토존? 신상 갬성 카페 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63277</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 25 Jan 2022 04:13:42 GMT</pubDate>
             <content:encoded><![CDATA[정성이 들어간 수제 초콜릿 맛집 top 5]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/c47dfcb1-d00c-408e-b185-676d6cc43d38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stand up Please! 다~ 생각이 있는 요즘 스탠딩 바]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63177</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63177</guid>
-            <pubDate>Mon, 24 Jan 2022 07:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[‘힙찔이’나 ‘컨셉충’ 절대 아님 주의! 다~ 생각이 있는 요즘 스탠딩 바.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/7acaef8f-e7ff-44d3-a247-0165a94a9b71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가스파르 울리엘, 스키 사고로 사망]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63152</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63152</guid>
-            <pubDate>Mon, 24 Jan 2022 06:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[마블 &lt;문 나이트&gt; 개봉 앞두고..]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/c620e46b-fca3-4e7b-a0bc-c751c9ea99f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
