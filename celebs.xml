@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우혜림∙성유리∙카일리 제너, 만삭 언니들의 패션 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63307</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63307</guid>
+            <pubDate>Wed, 26 Jan 2022 09:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[우혜림, 성유리부터 카일리 제너, 애슐리 그레이엄, 조지나 로드리게스까지 멋쁨 뽐내는 만삭 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/5fe382b5-82df-4a53-9f40-abf3082093cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜버 ‘프리지아’ 송지아, 결국 활동 중단 선언]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63293</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Jan 2022 09:10:05 GMT</pubDate>
             <content:encoded><![CDATA[슬렉스 맛집 ‘국연수’의 김다미부터 강민경, 차정원, 티파니까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/2fc970dc-1ddd-4305-96b9-f50e3bfa2a7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<지금 우리 학교는> 배우들의 기묘한 만찬]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63271</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63271</guid>
-            <pubDate>Tue, 25 Jan 2022 09:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[K-하이틴 좀비물을 표방하는 넷플릭스 시리즈 &lt;지금 우리 학교는&gt;. 박지후와 윤찬영, 조이현...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/e3c4f05d-2b16-47cf-a696-6fc9a6753adf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

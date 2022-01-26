@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에서 즐길 수 있는, Hip한 이색 원데이 클래스 추천 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63312</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63312</guid>
+            <pubDate>Wed, 26 Jan 2022 09:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[똥손 탈출! 따라 하면 뚝딱 완성이 된다?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/bf388769-f65f-4a53-94d0-a00e13ac5c8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현아♥던, 생방송 무대에서 찐-한 딥키스를 했다고...? 이것이 바로 29금 ‘으른 연애’ 모먼트다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63292</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Jan 2022 07:15:53 GMT</pubDate>
             <content:encoded><![CDATA[새로운 서울 핫플로 떠오르기 바로 직전! 서울 아닌 듯 자연미 넘치는 우이동.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/3830d42f-2067-4cfd-bfdf-0a62b86dc339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아니, 벌써 발렌타인? 여친에게 선물하면 칭찬 각, 수제 초콜릿 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63230</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63230</guid>
-            <pubDate>Tue, 25 Jan 2022 04:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[정성이 들어간 수제 초콜릿 맛집 top 5]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/c47dfcb1-d00c-408e-b185-676d6cc43d38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

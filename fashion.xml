@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효연∙손나은∙리사∙지수, 그레이 후드 톱 하나가 개성이 되는 모먼트!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63254</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63254</guid>
+            <pubDate>Wed, 26 Jan 2022 09:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[그레이 후드 톱 하나로 일주일 살기, 도전?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/cefb3166-ecea-4440-b3e5-994fa0c1fbbd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬기∙김나영∙차정원∙수지∙조이의 "손 시려도 못 잃어!" 톱핸들백 스타일링 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63252</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 07:13:26 GMT</pubDate>
             <content:encoded><![CDATA[레터링 타투는 뻔하다고? 다른 사람들과 차별화된 ‘어나더 레벨’ 타투를 고민하고 있다면 셀럽...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/90299e49-06bd-457f-8209-db14d1319c78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<지금 우리 학교는>의 주인공 박지후∙이유미∙조이현의 평소 사복 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63123</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63123</guid>
-            <pubDate>Mon, 24 Jan 2022 06:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[너무 매력적인 본캐들의 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/845bf1d2-f388-405f-a639-837736255e20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
