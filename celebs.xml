@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 10:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 11:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파 윈터∙한예슬∙있지 예지∙여자아이들 미연∙채정안의 체커보드를 체크!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63367</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63367</guid>
+            <pubDate>Thu, 27 Jan 2022 11:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[칙칙한 겨울옷에 포인트로 제격인 체커보드 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/5b59b7a7-0426-42fc-aaca-5e3ee04676cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이브 장원영∙있지 예지∙오마이걸 지호∙(여자)아이들 미연까지! 리본이 대세!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63365</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63365</guid>
+            <pubDate>Thu, 27 Jan 2022 11:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[리본을 어떻게 달아볼까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/2cc100cc-8bae-4359-a382-6edde56bbcd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차세대 솔로퀸 정예인∙최예나∙유주∙강혜원의 한 예쁨 하는 ‘뷰티 모먼트’가 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63363</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 27 Jan 2022 03:10:20 GMT</pubDate>
             <content:encoded><![CDATA[남녀불문 사랑하지 않을 수 없는 패션 조합 = “후드티 + 코트”]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/95a9a613-cf47-4ba6-b6cf-08279c079298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연∙유주∙최예나∙문별, 넷이 합쳐 조회수 2천6백만! 탑 걸그룹 출신 女솔로들의 뷰티 공식]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63336</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63336</guid>
-            <pubDate>Wed, 26 Jan 2022 11:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[자칭+타칭 솔로퀸 태연부터 첫 홀로서기에 도전한 유주, 예나까지! 탑 걸그룹 출신 아이돌들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/fa6c4df5-7b86-4691-9da1-d0a3c923d435.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너 나랑 맥주 마실래, 요가 할래? 아니면 둘 다 할래?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63311</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63311</guid>
-            <pubDate>Wed, 26 Jan 2022 11:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[수영과 최수진 자매가 방송에서 함께 한 '비어 요가'. 과연 그 효과는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/2ea31a6a-9e7f-4956-91ca-b82329ab3ee0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
