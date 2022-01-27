@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임> 이유미, 미우미우 글로벌 캠페인 모델 발탁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63347</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63347</guid>
+            <pubDate>Thu, 27 Jan 2022 10:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국인 최초 모델!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/e0989b6e-c177-40a6-8f61-ddf462f77d1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니∙유나∙리사∙닝닝이 즐겨 입는 볼레로 패션을 아니?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63345</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63345</guid>
+            <pubDate>Thu, 27 Jan 2022 10:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[식지 않는 Y2K 열풍! 넌 어떤 볼레로가 좋아?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/aea4f6f0-753a-46d6-b19f-0dc80f1ef0ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안재현∙RM∙유리∙채정안∙경수진도 즐기는 꾸안꾸룩의 정석이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63341</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63341</guid>
+            <pubDate>Thu, 27 Jan 2022 10:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[남녀불문 사랑하지 않을 수 없는 패션 조합 = “후드티 + 코트”]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/95a9a613-cf47-4ba6-b6cf-08279c079298.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[켄달 제너∙킴 카다시안∙현아의 공통점은? 신부보다 화려한 패션으로 빌런 하객이 되었다는 것]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63278</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 09:09:18 GMT</pubDate>
             <content:encoded><![CDATA[그레이 후드 톱 하나로 일주일 살기, 도전?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/cefb3166-ecea-4440-b3e5-994fa0c1fbbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬기∙김나영∙차정원∙수지∙조이의 "손 시려도 못 잃어!" 톱핸들백 스타일링 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63252</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63252</guid>
-            <pubDate>Tue, 25 Jan 2022 04:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[이 참에 예쁜 장갑까지 마련?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/293d81b4-f641-44d6-9bb5-5fd5891fbe67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나 이 브랜드 좋아해" 제니∙차정원∙효민∙지수의 로고 "콕' 박힌 볼캡 스타일링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63250</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63250</guid>
-            <pubDate>Tue, 25 Jan 2022 03:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[머리 안 감은 날에도 딱이야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/7a03123c-8e35-4b17-84c1-8f887bb46146.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연∙나연∙화사∙송민호가 픽한 루이비통 신상 스마트워치!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63248</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63248</guid>
-            <pubDate>Tue, 25 Jan 2022 03:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[트와이스 나연, 태연, 송민호, 마마무 화사까지! 루이비통의 몽환적인 스마트워치 ‘땅부르 호...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/acd7b59d-d21b-46a3-86b6-e49239c05acc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

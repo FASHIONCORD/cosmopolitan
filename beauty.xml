@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산다라박∙이다희∙신스∙태연∙스테이씨 윤이 푹 빠진 ‘이 헤어’는 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63228</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63228</guid>
+            <pubDate>Thu, 27 Jan 2022 10:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[파격적인 변신이 필요할 땐 이게 딱이지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/54a67a93-2463-4e3a-9696-9d419083a7a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트는 내일부터! 배신하고 다이어트 성공한 핵인싸 이영지의 헤어스타일은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63095</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 01:50:45 GMT</pubDate>
             <content:encoded><![CDATA[아이유, 정유미, 태민, 김희철, 윤승아가 벌써 30, 40대라고? 말도 안 돼!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/f93d0be3-fdff-48c3-9101-d280d1092074.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 코스모 뷰티 어워즈, 1위의 타이틀을 차지한 베스트 오브 베스트 뷰티템은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62968</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62968</guid>
-            <pubDate>Tue, 18 Jan 2022 06:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[Best of The Best Winners of Cosmo Beauty Awards 202...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/87308ebb-11f2-478c-8efc-bdd38a8c654e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말에 어디 갈까? BTS RM이 다녀가서 ‘핫’ 해질 문화공간 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63325</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63325</guid>
+            <pubDate>Thu, 27 Jan 2022 10:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말만큼은 맛집 대신 문화공간 어때? 문화생활 진심男, 방탄소년단 RM이 다녀간 문화공...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/97bb7115-1c41-4594-90c9-0d8189874e95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이게 후암동 바이브 아니겠어? 후암동 뷰 맛집 카페 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63324</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 07:11:13 GMT</pubDate>
             <content:encoded><![CDATA[알파고 에디터도 감성 충만해질 수 있는 지금 막 오픈한 포토 맛집 카페.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/1ae58712-6e5f-4687-bbee-cd5b4d171e64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 지금 가장 핫한  NEW 와인바!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63249</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63249</guid>
-            <pubDate>Wed, 26 Jan 2022 07:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022년에는 살도 빼고 술도 줄이기로 굳게 다짐했지만 원래 계획이란 수정되기 마련! 여기 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/413ea16b-e1ab-496b-9a20-27651f0af6f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
