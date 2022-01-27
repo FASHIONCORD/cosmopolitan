@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차세대 솔로퀸 정예인∙최예나∙유주∙강혜원의 한 예쁨 하는 ‘뷰티 모먼트’가 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63363</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63363</guid>
+            <pubDate>Thu, 27 Jan 2022 07:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[갓벽 그 자체라 볼수록 빠져드는 매직~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/06cbc75a-ea21-419e-ba6c-a2de7bdc7e79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<오징어 게임> 이유미, 미우미우 글로벌 캠페인 모델 발탁]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63347</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 11:10:19 GMT</pubDate>
             <content:encoded><![CDATA[수영과 최수진 자매가 방송에서 함께 한 '비어 요가'. 과연 그 효과는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/2ea31a6a-9e7f-4956-91ca-b82329ab3ee0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짧지만 큰 쾌감, 한 번 빠지면 헤어 나오기 힘든 숏 드라마]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63310</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63310</guid>
-            <pubDate>Wed, 26 Jan 2022 11:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[뻘하게 터지고, 눈물까지 흘려서 자존심은 좀 상하지만, 이 괴물 같은 사람들의 공감 연기는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/d6dc416d-d75e-423c-b9bc-2daf5d25b8b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
