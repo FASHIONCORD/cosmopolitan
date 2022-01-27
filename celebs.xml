@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 03:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 04:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임> 이유미, 미우미우 글로벌 캠페인 모델 발탁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63347</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63347</guid>
+            <pubDate>Thu, 27 Jan 2022 04:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[한국인 최초 모델!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/e0989b6e-c177-40a6-8f61-ddf462f77d1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니∙유나∙리사∙닝닝이 즐겨 입는 볼레로 패션을 아니?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63345</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 11:10:19 GMT</pubDate>
             <content:encoded><![CDATA[뻘하게 터지고, 눈물까지 흘려서 자존심은 좀 상하지만, 이 괴물 같은 사람들의 공감 연기는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/d6dc416d-d75e-423c-b9bc-2daf5d25b8b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글러가 취업 과외 해드립니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63090</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63090</guid>
-            <pubDate>Wed, 26 Jan 2022 11:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[구글 마케터가 양팔 걷고 커리어 멘토링에 나서는 임팩트캠퍼스. 구글이 취준생을 널리 이롭게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/1eec6bb9-f4a9-4ed8-a16e-d6023784ecbc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
