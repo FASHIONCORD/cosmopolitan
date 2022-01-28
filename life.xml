@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 00:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 01:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한파주의보에 각! 이불 속에서 먹고 싶은 따뜻한 술]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63339</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63339</guid>
+            <pubDate>Fri, 28 Jan 2022 01:55:49 GMT</pubDate>
+            <content:encoded><![CDATA[와인, 사케, 위스키까지 데워 마시면 맛 좋은 술은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/3711ad7a-371d-417f-881c-68490c1cd5f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말에 어디 갈까? BTS RM이 다녀가서 ‘핫’ 해질 문화공간 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63325</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 08:12:33 GMT</pubDate>
             <content:encoded><![CDATA[프랑스에서는 '갈레트 데 루아'만 먹어도 운을 알 수 있다고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/ae87c777-97a7-4010-a514-1a333d2e6586.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 막 찍어도 포토존? 신상 갬성 카페 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63277</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63277</guid>
-            <pubDate>Wed, 26 Jan 2022 07:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[알파고 에디터도 감성 충만해질 수 있는 지금 막 오픈한 포토 맛집 카페.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/1ae58712-6e5f-4687-bbee-cd5b4d171e64.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
