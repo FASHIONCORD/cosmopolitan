@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 07:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 08:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설날에 뭐해? BTS 따라 서울 산책]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63413</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63413</guid>
+            <pubDate>Fri, 28 Jan 2022 08:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[RM 이 꽉 잡고 있다는 그 동네! 경복궁, 북촌으로 서울 여행 다녀온 RM, 제이홉 따라 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/d98a0cc6-b159-48d5-85de-1c5026f94a43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집에 작은 정원이 있다고? 블랙핑크 제니의 인생샷 명소는 한남동 집이라는데!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63409</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63409</guid>
+            <pubDate>Fri, 28 Jan 2022 08:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[제니의 인스타그램과 유튜브에 자주 등장하는 이곳의 정보는?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/7b5a408e-4bcd-4b1c-a594-1606910f2c9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너무 사람 같아서 불쾌한데 자꾸 보게 되네?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63395</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 27 Jan 2022 10:11:07 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말만큼은 맛집 대신 문화공간 어때? 문화생활 진심男, 방탄소년단 RM이 다녀간 문화공...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/97bb7115-1c41-4594-90c9-0d8189874e95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 후암동 바이브 아니겠어? 후암동 뷰 맛집 카페 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63324</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63324</guid>
-            <pubDate>Wed, 26 Jan 2022 12:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[오를 언덕이 있다는 것은 그만큼 멋진 뷰가 우리를 기다린다는 것~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/3ec30196-3f8c-4b27-825b-53fd60d83153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평택 하면 ‘여기’ 아니겠어? 나만 알 순 없는 평택 핫플 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63323</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63323</guid>
-            <pubDate>Wed, 26 Jan 2022 10:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[넌 아직도 부대찌개 먹으러 평택 가니?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/0a61c2ae-2875-4ab1-a0d7-ee7684db8424.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

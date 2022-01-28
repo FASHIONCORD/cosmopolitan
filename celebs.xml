@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 07:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 08:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저세상 힙한 러그와 열애중인 산다라박∙신다은∙정려원∙이혜영]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63415</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63415</guid>
+            <pubDate>Fri, 28 Jan 2022 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[이젠 러그까지 힙하다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/68d49b61-7575-44aa-adfd-34a3ccdf0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비밀 타투 SSAP에이블~ 수지∙강혜원∙티파니∙수영∙현아의 보일락 말락 시크릿 타투!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63414</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63414</guid>
+            <pubDate>Fri, 28 Jan 2022 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[‘선타투 후뚜맞’이 진리라지만, 초초초 미니 사이즈의 ‘시크릿 타투’면 맘스터치도 걱정 노놉...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/d6e06c36-2b82-41c7-87f0-2aa0de9a6cf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설날에 뭐해? BTS 따라 서울 산책]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63413</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 04:12:26 GMT</pubDate>
             <content:encoded><![CDATA[내 마음 속 남친의 제대가 코앞에 다가왔다. 얼어붙었던 SNS와 팬들 마음 녹일 그들의 인물...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/193bdaf1-5ce4-4141-827c-4bb774dcba94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자 아이돌, 영훈∙김동현∙성찬∙세림의 무대 밖 모먼트!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63371</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63371</guid>
-            <pubDate>Fri, 28 Jan 2022 04:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[순한 맛 되는 남자 아이돌 무대 밖 모먼트]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/8e64c49f-18d7-4f73-92c7-fba5486e4b39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영∙윤승아∙표예진∙이선빈의 할밍아웃? 셀럽들의 그래니룩 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63368</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63368</guid>
-            <pubDate>Fri, 28 Jan 2022 01:54:58 GMT</pubDate>
-            <content:encoded><![CDATA[할머니 옷장에서 막 꺼낸 듯한 플라워 패턴을 선택한 셀럽들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/e631e7b8-8f1e-4c04-8aa1-14495ba64bac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

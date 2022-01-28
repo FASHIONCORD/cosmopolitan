@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 07:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 08:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<솔로지옥> 오진택∙<바퀴 달린 집> 공명∙<멜랑꼴리아> 이도현까지! MZ세대가 열광하는 연하남의 조건은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63247</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63247</guid>
+            <pubDate>Fri, 28 Jan 2022 08:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[연하남이 대세인 데는 이유가 있다! MZ세대가 열광하는 연하남의 매력 전부 알려드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/4042c8a8-b418-4c0f-aae5-985d135f2c67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생리대를 살에 붙이는 줄 안다고...? 남자들아, 여자에 대해 모르면 좀 알아갑시다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63240</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 07:14:32 GMT</pubDate>
             <content:encoded><![CDATA[언니들, 대학 졸업하고 차에서 해봤어? 어엿한 성인 여성을 위한 카섹스 테크닉, 코스모가 알...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/5ab5c943-4455-49a7-9f1f-77cfc23b21ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차예련 ♥ 주상욱, 올해로 6년차 부부의 달~달한 럽스타 근황!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62877</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62877</guid>
-            <pubDate>Mon, 17 Jan 2022 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[이런게 바로 찐사랑~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/bd80a404-b5e1-4087-bde9-f54cdf1c5183.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
