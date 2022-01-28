@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 03:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 04:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니∙로제∙장원영 등 올겨울 MZ 셀럽들의 운동 모먼트!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63291</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63291</guid>
+            <pubDate>Fri, 28 Jan 2022 04:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크 제니, 로제, 아이브 장원영, 전소미, 레드벨벳 예리도 홀릭~ 요즘 MZ 세대의 겨...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/e7bc77e5-3d47-45e4-b6ba-8f012e5e3fc5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산다라박∙이다희∙신스∙태연∙스테이씨 윤이 푹 빠진 ‘이 헤어’는 무엇?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63228</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 03:16:06 GMT</pubDate>
             <content:encoded><![CDATA[따라 입고 싶게 만드는 매직~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/8b7d6983-9fc7-4618-bae1-e9653261de48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방부제 미모를 가진 아이유∙정유미∙태민∙김희철∙윤승아의 동안 비법은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63018</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63018</guid>
-            <pubDate>Wed, 19 Jan 2022 01:50:45 GMT</pubDate>
-            <content:encoded><![CDATA[아이유, 정유미, 태민, 김희철, 윤승아가 벌써 30, 40대라고? 말도 안 돼!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/f93d0be3-fdff-48c3-9101-d280d1092074.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
