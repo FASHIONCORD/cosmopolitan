@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 09:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 10:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDZfMjMy/MDAxNjQxNDY4MDcwNjE0.jPgbOI7-zKzCE9Fnk0meQmPWYY9wbEZY_uBP2BEvbrog.tOSYps9bMc0eJlEkKRPXr1kdPRt7xQgR73DpWa0fUsMg.JPEG/I3bVBbflOcAbIlBnxarzgc9YCPV4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김나영♥신우&이준, 러블리한 패밀리 패션 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63444</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63444</guid>
+            <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[그 엄마에 그 아들들! 이토록 사랑스러울 수 있나~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/e0897cbd-7c58-4326-a13d-6b4def3191f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 나연, 김나영, 김수미가 쓰는 레트로한 안경 무엇? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63440</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63440</guid>
+            <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[유행은 돌고 돌아 젠틀몬스터에서 출시한 레트로 안경 7080세대의 큼지막한 잠자리 안경이 유...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/17d97829-9cb5-4863-ade1-d8e30e09f665.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[럭셔리 패션 하우스의 뉴 캠페인에 등장한 K-스타들! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63435</link>
             <guid>https://www.cosmopolitan.co.kr/article/63435</guid>
@@ -214,22 +230,6 @@
             <pubDate>Fri, 28 Jan 2022 08:16:20 GMT</pubDate>
             <content:encoded><![CDATA[이건 무조건 소장각이야!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/9e47a727-d2c8-492a-aba9-aa3776bd2c22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-로판, 공주님들 모여라! 장원영·제니·태연·다영 헤어 스타일 따라잡기! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63396</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63396</guid>
-            <pubDate>Fri, 28 Jan 2022 04:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[공주 모먼트 뿜뿜! 하는 그녀들의 치트키는 ‘헤어 악세서리’에 있다?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/f36280a8-0078-44d5-93ca-6b01bcdd027c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영∙윤승아∙표예진∙이선빈의 할밍아웃? 셀럽들의 그래니룩 모음ZIP (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63368</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63368</guid>
-            <pubDate>Fri, 28 Jan 2022 01:54:58 GMT</pubDate>
-            <content:encoded><![CDATA[할머니 옷장에서 막 꺼낸 듯한 플라워 패턴을 선택한 셀럽들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/e631e7b8-8f1e-4c04-8aa1-14495ba64bac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연∙유주∙최예나∙문별, 넷이 합쳐 조회수 2천6백만! 탑 걸그룹 출신 女솔로들의 뷰티 공식 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -299,7 +299,7 @@
             <title><![CDATA[럭셔리 패션 하우스의 뉴 캠페인에 등장한 K-스타들! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63435</link>
             <guid>https://www.cosmopolitan.co.kr/article/63435</guid>
-            <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 09:09:53 GMT</pubDate>
             <content:encoded><![CDATA[샤넬, 루이 비통, 셀린, 미우 미우까지...... 럭셔리 하우스의 캠페인에 등장한 K-스타...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/490785bd-0bb0-42a9-acfe-2617422ffc97.jpg" length="0" type="image/jpg"/>
         </item>
@@ -307,7 +307,7 @@
             <title><![CDATA[<지금 우리 학교는> 정주행 전에 화보부터 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63433</link>
             <guid>https://www.cosmopolitan.co.kr/article/63433</guid>
-            <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 09:09:53 GMT</pubDate>
             <content:encoded><![CDATA[K-좀비에 맞서는 효산고 2학년 5반]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/15c91865-2e45-4eed-be26-38f6c062dc83.jpg" length="0" type="image/jpg"/>
         </item>
@@ -323,7 +323,7 @@
             <title><![CDATA[이민호 보스 글로벌 앰버서더 선정 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63425</link>
             <guid>https://www.cosmopolitan.co.kr/article/63425</guid>
-            <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 09:09:53 GMT</pubDate>
             <content:encoded><![CDATA[얼굴 천재 이민호 보스 글로벌 무대까지 접수.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/0241f7f7-05f1-4c31-8b72-b753165b91d9.jpg" length="0" type="image/jpg"/>
         </item>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/ea4a607a-546d-42df-ab6e-294378f13410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 정도면 예술 아닌가? 비주얼 미친 디저트 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63438</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63438</guid>
+            <pubDate>Fri, 28 Jan 2022 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[눈도 황홀 입도 황홀, 이건 작품이라고 봐!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/5d911f19-f792-4c8b-a0d6-3aa9fe167032.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여긴 몰랐지? 둔촌, 성내동 감성 넘치는 카페 모음 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63431</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63431</guid>
+            <pubDate>Fri, 28 Jan 2022 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[뿜어져 나오는 바이브에 여긴 찐이다 싶었지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/76f6dbcd-59b0-42ea-af22-84b2734b991e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘미라클 모닝’ 해야만 갈 수 있다는 서울 유명 식당 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63430</link>
             <guid>https://www.cosmopolitan.co.kr/article/63430</guid>
@@ -435,7 +451,7 @@
             <title><![CDATA[언니 서울 왔다~! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63424</link>
             <guid>https://www.cosmopolitan.co.kr/article/63424</guid>
-            <pubDate>Fri, 28 Jan 2022 09:12:22 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[MBC 떠난 김태호 PD, 올타임 레전드 이효리와 함께 예능 ‘서울체크인’ 첫 선을 보인다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/5a8e0e91-c111-4135-97d6-913e9798959a.jpg" length="0" type="image/jpg"/>
         </item>
@@ -470,22 +486,6 @@
             <pubDate>Fri, 28 Jan 2022 07:11:40 GMT</pubDate>
             <content:encoded><![CDATA[제니의 인스타그램과 유튜브에 자주 등장하는 이곳의 정보는?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/7b5a408e-4bcd-4b1c-a594-1606910f2c9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 사람 같아서 불쾌한데 자꾸 보게 되네? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63395</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63395</guid>
-            <pubDate>Fri, 28 Jan 2022 07:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[SF영화 아님 주의! 휴머노이드 로봇 ‘아메카’.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/9429a972-7ab8-4593-a4f8-8f9aa275c493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구정에 뭐할래? 안 보면 섭섭한 설특선 영화 스케줄 다 정리했다! 다시 봐도 꿀잼 주의... (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63346</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63346</guid>
-            <pubDate>Fri, 28 Jan 2022 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[안 봤으면 멍이득! 집콕 생활에 영원한 친구 설 특선 영화.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/a0e052c4-2c46-4e27-a24a-39b83b1f91d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

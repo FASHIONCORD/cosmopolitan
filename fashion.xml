@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 09:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 10:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영♥신우&이준, 러블리한 패밀리 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63444</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63444</guid>
+            <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[그 엄마에 그 아들들! 이토록 사랑스러울 수 있나~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/e0897cbd-7c58-4326-a13d-6b4def3191f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 나연, 김나영, 김수미가 쓰는 레트로한 안경 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63440</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63440</guid>
+            <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[유행은 돌고 돌아 젠틀몬스터에서 출시한 레트로 안경 7080세대의 큼지막한 잠자리 안경이 유...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/17d97829-9cb5-4863-ade1-d8e30e09f665.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럭셔리 패션 하우스의 뉴 캠페인에 등장한 K-스타들!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63435</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 08:16:20 GMT</pubDate>
             <content:encoded><![CDATA[이건 무조건 소장각이야!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/9e47a727-d2c8-492a-aba9-aa3776bd2c22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-로판, 공주님들 모여라! 장원영·제니·태연·다영 헤어 스타일 따라잡기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63396</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63396</guid>
-            <pubDate>Fri, 28 Jan 2022 08:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[공주 모먼트 뿜뿜! 하는 그녀들의 치트키는 ‘헤어 악세서리’에 있다?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/f36280a8-0078-44d5-93ca-6b01bcdd027c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영∙윤승아∙표예진∙이선빈의 할밍아웃? 셀럽들의 그래니룩 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63368</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63368</guid>
-            <pubDate>Fri, 28 Jan 2022 08:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[할머니 옷장에서 막 꺼낸 듯한 플라워 패턴을 선택한 셀럽들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/e631e7b8-8f1e-4c04-8aa1-14495ba64bac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
