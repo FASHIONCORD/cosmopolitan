@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 00:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 01:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/b01c9496-23ac-4354-9f44-e4590d93d30f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김나영♥신우&이준, 러블리한 패밀리 패션 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63444</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63444</guid>
+            <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[그 엄마에 그 아들들! 이토록 사랑스러울 수 있나~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/e0897cbd-7c58-4326-a13d-6b4def3191f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과연, 2세가 기대되는 비주얼 갑, 개성 갑 셀럽들의 임신 소식! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63443</link>
             <guid>https://www.cosmopolitan.co.kr/article/63443</guid>
@@ -350,14 +358,6 @@
             <pubDate>Fri, 28 Jan 2022 08:17:45 GMT</pubDate>
             <content:encoded><![CDATA[이젠 러그까지 힙하다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/68d49b61-7575-44aa-adfd-34a3ccdf0126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비밀 타투 SSAP에이블~ 수지∙강혜원∙티파니∙수영∙현아의 보일락 말락 시크릿 타투! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63414</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63414</guid>
-            <pubDate>Fri, 28 Jan 2022 08:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘선타투 후뚜맞’이 진리라지만, 초초초 미니 사이즈의 ‘시크릿 타투’면 맘스터치도 걱정 노놉...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/d6e06c36-2b82-41c7-87f0-2aa0de9a6cf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[용하다 용해! ‘랜선 타로’ 맛집 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/ea4a607a-546d-42df-ab6e-294378f13410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과연, 2세가 기대되는 비주얼 갑, 개성 갑 셀럽들의 임신 소식! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63443</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63443</guid>
+            <pubDate>Sat, 29 Jan 2022 00:34:10 GMT</pubDate>
+            <content:encoded><![CDATA[엄빠가 된 홍쓴 부부, 이하늬, 황찬성, 이수지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/c27f596b-6145-4342-9627-99c76be472b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[평범한 핫초코는 그저 거를 뿐,, 진함이 다른 핫 초콜릿 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63441</link>
             <guid>https://www.cosmopolitan.co.kr/article/63441</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 28 Jan 2022 08:17:45 GMT</pubDate>
             <content:encoded><![CDATA[이젠 러그까지 힙하다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/68d49b61-7575-44aa-adfd-34a3ccdf0126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설날에 뭐해? BTS 따라 서울 산책 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63413</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63413</guid>
-            <pubDate>Fri, 28 Jan 2022 07:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[RM 이 꽉 잡고 있다는 그 동네! 경복궁, 북촌으로 서울 여행 다녀온 RM, 제이홉 따라 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/d98a0cc6-b159-48d5-85de-1c5026f94a43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
