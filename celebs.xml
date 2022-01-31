@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 06:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 07:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<골 때리는 그녀들> 황소윤X송소희 '쌍소투톱', 음악VS축구 중 평생 하나만 해야 한다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63467</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63467</guid>
+            <pubDate>Mon, 31 Jan 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[현실 97 찐친 케미 감당 불가 주의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/3728d7b1-5774-4c51-9a98-ed07c492a6aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 연휴는 좀비투성이겠군, <지금 우리 학교는> 관전 포인트 TOP3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63466</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[샤넬, 루이 비통, 셀린, 미우 미우까지...... 럭셔리 하우스의 캠페인에 등장한 K-스타...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/490785bd-0bb0-42a9-acfe-2617422ffc97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<지금 우리 학교는> 정주행 전에 화보부터]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63433</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63433</guid>
-            <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[K-좀비에 맞서는 효산고 2학년 5반]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/15c91865-2e45-4eed-be26-38f6c062dc83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 06:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 07:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 연휴는 좀비투성이겠군, <지금 우리 학교는> 관전 포인트 TOP3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63466</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63466</guid>
+            <pubDate>Mon, 31 Jan 2022 07:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[레전드 좀비 원작 웹툰. 이 키워드 하나만으로는 설명하기 부족하다. &lt;지금 우리 학교는&gt;, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/e71f6562-24d5-45c2-8ecd-0814ab2ab2a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛&멋, 다 잡은 빵 액세서리가 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63455</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63455</guid>
+            <pubDate>Mon, 31 Jan 2022 07:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[옷 좋아하는 빵순이들 여기 모여!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/1b7363e9-653c-479c-91a3-93ce35da21dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복작거리지 않는 너른 공간, 휴일에는 역시 대형카페!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63453</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 10:11:48 GMT</pubDate>
             <content:encoded><![CDATA[뿜어져 나오는 바이브에 여긴 찐이다 싶었지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/76f6dbcd-59b0-42ea-af22-84b2734b991e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘미라클 모닝’ 해야만 갈 수 있다는 서울 유명 식당 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63430</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63430</guid>
-            <pubDate>Fri, 28 Jan 2022 09:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[아침식사 됩니다. 예약은 안 됩니다. 비가 오나 눈이 오나 8시 오픈!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/0ae5ec38-3b50-4312-9f6e-15dd46d0e43f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니 서울 왔다! 제주댁 효리 언니의 화려한 티빙 컴백?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63424</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63424</guid>
-            <pubDate>Fri, 28 Jan 2022 09:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 떠난 김태호 PD, 올타임 레전드 이효리와 함께 예능 &lt;서울체크인&gt; 첫 선을 보인다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/5a8e0e91-c111-4135-97d6-913e9798959a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

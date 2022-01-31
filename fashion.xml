@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 06:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 07:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짧을수록 예쁘다! 로제∙솔라∙닝닝∙전소미∙승희∙노제의 배 ‘까꿍’ 스타일링 비법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63446</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63446</guid>
+            <pubDate>Mon, 31 Jan 2022 07:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[갈비 뼈가 드러날 만큼 짧은 크롭 톱이 여전히 유행 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/9a0f714c-075e-4c33-b3bd-761c6b0e8a17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영♥신우&이준, 러블리한 패밀리 패션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63444</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 09:09:53 GMT</pubDate>
             <content:encoded><![CDATA[K-컬쳐가 대세지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/b33cdcf1-e9c4-4c8a-a96f-454ba2c8f615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올X버켄스탁? 슈프림X버버리? 세상 핫한 브랜드들의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63397</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63397</guid>
-            <pubDate>Fri, 28 Jan 2022 08:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[이건 무조건 소장각이야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/9e47a727-d2c8-492a-aba9-aa3776bd2c22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
