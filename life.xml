@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 06:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복작거리지 않는 너른 공간, 휴일에는 역시 대형카페!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63453</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63453</guid>
+            <pubDate>Mon, 31 Jan 2022 06:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[넓은 공간은 기본! 컨셉에 충실한 대형 카페4.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/55a24f9a-4360-4880-88da-bb3287487339.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 바로 찐 최웅이다! 드라마 <그 해 우리는> 그림 작가, 나야 나~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63448</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 09:12:22 GMT</pubDate>
             <content:encoded><![CDATA[MBC 떠난 김태호 PD, 올타임 레전드 이효리와 함께 예능 &lt;서울체크인&gt; 첫 선을 보인다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/5a8e0e91-c111-4135-97d6-913e9798959a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작가가 영화 덕후?! <그 해 우리는> 소제목으로 나온 영화 15!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63420</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63420</guid>
-            <pubDate>Fri, 28 Jan 2022 09:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[15개의 영화 제목으로 설명되는 &lt;그 해 우리는&gt; 각 에피소드]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/857d0950-0a2a-4b39-b463-f808eedfb030.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

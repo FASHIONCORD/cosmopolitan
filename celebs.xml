@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 06:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 연휴는 좀비투성이겠군, <지금 우리 학교는> 관전 포인트 TOP3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63466</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63466</guid>
+            <pubDate>Mon, 31 Jan 2022 06:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[레전드 좀비 원작 웹툰. 이 키워드 하나만으로는 설명하기 부족하다. &lt;지금 우리 학교는&gt;, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/e71f6562-24d5-45c2-8ecd-0814ab2ab2a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽들의 올겨울 메가 트렌드! 스키 룩을 즐기는 방법 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63449</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[K-좀비에 맞서는 효산고 2학년 5반]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/15c91865-2e45-4eed-be26-38f6c062dc83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맞다! 이 오빠, 언니들 아이돌이었지]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63428</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63428</guid>
-            <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[역시 본투비 아이돌! 원더걸스 선미와 선예, 소녀시대 윤아와 태연, 효연 2PM 준호는 본업...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/a5b7a316-b76e-4bb8-bc4c-6c6fc2043e01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
