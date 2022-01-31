@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 16:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브 장원영∙있지 예지∙오마이걸 지호∙(여자)아이들 미연까지! 리본이 대세!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63365</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63365</guid>
+            <pubDate>Mon, 31 Jan 2022 17:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[리본을 어떻게 달아볼까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/2cc100cc-8bae-4359-a382-6edde56bbcd9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차세대 솔로퀸 정예인∙최예나∙유주∙강혜원의 한 예쁨 하는 ‘뷰티 모먼트’가 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63363</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63363</guid>
+            <pubDate>Mon, 31 Jan 2022 17:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[갓벽 그 자체라 볼수록 빠져드는 매직~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/06cbc75a-ea21-419e-ba6c-a2de7bdc7e79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연∙유주∙최예나∙문별, 넷이 합쳐 조회수 2천6백만! 탑 걸그룹 출신 女솔로들의 뷰티 공식]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63336</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 08:11:01 GMT</pubDate>
             <content:encoded><![CDATA[바쁘고 바쁜 현대사회 속 우리, 시간과 돈이 들어가는 계획보다, ‘투자’도 ‘투지’도 없이 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/0993f34d-9203-4e94-858b-17909eee20bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세영∙이영지∙유이∙솔라∙AOA찬미가 알려주는 바디프로필 코디 꿀팁!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63069</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63069</guid>
-            <pubDate>Tue, 25 Jan 2022 09:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[새해 위시리스트에 빠지지 않고 등장하는 바디프로필, 어떻게 입어야 잘 나올까?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/394d5426-2753-4b2c-8422-e82f2741779d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보아∙소녀시대∙레드벨벳∙에스파가 총출동! ‘갓 더 비트’ 도대체 누구야?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63059</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63059</guid>
-            <pubDate>Mon, 24 Jan 2022 06:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[보아, 태연, 효연, 슬기, 웬디, 카리나, 윈터가 모인 레전드 of 레전드 그룹 등장!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/b01c9496-23ac-4354-9f44-e4590d93d30f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
