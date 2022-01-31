@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 01:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 02:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽들의 올겨울 메가 트렌드! 스키 룩을 즐기는 방법 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63449</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63449</guid>
+            <pubDate>Mon, 31 Jan 2022 02:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[제시카와 크리스탈의 트윈룩부터 기은세, 켄달 제너, 카밀라 코엘료까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/751d6fdb-87df-48b6-a3a8-6be45b153f22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 바로 찐 최웅이다! 드라마 <그 해 우리는> 그림 작가, 나야 나~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63448</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[역시 본투비 아이돌! 원더걸스 선미와 선예, 소녀시대 윤아와 태연, 효연 2PM 준호는 본업...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/a5b7a316-b76e-4bb8-bc4c-6c6fc2043e01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민호 보스 글로벌 앰버서더 선정]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63425</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63425</guid>
-            <pubDate>Fri, 28 Jan 2022 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴 천재 이민호 보스 글로벌 무대까지 접수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/0241f7f7-05f1-4c31-8b72-b753165b91d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
