@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 13:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 15:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현아♥던, 생방송 무대에서 찐-한 딥키스를 했다고...? 이것이 바로 29금 ‘으른 연애’ 모먼트다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63292</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63292</guid>
+            <pubDate>Tue, 01 Feb 2022 15:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[오늘만 사는 K-아이돌 커플의 사랑 이야기, 부러우면 지는 거다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/cc3942f1-dee0-4e51-ab45-abfb9efcfee1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용하다 용해! ‘랜선 타로’ 맛집]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63272</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 07:14:32 GMT</pubDate>
             <content:encoded><![CDATA[코로나 시대, 이혼율이 증가한 해외와는 다르게 국내는 오히려 감소했다? 대체 왜?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/cc7cea38-1c1a-4ba3-9062-4ed4b6fe90be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제임스 프랭코가 고백한 섹스 의존증, 심각한 거야?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62926</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62926</guid>
-            <pubDate>Mon, 24 Jan 2022 07:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2018년 '미투 폭로' 후 할리우드에서 모습을 감췄던 제임스 프랭코. 그가 4년만의 공백기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/ea4a607a-546d-42df-ab6e-294378f13410.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
