@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키스할 거야? 상황 봐서. 장수 커플 특징 푼다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63386</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63386</guid>
+            <pubDate>Thu, 03 Feb 2022 06:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[어떻게 10년 동안 한 사람만 만나? 응, 가능해! 서로의 화장실 주기까지 아는 커플들을 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/1b478169-9101-4e34-9e42-f0f14bbebc9f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[짧지만 큰 쾌감, 한 번 빠지면 헤어 나오기 힘든 숏 드라마]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63310</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Jan 2022 13:15:54 GMT</pubDate>
             <content:encoded><![CDATA[반가운 겹겹사 소식!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/145049c0-dcfe-4f08-8cdd-ba5069765ad5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펨셀...? 인셀...? 이 신조어 나만 몰라? 이게 다 무슨 뜻인데?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63025</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63025</guid>
-            <pubDate>Tue, 25 Jan 2022 03:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[비자발적 독신주의자를 뜻하는 ‘펨셀'. 최근 국내에서 일어난 ‘4B’ 운동과 비슷하다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/611cd741-cb6b-4fea-b4d8-249babea6c1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

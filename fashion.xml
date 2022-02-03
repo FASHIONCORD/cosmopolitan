@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변호사 시험 통과한 킴 카다시안! 킴의 변호사 패션?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63517</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63517</guid>
+            <pubDate>Thu, 03 Feb 2022 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[변호사의 꿈을 향한 첫 예비시험을 통과한 킴 카다시안! 이대로 ‘열공’한다면 진짜 변호사가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/02/8521143a-b8f7-4c3d-b349-c0453d6de8b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연휴에 뭐할래? 한번 지나치면 다시 보기 힘든 2월의 전시와 신간]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63505</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 31 Jan 2022 07:09:17 GMT</pubDate>
             <content:encoded><![CDATA[갈비 뼈가 드러날 만큼 짧은 크롭 톱이 여전히 유행 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/9a0f714c-075e-4c33-b3bd-761c6b0e8a17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영♥신우&이준, 러블리한 패밀리 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63444</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63444</guid>
-            <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[그 엄마에 그 아들들! 이토록 사랑스러울 수 있나~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/e0897cbd-7c58-4326-a13d-6b4def3191f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
