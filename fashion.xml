@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 03:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 04:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연휴에 뭐할래? 한번 지나치면 다시 보기 힘든 2월의 전시와 신간]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63505</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63505</guid>
+            <pubDate>Thu, 03 Feb 2022 04:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[한번 지나치면 다시 보기 힘든 2월의 전시와 신간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/01/a73c17de-4dff-4ea1-8c5b-81dadf676c15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대갓기 그룹, 아이브의 찐 본캐 폭로전! 평균 키 170cm 최장신 그룹 내에서 키가 계속 자라는 멤버가 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63493</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63493</guid>
+            <pubDate>Thu, 03 Feb 2022 04:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[케미와 오디오 사운드 모두 폭발함 주의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/75b4bf53-0f32-4ec8-8447-9968ca599359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛&멋, 다 잡은 빵 액세서리가 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63455</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63455</guid>
+            <pubDate>Thu, 03 Feb 2022 04:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[옷 좋아하는 빵순이들 여기 모여!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/1b7363e9-653c-479c-91a3-93ce35da21dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 조이∙이사배∙수민 등 힙스터들이 선택한 힙 스타킹!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63454</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
             <content:encoded><![CDATA[그 엄마에 그 아들들! 이토록 사랑스러울 수 있나~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/e0897cbd-7c58-4326-a13d-6b4def3191f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 나연∙김나영∙김수미가 쓰는 레트로한 안경 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63440</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63440</guid>
-            <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[유행은 돌고 돌아 젠틀몬스터에서 출시한 레트로 안경 7080세대의 큼지막한 잠자리 안경이 유...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/17d97829-9cb5-4863-ade1-d8e30e09f665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리 패션 하우스의 뉴 캠페인에 등장한 K-스타들!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63435</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63435</guid>
-            <pubDate>Fri, 28 Jan 2022 09:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬, 루이 비통, 셀린, 미우 미우까지...... 럭셔리 하우스의 캠페인에 등장한 K-스타...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/490785bd-0bb0-42a9-acfe-2617422ffc97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 세계 1위 차지한 <지금 우리 학교는> 화보]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63433</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63433</guid>
-            <pubDate>Fri, 28 Jan 2022 09:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[K-좀비에 맞서는 효산고 2학년 5반]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/15c91865-2e45-4eed-be26-38f6c062dc83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

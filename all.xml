@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 03:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 04:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,30 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTFfNDEg/MDAxNjQxODk2OTQ5ODIx.q9pM4-7Z5rYtBpn0krUSOA-sJlWm7q5mYGmV6Dx0q5Qg.iZs8prBCo_ufZY2aS7cd6GcPFxe-ZjamI24MUiZilbQg.JPEG/IoiRHtvGpL-u5PxjP5vzKfGHK1YA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연휴에 뭐할래? 한번 지나치면 다시 보기 힘든 2월의 전시와 신간 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63505</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63505</guid>
+            <pubDate>Thu, 03 Feb 2022 04:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[한번 지나치면 다시 보기 힘든 2월의 전시와 신간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/01/a73c17de-4dff-4ea1-8c5b-81dadf676c15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대갓기 그룹, 아이브의 찐 본캐 폭로전! 평균 키 170cm 최장신 그룹 내에서 키가 계속 자라는 멤버가 있다고? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63493</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63493</guid>
+            <pubDate>Thu, 03 Feb 2022 04:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[케미와 오디오 사운드 모두 폭발함 주의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/75b4bf53-0f32-4ec8-8447-9968ca599359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛&멋, 다 잡은 빵 액세서리가 있다고? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63455</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63455</guid>
+            <pubDate>Mon, 31 Jan 2022 07:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[옷 좋아하는 빵순이들 여기 모여!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/1b7363e9-653c-479c-91a3-93ce35da21dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레드벨벳 조이∙이사배∙수민 등 힙스터들이 선택한 힙 스타킹! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63454</link>
             <guid>https://www.cosmopolitan.co.kr/article/63454</guid>
@@ -206,30 +230,6 @@
             <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
             <content:encoded><![CDATA[그 엄마에 그 아들들! 이토록 사랑스러울 수 있나~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/e0897cbd-7c58-4326-a13d-6b4def3191f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 나연∙김나영∙김수미가 쓰는 레트로한 안경 무엇? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63440</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63440</guid>
-            <pubDate>Fri, 28 Jan 2022 10:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[유행은 돌고 돌아 젠틀몬스터에서 출시한 레트로 안경 7080세대의 큼지막한 잠자리 안경이 유...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/17d97829-9cb5-4863-ade1-d8e30e09f665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리 패션 하우스의 뉴 캠페인에 등장한 K-스타들! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63435</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63435</guid>
-            <pubDate>Fri, 28 Jan 2022 09:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬, 루이 비통, 셀린, 미우 미우까지...... 럭셔리 하우스의 캠페인에 등장한 K-스타...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/490785bd-0bb0-42a9-acfe-2617422ffc97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 세계 1위 차지한 <지금 우리 학교는> 화보 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63433</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63433</guid>
-            <pubDate>Fri, 28 Jan 2022 09:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[K-좀비에 맞서는 효산고 2학년 5반]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/15c91865-2e45-4eed-be26-38f6c062dc83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이브 장원영∙있지 예지∙오마이걸 지호∙(여자)아이들 미연까지! 리본이 대세! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -360,6 +360,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/c27f596b-6145-4342-9627-99c76be472b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[짧지만 큰 쾌감, 한 번 빠지면 헤어 나오기 힘든 숏 드라마 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63310</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63310</guid>
+            <pubDate>Thu, 03 Feb 2022 04:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[뻘하게 터지고, 눈물까지 흘려서 자존심은 좀 상하지만, 이 괴물 같은 사람들의 공감 연기는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/d6dc416d-d75e-423c-b9bc-2daf5d25b8b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현아♥던, 생방송 무대에서 찐-한 딥키스를 했다고...? 이것이 바로 29금 ‘으른 연애’ 모먼트다! (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63292</link>
             <guid>https://www.cosmopolitan.co.kr/article/63292</guid>
@@ -414,14 +422,6 @@
             <pubDate>Tue, 25 Jan 2022 03:11:25 GMT</pubDate>
             <content:encoded><![CDATA[비자발적 독신주의자를 뜻하는 ‘펨셀'. 최근 국내에서 일어난 ‘4B’ 운동과 비슷하다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/611cd741-cb6b-4fea-b4d8-249babea6c1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나로 인해 국내 이혼율이 감소했다고? 사회적 거리두기 명절엔 오히려 좋아! (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/62946</link>
-            <guid>https://www.cosmopolitan.co.kr/article/62946</guid>
-            <pubDate>Mon, 24 Jan 2022 07:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 시대, 이혼율이 증가한 해외와는 다르게 국내는 오히려 감소했다? 대체 왜?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/cc7cea38-1c1a-4ba3-9062-4ed4b6fe90be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번 연휴는 좀비투성이겠군, <지금 우리 학교는> 관전 포인트 TOP3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
