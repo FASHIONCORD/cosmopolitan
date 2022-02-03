@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 08:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 09:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-로판, 공주님들 모여라! 장원영·제니·태연·다영 헤어 스타일 따라잡기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63396</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63396</guid>
+            <pubDate>Thu, 03 Feb 2022 09:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[공주 모먼트 뿜뿜! 하는 그녀들의 치트키는 ‘헤어 악세서리’에 있다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/f36280a8-0078-44d5-93ca-6b01bcdd027c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브 장원영∙있지 예지∙오마이걸 지호∙(여자)아이들 미연까지! 리본이 대세!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63365</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 27 Jan 2022 03:10:10 GMT</pubDate>
             <content:encoded><![CDATA[나나 영롱킴∙밤비∙김치∙지반까지 활발하게 활동 중인 드랙 아티스트에 주목~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/562ac57c-fa6b-4c78-8d38-5d490cc05af3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 목표가 꼭 ‘다이어트 성공’이라면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63073</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63073</guid>
-            <pubDate>Wed, 26 Jan 2022 08:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[바쁘고 바쁜 현대사회 속 우리, 시간과 돈이 들어가는 계획보다, ‘투자’도 ‘투지’도 없이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/0993f34d-9203-4e94-858b-17909eee20bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

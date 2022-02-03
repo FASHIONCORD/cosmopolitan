@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 08:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 09:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<골 때리는 그녀들> 황소윤X송소희 '쌍소투톱', 음악VS축구 중 평생 하나만 해야 한다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63467</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63467</guid>
+            <pubDate>Thu, 03 Feb 2022 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[현실 97 찐친 케미 감당 불가 주의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/3728d7b1-5774-4c51-9a98-ed07c492a6aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 연휴는 좀비투성이겠군, <지금 우리 학교는> 관전 포인트 TOP3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63466</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 10:11:48 GMT</pubDate>
             <content:encoded><![CDATA[눈도 황홀 입도 황홀, 이건 작품이라고 봐!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/5d911f19-f792-4c8b-a0d6-3aa9fe167032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여긴 몰랐지? 둔촌, 성내동 감성 넘치는 카페 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63431</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63431</guid>
-            <pubDate>Fri, 28 Jan 2022 10:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[뿜어져 나오는 바이브에 여긴 찐이다 싶었지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/76f6dbcd-59b0-42ea-af22-84b2734b991e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

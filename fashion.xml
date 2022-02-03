@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 08:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 09:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오피스 룩부터 Y2K 룩까지 가능한 가성비 끝판왕 아이템 블레이저 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63527</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63527</guid>
+            <pubDate>Thu, 03 Feb 2022 09:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[재킷 하나로 끝!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/82174527-f156-4bd0-9689-5e6bd567f596.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모 Pick 이달의 패션템!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63514</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 01 Feb 2022 16:12:03 GMT</pubDate>
             <content:encoded><![CDATA[제시카와 크리스탈의 트윈룩부터 기은세, 켄달 제너, 카밀라 코엘료까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/751d6fdb-87df-48b6-a3a8-6be45b153f22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["요즘 모자 뭐 쓰니?" 발라클라바부터 베렛까지, 해트 스타일링 팁 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63447</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63447</guid>
-            <pubDate>Mon, 31 Jan 2022 15:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[단 하나의 아이템으로 룩의 무드를 좌지우지하기엔 모자가 딱이지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/963fb929-f5d8-4734-9cdb-37e751f3d3c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
