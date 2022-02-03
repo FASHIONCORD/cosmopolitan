@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유재석도 등판한 깻잎 논쟁, 이젠 정말 끝을 내자!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63526</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63526</guid>
+            <pubDate>Thu, 03 Feb 2022 08:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[깻잎이든 새우든 이젠 정말 끝을 봐야 할 때. 신박한 해결책들도 속속 등장했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/0fe7e384-eaa4-4fd5-924a-d43a3a34b81e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멸종위기 앵무새를 키우고 집에서 캠핑을? 송민호의 예술 감성 터지는 일상]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63524</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63524</guid>
+            <pubDate>Thu, 03 Feb 2022 08:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[본명은 송민호, 랩 할 땐 마이노, 그림 그릴 땐 오님. 활동명 만큼이나 구경할 것도 많은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/f595b26b-7bbd-440e-94e7-a920a45ea15c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대갓기 그룹, 아이브의 찐 본캐 폭로전! 평균 키 170cm 최장신 그룹 내에서 키가 계속 자라는 멤버가 있다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63493</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 31 Jan 2022 07:10:44 GMT</pubDate>
             <content:encoded><![CDATA[현실 97 찐친 케미 감당 불가 주의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/3728d7b1-5774-4c51-9a98-ed07c492a6aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 연휴는 좀비투성이겠군, <지금 우리 학교는> 관전 포인트 TOP3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63466</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63466</guid>
-            <pubDate>Mon, 31 Jan 2022 06:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[레전드 좀비 원작 웹툰. 이 키워드 하나만으로는 설명하기 부족하다. &lt;지금 우리 학교는&gt;, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/e71f6562-24d5-45c2-8ecd-0814ab2ab2a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들의 올겨울 메가 트렌드! 스키 룩을 즐기는 방법 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63449</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63449</guid>
-            <pubDate>Mon, 31 Jan 2022 02:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[제시카와 크리스탈의 트윈룩부터 기은세, 켄달 제너, 카밀라 코엘료까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/751d6fdb-87df-48b6-a3a8-6be45b153f22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
