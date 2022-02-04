@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 14:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 16:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀수박이 왔어요! 저 세상 텐션으로 'Fun, Fearless, Female'을 실천하고 있는 과천꿀수박의 셀프 키워드는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63492</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63492</guid>
+            <pubDate>Fri, 04 Feb 2022 16:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[과천꿀수박만의 이유있는 자신감과 기회를 잡는 방법은? #FFFTALK]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/86626c8d-a3fb-4830-9305-c1cb62009588.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 지민 아빠∙2PM 준호 누나∙자이언티 아빠가 운영하는 카페?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63491</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 29 Jan 2022 01:46:51 GMT</pubDate>
             <content:encoded><![CDATA[엄빠가 된 홍쓴 부부, 이하늬, 황찬성, 이수지]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/c27f596b-6145-4342-9627-99c76be472b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 핫초코는 그저 거를 뿐,, 진함이 다른 핫 초콜릿 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63441</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63441</guid>
-            <pubDate>Sat, 29 Jan 2022 00:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[추운 겨울날 마시는 프로즌 핫 초콜릿 이라니, 설명이 필요 없다고요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/5a797c48-e43b-4d22-984a-b2ef37ff53d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

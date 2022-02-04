@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 14:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 16:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명절 급찐급빠를 위한 홈트동작 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63422</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63422</guid>
+            <pubDate>Fri, 04 Feb 2022 16:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[설연휴 늘어지게 자고 마음껏 먹을 예정이라면 이 링크를 저장해 둘 것! 연휴 후폭풍을 잠재워...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/cbecea3b-6ef1-42bb-9df3-bcc01969a6f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비밀 타투 SSAP에이블~ 수지∙강혜원∙티파니∙수영∙현아의 보일락 말락 시크릿 타투!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63414</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 27 Jan 2022 10:09:32 GMT</pubDate>
             <content:encoded><![CDATA[파격적인 변신이 필요할 땐 이게 딱이지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/54a67a93-2463-4e3a-9696-9d419083a7a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트는 내일부터! 배신하고 다이어트 성공한 핵인싸 이영지의 헤어스타일은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63095</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63095</guid>
-            <pubDate>Thu, 27 Jan 2022 03:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 성공으로 더욱 핫해진 MZ세대 아이콘 이영지. 그만큼 헤어스타일도 핫해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/0cb6027a-ada5-4856-a84a-489b920d4979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
