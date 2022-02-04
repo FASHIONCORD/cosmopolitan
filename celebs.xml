@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 07:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 08:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박신혜가 입은 웨딩드레스, 고소영·민효린·나혜미도 입은 '그 브랜드'?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63541</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63541</guid>
+            <pubDate>Fri, 04 Feb 2022 08:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[“웨딩드레스계의 샤넬?!” 톱스타들도 반한 명품 브랜드 오스카 드 라 렌타]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/83dc6727-9f1c-4edd-8b73-3d7986e78e21.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“추위 따위!” 찐 ‘HIP’ 한겨울 브라톱 패션 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63529</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 05:10:07 GMT</pubDate>
             <content:encoded><![CDATA[과천꿀수박만의 이유있는 자신감과 기회를 잡는 방법은? #FFFTALK]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/86626c8d-a3fb-4830-9305-c1cb62009588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민 아빠∙2PM 준호 누나∙자이언티 아빠가 운영하는 카페?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63491</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63491</guid>
-            <pubDate>Thu, 03 Feb 2022 05:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[스타들의 가족이 운영하는 카페 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/6324ef68-bf4e-4cb5-b114-439b266171a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
