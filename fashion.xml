@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 14:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 16:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘봇짐러’들이 주목해야 할 큼지막한 BIG백 패션 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63528</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63528</guid>
+            <pubDate>Sat, 05 Feb 2022 16:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[핸드폰만 들어가는 미니 백은 힘들어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/bc91fc58-1b57-44f1-94c3-e0429deb14c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오피스 룩부터 Y2K 룩까지 가능한 가성비 끝판왕 아이템 블레이저 스타일링 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63527</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 01 Feb 2022 16:12:03 GMT</pubDate>
             <content:encoded><![CDATA[컬러를 넘어서 프린팅까지, 스타킹의 변신은 무죄 !]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/d89b3778-010a-4a76-bb6c-6cc13212ed01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들의 올겨울 메가 트렌드! 스키 룩을 즐기는 방법 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63449</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63449</guid>
-            <pubDate>Tue, 01 Feb 2022 16:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[제시카와 크리스탈의 트윈룩부터 기은세, 켄달 제너, 카밀라 코엘료까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/751d6fdb-87df-48b6-a3a8-6be45b153f22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
