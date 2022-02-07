@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 02:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 03:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연·키, 장도연·양세형, 손담비·김희철까지 연예계 찐친 모먼트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63545</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63545</guid>
+            <pubDate>Mon, 07 Feb 2022 03:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[이성끼리 친구 가능? 완전 가능~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/f6c97234-b2ac-46ec-b5d0-309b7d9beb47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베리 예쁜 한예슬·제니·조이·유리도 홀릭 중인 ‘베리 페리’ 컬러 룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63544</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 08:13:42 GMT</pubDate>
             <content:encoded><![CDATA[본명은 송민호, 랩 할 땐 마이노, 그림 그릴 땐 오님. 활동명 만큼이나 구경할 것도 많은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/f595b26b-7bbd-440e-94e7-a920a45ea15c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대갓기 그룹, 아이브의 찐 본캐 폭로전! 평균 키 170cm 최장신 그룹 내에서 키가 계속 자라는 멤버가 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63493</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63493</guid>
-            <pubDate>Thu, 03 Feb 2022 06:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[케미와 오디오 사운드 모두 폭발함 주의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/75b4bf53-0f32-4ec8-8447-9968ca599359.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
