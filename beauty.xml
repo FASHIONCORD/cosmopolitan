@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬 바람으로부터 당신을 지켜줄 따끈따근한 2월의 뷰티 신상 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63552</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63552</guid>
+            <pubDate>Mon, 07 Feb 2022 06:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[찬 바람으로부터 당신을 지켜줄 따끈따끈한 2월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/87051cf2-2db6-4954-85c8-812f3431c941.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수천 송이의 꽃으로 수놓은 듯한 밀레피오리 향기를 표현한 미스 디올 오 드 퍼퓸 & NEW 미스 디올 롤러-펄 오 드 퍼퓸!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63502</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 31 Jan 2022 17:10:35 GMT</pubDate>
             <content:encoded><![CDATA[갓벽 그 자체라 볼수록 빠져드는 매직~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/06cbc75a-ea21-419e-ba6c-a2de7bdc7e79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연∙유주∙최예나∙문별, 넷이 합쳐 조회수 2천6백만! 탑 걸그룹 출신 女솔로들의 뷰티 공식]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63336</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63336</guid>
-            <pubDate>Fri, 28 Jan 2022 06:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[자칭+타칭 솔로퀸 태연부터 첫 홀로서기에 도전한 유주, 예나까지! 탑 걸그룹 출신 아이돌들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/fa6c4df5-7b86-4691-9da1-d0a3c923d435.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

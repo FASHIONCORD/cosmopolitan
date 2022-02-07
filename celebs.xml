@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나 혼자 산다> 최초 공개, 좋아하는 거 다 넣은 맥시멀리스트 송민호 집 인테리어는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63560</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63560</guid>
+            <pubDate>Mon, 07 Feb 2022 06:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 가구와 소품, 그리고 캠핑 용품까지 가득 찬 맥시멀리스트의 집은 어떻길래!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/7f98785b-4616-4e48-b6cf-68ba56219617.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 이세영, 차기작 <법대로 사랑하라>으로 돌아온다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63546</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63546</guid>
+            <pubDate>Mon, 07 Feb 2022 06:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 믿고보는 배우 이세영]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/a705a263-344e-4ea6-914a-a5c677ba6593.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연·키, 장도연·양세형, 손담비·김희철까지 연예계 찐친 모먼트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63545</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[재킷 하나로 끝!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/82174527-f156-4bd0-9689-5e6bd567f596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재석도 등판한 깻잎 논쟁, 이젠 정말 끝을 내자!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63526</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63526</guid>
-            <pubDate>Thu, 03 Feb 2022 08:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[깻잎이든 새우든 이젠 정말 끝을 봐야 할 때. 신박한 해결책들도 속속 등장했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/0fe7e384-eaa4-4fd5-924a-d43a3a34b81e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멸종위기 앵무새를 키우고 집에서 캠핑을? 송민호의 예술 감성 터지는 일상]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63524</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63524</guid>
-            <pubDate>Thu, 03 Feb 2022 08:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[본명은 송민호, 랩 할 땐 마이노, 그림 그릴 땐 오님. 활동명 만큼이나 구경할 것도 많은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/f595b26b-7bbd-440e-94e7-a920a45ea15c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
