@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 22:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 01:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“추위 따위!” 찐 ‘HIP’ 한겨울 브라톱 패션 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63529</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63529</guid>
+            <pubDate>Mon, 07 Feb 2022 01:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[찐 새해도 지났으니, 운동 시작해야 하나…]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/286164e6-cb2f-4d9b-8362-32703cff5960.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12번째 '유니클로 U'와 12인의 인플루언서의 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63450</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63450</guid>
+            <pubDate>Mon, 07 Feb 2022 01:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[크리스토퍼 르메르가 디자인한 12번째 유니클로 U!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/4261d715-870c-4f80-8bc4-50b2ad9f7e29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘봇짐러’들이 주목해야 할 큼지막한 BIG백 패션 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63528</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 04:11:30 GMT</pubDate>
             <content:encoded><![CDATA[케미와 오디오 사운드 모두 폭발함 주의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/75b4bf53-0f32-4ec8-8447-9968ca599359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛&멋, 다 잡은 빵 액세서리가 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63455</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63455</guid>
-            <pubDate>Thu, 03 Feb 2022 04:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[옷 좋아하는 빵순이들 여기 모여!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/1b7363e9-653c-479c-91a3-93ce35da21dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 조이∙이사배∙수민 등 힙스터들이 선택한 힙 스타킹!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63454</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63454</guid>
-            <pubDate>Tue, 01 Feb 2022 16:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[컬러를 넘어서 프린팅까지, 스타킹의 변신은 무죄 !]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/d89b3778-010a-4a76-bb6c-6cc13212ed01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
