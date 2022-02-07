@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 08:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 09:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무쌍녀들의 워너비, 안소희의 ‘꾸안꾸’ 메이크업 전격 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63627</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63627</guid>
+            <pubDate>Mon, 07 Feb 2022 09:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[안소희가 ‘겟 레디 윗 미’에서 공개한 내추럴 무쌍 메이크업 루틴과 꿀템들을 모아 모아~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/fe9122e7-5daa-451e-a476-aae9cd10cbd6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 지수가 찍어준 동료 배우들의 인생샷 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63625</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Feb 2022 03:11:23 GMT</pubDate>
             <content:encoded><![CDATA[이성끼리 친구 가능? 완전 가능~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/f6c97234-b2ac-46ec-b5d0-309b7d9beb47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베리 예쁜 한예슬·제니·조이·유리도 홀릭 중인 ‘베리 페리’ 컬러 룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63544</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63544</guid>
-            <pubDate>Mon, 07 Feb 2022 01:56:53 GMT</pubDate>
-            <content:encoded><![CDATA[트렌디한 베리 페리 컬러 스타일링이 궁금하다면 주목~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/2654cf71-e657-4a67-8eda-d638561109e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
