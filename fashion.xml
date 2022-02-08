@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 15:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 16:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“매주가 레전드!” 놀토 분장에 진심인듯한 태연 착장 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63643</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63643</guid>
+            <pubDate>Tue, 08 Feb 2022 16:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[소화력 무엇?!~ 분장 유형별로 보는 태연의 콘셉트 소화력!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/4e9382c9-de60-4949-bb08-cca2af05dbb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니∙리사∙채령∙손나은의 구멍 난 스타일링이 궁금하다면?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63620</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Feb 2022 01:55:51 GMT</pubDate>
             <content:encoded><![CDATA[찐 새해도 지났으니, 운동 시작해야 하나…]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/286164e6-cb2f-4d9b-8362-32703cff5960.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12번째 '유니클로 U'와 12인의 인플루언서의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63450</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63450</guid>
-            <pubDate>Mon, 07 Feb 2022 01:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[크리스토퍼 르메르가 디자인한 12번째 유니클로 U!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/4261d715-870c-4f80-8bc4-50b2ad9f7e29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
