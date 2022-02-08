@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:56:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#운동 못해도 운동복 재질!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61838</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61838</guid>
+            <pubDate>Tue, 08 Feb 2022 01:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[재택근무가 일상에 자리를 잡으며, 운동복과 라운지 웨어의 경계가 확장되었죠. 이는 오피스 룩...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/8ccb7d24-d1cd-4ed6-b436-7c97a3a0641e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/61462</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Jan 2022 09:12:39 GMT</pubDate>
             <content:encoded><![CDATA[자꾸만 과몰입하게 되는 겉바속촉 &lt;스트릿 우먼 파이터 &gt;속 뇌리에 박힌 잊을 수 없는 장면은...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/39df2079-b44e-41bf-9372-c66e6b215ca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인플루언서 꿈나무 VS 어둠의 일기 부계정, SNS 사용 패턴은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58255</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58255</guid>
-            <pubDate>Wed, 12 Jan 2022 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[기나긴 '방콕 생활'이 시작되며 스크린 타임은 늘어만 가고... 모두가 갇혀버린 네모난 SN...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/03/bda2c573-e0cd-4246-8cab-49241bdcb47f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

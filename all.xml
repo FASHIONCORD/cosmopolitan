@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:56:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/145049c0-dcfe-4f08-8cdd-ba5069765ad5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<나 혼자 산다> 최초 공개, 좋아하는 거 다 넣은 맥시멀리스트 송민호 집 인테리어는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63560</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63560</guid>
+            <pubDate>Mon, 07 Feb 2022 06:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 가구와 소품, 그리고 캠핑 용품까지 가득 찬 맥시멀리스트의 집은 어떻길래!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/7f98785b-4616-4e48-b6cf-68ba56219617.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브에서 보기만 했던 그 음식! 직접 먹을 수 있다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63543</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63543</guid>
+            <pubDate>Tue, 08 Feb 2022 01:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[실버 버튼 받은 유튜버들이 직접 문을 연 유튜버 레스토랑 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/c5a79b4b-2a5f-4c5d-b004-cf0266a1ffa5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이런 전은 또 처음일걸? 군침이 싹 도는 이색 명절 음식 전 맛ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63494</link>
             <guid>https://www.cosmopolitan.co.kr/article/63494</guid>
@@ -472,20 +488,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/e71f6562-24d5-45c2-8ecd-0814ab2ab2a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[맛&멋, 다 잡은 빵 액세서리가 있다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63455</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63455</guid>
-            <pubDate>Mon, 31 Jan 2022 07:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[옷 좋아하는 빵순이들 여기 모여!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/1b7363e9-653c-479c-91a3-93ce35da21dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복작거리지 않는 너른 공간, 휴일에는 역시 대형카페! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63453</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63453</guid>
-            <pubDate>Mon, 31 Jan 2022 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[넓은 공간은 기본! 컨셉에 충실한 대형 카페4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/55a24f9a-4360-4880-88da-bb3287487339.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[#운동 못해도 운동복 재질! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/61838</link>
+            <guid>https://www.cosmopolitan.co.kr/article/61838</guid>
+            <pubDate>Tue, 08 Feb 2022 01:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[재택근무가 일상에 자리를 잡으며, 운동복과 라운지 웨어의 경계가 확장되었죠. 이는 오피스 룩...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/8ccb7d24-d1cd-4ed6-b436-7c97a3a0641e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -542,14 +550,6 @@
             <pubDate>Wed, 12 Jan 2022 09:12:39 GMT</pubDate>
             <content:encoded><![CDATA[자꾸만 과몰입하게 되는 겉바속촉 &lt;스트릿 우먼 파이터 &gt;속 뇌리에 박힌 잊을 수 없는 장면은...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/39df2079-b44e-41bf-9372-c66e6b215ca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인플루언서 꿈나무 VS 어둠의 일기 부계정, SNS 사용 패턴은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/58255</link>
-            <guid>https://www.cosmopolitan.co.kr/article/58255</guid>
-            <pubDate>Wed, 12 Jan 2022 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[기나긴 '방콕 생활'이 시작되며 스크린 타임은 늘어만 가고... 모두가 갇혀버린 네모난 SN...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/03/bda2c573-e0cd-4246-8cab-49241bdcb47f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
