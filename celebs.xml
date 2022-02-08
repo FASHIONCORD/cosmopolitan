@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 04:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 05:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타고난 막냉이 재질! 최우식∙공명∙나인우∙로몬]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63632</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63632</guid>
+            <pubDate>Tue, 08 Feb 2022 05:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[오늘부터 내 이상형은 막냉이들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/75c43688-b342-44e5-b4be-38fec606fd6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무쌍녀들의 워너비, 안소희의 ‘꾸안꾸’ 메이크업 전격 공개!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63627</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Feb 2022 06:11:57 GMT</pubDate>
             <content:encoded><![CDATA[이제는 믿고보는 배우 이세영]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/a705a263-344e-4ea6-914a-a5c677ba6593.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연·키, 장도연·양세형, 손담비·김희철까지 연예계 찐친 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63545</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63545</guid>
-            <pubDate>Mon, 07 Feb 2022 03:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[이성끼리 친구 가능? 완전 가능~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/f6c97234-b2ac-46ec-b5d0-309b7d9beb47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
