@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 05:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 06:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTky/MDAxNjQyMTIyOTk0MDY3.oF7O5IAM3jvA1pcwquGJu6UHpeUIly435-tBLTnbL2gg.-E1uCD8Xl1lge4siXabmZGJGQnQkSdeIB3LcUSRLEJcg.JPEG/IbTRB9bxYMo-PrH5cM0ZEGQvlw88.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데일리로 입기 좋은 한선화 사복 패션 스타일링! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63614</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63614</guid>
+            <pubDate>Tue, 08 Feb 2022 06:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[포멀, 캐주얼 두 마리 토끼를 모두 잡은 그녀의 패션은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/852d664e-3066-4f13-a850-1436380462ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올봄 힙과 편안함을 모두 잡을 룩! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63599</link>
             <guid>https://www.cosmopolitan.co.kr/article/63599</guid>
@@ -222,14 +230,6 @@
             <pubDate>Thu, 03 Feb 2022 09:08:51 GMT</pubDate>
             <content:encoded><![CDATA[재킷 하나로 끝!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/82174527-f156-4bd0-9689-5e6bd567f596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 Pick 이달의 패션템! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63514</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63514</guid>
-            <pubDate>Thu, 03 Feb 2022 08:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/02/729746dc-f24d-49da-93b3-d3ecd8b28ec1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밸런타인데이를 러블리하게 만들어줄 아이템 모음! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,6 +296,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/2cc100cc-8bae-4359-a382-6edde56bbcd9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[달걀 흰자 먹는 데 2분 30초? 키∙안소희∙코쿤 소식좌들의 식사법 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63638</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63638</guid>
+            <pubDate>Tue, 08 Feb 2022 06:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[달걀 흰자 먹는 데 2분 30초? 키, 안소희, 코쿤 소식좌들의 식사법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/c2a3e4df-31d1-4c4b-bb12-5d3956783c71.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지우학' 주인공, 벌써부터 다음 작품 기대 중? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63635</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63635</guid>
+            <pubDate>Tue, 08 Feb 2022 06:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[현재까지 넷플릭스 TV쇼 부분 글로벌 1위 기록을 이어가고 있는 지우학의 주인공들! 로몬, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/57a11b8d-0bae-4dd4-b788-7d614b4ac675.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[타고난 막냉이 재질! 최우식∙공명∙나인우∙로몬 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63632</link>
             <guid>https://www.cosmopolitan.co.kr/article/63632</guid>
@@ -344,20 +360,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/29f16d72-9064-4948-94b6-653241bfad3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<나 혼자 산다> 최초 공개, 좋아하는 거 다 넣은 맥시멀리스트 송민호 집 인테리어는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63560</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63560</guid>
-            <pubDate>Mon, 07 Feb 2022 06:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 가구와 소품, 그리고 캠핑 용품까지 가득 찬 맥시멀리스트의 집은 어떻길래!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/7f98785b-4616-4e48-b6cf-68ba56219617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이세영, 차기작 <법대로 사랑하라>으로 돌아온다! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63546</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63546</guid>
-            <pubDate>Mon, 07 Feb 2022 06:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 믿고보는 배우 이세영]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/a705a263-344e-4ea6-914a-a5c677ba6593.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[작가가 영화 덕후?! <그 해 우리는> 소제목으로 나온 영화 15! (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63420</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63420</guid>
+            <pubDate>Tue, 08 Feb 2022 06:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[15개의 영화 제목으로 설명되는 &lt;그 해 우리는&gt; 각 에피소드]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/857d0950-0a2a-4b39-b463-f808eedfb030.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키스할 거야? 상황 봐서. 장수 커플 특징 푼다! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -414,14 +422,6 @@
             <pubDate>Wed, 26 Jan 2022 04:13:16 GMT</pubDate>
             <content:encoded><![CDATA[배우 이민호, 이서진, 류준열의 찐친 인증은 물론 축가가 무려 이적, 디오, 이홍기?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/837f25a1-ae04-46f0-ac8d-01054673db06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이하늬, 곧 엄마된다?! 벌써 임신 4개월차로 올해 6월 출산 예정이라고! (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63027</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63027</guid>
-            <pubDate>Tue, 25 Jan 2022 13:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[반가운 겹겹사 소식!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/145049c0-dcfe-4f08-8cdd-ba5069765ad5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
