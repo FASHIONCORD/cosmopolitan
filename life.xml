@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 08:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 09:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 정도면 ‘호구마’ 특집 이랄까? 은은한 단맛이 매력적인 고구마 디저트 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63663</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63663</guid>
+            <pubDate>Tue, 08 Feb 2022 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[고구마, 3000만큼 사랑해~~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/bfc64766-1fed-4ea6-9eb7-69653d825819.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63642</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Feb 2022 07:13:50 GMT</pubDate>
             <content:encoded><![CDATA[JMT의 J는 전이라는데...? 집에서는 부쳐먹기 힘든 전 맛집 4.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/ec05dfa5-7235-40ec-9152-f7929cad437c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대갓기 그룹, 아이브의 찐 본캐 폭로전! 평균 키 170cm 최장신 그룹 내에서 키가 계속 자라는 멤버가 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63493</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63493</guid>
-            <pubDate>Mon, 07 Feb 2022 02:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[케미와 오디오 사운드 모두 폭발함 주의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/75b4bf53-0f32-4ec8-8447-9968ca599359.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
