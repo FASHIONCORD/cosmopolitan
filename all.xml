@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 07:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 08:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/4261d715-870c-4f80-8bc4-50b2ad9f7e29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두근두근! 밸런타인데이 로맨틱 지수를 끌어올려줄 뷰티 치트키는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63585</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63585</guid>
+            <pubDate>Tue, 08 Feb 2022 08:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[밸런타인데이, 로맨틱 지수를 끌어올려줄 뷰티 치트키.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/52d6aac2-54dd-4fbc-a010-24ca33b35c8c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[밸런타인데이를 러블리하게 만들어줄 아이템 모음! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63557</link>
             <guid>https://www.cosmopolitan.co.kr/article/63557</guid>
@@ -288,12 +296,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/f36280a8-0078-44d5-93ca-6b01bcdd027c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이브 장원영∙있지 예지∙오마이걸 지호∙(여자)아이들 미연까지! 리본이 대세! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63365</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63365</guid>
-            <pubDate>Mon, 31 Jan 2022 17:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[리본을 어떻게 달아볼까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/2cc100cc-8bae-4359-a382-6edde56bbcd9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[킷캣 밸런타인 보이 등장! 이번 밸런타인데이를 더 달콤하게 만들어줄 주인공은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63668</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63668</guid>
+            <pubDate>Tue, 08 Feb 2022 08:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[킷캣의 NEW 신제품, 하트 틴 케이스를 들고 있는 주인공 곧 공개! 많관BOO!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/a4908d5e-c35a-4f95-bf87-5b07c674192f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“매주가 레전드!” 놀토 분장에 진심인듯한 태연 착장 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -350,14 +358,6 @@
             <pubDate>Mon, 07 Feb 2022 08:12:47 GMT</pubDate>
             <content:encoded><![CDATA[박명수 버금간다는 연예계 프로(?) 사진작가 블랙핑크 지수?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/b58839ba-94c0-4cbb-a785-4f55566ca6c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니∙리사∙채령∙손나은의 구멍 난 스타일링이 궁금하다면?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63620</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63620</guid>
-            <pubDate>Mon, 07 Feb 2022 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[여기저기 구멍 뻥뻥! 커팅 디테일이 대세!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/3256254a-cc70-427d-87f9-2bf982b15eee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작가가 영화 덕후?! <그 해 우리는> 소제목으로 나온 영화 15! (코스모폴리탄 코리아 ─ 러브)]]></title>

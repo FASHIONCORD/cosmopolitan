@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 07:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 08:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두근두근! 밸런타인데이 로맨틱 지수를 끌어올려줄 뷰티 치트키는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63585</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63585</guid>
+            <pubDate>Tue, 08 Feb 2022 08:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[밸런타인데이, 로맨틱 지수를 끌어올려줄 뷰티 치트키.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/52d6aac2-54dd-4fbc-a010-24ca33b35c8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밸런타인데이를 러블리하게 만들어줄 아이템 모음!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63557</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 15:12:17 GMT</pubDate>
             <content:encoded><![CDATA[공주 모먼트 뿜뿜! 하는 그녀들의 치트키는 ‘헤어 악세서리’에 있다?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/f36280a8-0078-44d5-93ca-6b01bcdd027c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브 장원영∙있지 예지∙오마이걸 지호∙(여자)아이들 미연까지! 리본이 대세!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63365</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63365</guid>
-            <pubDate>Mon, 31 Jan 2022 17:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[리본을 어떻게 달아볼까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/2cc100cc-8bae-4359-a382-6edde56bbcd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
