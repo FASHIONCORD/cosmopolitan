@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 06:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 07:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니∙리사∙채령∙손나은의 구멍 난 스타일링이 궁금하다면?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63620</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63620</guid>
+            <pubDate>Tue, 08 Feb 2022 07:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[여기저기 구멍 뻥뻥! 커팅 디테일이 대세!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/3256254a-cc70-427d-87f9-2bf982b15eee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김나영·오눅·강민경의 PICK! 컬러풀 컨버스가 돌아왔다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63613</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63613</guid>
+            <pubDate>Tue, 08 Feb 2022 07:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[핑크색 컨버스가 다시 돌아왔어요]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/4c726740-2644-4b92-ac24-6faf6f5f6e41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데일리로 입기 좋은 한선화 사복 패션 스타일링!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63614</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 07 Feb 2022 01:55:51 GMT</pubDate>
             <content:encoded><![CDATA[크리스토퍼 르메르가 디자인한 12번째 유니클로 U!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/4261d715-870c-4f80-8bc4-50b2ad9f7e29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘봇짐러’들이 주목해야 할 큼지막한 BIG백 패션 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63528</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63528</guid>
-            <pubDate>Sat, 05 Feb 2022 16:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[핸드폰만 들어가는 미니 백은 힘들어.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/bc91fc58-1b57-44f1-94c3-e0429deb14c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오피스 룩부터 Y2K 룩까지 가능한 가성비 끝판왕 아이템 블레이저 스타일링 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63527</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63527</guid>
-            <pubDate>Thu, 03 Feb 2022 09:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[재킷 하나로 끝!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/82174527-f156-4bd0-9689-5e6bd567f596.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
