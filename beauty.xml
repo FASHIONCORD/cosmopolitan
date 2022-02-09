@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 14:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 15:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따라하고 파! 올해의 컬러, '베리 페리' 염색을 찰떡으로 소화한 셀럽 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63610</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63610</guid>
+            <pubDate>Wed, 09 Feb 2022 15:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[밸런타인데이, 로맨틱 지수를 끌어올려줄 뷰티 치트키.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/be634ece-2a44-4bc8-838f-5173fcd47b3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밸런타인데이 데이스 코스로 딱! 로맨틱한 커플 스파 추천 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63597</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 04 Feb 2022 16:11:28 GMT</pubDate>
             <content:encoded><![CDATA[설연휴 늘어지게 자고 마음껏 먹을 예정이라면 이 링크를 저장해 둘 것! 연휴 후폭풍을 잠재워...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/cbecea3b-6ef1-42bb-9df3-bcc01969a6f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비밀 타투 SSAP에이블~ 수지∙강혜원∙티파니∙수영∙현아의 보일락 말락 시크릿 타투!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63414</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63414</guid>
-            <pubDate>Thu, 03 Feb 2022 15:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[‘선타투 후뚜맞’이 진리라지만, 초초초 미니 사이즈의 ‘시크릿 타투’면 맘스터치도 걱정 노놉...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/d6e06c36-2b82-41c7-87f0-2aa0de9a6cf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
