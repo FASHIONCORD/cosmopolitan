@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 16:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 17:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 중의 대세! SNL 주기자 사복 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63679</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63679</guid>
+            <pubDate>Thu, 10 Feb 2022 17:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[사회 초년생 대표 주기자 본캐 주현영 귀염뽀짝한 패션 탐구]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/057a9188-c4ac-4eda-802a-97a547dfcc25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피는 물보다 강하다! 동서양을 막론한 패셔니스타 모녀는 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63677</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Feb 2022 07:09:04 GMT</pubDate>
             <content:encoded><![CDATA[핑크색 컨버스가 다시 돌아왔어요]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/4c726740-2644-4b92-ac24-6faf6f5f6e41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄 힙과 편안함을 모두 잡을 룩!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63599</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63599</guid>
-            <pubDate>Mon, 07 Feb 2022 15:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[연인과의 데이트, 친구와 맛집 탐방! 약속이 부쩍 늘어난 봄, 매일 스케줄에 따른 옷 입기 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/06/e49fbaa1-bfc1-4bce-add2-379f336a9f8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
