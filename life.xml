@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 06:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만 좋은 거 먹을 순 없지! 반려동물을 위한 수제 간식 가게 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63666</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63666</guid>
+            <pubDate>Thu, 10 Feb 2022 06:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[내 새끼는 최고로 좋은 것만 먹이고 싶은 거,,, 이런 게 부모 마음 아니겠어여?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/0d45b9b5-f09f-4285-9581-ac79ce16bb7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국에서 해외여행 중입니다만? 인생샷이 더 중요한 사람들 집합!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63665</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63665</guid>
+            <pubDate>Thu, 10 Feb 2022 06:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[걸어서 뉴욕, 콜로세움, 그랜드 캐니언, 사막까지. ‘걸어서 세계 여행’할 핫플 정보 모두 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/9d32a32e-7454-4839-a996-273d59dee7fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여전히 핫하지~ 문래만의 감성이 넘치는 문래동 핫플 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63664</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 08 Feb 2022 03:14:29 GMT</pubDate>
             <content:encoded><![CDATA[명리학을 배우면 연애운이 트인다. 사주 보러 가서 내 지갑을 열기 전에 일단 상대 남자의 지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/98c5bc4d-a4e8-4512-b369-71745a7ece33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나 혼자 산다> 최초 공개, 좋아하는 거 다 넣은 맥시멀리스트 송민호 집 인테리어는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63560</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63560</guid>
-            <pubDate>Tue, 08 Feb 2022 01:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 가구와 소품, 그리고 캠핑 용품까지 가득 찬 맥시멀리스트의 집은 어떻길래!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/7f98785b-4616-4e48-b6cf-68ba56219617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브에서 보기만 했던 그 음식! 직접 먹을 수 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63543</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63543</guid>
-            <pubDate>Tue, 08 Feb 2022 01:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[실버 버튼 받은 유튜버들이 직접 문을 연 유튜버 레스토랑 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/c5a79b4b-2a5f-4c5d-b004-cf0266a1ffa5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
