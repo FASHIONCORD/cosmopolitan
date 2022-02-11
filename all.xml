@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 11:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 12:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,6 +360,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/1f957fa8-fec4-4064-a4ec-373f100e4f69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과연, 2세가 기대되는 비주얼 갑, 개성 갑 셀럽들의 임신 소식! (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63443</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63443</guid>
+            <pubDate>Fri, 11 Feb 2022 12:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[엄빠가 된 홍쓴 부부, 이하늬, 황찬성, 이수지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/c27f596b-6145-4342-9627-99c76be472b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[작가가 영화 덕후?! <그 해 우리는> 소제목으로 나온 영화 15! (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63420</link>
             <guid>https://www.cosmopolitan.co.kr/article/63420</guid>
@@ -414,14 +422,6 @@
             <pubDate>Thu, 27 Jan 2022 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[화도 안 났다. 여자에 대해 너~~~무 몰라서 어이 없었던 애인의 행동과 말들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/8d88c755-43b9-4fa0-9880-7cc8aa1dd13d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박신혜♥최태준 결혼식에 등장한 슈스들! 역대급 라인업의 하객 모음ZIP (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63239</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63239</guid>
-            <pubDate>Wed, 26 Jan 2022 04:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이민호, 이서진, 류준열의 찐친 인증은 물론 축가가 무려 이적, 디오, 이홍기?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/837f25a1-ae04-46f0-ac8d-01054673db06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킷캣 밸런타인 보이 등장! 이번 밸런타인데이를 더 달콤하게 만들어줄 주인공은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
