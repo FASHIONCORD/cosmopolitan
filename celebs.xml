@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 언니가 먼저 나 꼬셨다니까? 연예계 대표 유죄인간들!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63722</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63722</guid>
+            <pubDate>Fri, 11 Feb 2022 05:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[우린 이런 사람을 유죄인간이라고 부르기로 했어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/e7100f1a-81ec-4f87-bd86-f7af8543c095.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어머님이 누구니? 기네스 팰트로∙리즈 위더스푼∙우마 서먼입니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63720</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63720</guid>
+            <pubDate>Fri, 11 Feb 2022 05:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[파파라치 사진 속 엄마의 손을 잡고 걷던 꼬마가 이렇게 컸다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/e1424147-7b80-489c-aef7-fc1c4aaf6868.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어디서도 못 사는 '현아♥던' 반지 등 스타들의 특별한 웨딩링 베스트 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63719</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 10 Feb 2022 05:09:06 GMT</pubDate>
             <content:encoded><![CDATA[이곳이 바로 버뮤다? 헤어 나올 수 없네~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/ec42363e-b7ef-4c25-881a-a3d7a6cb9eb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세 중의 대세! SNL 주기자 사복 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63679</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63679</guid>
-            <pubDate>Thu, 10 Feb 2022 05:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[사회 초년생 대표 주기자 본캐 주현영 귀염뽀짝한 패션 탐구]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/057a9188-c4ac-4eda-802a-97a547dfcc25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피는 물보다 강하다! 동서양을 막론한 패셔니스타 모녀는 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63677</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63677</guid>
-            <pubDate>Tue, 08 Feb 2022 09:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[신디 크로포드·카이아 거버 모녀에서 제니 모녀까지 멋쟁이 모녀들의 패션에 주목~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/46804e0d-8b4c-48ef-a03b-4fc6c5b057d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
