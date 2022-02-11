@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 09:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 10:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리사∙슬기∙태연∙문별의 머플러 대신 스카프!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63725</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63725</guid>
+            <pubDate>Fri, 11 Feb 2022 10:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[때론 우아하게 때론 상큼하게! 스카프로 스타일링에 포인트 더하는 법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/5207919e-9385-44ea-9c59-7250505ad5ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 언니가 먼저 나 꼬셨다니까? 연예계 대표 유죄인간들!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63722</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 10 Feb 2022 05:09:06 GMT</pubDate>
             <content:encoded><![CDATA[요즘 떠오르는 예능캐는 뉴구?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/1f957fa8-fec4-4064-a4ec-373f100e4f69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 구역의 잘생쁨은 나야 나! 류진∙지호∙정연∙김진우까지 비주얼 극락 셀럽들 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63682</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63682</guid>
-            <pubDate>Thu, 10 Feb 2022 05:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[이곳이 바로 버뮤다? 헤어 나올 수 없네~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/ec42363e-b7ef-4c25-881a-a3d7a6cb9eb1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
