@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 15:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 16:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/8d88c755-43b9-4fa0-9880-7cc8aa1dd13d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<서울체크인> 에서 이효리가 밤마다 마신 독주?! (feat. 엄정화) (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63685</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63685</guid>
+            <pubDate>Thu, 10 Feb 2022 05:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[이효리가 서울 와서 마신 모든 드링크!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/b6e28990-e98e-4a81-a01c-c85dc1c3038e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[킷캣 밸런타인 보이 등장! 이번 밸런타인데이를 더 달콤하게 만들어줄 주인공은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63668</link>
             <guid>https://www.cosmopolitan.co.kr/article/63668</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 08 Feb 2022 03:14:29 GMT</pubDate>
             <content:encoded><![CDATA[오마카세, 항정살, 스테이크, 와인바, 막국수. 지금 핫한 서울 맛집은 여기 다 모였다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/e66f8f06-c338-4d0d-bf71-db5efe58654f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로 집중러가 되고 싶다면? 무한한 가능성을 열어줄 '데스커' 추천 책상 앞으로! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63309</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63309</guid>
-            <pubDate>Tue, 08 Feb 2022 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[학생도, 직장인도, 프리랜서도, 온전한 집중이 필요한 사람이라면 누구든! 워크&amp;라이프스타일 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/91bd1ca7-782b-4ca0-a1fe-75a74439ce86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#운동 못해도 운동복 재질! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
