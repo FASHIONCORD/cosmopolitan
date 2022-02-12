@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 14:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 15:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/852d664e-3066-4f13-a850-1436380462ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤트부터 딥까지! 쿨톤에 진심이라면 참고해야할 쿨톤 MLBB 팔레트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63690</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63690</guid>
+            <pubDate>Sat, 12 Feb 2022 15:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[쿨 톤 하면 촌스러운 연보라가 국룰? 그렇다면 이미 ‘라떼’ 인증! 요즘은 같은 쿨 톤이라도...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/09/f2b33448-c597-4cfc-8fd7-a99400e338ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 구역의 잘생쁨은 나야 나! 류진∙지호∙정연∙김진우까지 비주얼 극락 셀럽들 모음.ZIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63682</link>
             <guid>https://www.cosmopolitan.co.kr/article/63682</guid>
@@ -286,14 +294,6 @@
             <pubDate>Mon, 07 Feb 2022 15:09:42 GMT</pubDate>
             <content:encoded><![CDATA[눈에서 하트가 뿅뿅! 밸런타인데이를 더 달달하게 만들어줄 러블리 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/f1f1480c-3b30-4ee2-8e89-5b0d18deadae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬 바람으로부터 당신을 지켜줄 따끈따근한 2월의 뷰티 신상 모음ZIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63552</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63552</guid>
-            <pubDate>Mon, 07 Feb 2022 06:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[찬 바람으로부터 당신을 지켜줄 따끈따끈한 2월의 뷰티 신상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/87051cf2-2db6-4954-85c8-812f3431c941.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리사∙슬기∙태연∙문별의 머플러 대신 스카프! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
