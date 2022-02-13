@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 14:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 16:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뷰잘알'이 만든 화장품? 뷰티 크리에이터들이 컬래버레이션한 화장품 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63708</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63708</guid>
+            <pubDate>Sun, 13 Feb 2022 16:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[‘뷰잘알’이 만든 화장품은 뭐가 다를까? 제작 단계부터 디자인까지, 작은 부분까지도 그들의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/6d04205e-ebea-4e3d-a880-d6dac7b45b79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤트부터 딥까지! 쿨톤에 진심이라면 참고해야할 쿨톤 MLBB 팔레트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63690</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Feb 2022 08:12:06 GMT</pubDate>
             <content:encoded><![CDATA[밸런타인데이, 로맨틱 지수를 끌어올려줄 뷰티 치트키.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/52d6aac2-54dd-4fbc-a010-24ca33b35c8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밸런타인데이를 러블리하게 만들어줄 아이템 모음!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63557</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63557</guid>
-            <pubDate>Mon, 07 Feb 2022 15:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[눈에서 하트가 뿅뿅! 밸런타인데이를 더 달달하게 만들어줄 러블리 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/f1f1480c-3b30-4ee2-8e89-5b0d18deadae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
