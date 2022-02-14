@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 03:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 04:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위아래 맞춰 입을 때 '갠지' 작살나는 셋업 패션 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63810</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63810</guid>
+            <pubDate>Mon, 14 Feb 2022 04:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[슈트부터 청청, 추리닝까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/f5d789dd-885e-4904-8cbc-cf316d0f3704.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TPO 불문 일주일 내내 신을 수 있는 데일리 ‘로퍼’ 스타일링]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63808</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Feb 2022 01:50:12 GMT</pubDate>
             <content:encoded><![CDATA[아이브 장원영부터 현아, 러블리즈 유지애, 김다미 &amp; 최우식까지! 패셔니스타 셀럽들의 겨울철...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/549bb7af-6315-471c-beba-544a9d74f1df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여친 눈 하트뿅! 되게 할 명품 브랜드의 발렌타인데이 컬렉션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63737</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63737</guid>
-            <pubDate>Mon, 14 Feb 2022 01:50:12 GMT</pubDate>
-            <content:encoded><![CDATA[큐티뽀짝 끝판왕~ 살바토레 페라가모, 로에베, 셀린느, 구찌, 스킴스까지! 명품 브랜드의 발...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/2ca4fd8d-0a51-4ccc-b834-ac7556606b30.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
