@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 02:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 03:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TPO 불문 일주일 내내 신을 수 있는 데일리 ‘로퍼’ 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63808</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63808</guid>
+            <pubDate>Mon, 14 Feb 2022 03:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[새 신을 신고 뛰어보자, 폴짝!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/8ca53f2b-68c4-4778-b395-2c63048d0325.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 제니에게 젠몬 선물 받은 셀럽들은?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63805</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Feb 2022 01:50:12 GMT</pubDate>
             <content:encoded><![CDATA[큐티뽀짝 끝판왕~ 살바토레 페라가모, 로에베, 셀린느, 구찌, 스킴스까지! 명품 브랜드의 발...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/2ca4fd8d-0a51-4ccc-b834-ac7556606b30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<지금 우리 학교는> 훈내나는 3인방 윤찬영∙로몬∙유인수 일상 남친룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63736</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63736</guid>
-            <pubDate>Sun, 13 Feb 2022 17:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[9일 연속 넷플릭스 1위를 기록한 &lt;지금 우리 학교는&gt;의 주역 3인방 윤찬영, 로몬, 유인수...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/fe22a0f8-57c0-466d-ad53-bef6aa19242f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
