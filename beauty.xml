@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소녀적인 무드로 완성한 뉴 밸런타인데이 룩]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63750</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63750</guid>
+            <pubDate>Mon, 14 Feb 2022 09:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[소녀적인 무드로 완성한 뉴 밸런타인데이 룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/2287df37-a51d-420c-8bfe-89a6b5448447.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['뷰잘알'이 만든 화장품? 뷰티 크리에이터들이 컬래버레이션한 화장품 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63708</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Feb 2022 16:12:51 GMT</pubDate>
             <content:encoded><![CDATA[밸런타인데이, 로맨틱 지수를 끌어올려줄 뷰티 치트키.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/06/e3408086-2070-4abf-811b-38df8d0aec1c.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[두근두근! 밸런타인데이 로맨틱 지수를 끌어올려줄 뷰티 치트키는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63585</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63585</guid>
-            <pubDate>Tue, 08 Feb 2022 08:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[밸런타인데이, 로맨틱 지수를 끌어올려줄 뷰티 치트키.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/52d6aac2-54dd-4fbc-a010-24ca33b35c8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
