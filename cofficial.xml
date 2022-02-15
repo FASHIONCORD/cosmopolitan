@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 09:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 10:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이징 올림픽 스타! 황대헌∙김동욱∙차준환의 훈내나는 남친짤]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63817</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63817</guid>
+            <pubDate>Tue, 15 Feb 2022 10:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[운동 밖에 모르는 줄 알았더니, 패션센스, 사진센스까지 넘치는 베이징 올림픽 선수들의 훈내나...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/f2c5b44b-5bf7-4377-a6de-a06272e246d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63642</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 04:14:03 GMT</pubDate>
             <content:encoded><![CDATA[코스모폴리탄과 입생로랑 뷰티, 한국여성의전화가 함께하는 ‘파트너 폭력 인식 개선 프로그램’으...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b63604de-8bd7-4196-beac-5f95a0e0a6c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 코시국 속 외로움을 느낀 적 있다? 없다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61304</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61304</guid>
-            <pubDate>Fri, 17 Dec 2021 16:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 대면 수업이 있었는데, 없었어요... 코로나가 뺏어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/705c8d66-8ced-4907-a92f-d903497551b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
