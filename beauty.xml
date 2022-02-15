@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 15:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 16:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쌀밥과 술은 잊어! 윤승아∙장윤주∙설현 관리 끝판왕 언니들의 다이어트 식단]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63829</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63829</guid>
+            <pubDate>Tue, 15 Feb 2022 16:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트는 작심삼일이 제 맛? 맘 약해질 땐 이 언니들 사진부터 냉장고에 붙이자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/a9abdc94-a8b9-4101-b901-fa608adeace4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양치질 후 치실을 무.조.건 해야하는 이유]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63801</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 12 Feb 2022 15:22:36 GMT</pubDate>
             <content:encoded><![CDATA[쿨 톤 하면 촌스러운 연보라가 국룰? 그렇다면 이미 ‘라떼’ 인증! 요즘은 같은 쿨 톤이라도...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/09/f2b33448-c597-4cfc-8fd7-a99400e338ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 구역의 잘생쁨은 나야 나! 류진∙지호∙정연∙김진우까지 비주얼 극락 셀럽들 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63682</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63682</guid>
-            <pubDate>Fri, 11 Feb 2022 17:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[이곳이 바로 버뮤다? 헤어 나올 수 없네~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/ec42363e-b7ef-4c25-881a-a3d7a6cb9eb1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
