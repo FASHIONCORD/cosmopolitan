@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 12:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 13:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이유미∙장원영∙오연서의 미우미우 X 뉴발란스 574 스니커즈 오오티디는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63862</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63862</guid>
+            <pubDate>Tue, 15 Feb 2022 13:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 MZ들 사이에서 인기인 뉴발란스 클래식 574 스니커즈를 미우미우의 개성을 담아 재해석...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/292b3fc6-0b91-4e8a-8b72-31ffc449d77f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 베이징 올림픽 최고 ‘존잘러’는 누구?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63861</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Feb 2022 08:12:11 GMT</pubDate>
             <content:encoded><![CDATA[달달하도다! 깨볶는 둘의 럽스타~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/011e3c72-0a6f-439f-befa-50fd9c59d3e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쌀밥과 술은 잊어! 윤승아∙장윤주∙설현 관리 끝판왕 언니들의 다이어트 식단]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63829</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63829</guid>
-            <pubDate>Tue, 15 Feb 2022 08:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트는 작심삼일이 제 맛? 맘 약해질 땐 이 언니들 사진부터 냉장고에 붙이자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/a9abdc94-a8b9-4101-b901-fa608adeace4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
