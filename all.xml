@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 03:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 04:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/549bb7af-6315-471c-beba-544a9d74f1df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[발렌타인데이를 위한 완벽한 기프트! 미스 디올 오 드 퍼퓸 시리즈가 전하는 향기로운 핑크빛 모멘트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63773</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63773</guid>
+            <pubDate>Tue, 15 Feb 2022 04:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[수천 송이의 꽃으로 수놓은 듯한 밀레피오리를 향기로 표현한 영원한 사랑의 약속! 사랑을 후각...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/b8cc9953-82e3-4b51-b4f1-a6b1d645e575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소녀적인 무드로 완성한 뉴 밸런타인데이 룩 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63750</link>
             <guid>https://www.cosmopolitan.co.kr/article/63750</guid>
@@ -285,14 +293,6 @@
             <pubDate>Wed, 09 Feb 2022 15:09:20 GMT</pubDate>
             <content:encoded><![CDATA[밸런타인데이, 로맨틱 지수를 끌어올려줄 뷰티 치트키.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/be634ece-2a44-4bc8-838f-5173fcd47b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밸런타인데이 데이스 코스로 딱! 로맨틱한 커플 스파 추천 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63597</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63597</guid>
-            <pubDate>Tue, 08 Feb 2022 16:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[밸런타인데이, 로맨틱 지수를 끌어올려줄 뷰티 치트키.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/06/e3408086-2070-4abf-811b-38df8d0aec1c.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[기부 금액만 해도 상상 초월! 기부 천사 여자 연예인 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
