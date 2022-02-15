@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 06:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 07:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌ST 피겨스케이팅 차준환 선수의 사복 패션이 궁금하다면?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63813</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63813</guid>
+            <pubDate>Tue, 15 Feb 2022 07:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌 아니예요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/21beec17-ae59-4931-ba35-15d88f7ecf85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밸런타인데이 D-DAY! 하트 뿅뿅 여친룩∙남친룩은 이렇게♡]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63812</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Feb 2022 01:50:12 GMT</pubDate>
             <content:encoded><![CDATA[명품에서도 주목하는 NFT, 투자할 만한 자산이라고? 어떻게 사는 건데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/e39e5c7d-a085-479c-beff-facf6df65caa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 시즌 패션 이것만 기억해, 프로포션!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63784</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63784</guid>
-            <pubDate>Mon, 14 Feb 2022 01:50:12 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌, 우리가 가장 주목해야 할 패션 요소가 있다. 바로 프로포션! 프로포션이 중요하거...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/12/2b0343f0-2a27-4f4b-86f4-4945ef3592bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
