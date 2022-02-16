@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 09:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 10:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자랑스러운 메달리스트! 쇼트트랙 계주 이유빈∙김아랑∙최민정∙서휘민의 평소 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63871</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63871</guid>
+            <pubDate>Wed, 16 Feb 2022 10:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[국가대표들의 평소 모습!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/c38d1793-2703-4a6b-bfee-f848c747e42a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 여자 컬링 ‘팀 킴’, 한일전서 10대 5로 완승! 4강 가즈아~!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63865</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Feb 2022 10:13:21 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대 리더, 태연 이번 솔로 앨범에 이 갈았다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/a00d8174-1691-49b0-b9e0-f93f02187b71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용하지만 강한 편 이랄까? 공릉 감성 카페 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63830</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63830</guid>
-            <pubDate>Tue, 15 Feb 2022 10:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[이젠 ‘연트럴파크’ 보단 ‘공트럴파크’지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/9715ad20-cecb-4650-a67a-3dc6f9555efb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
