@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 14:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 15:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회사원∙최예슬∙이시영도 선택한 눈썹 00 방법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63863</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63863</guid>
+            <pubDate>Wed, 16 Feb 2022 15:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[눈썹 문신은 무섭고 눈썹은 지키고 싶다면? 시도해볼 방법 세 가지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/b1d468d7-493c-418d-834f-964615248ef9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리만 감았는데 염색이 된다고? 기적의 염색 샴푸 YES or NO!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63852</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Feb 2022 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[소녀적인 무드로 완성한 뉴 밸런타인데이 룩.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/2287df37-a51d-420c-8bfe-89a6b5448447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뷰잘알'이 만든 화장품? 뷰티 크리에이터들이 컬래버레이션한 화장품 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63708</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63708</guid>
-            <pubDate>Sun, 13 Feb 2022 16:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘뷰잘알’이 만든 화장품은 뭐가 다를까? 제작 단계부터 디자인까지, 작은 부분까지도 그들의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/6d04205e-ebea-4e3d-a880-d6dac7b45b79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

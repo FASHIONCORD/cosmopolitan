@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 14:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 15:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“에르메스도 반했다♥” 요즘 해외에서 유행 중이라는 K-보자기의 위력!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63891</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63891</guid>
+            <pubDate>Wed, 16 Feb 2022 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[보자기에서 영감받았다는 '120만 원'짜리 에르메스 스카프?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/f735d6f9-b2ea-4450-a928-17f7e751b8f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연∙아이유∙장원영∙문별의 '멋쁨폭발' 베레모 스타일링은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63889</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Feb 2022 15:09:13 GMT</pubDate>
             <content:encoded><![CDATA[러블리함 MAX, 인간 킷캣 모먼트 보고 가실게요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/6365fd2d-9ecf-47f2-8f3c-5294fbe7a1e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이징 올림픽 스타! 황대헌∙김동욱∙차준환의 훈내나는 남친짤]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63817</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63817</guid>
-            <pubDate>Tue, 15 Feb 2022 15:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[운동 밖에 모르는 줄 알았더니, 패션센스, 사진센스까지 넘치는 베이징 올림픽 선수들의 훈내나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/f2c5b44b-5bf7-4377-a6de-a06272e246d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
