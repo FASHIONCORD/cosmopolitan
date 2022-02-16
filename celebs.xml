@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 07:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 08:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자랑스러운 메달리스트! 쇼트트랙 계주 이유빈∙김아랑∙최민정∙서휘민의 평소 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63871</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63871</guid>
+            <pubDate>Wed, 16 Feb 2022 08:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[국가대표들의 평소 모습!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/c38d1793-2703-4a6b-bfee-f848c747e42a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한예슬·한선화·이동휘·손나은도 선택한 컬러 오렌지! 패션부터 뷰티까지 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63866</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Feb 2022 08:12:11 GMT</pubDate>
             <content:encoded><![CDATA[경매가 약 4억원에 팔린 화제의 루이비통 X 나이키 에어포스1 스니커즈. BTS RM, 제이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/6fad04b2-3d98-4576-80d0-266920ed798b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경력직 신입, 8년차 신인! 비비지의 이런 'BOP BOP!' 퍼포먼스는 처음이지?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63854</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63854</guid>
-            <pubDate>Tue, 15 Feb 2022 08:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[무대 장인인데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/b72d042a-2416-4f8e-84b1-b91091c77e07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
