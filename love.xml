@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 06:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 07:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킷캣 밸런타인 보이 등장! 이번 밸런타인데이를 더 달콤하게 만들어줄 주인공은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63668</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63668</guid>
+            <pubDate>Wed, 16 Feb 2022 07:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[킷캣의 NEW 신제품, 하트 틴 케이스를 들고 있는 주인공 곧 공개! 많관BOO!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/a4908d5e-c35a-4f95-bf87-5b07c674192f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소개팅날 진도, 어디까지 가봤니?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63530</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 04:12:37 GMT</pubDate>
             <content:encoded><![CDATA[뻘하게 터지고, 눈물까지 흘려서 자존심은 좀 상하지만, 이 괴물 같은 사람들의 공감 연기는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/d6dc416d-d75e-423c-b9bc-2daf5d25b8b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현아♥던, 생방송 무대에서 찐-한 딥키스를 했다고...? 이것이 바로 29금 ‘으른 연애’ 모먼트다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63292</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63292</guid>
-            <pubDate>Tue, 01 Feb 2022 15:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[오늘만 사는 K-아이돌 커플의 사랑 이야기, 부러우면 지는 거다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/cc3942f1-dee0-4e51-ab45-abfb9efcfee1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
