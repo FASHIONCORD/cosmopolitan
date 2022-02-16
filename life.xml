@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 05:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 06:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 여자 컬링 ‘팀 킴’, 한일전서 10대 5로 완승! 4강 가즈아~!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63865</guid>
+            <pubDate>Wed, 16 Feb 2022 06:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[비밀병기 ‘영미’ 작전 성공!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/081d3903-2339-470f-b122-33c2d48a45b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 베이징 올림픽 최고 ‘존잘러’는 누구?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63861</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63861</guid>
+            <pubDate>Wed, 16 Feb 2022 06:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[시도때도 없이 씬스틸 하는 존재감 갑 국가대표는?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/110c3d50-2492-4bdc-89cd-9990e3db5496.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경력직 신입, 8년차 신인! 비비지의 이런 'BOP BOP!' 퍼포먼스는 처음이지?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63854</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 15 Feb 2022 10:13:21 GMT</pubDate>
             <content:encoded><![CDATA[이젠 ‘연트럴파크’ 보단 ‘공트럴파크’지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/9715ad20-cecb-4650-a67a-3dc6f9555efb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이징 올림픽 ‘화제의 쇼트트랙 3인방’이 콕 집어 얘기한 최애 연예인은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63828</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63828</guid>
-            <pubDate>Tue, 15 Feb 2022 10:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[쇼트트랙 남자 국가대표, 황대헌•이준서•박장혁의 트루 러브!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/375af0b3-ff1c-460f-96b1-ac344c635a59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가랑이 사이’로 트위터 실시간 트렌드 장악한 곽윤기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63826</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63826</guid>
-            <pubDate>Tue, 15 Feb 2022 10:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[대한민곽이라는 말이 이상하지 않을 그의 연예인 재질을 덕질해봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/0bf319a8-30bd-4ef5-aeaf-605c4130027a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
