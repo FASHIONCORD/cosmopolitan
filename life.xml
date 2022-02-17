@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 14:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 15:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스물다섯 스물하나> 촬영지가 여기라고? 청춘 로맨스 사진은 이곳에서!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63888</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63888</guid>
+            <pubDate>Thu, 17 Feb 2022 15:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[전주 여행 코스 중 꼭 넣어야 할 포토스폿!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/ac7a6e8b-64b4-4478-84c3-5d80ca87e56a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스프레소에 과일을요? 상큼하고 신박한 메뉴가 있는 에스프레소 바 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63887</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 02:02:33 GMT</pubDate>
             <content:encoded><![CDATA[무대 장인인데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/b72d042a-2416-4f8e-84b1-b91091c77e07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원필 피셜, 레전드 데이식스 무대는? 신곡 라이브부터 데이식스 '띵곡' 메들리까지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63853</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63853</guid>
-            <pubDate>Tue, 15 Feb 2022 10:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[고막 호강, 눈 호강 모두 SSAP 가능!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/efc2e1f3-7edd-4124-aa0e-4ba2608e549a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

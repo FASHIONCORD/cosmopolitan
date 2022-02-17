@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 14:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 15:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 봄에는 여자아이들 미연처럼! 봄내음 가득한 미연 메이크업 손민수할 사람?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63895</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63895</guid>
+            <pubDate>Thu, 17 Feb 2022 15:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 어떤 메이크업을 할까 고민된다면? 미연의 메이크업을 참고해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/a4979abf-534c-4d56-a965-17e0330b9f6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구 여친 줄리아 폭스의 전 남친이 드레이크? 꼬리에 꼬리를 무는 ‘예’의 러브라인]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63894</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 07:11:22 GMT</pubDate>
             <content:encoded><![CDATA[비밀병기 ‘영미’ 작전 성공!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/081d3903-2339-470f-b122-33c2d48a45b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출산 후 ‘18kg’ 감량 대성공! 확찐자들도 탄탄한 몸매로 가꿔줄 가희의 특급 비결은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63864</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63864</guid>
-            <pubDate>Wed, 16 Feb 2022 07:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 현역 몸매 유지 중인 가희에게 박수를!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/d108525f-f423-4ba2-83fb-14b5bcddb0a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
