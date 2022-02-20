@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 14:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 15:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -423,6 +423,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/857d0950-0a2a-4b39-b463-f808eedfb030.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[없는 거 빼고 다 있어! 방이동 핫한 카페 & 베이커리 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63914</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63914</guid>
+            <pubDate>Sun, 20 Feb 2022 15:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[취향대로 기분대로 골라가자고요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/7ab37796-9dee-4b12-af06-20651d95f346.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['연어 노래' 원작자 강산에가 부르는 2022.VER '거꾸로 강을 거슬러 오르는 저 힘찬 연어들처럼' 레전드 라이브 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63903</link>
             <guid>https://www.cosmopolitan.co.kr/article/63903</guid>
@@ -477,14 +485,6 @@
             <pubDate>Wed, 16 Feb 2022 06:19:34 GMT</pubDate>
             <content:encoded><![CDATA[비밀병기 ‘영미’ 작전 성공!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/081d3903-2339-470f-b122-33c2d48a45b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 베이징 올림픽 최고 ‘존잘러’는 누구?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63861</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63861</guid>
-            <pubDate>Tue, 15 Feb 2022 08:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[시도때도 없이 씬스틸 하는 존재감 갑 국가대표는?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/110c3d50-2492-4bdc-89cd-9990e3db5496.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이징 올림픽 스타! 황대헌∙김동욱∙차준환의 훈내나는 남친짤 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
