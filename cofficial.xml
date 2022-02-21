@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이징 올림픽 ‘화제의 쇼트트랙 3인방’이 콕 집어 얘기한 최애 연예인은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63828</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63828</guid>
+            <pubDate>Mon, 21 Feb 2022 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[쇼트트랙 남자 국가대표, 황대헌•이준서•박장혁의 트루 러브!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/375af0b3-ff1c-460f-96b1-ac344c635a59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘가랑이 사이’로 트위터 실시간 트렌드 장악한 곽윤기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63826</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63826</guid>
+            <pubDate>Mon, 21 Feb 2022 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[대한민곽이라는 말이 이상하지 않을 그의 연예인 재질을 덕질해봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/0bf319a8-30bd-4ef5-aeaf-605c4130027a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이징 올림픽 스타! 황대헌∙김동욱∙차준환의 훈내나는 남친짤]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63817</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 14 Feb 2022 13:18:14 GMT</pubDate>
             <content:encoded><![CDATA[피부와 자연에 이로운 클린 뷰티 라이프! 좋은 원료와 저자극, 지속 가능한 패키지, 동물실험...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/41da32a1-74ba-4410-abb9-e06a48909fb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#운동 못해도 운동복 재질!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61838</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61838</guid>
-            <pubDate>Tue, 08 Feb 2022 01:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[재택근무가 일상에 자리를 잡으며, 운동복과 라운지 웨어의 경계가 확장되었죠. 이는 오피스 룩...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/8ccb7d24-d1cd-4ed6-b436-7c97a3a0641e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61462</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61462</guid>
-            <pubDate>Wed, 19 Jan 2022 04:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[코스모폴리탄과 입생로랑 뷰티, 한국여성의전화가 함께하는 ‘파트너 폭력 인식 개선 프로그램’으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b63604de-8bd7-4196-beac-5f95a0e0a6c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
