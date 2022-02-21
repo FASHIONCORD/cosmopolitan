@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 07:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배달 음식 멈춰! 건강한 몸을 원하는 이들을 위한 초간편 런치 매뉴얼]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63907</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63907</guid>
+            <pubDate>Mon, 21 Feb 2022 07:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[배달비부터 환경오염 부담까지! 배달 음식에 이별을 고하고 싶은 이들을 위한 초간편 런치 매뉴...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/68b36956-766b-4d1a-8e81-e57e9aeb62e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 봄에는 여자아이들 미연처럼! 봄내음 가득한 미연 메이크업 손민수할 사람?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63895</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Feb 2022 16:10:15 GMT</pubDate>
             <content:encoded><![CDATA[다이어트는 작심삼일이 제 맛? 맘 약해질 땐 이 언니들 사진부터 냉장고에 붙이자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/a9abdc94-a8b9-4101-b901-fa608adeace4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양치질 후 치실을 무.조.건 해야하는 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63801</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63801</guid>
-            <pubDate>Tue, 15 Feb 2022 07:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 양치질의 끝! 더러운 입속 사각지대까지 완벽 세정할 수 있는 식후땡 루틴의 필수, 치실...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/6f77dd49-1308-49e2-9359-210f885cbbdb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
