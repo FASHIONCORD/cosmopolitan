@@ -4,7 +4,7 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 22 Feb 2022 07:08:30 GMT</pubDate>
             <content:encoded><![CDATA[이 멤버가 이렇게 비율이 좋았다니~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/4efbcdf0-8cb7-4584-b05c-3af49aa06b6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프라다 스노우보드부터 스켈레톤 패션까지! 베이징 동계 올림픽 패션 이슈들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64010</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64010</guid>
+            <pubDate>Wed, 23 Feb 2022 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[이번 올림픽에서 경기만큼 핫 했던 패션 이슈들은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/0aa34c2a-9b84-4c76-a12a-09848f9dec84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갓더비트의 대형 ‘신’인 ‘보아’ 사복 패션 5]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 21 Feb 2022 02:23:53 GMT</pubDate>
             <content:encoded><![CDATA[왜 책이나 영화만 독후감을 쓸까? 그보다는 SNS와 유튜브를 통해 순간순간 영감받고 생각의 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/20/bb1f3fde-8346-4f0e-957f-961d12f2c2d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE SPELL]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63940</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63940</guid>
-            <pubDate>Mon, 21 Feb 2022 02:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[피부 깊숙이 새겨넣은 사랑의 주문.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/290439d5-0883-4711-9939-619f2a696de6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
