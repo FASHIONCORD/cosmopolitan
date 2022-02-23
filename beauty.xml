@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 11:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 12:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레몬 커피 마시면 살 빼진다? SNS를 뜨겁게 달군 레몬 커피에 관한 진실]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63939</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63939</guid>
+            <pubDate>Wed, 23 Feb 2022 12:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[마시기만 해도 살이 빠진다? SNS를 뜨겁게 달군 레몬 커피의 진실.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/c0640b6b-7262-4b99-b340-cfb04b6dc20c.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[배달 음식 멈춰! 건강한 몸을 원하는 이들을 위한 초간편 런치 매뉴얼]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63907</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[머리를 감기만 하면 염색이 된다? 초대박 등장과 동시에 신기술의 흥행을 둘러싼 시끌벅적한 논...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/7b05c883-852f-4ec1-8add-4cd4891a1724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쌀밥과 술은 잊어! 윤승아∙장윤주∙설현 관리 끝판왕 언니들의 다이어트 식단]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63829</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63829</guid>
-            <pubDate>Tue, 15 Feb 2022 16:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트는 작심삼일이 제 맛? 맘 약해질 땐 이 언니들 사진부터 냉장고에 붙이자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/a9abdc94-a8b9-4101-b901-fa608adeace4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
