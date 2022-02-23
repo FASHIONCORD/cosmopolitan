@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 00:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 걸그룹 러블리즈 출신 진, 현 식당 알바생?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64065</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64065</guid>
+            <pubDate>Wed, 23 Feb 2022 02:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[역시 미모가 매출에 영향을 주는 듯한, 전직 걸그룹 출신 알바생의 알바스토리]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/f0a1e319-7c5c-4d6b-8339-c01082d2c4f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장원영∙이미주∙조이 등 젠지처럼 미니스커트 입는 법!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64064</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 22 Feb 2022 15:15:07 GMT</pubDate>
             <content:encoded><![CDATA[2022년 한국 문화 대표 홍보 유산, 한복입니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/9dd8baf1-df0d-454f-acd0-dbf6bcdf5293.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야외 결혼식 올리는 현빈♥손예진 커플의 예식장은 어디?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64033</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64033</guid>
-            <pubDate>Tue, 22 Feb 2022 15:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[지성♥이보영, 배용준♥박수진, 이시영 또한 이곳에서 결혼식을 올렸다는데!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/42afd008-f516-49a0-84ff-16d2b6c87ef7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
