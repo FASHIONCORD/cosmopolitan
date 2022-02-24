@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 11:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 12:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전설적 로커 강산에의 인생 화보!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64053</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64053</guid>
+            <pubDate>Thu, 24 Feb 2022 12:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[로큰롤 뮤직을 영원한 영감의 원천으로 삼아온 미국 하이엔드 디자이너 레이블 존 바바토스와 한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/5dfd4474-6cd0-4665-88cb-74d68c84fb0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화이트 데이 남자친구가 ‘손민수’해줬으면 하는 남친룩 모음! 꾸안꾸 스타일 VS 수트 남친룩?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64022</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 21 Feb 2022 07:09:36 GMT</pubDate>
             <content:encoded><![CDATA[황대헌 옷도 잘 입네?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/f55a4a3d-1c25-43ef-ad5a-a76d66b5ad0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오피스 룩의 정석! <기상청 사람들> 박민영 패션 탐구]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63994</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63994</guid>
-            <pubDate>Mon, 21 Feb 2022 06:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[우리 회사엔 왜 이런 과장님 없나요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/86580463-6e2c-413c-a99c-8557a87333ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
