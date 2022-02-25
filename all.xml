@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 07:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 08:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,12 +295,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/7b05c883-852f-4ec1-8add-4cd4891a1724.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<서른,아홉> 손예진의 우아한 패션 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <title><![CDATA[이 오빠는 누가 데려가나? 어쩌다 다시 조인성 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64134</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64134</guid>
+            <pubDate>Thu, 24 Feb 2022 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴 논스톱&gt;과 &lt;발리에서 생긴 일&gt; 안 본 젠지들 드루와. 조인성의 매력, 빙산의 일각만 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/80b8947e-535c-4227-b48d-30b7b718e801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서른, 아홉> 손예진의 우아한 패션? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64131</link>
             <guid>https://www.cosmopolitan.co.kr/article/64131</guid>
             <pubDate>Thu, 24 Feb 2022 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[이게 바로 어른의 멋?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/ad8ac3b0-c8c2-4c99-a196-336871ad947f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/ad8ac3b0-c8c2-4c99-a196-336871ad947f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유이, 이 배우가 유일무이한 이유 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -349,14 +357,6 @@
             <pubDate>Thu, 24 Feb 2022 15:10:54 GMT</pubDate>
             <content:encoded><![CDATA[브레이브 걸스, 케플러, 비비지, 우주소녀, 효린, 이달의 소녀가 라인업인 &lt;퀸덤2&gt;가 3월...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/4e2be6ab-ca18-48a5-9d93-cb291809a0f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 임인년에 가장 주목받는 아이돌, 세븐틴 승관이 시크미 폭발한 이유는?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64089</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64089</guid>
-            <pubDate>Wed, 23 Feb 2022 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 이래 앞만 보고 달려온 세븐틴 승관은 25살 출발점에서 또 한 번 나아갈 준비를 하는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/b8c009ee-5828-45be-ba42-975f66a918ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부부의 세계 29금 버전? 넷플릭스 역대급 수위<금붕어 아내> 좌표 모음 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -423,6 +423,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/02/f94d35c7-9103-411a-89a9-b1391c5bbdc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<네고왕 시즌4> MC로 다시 돌아온 황광희 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64135</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64135</guid>
+            <pubDate>Fri, 25 Feb 2022 08:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[역시 네고왕은 황광희가 진리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/0df66ea7-2e87-4157-81d9-5c5ac0dc4eea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 오빠는 누가 데려가나? 어쩌다 다시 조인성 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64134</link>
             <guid>https://www.cosmopolitan.co.kr/article/64134</guid>
@@ -431,12 +439,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/80b8947e-535c-4227-b48d-30b7b718e801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<서른,아홉> 손예진의 우아한 패션 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <title><![CDATA[<서른, 아홉> 손예진의 우아한 패션? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64131</link>
             <guid>https://www.cosmopolitan.co.kr/article/64131</guid>
             <pubDate>Thu, 24 Feb 2022 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[이게 바로 어른의 멋?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/ad8ac3b0-c8c2-4c99-a196-336871ad947f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/ad8ac3b0-c8c2-4c99-a196-336871ad947f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부산 ‘오마카세 맛집’에 영업 당하실래예? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -463,12 +471,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/fcdb9fff-e674-4c4f-8413-5d4fa0c2204a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한 번만 간 사람은 없는 부산 까페 4대장 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <title><![CDATA[한 번만 간 사람은 없는 부산 카페 4대장? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64113</link>
             <guid>https://www.cosmopolitan.co.kr/article/64113</guid>
             <pubDate>Thu, 24 Feb 2022 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[커피의 도시 하면 강릉이 가장 먼저 떠오를 테지만 최근 부산이 도전장을 내밀고 있다. 부산항...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/be138aa1-60a5-4ff6-939f-2016867e3251.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/be138aa1-60a5-4ff6-939f-2016867e3251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재감 뿜뿜! 악마의 스타성을 자랑하는 선수는 누구? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -477,14 +485,6 @@
             <pubDate>Thu, 24 Feb 2022 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[올림픽이 끝나도 국대즈의 미친 존재감은 계속된다..! 매 경기, 실력과 스타성으로 존재감 뿜...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/1fbd5bf9-db80-4dd0-8ee8-e4367772e336.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심장 폭행범 송강∙남주혁∙연우진의 유죄 모먼트 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64101</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64101</guid>
-            <pubDate>Wed, 23 Feb 2022 18:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[끝이 어딘지 알 수 없는 깊이의 눈, 문짝만 한 피지컬, 현실에 없는데 실제 존재하는 것 같...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/ca60257f-269f-43f4-9e2a-3e3028b63365.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계를 찢어 놓으셨다! 2021년 화제의 인물을 골라보자. (코스모폴리탄 코리아 ─ 코피셜)]]></title>
