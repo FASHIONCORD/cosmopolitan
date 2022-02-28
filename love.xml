@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 07:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 08:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 잇따른 데이팅 앱 사기, 랜선 연인? 속지마세요!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63910</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63910</guid>
+            <pubDate>Mon, 28 Feb 2022 08:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[틴더 사기꾼 ‘사이먼’의 치밀하고 파렴치한 사기 행각을 피해자들과 함께 추적하는 다큐멘터리 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/9bdef75a-e1a5-4a9b-9e37-cfa53bac1587.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구 여친 줄리아 폭스의 전 남친이 드레이크? 꼬리에 꼬리를 무는 ‘예’의 러브라인]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63894</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Feb 2022 09:10:31 GMT</pubDate>
             <content:encoded><![CDATA[소개팅 날, 바로 섹스해도 괜찮은 걸까? 스파크가 튀어도 참아야 하는 걸까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/29a0e5e4-0c42-4cd1-a217-0a8c2edb6d71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재석도 등판한 깻잎 논쟁, 이젠 정말 끝을 내자!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63526</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63526</guid>
-            <pubDate>Mon, 14 Feb 2022 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[깻잎이든 새우든 이젠 정말 끝을 봐야 할 때. 신박한 해결책들도 속속 등장했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/0fe7e384-eaa4-4fd5-924a-d43a3a34b81e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
