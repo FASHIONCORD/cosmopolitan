@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:46:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘나가는 셀렙들이 영업 당한 초초초 미니 백?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64164</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64164</guid>
+            <pubDate>Mon, 28 Feb 2022 02:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[정호연, 수지, 조이부터 인플루언서 김수미, 희주까지 모두가 반한 미니백 스타일링 TOP 5...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/a9902efb-37f1-42ef-86a3-6907577c0d77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<서른, 아홉> 손예진의 우아한 패션?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64131</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 22 Feb 2022 07:08:30 GMT</pubDate>
             <content:encoded><![CDATA[이 멤버가 이렇게 비율이 좋았다니~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/4efbcdf0-8cb7-4584-b05c-3af49aa06b6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프라다 스노우보드부터 스켈레톤 패션까지! 베이징 동계 올림픽 패션 이슈들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64010</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64010</guid>
-            <pubDate>Wed, 23 Feb 2022 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[이번 올림픽에서 경기만큼 핫 했던 패션 이슈들은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/0aa34c2a-9b84-4c76-a12a-09848f9dec84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
