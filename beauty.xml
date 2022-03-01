@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 17:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 18:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미연·전소미·지수·태연·현아·트레저 지훈까지 K-아이돌이 애정 하는 컬러 렌즈가 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64228</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64228</guid>
+            <pubDate>Tue, 01 Mar 2022 18:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[손민수 하기 딱이네~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/cc8ff249-113c-45db-b83e-ef48c4e096d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘믿듣탱’ 태연의 INVU 뮤비 메이크업 파헤치기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64097</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 21 Feb 2022 07:09:48 GMT</pubDate>
             <content:encoded><![CDATA[배달비부터 환경오염 부담까지! 배달 음식에 이별을 고하고 싶은 이들을 위한 초간편 런치 매뉴...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/68b36956-766b-4d1a-8e81-e57e9aeb62e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 봄에는 여자아이들 미연처럼! 봄내음 가득한 미연 메이크업 손민수할 사람?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63895</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63895</guid>
-            <pubDate>Mon, 21 Feb 2022 04:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 어떤 메이크업을 할까 고민된다면? 미연의 메이크업을 참고해 보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/a4979abf-534c-4d56-a965-17e0330b9f6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
