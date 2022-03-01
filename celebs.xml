@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 15:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 16:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘인생네컷’ 잘 찍고 싶다면 이렇게! 워너비 셀럽들의 훔치고 싶은 포즈 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64261</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64261</guid>
+            <pubDate>Tue, 01 Mar 2022 16:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[포즈 손민수 각!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/5b3d4dd4-d4d7-475f-8121-bff0d107ef12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 ‘슈스’가 될 상인가?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64260</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 01 Mar 2022 06:16:57 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳 조이가 전하는 컬러풀한 봄봄봄!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/3cfa5ea4-0b5a-45e8-9b6e-1742f4723752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['꾸꾸꾸' 끝판왕! 트와이스∙비비지∙엔믹스의 젬스톤 메이크업]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64244</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64244</guid>
-            <pubDate>Tue, 01 Mar 2022 06:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[너무 반짝반짝 눈이 부셔! 보기만 해도 즐거운 젬스톤 메이크업! 손민수할 사람 모여!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/d853f353-ce6c-4988-a151-747ba9410c7c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
