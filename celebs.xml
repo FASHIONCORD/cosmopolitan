@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 15:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 16:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조이·지지 하디드·이해리·함연지도 선택한 컬러 팬츠 스타일링은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64310</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64310</guid>
+            <pubDate>Wed, 02 Mar 2022 16:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[쨍한 컬러 팬츠로 멋쟁이 도전!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/0d8369fb-1942-4589-9121-39eb76b495db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데님의 계절이 왔어요! 제니∙김나영∙이유미∙박초롱의 봄맞이 청청 패션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64308</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 02 Mar 2022 04:13:20 GMT</pubDate>
             <content:encoded><![CDATA['데드풀' 라이언 레이놀즈, 아리아나 그란데 등 美 스타들 “우크라 지지한다!”]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/7c8ebc1f-7284-4996-be13-8930b88df291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘인생네컷’ 잘 찍고 싶다면 이렇게! 워너비 셀럽들의 훔치고 싶은 포즈 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64261</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64261</guid>
-            <pubDate>Tue, 01 Mar 2022 16:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[포즈 손민수 각!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/5b3d4dd4-d4d7-475f-8121-bff0d107ef12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
