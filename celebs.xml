@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 03:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 04:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 침공을 바라보는 할리우드 스타들의 말말말!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64262</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64262</guid>
+            <pubDate>Wed, 02 Mar 2022 04:13:20 GMT</pubDate>
+            <content:encoded><![CDATA['데드풀' 라이언 레이놀즈, 아리아나 그란데 등 美 스타들 “우크라 지지한다!”]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/7c8ebc1f-7284-4996-be13-8930b88df291.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘인생네컷’ 잘 찍고 싶다면 이렇게! 워너비 셀럽들의 훔치고 싶은 포즈 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64261</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 01 Mar 2022 06:16:57 GMT</pubDate>
             <content:encoded><![CDATA[얼굴만 봐도 행복한데, 몸매까지 완벽하잖아! 뷔, 차은운, 송강, 형원의 숨겨둔 삼두 섹시....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/adafb5be-7d29-47a5-9f6c-918a6228a4a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 조이의 봄]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64250</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64250</guid>
-            <pubDate>Tue, 01 Mar 2022 06:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳 조이가 전하는 컬러풀한 봄봄봄!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/3cfa5ea4-0b5a-45e8-9b6e-1742f4723752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
