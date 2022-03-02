@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 17:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 18:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꾸꾸꾸' 끝판왕! 트와이스∙비비지∙엔믹스의 젬스톤 메이크업]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64244</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64244</guid>
+            <pubDate>Wed, 02 Mar 2022 18:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[너무 반짝반짝 눈이 부셔! 보기만 해도 즐거운 젬스톤 메이크업! 손민수할 사람 모여!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/d853f353-ce6c-4988-a151-747ba9410c7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단숨에 피부를 바꾸다! 더욱 새로워진 ALL NEW 워터뱅크를 만나다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64241</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 28 Feb 2022 05:10:01 GMT</pubDate>
             <content:encoded><![CDATA[얼굴이 갸름하게 보이는 건 덤!~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/b219c89b-0de6-4f50-baba-b072d0206413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최태준의 그녀 박신혜가 겨울이면 늘 뽐뿌 온다는 헤어스타일이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63996</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63996</guid>
-            <pubDate>Mon, 28 Feb 2022 05:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[박신혜의 단발은 누구라도 킹정할 수 밖에~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/36c20138-23bb-4231-8f1f-f430a9fc0a44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
