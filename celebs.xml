@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 11:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 12:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데님의 계절이 왔어요! 제니∙김나영∙이유미∙박초롱의 봄맞이 청청 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64308</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64308</guid>
+            <pubDate>Wed, 02 Mar 2022 12:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[패션 인싸가 되고 싶다면 기억해야 할 데님 더하기 데님 공식!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/446cf796-4d18-4136-99ba-15a24e63dda0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사지 말고 입양하세요! 반려견 입양을 선택한 스타들 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64301</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64301</guid>
+            <pubDate>Wed, 02 Mar 2022 12:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[갈 곳 없는 ‘유기견’을 입양한 천사 스타들은 누구?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/42ebae04-0c33-48ad-b8f6-e6558b0a1668.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저 세상 힙, '누데이크' 아트 디렉터 박선아는 어떤 일을 할까? #ONETHEWOMAN]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64291</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 01 Mar 2022 16:19:51 GMT</pubDate>
             <content:encoded><![CDATA[포즈 손민수 각!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/5b3d4dd4-d4d7-475f-8121-bff0d107ef12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 ‘슈스’가 될 상인가?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64260</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64260</guid>
-            <pubDate>Tue, 01 Mar 2022 06:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[/ 슈퍼스타 제조기, &lt;오징어 게임&gt;∙&lt;유포리아&gt;!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/7b87f2de-15e3-430f-bf69-1b529bcc2aa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딸기게임에 제니 등판! YG패밀리 최고의 승부사는 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64258</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64258</guid>
-            <pubDate>Tue, 01 Mar 2022 06:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[은지원부터 트레저까지, &lt;출장 십오야 2&gt; YG편 킬 포인트 정리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/306d2ed6-2f4f-4278-b07a-d8af34a26722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
