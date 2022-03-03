@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 14:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 15:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새내기다운 장원영·안유진·예나·진솔로 알아보는 개강 룩 추천 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64311</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64311</guid>
+            <pubDate>Thu, 03 Mar 2022 15:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[개강하면 뭐 입지? 생각했다면 주목해야 할 스타일링!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/8f4acdf0-c52d-435f-9152-397c5766cba1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조이·지지 하디드·이해리·함연지도 선택한 컬러 팬츠 스타일링은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64310</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 02 Mar 2022 07:10:14 GMT</pubDate>
             <content:encoded><![CDATA[넘모 자랑스러운 둘의 수상을 축하합니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/9ac51b85-027c-4150-ab60-3af513b15674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 침공을 바라보는 할리우드 스타들의 말말말!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64262</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64262</guid>
-            <pubDate>Wed, 02 Mar 2022 04:13:20 GMT</pubDate>
-            <content:encoded><![CDATA['데드풀' 라이언 레이놀즈, 아리아나 그란데 등 美 스타들 “우크라 지지한다!”]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/7c8ebc1f-7284-4996-be13-8930b88df291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
