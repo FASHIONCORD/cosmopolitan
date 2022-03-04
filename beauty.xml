@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설레는 봄기운으로 그~득한 3월의 뷰티 신상템 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64281</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64281</guid>
+            <pubDate>Fri, 04 Mar 2022 15:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[설레는 봄기운으로 가득한 3월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/01/0502605a-f667-4fd6-9d79-9df7f2751842.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['꾸꾸꾸' 끝판왕! 트와이스∙비비지∙엔믹스의 젬스톤 메이크업]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64244</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 28 Feb 2022 07:10:02 GMT</pubDate>
             <content:encoded><![CDATA[당당하고 주체적으로 나를 아끼고 싶다면, ‘온누리 스토어 코스모폴리탄 에디터스 픽’에서 절찬...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/a8e16db4-441c-4ae9-990e-c92793f6de54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러블리 ‘더듬이' 헤어와 찰떡궁합 액세서리 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63998</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63998</guid>
-            <pubDate>Mon, 28 Feb 2022 05:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴이 갸름하게 보이는 건 덤!~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/b219c89b-0de6-4f50-baba-b072d0206413.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
