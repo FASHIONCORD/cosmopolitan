@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 15:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 16:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/97b90110-75ea-4340-8058-5415d3cc419c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디톡스 갑! 이너뷰티 라이징 스타, #애플사이다비니거 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64239</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64239</guid>
+            <pubDate>Sun, 06 Mar 2022 16:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[헐리우드 스타들이 사랑하는 이 것! 몸 속 독소 제거부터 피부에 좋은 콜라겐 효과까지! 이너...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/ed5586cf-45eb-4c29-80ae-bd5472e2effb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가볍지만 묵직한 한 방을 가진 남성을 위한 뉴 그루밍 뷰티템! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64294</link>
             <guid>https://www.cosmopolitan.co.kr/article/64294</guid>
@@ -285,14 +293,6 @@
             <pubDate>Thu, 24 Feb 2022 15:10:54 GMT</pubDate>
             <content:encoded><![CDATA[한 번도 안본 사람은 있어도 한 번만 본 사람은 없다는 바로 그 뮤직비디오!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/3d78e8a8-47a5-4871-8c3e-c1d1394e5ce5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘겜.찢.녀’ 태연 vs ‘만.찢.녀’ 비비지! 핫한 신곡 M/V 속 뷰티 매치! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64017</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64017</guid>
-            <pubDate>Mon, 28 Feb 2022 07:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[그리스 신화의 달의 여신 ‘아르테미스’를 연상시키는 몽환적인 비주얼의 태연, 발랄하고 펑키한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/8e968cdc-bafd-4ba0-88ae-3b69f81937e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대세는 ‘멍뭉미’? 내 심장 박동수를 올려주는 최애 멍뭉이는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
