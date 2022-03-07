@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새내기다운 장원영·안유진·예나·진솔로 알아보는 개강 룩 추천 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64311</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64311</guid>
+            <pubDate>Mon, 07 Mar 2022 07:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[개강하면 뭐 입지? 생각했다면 주목해야 할 스타일링!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/8f4acdf0-c52d-435f-9152-397c5766cba1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조이·지지 하디드·이해리·함연지도 선택한 컬러 팬츠 스타일링은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64310</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 02 Mar 2022 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[/ 슈퍼스타 제조기, &lt;오징어 게임&gt;∙&lt;유포리아&gt;!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/7b87f2de-15e3-430f-bf69-1b529bcc2aa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니∙로제∙정호연 등으로 알아보는 핫한 청바지 트렌드5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64257</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64257</guid>
-            <pubDate>Mon, 28 Feb 2022 16:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[힙하고 핫하게 청바지 입는 법, 궁금하면 팔로미~! 블랙핑크 제니, 리사부터 정호연, 아이린...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/5a6c05cf-ccd8-49a4-ba80-26ad413d4c83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
