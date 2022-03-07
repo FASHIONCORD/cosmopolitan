@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 08:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTNfMjA5/MDAxNjQ0NzU3NTEzNDE1.QGRbMwosnW5Cshx09oHi47ALn4MChUmWR3bRzoloQ0Ig._qvtjNASBx36DK6sEZwGzpGt9995IE6hFIN2W2KKrWkg.JPEG/IJnx6jt_mlKbm7YQz-yhcCpDVIqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개강이다! 새내기 룩을 참고하면 좋을 '갓기' 셀럽들의 패션 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64316</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64316</guid>
+            <pubDate>Sat, 05 Mar 2022 03:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[원영, 유진, 윈터, 채령의 개강여신 스타일링 모음ZIP]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/bb8c640b-bdc1-48ba-b1b6-a7044b0433a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새내기다운 장원영·안유진·예나·진솔로 알아보는 개강 룩 추천 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64311</link>
             <guid>https://www.cosmopolitan.co.kr/article/64311</guid>
@@ -222,14 +230,6 @@
             <pubDate>Wed, 02 Mar 2022 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[겨울 코트 다채롭게 즐기는 4가지 방법을 영상으로 만나보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/c40460fa-0b2c-421b-a028-58282d2dd0a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 ‘슈스’가 될 상인가? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64260</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64260</guid>
-            <pubDate>Tue, 01 Mar 2022 06:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[/ 슈퍼스타 제조기, &lt;오징어 게임&gt;∙&lt;유포리아&gt;!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/7b87f2de-15e3-430f-bf69-1b529bcc2aa6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맑은 컬러 발색과 케어 효과를 모두 지닌 샤넬 뷰티의 NEW 컬러 립밤, ‘루쥬 코코 밤’ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/6365fd2d-9ecf-47f2-8f3c-5294fbe7a1e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[들어만 봤지 가본적은 없는 걸,, 응암역 핫한 카페 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64433</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64433</guid>
+            <pubDate>Mon, 07 Mar 2022 08:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[6호선 응암행만 아는 당신께]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/d4a650d0-7f56-488a-9f9c-93b2c84c30c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성, 이하늬, BTS 등 셀럽들의 사전 투표 인증샷! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64432</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64432</guid>
+            <pubDate>Mon, 07 Mar 2022 08:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[이 시국에도 역대 최고 사전투표율 기록!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/516be140-af4b-429f-a475-275b422a94cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오션뷰 보단 시티뷰지! 서울 시티뷰 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64429</link>
             <guid>https://www.cosmopolitan.co.kr/article/64429</guid>
@@ -470,22 +486,6 @@
             <pubDate>Mon, 07 Mar 2022 05:11:17 GMT</pubDate>
             <content:encoded><![CDATA[제목만 보아도 알 수 있다. 결코 가볍지 않은 작품이라는 것을. &lt;소년심판&gt; 관전 포인트 T...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/86335e4b-c52e-4def-8b67-3b6e9099d76e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 심상정 안철수 허경영이 직접 추천한 최애곡 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64267</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64267</guid>
-            <pubDate>Mon, 07 Mar 2022 05:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[TV대선토론보다 꿀잼, 대선후보 노래 배틀]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/1ba014d8-4812-4d2a-9b4a-49416778183a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스물다섯 스물하나> 남주혁 ‘야타족’ 재질 OOTD (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64266</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64266</guid>
-            <pubDate>Wed, 02 Mar 2022 07:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 셔츠 패션부터 ‘꾸안꾸’ 캠퍼스 룩까지 못하는 게 없는 남주혁 데일리 패션]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/ee6e8078-df06-45a9-a423-63f9e5f0bb00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니멀하고 지속 가능한 뷰티 습관, 클린뷰티 어디까지 알고 있나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
