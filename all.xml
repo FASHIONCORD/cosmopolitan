@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTNfMjA5/MDAxNjQ0NzU3NTEzNDE1.QGRbMwosnW5Cshx09oHi47ALn4MChUmWR3bRzoloQ0Ig._qvtjNASBx36DK6sEZwGzpGt9995IE6hFIN2W2KKrWkg.JPEG/IJnx6jt_mlKbm7YQz-yhcCpDVIqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조이·지지 하디드·이해리·함연지도 선택한 컬러 팬츠 스타일링은? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64310</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64310</guid>
+            <pubDate>Wed, 02 Mar 2022 16:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[쨍한 컬러 팬츠로 멋쟁이 도전!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/0d8369fb-1942-4589-9121-39eb76b495db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데님의 계절이 왔어요! 제니∙김나영∙이유미∙박초롱의 봄맞이 청청 패션 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64308</link>
             <guid>https://www.cosmopolitan.co.kr/article/64308</guid>
@@ -222,14 +230,6 @@
             <pubDate>Mon, 28 Feb 2022 16:13:04 GMT</pubDate>
             <content:encoded><![CDATA[힙하고 핫하게 청바지 입는 법, 궁금하면 팔로미~! 블랙핑크 제니, 리사부터 정호연, 아이린...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/5a6c05cf-ccd8-49a4-ba80-26ad413d4c83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 조이의 봄 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64250</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64250</guid>
-            <pubDate>Mon, 28 Feb 2022 11:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳 조이가 전하는 컬러풀한 봄봄봄!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/3cfa5ea4-0b5a-45e8-9b6e-1742f4723752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디톡스 갑! 이너뷰티 라이징 스타, #애플사이다비니거 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,6 +296,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/3d78e8a8-47a5-4871-8c3e-c1d1394e5ce5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다큐멘터리감독 정다운이 사랑으로 대하는 일에 대햐여 #ONETHEWOMAN (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64402</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64402</guid>
+            <pubDate>Mon, 07 Mar 2022 03:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[한 편에 한 명씩, 친구를 기록하는 영상 프로젝트 ‘DQM(다운큐멘터리)’을 7년째 이어온 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/05/300bf999-e269-4f87-b646-119da75d7c6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[175만 구독자를 소유한 <문명특급>의 홍민지 PD가 말하는 유튜브 콘텐츠는? #ONETHEWOMAN (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64376</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64376</guid>
+            <pubDate>Mon, 07 Mar 2022 03:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[SBS 뉴미디어팀 인턴들이 만든 콘텐츠 &lt;문명특급&gt;은 어느덧 175만 구독자가 응원하는 골드...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/04/46c05336-dcf6-4f14-a589-78a0d66a6627.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오픈과 동시에 완판, '마땡킴'의 수장 김다인의 성공 신화는? #ONETHEWOMAN (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64328</link>
             <guid>https://www.cosmopolitan.co.kr/article/64328</guid>
@@ -342,22 +358,6 @@
             <pubDate>Wed, 02 Mar 2022 16:16:32 GMT</pubDate>
             <content:encoded><![CDATA[쨍한 컬러 팬츠로 멋쟁이 도전!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/0d8369fb-1942-4589-9121-39eb76b495db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데님의 계절이 왔어요! 제니∙김나영∙이유미∙박초롱의 봄맞이 청청 패션 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64308</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64308</guid>
-            <pubDate>Wed, 02 Mar 2022 12:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[패션 인싸가 되고 싶다면 기억해야 할 데님 더하기 데님 공식!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/446cf796-4d18-4136-99ba-15a24e63dda0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사지 말고 입양하세요! 반려견 입양을 선택한 스타들 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64301</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64301</guid>
-            <pubDate>Wed, 02 Mar 2022 12:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[갈 곳 없는 ‘유기견’을 입양한 천사 스타들은 누구?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/42ebae04-0c33-48ad-b8f6-e6558b0a1668.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무심한 듯 다정하게? 나쁜 남자가 어떤 남잔데요? (코스모폴리탄 코리아 ─ 러브)]]></title>
