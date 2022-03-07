@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 03:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 04:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맑은 컬러 발색과 케어 효과를 모두 지닌 샤넬 뷰티의 NEW 컬러 립밤, ‘루쥬 코코 밤’]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64211</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64211</guid>
+            <pubDate>Mon, 07 Mar 2022 04:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[풍부한 영양감은 빠르게 스며들면서 번들거림 없이 맑은 컬러만 입술에 남겨주는 갓벽한 립밤을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/a4ec69a3-0820-4ef2-9202-d90fae1f3e5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디톡스 갑! 이너뷰티 라이징 스타, #애플사이다비니거]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64239</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 01 Mar 2022 18:16:20 GMT</pubDate>
             <content:encoded><![CDATA[손민수 하기 딱이네~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/cc8ff249-113c-45db-b83e-ef48c4e096d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘믿듣탱’ 태연의 INVU 뮤비 메이크업 파헤치기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64097</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64097</guid>
-            <pubDate>Tue, 01 Mar 2022 02:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[한 번도 안본 사람은 있어도 한 번만 본 사람은 없다는 바로 그 뮤직비디오!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/3d78e8a8-47a5-4871-8c3e-c1d1394e5ce5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
