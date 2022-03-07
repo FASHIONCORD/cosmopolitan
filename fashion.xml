@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 15:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 16:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정우성, 이하늬, BTS 등 셀럽들의 사전 투표 인증샷!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64432</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64432</guid>
+            <pubDate>Mon, 07 Mar 2022 16:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[이 시국에도 역대 최고 사전투표율 기록!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/516be140-af4b-429f-a475-275b422a94cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화이트데이, 연인을 위한 감미로운 선물을 찾고 싶다면 샤넬 '샹스'가 정답!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64377</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 02 Mar 2022 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[헤어 밴드 OOTD 총집합]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/2b21cbca-e878-4e5a-9585-19c557e57ef6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스물다섯 스물하나> 남주혁 ‘야타족’ 재질 OOTD]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64266</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64266</guid>
-            <pubDate>Wed, 02 Mar 2022 07:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 셔츠 패션부터 ‘꾸안꾸’ 캠퍼스 룩까지 못하는 게 없는 남주혁 데일리 패션]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/ee6e8078-df06-45a9-a423-63f9e5f0bb00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
