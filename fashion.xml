@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈가∙제니∙크리스탈∙리사∙유나도 픽한! 꽃샘추위엔 바시티 재킷 스타일링이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64437</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64437</guid>
+            <pubDate>Tue, 08 Mar 2022 06:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[‘과 잠바’아니고 ‘야구 잠바’도 아닌 바시티 재킷입니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/d76ae283-45a3-4274-8844-c3410fe3d3e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정우성, 이하늬, BTS 등 셀럽들의 사전 투표 인증샷!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64432</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Mar 2022 15:09:50 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/01/75522d78-47b0-45fd-801f-6dcdc783912d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니ㆍ정호연ㆍ윤아ㆍ슬기ㆍ미연의 원픽 헤어 밴드는?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64270</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64270</guid>
-            <pubDate>Wed, 02 Mar 2022 09:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[헤어 밴드 OOTD 총집합]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/2b21cbca-e878-4e5a-9585-19c557e57ef6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
