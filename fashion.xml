@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 15:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 16:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 시즌 핫 패션 트렌드 크롭 톱! 셀럽들의 크롭 톱 스타일링 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64497</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64497</guid>
+            <pubDate>Thu, 10 Mar 2022 16:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 가장 핫한 패션 키워드인 크롭 톱! 어디까지 짧아질지 아찔한 크롭 톱을 섭렵한 셀렙들의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/09/f4de5df5-0ce6-4022-95b8-0dbc9b686f64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022VER. 찐 덕후 몰이상 스타는 뉴구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64495</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Mar 2022 18:11:35 GMT</pubDate>
             <content:encoded><![CDATA[2022 S/S 시즌을 스타일리시하게 보내기 위해 당신이 반드시 기억해야 할 4가지 뉴 트렌...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/e01adf6e-82e6-446e-9ef2-440446637aa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가∙제니∙크리스탈∙리사∙유나 픽, 꽃샘추위엔 바시티 재킷 스타일링이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64437</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64437</guid>
-            <pubDate>Tue, 08 Mar 2022 06:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘과 잠바’아니고 ‘야구 잠바’도 아닌 바시티 재킷입니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/d76ae283-45a3-4274-8844-c3410fe3d3e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
