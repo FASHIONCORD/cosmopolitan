@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 06:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 <사내맞선> 김세정과 설인아의 사복 패션이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64478</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64478</guid>
+            <pubDate>Thu, 10 Mar 2022 06:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 속 친구 사이 실제로도 동갑내기 친구 사이!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f5189d94-c62c-4a06-9ff0-dfe4997214e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2000년대 초를 풍미한 Y2K 패션의 부활! 2020년대ver 핫 셀럽들의 Y2K 스타일링 TIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64460</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Mar 2022 09:10:11 GMT</pubDate>
             <content:encoded><![CDATA[사랑하는 이의 마음을 사로잡을 수 있는 기회! 다가오는 화이트데이를 맞아 샤넬 ‘샹스’로 감...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/04/ec3fa8f9-74b4-40c0-94a5-1b27b8cde604.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개강이다! 새내기 룩을 참고하면 좋을 '갓기' 셀럽들의 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64316</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64316</guid>
-            <pubDate>Mon, 07 Mar 2022 08:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[원영, 유진, 윈터, 채령의 개강여신 스타일링 모음ZIP]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/bb8c640b-bdc1-48ba-b1b6-a7044b0433a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
