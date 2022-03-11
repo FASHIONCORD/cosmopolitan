@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,6 +425,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/bea0fd42-677e-482e-984d-6f32fd6bebfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64487</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
+            <pubDate>Fri, 11 Mar 2022 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/fdef0949-753f-4b68-8736-97965b951957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금 강원도 여행이 딱 좋은 이유? 런던아이 말고 ‘속초아이’ (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64477</link>
             <guid>https://www.cosmopolitan.co.kr/article/64477</guid>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 07 Mar 2022 10:13:21 GMT</pubDate>
             <content:encoded><![CDATA[일론머스크, 애쉬튼커쳐, 이영애 등 우크라이나를 향한 지원 이어져]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/b9cf9920-c5c3-4f02-a5e7-7db863c9cf02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들어만 봤지 가본적은 없는 걸...? 응암역 핫한 카페 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64433</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64433</guid>
-            <pubDate>Mon, 07 Mar 2022 08:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[6호선 응암행만 아는 당신께!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/d4a650d0-7f56-488a-9f9c-93b2c84c30c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계를 찢어 놓으셨다! 2021년 화제의 인물을 골라보자. (코스모폴리탄 코리아 ─ 코피셜)]]></title>
