@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 14:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 15:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동인비만의 이기는 피부 안티에이징 공식! #듀얼안티에이징]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64440</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64440</guid>
+            <pubDate>Fri, 11 Mar 2022 15:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[정관장 스킨케어 테크놀리지를 완성한 &lt;동인비&gt;가 완성한 피부 안티에이징 공식, ‘듀얼 안티에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/07d10025-4b2c-4449-b539-dbf4e265b051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[속눈썹 탈모 주의보로부터 내 눈썹을 지켜줄 속눈썹 케어 TIP!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64465</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Mar 2022 04:16:06 GMT</pubDate>
             <content:encoded><![CDATA[풍부한 영양감은 빠르게 스며들면서 번들거림 없이 맑은 컬러만 입술에 남겨주는 갓벽한 립밤을 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/a4ec69a3-0820-4ef2-9202-d90fae1f3e5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디톡스 갑! 이너뷰티 라이징 스타, #애플사이다비니거]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64239</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64239</guid>
-            <pubDate>Sun, 06 Mar 2022 16:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[헐리우드 스타들이 사랑하는 이 것! 몸 속 독소 제거부터 피부에 좋은 콜라겐 효과까지! 이너...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/ed5586cf-45eb-4c29-80ae-bd5472e2effb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
