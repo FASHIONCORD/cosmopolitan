@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 14:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 16:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화제의 중심, 제 20대 대통령 선거 속 셀럽들의 '선거 패션'은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64558</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64558</guid>
+            <pubDate>Sat, 12 Mar 2022 16:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[가지각색 인증샷 모음!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/04674a11-5522-4fdc-86fd-09c1ebfadec2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니크하고 놀라운 형식의 오프라인 쇼를 연 패션 하우스들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64545</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64545</guid>
+            <pubDate>Sat, 12 Mar 2022 16:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 인해 2년여 만에 관객이 있는 오프라인 쇼를 연 패션 하우스들. 기나긴 팬데믹이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/e2ab3569-cc75-4489-9495-8866490778f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울과 봄 사이 그 어디쯤 싱그러운 그린 룩 추천.]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64522</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 10 Mar 2022 09:15:29 GMT</pubDate>
             <content:encoded><![CDATA[무대에선 호랑이, 성격은 고양이, 하지만 나에게만은 강아지! 단단한 코어 팬덤을 바탕으로 덕...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/09/a543a3ba-3da2-4d1a-8439-2c48978f89de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니들이 쏘아올린 작은 책]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64493</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64493</guid>
-            <pubDate>Thu, 10 Mar 2022 09:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[K-콘텐츠 열풍은 드라마나 영화에만 그치지 않는다. 한국 여성 작가들의 소설과 에세이가 해외...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/09/fc08db60-7c2a-44e9-b7c8-6d09ed4689a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 <사내맞선> 김세정과 설인아의 사복 패션이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64478</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64478</guid>
-            <pubDate>Thu, 10 Mar 2022 06:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 속 친구 사이 실제로도 동갑내기 친구 사이!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f5189d94-c62c-4a06-9ff0-dfe4997214e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
