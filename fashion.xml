@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 04:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["저세상 HIP!" 뻔하지 않은 '두아 리파' 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64599</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64599</guid>
+            <pubDate>Mon, 14 Mar 2022 04:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[언니 하고 싶은 거 다 해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/d5b2eedc-92d5-44a7-b929-4f9bbe95969b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-직딩의 원픽 부사수는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64597</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64597</guid>
+            <pubDate>Mon, 14 Mar 2022 04:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[세상 모든 직장인의 염원은 바로 후임 입사! 과몰입 주의보 내린 드라마와 영화 속 주인공 1...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/e77373a0-a302-43dc-8680-1109892ba628.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청량미 팡팡! 블루&튀르쿠아즈 컬러 계열의 패션템]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64596</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 13 Mar 2022 15:09:50 GMT</pubDate>
             <content:encoded><![CDATA[조이 사복 패션 아이템은 못 참지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/3e27ec42-e3c9-4172-9bdf-5243797e08df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화제의 중심, 제 20대 대통령 선거 속 셀럽들의 '선거 패션'은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64558</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64558</guid>
-            <pubDate>Sat, 12 Mar 2022 16:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[가지각색 인증샷 모음!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/04674a11-5522-4fdc-86fd-09c1ebfadec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크하고 놀라운 형식의 오프라인 쇼를 연 패션 하우스들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64545</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64545</guid>
-            <pubDate>Sat, 12 Mar 2022 16:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 인해 2년여 만에 관객이 있는 오프라인 쇼를 연 패션 하우스들. 기나긴 팬데믹이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/e2ab3569-cc75-4489-9495-8866490778f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
