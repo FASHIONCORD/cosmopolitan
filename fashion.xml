@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 07:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 08:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보는 재미가 있다! '갓기' 신인 여돌들의 무대 패숀]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64610</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64610</guid>
+            <pubDate>Mon, 14 Mar 2022 08:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[엔믹스, 아이브, 스테이씨, 에스파!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/bfbf5f4d-f7a3-40cd-80f5-f4e7e0cd6d47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개코 아내 김수미, 개리 아내 김세은! 다듀의 훈녀 아내들?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64605</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 02:09:05 GMT</pubDate>
             <content:encoded><![CDATA[별자리, 사주, 신점, 타로, 기타 등등 온갖 미신을 동원해서라도 나와 세상을 이해하고 싶은...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/24b71b2d-73a2-42cb-9634-31e45c50a8d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러블리 뿜뿜! 레드&핑크 컬러 계열의 패션템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64589</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64589</guid>
-            <pubDate>Mon, 14 Mar 2022 02:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[장기간 이어지는 코로나19로 답답하고 우울한 마음을 벗어버리기 위해 이번 시즌 디자이너들이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/c77b9c9b-851a-4c70-9680-fddf4b6484ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
