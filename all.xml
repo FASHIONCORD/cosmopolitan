@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 04:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/3e27ec42-e3c9-4172-9bdf-5243797e08df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신기한 뷰티템, 써보니 이렇다고? 신박템 찐 리얼 후기 모음ZIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64502</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64502</guid>
+            <pubDate>Mon, 14 Mar 2022 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[핫하다 핫해! 재미도 실용성도 고루 갖춘 신박템의 등장! ‘살까? 말까?’ 고민 중이라면 리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/d177c54e-bd8a-42c3-bc94-eb3dfd10000e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[동인비만의 이기는 피부 안티에이징 공식! #듀얼안티에이징 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64440</link>
             <guid>https://www.cosmopolitan.co.kr/article/64440</guid>
@@ -287,14 +295,6 @@
             <pubDate>Mon, 07 Mar 2022 16:13:23 GMT</pubDate>
             <content:encoded><![CDATA[신비하고, 오묘한 라일락 색의 매력]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/4b87d433-b400-4b9b-a3ed-43a6838d262f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맑은 컬러 발색과 케어 효과를 모두 지닌 샤넬 뷰티의 NEW 컬러 립밤, ‘루쥬 코코 밤’ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64211</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64211</guid>
-            <pubDate>Mon, 07 Mar 2022 04:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[풍부한 영양감은 빠르게 스며들면서 번들거림 없이 맑은 컬러만 입술에 남겨주는 갓벽한 립밤을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/a4ec69a3-0820-4ef2-9202-d90fae1f3e5d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송강∙남주혁∙강다니엘∙한가인∙김세정까지 브라운관을 점령한 셀럽들의 ‘관상’이 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -425,10 +425,18 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/bea0fd42-677e-482e-984d-6f32fd6bebfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사복 패션 장인, 레드벨벳 조이가 N번 이상 입은 최애 사복 패션 스타일링은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64563</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64563</guid>
+            <pubDate>Sun, 13 Mar 2022 15:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[조이 사복 패션 아이템은 못 참지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/3e27ec42-e3c9-4172-9bdf-5243797e08df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이스 아메리카노 빼면 시체, 세븐틴 승관이 하루에 4잔 이상 마시는 인생 '아아'는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64553</link>
             <guid>https://www.cosmopolitan.co.kr/article/64553</guid>
-            <pubDate>Mon, 14 Mar 2022 04:17:32 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 04:16:42 GMT</pubDate>
             <content:encoded><![CDATA['아아' 장인, 세븐틴 승관이와 9분 동안 커피 이야기만 하면 생기는 일!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/5667fd35-5f98-4933-af7a-91de6be72622.jpg" length="0" type="image/jpg"/>
         </item>
@@ -479,14 +487,6 @@
             <pubDate>Thu, 10 Mar 2022 09:18:36 GMT</pubDate>
             <content:encoded><![CDATA[하루가 다르게 뜨고 지는 성수동 스트리트에서 코스모가 직접 가보고 검증한 찐 스팟 4곳을 추...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/75c3b792-84e9-4759-a86f-b292d449b327.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[널 가져야겠어! <스물다섯, 스물하나> 재질 세기말 커플템 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64442</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64442</guid>
-            <pubDate>Thu, 10 Mar 2022 08:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;스물다섯, 스물하나&gt;에서 네잎클로버 핸드폰줄 보고 놀란 젠지 드루와. Y2K 커플들은 이런...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/8041bcf1-98f2-4fe7-bb26-b08949241039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계를 찢어 놓으셨다! 2021년 화제의 인물을 골라보자. (코스모폴리탄 코리아 ─ 코피셜)]]></title>

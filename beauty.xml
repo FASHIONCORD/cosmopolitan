@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 04:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신기한 뷰티템, 써보니 이렇다고? 신박템 찐 리얼 후기 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64502</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64502</guid>
+            <pubDate>Mon, 14 Mar 2022 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[핫하다 핫해! 재미도 실용성도 고루 갖춘 신박템의 등장! ‘살까? 말까?’ 고민 중이라면 리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/d177c54e-bd8a-42c3-bc94-eb3dfd10000e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동인비만의 이기는 피부 안티에이징 공식! #듀얼안티에이징]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64440</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Mar 2022 16:13:23 GMT</pubDate>
             <content:encoded><![CDATA[신비하고, 오묘한 라일락 색의 매력]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/4b87d433-b400-4b9b-a3ed-43a6838d262f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맑은 컬러 발색과 케어 효과를 모두 지닌 샤넬 뷰티의 NEW 컬러 립밤, ‘루쥬 코코 밤’]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64211</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64211</guid>
-            <pubDate>Mon, 07 Mar 2022 04:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[풍부한 영양감은 빠르게 스며들면서 번들거림 없이 맑은 컬러만 입술에 남겨주는 갓벽한 립밤을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/a4ec69a3-0820-4ef2-9202-d90fae1f3e5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
