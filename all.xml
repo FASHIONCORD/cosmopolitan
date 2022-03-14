@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 17:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 18:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/d3c612c2-62da-4124-a175-d29baebf3570.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이해리, 수지, 윤아 등 셀럽들의 존예 스카프 스타일링 6 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64601</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64601</guid>
+            <pubDate>Mon, 14 Mar 2022 18:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[스카프의 계절, 봄이 왔어요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/9cec96ab-4f77-46a0-9c37-6b415c3cfc6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[손쉽게 구할 수 있는 ‘리본’ 한 스푼 더해 이모저모 스타일링 5 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64600</link>
             <guid>https://www.cosmopolitan.co.kr/article/64600</guid>
@@ -223,14 +231,6 @@
             <pubDate>Mon, 14 Mar 2022 03:11:36 GMT</pubDate>
             <content:encoded><![CDATA[장기간 이어지는 코로나19로 답답하고 우울한 마음을 벗어버리기 위해 이번 시즌 디자이너들이 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/2da737ea-fe66-4508-85d4-b1bf97260724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자들은 왜 미신에 빠졌을까? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64587</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64587</guid>
-            <pubDate>Mon, 14 Mar 2022 02:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[별자리, 사주, 신점, 타로, 기타 등등 온갖 미신을 동원해서라도 나와 세상을 이해하고 싶은...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/24b71b2d-73a2-42cb-9634-31e45c50a8d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통조림만 먹어도 살이 빠진다? 불량 식품으로 여겨왔던 통조림의 반전! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
