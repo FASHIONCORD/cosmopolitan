@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 02:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청량미 팡팡! 블루&튀르쿠아즈 컬러 계열의 패션템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64596</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64596</guid>
+            <pubDate>Mon, 14 Mar 2022 03:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[장기간 이어지는 코로나19로 답답하고 우울한 마음을 벗어버리기 위해 이번 시즌 디자이너들이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/2da737ea-fe66-4508-85d4-b1bf97260724.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자들은 왜 미신에 빠졌을까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64587</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 12 Mar 2022 16:11:49 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 2년여 만에 관객이 있는 오프라인 쇼를 연 패션 하우스들. 기나긴 팬데믹이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/e2ab3569-cc75-4489-9495-8866490778f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울과 봄 사이 그 어디쯤 싱그러운 그린 룩 추천.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64522</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64522</guid>
-            <pubDate>Fri, 11 Mar 2022 15:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻해지니까 그린이 땡겨! 화사 · 유아 · 애슐리 박 · 청하 · 산다라 박도 선택한 그린...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/29ffce22-fcec-4dc9-8d59-7c3abcf3dade.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
