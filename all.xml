@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/2da737ea-fe66-4508-85d4-b1bf97260724.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꾸안꾸 민낯 사수 치트키를 원한다면 이게 정답! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64582</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64582</guid>
+            <pubDate>Tue, 15 Mar 2022 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[운동하는데 풀메는 좀 오바육바 아닌가 싶지만 아무래도 민낯은 부끄하다면? 흙빛 생얼에도 화사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/12/021b725d-dc33-4767-8f83-2fdf184097b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[통조림만 먹어도 살이 빠진다? 불량 식품으로 여겨왔던 통조림의 반전! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64542</link>
             <guid>https://www.cosmopolitan.co.kr/article/64542</guid>
@@ -287,14 +295,6 @@
             <pubDate>Thu, 10 Mar 2022 07:12:03 GMT</pubDate>
             <content:encoded><![CDATA[이 제품들, 아직 안 써봤다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/109f2688-23a4-4bb1-82cf-cf20e6b630ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우아한 광채 메이크업을 원한다면 참고해야할 2022 글로 트렌드 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64426</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64426</guid>
-            <pubDate>Thu, 10 Mar 2022 02:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[진주알을 콕! 박은 듯 우아하게 빛나는 광채부터 별빛이 쏟아져 내리듯 영롱하게 반짝이는 글리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/1d1b5203-09b1-4128-a79d-1d9457e2937f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환절기 패션 공식 '레더 재킷’으로 HIP지수 업! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
