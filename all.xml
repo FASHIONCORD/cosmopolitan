@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 12:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 13:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/2da737ea-fe66-4508-85d4-b1bf97260724.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄도 오고, 향기도 오고~ 봄 향수 리스트 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64609</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64609</guid>
+            <pubDate>Tue, 15 Mar 2022 13:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[봄 패션에 찰떡같이 어울리는 향기로 ‘봄봄’한 무드 레벨 업~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/3dd654be-7d8a-4ef1-9a0d-ea7ecd877a33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꾸안꾸 민낯 사수 치트키를 원한다면 이게 정답! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64582</link>
             <guid>https://www.cosmopolitan.co.kr/article/64582</guid>
@@ -287,14 +295,6 @@
             <pubDate>Thu, 10 Mar 2022 23:13:09 GMT</pubDate>
             <content:encoded><![CDATA[‘아앗! 내가… 속눈썹 탈모라니!’ 머리 탈모만 신경 쓰느라 속눈썹에는 소홀했다면 남 일이 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/4cf55b6b-acba-46fc-a4f5-4149bc345c56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일단 사용하면 삶의 질 수직 상승! 에디터의 띵작 오브 띵작템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64439</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64439</guid>
-            <pubDate>Thu, 10 Mar 2022 07:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[이 제품들, 아직 안 써봤다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/109f2688-23a4-4bb1-82cf-cf20e6b630ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슬기∙문별∙세정∙채현∙지우∙유진∙가을, 여돌들의 귀여움과 예쁨의 시너지 공식 #베레모 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
