@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 23:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 00:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,6 +425,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/bea0fd42-677e-482e-984d-6f32fd6bebfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[벚꽃이 흐드러진다, 가자! 벚꽃 맛집 여행은 하동으로. (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64613</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64613</guid>
+            <pubDate>Tue, 15 Mar 2022 00:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 알프스 하동에서 노는법. 인생사진 맛집들로 가득하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/357acd06-9919-4b46-a432-ff63842db332.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리나라에 관람차가 이렇게 많았어? 전국 관람차 명소 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64604</link>
             <guid>https://www.cosmopolitan.co.kr/article/64604</guid>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 14 Mar 2022 04:17:32 GMT</pubDate>
             <content:encoded><![CDATA[보기만 해도 힐링, 감동, 대리만족 모두 다 되는 잘먹고 잘자고 잘즐기는 ‘솔캠’ 전문 유투...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/071d3eca-fef1-4292-8b63-5a7bdfcd4397.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌이었어...?  본투비 배우같은, <스물다섯 스물하나> 보나의 필모 명장면 훑기 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64529</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64529</guid>
-            <pubDate>Fri, 11 Mar 2022 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[3세대 연기돌 우주소녀 보나의 연기 성장기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/d5504af0-156f-45fc-95a9-a29e49ab5b9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계를 찢어 놓으셨다! 2021년 화제의 인물을 골라보자. (코스모폴리탄 코리아 ─ 코피셜)]]></title>
