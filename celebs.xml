@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 00:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환절기 패션 공식 '레더 재킷’으로 HIP지수 업!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64616</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64616</guid>
+            <pubDate>Tue, 15 Mar 2022 02:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[풀어 헤쳐 펑키하게, 얍.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/f6d636c6-792d-4812-9f35-d1b04eb4c9cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옥주현 vs. 이영지, 타의 모범이 되는 유지어터]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64615</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 04:16:42 GMT</pubDate>
             <content:encoded><![CDATA[대세는 댕댕이상!? 보고만 있어도 심쿵 유발각!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/b3a7a629-78db-40ec-a63a-e636ea920a77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사복 패션 장인, 레드벨벳 조이가 N번 이상 입은 최애 사복 패션 스타일링은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64563</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64563</guid>
-            <pubDate>Mon, 14 Mar 2022 04:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[조이 사복 패션 아이템은 못 참지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/3e27ec42-e3c9-4172-9bdf-5243797e08df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
