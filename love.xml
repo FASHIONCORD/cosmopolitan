@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[널 가져야겠어! <스물다섯, 스물하나> 재질 세기말 커플템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64442</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64442</guid>
+            <pubDate>Tue, 15 Mar 2022 10:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;스물다섯, 스물하나&gt;에서 네잎클로버 핸드폰줄 보고 놀란 젠지 드루와. Y2K 커플들은 이런...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/8041bcf1-98f2-4fe7-bb26-b08949241039.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 나랑 자고 싶다는 얘기죠? 으른들의 선섹스 후연애]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64441</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 02 Mar 2022 10:14:55 GMT</pubDate>
             <content:encoded><![CDATA[범죄 행위를 저지른 것도 아닌데 (그건 나쁜 XX인 거고) 이상하게 지는 게임을 하는 것만 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/284e619b-0c32-4f9e-9222-807dd84f2528.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 잇따른 데이팅 앱 사기, 랜선 연인? 속지마세요!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63910</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63910</guid>
-            <pubDate>Mon, 28 Feb 2022 08:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[틴더 사기꾼 ‘사이먼’의 치밀하고 파렴치한 사기 행각을 피해자들과 함께 추적하는 다큐멘터리 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/9bdef75a-e1a5-4a9b-9e37-cfa53bac1587.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
