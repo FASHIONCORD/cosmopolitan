@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 04:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자르는 순간 산뜻+청량한 허쉬컷이 찰떡인 여자 연예인 BEST5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64633</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64633</guid>
+            <pubDate>Wed, 16 Mar 2022 04:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[유행을 넘어 스테디 헤어로! 스타들의 허쉬컷 트렌드]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/318f90c5-0f52-4174-b2ed-cd7dc84e6bf9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬기∙문별∙세정∙채현∙지우∙유진∙가을, 여돌들의 귀여움과 예쁨의 시너지 공식 #베레모]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64621</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 07:10:54 GMT</pubDate>
             <content:encoded><![CDATA[원영, 조이, 아린, 현아의 피드는 벌써 핑꾸빛~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/c41666c0-9cc5-46df-8411-e06d63bfca55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보는 재미가 있다! '갓기' 신인 여돌들의 무대 패숀]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64610</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64610</guid>
-            <pubDate>Mon, 14 Mar 2022 07:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[엔믹스, 아이브, 스테이씨, 에스파!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/bfbf5f4d-f7a3-40cd-80f5-f4e7e0cd6d47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
