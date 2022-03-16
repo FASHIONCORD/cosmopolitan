@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 11:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 12:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월드클라스 국가대표 김아랑∙이유빈 선수와 데싱디바가 만났다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64676</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64676</guid>
+            <pubDate>Wed, 16 Mar 2022 12:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[국가대표 네일 데싱디바와 올림픽의 주역! 김아랑&amp;이유빈 선수의 만남으로 완성된 독보적인 비주...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/d0091468-20f4-4d83-a057-859e82fc653d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기현∙승관∙은비∙지선 아이돌의 믿고 따라 하는 찐다이어트 비법]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64651</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Mar 2022 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[운동하는데 풀메는 좀 오바육바 아닌가 싶지만 아무래도 민낯은 부끄하다면? 흙빛 생얼에도 화사...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/12/021b725d-dc33-4767-8f83-2fdf184097b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통조림만 먹어도 살이 빠진다? 불량 식품으로 여겨왔던 통조림의 반전!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64542</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64542</guid>
-            <pubDate>Mon, 14 Mar 2022 07:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[불량 식품으로만 여겨왔던 통조림의 이유 있는 반란이 시작됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/ced6a124-c396-4cb3-9b58-7147e5685b5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
