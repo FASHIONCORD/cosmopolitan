@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 09:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 10:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기현∙승관∙은비∙지선 아이돌의 믿고 따라 하는 찐다이어트 비법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64651</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64651</guid>
+            <pubDate>Wed, 16 Mar 2022 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[셀프 관리 잘하기로 유명한 아이돌들에게 배우는 다이어트 노하우.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/696de31f-b796-473d-870e-001ff00b0c41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자르는 순간 산뜻+청량한 허쉬컷이 찰떡인 여자 연예인 BEST5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64633</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64633</guid>
+            <pubDate>Wed, 16 Mar 2022 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[유행을 넘어 스테디 헤어로! 스타들의 허쉬컷 트렌드]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/318f90c5-0f52-4174-b2ed-cd7dc84e6bf9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크∙엔하이픈∙엔믹스∙에이티즈∙로켓펀치…아이돌 천사 핑머 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64620</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[불량 식품으로만 여겨왔던 통조림의 이유 있는 반란이 시작됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/ced6a124-c396-4cb3-9b58-7147e5685b5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<군검사 도베르만>으로 돌아온 조보아의 헤어스타일 변천사]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64521</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64521</guid>
-            <pubDate>Mon, 14 Mar 2022 07:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[청순부터 멋쁨까지! 말해 뭐해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/4967654e-a7da-4959-be9f-b506f662101f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소유 vs. 솔라, 다이어트 끝판왕들이 돌아왔다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64508</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64508</guid>
-            <pubDate>Mon, 14 Mar 2022 07:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[유산소 지옥을 즐기게 된 소유와 극한 다이어트에 돌입한 솔라. 믿고 보는 언니들의 컴백 준비...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/a38091bd-9ac5-4ced-a339-0d1d164b1f93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
