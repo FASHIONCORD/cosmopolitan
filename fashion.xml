@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환절기 패션 공식 '레더 재킷’으로 HIP지수 업!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64616</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64616</guid>
+            <pubDate>Wed, 16 Mar 2022 06:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[풀어 헤쳐 펑키하게, 얍.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/f6d636c6-792d-4812-9f35-d1b04eb4c9cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3월이닷! 봄맞이 핑꾸 패션 어때요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64611</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64611</guid>
+            <pubDate>Wed, 16 Mar 2022 06:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[원영, 조이, 아린, 현아의 피드는 벌써 핑꾸빛~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/c41666c0-9cc5-46df-8411-e06d63bfca55.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보는 재미가 있다! '갓기' 신인 여돌들의 무대 패숀]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64610</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 04:14:21 GMT</pubDate>
             <content:encoded><![CDATA[언니 하고 싶은 거 다 해!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/d5b2eedc-92d5-44a7-b929-4f9bbe95969b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-직딩의 원픽 부사수는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64597</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64597</guid>
-            <pubDate>Mon, 14 Mar 2022 04:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[세상 모든 직장인의 염원은 바로 후임 입사! 과몰입 주의보 내린 드라마와 영화 속 주인공 1...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/e77373a0-a302-43dc-8680-1109892ba628.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량미 팡팡! 블루&튀르쿠아즈 컬러 계열의 패션템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64596</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64596</guid>
-            <pubDate>Mon, 14 Mar 2022 03:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[장기간 이어지는 코로나19로 답답하고 우울한 마음을 벗어버리기 위해 이번 시즌 디자이너들이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/2da737ea-fe66-4508-85d4-b1bf97260724.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

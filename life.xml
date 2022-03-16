@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전현무가 끓인 갈비탕, 우리 댕댕이도 만들어줄까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64634</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64634</guid>
+            <pubDate>Wed, 16 Mar 2022 06:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[우리 집 귀한 댕댕이를 위한 정성 가득한 레시피.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/c667c171-63b4-4eb8-bda8-6c1e279aab5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 날에 당장 방문각, 분위기 미친 서울 데이트 맛집 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64629</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 10:15:56 GMT</pubDate>
             <content:encoded><![CDATA[요새 핫하다는 ‘신용산’의 새로운 맛집 4]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/dcb8862d-6c33-4711-a5ee-73676cb8f728.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체다치즈가 살아있다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64536</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64536</guid>
-            <pubDate>Mon, 14 Mar 2022 10:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 눈치채지 못한 사이에 야금야금 진화해온 35년차 브랜드, 서울우유 체다치즈 이야기. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/c5221e84-d555-4a97-bea6-301a9689bb3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
