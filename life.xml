@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 04:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 날에 당장 방문각, 분위기 미친 서울 데이트 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64629</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64629</guid>
+            <pubDate>Wed, 16 Mar 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[이곳에 가면 매일이 기념일 같다고요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/27bcc2a6-b658-4676-8967-0f78dcde5620.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이렇게 핫하다고? 울산 사람도 모르는 울산 신상 카페 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64627</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 10:15:56 GMT</pubDate>
             <content:encoded><![CDATA[당신이 눈치채지 못한 사이에 야금야금 진화해온 35년차 브랜드, 서울우유 체다치즈 이야기. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/c5221e84-d555-4a97-bea6-301a9689bb3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강∙남주혁∙강다니엘∙한가인∙김세정까지 브라운관을 점령한 셀럽들의 ‘관상’이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64598</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64598</guid>
-            <pubDate>Mon, 14 Mar 2022 10:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[대세는 댕댕이상!? 보고만 있어도 심쿵 유발각!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/b3a7a629-78db-40ec-a63a-e636ea920a77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
