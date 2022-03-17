@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어트 자극받기 좋은 스타들의 각양각색 홈트 유튜브 Best4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64696</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64696</guid>
+            <pubDate>Thu, 17 Mar 2022 07:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[옷이 얇아지는 봄을 대비하는 다이어터들의 유튜브 구독 리스트?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/1bc6ea21-5ed9-4ba7-98eb-cba24db1ed31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳∙오마이걸∙(여자)아이들까지, 걸그룹은 릴레이 컴백 중!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64695</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Mar 2022 10:11:24 GMT</pubDate>
             <content:encoded><![CDATA[국가대표 네일 데싱디바와 올림픽의 주역! 김아랑&amp;이유빈 선수의 만남으로 완성된 독보적인 비주...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/d0091468-20f4-4d83-a057-859e82fc653d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["퇴마사 콘셉트로 컴백한 아스트로 딴콩즈 문빈X산하 화보"]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64664</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64664</guid>
-            <pubDate>Wed, 16 Mar 2022 10:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[문빈과 산하가 마련해둔 은신처로 아무 생각 없이 푹 빠져들고 싶은 날.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/a62d51f3-7588-4c29-b0a9-4977ba35e2dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
