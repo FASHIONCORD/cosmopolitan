@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 00:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 날씨에 한 장만 입어도 좋을 카디건 스타일링 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64618</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64618</guid>
+            <pubDate>Thu, 17 Mar 2022 02:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[강민경·박규영·백예린·박민영·슬기! 카디건 레이어드해 추위 극복.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/74037d72-0372-43eb-8f9d-134764a9094d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환절기 패션 공식 '레더 재킷’으로 HIP지수 업!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64616</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 07:09:58 GMT</pubDate>
             <content:encoded><![CDATA[장원영, 제니, 전소미, 현아, 아이린까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/847bb41b-2e3f-4020-b4ec-092e7a31c42c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["저세상 HIP!" 뻔하지 않은 '두아 리파' 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64599</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64599</guid>
-            <pubDate>Mon, 14 Mar 2022 04:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[언니 하고 싶은 거 다 해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/d5b2eedc-92d5-44a7-b929-4f9bbe95969b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
