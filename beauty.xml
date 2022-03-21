@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 00:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멍게는 살 안 쪄! 3월 제철 음식 다이어트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64685</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64685</guid>
+            <pubDate>Mon, 21 Mar 2022 02:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[봄 제철 음식만 먹어도 살이 빠진다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/7d977a47-2a27-4b3d-a7b7-d0dedd072475.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-셀럽이란 이런 것! 파리를 핫해하태하게 만든 제니∙지수∙정호연의 뷰티 룩이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64677</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Mar 2022 08:12:35 GMT</pubDate>
             <content:encoded><![CDATA[다이어트는 성공하면 끝? 놉, 유지의 시작!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/e49da2d5-8530-40c5-95c3-5d6be66ae148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄도 오고, 향기도 오고~ 봄 향수 리스트 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64609</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64609</guid>
-            <pubDate>Tue, 15 Mar 2022 13:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[봄 패션에 찰떡같이 어울리는 향기로 ‘봄봄’한 무드 레벨 업~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/3dd654be-7d8a-4ef1-9a0d-ea7ecd877a33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
