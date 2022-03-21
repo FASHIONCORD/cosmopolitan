@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 11:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 12:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독보적인 분위기! 봄 코트 안에 입기 딱 좋은 ‘롱 원피스’ 패션 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64789</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64789</guid>
+            <pubDate>Mon, 21 Mar 2022 12:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[리사·보나·김나영·장재인의 개성 가득 원피스 룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/39988c2a-e8cf-40fb-8c94-73833af4eb7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연기력도, 패션도 제대로 물오른 <기상청 사람들> 유라의 사복 패션은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64788</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64788</guid>
+            <pubDate>Mon, 21 Mar 2022 12:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[유라 일상 패션을 파헤쳐보자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/be7448a9-2fbf-4fd1-a0eb-ca146c80f451.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정호연∙장원영∙박규영 등, 찐HIP 골반에 걸치는 '로 라이즈' 스타일링 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64787</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 21 Mar 2022 02:22:36 GMT</pubDate>
             <content:encoded><![CDATA[입기만 해도 태가 달라!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/5f47950c-88cb-45e0-877f-021ce6226ea1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄하면 진주 액세서리가 진리! 블링블링 진주 목걸이 스타일링은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64724</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64724</guid>
-            <pubDate>Mon, 21 Mar 2022 02:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[김나영, 조이, 강민경, 제니 픽!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/28b0139f-d166-4980-bd28-64f8ad3e03d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외국 패션 인플루언서 패션 릴스 맛집은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64718</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64718</guid>
-            <pubDate>Mon, 21 Mar 2022 02:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[※주의※ 한 번 누르면 헤어나올 수 없습니다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/648448ea-d454-4b78-a49b-dabadba7928a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
