@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 06:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 07:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정호연∙장원영∙박규영 등, 찐HIP 골반에 걸치는 '로 라이즈' 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64787</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64787</guid>
+            <pubDate>Mon, 21 Mar 2022 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[결국 도래해버린 ‘골반 패션’, 힙하다 힙해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/2e2e41f6-1ffe-4826-9a84-d6aee768582e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스물다섯 스물하나> 고유림, 우주소녀 보나였어? 고유림 아이돌 활동 모습?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64786</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 21 Mar 2022 02:22:36 GMT</pubDate>
             <content:encoded><![CDATA[※주의※ 한 번 누르면 헤어나올 수 없습니다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/648448ea-d454-4b78-a49b-dabadba7928a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사내맞선' 재벌 2세 ‘강태무’ 본캐 안효섭, 알고 보면 캐나다인? 안효섭에 관한 대유잼 TMI]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64705</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64705</guid>
-            <pubDate>Fri, 18 Mar 2022 07:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[알면 알수록 사기캐. 배우 안효섭의 흥미로운 TMI 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/6fd3063b-0907-4802-a2ad-8dfca2e90465.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
