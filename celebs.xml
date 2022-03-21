@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 07:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 08:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정호연∙장원영∙박규영 등, 찐HIP 골반에 걸치는 '로 라이즈' 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64787</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64787</guid>
+            <pubDate>Mon, 21 Mar 2022 08:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[결국 도래해버린 ‘골반 패션’, 힙하다 힙해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/2e2e41f6-1ffe-4826-9a84-d6aee768582e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스물다섯 스물하나> 고유림, 우주소녀 보나였어? 고유림 아이돌 활동 모습?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64786</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 21 Mar 2022 04:15:08 GMT</pubDate>
             <content:encoded><![CDATA[김나영, 조이, 강민경, 제니 픽!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/28b0139f-d166-4980-bd28-64f8ad3e03d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금발이 너무해! RM∙강승윤∙백예린∙허니제이의 블론드 헤어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64723</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64723</guid>
-            <pubDate>Mon, 21 Mar 2022 04:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[봄맞이 염색을 계획하고 있다면 망설이지 말고 금발!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/5efad652-1a66-49ab-8725-08ea34cff487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
