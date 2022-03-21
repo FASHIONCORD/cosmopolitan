@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 15:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 16:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패피 김나영도 다녀간, 지하철 타고 국내 꽃시장 정복!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64791</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64791</guid>
+            <pubDate>Mon, 21 Mar 2022 16:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[김나영처럼 꽃 한아름 안고 어서 봄 사진 찍어야지! 지하철 타고 냉큼 다녀올 수 있는 꽃시장...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/d9fe9360-fdd4-43b5-9976-2b7b2a53ecfc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지·박민영·백예린·임현주! 여리여리함 MAX, 블라우스 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64790</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64790</guid>
+            <pubDate>Mon, 21 Mar 2022 16:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[오피스부터 소개팅까지, 돌려 입기에 최고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/5eb0be4a-7801-42c8-9c94-04409d25380f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독보적인 분위기! 봄 코트 안에 입기 딱 좋은 ‘롱 원피스’ 패션 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64789</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64789</guid>
+            <pubDate>Mon, 21 Mar 2022 16:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[리사·보나·김나영·장재인의 개성 가득 원피스 룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/39988c2a-e8cf-40fb-8c94-73833af4eb7e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정호연∙장원영∙박규영 등, 찐HIP 골반에 걸치는 '로 라이즈' 스타일링 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64787</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 21 Mar 2022 04:15:08 GMT</pubDate>
             <content:encoded><![CDATA[&lt;어쩌다 사장&gt;으로 더욱 유명해진 ‘조인성’ 라인! 조인성만으로도 감사한데, 그 옆에 남주혁...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/5551bd76-1d4d-4fce-ab7e-c7d923bdf9c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끼쟁이 개그우먼 이은지 사복 패션이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64729</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64729</guid>
-            <pubDate>Mon, 21 Mar 2022 04:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[사복 패션마저 끼스럽다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/4f84ad28-532d-4a37-aa09-7ac5b5366fa0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['존멋' 모먼트 폭발! 화제의 K-모델, 최소라의 간지력100 사복 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64725</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64725</guid>
-            <pubDate>Mon, 21 Mar 2022 04:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[입기만 해도 태가 달라!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/5f47950c-88cb-45e0-877f-021ce6226ea1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄하면 진주 액세서리가 진리! 블링블링 진주 목걸이 스타일링은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64724</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64724</guid>
-            <pubDate>Mon, 21 Mar 2022 04:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[김나영, 조이, 강민경, 제니 픽!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/28b0139f-d166-4980-bd28-64f8ad3e03d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
