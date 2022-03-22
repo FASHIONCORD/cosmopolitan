@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수지·박민영·백예린·임현주! 여리여리함 MAX, 블라우스 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64790</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64790</guid>
+            <pubDate>Tue, 22 Mar 2022 09:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[오피스부터 소개팅까지, 돌려 입기에 최고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/5eb0be4a-7801-42c8-9c94-04409d25380f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독보적인 분위기! 봄 코트 안에 입기 딱 좋은 ‘롱 원피스’ 패션 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64789</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 21 Mar 2022 02:22:36 GMT</pubDate>
             <content:encoded><![CDATA[사복 패션마저 끼스럽다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/4f84ad28-532d-4a37-aa09-7ac5b5366fa0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['존멋' 모먼트 폭발! 화제의 K-모델, 최소라의 간지력100 사복 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64725</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64725</guid>
-            <pubDate>Mon, 21 Mar 2022 02:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[입기만 해도 태가 달라!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/5f47950c-88cb-45e0-877f-021ce6226ea1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
