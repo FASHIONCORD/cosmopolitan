@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 17:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 18:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/be7448a9-2fbf-4fd1-a0eb-ca146c80f451.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다 같은 앞머리가 아냐! 리사∙선미∙모모∙이선빈의 유니크 뱅 헤어 모음ZIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64689</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64689</guid>
+            <pubDate>Tue, 22 Mar 2022 18:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[뱅 헤어도 이렇게나 다양하게 즐길 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/6f5c57dc-b6c8-4555-967f-8741bb49095f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[멍게는 살 안 쪄! 3월 제철 음식 다이어트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64685</link>
             <guid>https://www.cosmopolitan.co.kr/article/64685</guid>
@@ -287,14 +295,6 @@
             <pubDate>Wed, 16 Mar 2022 08:12:35 GMT</pubDate>
             <content:encoded><![CDATA[헐리우드 스타들의 다이어트 치트키로 떠오르고 있는 ‘사과식초’. 어떻게 먹어야 잘 먹을 수 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/81a9b26b-a3c0-48d7-a15c-579b28b5c3b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옥주현VS이영지, 타의 모범이 되는 유지어터! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64615</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64615</guid>
-            <pubDate>Mon, 14 Mar 2022 08:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트는 성공하면 끝? 놉, 유지의 시작!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/e49da2d5-8530-40c5-95c3-5d6be66ae148.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<브리저튼 시즌 2> 공개가 코앞! 되새김질해 보는 시즌1 속 패션 모먼트 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
