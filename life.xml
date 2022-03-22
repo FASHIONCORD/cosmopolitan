@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 04:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 05:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠핑은 장비 빨 이라고? 캠.알.못 캠린이는 딱 이것만 사세요!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64793</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64793</guid>
+            <pubDate>Tue, 22 Mar 2022 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑 경험하기 전에 함부로 장비발 세우지 말고 딱 이것만 준비하자.<br>캠린이도 고수처럼...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/ff090289-3500-4319-a4d4-670c34582e9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패피 김나영도 다녀간, 지하철 타고 국내 꽃시장 정복!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64791</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64791</guid>
+            <pubDate>Tue, 22 Mar 2022 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[김나영처럼 꽃 한아름 안고 어서 봄 사진 찍어야지! 지하철 타고 냉큼 다녀올 수 있는 꽃시장...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/d9fe9360-fdd4-43b5-9976-2b7b2a53ecfc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연기력도, 패션도 제대로 물오른 <기상청 사람들> 유라의 사복 패션은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64788</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 21 Mar 2022 04:17:22 GMT</pubDate>
             <content:encoded><![CDATA[그림 같은 오션뷰는 기본, 감성은 옵션!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/ea4f6a62-3e83-4645-9347-2536a16195d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 소울푸드는 ‘라자냐’ 아닌가여? 홈메이드 스타일 라자냐 맛집 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64707</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64707</guid>
-            <pubDate>Mon, 21 Mar 2022 04:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[비주얼도 비주얼이지만 맛까지 미쳤다(?)]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/b7a5fabf-360d-4925-8f0e-09e7f619052c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸어서 도쿄 여행 쌉 가능! 스탠딩 술집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64706</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64706</guid>
-            <pubDate>Mon, 21 Mar 2022 04:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[앉아서 마시나 서서 마시나 다 맛있는 술 이왕이면 특별하게 마셔보자구~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/6e99b83a-3c9b-4b6a-942c-9a7f775f4477.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
