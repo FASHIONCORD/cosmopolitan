@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 00:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 02:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벚꽃보기 전에 목련보고 가실게요?! 목련뷰 맛집 카페 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64836</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64836</guid>
+            <pubDate>Wed, 23 Mar 2022 02:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[팝콘처럼 하얗게 핀 봄을 알리는 꽃 목련. 여기서 즐기자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/d0aa1461-feb4-4a9c-b9b2-dee8cd841a85.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맵신맵왕, 유이가 최초 공개하는 찐 매운 음식 맛집 좌표는?! 유이의 '맵지도' 싹 털었다...]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64831</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64831</guid>
+            <pubDate>Wed, 23 Mar 2022 02:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[매운맛 인터뷰에 침 고일 수 있으니 주의할 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/7ae76b75-fbe9-4971-8668-a9eb747a3be4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['외강내강' 인간형, 몬스타엑스 기현이 멘탈 흔들릴 때 듣는 플레이리스트는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64830</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 22 Mar 2022 05:15:05 GMT</pubDate>
             <content:encoded><![CDATA[캠핑 경험하기 전에 함부로 장비발 세우지 말고 딱 이것만 준비하자.<br>캠린이도 고수처럼...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/ff090289-3500-4319-a4d4-670c34582e9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패피 김나영도 다녀간, 지하철 타고 국내 꽃시장 정복!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64791</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64791</guid>
-            <pubDate>Tue, 22 Mar 2022 05:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[김나영처럼 꽃 한아름 안고 어서 봄 사진 찍어야지! 지하철 타고 냉큼 다녀올 수 있는 꽃시장...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/d9fe9360-fdd4-43b5-9976-2b7b2a53ecfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기력도, 패션도 제대로 물오른 <기상청 사람들> 유라의 사복 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64788</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64788</guid>
-            <pubDate>Mon, 21 Mar 2022 16:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[유라 일상 패션을 파헤쳐보자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/be7448a9-2fbf-4fd1-a0eb-ca146c80f451.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
