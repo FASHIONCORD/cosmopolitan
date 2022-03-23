@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 03:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 04:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러블리 지수 MAX, 앤 마리 사복 파헤치기 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64847</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64847</guid>
+            <pubDate>Wed, 23 Mar 2022 04:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[힙하다, 힙해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/983953aa-34f5-4e1b-9189-7f336ecc782f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["캣워크에서 내 옷 찾기" 아이유·조이·이세영·장원영·김나영의 런웨이 룩 셀렉ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64846</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 22 Mar 2022 15:13:50 GMT</pubDate>
             <content:encoded><![CDATA[베이징 올림픽 핫스타, 차준환에 대한 모든 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/f4485e04-429f-454a-9c3f-1c17e801a829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맵신맵왕, 유이가 최초 공개하는 찐 매운 음식 맛집 좌표는?! 유이의 '맵지도' 싹 털었다...]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64831</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64831</guid>
-            <pubDate>Tue, 22 Mar 2022 15:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[매운맛 인터뷰에 침 고일 수 있으니 주의할 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/7ae76b75-fbe9-4971-8668-a9eb747a3be4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
