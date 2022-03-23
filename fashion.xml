@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 16:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 17:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원조 패셔니스타 이효리가 <서울체크인>에서 입은 패션 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64864</guid>
+            <pubDate>Wed, 23 Mar 2022 17:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[드레스 업, 드레스 다운 모두 소화 가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/bf5ba564-aff5-4346-bcbf-79b82fe23a2c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꼭꼭 숨어라! 드라마 <스물다섯 스물하나> 속 숨은 트렌드가 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64861</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 22 Mar 2022 12:16:06 GMT</pubDate>
             <content:encoded><![CDATA[화사한 옐로 컬러를 어떻게 입을지 고민된다면 참고할 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/42ce2b46-4140-42b4-b27d-b68b67e54338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희∙김태리∙김다미∙조이현 셀럽들의 개성폭발 교복 스타일링은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64815</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64815</guid>
-            <pubDate>Tue, 22 Mar 2022 12:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 대세는 학교물! &lt;사운드트랙&gt; 한소희부터 &lt;스물다섯 스물하나&gt; 김태리, &lt;그해 우리는&gt;...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/c0abe4c2-33c0-442f-a718-1c1fae7bd725.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
