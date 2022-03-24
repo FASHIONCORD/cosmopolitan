@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 11:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 12:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범도 매일 아침 마시는, 연예인들의 건강 주스 레시피 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64882</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64882</guid>
+            <pubDate>Thu, 24 Mar 2022 12:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[연예인들의 건강 주스 레시피 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/a3894cde-1f93-4afe-a522-0a56726e26be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원조 패셔니스타 이효리가 <서울체크인>에서 입은 패션 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64864</guid>
+            <pubDate>Thu, 24 Mar 2022 12:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[드레스 업, 드레스 다운 모두 소화 가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/bf5ba564-aff5-4346-bcbf-79b82fe23a2c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꼭꼭 숨어라! 드라마 <스물다섯 스물하나> 속 숨은 트렌드가 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64861</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 23 Mar 2022 02:28:56 GMT</pubDate>
             <content:encoded><![CDATA[매운맛 인터뷰에 침 고일 수 있으니 주의할 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/7ae76b75-fbe9-4971-8668-a9eb747a3be4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['외강내강' 인간형, 몬스타엑스 기현이 멘탈 흔들릴 때 듣는 플레이리스트는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64830</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64830</guid>
-            <pubDate>Tue, 22 Mar 2022 15:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[자타공인 K-POP의 신, 기현의 플레이스트 전.격.공.개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/bdf2775f-37b5-4b90-899e-0a428fbf66dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 대세 정호연, 차기작은 할리우드 유명 감독의 신작 미드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64821</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64821</guid>
-            <pubDate>Tue, 22 Mar 2022 15:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[아카데미 여우주연상 단골 ‘케이트 블란쳇’과 호흡]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/e4f411bb-9d04-4cb2-aa27-32de6ba441c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
