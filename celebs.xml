@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 15:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 16:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원조 패셔니스타 이효리가 <서울체크인>에서 입은 패션 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64864</guid>
+            <pubDate>Thu, 24 Mar 2022 16:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[드레스 업, 드레스 다운 모두 소화 가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/bf5ba564-aff5-4346-bcbf-79b82fe23a2c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한선화의 명랑 골프]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64862</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 23 Mar 2022 02:28:08 GMT</pubDate>
             <content:encoded><![CDATA[친언니 때문에 옷방에 도어록까지 설치했다? 옷장 속 아이템으로 한 센스 만점 스타일링]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/f24ad6bc-8bce-4dc3-9ab1-9d7e6b207472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<브리저튼 시즌 2> 공개가 코앞! 되새김질해 보는 시즌1 속 패션 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64843</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64843</guid>
-            <pubDate>Tue, 22 Mar 2022 15:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;브리저튼&gt; 의상 속에 숨겨진 내용이 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/7ddf68b9-ef7b-4c24-86c6-892f69b569e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
