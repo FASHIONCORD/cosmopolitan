@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,6 +297,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/318f90c5-0f52-4174-b2ed-cd7dc84e6bf9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한선화의 명랑 골프 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64862</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64862</guid>
+            <pubDate>Thu, 24 Mar 2022 08:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[상큼하게! 에너제틱하게! 한선화의 감각적인 보더리스 룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/21a06781-634c-44f4-8d96-513486f86361.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꼭꼭 숨어라! 드라마 <스물다섯 스물하나> 속 숨은 트렌드가 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64861</link>
             <guid>https://www.cosmopolitan.co.kr/article/64861</guid>
@@ -351,14 +359,6 @@
             <pubDate>Tue, 22 Mar 2022 15:13:49 GMT</pubDate>
             <content:encoded><![CDATA[&lt;브리저튼&gt; 의상 속에 숨겨진 내용이 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/7ddf68b9-ef7b-4c24-86c6-892f69b569e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김치가 파오차이라고? 다시 불거진 헨리와 추자현의 친중 논란 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64842</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64842</guid>
-            <pubDate>Tue, 22 Mar 2022 15:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[가수 헨리와 배우 추자현이 연일 친중 논란에 휩싸였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/ff1da367-32f5-4ebe-b37c-ff98ed9c8452.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[널 가져야겠어! <스물다섯, 스물하나> 재질 세기말 커플템 (코스모폴리탄 코리아 ─ 러브)]]></title>
