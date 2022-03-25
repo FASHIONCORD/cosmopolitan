@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿨한 섹스? 그거 누구한테 좋은 건데?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64475</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64475</guid>
+            <pubDate>Fri, 25 Mar 2022 05:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[쿨한 섹스, 물론 좋지. 근데 누구한테 좋은 건데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f1a381ed-808d-4473-b47b-e50f93f73780.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[널 가져야겠어! <스물다섯, 스물하나> 재질 세기말 커플템]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64442</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
             <content:encoded><![CDATA[둘의 친목, 너무 귀여워!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/523c66ab-188f-4e6c-b622-2663af788091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무심한 듯 다정하게? 나쁜 남자가 어떤 남잔데요?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63911</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63911</guid>
-            <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[범죄 행위를 저지른 것도 아닌데 (그건 나쁜 XX인 거고) 이상하게 지는 게임을 하는 것만 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/284e619b-0c32-4f9e-9222-807dd84f2528.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
