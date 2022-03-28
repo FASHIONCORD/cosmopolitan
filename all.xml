@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/696de31f-b796-473d-870e-001ff00b0c41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[관종 끝판왕의 귀환, 카다시안 패밀리 리얼리티 컴백! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64892</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64892</guid>
+            <pubDate>Mon, 28 Mar 2022 03:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[4월 14일, 훌루에서 방영되는 &lt;더 카다시안(THE KARDASHIANS)&gt; 관전 포인트 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/deb0f5cf-f354-4829-b9e9-30e54367a60e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박재범도 매일 아침 마시는, 연예인들의 건강 주스 레시피 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64882</link>
             <guid>https://www.cosmopolitan.co.kr/article/64882</guid>
@@ -350,14 +358,6 @@
             <pubDate>Wed, 23 Mar 2022 04:11:48 GMT</pubDate>
             <content:encoded><![CDATA[힙하다, 힙해.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/983953aa-34f5-4e1b-9189-7f336ecc782f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["캣워크에서 내 옷 찾기" 아이유·조이·이세영·장원영·김나영의 런웨이 룩 셀렉ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64846</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64846</guid>
-            <pubDate>Wed, 23 Mar 2022 02:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[런웨이 위 모델보다 키 작아도 이렇게나 이쁘게 입을 수 있어요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/a06e6d0c-3b5d-4bb7-99ee-86433c9892d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿨한 섹스? 그거 누구한테 좋은 건데? (코스모폴리탄 코리아 ─ 러브)]]></title>
