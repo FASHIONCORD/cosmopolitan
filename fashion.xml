@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 02:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드를 놓치고 싶지 않은 당신들을 위한 복근운동법 및 다이어트 식단]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64910</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64910</guid>
+            <pubDate>Tue, 29 Mar 2022 03:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022 S/S 시즌에 유독 크롭 톱이 많은 것, 실화인가요. 모델들의 탄탄한 복근을 드러내...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/eac53d77-1f1d-483a-a3e8-b6c06237e97a.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이게 장난감이야, 액세서리야? 셀럽들의 상큼 발랄 주얼리 스타일링 TIP!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64894</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64894</guid>
+            <pubDate>Tue, 29 Mar 2022 03:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[지수, 선미, 쏠, 슈가, 기리보이의 주얼리 룩을 모아봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/828fd448-f026-417d-bab3-acdd11b774f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 캠페인은 톱 모델의 전유물? 패션 캠페인에 등장한 유명셀럽들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64870</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 23 Mar 2022 04:11:48 GMT</pubDate>
             <content:encoded><![CDATA[힙하다, 힙해.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/983953aa-34f5-4e1b-9189-7f336ecc782f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["캣워크에서 내 옷 찾기" 아이유·조이·이세영·장원영·김나영의 런웨이 룩 셀렉ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64846</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64846</guid>
-            <pubDate>Wed, 23 Mar 2022 04:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[런웨이 위 모델보다 키 작아도 이렇게나 이쁘게 입을 수 있어요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/a06e6d0c-3b5d-4bb7-99ee-86433c9892d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스물다섯 스물하나> 속 오빠美 넘치는 남주혁 패션 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64845</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64845</guid>
-            <pubDate>Wed, 23 Mar 2022 04:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[셔츠 맛집..♥ 멋짐 맛집..♥ 에디터의 본격 사심 기사.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/73b90180-4275-4f70-80fb-b1730b674cb1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
