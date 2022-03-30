@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 09:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 10:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/deb3bda1-7774-4810-bac1-c9601bc6bb70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박재범도 매일 아침 마시는, 연예인들의 건강 주스 레시피 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64882</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64882</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[연예인들의 건강 주스 레시피 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/a3894cde-1f93-4afe-a522-0a56726e26be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피겨 프린스, 차준환이 좋.못.사하는 뷰티템부터 인마이백, 베이징 올림픽 비하인드 썰까지! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64839</link>
             <guid>https://www.cosmopolitan.co.kr/article/64839</guid>
@@ -286,14 +294,6 @@
             <pubDate>Mon, 21 Mar 2022 02:23:19 GMT</pubDate>
             <content:encoded><![CDATA[봄 제철 음식만 먹어도 살이 빠진다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/7d977a47-2a27-4b3d-a7b7-d0dedd072475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-셀럽이란 이런 것! 파리를 핫해하태하게 만든 제니∙지수∙정호연의 뷰티 룩이 궁금하다면? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64677</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64677</guid>
-            <pubDate>Wed, 16 Mar 2022 12:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 주목한 이들의 영향력은 도대체 어디까지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/d9c77b16-835c-4531-87ff-fc7e7d3719c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금욕적인 섹시로 돌아온 <브리저튼> 시즌2, 19금 좌표는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
