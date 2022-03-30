@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄∙여름∙가을∙겨울 다음은 ‘BIGBANG’]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65055</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65055</guid>
+            <pubDate>Wed, 30 Mar 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 5일 빅뱅이 ‘봄여름가을겨울 (Still Life)’ 앨범으로 돌아온다. 3...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/d0fe757d-d157-418c-b700-5f89bf15e2a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<마녀사냥>이 시즌2로 돌아온다고? 출격 임박 NEW 예능 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65044</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 28 Mar 2022 09:19:56 GMT</pubDate>
             <content:encoded><![CDATA[남성 출입 금지! 여자들의 아지트 4곳]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/b5342da9-4ab1-4ca1-9936-a2629049fbeb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장보기도 감성! 피크닉 가기 전에 들르면 좋은 그로서리 스토어 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65018</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65018</guid>
-            <pubDate>Mon, 28 Mar 2022 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[등산, 한강 가기 전에 쓸 들르면 힙이라는 것이 폭발한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/dc3276c4-a0cb-45ad-b21c-b84bbe3bebf9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
