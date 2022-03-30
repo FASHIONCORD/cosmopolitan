@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 00:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누굴 좋아할지 몰라 준비해봤어! <퀸덤 2>에 출연하는 비주얼 담당 여돌 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64785</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64785</guid>
+            <pubDate>Wed, 30 Mar 2022 02:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[태연부터 브레이브걸스, 이달의 소녀, 우주소녀, 비비지, 케플러까지 내 마음속에 저장할 여돌...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/bfe3a8a9-9c31-48c9-afea-044a3bec9c56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금발이 너무해! RM∙강승윤∙백예린∙허니제이의 블론드 헤어]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64723</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Mar 2022 12:16:13 GMT</pubDate>
             <content:encoded><![CDATA[국가대표 네일 데싱디바와 올림픽의 주역! 김아랑&amp;이유빈 선수의 만남으로 완성된 독보적인 비주...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/d0091468-20f4-4d83-a057-859e82fc653d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기현∙승관∙은비∙지선 아이돌의 믿고 따라 하는 찐다이어트 비법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64651</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64651</guid>
-            <pubDate>Wed, 16 Mar 2022 10:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[셀프 관리 잘하기로 유명한 아이돌들에게 배우는 다이어트 노하우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/696de31f-b796-473d-870e-001ff00b0c41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
