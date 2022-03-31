@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 00:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보기 좋은 떡이 먹기도 좋다! 하이엔드 패션 브랜드에서 선보이는 테이블 웨어 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64883</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64883</guid>
+            <pubDate>Thu, 31 Mar 2022 02:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[리빙 카테고리에 대한 소비가 늘어난 가운데, 럭셔리 패션 브랜드들 역시 고퀄리티의 럭셔리 테...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/8493249f-b33e-4e97-8754-e7a0de2b3ba2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박재범도 매일 아침 마시는, 연예인들의 건강 주스 레시피 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64882</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 22 Mar 2022 18:14:17 GMT</pubDate>
             <content:encoded><![CDATA[뱅 헤어도 이렇게나 다양하게 즐길 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/6f5c57dc-b6c8-4555-967f-8741bb49095f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멍게는 살 안 쪄! 3월 제철 음식 다이어트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64685</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64685</guid>
-            <pubDate>Mon, 21 Mar 2022 02:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[봄 제철 음식만 먹어도 살이 빠진다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/7d977a47-2a27-4b3d-a7b7-d0dedd072475.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
