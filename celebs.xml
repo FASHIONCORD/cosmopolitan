@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 05:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 06:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화사∙산다라박∙김나영 등 셀럽들은 '노브라' 하면 외않되? NO브라가 얼마나 편하게요!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65134</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65134</guid>
+            <pubDate>Thu, 31 Mar 2022 06:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[가슴에도 자유가 필요하다고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/e79320f5-04bd-4b6a-9ad9-bda7d278a06b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장발로 컴백하는 빅뱅 지드래곤∙대성, 남돌 사이에선 장발 대유행 중!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65113</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 30 Mar 2022 07:12:35 GMT</pubDate>
             <content:encoded><![CDATA[&lt;스물다섯 스물하나&gt;에 과몰입 중이라면 이젠 김태리∙보나∙이주명의 메이크업을 손민수 해볼 차...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/d4a9ffa6-2928-49cf-bcc0-96b0d403e40e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트레이키즈, 그들만의 MANIAC이 만든 빌보드 1위]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65085</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65085</guid>
-            <pubDate>Wed, 30 Mar 2022 07:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 오전부터 트위터 트렌드 검색 장악한 ‘빌보드 1위’는 다름 아닌 스트레이 키즈. K-P...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/c996e65d-55f9-401e-8e55-a8394a63593c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
