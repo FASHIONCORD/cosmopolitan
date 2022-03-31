@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 06:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이렇게 치열할 수가 있나? 역대 초박빙 불꽃 튀는 대선 팩트 체크!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64648</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64648</guid>
+            <pubDate>Thu, 31 Mar 2022 07:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[단 0.73%로 승패가 갈렸던 초박빙 대선. 특히나 2030세대의 표심이 이렇게 극명하게 갈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/d20ebf24-a2ce-43a7-9a1d-7585ea389c27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<기상청 사람들>이 매운 맛이라고? 현실은, 드라마 보다 더해!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64635</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
             <content:encoded><![CDATA[오늘 어디서 일할까? 야놀자, 야야야야야야야야 야놀자!의 마케터를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/1dc1249a-b7ab-4841-b2ac-eb20b99cddcf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올림픽에서 콘돔 나눠주는 역사가 한국에서 시작됐다고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64254</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64254</guid>
-            <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[10만개씩 뿌려도 없어서 못 가져간다는 올림픽 콘돔! 대체 왜?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/48e05eb5-0752-47c2-91c6-ae36c3368bac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
