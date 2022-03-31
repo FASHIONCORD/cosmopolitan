@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미우미우 픽, 패션계 화력 장난 아닌 이유미의 사복 스타일링은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65108</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65108</guid>
+            <pubDate>Thu, 31 Mar 2022 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[인간 러블리~♥]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/7424c6a7-0264-414a-9548-87876896a060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스탈∙김나영∙이미주∙효정의 스트라이프 룩 스타일링 TIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65095</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65095</guid>
+            <pubDate>Thu, 31 Mar 2022 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 이즈 베스트! 셀럽들의 스트라이프 패션은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a500be2-087f-402e-85a2-0b3fb81e5251.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러블리MAX 상큼발랄 '핑크' 포인트 스타일링]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65080</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 29 Mar 2022 09:10:04 GMT</pubDate>
             <content:encoded><![CDATA[볼캡 없이 못 살아!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/0a0c6f85-0115-4d6f-9178-bd086a52b7f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호연을 잇는 글로벌 뉴페이스? <파친코> 김민하의 상큼발랄 사복 스타일링은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65063</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65063</guid>
-            <pubDate>Tue, 29 Mar 2022 09:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[제2의 정호연이라는데!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/3d9170cb-d8f3-4414-9b29-4a44007e7b37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 맞이, 무슨 백 살지 고민될 때? 셀럽들의 2022 S/S 신상백을 파헤쳐 봐!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65062</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65062</guid>
-            <pubDate>Tue, 29 Mar 2022 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 봄 잇템은 바로 이거!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/c5bba76a-dcf9-4ff3-bdbb-21284c1b7ba3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
