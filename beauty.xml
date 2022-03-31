@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 17:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 18:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네일왕 찐천재 현아]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65137</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65137</guid>
+            <pubDate>Thu, 31 Mar 2022 18:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[올봄 우리의 네일과 페디는 네일의 신, 갓현아가 책임진다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/164d204b-bf86-47a9-aaa8-7d56c8789c65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장발로 컴백하는 빅뱅 지드래곤∙대성, 남돌 사이에선 장발 대유행 중!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65113</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65113</guid>
+            <pubDate>Thu, 31 Mar 2022 18:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[컴백 티저에서 파격적인 장발 스타일을 선보인 지디와 대성! 이미 남자 아이돌 사이에선 장발이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/5a13cbc8-1a21-44b7-b4ce-d5a95dec5445.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛있어서 마신다! 관리하는 언니들의 프로틴 RTD]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65106</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 30 Mar 2022 07:12:24 GMT</pubDate>
             <content:encoded><![CDATA[베이징 올림픽 핫스타, 차준환에 대한 모든 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/f4485e04-429f-454a-9c3f-1c17e801a829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누굴 좋아할지 몰라 준비해봤어! <퀸덤 2>에 출연하는 비주얼 담당 여돌 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64785</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64785</guid>
-            <pubDate>Wed, 30 Mar 2022 02:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[태연부터 브레이브걸스, 이달의 소녀, 우주소녀, 비비지, 케플러까지 내 마음속에 저장할 여돌...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/bfe3a8a9-9c31-48c9-afea-044a3bec9c56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금발이 너무해! RM∙강승윤∙백예린∙허니제이의 블론드 헤어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64723</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64723</guid>
-            <pubDate>Fri, 25 Mar 2022 00:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[봄맞이 염색을 계획하고 있다면 망설이지 말고 금발!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/5efad652-1a66-49ab-8725-08ea34cff487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
