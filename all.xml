@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 17:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 18:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/1dc1249a-b7ab-4841-b2ac-eb20b99cddcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어디서 좋은 냄새 안 나요? 서울에서 꼭 가야할 뉴 향기 스폿! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65166</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65166</guid>
+            <pubDate>Fri, 01 Apr 2022 15:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[봄맞이 새 향수로 환승 준비 중이라면, 일단 컴컴~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/4f977135-6a24-41cb-a145-14207e8607a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현빈♥손예진 웨딩 D-DAY! 최초 공개된 세기의 커플, 선남선녀의 웨딩 화보는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65162</link>
             <guid>https://www.cosmopolitan.co.kr/article/65162</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 31 Mar 2022 10:15:12 GMT</pubDate>
             <content:encoded><![CDATA[레코드 샵부터 바까지~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/5a85826a-fe01-460d-9d19-f37ae9d69241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금욕적인 섹시로 돌아온 <브리저튼> 시즌2, 19금 좌표는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65104</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65104</guid>
-            <pubDate>Wed, 30 Mar 2022 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[브리저튼가의 장남 앤소니의 이성과 감성 사이]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/9f78a85f-9597-4463-a358-81568c7e4d53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
