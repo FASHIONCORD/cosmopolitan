@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 14:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 15:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/1e529d8b-641b-4a94-ad2c-a7e28e281598.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어디서 좋은 냄새 안 나요? 서울에서 꼭 가야할 뉴 향기 스폿! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65166</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65166</guid>
+            <pubDate>Fri, 01 Apr 2022 15:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[봄맞이 새 향수로 환승 준비 중이라면, 일단 컴컴~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/4f977135-6a24-41cb-a145-14207e8607a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네일왕 찐천재 현아 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65137</link>
             <guid>https://www.cosmopolitan.co.kr/article/65137</guid>
@@ -286,14 +294,6 @@
             <pubDate>Wed, 30 Mar 2022 10:10:56 GMT</pubDate>
             <content:encoded><![CDATA[연예인들의 건강 주스 레시피 3]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/a3894cde-1f93-4afe-a522-0a56726e26be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피겨 프린스, 차준환이 좋.못.사하는 뷰티템부터 인마이백, 베이징 올림픽 비하인드 썰까지! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64839</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64839</guid>
-            <pubDate>Wed, 30 Mar 2022 07:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[베이징 올림픽 핫스타, 차준환에 대한 모든 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/f4485e04-429f-454a-9c3f-1c17e801a829.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현빈♥손예진 웨딩 D-DAY! 최초 공개된 세기의 커플, 선남선녀의 웨딩 화보는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
