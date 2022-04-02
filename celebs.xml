@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 00:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 02:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로맨틱 지수 200%! 제니∙김나영∙보나∙미연∙혜리가 픽한 화이트 드레스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65164</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65164</guid>
+            <pubDate>Sat, 02 Apr 2022 02:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[화이트 드레스 하나면 OOTD 완성! 참 쉽죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/e248dbf9-f24d-407c-8472-6ba38eaa4d8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현빈♥손예진 웨딩 D-DAY! 최초 공개된 세기의 커플, 선남선녀의 웨딩 화보는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65162</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 31 Mar 2022 06:15:09 GMT</pubDate>
             <content:encoded><![CDATA[가슴에도 자유가 필요하다고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/e79320f5-04bd-4b6a-9ad9-bda7d278a06b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장발로 컴백하는 빅뱅 지드래곤∙대성, 남돌 사이에선 장발 대유행 중!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65113</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65113</guid>
-            <pubDate>Thu, 31 Mar 2022 05:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[컴백 티저에서 파격적인 장발 스타일을 선보인 지디와 대성! 이미 남자 아이돌 사이에선 장발이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/5a13cbc8-1a21-44b7-b4ce-d5a95dec5445.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
