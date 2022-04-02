@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 15:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 16:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTRfNTUg/MDAxNjQ3MjExNTY3ODU5.9WlComv0MiphvHUzAl2Yv4y8USvxhgpT2MrtXjdEWeIg.YUdrneE4vYdcKKpanLW-GwxnJ5Mych12jCUHipUaL4Ig.JPEG/I4z1FodGOcOVrPegOKNHyZN22tHQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[눈이 부시게 고윤정 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65176</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65176</guid>
+            <pubDate>Sat, 02 Apr 2022 16:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[고윤정의 다채로운 표정이 담긴 주얼리 필름.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/96e80e0c-54d0-4641-9e04-e2e115f61248.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<사내맞선> 안효섭의 까칠 CEO룩 VS 다정 남친룩 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65168</link>
             <guid>https://www.cosmopolitan.co.kr/article/65168</guid>
@@ -222,14 +230,6 @@
             <pubDate>Thu, 31 Mar 2022 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[클래식 이즈 베스트! 셀럽들의 스트라이프 패션은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a500be2-087f-402e-85a2-0b3fb81e5251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러블리MAX 상큼발랄 '핑크' 포인트 스타일링 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65080</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65080</guid>
-            <pubDate>Wed, 30 Mar 2022 07:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[봄에는 핑크 아니겠어?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/755a8aca-4434-4f53-8243-83f63c26e3ab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서 좋은 냄새 안 나요? 서울에서 꼭 가야할 뉴 향기 스폿! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
