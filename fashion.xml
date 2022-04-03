@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 15:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 16:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루이비통, 구찌에서 카페와 레스토랑을 만들었다고?! 명품 패션브랜드가 만든 핫플 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65177</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65177</guid>
+            <pubDate>Sun, 03 Apr 2022 16:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[이미 예약이 꽉 찼다는데!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/eedaab48-731a-4248-9bb9-018dbf5e0f29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈이 부시게 고윤정]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65176</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 31 Mar 2022 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[인간 러블리~♥]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/7424c6a7-0264-414a-9548-87876896a060.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스탈∙김나영∙이미주∙효정의 스트라이프 룩 스타일링 TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65095</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65095</guid>
-            <pubDate>Thu, 31 Mar 2022 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 이즈 베스트! 셀럽들의 스트라이프 패션은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a500be2-087f-402e-85a2-0b3fb81e5251.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
