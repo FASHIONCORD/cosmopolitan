@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 09:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 11:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,34 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTZfMTIw/MDAxNjQ3Mzg5NDQxNjM3.XrrwfJam_tjXHSBHhU8wx7Z5uDI5ppLGbBQcHRzoy_Eg.ghGwH5es1PteNO83j1Mspks1bXQ55QexQuEKwsq2O_Yg.JPEG/IoMa8pPCPi4tmLFePpebJeo74RBU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코스모가 픽한 4월의 머스트해브 아이템은 무엇?! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65182</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65182</guid>
+            <pubDate>Mon, 04 Apr 2022 11:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/a8b6edd1-252a-4a90-8b4f-daae6801ffee.jpg');">
+                                <a href="/article/65182">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65182">
+                                        Trends                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65182">
+                                        코스모가 픽한 4월의 머스트해브 아이템은 무엇?!                                    </a>
+                                </em>
+                                <p class="excerpt">코스모가 픽한 이달의 머스트해브 아이템.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/a8b6edd1-252a-4a90-8b4f-daae6801ffee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[루이비통, 구찌에서 카페와 레스토랑을 만들었다고?! 명품 패션브랜드가 만든 핫플 모음ZIP (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65177</link>
             <guid>https://www.cosmopolitan.co.kr/article/65177</guid>
@@ -261,11 +289,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65164">
@@ -362,34 +390,6 @@
                                 <p class="excerpt">프린트로 개성 뿜뿜!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/74e27bcb-b8fb-4ef8-9205-9a68c2633b03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미우미우 픽, 패션계 화력 장난 아닌 이유미의 사복 스타일링은?! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65108</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65108</guid>
-            <pubDate>Thu, 31 Mar 2022 03:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/7424c6a7-0264-414a-9548-87876896a060.jpg');">
-                                <a href="/article/65108">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65108">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65108">
-                                        미우미우 픽, 패션계 화력 장난 아닌 이유미의 사복 스타일링은?!                                    </a>
-                                </em>
-                                <p class="excerpt">인간 러블리~♥</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/7424c6a7-0264-414a-9548-87876896a060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흩날리는 벚꽃과 함께 찾아온 4월의 뷰티 신상템 22 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -1064,6 +1064,34 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/1dc1249a-b7ab-4841-b2ac-eb20b99cddcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[들썩들썩 2022 뮤직 페스티벌 라인업 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65235</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65235</guid>
+            <pubDate>Mon, 04 Apr 2022 11:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/a75df1f5-e0d7-4a6d-8ebc-a6ea4948a465.jpg');">
+                                <a href="/article/65235">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65235">
+                                        Place                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65235">
+                                        들썩들썩 2022 뮤직 페스티벌 라인업                                    </a>
+                                </em>
+                                <p class="excerpt">코시국 잘 버틴 흥부자들이여, 올해는 더 신나게 놀아보자!  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/a75df1f5-e0d7-4a6d-8ebc-a6ea4948a465.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현생을 '로그아웃'해줄 코스모 픽, 4월의 전시와 신간 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65212</link>
             <guid>https://www.cosmopolitan.co.kr/article/65212</guid>
@@ -1157,11 +1185,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65168">
@@ -1258,34 +1286,6 @@
                                 <p class="excerpt">내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<별들에게 물어봐>주인공으로 발탁된 공효진∙이민호! 어마어마한 케미 예고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65155</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65155</guid>
-            <pubDate>Thu, 31 Mar 2022 15:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/a2c3adfd-21bd-4556-9c23-dc31f6189e3e.jpg');">
-                                <a href="/article/65155">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65155">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65155">
-                                        &lt;별들에게 물어봐&gt;주인공으로 발탁된 공효진∙이민호! 어마어마한 케미 예고?                                    </a>
-                                </em>
-                                <p class="excerpt">국내 최초로 시도되는 우주 배경의 로코 드라마라 더욱 기대되는데!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/a2c3adfd-21bd-4556-9c23-dc31f6189e3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[질투하는 남친이 위험한 이유 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
