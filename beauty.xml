@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 11:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 16:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킹랑스러운 국대즈, 김아랑&이유빈에게 직접 듣는 2022 베이징 올림픽.SSUL]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65187</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65187</guid>
+            <pubDate>Mon, 04 Apr 2022 16:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/a3ef8858-dfad-4234-a4dc-09d07b3b19ea.jpg');">
+                                <a href="/article/65187">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65187">
+                                        Beauty Item                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65187">
+                                        킹랑스러운 국대즈, 김아랑&amp;이유빈에게 직접 듣는 2022 베이징 올림픽.SSUL                                    </a>
+                                </em>
+                                <p class="excerpt">올림픽 비하인드에 선수들 TMI까지! 묻고 더블로 가~</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/a3ef8858-dfad-4234-a4dc-09d07b3b19ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흩날리는 벚꽃과 함께 찾아온 4월의 뷰티 신상템 22]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65183</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65166">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">맛 없어서 못 마신단 핑계는 이제 그만. 관리하는 언니들이 추천하는 맛 좋은 단백질 음료. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/b796b62f-13e7-4c89-afdf-8cccdc114508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미모 텐션 폭발! <스물다섯 스물하나> ‘태양고즈’ 김태리∙보나∙이주명의 일상 속 뷰티 스타일이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65094</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65094</guid>
-            <pubDate>Thu, 31 Mar 2022 10:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/d4a9ffa6-2928-49cf-bcc0-96b0d403e40e.jpg');">
-                                <a href="/article/65094">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65094">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65094">
-                                        미모 텐션 폭발! &lt;스물다섯 스물하나&gt; ‘태양고즈’ 김태리∙보나∙이주명의 일상 속 뷰티 스타일이 궁금하다면?                                    </a>
-                                </em>
-                                <p class="excerpt">&lt;스물다섯 스물하나&gt;에 과몰입 중이라면 이젠 김태리∙보나∙이주명의 메이크업을 손민수 해볼 차례...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/d4a9ffa6-2928-49cf-bcc0-96b0d403e40e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
