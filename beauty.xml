@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 15:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 18:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하늘 아래 같은 레드는 없다! 봄맞이 신상 레드 립 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65228</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65228</guid>
+            <pubDate>Tue, 05 Apr 2022 18:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/88c4bdc3-e36c-4c3a-8027-bd6b8f249147.jpg');">
+                                <a href="/article/65228">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65228">
+                                        Make-Up                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65228">
+                                        하늘 아래 같은 레드는 없다! 봄맞이 신상 레드 립 3                                    </a>
+                                </em>
+                                <p class="excerpt">하늘 아래 같은 레드는 없다! 봄맞이 신상 레드 립을 농도별로 소개한다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/88c4bdc3-e36c-4c3a-8027-bd6b8f249147.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 봄에 딱! 봄 느낌 물씬 나는 네일 폴리시 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65208</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65175">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">올봄 우리의 네일과 페디는 네일의 신, 갓현아가 책임진다. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/164d204b-bf86-47a9-aaa8-7d56c8789c65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장발로 컴백하는 빅뱅 지드래곤∙대성, 남돌 사이에선 장발 대유행 중!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65113</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65113</guid>
-            <pubDate>Thu, 31 Mar 2022 18:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/5a13cbc8-1a21-44b7-b4ce-d5a95dec5445.jpg');">
-                                <a href="/article/65113">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65113">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65113">
-                                        장발로 컴백하는 빅뱅 지드래곤∙대성, 남돌 사이에선 장발 대유행 중!                                    </a>
-                                </em>
-                                <p class="excerpt">컴백 티저에서 파격적인 장발 스타일을 선보인 지디와 대성! 이미 남자 아이돌 사이에선 장발이...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/5a13cbc8-1a21-44b7-b4ce-d5a95dec5445.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
