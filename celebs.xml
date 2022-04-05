@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 22:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술최몇? '술잘알' 한선화가 각종 주류를 더 맛있게 마시는 찐 레시피 최초 공개?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65215</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65215</guid>
+            <pubDate>Tue, 05 Apr 2022 02:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/becfedc8-d7d8-48fa-964d-e7bbc248257b.jpg');">
+                                <a href="/article/65215">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65215">
+                                        Interview                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65215">
+                                        술최몇? '술잘알' 한선화가 각종 주류를 더 맛있게 마시는 찐 레시피 최초 공개?!                                    </a>
+                                </em>
+                                <p class="excerpt">술에 진심인 한선화의 술 냄새 나는 취향 맛집 줌터뷰를 확인해보세요!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/becfedc8-d7d8-48fa-964d-e7bbc248257b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킹랑스러운 국대즈, 김아랑&이유빈에게 직접 듣는 2022 베이징 올림픽.SSUL]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65187</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65168">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">탈도 많고, 볼 거리도 많았던 올해의 오스카 시상식. 과연 어떤 일이 있었을까? </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/ceb4a3b0-35f7-4447-8ef1-d71a955f0ea0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<별들에게 물어봐>주인공으로 발탁된 공효진∙이민호! 어마어마한 케미 예고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65155</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65155</guid>
-            <pubDate>Thu, 31 Mar 2022 15:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/a2c3adfd-21bd-4556-9c23-dc31f6189e3e.jpg');">
-                                <a href="/article/65155">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65155">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65155">
-                                        &lt;별들에게 물어봐&gt;주인공으로 발탁된 공효진∙이민호! 어마어마한 케미 예고?                                    </a>
-                                </em>
-                                <p class="excerpt">국내 최초로 시도되는 우주 배경의 로코 드라마라 더욱 기대되는데!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/a2c3adfd-21bd-4556-9c23-dc31f6189e3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
