@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 22:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 04:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여드름 순삭?! 빠르게 흉터를 완화해줄 갓벽한 트러블 패치 추천]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65234</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65234</guid>
+            <pubDate>Wed, 06 Apr 2022 04:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/2e5419c0-2b82-4dfc-b306-c55aae43f66b.jpg');">
+                                <a href="/article/65234">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65234">
+                                        Beauty Item                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65234">
+                                        여드름 순삭?! 빠르게 흉터를 완화해줄 갓벽한 트러블 패치 추천                                    </a>
+                                </em>
+                                <p class="excerpt">울긋 불긋 올라온 트러블이 신경 쓰인다면 주목! 효과 좋고 안전한데 비건 인증까지 완료한 트...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/2e5419c0-2b82-4dfc-b306-c55aae43f66b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하늘 아래 같은 레드는 없다! 봄맞이 신상 레드 립 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65228</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65183">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">봄맞이 새 향수로 환승 준비 중이라면, 일단 컴컴~.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/4f977135-6a24-41cb-a145-14207e8607a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네일왕 찐천재 현아]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65137</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65137</guid>
-            <pubDate>Thu, 31 Mar 2022 18:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/164d204b-bf86-47a9-aaa8-7d56c8789c65.jpg');">
-                                <a href="/article/65137">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65137">
-                                        Beauty Item                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65137">
-                                        네일왕 찐천재 현아                                     </a>
-                                </em>
-                                <p class="excerpt">올봄 우리의 네일과 페디는 네일의 신, 갓현아가 책임진다. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/164d204b-bf86-47a9-aaa8-7d56c8789c65.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

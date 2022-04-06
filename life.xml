@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 22:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 04:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안 그래도 핫한 망원에 이게 생겼다고? 망원동 신상 맛집4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65247</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65247</guid>
+            <pubDate>Wed, 06 Apr 2022 04:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/b5b0221b-bca5-4d60-956e-28c06925f94f.jpg');">
+                                <a href="/article/65247">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65247">
+                                        Place                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65247">
+                                        안 그래도 핫한 망원에 이게 생겼다고? 망원동 신상 맛집4                                    </a>
+                                </em>
+                                <p class="excerpt">킁킁, 어디서 맛집 냄새 안 나나요?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/b5b0221b-bca5-4d60-956e-28c06925f94f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오픈 런 부르는 ‘포켓몬 빵’ 열풍, 도대체 이게 뭐라고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65246</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65235">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">이미 예약이 꽉 찼다는데!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/eedaab48-731a-4248-9bb9-018dbf5e0f29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<사내맞선> 안효섭의 까칠 CEO룩 VS 다정 남친룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65168</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65168</guid>
-            <pubDate>Mon, 04 Apr 2022 08:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/3f77d7b2-fa47-4806-842c-b526da6a966c.jpg');">
-                                <a href="/article/65168">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65168">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65168">
-                                        &lt;사내맞선&gt; 안효섭의 까칠 CEO룩 VS 다정 남친룩                                     </a>
-                                </em>
-                                <p class="excerpt">두 얼굴의 강태무 전격 비교! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/3f77d7b2-fa47-4806-842c-b526da6a966c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
