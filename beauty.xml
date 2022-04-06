@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 19:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 20:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM∙세븐틴∙크래비티∙MCND∙업텐션, 냉미남 헤어 남돌 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65244</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65244</guid>
+            <pubDate>Wed, 06 Apr 2022 20:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/840f88bb-ae12-4a68-8d88-194dcc18e9b4.jpg');">
+                                <a href="/article/65244">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65244">
+                                        Celeb News                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65244">
+                                        NCT DREAM∙세븐틴∙크래비티∙MCND∙업텐션, 냉미남 헤어 남돌 모음ZIP                                    </a>
+                                </em>
+                                <p class="excerpt">컬러를 모두 빼앗긴 듯한 차가운 무채색 헤어 속에 그들의 미모는 더욱 살아난다. 백발, 은발,...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/840f88bb-ae12-4a68-8d88-194dcc18e9b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여드름 순삭?! 빠르게 흉터를 완화해줄 갓벽한 트러블 패치 추천]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65234</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65187">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">4월 2일부터 17일까지 진행된다고!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/ce6d6988-7114-4daa-abcf-4a4777e093a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디서 좋은 냄새 안 나요? 서울에서 꼭 가야할 뉴 향기 스폿!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65166</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65166</guid>
-            <pubDate>Fri, 01 Apr 2022 15:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/4f977135-6a24-41cb-a145-14207e8607a8.jpg');">
-                                <a href="/article/65166">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65166">
-                                        Beauty Item                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65166">
-                                        어디서 좋은 냄새 안 나요? 서울에서 꼭 가야할 뉴 향기 스폿!                                    </a>
-                                </em>
-                                <p class="excerpt">봄맞이 새 향수로 환승 준비 중이라면, 일단 컴컴~.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/4f977135-6a24-41cb-a145-14207e8607a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
