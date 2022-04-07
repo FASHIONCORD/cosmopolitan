@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 00:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니 옆에 누구야? 네이버 창업자 아들이라고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65277</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65277</guid>
+            <pubDate>Thu, 07 Apr 2022 02:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/e6293f04-1808-4508-ad69-4e4f9ca35363.jpg');">
+                                <a href="/article/65277">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65277">
+                                        Celeb News                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65277">
+                                        제니 옆에 누구야? 네이버 창업자 아들이라고?!                                     </a>
+                                </em>
+                                <p class="excerpt">블랙핑크와 깊은 인연이 있는 찐 금수저 가수 로렌! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/e6293f04-1808-4508-ad69-4e4f9ca35363.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 내 차례인가, 맛있는데 또 귀여워? 이색 모나카 맛집 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65248</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65245">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">숨 가쁜 현실에서 잠시 ‘로그아웃’해줄 4월의 전시와 신간.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/9f9a662c-5cc6-40b7-834d-eee53c16495a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제94회 아카데미 시상식, 꿀잼 관전 모먼트 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65185</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65185</guid>
-            <pubDate>Mon, 04 Apr 2022 08:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/81a3353c-ce56-44ce-b41d-4f4c77d9b566.jpg');">
-                                <a href="/article/65185">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65185">
-                                        Culture                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65185">
-                                        제94회 아카데미 시상식, 꿀잼 관전 모먼트 모음ZIP                                    </a>
-                                </em>
-                                <p class="excerpt">3월 27일, 제94회 아카데미 시상식이 열린다. 올해의 관전 포인트는 뭘까? 핵심만 짚었다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/81a3353c-ce56-44ce-b41d-4f4c77d9b566.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
