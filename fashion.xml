@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 12:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 15:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Higher Platform, 이번 시즌의 핫 트렌드는 플랫폼 슈즈!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65283</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65283</guid>
+            <pubDate>Thu, 07 Apr 2022 15:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/4bfdc52d-8037-45bd-bee3-dc748a9d29b6.jpg');">
+                                <a href="/article/65283">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65283">
+                                        Trends                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65283">
+                                        The Higher Platform, 이번 시즌의 핫 트렌드는 플랫폼 슈즈!                                    </a>
+                                </em>
+                                <p class="excerpt">푸른 하늘 아래 봄기운이 만연한 4월, 옷차림이 가벼워진 만큼 무겁고 투박했던 신발도 벗어 던...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/4bfdc52d-8037-45bd-bee3-dc748a9d29b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니 옆에 누구야? 네이버 창업자 아들이라고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65277</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65256">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">뷰티 브랜드의 새로운 얼굴들이 공개됐다. 대세 오브 대세 얼굴들이 주를 이뤘지만, 그보다 더 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/03/19d9aa61-39a0-4ed8-816b-b635de9a8975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 벨라도 달라졌어요!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65210</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65210</guid>
-            <pubDate>Mon, 04 Apr 2022 16:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/6c0ee83a-5230-448e-8c5e-39042585899a.jpg');">
-                                <a href="/article/65210">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65210">
-                                        Trends                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65210">
-                                        우리 벨라도 달라졌어요!                                    </a>
-                                </em>
-                                <p class="excerpt">힙 터지는 룩을 입고 스트리트를 런웨이로 변신시키던 켄달 제너가 베이식 룩 러버가 된 것처럼...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/6c0ee83a-5230-448e-8c5e-39042585899a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
