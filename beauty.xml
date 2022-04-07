@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 11:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혹시 배운 변태세요? 역대급이라고 소문난 오마이걸의 ‘Real Love’ 속 컨셉이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65267</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65267</guid>
+            <pubDate>Thu, 07 Apr 2022 11:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/4d8fdfb8-85f2-4939-bbf5-b926ab3bc0c1.jpg');">
+                                <a href="/article/65267">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65267">
+                                        Celeb News                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65267">
+                                        혹시 배운 변태세요? 역대급이라고 소문난 오마이걸의 ‘Real Love’ 속 컨셉이 궁금하다면?                                    </a>
+                                </em>
+                                <p class="excerpt">봄과 오마이걸 그리고 향수 컨셉까지 넘모 갓벽한 조합이자나~.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/4d8fdfb8-85f2-4939-bbf5-b926ab3bc0c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이테크 끝판왕! 갓벽한 케어 효과를 지닌 뷰티 디바이스 6]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65262</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65228">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">흩날리는 벚꽃과 함께 찾아온 4월의 뷰티 신상!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/61ceb24e-b931-4c2e-9259-cd6cb59f56eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베베~ 꼬았네~ 제니∙태연∙류진∙아이린∙헤일리 비버의 세젤힙 앞머리 땋기 스타일링!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65175</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65175</guid>
-            <pubDate>Mon, 04 Apr 2022 00:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/ee1bb9e2-4d61-40b4-902e-6d20e7a07c4a.jpg');">
-                                <a href="/article/65175">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65175">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65175">
-                                        베베~ 꼬았네~ 제니∙태연∙류진∙아이린∙헤일리 비버의 세젤힙 앞머리 땋기 스타일링!                                    </a>
-                                </em>
-                                <p class="excerpt">앞머리만 땋았을 뿐인데, 세상 귀엽고! 세상 힙하고! 이 정도는 곰손도 손민수 SSAP가능이라곰...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/ee1bb9e2-4d61-40b4-902e-6d20e7a07c4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
