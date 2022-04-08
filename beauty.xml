@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 20:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디서도 들을 수 없었던 뷰티 전문가들의 찐 알짜배기 뷰티 조언!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65329</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65329</guid>
+            <pubDate>Fri, 08 Apr 2022 20:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/96a43777-b344-46b9-b3f4-54410fbf8201.jpg');">
+                                <a href="/article/65329">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65329">
+                                        Tips                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65329">
+                                        어디서도 들을 수 없었던 뷰티 전문가들의 찐 알짜배기 뷰티 조언!                                    </a>
+                                </em>
+                                <p class="excerpt">어디서도 들을 수 없었던, 뷰티 전문가들의 찐 오브 찐 알짜배기 뷰티 조언!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/96a43777-b344-46b9-b3f4-54410fbf8201.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷰티 탑티어 MCN에서 크리에이터와 함께 최초로 선보이는 메이크업 컬렉션은 무엇?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65288</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65262">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">하늘 아래 같은 레드는 없다! 봄맞이 신상 레드 립을 농도별로 소개한다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/88c4bdc3-e36c-4c3a-8027-bd6b8f249147.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 봄에 딱! 봄 느낌 물씬 나는 네일 폴리시 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65208</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65208</guid>
-            <pubDate>Tue, 05 Apr 2022 02:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/9489b4d3-5d19-4a94-9eb5-37b834759b9b.jpg');">
-                                <a href="/article/65208">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65208">
-                                        Beauty Item                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65208">
-                                        이번 봄에 딱! 봄 느낌 물씬 나는 네일 폴리시 모음ZIP                                    </a>
-                                </em>
-                                <p class="excerpt">봄, 봄, 봄! 봄이 왔어요. 손끝에 찾아온 봄을 닮은 네일 폴리시.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/9489b4d3-5d19-4a94-9eb5-37b834759b9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

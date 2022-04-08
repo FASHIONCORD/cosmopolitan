@@ -4,9 +4,37 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 20:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤일리비버 · 예린 · 메간 폭스 · 지수도 반한 컬러 백 포인트 룩!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65307</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65307</guid>
+            <pubDate>Fri, 08 Apr 2022 20:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/84a63589-ae34-4060-be71-eff22743ce35.jpg');">
+                                <a href="/article/65307">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65307">
+                                        Celeb News                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65307">
+                                        헤일리비버 · 예린 · 메간 폭스 · 지수도 반한 컬러 백 포인트 룩!                                    </a>
+                                </em>
+                                <p class="excerpt">심심한 룩에 컬러 백 한 방울로 이번 시즌 트렌드를 놓치지 말 것!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/84a63589-ae34-4060-be71-eff22743ce35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Higher Platform, 이번 시즌의 핫 트렌드는 플랫폼 슈즈!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65283</link>
@@ -101,11 +129,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65263">
@@ -202,34 +230,6 @@
                                 <p class="excerpt">진짜 스포츠 아이템으로 즐기는 활기차고 쿨한 스포티 룩!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/03/f9edfd84-6ba0-45fd-8216-f0a77b338cd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 페이스 등장! 뷰티 브랜드의 새로운 얼굴들은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65221</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65221</guid>
-            <pubDate>Tue, 05 Apr 2022 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/03/19d9aa61-39a0-4ed8-816b-b635de9a8975.jpg');">
-                                <a href="/article/65221">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65221">
-                                        Trends                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65221">
-                                        뉴 페이스 등장! 뷰티 브랜드의 새로운 얼굴들은 누구?                                    </a>
-                                </em>
-                                <p class="excerpt">뷰티 브랜드의 새로운 얼굴들이 공개됐다. 대세 오브 대세 얼굴들이 주를 이뤘지만, 그보다 더 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/03/19d9aa61-39a0-4ed8-816b-b635de9a8975.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
