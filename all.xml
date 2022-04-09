@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 07:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 16:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,62 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjBfNjQg/MDAxNjQ3NzQwNzA3ODE4.h5xupPK5Fxv4VtqghaNbt-wfElMNO54QdFVnjviCZcsg.G_mgruJZSql7WoFVhrjjAygTe2qt9SvUo4603EbDMlUg.JPEG/Ibdpte5E83S2EKYPKM1pK-XSMQTw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Not for Workout!  이번 봄엔 신상 스니커즈에 주목! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65327</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65327</guid>
+            <pubDate>Sat, 09 Apr 2022 16:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/6a8def45-1340-4160-98d9-8c3e2af137aa.jpg');">
+                                <a href="/article/65327">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65327">
+                                        Trends                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65327">
+                                        Not for Workout!  이번 봄엔 신상 스니커즈에 주목!                                    </a>
+                                </em>
+                                <p class="excerpt">푸른 하늘 아래 봄기운이 만연한 4월, 옷차림이 가벼워진 만큼 무겁고 투박했던 신발도 벗어 던...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/6a8def45-1340-4160-98d9-8c3e2af137aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커플룩은 못 입어도 트윈룩은 입을 수 있잖아? 멋쁨 돋는 셀럽 시밀러룩 모음ZIP (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65310</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65310</guid>
+            <pubDate>Thu, 07 Apr 2022 11:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/b151347e-3344-4272-b9c8-67550f5201f6.jpg');">
+                                <a href="/article/65310">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65310">
+                                        Celeb News                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65310">
+                                        커플룩은 못 입어도 트윈룩은 입을 수 있잖아? 멋쁨 돋는 셀럽 시밀러룩 모음ZIP                                    </a>
+                                </em>
+                                <p class="excerpt">친구야 나랑 트윈룩, 시밀러룩 입자~ </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/b151347e-3344-4272-b9c8-67550f5201f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헤일리비버 · 예린 · 메간 폭스 · 지수도 반한 컬러 백 포인트 룩! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65307</link>
             <guid>https://www.cosmopolitan.co.kr/article/65307</guid>
@@ -233,11 +289,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65277">
@@ -261,11 +317,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65276">
@@ -334,62 +390,6 @@
                                 <p class="excerpt">두 가지 색을 섞은 ‘보라’의 여러 가지 이름들. 핑크 같은 퍼플, 그냥 퍼플, 바이올렛, 라벤...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/94f370bf-53ba-45e3-b8b3-36b40e91af15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A-list Fave! 2022FW 패션위크에 등장한 해외 패션피플들의 봄 스타일링 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65229</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65229</guid>
-            <pubDate>Tue, 05 Apr 2022 15:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/e0f5142a-2eb1-48b2-8b9f-5a60c57f5655.jpg');">
-                                <a href="/article/65229">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65229">
-                                        Trends                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65229">
-                                        A-list Fave! 2022FW 패션위크에 등장한 해외 패션피플들의 봄 스타일링                                    </a>
-                                </em>
-                                <p class="excerpt">2022 F/W 패션 위크에 추위와 오미크론에도 굴하지 않고 자신의 개성과 스타일을 펼쳐 보인 인...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/e0f5142a-2eb1-48b2-8b9f-5a60c57f5655.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATHLETIC CHIC 스포츠 아이템으로 즐기는 활기차고 쿨한 스포티 룩! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65222</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65222</guid>
-            <pubDate>Tue, 05 Apr 2022 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/03/f9edfd84-6ba0-45fd-8216-f0a77b338cd2.jpg');">
-                                <a href="/article/65222">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65222">
-                                        Trends                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65222">
-                                        ATHLETIC CHIC 스포츠 아이템으로 즐기는 활기차고 쿨한 스포티 룩!                                    </a>
-                                </em>
-                                <p class="excerpt">진짜 스포츠 아이템으로 즐기는 활기차고 쿨한 스포티 룩!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/03/f9edfd84-6ba0-45fd-8216-f0a77b338cd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서도 들을 수 없었던 뷰티 전문가들의 찐 알짜배기 뷰티 조언! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -1064,6 +1064,62 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/1dc1249a-b7ab-4841-b2ac-eb20b99cddcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다. (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65331</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65331</guid>
+            <pubDate>Sat, 09 Apr 2022 16:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/7f65d5d2-800a-4b6f-85e1-e5d1f2638452.jpg');">
+                                <a href="/article/65331">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65331">
+                                        Culture                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65331">
+                                        실외 마스크 착용 의무 해제되면 나는 OOO할 것이다.                                     </a>
+                                </em>
+                                <p class="excerpt">마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/7f65d5d2-800a-4b6f-85e1-e5d1f2638452.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사주로 보는 속궁합? 역술가가 알려주는 숨은 찰떡궁합 찾기! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65326</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65326</guid>
+            <pubDate>Sat, 09 Apr 2022 16:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/5c813522-1e59-4e88-9865-946d0c066cd9.jpg');">
+                                <a href="/article/65326">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/65326">
+                                        Trends                                    </a>
+                                </span>
+                                <em class="title">
+                                    <a href="/article/65326">
+                                        사주로 보는 속궁합? 역술가가 알려주는 숨은 찰떡궁합 찾기!                                    </a>
+                                </em>
+                                <p class="excerpt">어릴 적 부모님에게 받은 사랑을 남자에게 갈구하는 ‘아기녀’부터 아내의 말 한마디에 경기를 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/5c813522-1e59-4e88-9865-946d0c066cd9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[석촌호수에 가면? 벨리곰도 보고, 벚꽃도 보고, 맛있는 것도 먹을 수 있는 찐 데이트 코스 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65297</link>
             <guid>https://www.cosmopolitan.co.kr/article/65297</guid>
@@ -1129,11 +1185,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65277">
@@ -1157,11 +1213,11 @@
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                 <span class="menu">
                                     <a href="/article/65276">
@@ -1230,62 +1286,6 @@
                                 <p class="excerpt">킁킁, 어디서 맛집 냄새 안 나나요?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/b5b0221b-bca5-4d60-956e-28c06925f94f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 런 부르는 ‘포켓몬 빵’ 열풍, 도대체 이게 뭐라고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65246</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65246</guid>
-            <pubDate>Tue, 05 Apr 2022 15:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/d705b553-ce22-4038-95c9-008a8b7029e8.jpg');">
-                                <a href="/article/65246">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65246">
-                                        Food                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65246">
-                                        오픈 런 부르는 ‘포켓몬 빵’ 열풍, 도대체 이게 뭐라고?                                     </a>
-                                </em>
-                                <p class="excerpt">포켓몬 빵 없어요 ㅠㅠ</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/d705b553-ce22-4038-95c9-008a8b7029e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고막은 멜팅, 감정은 코팅! 2022 봄 신곡 플레이 리스트 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65245</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65245</guid>
-            <pubDate>Tue, 05 Apr 2022 09:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/5f8d8907-ce3c-468f-b4d2-cf7cd64f8b8d.jpg');">
-                                <a href="/article/65245">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65245">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65245">
-                                        고막은 멜팅, 감정은 코팅! 2022 봄 신곡 플레이 리스트                                     </a>
-                                </em>
-                                <p class="excerpt">권진아, 유겸, 선우정아, 윤하, 오마이걸까지… 기다렸던 아티스트들이 선물 같은 신곡을 들고 찾...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/5f8d8907-ce3c-468f-b4d2-cf7cd64f8b8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
