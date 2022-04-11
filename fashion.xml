@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 11:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 19:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더욱 세련된 룩킹의 2022 S/S 뉴 스포티즘!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65399</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65399</guid>
+            <pubDate>Mon, 11 Apr 2022 19:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[스포티즘이 활력을 더하는 계절이 왔다. 극과 극으로 부딪히는 레트로와 모더니즘이 만나 더욱 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/10/bf4bf761-25b5-44c3-b2b5-0fdf0f564b34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건강한 지구를 지속 가능하게 만드는 착한 채소 브랜드]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65398</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Apr 2022 20:14:01 GMT</pubDate>
             <content:encoded><![CDATA[심심한 룩에 컬러 백 한 방울로 이번 시즌 트렌드를 놓치지 말 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/84a63589-ae34-4060-be71-eff22743ce35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Higher Platform, 이번 시즌의 핫 트렌드는 플랫폼 슈즈!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65283</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65283</guid>
-            <pubDate>Thu, 07 Apr 2022 15:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[푸른 하늘 아래 봄기운이 만연한 4월, 옷차림이 가벼워진 만큼 무겁고 투박했던 신발도 벗어 던...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/4bfdc52d-8037-45bd-bee3-dc748a9d29b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
