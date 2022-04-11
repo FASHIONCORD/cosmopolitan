@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 03:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,31 +392,27 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/4bfdc52d-8037-45bd-bee3-dc748a9d29b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뷰티 크리에이터 소윤이 뮤즈로 참여한 하킷의 플래시 매트 립! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65345</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65345</guid>
+            <pubDate>Mon, 11 Apr 2022 06:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[컬러 발색력 만렙, 겉.보.속.촉 립스틱의 정석이라는데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/59e33632-1eea-40be-bcd8-959de9dfa41a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈썹 위로 싹둑! 김태리∙공효진∙수지∙류진∙미연의 처피뱅 헤어 스타일 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65333</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65333</guid>
+            <pubDate>Mon, 11 Apr 2022 06:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[눈썹 위로 깡충 올라간 마성의 앞머리 처피뱅! 과감하게 도전하고 싶지만 나에게 어울릴까 고민...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/ed89c8a8-49a5-4b6d-af6a-e64334a5cd4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어디서도 들을 수 없었던 뷰티 전문가들의 찐 알짜배기 뷰티 조언! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65329</link>
             <guid>https://www.cosmopolitan.co.kr/article/65329</guid>
             <pubDate>Fri, 08 Apr 2022 20:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/96a43777-b344-46b9-b3f4-54410fbf8201.jpg');">
-                                <a href="/article/65329">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65329">
-                                        Tips                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65329">
-                                        어디서도 들을 수 없었던 뷰티 전문가들의 찐 알짜배기 뷰티 조언!                                    </a>
-                                </em>
-                                <p class="excerpt">어디서도 들을 수 없었던, 뷰티 전문가들의 찐 오브 찐 알짜배기 뷰티 조언!</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[어디서도 들을 수 없었던, 뷰티 전문가들의 찐 오브 찐 알짜배기 뷰티 조언!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/96a43777-b344-46b9-b3f4-54410fbf8201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -424,27 +420,7 @@
             <link>https://www.cosmopolitan.co.kr/article/65288</link>
             <guid>https://www.cosmopolitan.co.kr/article/65288</guid>
             <pubDate>Fri, 08 Apr 2022 04:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/5f63592f-d3ae-46cf-bb93-db84312f0275.jpg');">
-                                <a href="/article/65288">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65288">
-                                        Beauty Item                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65288">
-                                        뷰티 탑티어 MCN에서 크리에이터와 함께 최초로 선보이는 메이크업 컬렉션은 무엇?                                    </a>
-                                </em>
-                                <p class="excerpt">컬렉션 중 신상 립스틱의 경우 밀착력, 발림성, 발색감 삼 박자를 모두 갖췄다는데!</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[컬렉션 중 신상 립스틱의 경우 밀착력, 발림성, 발색감 삼 박자를 모두 갖췄다는데!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/5f63592f-d3ae-46cf-bb93-db84312f0275.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -452,27 +428,7 @@
             <link>https://www.cosmopolitan.co.kr/article/65285</link>
             <guid>https://www.cosmopolitan.co.kr/article/65285</guid>
             <pubDate>Fri, 08 Apr 2022 04:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/58f1863c-02c7-4109-a0ea-c5b485f37395.jpg');">
-                                <a href="/article/65285">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65285">
-                                        Make-Up                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65285">
-                                        Eyes On Me! 메이크업 필수 코스가된 컬러 렌즈 트렌드                                    </a>
-                                </em>
-                                <p class="excerpt">컬러 렌즈를 안 끼면 벌거벗은 거나 마찬가지! 메이크업 필수 코스가 된 컬러 렌즈 트렌드의 ...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[컬러 렌즈를 안 끼면 벌거벗은 거나 마찬가지! 메이크업 필수 코스가 된 컬러 렌즈 트렌드의 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/58f1863c-02c7-4109-a0ea-c5b485f37395.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -480,27 +436,7 @@
             <link>https://www.cosmopolitan.co.kr/article/65267</link>
             <guid>https://www.cosmopolitan.co.kr/article/65267</guid>
             <pubDate>Wed, 06 Apr 2022 04:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/4d8fdfb8-85f2-4939-bbf5-b926ab3bc0c1.jpg');">
-                                <a href="/article/65267">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65267">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65267">
-                                        혹시 배운 변태세요? 역대급이라고 소문난 오마이걸의 ‘Real Love’ 속 컨셉이 궁금하다면?                                    </a>
-                                </em>
-                                <p class="excerpt">봄과 오마이걸 그리고 향수 컨셉까지 넘모 갓벽한 조합이자나~.</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[봄과 오마이걸 그리고 향수 컨셉까지 넘모 갓벽한 조합이자나~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/4d8fdfb8-85f2-4939-bbf5-b926ab3bc0c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,27 +444,7 @@
             <link>https://www.cosmopolitan.co.kr/article/65262</link>
             <guid>https://www.cosmopolitan.co.kr/article/65262</guid>
             <pubDate>Thu, 07 Apr 2022 03:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/308c621f-c61c-478b-92b2-9c90dda54f69.jpg');">
-                                <a href="/article/65262">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65262">
-                                        Beauty Item                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65262">
-                                        하이테크 끝판왕! 갓벽한 케어 효과를 지닌 뷰티 디바이스 6                                    </a>
-                                </em>
-                                <p class="excerpt">이젠 바르기만 해서는 안 된다. 어려운 용어가 난무하지만, 그 어떤 것보다 생활 밀착형의 하이...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[이젠 바르기만 해서는 안 된다. 어려운 용어가 난무하지만, 그 어떤 것보다 생활 밀착형의 하이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/308c621f-c61c-478b-92b2-9c90dda54f69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -536,111 +452,47 @@
             <link>https://www.cosmopolitan.co.kr/article/65244</link>
             <guid>https://www.cosmopolitan.co.kr/article/65244</guid>
             <pubDate>Wed, 06 Apr 2022 20:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/840f88bb-ae12-4a68-8d88-194dcc18e9b4.jpg');">
-                                <a href="/article/65244">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65244">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65244">
-                                        NCT DREAM∙세븐틴∙크래비티∙MCND∙업텐션, 냉미남 헤어 남돌 모음ZIP                                    </a>
-                                </em>
-                                <p class="excerpt">컬러를 모두 빼앗긴 듯한 차가운 무채색 헤어 속에 그들의 미모는 더욱 살아난다. 백발, 은발,...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[컬러를 모두 빼앗긴 듯한 차가운 무채색 헤어 속에 그들의 미모는 더욱 살아난다. 백발, 은발,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/840f88bb-ae12-4a68-8d88-194dcc18e9b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여드름 순삭?! 빠르게 흉터를 완화해줄 갓벽한 트러블 패치 추천 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65234</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65234</guid>
-            <pubDate>Wed, 06 Apr 2022 04:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/2e5419c0-2b82-4dfc-b306-c55aae43f66b.jpg');">
-                                <a href="/article/65234">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65234">
-                                        Beauty Item                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65234">
-                                        여드름 순삭?! 빠르게 흉터를 완화해줄 갓벽한 트러블 패치 추천                                    </a>
-                                </em>
-                                <p class="excerpt">울긋 불긋 올라온 트러블이 신경 쓰인다면 주목! 효과 좋고 안전한데 비건 인증까지 완료한 트...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/2e5419c0-2b82-4dfc-b306-c55aae43f66b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[알로하! 드디어 하와이 여행 갈 수 있다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65338</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65338</guid>
+            <pubDate>Mon, 11 Apr 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[김나영도 간 하와이, 어떻게 가는지 한 번에 정리해 드림]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/3ab5b07d-e039-4b90-9585-11fa6fd380a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하늘 아래 같은 레드는 없다! 봄맞이 신상 레드 립 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65228</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65228</guid>
-            <pubDate>Tue, 05 Apr 2022 18:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/88c4bdc3-e36c-4c3a-8027-bd6b8f249147.jpg');">
-                                <a href="/article/65228">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65228">
-                                        Make-Up                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65228">
-                                        하늘 아래 같은 레드는 없다! 봄맞이 신상 레드 립 3                                    </a>
-                                </em>
-                                <p class="excerpt">하늘 아래 같은 레드는 없다! 봄맞이 신상 레드 립을 농도별로 소개한다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/88c4bdc3-e36c-4c3a-8027-bd6b8f249147.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[눈썹 위로 싹둑! 김태리∙공효진∙수지∙류진∙미연의 처피뱅 헤어 스타일 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65333</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65333</guid>
+            <pubDate>Mon, 11 Apr 2022 06:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[눈썹 위로 깡충 올라간 마성의 앞머리 처피뱅! 과감하게 도전하고 싶지만 나에게 어울릴까 고민...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/ed89c8a8-49a5-4b6d-af6a-e64334a5cd4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무작정 많이 먹는 먹방은 한물갔다고? 연예계 대표 ‘소식좌’는 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65332</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65332</guid>
+            <pubDate>Mon, 11 Apr 2022 06:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[양껏~ 마음껏~ 먹던 대식가의 먹방 대신 적은 양을 꼭꼭 씹어먹는 소식 습관이 주목받는 중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/8262d2be-3e7a-49ca-863f-9efa4cd3a122.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<지금 우리 학교는>속 빌런, 윤귀남의 본캐는? 현실에선 정반대 갓생사는 유인수의 반전 매력! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65319</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65319</guid>
+            <pubDate>Mon, 11 Apr 2022 06:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[실제론 부끄러움 많이 탄다는 유인수의 TMI 썰을 가득 담아봤습니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/0880c42f-ec74-4afe-a9ff-574bb67a7b72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤여정∙BTS∙이랑의 공통점은? ‘벽’을 허무는 스타들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65317</link>
             <guid>https://www.cosmopolitan.co.kr/article/65317</guid>
             <pubDate>Thu, 07 Apr 2022 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/4b783fe7-1632-402c-84d3-451654983cfd.jpg');">
-                                <a href="/article/65317">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65317">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65317">
-                                        윤여정∙BTS∙이랑의 공통점은? ‘벽’을 허무는 스타들                                     </a>
-                                </em>
-                                <p class="excerpt">누구도 소외되지 않고, 누구도 불편하지 않은 세상을 위해 물질적 제도적 장벽을 없애는 배리어...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[누구도 소외되지 않고, 누구도 불편하지 않은 세상을 위해 물질적 제도적 장벽을 없애는 배리어...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/4b783fe7-1632-402c-84d3-451654983cfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -648,27 +500,7 @@
             <link>https://www.cosmopolitan.co.kr/article/65316</link>
             <guid>https://www.cosmopolitan.co.kr/article/65316</guid>
             <pubDate>Thu, 07 Apr 2022 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/9db2a0f3-ccfa-4ec8-b01d-a351544c6020.jpg');">
-                                <a href="/article/65316">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65316">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65316">
-                                        발라드 왕 신용재, 깜짝 결혼 발표! 아내는 누구?                                      </a>
-                                </em>
-                                <p class="excerpt">2년 열애 끝에 비 연예인 일반인과 결혼한다는데!</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[2년 열애 끝에 비 연예인 일반인과 결혼한다는데!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/9db2a0f3-ccfa-4ec8-b01d-a351544c6020.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -676,195 +508,31 @@
             <link>https://www.cosmopolitan.co.kr/article/65310</link>
             <guid>https://www.cosmopolitan.co.kr/article/65310</guid>
             <pubDate>Thu, 07 Apr 2022 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/b151347e-3344-4272-b9c8-67550f5201f6.jpg');">
-                                <a href="/article/65310">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65310">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65310">
-                                        커플룩은 못 입어도 트윈룩은 입을 수 있잖아? 멋쁨 돋는 셀럽 시밀러룩 모음ZIP                                    </a>
-                                </em>
-                                <p class="excerpt">친구야 나랑 트윈룩, 시밀러룩 입자~ </p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[친구야 나랑 트윈룩, 시밀러룩 입자~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/b151347e-3344-4272-b9c8-67550f5201f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헤일리비버 · 예린 · 메간 폭스 · 지수도 반한 컬러 백 포인트 룩! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <title><![CDATA[지수∙예린∙메간 폭스∙헤일리비버도 반한 컬러 백 포인트 룩! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65307</link>
             <guid>https://www.cosmopolitan.co.kr/article/65307</guid>
             <pubDate>Thu, 07 Apr 2022 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/84a63589-ae34-4060-be71-eff22743ce35.jpg');">
-                                <a href="/article/65307">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65307">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65307">
-                                        헤일리비버 · 예린 · 메간 폭스 · 지수도 반한 컬러 백 포인트 룩!                                    </a>
-                                </em>
-                                <p class="excerpt">심심한 룩에 컬러 백 한 방울로 이번 시즌 트렌드를 놓치지 말 것!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/84a63589-ae34-4060-be71-eff22743ce35.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[심심한 룩에 컬러 백 한 방울로 이번 시즌 트렌드를 놓치지 말 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/84a63589-ae34-4060-be71-eff22743ce35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페기 구와 밥을 먹고, 정려원에게 커피차를? 월클 언니 김연경의 황금 인맥 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65305</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65305</guid>
-            <pubDate>Wed, 06 Apr 2022 19:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/92e6554e-cd14-4151-88ae-0f550cf39104.jpg');">
-                                <a href="/article/65305">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65305">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65305">
-                                        페기 구와 밥을 먹고, 정려원에게 커피차를? 월클 언니 김연경의 황금 인맥                                          </a>
-                                </em>
-                                <p class="excerpt">골드버튼 받은 '식빵 언니'는 인맥도 골~드구나. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/92e6554e-cd14-4151-88ae-0f550cf39104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아카데미 비하인드, 명품 드레스 250벌 거절한 윤여정?! (Feat.이성경 드레스) (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65287</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65287</guid>
-            <pubDate>Wed, 06 Apr 2022 19:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/c2b27419-2fbd-40ce-a9a9-d89434a6f7cf.jpg');">
-                                <a href="/article/65287">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65287">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65287">
-                                        아카데미 비하인드, 명품 드레스 250벌 거절한 윤여정?! (Feat.이성경 드레스)                                    </a>
-                                </em>
-                                <p class="excerpt">'신상' 대신 '소신'을 선택한 윤여정</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/c2b27419-2fbd-40ce-a9a9-d89434a6f7cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드 카펫에 이게 뭐야? 난리난 2022 그래미 레드 카펫 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65276</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65276</guid>
-            <pubDate>Wed, 06 Apr 2022 19:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/7b240dfb-00f6-4bea-b9f7-77b354977620.jpg');">
-                                <a href="/article/65276">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65276">
-                                        How To                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65276">
-                                        레드 카펫에 이게 뭐야? 난리난 2022 그래미 레드 카펫                                     </a>
-                                </em>
-                                <p class="excerpt">런웨이를 방불케하는 팝스타들의 레드카펫 룩! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/7b240dfb-00f6-4bea-b9f7-77b354977620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니 옆에 누구야? 네이버 창업자 아들이라고?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65277</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65277</guid>
-            <pubDate>Wed, 06 Apr 2022 04:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/e6293f04-1808-4508-ad69-4e4f9ca35363.jpg');">
-                                <a href="/article/65277">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/65277">
-                                        Celeb News                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/65277">
-                                        제니 옆에 누구야? 네이버 창업자 아들이라고?!                                     </a>
-                                </em>
-                                <p class="excerpt">블랙핑크와 깊은 인연이 있는 찐 금수저 가수 로렌! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/e6293f04-1808-4508-ad69-4e4f9ca35363.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[섹스도 날씨를 탄다? 거 참, 섹스하기 좋은 계절이네! (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64959</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64959</guid>
+            <pubDate>Mon, 11 Apr 2022 06:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[사계절이 뚜렷한 이 나라, 그만큼 언니들의 섹스 날씨 취향도 다양했다! 그래서 이 계절에 섹스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/002a56a3-340f-4c3b-8658-7cbbf015439b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이렇게 치열할 수가 있나? 역대 초박빙 불꽃 튀는 대선 팩트 체크! (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64648</link>
             <guid>https://www.cosmopolitan.co.kr/article/64648</guid>
             <pubDate>Thu, 31 Mar 2022 07:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/d20ebf24-a2ce-43a7-9a1d-7585ea389c27.jpg');">
-                                <a href="/article/64648">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/64648">
-                                        Politics                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/64648">
-                                        이렇게 치열할 수가 있나? 역대 초박빙 불꽃 튀는 대선 팩트 체크!                                    </a>
-                                </em>
-                                <p class="excerpt">단 0.73%로 승패가 갈렸던 초박빙 대선. 특히나 2030세대의 표심이 이렇게 극명하게 갈린 적은...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[단 0.73%로 승패가 갈렸던 초박빙 대선. 특히나 2030세대의 표심이 이렇게 극명하게 갈린 적은...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/d20ebf24-a2ce-43a7-9a1d-7585ea389c27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -872,27 +540,7 @@
             <link>https://www.cosmopolitan.co.kr/article/64635</link>
             <guid>https://www.cosmopolitan.co.kr/article/64635</guid>
             <pubDate>Thu, 31 Mar 2022 05:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/a8f25a95-0274-4d5e-bf1d-49ab83168ffd.jpg');">
-                                <a href="/article/64635">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/64635">
-                                        Love                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/64635">
-                                        &lt;기상청 사람들&gt;이 매운 맛이라고? 현실은, 드라마 보다 더해!                                    </a>
-                                </em>
-                                <p class="excerpt">&lt;기상청 사람들: 사내연애 잔혹사 편&gt;이 너무 매운 맛이라고? 놀라지 마시라. 현실은 드라마보다...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[&lt;기상청 사람들: 사내연애 잔혹사 편&gt;이 너무 매운 맛이라고? 놀라지 마시라. 현실은 드라마보다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/a8f25a95-0274-4d5e-bf1d-49ab83168ffd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -900,27 +548,7 @@
             <link>https://www.cosmopolitan.co.kr/article/64569</link>
             <guid>https://www.cosmopolitan.co.kr/article/64569</guid>
             <pubDate>Wed, 30 Mar 2022 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/958e011e-dfe0-47c3-8ac9-67fbc9c04aab.jpg');">
-                                <a href="/article/64569">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/64569">
-                                        Love                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/64569">
-                                        너와의 섹스라고 다 좋은 건 아냐! 애인과의 섹스, 좋은데... 이건 싫다?                                    </a>
-                                </em>
-                                <p class="excerpt">눈만 마주치면 스파크가 튀었던 연애 초반이 지나갔다. 사랑은 하지만 섹스는 거부하고 싶을 때...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[눈만 마주치면 스파크가 튀었던 연애 초반이 지나갔다. 사랑은 하지만 섹스는 거부하고 싶을 때...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/958e011e-dfe0-47c3-8ac9-67fbc9c04aab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -928,27 +556,7 @@
             <link>https://www.cosmopolitan.co.kr/article/64476</link>
             <guid>https://www.cosmopolitan.co.kr/article/64476</guid>
             <pubDate>Tue, 29 Mar 2022 09:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f34aea86-c81b-47ac-a7cc-58ecb8ccb783.jpg');">
-                                <a href="/article/64476">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/64476">
-                                        Love                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/64476">
-                                        데이트 앱 하려고? 스와이프 하기 전에 체크하자!                                    </a>
-                                </em>
-                                <p class="excerpt">이 시국에 ‘자만추’는 감히 꿈꾸지도 않고요. 비대면 스와이프를 노려볼까 하는데, 이대로 괜찮...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[이 시국에 ‘자만추’는 감히 꿈꾸지도 않고요. 비대면 스와이프를 노려볼까 하는데, 이대로 괜찮...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f34aea86-c81b-47ac-a7cc-58ecb8ccb783.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -956,27 +564,7 @@
             <link>https://www.cosmopolitan.co.kr/article/64475</link>
             <guid>https://www.cosmopolitan.co.kr/article/64475</guid>
             <pubDate>Fri, 25 Mar 2022 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f1a381ed-808d-4473-b47b-e50f93f73780.jpg');">
-                                <a href="/article/64475">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/64475">
-                                        Love                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/64475">
-                                        쿨한 섹스? 그거 누구한테 좋은 건데?                                     </a>
-                                </em>
-                                <p class="excerpt">쿨한 섹스, 물론 좋지. 근데 누구한테 좋은 건데? </p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[쿨한 섹스, 물론 좋지. 근데 누구한테 좋은 건데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f1a381ed-808d-4473-b47b-e50f93f73780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -984,27 +572,7 @@
             <link>https://www.cosmopolitan.co.kr/article/64442</link>
             <guid>https://www.cosmopolitan.co.kr/article/64442</guid>
             <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/8041bcf1-98f2-4fe7-bb26-b08949241039.jpg');">
-                                <a href="/article/64442">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/64442">
-                                        Love                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/64442">
-                                        널 가져야겠어! &lt;스물다섯, 스물하나&gt; 재질 세기말 커플템                                    </a>
-                                </em>
-                                <p class="excerpt">&lt;스물다섯, 스물하나&gt;에서 네잎클로버 핸드폰줄 보고 놀란 젠지 드루와. Y2K 커플들은 이런 걸 ...</p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[&lt;스물다섯, 스물하나&gt;에서 네잎클로버 핸드폰줄 보고 놀란 젠지 드루와. Y2K 커플들은 이런 걸 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/8041bcf1-98f2-4fe7-bb26-b08949241039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1012,56 +580,8 @@
             <link>https://www.cosmopolitan.co.kr/article/64441</link>
             <guid>https://www.cosmopolitan.co.kr/article/64441</guid>
             <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/25e0fd64-cb8b-4f84-85ee-823a2ae601a3.jpg');">
-                                <a href="/article/64441">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/64441">
-                                        Love                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/64441">
-                                        지금 나랑 자고 싶다는 얘기죠? 으른들의 선섹스 후연애                                      </a>
-                                </em>
-                                <p class="excerpt">진도 빼고 연애 시작? 드라마 속 언니들의 ‘선섹후연’ 이야기. </p>
-                            </div>]]></content:encoded>
+            <content:encoded><![CDATA[진도 빼고 연애 시작? 드라마 속 언니들의 ‘선섹후연’ 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/25e0fd64-cb8b-4f84-85ee-823a2ae601a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#JOB터뷰_야야야 야놀자? 놀지 않고 열일 하는 ‘야놀자 마케터’편 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64317</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64317</guid>
-            <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/1dc1249a-b7ab-4841-b2ac-eb20b99cddcf.jpg');">
-                                <a href="/article/64317">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/64317">
-                                        Society Matters                                    </a>
-                                </span>
-                                <em class="title">
-                                    <a href="/article/64317">
-                                        #JOB터뷰_야야야 야놀자? 놀지 않고 열일 하는 ‘야놀자 마케터’편                                    </a>
-                                </em>
-                                <p class="excerpt">오늘 어디서 일할까? 야놀자, 야야야야야야야야 야놀자!의 마케터를 소개합니다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/1dc1249a-b7ab-4841-b2ac-eb20b99cddcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[착한데 제품력까지? 환경 보호에 앞장서는 뷰티 브랜드 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
