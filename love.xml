@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 21:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 02:39:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#JOB터뷰_매거진 <코스모폴리탄>의 디지털 마케팅 업무를 담당하는 기획팀 ‘김대리’편]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65076</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65076</guid>
+            <pubDate>Tue, 12 Apr 2022 02:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[트렌디함의 대명사, 유행의 최전방에서 근무 중인 매거진 디지털 마케터를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/a164e83d-f099-403d-97b4-22274460ca1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섹스도 날씨를 탄다? 거 참, 섹스하기 좋은 계절이네!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64959</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
             <content:encoded><![CDATA[&lt;스물다섯, 스물하나&gt;에서 네잎클로버 핸드폰줄 보고 놀란 젠지 드루와. Y2K 커플들은 이런 걸 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/8041bcf1-98f2-4fe7-bb26-b08949241039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 나랑 자고 싶다는 얘기죠? 으른들의 선섹스 후연애]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64441</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64441</guid>
-            <pubDate>Wed, 16 Mar 2022 12:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[진도 빼고 연애 시작? 드라마 속 언니들의 ‘선섹후연’ 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/25e0fd64-cb8b-4f84-85ee-823a2ae601a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
