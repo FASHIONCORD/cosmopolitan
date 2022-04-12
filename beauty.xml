@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 02:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 04:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진정성 만렙! 아로마티카의 그리너리한 뷰티 월드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65356</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65356</guid>
+            <pubDate>Tue, 12 Apr 2022 04:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[시류에 편승한 콘셉트가 아닌 환경과 뷰티의 연결 고리를 진정성 있게 찾아가고, 신뢰 가능한 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/4f83b55c-0094-4417-bec9-03598d4dbc8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷰티 크리에이터 소윤이 뮤즈로 참여한 하킷의 플래시 매트 립!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65345</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Apr 2022 03:23:19 GMT</pubDate>
             <content:encoded><![CDATA[이젠 바르기만 해서는 안 된다. 어려운 용어가 난무하지만, 그 어떤 것보다 생활 밀착형의 하이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/308c621f-c61c-478b-92b2-9c90dda54f69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM∙세븐틴∙크래비티∙MCND∙업텐션, 냉미남 헤어 남돌 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65244</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65244</guid>
-            <pubDate>Wed, 06 Apr 2022 20:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[컬러를 모두 빼앗긴 듯한 차가운 무채색 헤어 속에 그들의 미모는 더욱 살아난다. 백발, 은발,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/840f88bb-ae12-4a68-8d88-194dcc18e9b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

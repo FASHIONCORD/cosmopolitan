@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 02:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 04:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자, 이제 누가 꽃이지? 꽃놀이 대신 아이돌 꽃 모먼트로 봄 즐기기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65411</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65411</guid>
+            <pubDate>Tue, 12 Apr 2022 04:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[꽃과 함께 있으면 구분이 쉽지 않다. 꽃인지 사람인지 알 수 없는 이상하고 아름다운 아이돌들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/860cc0f0-786f-49e4-b7f8-e07c8a23ac6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시작부터 학폭 논란? 하이브 첫 걸그룹 르세라핌 멤버 소개!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65409</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Apr 2022 06:20:03 GMT</pubDate>
             <content:encoded><![CDATA[실제론 부끄러움 많이 탄다는 유인수의 TMI 썰을 가득 담아봤습니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/0880c42f-ec74-4afe-a9ff-574bb67a7b72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤여정∙BTS∙이랑의 공통점은? ‘벽’을 허무는 스타들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65317</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65317</guid>
-            <pubDate>Thu, 07 Apr 2022 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[누구도 소외되지 않고, 누구도 불편하지 않은 세상을 위해 물질적 제도적 장벽을 없애는 배리어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/4b783fe7-1632-402c-84d3-451654983cfd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
