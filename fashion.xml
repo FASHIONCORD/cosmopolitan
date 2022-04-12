@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 12:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 18:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 언니 이렇게 힙했다고? <사내맞선> 설인아 사복 패션 탐구!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65410</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65410</guid>
+            <pubDate>Tue, 12 Apr 2022 18:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;사내맞선&gt;은 갔지만 영서는 남았습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/f64c6e62-c4d0-4825-868c-080b9f734e9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지구도 지키고, 사랑도 지켰다! 지구 사랑 꽃이 핀 지속 가능한 꽃의 탄생?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65402</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Apr 2022 03:37:49 GMT</pubDate>
             <content:encoded><![CDATA[어릴 적 부모님에게 받은 사랑을 남자에게 갈구하는 ‘아기녀’부터 아내의 말 한마디에 경기를 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/5c813522-1e59-4e88-9865-946d0c066cd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not for Workout!  이번 봄엔 신상 스니커즈에 주목!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65327</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65327</guid>
-            <pubDate>Sat, 09 Apr 2022 16:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[푸른 하늘 아래 봄기운이 만연한 4월, 옷차림이 가벼워진 만큼 무겁고 투박했던 신발도 벗어 던...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/6a8def45-1340-4160-98d9-8c3e2af137aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
