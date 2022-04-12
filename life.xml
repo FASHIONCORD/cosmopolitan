@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 08:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주연급 톱스타들만 출연 가능하다는 신작 드라마?! (Feat. BTS 지민)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65427</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65427</guid>
+            <pubDate>Tue, 12 Apr 2022 08:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[이병헌, 신민아, 한지민, 김우빈 등 출연, ‘초호화 라인업 블루스’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/6cf6ec9c-0e76-41cb-956b-09e89fe75b3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다가올 여름이 두렵다면? 맛있지만 건강한 포케 찐 맛집 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65425</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Apr 2022 21:16:22 GMT</pubDate>
             <content:encoded><![CDATA[방시혁이 프로듀싱한 첫 걸그룹! 멤버 분석]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/37ae9e2b-7010-4ba1-a959-f18572681c91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 언니 이렇게 힙했다고? <사내맞선> 설인아 사복 패션 탐구!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65410</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65410</guid>
-            <pubDate>Mon, 11 Apr 2022 21:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;사내맞선&gt;은 갔지만 영서는 남았습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/f64c6e62-c4d0-4825-868c-080b9f734e9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
