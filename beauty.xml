@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 15:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 18:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민낯인 척 완전 가능! 스킨케어와 메이크업 그 중간의 신개념 스킨인핸서 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65355</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65355</guid>
+            <pubDate>Wed, 13 Apr 2022 18:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘힝~ 속았지?’ 민낯인 척 쌉가능한 베이스가 있다? 막 발라도 피부에 찰떡인 신상 쿠션 파운...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/f5a34177-d086-4d39-8907-72f337866a79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진정성 만렙! 아로마티카의 그리너리한 뷰티 월드]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65356</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Apr 2022 11:10:15 GMT</pubDate>
             <content:encoded><![CDATA[봄과 오마이걸 그리고 향수 컨셉까지 넘모 갓벽한 조합이자나~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/4d8fdfb8-85f2-4939-bbf5-b926ab3bc0c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이테크 끝판왕! 갓벽한 케어 효과를 지닌 뷰티 디바이스 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65262</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65262</guid>
-            <pubDate>Thu, 07 Apr 2022 03:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[이젠 바르기만 해서는 안 된다. 어려운 용어가 난무하지만, 그 어떤 것보다 생활 밀착형의 하이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/308c621f-c61c-478b-92b2-9c90dda54f69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
