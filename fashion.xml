@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 20:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시작부터 학폭 논란? 하이브 첫 걸그룹 르세라핌 멤버 소개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65409</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65409</guid>
+            <pubDate>Thu, 14 Apr 2022 20:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[방시혁이 프로듀싱한 첫 걸그룹! 멤버 분석]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/37ae9e2b-7010-4ba1-a959-f18572681c91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 언니 이렇게 힙했다고? <사내맞선> 설인아 사복 패션 탐구!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65410</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Apr 2022 03:37:48 GMT</pubDate>
             <content:encoded><![CDATA[푸른 하늘 아래 봄기운이 만연한 4월, 옷차림이 가벼워진 만큼 무겁고 투박했던 신발도 벗어 던...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/b6680823-029d-4cfd-a659-cecf60a5786b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사주로 보는 속궁합? 역술가가 알려주는 숨은 찰떡궁합 찾기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65326</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65326</guid>
-            <pubDate>Mon, 11 Apr 2022 03:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[어릴 적 부모님에게 받은 사랑을 남자에게 갈구하는 ‘아기녀’부터 아내의 말 한마디에 경기를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/5c813522-1e59-4e88-9865-946d0c066cd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
