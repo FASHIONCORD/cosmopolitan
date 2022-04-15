@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 12:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤이 하면 유행이 된다! 모히칸∙솜사탕 헤어 지드래곤의 헤어 변천사]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65496</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65496</guid>
+            <pubDate>Fri, 15 Apr 2022 12:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[지드래곤은 곧 트렌드! 지드래곤이 유행시켰던 그때 그 시절 헤어스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/c8966a9a-df86-4639-9f26-6c986c47be48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비건 소재로 만든 친환경 패션 브랜드가 있다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65493</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Apr 2022 20:12:47 GMT</pubDate>
             <content:encoded><![CDATA[효민 · 정려원 · 제니 · 정호연이 선택한 브랜드별 미니 백팩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/1f688948-d961-4367-8b74-858f92f14632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앞은 부끄러워? 그럼 뒤는 어때? 셀럽들의 과감한 백리스 스타일링!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65455</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65455</guid>
-            <pubDate>Thu, 14 Apr 2022 20:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[리정 · 선미 · 로지 허팅턴 휘틀리 · 줄리아 폭스도 홀릭한 개성 넘치는 섹시백!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/ddfd0877-b602-4342-ac19-6c6fff0db746.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

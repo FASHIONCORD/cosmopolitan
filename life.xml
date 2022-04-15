@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 12:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박나래가 사는 집, 인테리어부터 집들이 메뉴까지 궁금해!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65458</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65458</guid>
+            <pubDate>Fri, 15 Apr 2022 12:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;나혼자산다&gt; 방송 이후 화제가 된 박나래 집들이 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/a1aaeda9-6c09-43fd-b4c5-992f29137e2c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자연에 흔적 남기지 않기, 함께 해요!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65447</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Apr 2022 04:14:10 GMT</pubDate>
             <content:encoded><![CDATA[제2의 박재범, 제2의 원소주 등장 각?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/b51c5a9f-5f7e-4975-ad3b-96485c66ebae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 정도면 탈출은 지능순? 자가격리 없는 해외 여행지 모음 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65423</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65423</guid>
-            <pubDate>Mon, 11 Apr 2022 21:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[떠나요 둘이서!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/f1576f63-1ff5-4357-b6d4-c8d64df717c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
