@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 12:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 10:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 패션브랜드에서 골프 라인까지 런칭했다고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65438</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65438</guid>
+            <pubDate>Sat, 16 Apr 2022 10:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[20~30대 골프 인구가 폭발적으로 늘어나며 골프 흐름이 달라졌다. 글로벌 패션 브랜드에서 골프 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/5d583f6d-bad2-4ca6-9455-72c8150568aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시작부터 학폭 논란? 하이브 첫 걸그룹 르세라핌 멤버 소개!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65409</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Apr 2022 03:37:48 GMT</pubDate>
             <content:encoded><![CDATA[오늘날 여자들이 갖고 싶어 하는 럭셔리 하우스의 아이코닉 백은 어떻게 유명해진 것일까? 그 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/578ee422-5322-49e3-94e9-134d94cd6fd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Classic Make Classic, 클래식 로퍼엔 실패가 없는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65354</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65354</guid>
-            <pubDate>Mon, 11 Apr 2022 03:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[푸른 하늘 아래 봄기운이 만연한 4월, 옷차림이 가벼워진 만큼 무겁고 투박했던 신발도 벗어 던...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/b6680823-029d-4cfd-a659-cecf60a5786b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

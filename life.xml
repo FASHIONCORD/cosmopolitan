@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 12:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 10:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥스트 오징어게임? 칸에 초대된 K-드라마들! 좋좋소∙술도녀∙괴이]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65497</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65497</guid>
+            <pubDate>Sat, 16 Apr 2022 10:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[‘국뽕’ 장착 완료! 칸 국제 시리즈 페스티벌에 초청된 자랑스러운 K-드라마들~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/bf594e75-c7f7-40ac-8221-22d94001e272.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박나래가 사는 집, 인테리어부터 집들이 메뉴까지 궁금해!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65458</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Apr 2022 04:14:10 GMT</pubDate>
             <content:encoded><![CDATA[벚꽃의 꽃말은 다이어트였던가~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8d586efa-0d98-42cc-9fc1-af595c17bf46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG와 결별한 빅뱅 탑, 아르헨티나 포토밭 소유자답게 와인 사업가로 변신한다?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65424</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65424</guid>
-            <pubDate>Tue, 12 Apr 2022 04:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[제2의 박재범, 제2의 원소주 등장 각?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/b51c5a9f-5f7e-4975-ad3b-96485c66ebae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
