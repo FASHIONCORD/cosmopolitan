@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 21:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 04:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자꾸만 킁컁킁컁~ 향수보다 더 좋은 살 냄새 바디로션 추천!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65416</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65416</guid>
+            <pubDate>Mon, 18 Apr 2022 04:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[무조건 뒤돌아보게 만드는 향기 갑 오브 갑 바디 로션?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/d09a70d3-001a-4b85-893f-8772be269859.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여움 자동 수납되는 여돌들의 리본 비주얼?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65408</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65408</guid>
+            <pubDate>Mon, 18 Apr 2022 04:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[크고 작은 레트로 감성의 리본들이 여돌들을 만나면 끝 모를 귀여움이 시작된다. 일상, 대기실,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/c05ba72b-891a-407a-8d17-4d306342ce2f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찰랑찰랑~ 헤어 자신감 오늘부터 스따뜨해줄 헤어 브러시 추천]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65392</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 08 Apr 2022 20:14:12 GMT</pubDate>
             <content:encoded><![CDATA[어디서도 들을 수 없었던, 뷰티 전문가들의 찐 오브 찐 알짜배기 뷰티 조언!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/96a43777-b344-46b9-b3f4-54410fbf8201.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티 탑티어 MCN에서 크리에이터와 함께 최초로 선보이는 메이크업 컬렉션은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65288</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65288</guid>
-            <pubDate>Fri, 08 Apr 2022 04:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[컬렉션 중 신상 립스틱의 경우 밀착력, 발림성, 발색감 삼 박자를 모두 갖췄다는데!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/5f63592f-d3ae-46cf-bb93-db84312f0275.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eyes On Me! 메이크업 필수 코스가된 컬러 렌즈 트렌드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65285</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65285</guid>
-            <pubDate>Fri, 08 Apr 2022 04:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[컬러 렌즈를 안 끼면 벌거벗은 거나 마찬가지! 메이크업 필수 코스가 된 컬러 렌즈 트렌드의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/58f1863c-02c7-4109-a0ea-c5b485f37395.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
