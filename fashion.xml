@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 21:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 15:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지속가능한 소재를 활용한 패션브랜드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65538</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65538</guid>
+            <pubDate>Tue, 19 Apr 2022 15:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 지구를 지속 가능하게 하리라는 다짐을 지속 가능하게 만드는 착한 에코 브랜드들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/16/f4cb938d-a693-4472-a334-8e3d12fb0c47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 배우 200% 뜬다! <우리들의 블루스>의 노윤서의 사복패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65515</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65515</guid>
+            <pubDate>Tue, 19 Apr 2022 15:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[여우상의 매력적인 외모에 패션 센스는 덤!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/01f82972-61fe-436c-9445-1b7ca194b3e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럭셔리 패션 하우스들도 동참하는 지속가능한 패션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65464</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Apr 2022 18:12:15 GMT</pubDate>
             <content:encoded><![CDATA[&lt;사내맞선&gt;은 갔지만 영서는 남았습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/f64c6e62-c4d0-4825-868c-080b9f734e9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구도 지키고, 사랑도 지켰다! 지구 사랑 꽃이 핀 지속 가능한 꽃의 탄생?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65402</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65402</guid>
-            <pubDate>Tue, 12 Apr 2022 12:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 지구를 지속 가능하게 하리라는 다짐을 지속 가능하게 만드는 착한 에코 브랜드들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/e8a1aa3c-172a-4a2f-a234-f9fa182873f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레깅스를 활용한 다양한 스타일링!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65403</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65403</guid>
-            <pubDate>Tue, 12 Apr 2022 12:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[한 여자가 일상의 여러 순간을 룰루레몬의 얼라인 팬츠와 함께했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/9aa90bb9-918d-49e1-b27b-fed02e3786db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
