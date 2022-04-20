@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 19:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 15:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효리 언니의 띵언 체크인]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65601</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65601</guid>
+            <pubDate>Wed, 20 Apr 2022 15:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[효리 언니가 전하는 마음 찡한 위로 한마디! 이효리 띵언 체크인]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/8c97c6b0-2479-4ff6-aebf-0f77415ba0bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2NE1이 완전체로 등장? 2022 코첼라 페스티벌 핫이슈]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65599</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65599</guid>
+            <pubDate>Wed, 20 Apr 2022 15:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[2NE1, 에픽하이, 그리고 티모시 샬라메]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/e42538d8-71c8-4b68-b79f-ba3e5688f8fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 최초 반려견 시네마 만든 메가박스∙멍스킨라빈스∙멍미노피자도 입점?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65574</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 18 Apr 2022 16:18:34 GMT</pubDate>
             <content:encoded><![CDATA[요즘 애들은 셀카 찍을 때 ‘브이’ 이렇게 한대]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/0f43a581-ce4c-4c3a-a1a5-b405a4e1e62c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식물에 진심이라면!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65556</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65556</guid>
-            <pubDate>Mon, 18 Apr 2022 16:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[식물을 직관할 수 있는 식물삼대장 스팟 3]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/93d5731e-f3c5-425d-95fc-50cfaa9f1862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속가능한 소재를 활용한 패션브랜드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65538</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65538</guid>
-            <pubDate>Mon, 18 Apr 2022 16:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 지구를 지속 가능하게 하리라는 다짐을 지속 가능하게 만드는 착한 에코 브랜드들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/16/f4cb938d-a693-4472-a334-8e3d12fb0c47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
