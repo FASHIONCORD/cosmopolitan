@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 10:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단(BTS), 드디어 컴백? 날짜는 6월 10일로 확정이라는데!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65629</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65629</guid>
+            <pubDate>Thu, 21 Apr 2022 10:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[약 11개월 만에 이들이 돌아왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/63712673-2b33-4279-b9c8-70a5cd90c6df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어! 배우 윤계상, 논픽션 브랜드 대표와 6월 9일 웨딩마치를 올린다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65625</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Apr 2022 03:58:16 GMT</pubDate>
             <content:encoded><![CDATA[캐주얼한 니트 베스트 레이어드 키워드는 바로 반팔티!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/76883487-6d24-4f21-9127-b8c0a71fe5f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니ㆍ김채원 등이 홀릭하는 언더붑 패션! 이제 한국에서도 유행각?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65603</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65603</guid>
-            <pubDate>Thu, 21 Apr 2022 03:58:16 GMT</pubDate>
-            <content:encoded><![CDATA[외국 언니들을 이어 제니, 한예슬 그리고 르세라핌 김채원까지 스타들의 언더붑 사랑!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/da63e270-7982-4e50-9442-cb1cd44ca6e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

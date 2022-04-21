@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 10:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<놀면 뭐하니?>의 새로운 프로젝트, WSG 워너비는 누구?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65605</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65605</guid>
+            <pubDate>Thu, 21 Apr 2022 10:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[다시 시작된 ‘놀면 뭐하니’의 프로젝트, WSG 워너비. ‘美친귀’ 유팔봉이 찾아낸 인재는 누구...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/7ebf6807-98a5-4ee3-acd4-3143e623ba75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[효리 언니의 띵언 체크인]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65601</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 15:11:32 GMT</pubDate>
             <content:encoded><![CDATA[라떼는 전시 보러 비행기타고 뉴욕이나 런던으로 날라갔었다. 하지만 지금은? 오히려 서울 전시...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/37aa005a-8231-414b-a9bf-31e5c7cd9967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘갸루 피스’라고 들어봤어? 아이브, 에스파, 엔믹스가 요즘 미는 포즈!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65557</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65557</guid>
-            <pubDate>Mon, 18 Apr 2022 16:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 애들은 셀카 찍을 때 ‘브이’ 이렇게 한대]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/0f43a581-ce4c-4c3a-a1a5-b405a4e1e62c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
