@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 11:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 12:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소속사도 못한 일을 참리더 CL이 해냈다고?! 2NE1의 완전체 무대 대.공.개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65611</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65611</guid>
+            <pubDate>Fri, 22 Apr 2022 12:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[해체 후, 6년 4개월 만에 완전체 무대라는데!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/e232b923-d581-41e8-9ed5-f7f9f9d58c41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<놀면 뭐하니?>의 새로운 프로젝트, WSG 워너비는 누구?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65605</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 15:11:32 GMT</pubDate>
             <content:encoded><![CDATA[&lt;유퀴즈&gt; 보이콧에 폐지론까지 이게 무슨 일]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/eeb6c3bf-ed7d-485c-b6bf-99b9d46fd5be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나랑 전시 보러 가지 않을래?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65566</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65566</guid>
-            <pubDate>Tue, 19 Apr 2022 15:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[라떼는 전시 보러 비행기타고 뉴욕이나 런던으로 날라갔었다. 하지만 지금은? 오히려 서울 전시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/37aa005a-8231-414b-a9bf-31e5c7cd9967.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
