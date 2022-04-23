@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 09:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 10:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리에이터라면 NFT에 도전하는 거 국룰 아닌가요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65615</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65615</guid>
+            <pubDate>Sat, 23 Apr 2022 10:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[액티비전 블리자드부터 EA, 소니까지, 내로라하는 레전드 게임사를 두루 경험한 게임 캐릭터 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/9346ef17-99ba-43f4-9a94-6d6315d9ac4e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소속사도 못한 일을 참리더 CL이 해냈다고?! 2NE1의 완전체 무대 대.공.개]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65611</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 15:11:32 GMT</pubDate>
             <content:encoded><![CDATA[무릇 MZ세대라면 NFT 마저도 평범하면 안 된다고요~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/294404b6-0c2e-47e4-a795-5bc0001199ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 이 <유퀴즈>에 나온다고? 그런데 다들 왜 그래?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65570</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65570</guid>
-            <pubDate>Tue, 19 Apr 2022 15:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;유퀴즈&gt; 보이콧에 폐지론까지 이게 무슨 일]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/eeb6c3bf-ed7d-485c-b6bf-99b9d46fd5be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
