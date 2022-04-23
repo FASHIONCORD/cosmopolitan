@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민니∙해찬∙선미 등 치명 열매 백만 개 먹은 듯! 매력적인 삼백안을 가진 아이돌 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65652</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65652</guid>
+            <pubDate>Sat, 23 Apr 2022 11:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[내 눈을 바라봐~ 넌 빠질 수밖에 없고~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/e289fd9d-1683-4baa-87b5-af3cdd309ab8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷔와 강동원∙정호연과 혜리∙비와 김재욱, 의외의 절친 스타들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65644</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Apr 2022 03:58:16 GMT</pubDate>
             <content:encoded><![CDATA[애플 CEO ‘팀 쿡’이 세븐틴을 언급한 이유?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/36ac8619-30d3-4aba-9a41-743c761e3cb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<놀면 뭐하니?>의 새로운 프로젝트, WSG 워너비는 누구?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65605</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65605</guid>
-            <pubDate>Thu, 21 Apr 2022 03:58:16 GMT</pubDate>
-            <content:encoded><![CDATA[다시 시작된 ‘놀면 뭐하니’의 프로젝트, WSG 워너비. ‘美친귀’ 유팔봉이 찾아낸 인재는 누구...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/7ebf6807-98a5-4ee3-acd4-3143e623ba75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
