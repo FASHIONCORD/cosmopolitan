@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 03:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 04:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민니∙해찬∙선미 등 치명 열매 백만 개 먹은 듯! 매력적인 삼백안을 가진 아이돌 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65652</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65652</guid>
+            <pubDate>Mon, 25 Apr 2022 04:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[내 눈을 바라봐~ 넌 빠질 수밖에 없고~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/e289fd9d-1683-4baa-87b5-af3cdd309ab8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹고 싶은 것 다 먹으면서 살을 뺀다고? 5:2 다이어트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65641</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Apr 2022 04:18:22 GMT</pubDate>
             <content:encoded><![CDATA[무조건 뒤돌아보게 만드는 향기 갑 오브 갑 바디 로션?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/d09a70d3-001a-4b85-893f-8772be269859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여움 자동 수납되는 여돌들의 리본 비주얼?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65408</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65408</guid>
-            <pubDate>Mon, 18 Apr 2022 04:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[크고 작은 레트로 감성의 리본들이 여돌들을 만나면 끝 모를 귀여움이 시작된다. 일상, 대기실,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/c05ba72b-891a-407a-8d17-4d306342ce2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
