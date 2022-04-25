@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 00:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 02:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹고 싶은 것 다 먹으면서 살을 뺀다고? 5:2 다이어트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65641</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65641</guid>
+            <pubDate>Mon, 25 Apr 2022 02:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[간헐적 단식이지만 조금 더 하기 쉽다던데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/3c658568-f664-4bba-a376-00f05c4a6b3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이게 바로 도자기 피부? 역대급 리즈 피부 만들어줄 워시 오프 마스크 2]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65567</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Apr 2022 04:18:22 GMT</pubDate>
             <content:encoded><![CDATA[크고 작은 레트로 감성의 리본들이 여돌들을 만나면 끝 모를 귀여움이 시작된다. 일상, 대기실,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/c05ba72b-891a-407a-8d17-4d306342ce2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰랑찰랑~ 헤어 자신감 오늘부터 스따뜨해줄 헤어 브러시 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65392</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65392</guid>
-            <pubDate>Thu, 14 Apr 2022 02:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[머릿결의 가장 기본은 빗질! 본투비 푸석한 악건성 머리카락부터 이생망 곱슬·반곱슬 헤어 모두 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/bbfea0dc-cd65-4166-a90f-d7e2c9a1f690.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
