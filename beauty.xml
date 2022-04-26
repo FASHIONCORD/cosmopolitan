@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 00:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 03:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야자수 헤어∙베지터 헤어∙반삭까지! 벌칙 수행인가 싶은 산다라박의 헤어 스타일 변천사]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65656</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65656</guid>
+            <pubDate>Tue, 26 Apr 2022 02:59:26 GMT</pubDate>
+            <content:encoded><![CDATA[느슨했던 걸그룹 판에 팽팽한 긴장감을 주는 산다라박의 헤어 스타일!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/af8d4ee5-cf5c-4b7c-8f83-de4b62994b47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민니∙해찬∙선미 등 치명 열매 백만 개 먹은 듯! 매력적인 삼백안을 가진 아이돌 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65652</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Apr 2022 15:16:53 GMT</pubDate>
             <content:encoded><![CDATA[인생은 박막례처럼 파워 당당하게!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/298bde9c-b643-42c6-96fe-c3cbd8f6e399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자꾸만 킁컁킁컁~ 향수보다 더 좋은 살 냄새 바디로션 추천!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65416</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65416</guid>
-            <pubDate>Mon, 18 Apr 2022 04:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[무조건 뒤돌아보게 만드는 향기 갑 오브 갑 바디 로션?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/d09a70d3-001a-4b85-893f-8772be269859.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
