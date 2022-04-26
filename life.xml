@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 09:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 10:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남산 한옥마을 야경 오픈! 밤이 더 아름다운 서울 한옥 스테이 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65761</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65761</guid>
+            <pubDate>Tue, 26 Apr 2022 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[멀리 갈 필요 없음. 낭만이 솔솔 흘러들어 오는 한옥의 밤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/1485a37f-ad5a-40c4-9a6b-498aa9ad67b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핑크캔 속 반전 맥주 '핸드앤몰트'와 크리에이티브한 크리에이터들의 힙한 만남?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65752</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Apr 2022 05:18:11 GMT</pubDate>
             <content:encoded><![CDATA[서울대입구역과 낙성대역 근처에 이런 디저트 카페가 있었나?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/49e214bc-a1a1-4e69-8051-9112d94d3d54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 조합 무슨 일이야! 임윤아∙이준호가 다시 만난다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65685</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65685</guid>
-            <pubDate>Mon, 25 Apr 2022 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 가요대제전즈의 반가운 재회!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/a2a02da3-a6e6-4ad5-890b-63e74812479c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
