@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날도 풀렸겠다! 차박하기 딱 좋은 자동차 베스트 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65805</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65805</guid>
+            <pubDate>Thu, 28 Apr 2022 07:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[어디든 세우면 힐링 포인트, 캠핑하기 딱 좋은 차박 자동차 모음zip.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/76abd939-7560-4e03-b6af-d6d8f8aa7132.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음 놓고 즐기자! New 뮤직 페스티벌]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65772</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Apr 2022 05:18:11 GMT</pubDate>
             <content:encoded><![CDATA[이 참에 청와대도 보고, 맛집도 가고 기승전결 완벽한 편!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/df44c9ca-f62f-4e8d-adba-0d2509df535b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작으니까 더 좋아, 서울 독립 공간 전시 추천 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65743</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65743</guid>
-            <pubDate>Mon, 25 Apr 2022 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[자고로 봄에는 전시를 보라고 했지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/749645f6-5763-40dc-96f9-82cee7b4f4a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
