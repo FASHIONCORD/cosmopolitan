@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 10:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 11:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리 연기 선생이었다고? '우리 은희' 이정은의 특별한 과거]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65892</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65892</guid>
+            <pubDate>Thu, 28 Apr 2022 11:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;우리들의 블루스&gt;로 국민언니 등극! 배우 이정은과 특별한 인연들을 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/30a68fff-0360-4f1a-8b35-b9ca0bec8744.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[36kg이나 감량한 김신영! 10년째 45kg를 유지할 수 있던 그녀의 특급 비결은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65861</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Apr 2022 07:14:24 GMT</pubDate>
             <content:encoded><![CDATA[다이어트 극약처방이 필요할 땐 이들의 먹방을 보자]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/346fd071-5539-4ac6-871f-53c5f9e586b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기은세ㆍ전소민ㆍ표예진ㆍ손나은이 선택한 올여름 핫 백은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65817</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65817</guid>
-            <pubDate>Tue, 26 Apr 2022 10:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[가벼워지는 날씨처럼 백도 가볍게! 니팅 백을 든 셀럽 모음 zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/38c31836-39e8-4685-9dc1-b37ba8788853.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
