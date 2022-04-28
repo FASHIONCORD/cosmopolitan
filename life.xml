@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음 놓고 즐기자! New 뮤직 페스티벌]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65772</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65772</guid>
+            <pubDate>Thu, 28 Apr 2022 04:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[이게 꿈이야, 진짜야! 더 풍성해진 2022 뮤직 페스티벌 라인업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/dbc884c3-fa6f-422a-a099-ee02f1bd7d9b.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[커플이라면 주목! 오붓하게 데이트 즐기기 좋은 작은 시네마 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65762</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65762</guid>
+            <pubDate>Thu, 28 Apr 2022 04:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[파티, 귀르가즘, 예술, 스카이룸 취향대로 골라보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/ad0ce007-4620-4750-86d8-015c9d7bb1e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남산 한옥마을 야경 오픈! 밤이 더 아름다운 서울 한옥 스테이 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65761</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 25 Apr 2022 05:18:11 GMT</pubDate>
             <content:encoded><![CDATA[자고로 봄에는 전시를 보라고 했지]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/749645f6-5763-40dc-96f9-82cee7b4f4a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우리들의 블루스>의 노윤서♥배현성, 실제로도 찐으로 친하다는데? 이 둘 케미 머선129...]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65735</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65735</guid>
-            <pubDate>Mon, 25 Apr 2022 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[연애세포 자극하는 청춘 로코 재질의 쏘스윗한 모먼트 대.공.개]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/23/d65fa3f8-f259-43d2-9403-bc53ffef3fc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙성대역 디저트 투어 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65728</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65728</guid>
-            <pubDate>Mon, 25 Apr 2022 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[서울대입구역과 낙성대역 근처에 이런 디저트 카페가 있었나?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/49e214bc-a1a1-4e69-8051-9112d94d3d54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유가 미혼모 역? 첫 상업 영화로 칸 영화제 진출한다는 배우 이지은]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65827</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65827</guid>
+            <pubDate>Thu, 28 Apr 2022 04:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[기대작 of 기대작 &lt;브로커&gt;는 어떤 영화?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/6401926d-0d14-4b17-9ece-41cfbd7ae49e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙해지고 싶다면 이렇게! 셀럽들의 '힙스터 V' 셀피 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65826</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Apr 2022 08:16:08 GMT</pubDate>
             <content:encoded><![CDATA[“배우인 줄..?” 한층 더 깊어진 분위기인 노제, 이채연]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/3b3c2d0b-b6cc-48f3-a029-bbdf20375b3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안산과 핫펠트, 왜 전장연을 후원하냐고 물으신다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65793</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65793</guid>
-            <pubDate>Tue, 26 Apr 2022 08:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[장애인이 불편을 감수하지 않는 세상을 바란다는 게, '논란'이 되고 '해명'할 일일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/21bda784-f9f1-4e38-a82e-f50f8647f037.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
