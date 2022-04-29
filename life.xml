@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 08:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김밥 말고 후토마키! 커서 더 맛있는 후토마키 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65894</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65894</guid>
+            <pubDate>Fri, 29 Apr 2022 09:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘줄 서는 맛집’에도 나온 그 후토마키. 입 안에 우주가 들어오는 든든한 한 끼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/263be7de-0d89-40ba-aa93-4735852b807a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[면도의 새로운 혁신, 브라운]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65850</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Apr 2022 10:18:43 GMT</pubDate>
             <content:encoded><![CDATA[멀리 갈 필요 없음. 낭만이 솔솔 흘러들어 오는 한옥의 밤.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/1485a37f-ad5a-40c4-9a6b-498aa9ad67b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핑크캔 속 반전 맥주 '핸드앤몰트'와 크리에이티브한 크리에이터들의 힙한 만남?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65752</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65752</guid>
-            <pubDate>Tue, 26 Apr 2022 08:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이터들이 핸드앤몰트 Y블랙IPL을 마시며 얻은 영감의 원천은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/5645134f-1d48-4383-b320-fde8bcf6154a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
