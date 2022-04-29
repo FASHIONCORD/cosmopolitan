@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 09:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 10:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 슈즈 트렌드는 ‘데님’?! 아.묻.따 소장해야 할 데님 슈즈 룩]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65927</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65927</guid>
+            <pubDate>Fri, 29 Apr 2022 10:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[컬렉션에 등장한 여러 데님슈즈 엿보기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/36117211-b2f2-4f2e-a694-e6fd385c9c44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이홉∙코드쿤스트∙해찬∙마크∙주우재가 픽한 셋업 스타일링 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65923</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Apr 2022 07:09:03 GMT</pubDate>
             <content:encoded><![CDATA[HIP 빼고 논할 수 없어ㅠ♡]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/72dae22d-4887-40b2-9161-6a566845ee6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따스한 햇살 가득 LA 무드 ‘하우스 오브 써니’를 사랑한 셀럽 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65768</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65768</guid>
-            <pubDate>Tue, 26 Apr 2022 07:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[해가 쨍쨍한 날 입으면 더할 나위 없이 HIP!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/fc12bc03-ef48-4665-bf9d-7f42f79d5b88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

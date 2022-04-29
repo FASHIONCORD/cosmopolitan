@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 09:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 10:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈약한 두피와 모발 고민 순삭! 효과 갑 오브 갑, 믿쓰 탈모 샴푸는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65765</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65765</guid>
+            <pubDate>Fri, 29 Apr 2022 10:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[남녀노소 생길 수 있는 탈모에 대한 고민을 샴푸 하나로 완벽하게 해결할 수 있다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/40251537-c976-42b8-925d-b7ac8c87ac2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술살부터 묵은 군살까지 완벽 이별할 수 있는 ‘항아리 몸매’ 정은지의 다이어트가 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65756</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 24 Apr 2022 10:12:56 GMT</pubDate>
             <content:encoded><![CDATA[단 5분 만에 즉각적으로 쫀쫀해진 모공과 밝아진 안색, 진정 효과를 경험할 수 있다고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/2cc915d1-e71d-4188-96ce-58095f95552c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아! 눈부셔~. ‘인간 카멜레온’ 태연이 찜콩한 컬러로 완성하는 봄 헤어 스타일링 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65558</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65558</guid>
-            <pubDate>Thu, 21 Apr 2022 03:58:06 GMT</pubDate>
-            <content:encoded><![CDATA[염색 장인 태연이 나가신다! 길을 비켜라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/5cec3a9d-eebd-45af-a379-a082771432a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
