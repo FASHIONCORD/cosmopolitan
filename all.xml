@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 06:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 07:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTNfMTAw/MDAxNjQ5ODIzNDQwODU0.YyEqzCvreEZDyax7HGU35SVGrFTmyEd-HtEo250F37gg.117bIR_7zPKRXhnolKtmiEd3vX56ldvwPY92AWLDuDQg.JPEG/IZhR_xOZk8et4uVAUVorRg16o9FA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[JW앤더슨∙로에베∙리바이스 x 애니메이션 컬래버가 궁금하다면? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65816</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65816</guid>
+            <pubDate>Fri, 29 Apr 2022 07:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[만화 캐릭터와 패션 브랜드가 만나는 게 유행? 손민수 각, 브랜드 아이템!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/39a3ba15-9de2-4e75-b6d0-8a6dbce7541b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나연∙조이∙태연∙김나영이 강추하는 산뜻한 파스텔 컬러 스타일링 TIP (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65812</link>
             <guid>https://www.cosmopolitan.co.kr/article/65812</guid>
@@ -222,14 +230,6 @@
             <pubDate>Tue, 26 Apr 2022 04:33:01 GMT</pubDate>
             <content:encoded><![CDATA[언제까지 걸치기만 할래!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/61714c5d-ac2d-4bb3-b857-0fbb9d4d9342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 제니의 코첼라 페스티벌 사복 패션은? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65754</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65754</guid>
-            <pubDate>Mon, 25 Apr 2022 06:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[힙한 사람들 다모인 코첼라 속 그녀들의 사복 패션이 궁금해]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/f7e620ab-a174-44fb-8c07-311a67a32844.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술살부터 묵은 군살까지 완벽 이별할 수 있는 ‘항아리 몸매’ 정은지의 다이어트가 궁금하다면? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f34aea86-c81b-47ac-a7cc-58ecb8ccb783.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[면도의 새로운 혁신, 브라운 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65850</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65850</guid>
+            <pubDate>Fri, 29 Apr 2022 07:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[토닥토닥! 수고한 나 자신을 위한 특별한 선물, 깔끔하고 스타일리시한 아침을 선사해줄 브라운 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/23108278-868b-4c14-b1fe-82a55426fb05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GD•RM•설현 등 셀럽도 인증하기 바쁘다는 요즘 핫한 전시 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65828</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65828</guid>
+            <pubDate>Thu, 28 Apr 2022 07:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[힙한 포토스폿이 필요해? 셀럽이 인스타그램에 인증한 갤러리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/5a603c8d-8934-4ac2-9b4d-f82ef1e58776.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보기만 해도 식욕이 뚝뚝 떨어져, 밥도 맛없게 먹는 소식좌 먹방 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65818</link>
             <guid>https://www.cosmopolitan.co.kr/article/65818</guid>
@@ -470,22 +486,6 @@
             <pubDate>Tue, 26 Apr 2022 08:16:57 GMT</pubDate>
             <content:encoded><![CDATA[크리에이터들이 핸드앤몰트 Y블랙IPL을 마시며 얻은 영감의 원천은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/5645134f-1d48-4383-b320-fde8bcf6154a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄산수랑 레몬만 있으면 ‘캬~’ 제철 만난 발렌타인 위스키 하이볼 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65750</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65750</guid>
-            <pubDate>Tue, 26 Apr 2022 03:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[‘2022’ 코퀄어워즈’가 선정한 올해의 위스키, ‘발렌타인 7년 버번 피니시’와 ‘발렌타인 파이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/c56da1c3-324f-41e0-8981-e8a466fc5772.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맨날 가던 곳은 지겨워, 이젠 새로운 게 필요하다고! 행궁동 핫플 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65745</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65745</guid>
-            <pubDate>Mon, 25 Apr 2022 12:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[데이트하기 딱 좋은 날씨네~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/27/b92da0fc-2dcf-42a1-935e-571016e42729.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
