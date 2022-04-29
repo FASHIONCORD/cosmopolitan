@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 12:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 13:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청소년_진짜_진짜_관람불가_<365일: 오늘> 19금 좌표]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65942</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65942</guid>
+            <pubDate>Fri, 29 Apr 2022 13:37:27 GMT</pubDate>
+            <content:encoded><![CDATA[더 화끈한 속편으로 돌아온 &lt;365일&gt; 이번 주말 정주행 각!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/a6cd9be3-3f66-4ed8-b379-e5723a60b41c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가볍게 떠나기 좋은 서울 근교 남양주 속 찐 감성숙소 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65900</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Apr 2022 04:09:28 GMT</pubDate>
             <content:encoded><![CDATA[이게 꿈이야, 진짜야! 더 풍성해진 2022 뮤직 페스티벌 라인업.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/dbc884c3-fa6f-422a-a099-ee02f1bd7d9b.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[커플이라면 주목! 오붓하게 데이트 즐기기 좋은 작은 시네마 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65762</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65762</guid>
-            <pubDate>Thu, 28 Apr 2022 04:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[파티, 귀르가즘, 예술, 스카이룸 취향대로 골라보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/ad0ce007-4620-4750-86d8-015c9d7bb1e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
