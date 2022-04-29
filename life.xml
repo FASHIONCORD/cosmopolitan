@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 00:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보기만 해도 식욕이 뚝뚝 떨어져, 밥도 맛없게 먹는 소식좌 먹방 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65818</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65818</guid>
+            <pubDate>Fri, 29 Apr 2022 03:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트 극약처방이 필요할 땐 이들의 먹방을 보자]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/346fd071-5539-4ac6-871f-53c5f9e586b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[날도 풀렸겠다! 차박하기 딱 좋은 자동차 베스트 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65805</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Apr 2022 12:21:19 GMT</pubDate>
             <content:encoded><![CDATA[데이트하기 딱 좋은 날씨네~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/27/b92da0fc-2dcf-42a1-935e-571016e42729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청와대가 곧 개방된다고? 그럼 내가 또 안 갈 수 없지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65744</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65744</guid>
-            <pubDate>Mon, 25 Apr 2022 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[이 참에 청와대도 보고, 맛집도 가고 기승전결 완벽한 편!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/df44c9ca-f62f-4e8d-adba-0d2509df535b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
