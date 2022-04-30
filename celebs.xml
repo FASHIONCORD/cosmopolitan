@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 08:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새롭게 허리를 드러내는 법, 크롭 리본 톱 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65992</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65992</guid>
+            <pubDate>Sat, 30 Apr 2022 08:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[있지의 유나, 마마무 솔라, 제시는 이미 입었다구~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/511d2d95-9a85-4b92-8999-4509ae1e322b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마, 이게 찐 연예계다... <별똥별> 캐릭터에 제대로 과몰입한 6명 배우들의 찐 케미 폭로전?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65985</link>
@@ -61,14 +69,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/65906</guid>
             <pubDate>Fri, 29 Apr 2022 10:11:30 GMT</pubDate>
             <content:encoded><![CDATA[두 사람의 달달구리 모먼트에 치이겠네~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/7ef845a4-99d0-42e0-a9a3-d3a71a689c11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니부터 켄달 제너까지, 뮤직 페스티벌엔 브레이드 헤어를!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65905</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65905</guid>
-            <pubDate>Fri, 29 Apr 2022 10:11:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/a4e44dbe-9bf9-4a74-b7b2-7b7eb9b2cb20.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/093af180-5688-4ba2-8905-62519c1db677.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
