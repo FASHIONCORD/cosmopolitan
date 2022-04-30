@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 10:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 12:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,6 +425,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/958e011e-dfe0-47c3-8ac9-67fbc9c04aab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스파, 코첼라에서 미공개 신곡 최.초.공.개?! K팝 파워 입증한 에스파의 코첼라 일상은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65978</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65978</guid>
+            <pubDate>Sat, 30 Apr 2022 07:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[마, 이게 K팝의 위력이다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/803c1c1e-cfaf-4fcb-9997-1616b2408575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나에게 선물하는 시간, 다니엘 웰링턴 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65591</link>
             <guid>https://www.cosmopolitan.co.kr/article/65591</guid>
@@ -479,14 +487,6 @@
             <pubDate>Thu, 28 Apr 2022 07:09:55 GMT</pubDate>
             <content:encoded><![CDATA[힙한 포토스폿이 필요해? 셀럽이 인스타그램에 인증한 갤러리!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/5a603c8d-8934-4ac2-9b4d-f82ef1e58776.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기만 해도 식욕이 뚝뚝 떨어져, 밥도 맛없게 먹는 소식좌 먹방 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65818</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65818</guid>
-            <pubDate>Wed, 27 Apr 2022 07:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 극약처방이 필요할 땐 이들의 먹방을 보자]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/346fd071-5539-4ac6-871f-53c5f9e586b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
