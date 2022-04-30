@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 05:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 06:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미 벌써 쏘 핫! 국내 신규 디자이너 브랜드 추천 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65959</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65959</guid>
+            <pubDate>Sat, 30 Apr 2022 06:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[Saltypebble, Teket, Cerric 파헤치기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/f46510ec-cec5-4ef4-8793-b1dfa8280f44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나에게 선물하는 시간, 다니엘 웰링턴]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65591</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65591</guid>
+            <pubDate>Sat, 30 Apr 2022 06:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[내가 나에게 선물하고 싶은 내돈내산 아이템! 나의 일상을 지켜줄 다니엘 웰링턴 워치 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/8678120d-c3fd-49b2-ab1b-f1de17df2c47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 슈즈 트렌드는 ‘데님’?! 아.묻.따 소장해야 할 데님 슈즈 룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65927</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 28 Apr 2022 13:32:17 GMT</pubDate>
             <content:encoded><![CDATA[봄 데이트 룩은 역시 파스텔 컬러지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/2d205e06-a64b-49f3-9a6b-220b340e9e03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사계절 중 딱 ‘지금’ 입을 수 있는! 하프슬리브 니트 톱 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65790</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65790</guid>
-            <pubDate>Thu, 28 Apr 2022 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[니트 소재 반팔 톱이라니, 짜릿해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/27/e37bc45c-ee14-49a3-8d03-b047ac6bb7cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성장인 헤이즈의 힙max 사복 패션 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65789</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65789</guid>
-            <pubDate>Thu, 28 Apr 2022 07:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[HIP 빼고 논할 수 없어ㅠ♡]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/72dae22d-4887-40b2-9161-6a566845ee6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
