@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 09:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 10:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 <종이의 집> 한국판으로 돌아올 전종서!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65994</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65994</guid>
+            <pubDate>Sat, 30 Apr 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[숨겨진 패셔니스타]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/6cace5f1-cce1-4c67-ad72-9ebf8578c9dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새롭게 허리를 드러내는 법, 크롭 리본 톱 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65992</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Apr 2022 10:10:31 GMT</pubDate>
             <content:encoded><![CDATA[컬렉션에 등장한 여러 데님슈즈 엿보기!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/36117211-b2f2-4f2e-a694-e6fd385c9c44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉∙코드쿤스트∙해찬∙마크∙주우재가 픽한 셋업 스타일링 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65923</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65923</guid>
-            <pubDate>Fri, 29 Apr 2022 09:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[진정한 패션 고수들은 세트로&nbsp;입는다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/e21e258e-d694-4f92-b7b2-654a479b9cb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
