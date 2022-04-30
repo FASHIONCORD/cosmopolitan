@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 14:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 15:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전소미ㆍ올리비아로드리고 등 올 여름 핫걸 각,  셀럽들의 크롭 연출법!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65997</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65997</guid>
+            <pubDate>Sat, 30 Apr 2022 15:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[여름이 왔으니 복근 준비는 필수~. 마마무 솔라부터 전소미, 있지 유나, 리아, 올리비아로드리고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/2eb0584c-150d-4a6e-8f09-425ad1cd3904.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 <종이의 집> 한국판으로 돌아올 전종서!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65994</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 30 Apr 2022 06:12:32 GMT</pubDate>
             <content:encoded><![CDATA[내가 나에게 선물하고 싶은 내돈내산 아이템! 나의 일상을 지켜줄 다니엘 웰링턴 워치 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/8678120d-c3fd-49b2-ab1b-f1de17df2c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 슈즈 트렌드는 ‘데님’?! 아.묻.따 소장해야 할 데님 슈즈 룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65927</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65927</guid>
-            <pubDate>Fri, 29 Apr 2022 10:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[컬렉션에 등장한 여러 데님슈즈 엿보기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/36117211-b2f2-4f2e-a694-e6fd385c9c44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
