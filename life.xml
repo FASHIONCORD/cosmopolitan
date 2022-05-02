@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 13:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 14:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단 하나의 디바이스로 끝내는 LG 프라엘 인텐시브 멀티케어]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65854</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65854</guid>
+            <pubDate>Mon, 02 May 2022 14:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[짧은 케어 시간으로 매일 꾸준하게 사용할 수 있는 셀프 홈케어템, LG 프라엘 인텐시브 멀티케...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/85404006-5f2a-47bc-a6c1-26170ad9172b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 아는 그 G7이 비건 와인이라고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65941</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 30 Apr 2022 12:17:39 GMT</pubDate>
             <content:encoded><![CDATA[마, 이게 K팝의 위력이다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/803c1c1e-cfaf-4fcb-9997-1616b2408575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나에게 선물하는 시간, 다니엘 웰링턴]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65591</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65591</guid>
-            <pubDate>Sat, 30 Apr 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[내가 나에게 선물하고 싶은 내돈내산 아이템! 나의 일상을 지켜줄 다니엘 웰링턴 워치 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/8678120d-c3fd-49b2-ab1b-f1de17df2c47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
