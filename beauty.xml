@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 햇살처럼 눈부신 5월의 뷰티 신상 22]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66016</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66016</guid>
+            <pubDate>Mon, 02 May 2022 07:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[봄 햇살처럼 눈부신 5월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/72082216-69f6-4090-aada-1a8bd722d009.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비주얼 극락! 배우 신민아가 찐으로 애정하는 페이버릿 뷰티 원픽은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66007</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66007</guid>
+            <pubDate>Mon, 02 May 2022 07:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[여기가 바로 비주얼 극락! 배우 신민아가 찐으로 애정하는 페이버릿 뷰티 원픽은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/753df447-90c3-4422-9cec-95c307821a88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주근깨? 오히려 좋아! 주근깨도 킹랑스러운 김민하∙김나영∙정호연]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65983</link>
@@ -53,22 +69,6 @@
             <pubDate>Fri, 29 Apr 2022 10:10:48 GMT</pubDate>
             <content:encoded><![CDATA[남녀노소 생길 수 있는 탈모에 대한 고민을 샴푸 하나로 완벽하게 해결할 수 있다?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/40251537-c976-42b8-925d-b7ac8c87ac2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술살부터 묵은 군살까지 완벽 이별할 수 있는 ‘항아리 몸매’ 정은지의 다이어트가 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65756</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65756</guid>
-            <pubDate>Thu, 28 Apr 2022 08:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[돌던 입맛도 싹쓰리 해 줄 핫 보디 정은지의 비결!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/6a775293-9a8f-4860-b8be-6495ec2187b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우리들의 블루스' 신민아가 촬영장에서 빼놓지 않고 꼭 바른다는 뷰티템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65741</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65741</guid>
-            <pubDate>Thu, 28 Apr 2022 07:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[화보 장인인 그녀가 막 찍어도 인생샷 건질 수 있는 꿀TIP까지 모두 스포합니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/24/45f54697-bf30-41fa-b2b9-83285ab4499b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
