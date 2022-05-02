@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 09:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 10:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 아는 그 G7이 비건 와인이라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65941</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65941</guid>
+            <pubDate>Mon, 02 May 2022 10:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘2022’ 코퀄어워즈’가 선정한 국민 와인, G7이 엄격하고 까다롭기로 이름난 유럽 비건 인증 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/b7caec13-7a27-46bd-9823-af74ac012338.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퇴사 얘기 없는 신상 에세이 추천]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66002</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 30 Apr 2022 09:11:27 GMT</pubDate>
             <content:encoded><![CDATA[내가 나에게 선물하고 싶은 내돈내산 아이템! 나의 일상을 지켜줄 다니엘 웰링턴 워치 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/8678120d-c3fd-49b2-ab1b-f1de17df2c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포켓몬스터가 한남동에 뜬다?! 핫한 브랜드가 큐레이팅하고 협업한 핫플 좌표]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65957</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65957</guid>
-            <pubDate>Sat, 30 Apr 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[지금 안 가면 후회할걸!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/c181f56d-f688-4400-be82-a98188d77bbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
