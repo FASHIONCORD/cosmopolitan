@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 16:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 17:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이들 민니∙한소희 등 MZ세대들의 힙 백, 발렌시아가 르카골백]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65999</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65999</guid>
+            <pubDate>Mon, 02 May 2022 17:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대들에게 핫한 힙 백. 바로 발렌시아가의 ‘르카골백’! 아이들 민니부터 한소희 국내 셀럽...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/19971e40-4d5c-411d-9c09-60ea67e913f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사ㆍ미노이ㆍ이주명 등 힙스터들의 핫템, 오벌 선글라스]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65998</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 30 Apr 2022 07:13:41 GMT</pubDate>
             <content:encoded><![CDATA[마, 이게 K팝의 위력이다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/803c1c1e-cfaf-4fcb-9997-1616b2408575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조이∙김나영∙효민∙효연의 선글라스 스타일링 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65977</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65977</guid>
-            <pubDate>Sat, 30 Apr 2022 07:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[그녀들의 힙하디 힙한 선글라스 스타일링!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/7dd9b68d-9711-45f8-87b3-e4bcfb9a5be5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
