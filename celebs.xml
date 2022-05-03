@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 10:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 12:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골린이들 주목! 골프웨어 스타일링 강자 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66093</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66093</guid>
+            <pubDate>Tue, 03 May 2022 12:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[필드 나가기 딱 좋은 날씨다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/b909a2e7-9c72-4db1-bb56-cd6b257ae83f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[격하게 놀러 가고 싶은 봄! 아이돌 나들이 함께 하실래요?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66069</link>
@@ -37,7 +45,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/66047</guid>
             <pubDate>Tue, 03 May 2022 09:13:42 GMT</pubDate>
             <content:encoded><![CDATA[너의 춤을 표현해 여기 REELS에서!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/8bd65f76-73cf-489e-a5a9-c261277d3988.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/8bd65f76-73cf-489e-a5a9-c261277d3988.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['인간 디올' 남주혁이 랜선 소개하는 디올 2022 가을 컬렉션 쇼 현장은?]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 03 May 2022 03:04:35 GMT</pubDate>
             <content:encoded><![CDATA[대만 국민 배우 서희원과 결혼하는 구준엽의 사복 패션 화제!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/531490ec-eca1-4e62-a46e-95d3ad37ae3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니∙아이들 전소연 등 핫걸들의 셔츠 힙하게 입는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66000</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66000</guid>
-            <pubDate>Tue, 03 May 2022 03:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[클래식한 셔츠도 힙하게 연출할 수 있다?! 요즘 대세는 셔츠로 믹스앤매치하기~. 블랙핑크 제니부...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/5d13322a-776c-416b-b3a8-c0612121643f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
