@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 03:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 05:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈 2.5배 커 보인다는 아이돌 아이 메이크업 비법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66023</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66023</guid>
+            <pubDate>Tue, 03 May 2022 05:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[트와이스, 있지, 에스파가 절대 포기 못하는 이것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/f39cb91b-dd52-4406-a0ae-c09b36b1b7dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구준표? 구준엽입니다~ '54살' 구준엽의 힙한 사복 패션!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66021</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 30 Apr 2022 08:18:04 GMT</pubDate>
             <content:encoded><![CDATA[있지의 유나, 마마무 솔라, 제시는 이미 입었다구~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/511d2d95-9a85-4b92-8999-4509ae1e322b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마, 이게 찐 연예계다... <별똥별> 캐릭터에 제대로 과몰입한 6명 배우들의 찐 케미 폭로전?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65985</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65985</guid>
-            <pubDate>Sat, 30 Apr 2022 07:13:41 GMT</pubDate>
-            <content:encoded><![CDATA['찐찐찐' 케미 폭발함 주의!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/444d655c-9ae9-4338-9e3b-c12e1f372023.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
