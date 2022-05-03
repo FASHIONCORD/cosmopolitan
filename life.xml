@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘부처님 오신 날’ 맞이는 핑계고, 그냥 내가 먹고 싶어서! 서울 비건 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66040</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66040</guid>
+            <pubDate>Tue, 03 May 2022 08:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[여름 맞이 다이어트도 핑계야 정말 맛있어서 모아왔다고~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/4fb1bcad-9644-42fa-968e-042e016bd4b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름은 뮤지컬의 계절 이랄까, 예매 각 뮤지컬 추천 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66038</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 09:15:56 GMT</pubDate>
             <content:encoded><![CDATA[아기의 심장 소리를 듣고, 낙태 대신 출산을 결심한다? &lt;우리들의 블루스&gt; 속 10대 임신 에피소...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/791abea6-6f55-443c-b9fc-c18eb78b8182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마, 이게 찐 연예계다... <별똥별> 캐릭터에 제대로 과몰입한 6명 배우들의 찐 케미 폭로전?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65985</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65985</guid>
-            <pubDate>Mon, 02 May 2022 03:24:23 GMT</pubDate>
-            <content:encoded><![CDATA['찐찐찐' 케미 폭발함 주의!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/444d655c-9ae9-4338-9e3b-c12e1f372023.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

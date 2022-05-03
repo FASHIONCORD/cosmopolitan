@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인간 디올' 남주혁이 랜선 소개하는 디올 2022 가을 컬렉션 쇼 현장은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66043</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66043</guid>
+            <pubDate>Tue, 03 May 2022 08:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[디올과 파트너십을 체결한 이화여자대학교에서 개최됐다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/c83aebcd-f6d5-4d28-889f-9c04169c7cac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구준표? 구준엽입니다~ '54살' 구준엽의 힙한 사복 패션!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66021</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 03:21:02 GMT</pubDate>
             <content:encoded><![CDATA[MZ세대들에게 핫한 힙 백. 바로 발렌시아가의 ‘르카골백’! 아이들 민니부터 한소희 국내 셀럽...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/19971e40-4d5c-411d-9c09-60ea67e913f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사ㆍ미노이ㆍ이주명 등 힙스터들의 핫템, 오벌 선글라스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65998</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65998</guid>
-            <pubDate>Mon, 02 May 2022 03:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[물안경? NO! 힙스터 핫템? YES! 미노이부터 스물다섯스물하나 이주명, 악동뮤지션 이찬혁, 블랙...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/b25321a2-0000-4b8e-86fc-ed95acc7c618.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
