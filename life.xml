@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 15:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 16:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어버이날 꽃선물, 모두 해결해줄게!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66102</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66102</guid>
+            <pubDate>Tue, 03 May 2022 16:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[꽃집 언니가 알려주는 어버이날 선물하기 딱 좋은 꽃 선물 리스트.  .]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/3cb17ab7-67a0-4c5a-8f59-f22cad075b74.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셔누∙아린∙주학년∙엑시, 아이돌들의 공포 영화 도전 <서울괴담>]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66064</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 16:17:40 GMT</pubDate>
             <content:encoded><![CDATA[5월에 뭐해? 나랑 그림 보러 부산 가지 않을래?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/20a04452-58aa-425d-9aca-98eb265d3c8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단 하나의 디바이스로 끝내는 LG 프라엘 인텐시브 멀티케어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65854</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65854</guid>
-            <pubDate>Mon, 02 May 2022 14:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 케어 시간으로 매일 꾸준하게 사용할 수 있는 셀프 홈케어템, LG 프라엘 인텐시브 멀티케...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/85404006-5f2a-47bc-a6c1-26170ad9172b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

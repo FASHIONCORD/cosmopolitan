@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 15:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 16:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지방시 뷰티의 프리즘 리브르가 선사하는 궁극적인 빛의 예술!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66052</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66052</guid>
+            <pubDate>Tue, 03 May 2022 16:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[지방시 뷰티의 프리즘 리브르가 선사하는 궁극적인 빛의 예술.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/b3fce63b-fd08-4a4b-aa6b-27d4e5cc3ae4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모 픽! 부모님이 1000% 만족할 어버이날 맞춤 선물 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66036</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 07:11:53 GMT</pubDate>
             <content:encoded><![CDATA[여기가 바로 비주얼 극락! 배우 신민아가 찐으로 애정하는 페이버릿 뷰티 원픽은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/753df447-90c3-4422-9cec-95c307821a88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주근깨? 오히려 좋아! 주근깨도 킹랑스러운 김민하∙김나영∙정호연]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65983</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65983</guid>
-            <pubDate>Mon, 02 May 2022 04:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[주근깨 가리기, 멈춰!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/5b948fa4-20c1-4c3b-9bb9-550db2cfba71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
