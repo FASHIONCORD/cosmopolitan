@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 09:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 10:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,10 +431,18 @@ K팝 파워 입증한 에스파의 코첼라 일상은? (네이버 포스트 ─
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/958e011e-dfe0-47c3-8ac9-67fbc9c04aab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년 간식 트렌드는 바로 이거? 돌아온 포켓몬빵부터 아우프글렛 케이크까지! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66050</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66050</guid>
+            <pubDate>Tue, 03 May 2022 10:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 다들 뭐 좋아해? MZ세대 3000명의 설문조사를 바탕으로 한 ‘취향 갑’ 라이프스타일 시상...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/acb9bd06-9e3b-4b6a-a7d5-b150d45668cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['본업 천재' 몬스타엑스 주헌이 작정하고 섹시한 요즘 춤을 춘다면?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66047</link>
             <guid>https://www.cosmopolitan.co.kr/article/66047</guid>
-            <pubDate>Tue, 03 May 2022 09:14:04 GMT</pubDate>
+            <pubDate>Tue, 03 May 2022 09:13:42 GMT</pubDate>
             <content:encoded><![CDATA[너의 춤을 표현해 여기 REELS에서!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/8bd65f76-73cf-489e-a5a9-c261277d3988.jpg" length="0" type="image/jpg"/>
         </item>
@@ -485,14 +493,6 @@ K팝 파워 입증한 에스파의 코첼라 일상은? (네이버 포스트 ─
             <pubDate>Mon, 02 May 2022 10:17:44 GMT</pubDate>
             <content:encoded><![CDATA[‘2022’ 코퀄어워즈’가 선정한 국민 와인, G7이 엄격하고 까다롭기로 이름난 유럽 비건 인증 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/b7caec13-7a27-46bd-9823-af74ac012338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴사 얘기 없는 신상 에세이 추천 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66002</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66002</guid>
-            <pubDate>Mon, 02 May 2022 09:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[‘아무튼’과 ‘어쨌든’을 남발하는 ‘감성’ 에세이에 질렸다면 여기에 누우세요. 택배 기사, 드...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/c268ad1a-47bf-4cd1-9e9e-ac59547b0e83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
