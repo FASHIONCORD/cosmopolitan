@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 00:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름은 뮤지컬의 계절 이랄까, 예매 각 뮤지컬 추천 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66038</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66038</guid>
+            <pubDate>Tue, 03 May 2022 03:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[이래서 덕 중 덕은 뮤덕 이라고 하던 거였나,,,]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/5568d3a5-b31d-446d-b34c-6abccb77830b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작년 RM∙쌈디도 다녀온 그곳! 아트 부산 2022]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66037</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 03:24:23 GMT</pubDate>
             <content:encoded><![CDATA['찐찐찐' 케미 폭발함 주의!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/444d655c-9ae9-4338-9e3b-c12e1f372023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남친 생각 안 나는 드라이브 메이트 르노 XM3!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65984</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65984</guid>
-            <pubDate>Mon, 02 May 2022 03:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[세단과 SUV의 장점을 꼼꼼히 챙긴 XM3가 유니크&amp;프리미엄 스타일의 ‘INSPIRE’ 트림을 추가...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/7a0d16b6-a630-43ba-a985-5c0469249244.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
