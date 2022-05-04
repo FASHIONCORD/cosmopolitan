@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 04:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 05:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100주년 어린이날! 아이와 조카 손잡고 꼭 가야 한다는 곳은? (feat. 레고랜드)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66109</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66109</guid>
+            <pubDate>Wed, 04 May 2022 05:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[‘저장 각’이라는 어린이날 이벤트 Best5]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/27f2005a-e8d4-4e45-860b-7679b4153727.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어버이날 꽃선물, 모두 해결해줄게!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66102</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 03 May 2022 03:06:54 GMT</pubDate>
             <content:encoded><![CDATA[이래서 덕 중 덕은 뮤덕 이라고 하던 거였나,,,]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/5568d3a5-b31d-446d-b34c-6abccb77830b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 RM∙쌈디도 다녀온 그곳! 아트 부산 2022]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66037</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66037</guid>
-            <pubDate>Mon, 02 May 2022 16:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[5월에 뭐해? 나랑 그림 보러 부산 가지 않을래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/20a04452-58aa-425d-9aca-98eb265d3c8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

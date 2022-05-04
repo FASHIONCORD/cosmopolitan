@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 04:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 05:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머리에 톡 얹으면 고급美 뿜뿜하는 명품 브랜드 ‘헤어핀’ 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66095</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66095</guid>
+            <pubDate>Wed, 04 May 2022 05:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[한 달 알바비로 플렉스할 방법!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/1449c7d3-5cc8-4d2c-93af-951ef5818806.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골린이들 주목! 골프웨어 스타일링 강자 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66093</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 16:15:03 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/4df072a0-e23e-4724-8bc4-72e349d914e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌치 코트, 이렇게 입어 보아요!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66001</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66001</guid>
-            <pubDate>Mon, 02 May 2022 10:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[트렌치 코트 다채롭게 즐기는 4가지 방법을 영상으로 만나보자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/22c6547e-fc6e-441f-a406-7edd0f23bb61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
