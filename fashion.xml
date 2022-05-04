@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 01:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 03:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골린이들 주목! 골프웨어 스타일링 강자 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66093</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66093</guid>
+            <pubDate>Wed, 04 May 2022 02:58:24 GMT</pubDate>
+            <content:encoded><![CDATA[필드 나가기 딱 좋은 날씨다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/b909a2e7-9c72-4db1-bb56-cd6b257ae83f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코덕들이 열광할 이달의 뷰티 소식(feat. 딥티크 가로수길, 유포리아 메이크업)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66049</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66049</guid>
+            <pubDate>Wed, 04 May 2022 02:58:24 GMT</pubDate>
+            <content:encoded><![CDATA[딥티크 아카이브 제품을 카테고리별로 둘러볼 수 있는 공간이 오픈했다. 부티크만의 익스클루시브...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/cbea2a89-4330-4cd6-b984-599fb9629cb9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인간 디올' 남주혁이 랜선 소개하는 디올 2022 가을 컬렉션 쇼 현장은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66043</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 02 May 2022 10:12:40 GMT</pubDate>
             <content:encoded><![CDATA[트렌치 코트 다채롭게 즐기는 4가지 방법을 영상으로 만나보자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/22c6547e-fc6e-441f-a406-7edd0f23bb61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니∙아이들 전소연 등 핫걸들의 셔츠 힙하게 입는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66000</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66000</guid>
-            <pubDate>Mon, 02 May 2022 03:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[클래식한 셔츠도 힙하게 연출할 수 있다?! 요즘 대세는 셔츠로 믹스앤매치하기~. 블랙핑크 제니부...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/5d13322a-776c-416b-b3a8-c0612121643f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이들 민니∙한소희 등 MZ세대들의 힙 백, 발렌시아가 르카골백]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65999</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65999</guid>
-            <pubDate>Mon, 02 May 2022 03:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대들에게 핫한 힙 백. 바로 발렌시아가의 ‘르카골백’! 아이들 민니부터 한소희 국내 셀럽...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/30/19971e40-4d5c-411d-9c09-60ea67e913f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
