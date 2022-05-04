@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 12:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 13:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구를 위한 착한 식품은? 저스트 에그와 더플랜잇이 책임진다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66113</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66113</guid>
+            <pubDate>Wed, 04 May 2022 13:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 다들 뭐 좋아해? MZ세대 3000명의 설문조사를 바탕으로 한 ‘취향 갑’ 라이프스타일 시상...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/37728cde-e594-4814-9fbb-ac022d78403a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['꾸꾸까까'의 창시자, 애교 원TOP 몬스타엑스 주헌이 작정하고 귀여운 척을 한다면?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66112</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 03 May 2022 10:20:17 GMT</pubDate>
             <content:encoded><![CDATA[요즘 다들 뭐 좋아해? MZ세대 3000명의 설문조사를 바탕으로 한 ‘취향 갑’ 라이프스타일 시상...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/acb9bd06-9e3b-4b6a-a7d5-b150d45668cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['본업 천재' 몬스타엑스 주헌이 작정하고 섹시한 요즘 춤을 춘다면?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66047</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66047</guid>
-            <pubDate>Tue, 03 May 2022 09:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[너의 춤을 표현해 여기 REELS에서!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/8bd65f76-73cf-489e-a5a9-c261277d3988.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
