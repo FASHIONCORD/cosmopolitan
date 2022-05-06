@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 14:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 15:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현아의 어깨∙모니카의 팔, 가족애 넘치는 타투]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66108</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66108</guid>
+            <pubDate>Fri, 06 May 2022 15:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[타투 하면 엄마가 등짝 때릴 거야? 의미를 알면 엄마도 어쩔 수 없을 걸?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/d4b53b4c-b8c4-4087-a03a-f5d5c0282ec4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛나는 피부를 만들어 줄 샤넬 뷰티의 글로우 듀오!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65881</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 03 May 2022 03:51:45 GMT</pubDate>
             <content:encoded><![CDATA[결점 없이 탱탱하게 차오른 피부를 위해선 거뭇거뭇한 피부의 색소 침착과 잡티 흔적, 축축 늘...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/7d6a2de0-9991-43bf-9b46-439f0b5a2035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단 하나의 디바이스로 끝내는 LG 프라엘 인텐시브 멀티케어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65854</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65854</guid>
-            <pubDate>Tue, 03 May 2022 03:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 케어 시간으로 매일 꾸준하게 사용할 수 있는 셀프 홈케어템, LG 프라엘 인텐시브 멀티케...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/85404006-5f2a-47bc-a6c1-26170ad9172b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
