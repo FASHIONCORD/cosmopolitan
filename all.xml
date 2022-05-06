@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 04:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -309,6 +309,14 @@ K팝 파워 입증한 에스파의 코첼라 일상은? (네이버 포스트 ─
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/85404006-5f2a-47bc-a6c1-26170ad9172b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[진심말고 뭐가 더 필요해? 멋지다 이 가족! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66144</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66144</guid>
+            <pubDate>Fri, 06 May 2022 05:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[조금만 달라도 따가운 시선이 넘쳐나는 이 사회에서 모두에게 용기를 심어줬던 셀럽들. 멋지다, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/3457e1ad-25aa-4ab9-9348-3d6c1fb3bc69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보는 것만으로도 부러운 호주 한 달 살기 효민의 호주 속 패션이 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66124</link>
             <guid>https://www.cosmopolitan.co.kr/article/66124</guid>
@@ -363,14 +371,6 @@ K팝 파워 입증한 에스파의 코첼라 일상은? (네이버 포스트 ─
             <pubDate>Wed, 04 May 2022 02:59:14 GMT</pubDate>
             <content:encoded><![CDATA[한 달 알바비로 플렉스할 방법!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/1449c7d3-5cc8-4d2c-93af-951ef5818806.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골린이들 주목! 골프웨어 스타일링 강자 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66093</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66093</guid>
-            <pubDate>Tue, 03 May 2022 12:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[필드 나가기 딱 좋은 날씨다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/b909a2e7-9c72-4db1-bb56-cd6b257ae83f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현빈♥손예진 웨딩 D-DAY! 최초 공개된 세기의 커플, 선남선녀의 웨딩 화보는? (코스모폴리탄 코리아 ─ 러브)]]></title>
