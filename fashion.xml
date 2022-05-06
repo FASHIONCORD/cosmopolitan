@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 02:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데일리 아이템 중 하나인 데님패션! 셀럽들의 다양한 연출법이 궁금하다면?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66134</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66134</guid>
+            <pubDate>Fri, 06 May 2022 03:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[데일리 아이템 중 하나인 데님이 Y2K 스타일의 인기 덕분에 파워 업! 발 빠른 셀렙들의 스타일...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/a54e99c0-c366-4116-91fc-2e09b6aef5f1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보는 것만으로도 부러운 호주 한 달 살기 효민의 호주 속 패션이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66124</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 04 May 2022 02:58:24 GMT</pubDate>
             <content:encoded><![CDATA[딥티크 아카이브 제품을 카테고리별로 둘러볼 수 있는 공간이 오픈했다. 부티크만의 익스클루시브...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/cbea2a89-4330-4cd6-b984-599fb9629cb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인간 디올' 남주혁이 랜선 소개하는 디올 2022 가을 컬렉션 쇼 현장은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66043</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66043</guid>
-            <pubDate>Tue, 03 May 2022 08:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[디올과 파트너십을 체결한 이화여자대학교에서 개최됐다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/c83aebcd-f6d5-4d28-889f-9c04169c7cac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
