@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 15:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 16:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 가족도 있어, 같이 볼래?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66147</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66147</guid>
+            <pubDate>Sat, 07 May 2022 16:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[피가 섞여야만, 구청 가서 도장 땅땅! 찍어야만 가족이라고 누가 그랬던가. 같이 밥 먹고, 같은...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/cb711e22-7718-4bc2-ab16-6cf32e2ccec8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진심말고 뭐가 더 필요해? 멋지다 이 가족!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66144</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 04 May 2022 02:59:14 GMT</pubDate>
             <content:encoded><![CDATA[힙하다, 힙해!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/4425184f-648e-44ce-a5aa-de90e949265e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리에 톡 얹으면 고급美 뿜뿜하는 명품 브랜드 ‘헤어핀’ 스타일링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66095</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66095</guid>
-            <pubDate>Wed, 04 May 2022 02:59:14 GMT</pubDate>
-            <content:encoded><![CDATA[한 달 알바비로 플렉스할 방법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/1449c7d3-5cc8-4d2c-93af-951ef5818806.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
