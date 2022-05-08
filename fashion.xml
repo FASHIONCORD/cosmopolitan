@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 16:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 17:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인앤아웃 필수템, 집순이와 캠핑족들을 모두 만족시키는 아이템이 있다고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66175</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66175</guid>
+            <pubDate>Sun, 08 May 2022 17:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 다들 뭐 좋아해? MZ세대 3000명의 설문조사를 바탕으로 한 ‘취향 갑’ 라이프스타일 시상...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/f929ab61-f232-46bb-940f-5f205d220ce4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아름다움에 끝이 있다면 여기가 아닐까? 광활한 워치&주얼리 아이템 리스트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66168</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 04 May 2022 15:11:32 GMT</pubDate>
             <content:encoded><![CDATA[힙하다, 힙해!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/4425184f-648e-44ce-a5aa-de90e949265e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리에 톡 얹으면 고급美 뿜뿜하는 명품 브랜드 ‘헤어핀’ 스타일링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66095</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66095</guid>
-            <pubDate>Wed, 04 May 2022 05:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[한 달 알바비로 플렉스할 방법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/1449c7d3-5cc8-4d2c-93af-951ef5818806.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
