@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 05:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 06:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이생망 피부의 소유자라면 주목! 무더운 여름을 대비한 든든한 스킨케어 솔루션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66209</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66209</guid>
+            <pubDate>Mon, 09 May 2022 06:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[사시사철 건조해? 겉과 속이 다른 이중인격 피부? 기름 좔좔 산유국? 내 피부, 이번 생은 망...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/07/c9946f4a-24fa-4510-8498-1eb32bdd52f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자차, 어디까지 써 봤니? 자외선 차단제에 대한 모든 것!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66091</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 04 May 2022 15:11:42 GMT</pubDate>
             <content:encoded><![CDATA[어버이날 최고의 선물이 되어줄 안티에이징 주름 세럼! 아이오페 레티놀 엑스퍼트 0.1%]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/e5aadcbd-217a-43b6-85c5-0cf75ab0fb95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름에 찰떡! 아이유·김세정·최유정·카리나의 ‘이 헤어’가 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66059</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66059</guid>
-            <pubDate>Wed, 04 May 2022 09:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[현재 유지 중인 헤어가 질린다면 지금이 바로 색다른 뉴 헤어로 환승할 타이밍!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/d7e1fc6a-87a6-4a81-a041-9c5bd91d8137.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
