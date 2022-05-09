@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 08:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 09:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입덕하고 싶은 향기란 이런 것! 매력적인 스토리를 가진 뉴 퍼퓸 리스트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66229</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66229</guid>
+            <pubDate>Mon, 09 May 2022 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 계절에는 새로운 향을! 매력적인 스토리를 가진 뉴 퍼퓸 브랜드부터 봄을 더욱 풍성하게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/15e8bb0a-75b0-470f-bdbb-1a73b0bbb0bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발효 스킨케어의 정수! 자극 제로 순딩이 발효 K-뷰티템은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66220</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66220</guid>
+            <pubDate>Mon, 09 May 2022 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[오랜 기다림 끝에 완성된 발효 스킨케어의 정수! 쓸수록 제품의 진가를 경험할 수 있는 원오세...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/23d5bab3-99ab-4648-86a1-ed2464d3d379.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이생망 피부의 소유자라면 주목! 무더운 여름을 대비한 든든한 스킨케어 솔루션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66209</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 06 May 2022 15:14:32 GMT</pubDate>
             <content:encoded><![CDATA[타투 하면 엄마가 등짝 때릴 거야? 의미를 알면 엄마도 어쩔 수 없을 걸?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/d4b53b4c-b8c4-4087-a03a-f5d5c0282ec4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 피부를 만들어 줄 샤넬 뷰티의 글로우 듀오!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65881</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65881</guid>
-            <pubDate>Thu, 05 May 2022 16:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[촉촉하게 마무리되는 ‘레 베쥬 젤 쿠션’, 피부에 이슬이 맺힌 듯한 하이라이팅 밤 ‘바움 에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/8d158924-5203-4652-825d-da89a95e5d98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고기능성 안티에이징 세럼, 아이오페 레티놀 엑스퍼트 0.1%]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65911</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65911</guid>
-            <pubDate>Wed, 04 May 2022 15:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[어버이날 최고의 선물이 되어줄 안티에이징 주름 세럼! 아이오페 레티놀 엑스퍼트 0.1%]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/e5aadcbd-217a-43b6-85c5-0cf75ab0fb95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
