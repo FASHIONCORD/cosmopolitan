@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 06:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 07:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이젠 손톱 모양에 변화를 줘야 할 때! 내가 도전하고 싶은 네일 쉐입은 어떤 것?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66267</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66267</guid>
+            <pubDate>Tue, 10 May 2022 07:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[손톱 모양이 이렇게 다양하다고? 뾰족 뾰족한 스틸레토 쉐입부터 네모난 스퀘어 쉐입까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/baec1a47-884a-4baa-bbc4-875775583584.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그룹 아닌 솔로로도 차트 상위권 점령! 미연∙려욱∙문별의 솔로 출격]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66261</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 09 May 2022 06:15:30 GMT</pubDate>
             <content:encoded><![CDATA[지수, 김연아, 수지까지 셀럽들의 디올 룩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/3b0ff579-1ead-4c8e-88bd-715eb66a0471.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스 주헌이 인스타그램 릴스 1주년을 기념해 작사한 음원 최.초.공.개?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66164</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66164</guid>
-            <pubDate>Mon, 09 May 2022 04:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[너의 음악을 표현해 여기 REELS에서!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/ad56c720-7229-4c1c-b600-5cf9a0ed48c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
