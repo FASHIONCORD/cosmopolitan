@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 08:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 09:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤∙아이린∙김아현∙차정원∙김고은도 선택한 2022 가장 핫한 샤넬 22백!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66279</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66279</guid>
+            <pubDate>Tue, 10 May 2022 09:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[지드래곤이 700만원짜리 가방에 자수를 새겨 넣었다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/9a7b43a7-0b61-408f-b7c9-6c99eb504439.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남윤수∙김민규∙채종협, 요새 뜨는 男배우들의 공통점?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66269</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 09 May 2022 06:15:30 GMT</pubDate>
             <content:encoded><![CDATA[이번 ‘클라리피끄 버추얼 팝업 스토어’에서는 피부 과학 기술을 선도해온 랑콤의 아이덴티티와 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/87e7cbbd-9206-4a46-af0a-cac01c01fb0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주얼리 브랜드, 디아모모의 CD이자 뮤즈인 고소영만의 주얼리 스토리텔링 최초 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66219</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66219</guid>
-            <pubDate>Mon, 09 May 2022 06:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고소영의 또 다른 변신! 주얼리 브랜드의 크리에이티브 디렉터이자 뮤즈로 활동하는 그녀를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/2177e308-1a3c-4cea-90bb-ae46839b457a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
