@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 12:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 13:44:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,6 +249,14 @@ K팝 파워 입증한 에스파의 코첼라 일상은? (네이버 포스트 ─
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/f929ab61-f232-46bb-940f-5f205d220ce4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이? 아니 우리는 어른이! 어른이날을 맞아 스스로에게 셀프 선물 어때? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66242</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66242</guid>
+            <pubDate>Tue, 10 May 2022 02:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[저는 이제 뭐든 살 수 있는 어른이라구요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/319590d4-bfe8-4a5c-8e1f-6d20407c68fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[맑고 투명한 피부를 찾을 수 있는 랑콤 ‘클라리피끄 버추얼 팝업 스토어’ 오픈! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66165</link>
             <guid>https://www.cosmopolitan.co.kr/article/66165</guid>
@@ -303,14 +311,6 @@ K팝 파워 입증한 에스파의 코첼라 일상은? (네이버 포스트 ─
             <pubDate>Sun, 08 May 2022 20:13:13 GMT</pubDate>
             <content:encoded><![CDATA[노폐물을 제거하고 칼로리 소모를 높여준다는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/394e274e-e9c6-41c7-8cf5-e941fa08cf5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yummy Yummy! 유니크한 디자인의 요즘 이너 뷰티템 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66115</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66115</guid>
-            <pubDate>Sat, 07 May 2022 17:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[먹을 때도 갬성 뿜뿜! 유니크한 디자인의 요즘 이너 뷰티템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/8ff8b724-3477-4554-aad6-1e8b035094b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지드래곤∙아이린∙김아현∙차정원∙김고은도 선택한 2022 가장 핫한 샤넬 22백! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
