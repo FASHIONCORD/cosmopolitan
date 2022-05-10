@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남윤수∙김민규∙채종협, 요새 뜨는 男배우들의 공통점?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66269</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66269</guid>
+            <pubDate>Tue, 10 May 2022 08:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[요새 뜨는 남자 배우들의 공통점? ‘볼.콕’을 부르는 명품 보조개를 가졌다는 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/db562b6d-e0ae-406a-b121-943a9ed0fbbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이젠 손톱 모양에 변화를 줘야 할 때! 내가 도전하고 싶은 네일 쉐입은 어떤 것?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66267</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 09 May 2022 06:15:30 GMT</pubDate>
             <content:encoded><![CDATA[배우 고소영의 또 다른 변신! 주얼리 브랜드의 크리에이티브 디렉터이자 뮤즈로 활동하는 그녀를...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/2177e308-1a3c-4cea-90bb-ae46839b457a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화여대에서 열린 디올 쇼장을 찾은 스타들의 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66191</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66191</guid>
-            <pubDate>Mon, 09 May 2022 06:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[지수, 김연아, 수지까지 셀럽들의 디올 룩은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/3b0ff579-1ead-4c8e-88bd-715eb66a0471.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
