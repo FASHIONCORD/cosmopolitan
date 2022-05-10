@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 00:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린이? 아니 우리는 어른이! 어른이날을 맞아 스스로에게 셀프 선물 어때?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66242</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66242</guid>
+            <pubDate>Tue, 10 May 2022 02:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[저는 이제 뭐든 살 수 있는 어른이라구요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/319590d4-bfe8-4a5c-8e1f-6d20407c68fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[60억 짜리 마릴린 먼로 드레스? 멧갈라 레드카펫 이모저모!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66240</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 08 May 2022 17:19:43 GMT</pubDate>
             <content:encoded><![CDATA[요즘 다들 뭐 좋아해? MZ세대 3000명의 설문조사를 바탕으로 한 ‘취향 갑’ 라이프스타일 시상...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/f929ab61-f232-46bb-940f-5f205d220ce4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다움에 끝이 있다면 여기가 아닐까? 광활한 워치&주얼리 아이템 리스트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66168</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66168</guid>
-            <pubDate>Sun, 08 May 2022 15:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[아름다움에 끝이 있다면 여기가 아닐까? 하이엔드부터 컨템퍼러리까지, 광활한 워치&amp;주얼리의 세...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/05/994447e6-0fb9-4559-93f8-e1078a84d3aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
