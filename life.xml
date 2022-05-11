@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 06:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런던 베이글 뮤지엄이 핫한 이유? 지금은 베이글 전성시대]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66276</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66276</guid>
+            <pubDate>Wed, 11 May 2022 07:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[춘추 전국시대를 방불케하는 서울 곳곳의 베이글 가게를 기억해두자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/cfceee2b-d7c9-4382-b508-34c2b5470373.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어서 와, 불광천은 처음이지?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66274</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 09 May 2022 07:12:29 GMT</pubDate>
             <content:encoded><![CDATA[피가 섞여야만, 구청 가서 도장 땅땅! 찍어야만 가족이라고 누가 그랬던가. 같이 밥 먹고, 같은...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/cb711e22-7718-4bc2-ab16-6cf32e2ccec8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 일상을 위한 머스트 해브 아이템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66030</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66030</guid>
-            <pubDate>Mon, 09 May 2022 04:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[#어버이날 좋은 딸, 좋은 아들이 되기 위한 #선물추천! 평생 건치를 책임져줄 오랄비 전동칫솔 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/c7302275-d901-432e-819e-0c1be0f982d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

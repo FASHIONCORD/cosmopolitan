@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 06:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 여기에 누울게요...먹고, 자고, 사고 3단계 힐링 SSAP가능한 공간?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66287</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66287</guid>
+            <pubDate>Wed, 11 May 2022 07:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 다들 뭐 좋아해? MZ세대 3000명의 설문조사를 바탕으로 한 ‘취향 갑’ 라이프스타일 시상...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/f45dc7c1-0e5c-4a8e-a488-8df959d0c89a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지드래곤∙아이린∙김아현∙차정원∙김고은도 선택한 2022 가장 핫한 샤넬 22백!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66279</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 09 May 2022 03:47:44 GMT</pubDate>
             <content:encoded><![CDATA[젠지들 덕분에 지금 주얼리 세계는 과감함을 넘어 기괴한 디자인과 비주얼에 빠져들고 있다. 한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/07/e5be16f7-d713-43e1-a571-f4610b7ca054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화여대에서 열린 디올 쇼장을 찾은 스타들의 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66191</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66191</guid>
-            <pubDate>Mon, 09 May 2022 03:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[지수, 김연아, 수지까지 셀럽들의 디올 룩은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/3b0ff579-1ead-4c8e-88bd-715eb66a0471.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
