@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 14:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 15:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피부의 리듬을 UP! 듀얼 에센스 & 듀얼 효과를 지닌 랑콤 클라리피끄 듀얼 에센스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66278</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66278</guid>
+            <pubDate>Wed, 11 May 2022 15:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[놀랍도록 부드럽고 맑아진 피부를 경험하고 싶다면, 지금이 바로 클라리피끄를 사용해야 할 때!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/0751ab52-10b5-4b51-a345-3ab11d83d3c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입 냄새 제거 종결템?! 입안을 청량하게 만들어줄 효과 만점 테라브레스 치약&가글!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64523</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 09 May 2022 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[사시사철 건조해? 겉과 속이 다른 이중인격 피부? 기름 좔좔 산유국? 내 피부, 이번 생은 망...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/07/c9946f4a-24fa-4510-8498-1eb32bdd52f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자차, 어디까지 써 봤니? 자외선 차단제에 대한 모든 것!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66091</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66091</guid>
-            <pubDate>Mon, 09 May 2022 03:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[그 어떤 것보다 까다롭게 골라야 할 자외선 차단제. 성분 이슈, SPF 조작 논란 속에서 우리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/a5934627-0136-4af1-95ab-fa433584eec3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

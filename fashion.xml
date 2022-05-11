@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 14:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 15:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이직 아이템 블루 셔츠&치노팬츠 스타일링 비법은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66289</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66289</guid>
+            <pubDate>Wed, 11 May 2022 15:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[이번 시즌 반드시 가지고 있어야 할 2개의 베이식 아이템, 블루 셔츠와 치노 팬츠에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/fbc2eaca-b733-4444-9d6f-10ef5bd32ed8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘은 여기에 누울게요...먹고, 자고, 사고 3단계 힐링 SSAP가능한 공간?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66287</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 09 May 2022 09:11:30 GMT</pubDate>
             <content:encoded><![CDATA[요즘 다들 뭐 좋아해? MZ세대 3000명의 설문조사를 바탕으로 한 ‘취향 갑’ 라이프스타일 시상...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/f844546c-dd5a-495e-87ca-ddfb981566f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠지들의 독특하고, 키치한 악세서리 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66207</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66207</guid>
-            <pubDate>Mon, 09 May 2022 03:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[젠지들 덕분에 지금 주얼리 세계는 과감함을 넘어 기괴한 디자인과 비주얼에 빠져들고 있다. 한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/07/e5be16f7-d713-43e1-a571-f4610b7ca054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
