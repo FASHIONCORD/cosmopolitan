@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세월호 아이들이 여기에 있다는 걸 느껴! 조현철의 수상 소감이 특별한 이유는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66296</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66296</guid>
+            <pubDate>Wed, 11 May 2022 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[제58회 백상예술대상에서 남다른 수상 소감으로 화제가 된 조현철. 그가 떨리는 목소리로 부른 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/65d41d1c-f5c1-4abb-8d36-c0c3f6b5a2b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설현∙태연∙차정원 등 아슬아슬한 매력의 스카프 톱을 선택한 셀럽은 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66294</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 09 May 2022 09:11:53 GMT</pubDate>
             <content:encoded><![CDATA[남주혁, 최우식, 안효섭, 김영대! 우리가 존잘보다 훈남에게 더 끌리는 이유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/c0547d49-4b2b-43c2-bc73-c545b1da9bf1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[60억 짜리 마릴린 먼로 드레스? 멧갈라 레드카펫 이모저모!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66240</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66240</guid>
-            <pubDate>Mon, 09 May 2022 06:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 쟈니부터 정호연, 킴 카다시안 드레스까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/2877aee1-849e-4e82-b809-bfae3962a782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
