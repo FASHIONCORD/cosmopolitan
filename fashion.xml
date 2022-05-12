@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 15:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트 화분∙벽걸이 공기청정기∙블루투스 스피커까지! 작지만 큰 반려가전 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66342</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66342</guid>
+            <pubDate>Thu, 12 May 2022 15:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 다들 뭐 좋아해? MZ세대 3000명의 설문조사를 바탕으로 한 ‘취향 갑’ 라이프스타일 시상...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/5497b7b4-dfff-4a01-b67d-c9e7fe59f5e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑한다면, 올리비아버튼]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66265</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 10 May 2022 16:15:01 GMT</pubDate>
             <content:encoded><![CDATA[지드래곤이 700만원짜리 가방에 자수를 새겨 넣었다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/9a7b43a7-0b61-408f-b7c9-6c99eb504439.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직 효도하기 늦지 않았다! '엄빠'에게 드릴 선물을 고민하고 있다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66243</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66243</guid>
-            <pubDate>Tue, 10 May 2022 16:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[100만원 이하의 고급스러운 제품들만 모았다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/b3f0889f-514b-4406-a95f-3a40bd4fbc0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 15:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소중한 사람을 위한 힐링 선물]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66250</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66250</guid>
+            <pubDate>Thu, 12 May 2022 15:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[허브 농장에서 세심하게 기른 5가지 허브와 비타민을 담은 빌리프 허브 부케 컨센트레이트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/dfee73ef-4b05-4a2a-b1e2-ecfd55b9fb6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향잘알 전문가부터 타투이스트까지! 각양각색 시선으로 바라본 4인4색 향수 코멘터리]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66318</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 10 May 2022 13:41:07 GMT</pubDate>
             <content:encoded><![CDATA[저는 이제 뭐든 살 수 있는 어른이라구요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/319590d4-bfe8-4a5c-8e1f-6d20407c68fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맑고 투명한 피부를 찾을 수 있는 랑콤 ‘클라리피끄 버추얼 팝업 스토어’ 오픈!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66165</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66165</guid>
-            <pubDate>Mon, 09 May 2022 16:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[이번 ‘클라리피끄 버추얼 팝업 스토어’에서는 피부 과학 기술을 선도해온 랑콤의 아이덴티티와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/87e7cbbd-9206-4a46-af0a-cac01c01fb0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
