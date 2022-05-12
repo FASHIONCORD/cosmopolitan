@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑한다면, 올리비아버튼]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66265</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66265</guid>
+            <pubDate>Thu, 12 May 2022 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 마음을 전해줄 올리비아버튼의 럭키 비 미니 탱크 컬렉션 워치.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/ee3dd70e-198e-4b27-8ed8-60536b50b4bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패셔너블한 WORKOUT 패션템은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66319</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66319</guid>
+            <pubDate>Thu, 12 May 2022 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[운동하기 좋은 계절이 왔다. 운동을 해야겠다고 마음먹었다면 어떤 스포츠웨어를 입을지 선택할 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/8bca5012-0291-40e6-883c-c193d7be6ff5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 반려동물 제품까지 있다?! 반려동물을 위한 스페셜 아이템 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66316</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 10 May 2022 16:15:01 GMT</pubDate>
             <content:encoded><![CDATA[100만원 이하의 고급스러운 제품들만 모았다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/b3f0889f-514b-4406-a95f-3a40bd4fbc0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이? 아니 우리는 어른이! 어른이날을 맞아 스스로에게 셀프 선물 어때?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66242</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66242</guid>
-            <pubDate>Tue, 10 May 2022 02:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[저는 이제 뭐든 살 수 있는 어른이라구요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/319590d4-bfe8-4a5c-8e1f-6d20407c68fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[60억 짜리 마릴린 먼로 드레스? 멧갈라 레드카펫 이모저모!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66240</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66240</guid>
-            <pubDate>Mon, 09 May 2022 17:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 쟈니부터 정호연, 킴 카다시안 드레스까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/2877aee1-849e-4e82-b809-bfae3962a782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
