@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 13:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 15:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,6 +383,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/2cec4917-e5e7-47aa-9c06-9d4a69f9eb6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[청소년_진짜_진짜_관람불가_<365일: 오늘> 19금 좌표 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65942</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65942</guid>
+            <pubDate>Sat, 04 Jun 2022 15:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[더 화끈한 속편으로 돌아온 &lt;365일&gt; 이번 주말 정주행 각!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/a6cd9be3-3f66-4ed8-b379-e5723a60b41c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[브라질리언 왁싱, 무모한가요? (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65758</link>
             <guid>https://www.cosmopolitan.co.kr/article/65758</guid>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 30 Mar 2022 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[눈만 마주치면 스파크가 튀었던 연애 초반이 지나갔다. 사랑은 하지만 섹스는 거부하고 싶을 때...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/958e011e-dfe0-47c3-8ac9-67fbc9c04aab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이트 앱 하려고? 스와이프 하기 전에 체크하자! (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64476</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64476</guid>
-            <pubDate>Sat, 04 Jun 2022 13:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[이 시국에 ‘자만추’는 감히 꿈꾸지도 않고요. 비대면 스와이프를 노려볼까 하는데, 이대로 괜찮...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/f34aea86-c81b-47ac-a7cc-58ecb8ccb783.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 BL시대! 소년들의 사랑, 대체 무슨 매력이야? (코스모폴리탄 코리아 ─ 라이프)]]></title>
