@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 03:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 13:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무더위 스트레스도 쿨하게 세굿바! 보기만 해도 청량한 6월의 뷰티 신상 22]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66895</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66895</guid>
+            <pubDate>Mon, 06 Jun 2022 13:33:09 GMT</pubDate>
+            <content:encoded><![CDATA[무더위 스트레스도 쿨하게 날려줄 6월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/8cb9b1f5-6595-4c68-90a6-9931d7a00063.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와~ 여름이다! 쿨내 나는 신상 여름 향수 모음.ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66885</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 04 Jun 2022 20:10:23 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대 서현에게 배운 다이어트 방법이라고]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/8aea2e04-dbbd-4cfa-8ffd-3a636eeb7ede.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 헤어 스타일?! 아이유∙로제∙조이∙미나의 중단발 헤어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66773</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66773</guid>
-            <pubDate>Sat, 04 Jun 2022 20:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거워지는 날씨, 가볍게 잘라볼까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/94ad8279-6fd8-4d95-951e-d66dbe5dcca8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
