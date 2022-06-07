@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 17:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 18:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예뻐 예뻐! 인스타그램 인증샷 욕구를 뿜뿜하게 만드는 NEW K-뷰티템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66956</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66956</guid>
+            <pubDate>Tue, 07 Jun 2022 18:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[‘찰칵!’ 인스타그램 인증샷 욕구를 뿜뿜 일으키는 뉴 K-뷰티템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/ace7ba53-17a7-443b-86e4-128c902612fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['패피'들이 말하는 요즘 뷰티? 패션 하우스 기반의 뷰티 라인에 대한 A to Z]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66926</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66926</guid>
+            <pubDate>Tue, 07 Jun 2022 18:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[싱그러운 여름! 코덕들이 꼭 알아야 할 서머 뷰티 이슈는 무엇일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/bab301e8-cca5-4602-89a0-ecf128fde5aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스테디 다이어트부터 뉴 다이어트까지! 올 여름을 위한 갓벽한 다이어트 플랜]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66904</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 04 Jun 2022 20:10:23 GMT</pubDate>
             <content:encoded><![CDATA[바야흐로 페스티벌 시즌~ 서울 재즈 페스티벌에 방문한 레드벨벳, 김도연, 전소미, 리정, 헤이즈...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/7d2c49c5-ab36-4b02-bc72-a83b3eb2cfe0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지드래곤에 이어 뷔까지 심쿵~ 세젤예 제니의 22가지 헤어룩 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66832</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66832</guid>
-            <pubDate>Sat, 04 Jun 2022 20:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[헤어스타일만으로 분위기 변신 쌉가능! 나혼자사는 세젤예 블랙핑크 제니의 헤어 룩에서 힌트를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/4d72219f-14c4-4910-9534-f3d0886bcf38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주소녀 보나·장원영·아이들 우기도 했다? 요즘 시국에 딱인 ‘꾸꾸 메이크업’ A to Z!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66831</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66831</guid>
-            <pubDate>Sat, 04 Jun 2022 20:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 실외 마스크 착용 해체! 지금이 바로 메이크업이 화려해질 타이밍~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/9b978fc7-503f-4b4d-8135-a7f49c2f9610.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
