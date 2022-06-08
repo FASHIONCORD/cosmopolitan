@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 09:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 13:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다운증후군 배우 ‘정은혜’가 가진 놀라운 비밀 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67031</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67031</guid>
+            <pubDate>Wed, 08 Jun 2022 13:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;우리들의 블루스&gt;에서 영희 역으로 열연한 다운증후군 배우 정은혜가 가진 반전 포인트....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/450e6aa0-992d-47ac-a690-5a5715776679.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66996</link>
@@ -21,7 +29,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/67020</guid>
             <pubDate>Wed, 08 Jun 2022 07:19:14 GMT</pubDate>
             <content:encoded><![CDATA[매일 입던 옷에 헤드폰 하나 더했을 뿐인데, 스타일 지수 업!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/0efd96c4-1076-4ed5-874d-ef4ff7928308.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/123b2aa6-ef1e-4c62-b0f6-f566a97be40b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다이어터지만 맛있는 건 포기 못하지, 건강하고 맛있는 양배추 요리 맛집 3]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Jun 2022 06:17:17 GMT</pubDate>
             <content:encoded><![CDATA[이건 그냥 혼자 살라는 거 아님?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/aa7649e0-aca7-49f7-bd98-9d0ef570e04d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두근두근, 올 여름을 뜨겁게 달굴 연애 프로그램은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66876</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66876</guid>
-            <pubDate>Tue, 07 Jun 2022 06:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[대리 연애 가능한 연애 프로그램을 만나보자]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/42c256d7-4b24-4fdf-a1ea-9116893ac2ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
