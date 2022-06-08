@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 13:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 15:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왕 탱글해서 왕 탐나는 젤리, 아니 반려기구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66500</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66500</guid>
+            <pubDate>Wed, 08 Jun 2022 15:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[삶이 너무 팍팍할 때, 누군가 손에 무심코 쥐여준 간식처럼. 이로하 쁘띠의 촉촉한 감성에 젖어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d677e780-93d6-491e-96a3-9461ff38321e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬심이라는 이름의 사랑]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66570</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66570</guid>
+            <pubDate>Wed, 08 Jun 2022 15:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌을 향한 이 열렬한 동경과 애착은 혹 사랑의 다른 이름 아닐까? 1세대 ‘아이돌’ H.O...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/ffe65c0c-75e9-45ee-b7ab-83be4bbefe0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<우리들의 블루스> , 10대 임신의 미화? VS 그럴 수 있다?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/65995</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 25 Apr 2022 03:42:12 GMT</pubDate>
             <content:encoded><![CDATA[브리저튼가의 장남 앤소니의 이성과 감성 사이]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/9f78a85f-9597-4463-a358-81568c7e4d53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섹스도 날씨를 탄다? 거 참, 섹스하기 좋은 계절이네!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64959</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64959</guid>
-            <pubDate>Mon, 11 Apr 2022 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[사계절이 뚜렷한 이 나라, 그만큼 언니들의 섹스 날씨 취향도 다양했다! 그래서 이 계절에 섹스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/002a56a3-340f-4c3b-8658-7cbbf015439b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<기상청 사람들>이 매운 맛이라고? 현실은, 드라마 보다 더해!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/64635</link>
-            <guid>https://www.cosmopolitan.co.kr/article/64635</guid>
-            <pubDate>Thu, 31 Mar 2022 05:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;기상청 사람들: 사내연애 잔혹사 편&gt;이 너무 매운 맛이라고? 놀라지 마시라. 현실은 드라마보다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/a8f25a95-0274-4d5e-bf1d-49ab83168ffd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
