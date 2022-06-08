@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 00:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 03:56:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[군살까지 쫙! 마마무∙브레이브걸스∙있지도 푹 빠진 다이어트 식단]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67014</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67014</guid>
+            <pubDate>Wed, 08 Jun 2022 03:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[닭가슴살, 샐러드 너무 지겨워! 맛있는 거 먹으면서 다이어트에 성공한 식단 모두 공개]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/51771920-cbfc-48a5-a96c-128a8cedc5b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘칸’ 갔음 말 다했지 뭐! 믿보배 송강호& 탕웨이 영화 추천 모음 ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67007</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/01600fa0-9741-4f0c-8bfa-3781fef76616.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신의 눈동자에, cheers~ 영롱한 국보급 눈동자를 가진 배우들!]]></title>
+            <title><![CDATA[당신의 눈동자에, 치얼스~ 영롱한 국보급 눈동자를 가진 배우들!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66999</link>
             <guid>https://www.cosmopolitan.co.kr/article/66999</guid>
             <pubDate>Wed, 08 Jun 2022 00:55:37 GMT</pubDate>
             <content:encoded><![CDATA[‘렌즈 빨’이 아니라고? 블링블링 눈동자를 가진 배우들은 모두 여기에~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/de37e482-cdb4-4cf4-bd0a-93ec8a4044b2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/de37e482-cdb4-4cf4-bd0a-93ec8a4044b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘스타일날다’ 대표 세리언니(a.k.a 간지공주)의 인생 화끈하게 즐기는 법!]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Jun 2022 00:55:37 GMT</pubDate>
             <content:encoded><![CDATA[‘이 멤버 어디서 많이 본 얼굴인데..?’ 싶었다면 당신은 매의 눈 소유자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0d58ea7e-fb73-489d-9a5d-d86cf7232392.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸영화제 ‘남우주연상’ 수상한 송강호의 아내 바보 모먼트!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66880</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66880</guid>
-            <pubDate>Sat, 04 Jun 2022 13:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[‘칸의 남자’ 송강호의 로맨틱 소감]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/22c63126-cfe2-45a8-afe4-99e61093527a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
