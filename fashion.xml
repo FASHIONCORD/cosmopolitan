@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 01:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:45:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한여름의 뜨거운 햇살만큼 강렬하고, 톡 쏘는 칵테일처럼 컬러풀한 서머 액세서리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66994</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66994</guid>
+            <pubDate>Fri, 10 Jun 2022 03:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[한여름의 뜨거운 햇살만큼 강렬하고, 톡 쏘는 칵테일처럼 컬러풀한 서머 액세서리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/32d57067-fc95-4729-96c6-7f6c8b2706a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꾸레주가 돌아왔다! 제니∙오눅∙차정원이 사랑하는 꾸레쥬 티셔츠]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66986</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Jun 2022 03:46:06 GMT</pubDate>
             <content:encoded><![CDATA[한동안 힙HIP한 스니커즈 열풍으로 느슨해진 스니커즈계에 긴장감을 주고 있는 대세 스니커즈들...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/08454df3-c18b-4187-bc28-0c78c7fb800d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 멧 갈라를 빛낸 베스트 드레서는 누구?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66906</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66906</guid>
-            <pubDate>Sun, 05 Jun 2022 20:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 가장 큰 패션 자선 행사인 ‘멧 갈라’가 코로나19로 2년 만에 개최됐다! 도금 시대의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/26981691-52fa-49bd-a6ab-18c2e6756fed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
