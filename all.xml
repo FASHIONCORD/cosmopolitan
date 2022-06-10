@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 14:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -445,6 +445,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/9f78a85f-9597-4463-a358-81568c7e4d53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<우리들의 블루스> '영희'와 '별이', 행복하자 우리 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67041</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67041</guid>
+            <pubDate>Fri, 10 Jun 2022 14:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정은혜와 이소별, 당신과 친구가 되고 싶어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a7056611-41e2-49f6-9713-db5fcc7beb40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다운증후군 배우 ‘정은혜’가 가진 놀라운 비밀 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67031</link>
             <guid>https://www.cosmopolitan.co.kr/article/67031</guid>
@@ -499,14 +507,6 @@
             <pubDate>Tue, 07 Jun 2022 18:15:09 GMT</pubDate>
             <content:encoded><![CDATA[제75회 칸 국제영화제를 사로잡은 K-무비들이 국내 관객과의 만남을 준비하고 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/acf578e0-a07f-498e-a59c-4ded2af5a7ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비혼 조장 프로그램, 왜 자꾸 나오는거야? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66878</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66878</guid>
-            <pubDate>Tue, 07 Jun 2022 06:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[이건 그냥 혼자 살라는 거 아님?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/aa7649e0-aca7-49f7-bd98-9d0ef570e04d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재감 뿜뿜! 악마의 스타성을 자랑하는 선수는 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
