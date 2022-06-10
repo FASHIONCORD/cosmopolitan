@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 17:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 20:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유행은 돌고 돈다?! 디키즈 478 팬츠로 시작한 바지 뒤집기, 어떻게 뒤집는다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67023</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67023</guid>
+            <pubDate>Fri, 10 Jun 2022 20:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[제니도 소장 중인 디키즈 478 팬츠, 외국 언니들처럼 다양하게 뒤집자. 무엇을? 바지를!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/c901279f-d385-4f7a-8a2c-ef3b5e0b28ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한여름의 뜨거운 햇살만큼 강렬하고, 톡 쏘는 칵테일처럼 컬러풀한 서머 액세서리]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66994</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Jun 2022 03:46:06 GMT</pubDate>
             <content:encoded><![CDATA[루이비통의 아이코닉 백 트위스트MM과 사랑에 빠진 셀럽들. <br>마마무 화사부터 태연, 아이들 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/2c340a0b-35ee-4927-a460-e20df5436c3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니∙아이유도 홀릭중인 클래식 스니커즈 반란 시대!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66913</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66913</guid>
-            <pubDate>Mon, 06 Jun 2022 03:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[한동안 힙HIP한 스니커즈 열풍으로 느슨해진 스니커즈계에 긴장감을 주고 있는 대세 스니커즈들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/08454df3-c18b-4187-bc28-0c78c7fb800d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
