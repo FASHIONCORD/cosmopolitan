@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 17:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 19:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권은비ㆍ아이린ㆍ미아 리건 등 귀엽고 깜찍한 셀럽들은 신발에 탑승 중?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67026</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67026</guid>
+            <pubDate>Sat, 11 Jun 2022 19:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[비행기? 아니고 플랫폼 슈즈에 탑승 준비 완료!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/cb0c73b9-2fa1-4abb-aa1b-c8126749009c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유행은 돌고 돈다?! 디키즈 478 팬츠로 시작한 바지 뒤집기, 어떻게 뒤집는다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67023</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Jun 2022 20:11:05 GMT</pubDate>
             <content:encoded><![CDATA[하고 싶은 것도, 흥미로운 일도 너무 많은 요즘! 서머 드레스와 함께 즐기는 올여름 내게 일어...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/86e61a6c-dcee-4c3b-8927-bef9a81ec257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사·태연·트와이스 나연까지! 핫한 셀럽들은 다 갖고 있다는 루이비통 트위스트MM백?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66914</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66914</guid>
-            <pubDate>Mon, 06 Jun 2022 03:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[루이비통의 아이코닉 백 트위스트MM과 사랑에 빠진 셀럽들. <br>마마무 화사부터 태연, 아이들 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/2c340a0b-35ee-4927-a460-e20df5436c3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
