@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 20:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 22:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰심 홀리는 남다른 색조 바이브! '롬앤'의 알짜배기 뷰티템은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67073</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67073</guid>
+            <pubDate>Sun, 12 Jun 2022 22:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[롬야~호! 뷰심 홀리는 남다른 색조 바이브로 떡상 중인 롬앤. 유쾌하고 신나게, 있는 그대로 뷰...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/569a9bb5-8bf1-486e-b1b2-984b5e03d602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민니∙웬디∙장원영∙노제! Z세대가 ‘픽’한 뷰티 워너비 걸~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67064</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Jun 2022 15:11:08 GMT</pubDate>
             <content:encoded><![CDATA[아! 기다리고 기다리던 마스크 해제의 날이 밝았다. 숨겨둔 민낯을 만천하에 공개해야 되는 일촉...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/ec6083a0-502a-4886-9853-e2cb55e5432a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군살까지 쫙! 마마무∙브레이브걸스∙있지도 푹 빠진 다이어트 식단]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67014</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67014</guid>
-            <pubDate>Wed, 08 Jun 2022 15:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[닭가슴살, 샐러드 너무 지겨워! 맛있는 거 먹으면서 다이어트에 성공한 식단 모두 공개]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/458d2187-0d7b-4095-87d6-1c79ec1458a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
