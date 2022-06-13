@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 11:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 13:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 날씨면 와인 한 병 들고 당장 피크닉 가야죠! 요즘 핫한 와인 스토어 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67169</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67169</guid>
+            <pubDate>Mon, 13 Jun 2022 13:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[온도, 공기, 습도마저 과하게 완벽했다,,, 물론 취하기에~~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f81ddcda-e172-4beb-bc7a-8339196985dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얘들아, 팝콘 풀렸다! 극장가 활기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67165</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67165</guid>
+            <pubDate>Mon, 13 Jun 2022 13:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[희비교차? 웃는 극장가, 우는 OTT]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/1829bf79-6d4a-409e-ae37-86f29df73c9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<유미의 세포들 2> 김고은의 프렌치 시크 스타일 사복 패션!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67163</link>
@@ -40,14 +56,6 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/df93ea0d-c978-46d7-bf22-8532e432e7ab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[퇴근 후 발레?! 요즘 갓생사는 직장인들의 유행 취미 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67059</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67059</guid>
-            <pubDate>Mon, 13 Jun 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[24시간이 모자라~ 배움에 진심인 MZ 직장인들의 근황]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/aec913f6-b83d-49e7-81c7-3eb553dc2d97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 꼭 봐야 하는 마블 X DC 영화 라인업 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67058</link>
             <guid>https://www.cosmopolitan.co.kr/article/67058</guid>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 12 Jun 2022 17:13:01 GMT</pubDate>
             <content:encoded><![CDATA[핫한 까페에서 여행 인생샷도 쌉가능~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/408ee1e0-4b06-4e7e-ac2a-9f272789ba4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우리들의 블루스> '영희'와 '별이', 행복하자 우리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67041</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67041</guid>
-            <pubDate>Fri, 10 Jun 2022 14:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정은혜와 이소별, 당신과 친구가 되고 싶어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a7056611-41e2-49f6-9713-db5fcc7beb40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
