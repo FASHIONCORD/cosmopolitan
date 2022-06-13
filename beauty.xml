@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 22:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 23:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울긋 불긋~ 가드름과 등드름에게서 광명을 찾아줄 보디 케어 TIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67147</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67147</guid>
+            <pubDate>Mon, 13 Jun 2022 23:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[짧은 옷 속에 감출 수 없는 것은 살뿐만 아니라 피부도 있다. 겨우내 무관심하게 방치돼 온갖...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/bb1de504-e371-4d93-bf76-88d0e00887b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eye See You! 최상의 속눈썹을 연출해 메이크업을 하드 캐리해줄 뉴 띵작 마스카라]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67141</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 09 Jun 2022 10:13:24 GMT</pubDate>
             <content:encoded><![CDATA[얼굴 ‘그곳’에 힘주고 있다면 당신은 이미 노안의 길을 택한 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/d13dfe57-e66e-47df-968e-66a59b20a1be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월의 신부, 장나라! 평생 42kg 유지했다는 다이어트 치트키는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67053</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67053</guid>
-            <pubDate>Thu, 09 Jun 2022 10:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[이 방법으로 두 달간 7kg를 감량하기도 했다는데!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a1c2b01d-d8cc-4f3d-a808-b1c7ade99345.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
