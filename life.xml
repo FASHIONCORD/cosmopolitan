@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 08:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 10:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성수동 샐러드 맛집을 아세요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67185</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67185</guid>
+            <pubDate>Wed, 15 Jun 2022 10:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[성수동의 맛과 멋을 동시에 누릴 수 있는 건강한 샐러드 맛집, 그 중에서도 존맛 메뉴를 소개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/dc6e4af8-5c6e-4d3d-a8cf-7aa566d6507a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘부터 ‘복숭아 맛’ 간식 덕질 시작합니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67180</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67180</guid>
+            <pubDate>Wed, 15 Jun 2022 10:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[수분 비타민 폭탄. 상큼함, 달콤함, 귀여움까지 완벽한 제철 과일 복숭아.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/52031d46-081e-4d48-be25-82b1ccac1c27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘프로 인테리어러’라면 무조건 소장 각, 지금 가장 핫한 고오급 인테리어템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67172</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67172</guid>
+            <pubDate>Wed, 15 Jun 2022 10:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[자동으로 지갑 열리는 인테리어템이 가득한 6월 둘째 주 #코스모라이프]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/2bd95a08-a187-4ed9-9cd9-2acdd3b32046.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 슬슬 예매 각! 여름 밤을 위한 콘서트& 페스티벌 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67170</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 13 Jun 2022 09:15:12 GMT</pubDate>
             <content:encoded><![CDATA[단독으로 먹기엔 투머치 신맛이지만, 음식에 곁들이는 순간 화룡점정을 찍는 상큼한 ‘서브 여주...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/aa55f982-10fe-4fdc-bde3-87d04a1c911f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#CLOSE_UP 화보와 광고 속 모든 공간을 만드는 세트 스타일리스트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67122</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67122</guid>
-            <pubDate>Mon, 13 Jun 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[출근과 퇴근의 경계가 없지만, 이 직업을 선택한 이유에 대해 물었습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/43755afe-b1f2-43b1-b42b-149858b38277.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흥이란 것이 폭발했다! 랜선으로 즐기는 대학 축제 BEST 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67066</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67066</guid>
-            <pubDate>Mon, 13 Jun 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[학생증과 입장권 없이 즐기는 대학 축제 슈퍼위크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/df93ea0d-c978-46d7-bf22-8532e432e7ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 꼭 봐야 하는 마블 X DC 영화 라인업 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67058</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67058</guid>
-            <pubDate>Mon, 13 Jun 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[안 보면 후회각! 역대급 영화 라인업이 공개됐다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/242c5855-b156-4e27-abd7-274df0fffe6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
