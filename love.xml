@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 08:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑 말고, 추앙]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66968</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66968</guid>
+            <pubDate>Wed, 15 Jun 2022 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[“지금 사랑하지 않는 자, 모두 유죄”의 시대는 지났다. 우리는 다만 각자의 자리에서 조용히 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/2d8ae8da-b628-4eee-b522-95f911255d69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도사님, 이 놈 궁합 좀 봐주세요]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66599</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 04 Jun 2022 13:17:47 GMT</pubDate>
             <content:encoded><![CDATA[미처 알지 못했다, 내 소중한 그곳이여! 넷플릭스 다큐멘터리 &lt;쾌락의 원리&gt;에 소개된 섹스, 그...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/99003c7e-17d5-45c5-b2b9-25d5ce6861bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현빈♥손예진 웨딩 D-DAY! 최초 공개된 세기의 커플, 선남선녀의 웨딩 화보는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65162</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65162</guid>
-            <pubDate>Sat, 30 Apr 2022 08:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[세기의 결혼식 클라스! 축사는 장동건과 축가는 거미라는데!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/dd6a59c8-dc02-43f7-a50b-d0d63caf0170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 08:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjVfMjE4/MDAxNjUzNDYzNTAxNzAx.hEHF0e6HJfeNe1jta8AkDP9Qz5_T5gr1RCxLfpf-iCMg.YfivAPXy3rbAv0207MeNCV4utD6b8kpoZnjrkWrtpyIg.JPEG/IZ-WuE4IDIRpYLHvxd1sF5RIemT0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<유미의 세포들 2> 김고은의 프렌치 시크 스타일 사복 패션! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67163</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67163</guid>
+            <pubDate>Mon, 13 Jun 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[재킷 하나만 걸쳐도 시크한 그녀의 사복 패션 파헤치기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/b57ba074-fa90-4fa2-a788-8cedc06f191a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니∙도연∙이연희는 어떤 안경 써? 셀럽들의 안경 PICK (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67157</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67157</guid>
+            <pubDate>Wed, 15 Jun 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽들의 멋쁨 뿜뿜 뿔테 안경 룩은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/ef47fcd7-32b3-478d-9c2d-b5f7beb4d1c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내일의 나를 위한 선택 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66651</link>
             <guid>https://www.cosmopolitan.co.kr/article/66651</guid>
@@ -234,22 +250,6 @@
             <pubDate>Mon, 13 Jun 2022 06:18:59 GMT</pubDate>
             <content:encoded><![CDATA[광고 하나로 인생역전이란 바로 이런 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/515d2375-f52b-41da-959a-75a0be15c3df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권은비ㆍ아이린ㆍ미아 리건 등 귀엽고 깜찍한 셀럽들은 신발에 탑승 중? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67026</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67026</guid>
-            <pubDate>Sat, 11 Jun 2022 19:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[비행기? 아니고 플랫폼 슈즈에 탑승 준비 완료!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/cb0c73b9-2fa1-4abb-aa1b-c8126749009c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유행은 돌고 돈다?! 디키즈 478 팬츠로 시작한 바지 뒤집기, 어떻게 뒤집는다고? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67023</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67023</guid>
-            <pubDate>Fri, 10 Jun 2022 20:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[제니도 소장 중인 디키즈 478 팬츠, 외국 언니들처럼 다양하게 뒤집자. 무엇을? 바지를!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/c901279f-d385-4f7a-8a2c-ef3b5e0b28ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남돌들의 전완근 노출, 살짝 설렜어 난~ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -380,6 +380,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/515d2375-f52b-41da-959a-75a0be15c3df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑 말고, 추앙 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66968</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66968</guid>
+            <pubDate>Wed, 15 Jun 2022 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[“지금 사랑하지 않는 자, 모두 유죄”의 시대는 지났다. 우리는 다만 각자의 자리에서 조용히 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/2d8ae8da-b628-4eee-b522-95f911255d69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도사님, 이 놈 궁합 좀 봐주세요 (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/66599</link>
             <guid>https://www.cosmopolitan.co.kr/article/66599</guid>
@@ -434,14 +442,6 @@
             <pubDate>Sat, 04 Jun 2022 13:17:47 GMT</pubDate>
             <content:encoded><![CDATA[미처 알지 못했다, 내 소중한 그곳이여! 넷플릭스 다큐멘터리 &lt;쾌락의 원리&gt;에 소개된 섹스, 그...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/99003c7e-17d5-45c5-b2b9-25d5ce6861bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현빈♥손예진 웨딩 D-DAY! 최초 공개된 세기의 커플, 선남선녀의 웨딩 화보는? (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65162</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65162</guid>
-            <pubDate>Sat, 30 Apr 2022 08:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[세기의 결혼식 클라스! 축사는 장동건과 축가는 거미라는데!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/dd6a59c8-dc02-43f7-a50b-d0d63caf0170.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 슬슬 예매 각! 여름 밤을 위한 콘서트& 페스티벌 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
