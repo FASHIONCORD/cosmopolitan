@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 13:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 17:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -444,6 +444,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/99003c7e-17d5-45c5-b2b9-25d5ce6861bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비투비∙엔믹스∙크래비티∙스테이씨 KCON 시카고 무대를 찢었다! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67187</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67187</guid>
+            <pubDate>Wed, 15 Jun 2022 11:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[시카고에서 열린 ‘KCON 2022 프리미어’로 글로벌 KPOP 팬들 만나고 온 자랑스러운 아이돌의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/11192a92-9070-44bf-8b1e-31a0c01cd6a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성수동 샐러드 맛집을 아세요? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67185</link>
             <guid>https://www.cosmopolitan.co.kr/article/67185</guid>
@@ -498,14 +506,6 @@
             <pubDate>Mon, 13 Jun 2022 09:15:12 GMT</pubDate>
             <content:encoded><![CDATA[재킷 하나만 걸쳐도 시크한 그녀의 사복 패션 파헤치기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/b57ba074-fa90-4fa2-a788-8cedc06f191a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집 나간 입맛 극복 SSAP 가능, 두세 문장으로 요약 가능한 레몬 요리 레시피 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67154</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67154</guid>
-            <pubDate>Mon, 13 Jun 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[단독으로 먹기엔 투머치 신맛이지만, 음식에 곁들이는 순간 화룡점정을 찍는 상큼한 ‘서브 여주...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/aa55f982-10fe-4fdc-bde3-87d04a1c911f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재감 뿜뿜! 악마의 스타성을 자랑하는 선수는 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
