@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 21:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 22:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와우, 여름이다~~! '91즈'처럼 '빠지'에 풍덩 빠져 볼까]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67236</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67236</guid>
+            <pubDate>Fri, 17 Jun 2022 22:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[수상 레저를 즐기기 딱 좋은 계절. 물에서 더 핫한 셀럽들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/a3bd652f-65bb-42a8-a728-5a419a397d80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종이인데 가구라고? 샤이니 키도 픽한 ‘종이가구’의 등장]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67234</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Jun 2022 06:16:48 GMT</pubDate>
             <content:encoded><![CDATA[INFP가 추천합니다~믿고 가시져~~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/5ff6cfed-021d-4edf-b819-1a69bf8f63e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 날씨면 와인 한 병 들고 당장 피크닉 가야죠! 요즘 핫한 와인 스토어 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67169</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67169</guid>
-            <pubDate>Mon, 13 Jun 2022 13:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[온도, 공기, 습도마저 과하게 완벽했다,,, 물론 취하기에~~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f81ddcda-e172-4beb-bc7a-8339196985dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
