@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 08:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 14:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모나리자 NO~ 켄달 제너∙제니도 가세한 존재감 없는 눈썹!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67239</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67239</guid>
+            <pubDate>Sat, 18 Jun 2022 14:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[화장을 하다 말았냐고요? 요새는 있는 듯~ 없는 듯~한 눈썹이 트렌드!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/cb10d0b6-84d0-4708-bad5-30bfe457e2cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[곧 품절 각! 엔하이픈∙몬스타엑스∙세븐틴∙TXT가 ‘찐’으로 애용 중인 향수 리스트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67237</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Jun 2022 11:15:35 GMT</pubDate>
             <content:encoded><![CDATA[시카고에서 열린 ‘KCON 2022 프리미어’로 글로벌 KPOP 팬들 만나고 온 자랑스러운 아이돌의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/11192a92-9070-44bf-8b1e-31a0c01cd6a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마블리가 7년째 사랑하는 그녀의 정체]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67184</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67184</guid>
-            <pubDate>Tue, 14 Jun 2022 09:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[7년째 공개 연인 중인 마형사, 마동석의 러버 예정화는 뉴규?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/6119b1f2-c17f-483f-b7ba-089c7b6dee2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
