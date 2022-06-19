@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 15:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두아 리파ㆍ노르마니 등 핫한 언니들이 선택한 코르셋 스타일이 궁금하다면?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67232</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67232</guid>
+            <pubDate>Sun, 19 Jun 2022 15:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[완벽한 S라인을 위해서라면 주목해야 할 #코르셋탑 #체함주의]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/af2e71e5-3ee0-4b45-9bba-09ca4c456d69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스윔웨어와 데일리룩 중간 어디쯤, 보디 슈트 베스트 활용법?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67231</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 14 Jun 2022 18:11:52 GMT</pubDate>
             <content:encoded><![CDATA[자유롭게 나아갈 나를 위해, 머시론®을 택했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/bc7eb163-386c-4e45-afcd-17de8f742e8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해변의 부드러운 모래 위를 거닐고 싶게 해줄 플랫 샌들 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67149</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67149</guid>
-            <pubDate>Tue, 14 Jun 2022 18:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[한여름의 뜨거운 햇살만큼 강렬하고, 톡 쏘는 칵테일처럼 컬러풀한 서머 액세서리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/dc9eaeb2-1e8b-4e6e-a420-ebad271b2ce2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
