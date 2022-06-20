@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 06:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Summer Basics! 여름 필수템 폴로셔츠 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67294</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67294</guid>
+            <pubDate>Mon, 20 Jun 2022 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[늘 입고 있기에, 그 특별함을 잊고 있었다. 누구나 하나쯤은 가지고 있는 베이식한 에센셜 아이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/cea86062-847a-4eaf-b266-0313919d7651.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summertime Blues, 청명한 블루 워치에 물든 여름날의 낭만]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67267</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67267</guid>
+            <pubDate>Mon, 20 Jun 2022 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[청명한 블루 워치에 물든 여름날의 낭만.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/9a08e822-3167-477d-9213-0cf1b22d82cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don't Hide Yourself! 더 이상 몸을 숨기지 않는, 각자의 체형과 어우러지는 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67250</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67250</guid>
+            <pubDate>Mon, 20 Jun 2022 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제 더 이상 몸을 숨기지 않는다. 플러스 사이즈라는 말도 점차 사라지고 모든 체형을 정상으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/c483ed95-0af5-41fb-8b86-7c968ad31991.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두아 리파ㆍ노르마니 등 핫한 언니들이 선택한 코르셋 스타일이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67232</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 15 Jun 2022 18:11:51 GMT</pubDate>
             <content:encoded><![CDATA[쿨내 진동하는 서머 룩 연출을 위한 필수템! 아이돌 재질의 블랙 티셔츠 스타일링.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/afeceeff-034b-416c-9cb0-07857f40b406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<유미의 세포들 2> 김고은의 프렌치 시크 스타일 사복 패션!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67163</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67163</guid>
-            <pubDate>Wed, 15 Jun 2022 08:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[재킷 하나만 걸쳐도 시크한 그녀의 사복 패션 파헤치기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/b57ba074-fa90-4fa2-a788-8cedc06f191a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니∙도연∙이연희는 어떤 안경 써? 셀럽들의 안경 PICK]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67157</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67157</guid>
-            <pubDate>Wed, 15 Jun 2022 08:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[셀럽들의 멋쁨 뿜뿜 뿔테 안경 룩은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/ef47fcd7-32b3-478d-9c2d-b5f7beb4d1c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일의 나를 위한 선택]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66651</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66651</guid>
-            <pubDate>Tue, 14 Jun 2022 18:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[자유롭게 나아갈 나를 위해, 머시론®을 택했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/bc7eb163-386c-4e45-afcd-17de8f742e8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
