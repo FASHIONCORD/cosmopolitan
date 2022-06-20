@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 11:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 12:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내에서 최초로 열린 디올 패션쇼와 성수동의 콘셉트 스토어]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67305</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67305</guid>
+            <pubDate>Mon, 20 Jun 2022 12:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[디올이 지금 가장 다이내믹하고 흥미로운 도시, 서울에 브랜드의 헤리티지를 펼쳐 보였다. 국내에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/132c03b3-08c4-478e-99a8-7183ff196344.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Basics! 여름 에센셜 아이템, 화이트 티셔츠 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67303</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67303</guid>
+            <pubDate>Mon, 20 Jun 2022 12:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[늘 입고 있기에, 그 특별함을 잊고 있었다. 누구나 하나쯤은 가지고 있는 베이식한 에센셜 아이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/aaf0b53e-dd80-4087-95f7-60e5f20e246b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Summer Basics! 여름 필수템 폴로셔츠 스타일링]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67294</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 17 Jun 2022 23:09:34 GMT</pubDate>
             <content:encoded><![CDATA[기나긴 팬데믹에 자신의 욕망을 감출 수밖에 없었던 여자들이 관능적인 룩을 다시 탐하기 시작했...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/999fddb4-5334-46d0-88ab-64930828661b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리부터 발끝까지 알록 달록! 타투 스티커와 네일 아트로 완성하는 퀵 서머 뷰티]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67213</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67213</guid>
-            <pubDate>Thu, 16 Jun 2022 18:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[머리부터 발끝까지 빼곡히 알록달록하게 채운다. 타투 스티커와 네일 아트로 완성하는 퀵 서머 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/88ce71c1-7aac-4c5f-9864-0a090544dcad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 예리부터 (여자)아이들 소연까지 여돌들의 갓킹템, 블랙 티셔츠]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67174</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67174</guid>
-            <pubDate>Wed, 15 Jun 2022 18:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[쿨내 진동하는 서머 룩 연출을 위한 필수템! 아이돌 재질의 블랙 티셔츠 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/afeceeff-034b-416c-9cb0-07857f40b406.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
