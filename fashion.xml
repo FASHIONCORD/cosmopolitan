@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 13:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 16:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모델 재질 언니들이 알려주는 슬기로운 화이트 탱크톱 생활]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67324</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67324</guid>
+            <pubDate>Tue, 21 Jun 2022 16:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[목 늘어난 런닝구는 잊어라! 런웨이 정복하고 셀렙 맘도 사로잡은 화이트 탱크톱]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/1dd6434e-b233-47fe-9ab6-b317cf832f12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<왜 오수재인가> 서현진의 엘리트 변호사 패션은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67313</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Jun 2022 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 더 이상 몸을 숨기지 않는다. 플러스 사이즈라는 말도 점차 사라지고 모든 체형을 정상으...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/c483ed95-0af5-41fb-8b86-7c968ad31991.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두아 리파ㆍ노르마니 등 핫한 언니들이 선택한 코르셋 스타일이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67232</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67232</guid>
-            <pubDate>Sun, 19 Jun 2022 15:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[완벽한 S라인을 위해서라면 주목해야 할 #코르셋탑 #체함주의]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/af2e71e5-3ee0-4b45-9bba-09ca4c456d69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
