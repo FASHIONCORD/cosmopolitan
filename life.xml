@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 06:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펫팸족 주목! 반려동물 털 관리와 청소 고민은 이걸로 끝!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67282</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67282</guid>
+            <pubDate>Wed, 22 Jun 2022 06:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[다이슨에서 빗질과 동시에 반려 동물의 빠진 털과 알레르기 유발 물질을 잡아내는 펫 그루밍 툴...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e0ec7477-1a1f-4a18-8a48-7f4c551799ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여긴 몰랐지? 맛집 아닌 성수동 ‘놀 거리, 볼거리’]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67346</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67346</guid>
+            <pubDate>Wed, 22 Jun 2022 06:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램에 올릴만한 스팟들이 가득! 볼거리, 놀 거리로 가득한 성수동 스팟 모음.zip]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/3289a024-2693-4f7d-a0e1-938cc43a99b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최근 ‘훈남 감독’ 연인과의 커플 사진 공개한 전종서]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67337</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 20 Jun 2022 20:18:09 GMT</pubDate>
             <content:encoded><![CDATA[윤계상, 손석구에 이어 &lt;범죄도시3&gt; 빌런의 정체가 공개됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/d6be08e7-44b0-4afe-9fd9-ce8162d7d190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<왜 오수재인가> 서현진의 엘리트 변호사 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67313</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67313</guid>
-            <pubDate>Mon, 20 Jun 2022 20:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[승률 쩌는 스타 변호사 오수재 패션 분석!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/44157125-e276-484b-b110-65addc7f1285.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 차 로망? 첫 차 구매를 압둔 당신을 위한 타입별 추천 차 가이드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67307</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67307</guid>
-            <pubDate>Mon, 20 Jun 2022 20:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[주차가 편한 작은 차? 대세에 따른 전기차? ‘첫 차 구입’이라는 일생일대의 쇼핑을 앞둔 당...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/65375cee-bbf7-48e0-a1c7-5c66d92391e4.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
