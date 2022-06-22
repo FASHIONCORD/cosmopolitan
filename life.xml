@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 10:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안 가면 꼭 후회할, 지금의 팝업 스토어]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67365</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67365</guid>
+            <pubDate>Wed, 22 Jun 2022 10:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[지금 아니면 못가요. 꼭 가봐야할 곳만 엄선했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/923b55f1-b865-4162-a412-e28d51d5a50f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 OPPA는 더 이상 아이돌이 아니다? 갓벽한 사업가로 변신한 모먼트 대.공.개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67363</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67363</guid>
+            <pubDate>Wed, 22 Jun 2022 10:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘내돈내산’하고 싶은 아이템은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/1542958e-aba3-424b-ac9a-cd6fd30a0245.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펫팸족 주목! 반려동물 털 관리와 청소 고민은 이걸로 끝!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67282</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 21 Jun 2022 13:38:37 GMT</pubDate>
             <content:encoded><![CDATA[소식러 안영미도 한 그릇 쌉 가능~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/541a9169-7b9f-4ad2-aa0f-48f6d9f61da9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성분 무시 못 하지! 순하디 순한 주방 & 욕실 아이템 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67323</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67323</guid>
-            <pubDate>Mon, 20 Jun 2022 20:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[젖병 세정제부터 욕조 클리너, 욕실 클리너까지! 성분이 착해 입소문을 탄 아이템을 모아봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/4e67dd1a-502c-4819-b7e9-5262a71e9778.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석 <범죄도시3>, 빌런 이준혁 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67321</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67321</guid>
-            <pubDate>Mon, 20 Jun 2022 20:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[윤계상, 손석구에 이어 &lt;범죄도시3&gt; 빌런의 정체가 공개됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/d6be08e7-44b0-4afe-9fd9-ce8162d7d190.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
