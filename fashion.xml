@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 13:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 20:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stripes Fashion, 다양한 색의 선들이 그려내는 조형적 아름다움과 세련미]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67378</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67378</guid>
+            <pubDate>Wed, 22 Jun 2022 20:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 색의 선들이 그려내는 조형적 아름다움과 세련미.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/a50b6345-e406-4560-97a9-b9a54136f9cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비 오는 날에 제니· 최유정 등을 ‘손민수’ 해야 하는 이유]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67375</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Jun 2022 16:15:47 GMT</pubDate>
             <content:encoded><![CDATA[김아현의 힙한 사복 패션은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/b7e46c5c-cce5-4320-b48a-98e498cf30cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내에서 최초로 열린 디올 패션쇼와 성수동의 콘셉트 스토어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67305</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67305</guid>
-            <pubDate>Mon, 20 Jun 2022 12:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[디올이 지금 가장 다이내믹하고 흥미로운 도시, 서울에 브랜드의 헤리티지를 펼쳐 보였다. 국내에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/132c03b3-08c4-478e-99a8-7183ff196344.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
