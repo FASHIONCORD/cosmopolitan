@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 09:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 16:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 핫한 셀럽들이 사랑에 빠진 잇백이 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67400</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67400</guid>
+            <pubDate>Thu, 23 Jun 2022 16:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[프라다부터 이세이미야케, 로사케이까지! 지금 가장 핫한 명품백 트렌드는 기하학 패턴~ 현아부터...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/abdca4e9-19da-4f4d-8dcc-5dd9102ad624.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stripes Fashion, 다양한 색의 선들이 그려내는 조형적 아름다움과 세련미]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67378</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Jun 2022 12:22:50 GMT</pubDate>
             <content:encoded><![CDATA[승률 쩌는 스타 변호사 오수재 패션 분석!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/44157125-e276-484b-b110-65addc7f1285.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지드래곤의 그녀? 모델 김아현 사복 룩 파헤치기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67312</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67312</guid>
-            <pubDate>Mon, 20 Jun 2022 16:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[김아현의 힙한 사복 패션은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/b7e46c5c-cce5-4320-b48a-98e498cf30cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
