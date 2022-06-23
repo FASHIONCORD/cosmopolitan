@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 22:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주 가니? 엄정화∙송은이∙미자가 간 여기 어때?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67374</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67374</guid>
+            <pubDate>Thu, 23 Jun 2022 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[송은이가 동문시장에서 먹은 국숫집, 엄정화가 제주 갈 때마다 가는 중문 맛집, 미자가 김태현과...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/97eb74b5-ccd1-45d7-a67d-f140b82de50f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안 가면 꼭 후회할, 지금의 팝업 스토어]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67365</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Jun 2022 13:38:37 GMT</pubDate>
             <content:encoded><![CDATA[자, 이제 게임을 다시 시작해볼까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/00bb3ad0-5c69-4676-86a8-4696b2d903cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛집 빼곤 다 있다는 상암도 옛말이죠~ 상암동 핫한 맛집 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67325</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67325</guid>
-            <pubDate>Tue, 21 Jun 2022 13:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[소식러 안영미도 한 그릇 쌉 가능~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/541a9169-7b9f-4ad2-aa0f-48f6d9f61da9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
