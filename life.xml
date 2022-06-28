@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 06:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 봐, '언니돌'의 컴백이다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67519</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67519</guid>
+            <pubDate>Tue, 28 Jun 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[여름, 플레이리스트 지배할 언니돌이 출격한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/d9dc6676-061f-44b0-b1c6-c883992c804d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈골 파워와 예술 춤선 만드는 음악이 ITZY에게만 있지!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67516</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67516</guid>
+            <pubDate>Tue, 28 Jun 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[스트레스 풀리는 멜로디와 리듬, 파워풀한 안무까지 못하는 게 없는 있지가 컴백한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/cfedd593-ff79-4e06-b58b-c29b97ad56a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퀸덤2 히로인들의 컴백 전쟁 D-DAY]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67514</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67514</guid>
+            <pubDate>Tue, 28 Jun 2022 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[퀸덤은 끝났지만 컴백 전쟁은 지금부터?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2fb4ffed-08de-447c-bcad-98eb9b86eaad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[적당히를 모르는 ‘컴백맛집’ 남돌 리스트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67513</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 27 Jun 2022 20:11:58 GMT</pubDate>
             <content:encoded><![CDATA[무더운 여름 밤이지만 와인과 함께라면 행복할 수 있다고요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/14d88cc5-1fd9-46f5-99cc-c0a327aaf574.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자의식 과잉? 이거 혹시 내 얘기야?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67499</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67499</guid>
-            <pubDate>Mon, 27 Jun 2022 20:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[우리 내가 어떤 사람인지 너무 많은 시간 고민하지 맙시다, 생각보다 남들은 나에게 관심 없어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/4a10dc9d-feb5-4a5b-946d-596ef9213cbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 아이돌 컴백 전쟁 예고]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67492</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67492</guid>
-            <pubDate>Mon, 27 Jun 2022 20:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대, 우주소녀, 에스파 그리고 수퍼주니어까지! 올여름 대형 아이돌 컴백이 시작된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/d614c1d5-2933-4b4f-9d58-e98b6c58fbc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신민아·김나영·예리의 바캉스 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67480</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67480</guid>
-            <pubDate>Mon, 27 Jun 2022 20:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[셀럽들의 여름 휴가 룩이 궁금해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/65e5c10c-fb94-4fee-92c9-edb231d1cb2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
