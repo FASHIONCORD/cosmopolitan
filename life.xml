@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 07:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국 유명 홍차 브랜드 3곳에서 쇳가루가 검출됐다고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67523</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67523</guid>
+            <pubDate>Tue, 28 Jun 2022 07:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[기준치 4배 초과, ‘이 홍차’ 드시고 있다면 즉시 환불하세요]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/71a8d99f-b040-4cb2-84d0-22204e6fa3fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐, '언니돌'의 컴백이다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67519</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Jun 2022 20:11:58 GMT</pubDate>
             <content:encoded><![CDATA[이 정도면 한국인들 나 빼고 다 천재인 듯.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ec9195e3-64a4-401c-80aa-38a2e526cd05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방구석 혼술러를 위한 여름 와인 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67501</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67501</guid>
-            <pubDate>Mon, 27 Jun 2022 20:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[무더운 여름 밤이지만 와인과 함께라면 행복할 수 있다고요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/14d88cc5-1fd9-46f5-99cc-c0a327aaf574.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
