@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 03:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀸덤2 히로인들의 컴백 전쟁 D-DAY]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67514</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67514</guid>
+            <pubDate>Tue, 28 Jun 2022 05:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[퀸덤은 끝났지만 컴백 전쟁은 지금부터?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2fb4ffed-08de-447c-bcad-98eb9b86eaad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[적당히를 모르는 ‘컴백맛집’ 남돌 리스트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67513</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67513</guid>
+            <pubDate>Tue, 28 Jun 2022 05:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022 여름, 에너제틱 한 활동이 더더더 기대되는 컴백 맛집 남자 아이돌이 온다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/8036578b-3c30-4abd-aff2-ca8a7f222432.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘임윤찬’이 ‘반 클라이번 콩쿠르’에서 최연소로 우승했다고? 믿고 보는 임윤찬 콩쿠르 연주 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67503</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Jun 2022 21:11:34 GMT</pubDate>
             <content:encoded><![CDATA[사사건건 정반대인 두 사람이 각자의 길을 좇다가 운명처럼 같은 곳에서 우연히 만났을 때.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/9d458fec-996b-4866-9484-67863cd6b3fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#CLOSE_UP “누데이크 콘텐츠는 판타지다!” 크리에이티브한 콘텐츠를 만드는 아트 디렉터]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67418</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67418</guid>
-            <pubDate>Mon, 27 Jun 2022 21:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[이것이 바로 저 세상 힙이다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/0cd31510-1c13-485c-96f2-e0b5630575c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉘 집 자식이라고? 피는 못 속이는 셀럽들의 2세는 누구?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67406</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67406</guid>
-            <pubDate>Mon, 27 Jun 2022 21:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼 DNA, K-스포츠를 대표할 미래의 영웅들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/099272b0-6bf3-4e9e-9139-80ca7bef7016.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
