@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 11:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 12:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫해핫해~ 셀럽들의 워터밤 패션 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67561</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67561</guid>
+            <pubDate>Wed, 29 Jun 2022 12:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[아이들 민니부터 우기, 청하, 허니제이까지! 핫걸들의 썸머 파티 패션을 소개합니다~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/2a0fd631-0830-4a74-aedb-cc0ef6a78a9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현빈♥손예진, 임신 소식에 SNS계의 댓글 스나이퍼 이민정이 등장했다?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67559</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67559</guid>
+            <pubDate>Wed, 29 Jun 2022 12:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[당사자들보다 더 난리 난 대중들과 찐친들의 반응은?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/1b003aa8-c976-4f46-ba59-0f26b80f013a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100% 국내 기술 ‘누리호’, 어떤 기업이 참여했을까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67553</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 07:15:32 GMT</pubDate>
             <content:encoded><![CDATA[기준치 4배 초과, ‘이 홍차’ 드시고 있다면 즉시 환불하세요]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/71a8d99f-b040-4cb2-84d0-22204e6fa3fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐, '언니돌'의 컴백이다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67519</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67519</guid>
-            <pubDate>Tue, 28 Jun 2022 06:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[여름, 플레이리스트 지배할 언니돌이 출격한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/d9dc6676-061f-44b0-b1c6-c883992c804d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈골 파워와 예술 춤선 만드는 음악이 ITZY에게만 있지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67516</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67516</guid>
-            <pubDate>Tue, 28 Jun 2022 06:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[스트레스 풀리는 멜로디와 리듬, 파워풀한 안무까지 못하는 게 없는 있지가 컴백한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/cfedd593-ff79-4e06-b58b-c29b97ad56a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

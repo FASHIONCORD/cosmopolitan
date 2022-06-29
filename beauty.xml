@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 11:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 12:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 대세는 앞머리!? ITZY 예지∙신민아∙한지민∙손담비의 세젤예 헤어 스타일링 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67479</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67479</guid>
+            <pubDate>Wed, 29 Jun 2022 12:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[역시 분위기 변신은 한 끗 차이!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6f014fbc-d1f5-47b7-be75-c919415a89b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 언니들의 20kg 감량 비결은 바로 이것!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67407</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Jun 2022 21:12:01 GMT</pubDate>
             <content:encoded><![CDATA[보송보송한 비누 향만 날 것 같은 남자 아이돌에게 이런 반전 향이 난다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2dc5df7a-49ad-447b-aefb-393f31023828.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정채연∙미주 등 다이어트 후유증 때문에 고생한 셀럽은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67235</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67235</guid>
-            <pubDate>Mon, 20 Jun 2022 06:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[이제 다이어트는 건강하게!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/9235865d-66c8-4b13-be12-276c43c7916b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
