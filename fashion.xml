@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 04:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫해핫해~ 셀럽들의 워터밤 패션 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67561</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67561</guid>
+            <pubDate>Wed, 29 Jun 2022 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[아이들 민니부터 우기, 청하, 허니제이까지! 핫걸들의 썸머 파티 패션을 소개합니다~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/2a0fd631-0830-4a74-aedb-cc0ef6a78a9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전소연·화사·민니 등 한뼘 크기의 마이크로 숏팬츠 활용법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67560</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67560</guid>
+            <pubDate>Wed, 29 Jun 2022 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[한뼘 사이즈의 숏팬츠로 올여름 핫걸에 도전해보자! 아이들 전소연, 마마무 화사, 아이들 민니, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/9653607a-2209-4e63-a02c-b76ae9a99508.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 패션의 완성은 진주 목걸이, 킹정?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67550</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 06:15:13 GMT</pubDate>
             <content:encoded><![CDATA[셀럽들의 여름 휴가 룩이 궁금해!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/65e5c10c-fb94-4fee-92c9-edb231d1cb2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나는 멋있고 당당하고 인기 많지" 영화 <니얼굴>의 주인공, 다운증후군 배우 정은혜의 아름다움]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67414</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67414</guid>
-            <pubDate>Mon, 27 Jun 2022 18:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[몸은 변화한다. 몸에 대한 생각도 계속해서 진화한다. 여기 4명의 여성이 가진 내 몸에 대한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/04521a57-8517-40d8-a436-d35ce6cb5c49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SS트렌드인 스포티 무드를 바라보는 새로운 시선]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67410</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67410</guid>
-            <pubDate>Mon, 27 Jun 2022 18:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[뉴 시즌의 스포티 무드를 바라보는 새로운 시선.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/0af5e64e-5ddb-4363-8cdc-8d0c8c71ffdc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

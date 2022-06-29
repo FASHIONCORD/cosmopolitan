@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 04:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100% 국내 기술 ‘누리호’, 어떤 기업이 참여했을까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67553</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67553</guid>
+            <pubDate>Wed, 29 Jun 2022 09:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내 기업들의 피·땀·눈물 담은 누리호]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/38b83c4f-86e2-4f49-966f-ac7b237af9d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여기 홍콩 아니야? 서인국과 오연서가 커플 화보 찍고 간 신용산역 레스토랑]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67549</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 06:18:28 GMT</pubDate>
             <content:encoded><![CDATA[스트레스 풀리는 멜로디와 리듬, 파워풀한 안무까지 못하는 게 없는 있지가 컴백한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/cfedd593-ff79-4e06-b58b-c29b97ad56a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀸덤2 히로인들의 컴백 전쟁 D-DAY]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67514</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67514</guid>
-            <pubDate>Tue, 28 Jun 2022 06:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[퀸덤은 끝났지만 컴백 전쟁은 지금부터?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2fb4ffed-08de-447c-bcad-98eb9b86eaad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
