@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 15:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 17:41:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2dc5df7a-49ad-447b-aefb-393f31023828.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반전이야, 이 셀럽에게 이런 취미가? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67552</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67552</guid>
+            <pubDate>Wed, 29 Jun 2022 17:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[생각지도 못한 종목 나오는 게 포인트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/86587efd-6117-4301-8272-65ff16229798.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여기 홍콩 아니야? 서인국과 오연서가 커플 화보 찍고 간 신용산역 레스토랑 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67549</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67549</guid>
+            <pubDate>Tue, 28 Jun 2022 13:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 갈 수 있을지...? 찐 홍콩 문화가 그립다면 ‘웨이 티하우스 앤 레스토랑’으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/ba1c5e0b-4f4d-4054-b646-f57249adbea7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘모나리자’가 아니고 ‘블리치드 브로우’ 입니다만?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67546</link>
             <guid>https://www.cosmopolitan.co.kr/article/67546</guid>
@@ -358,20 +374,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2fb4ffed-08de-447c-bcad-98eb9b86eaad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[적당히를 모르는 ‘컴백맛집’ 남돌 리스트 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67513</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67513</guid>
-            <pubDate>Mon, 27 Jun 2022 20:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022 여름, 에너제틱 한 활동이 더더더 기대되는 컴백 맛집 남자 아이돌이 온다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/8036578b-3c30-4abd-aff2-ca8a7f222432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘임윤찬’이 ‘반 클라이번 콩쿠르’에서 최연소로 우승했다고? 믿고 보는 임윤찬 콩쿠르 연주 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67503</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67503</guid>
-            <pubDate>Mon, 27 Jun 2022 20:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[이 정도면 한국인들 나 빼고 다 천재인 듯.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ec9195e3-64a4-401c-80aa-38a2e526cd05.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[진짜 결혼했다고? 존박ㆍ앤디ㆍ윤계상 등 6월 품절남이 된 사랑꾼 스타 5 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67175</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67175</guid>
+            <pubDate>Wed, 29 Jun 2022 17:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[연예계는 현재 결혼식 풍년!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917d1a5-97a1-4c2a-b6a5-c0a63231e6f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[햇빛 눈이 부신 날에 이별해봤니 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -428,14 +436,6 @@
             <pubDate>Wed, 08 Jun 2022 15:12:04 GMT</pubDate>
             <content:encoded><![CDATA[아이돌을 향한 이 열렬한 동경과 애착은 혹 사랑의 다른 이름 아닐까? 1세대 ‘아이돌’ H.O...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/ffe65c0c-75e9-45ee-b7ab-83be4bbefe0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우리들의 블루스> , 10대 임신의 미화? VS 그럴 수 있다? (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65995</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65995</guid>
-            <pubDate>Wed, 08 Jun 2022 00:55:49 GMT</pubDate>
-            <content:encoded><![CDATA[아기의 심장 소리를 듣고, 낙태 대신 출산을 결심한다? &lt;우리들의 블루스&gt; 속 10대 임신 에피소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/791abea6-6f55-443c-b9fc-c18eb78b8182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핫해핫해~ 셀럽들의 워터밤 패션 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
