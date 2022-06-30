@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 09:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 10:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<안나>로 돌아온 수지의 훔치고 싶은 사복 패션 센스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67658</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67658</guid>
+            <pubDate>Thu, 30 Jun 2022 10:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘안나’가 된 수지처럼, 나도 수지가 되고 싶다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/f2d60199-d946-4efe-966f-fc69f9745da8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 김민규와 오니츠카타이거의 기막힌 조우, SHADOW!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67657</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Jun 2022 12:18:56 GMT</pubDate>
             <content:encoded><![CDATA[눈에서 꿀이 뚝뚝! 태연∙르세라핌∙엔믹스∙쏠의 헤어핀 스타일링]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/8acd1d0b-825c-4b50-a798-f36e5225fac7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여긴 몰랐지? 현아의 29금 타투 스팟]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67574</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67574</guid>
-            <pubDate>Wed, 29 Jun 2022 12:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[유교걸들 눈감아~ 타투 위치 고민 중이라면 소문난 타투좌 현아의 예를 참고할 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/e5aca683-f236-44c8-94ab-be4bb453523e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
