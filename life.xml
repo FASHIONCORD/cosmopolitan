@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 03:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 06:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인싸가 되고 싶니? 떠오르는 핫플 삼각지 맛집 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67564</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67564</guid>
+            <pubDate>Thu, 30 Jun 2022 06:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[여기만 가도 삼각지 정복 반은 성공!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/64f0ae1b-3c8a-4d39-a8af-e9e2f642e88e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핫해핫해~ 셀럽들의 워터밤 패션 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67561</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 13:42:24 GMT</pubDate>
             <content:encoded><![CDATA[박해일 후배 형사로 등장, 요즘 '칸 배우병'에 걸렸다던데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/09d1d343-677b-424b-817d-276518d983ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 유명 홍차 브랜드 3곳에서 쇳가루가 검출됐다고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67523</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67523</guid>
-            <pubDate>Tue, 28 Jun 2022 07:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[기준치 4배 초과, ‘이 홍차’ 드시고 있다면 즉시 환불하세요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/71a8d99f-b040-4cb2-84d0-22204e6fa3fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
