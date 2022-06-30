@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 16:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 18:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 여름은 리사·민니·유아·백예린처럼 ‘홀터넥’에 도전해봐!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67659</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67659</guid>
+            <pubDate>Thu, 30 Jun 2022 18:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[오히려 어깨를 드러내서 더 여리여리해 보인다는데?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/af4bdd70-6d21-4987-9612-6b57579c0498.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<안나>로 돌아온 수지의 훔치고 싶은 사복 패션 센스]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67658</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 06:13:04 GMT</pubDate>
             <content:encoded><![CDATA[올여름 유행하는 프린트 크롭트 티셔츠로 셀럽 룩 따라잡기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/ba8e06c4-7dd0-4ebc-9fa4-c28ff2d759c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 참 쉽죠? 헤어핀 하나면 여돌 재질 쌉가능]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67585</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67585</guid>
-            <pubDate>Wed, 29 Jun 2022 12:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[눈에서 꿀이 뚝뚝! 태연∙르세라핌∙엔믹스∙쏠의 헤어핀 스타일링]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/8acd1d0b-825c-4b50-a798-f36e5225fac7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
