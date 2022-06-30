@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 00:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민니·조이·노제·리사 이 중에 앞머리 누가 제일 잘 어울려?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67491</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67491</guid>
+            <pubDate>Thu, 30 Jun 2022 03:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[Next 앞머리 아이콘은 누구?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/4bcbd70d-32d2-42ab-ba9a-01d8773885d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 대세는 앞머리!? ITZY 예지∙신민아∙한지민∙손담비의 세젤예 헤어 스타일링 모음.ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67479</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Jun 2022 21:12:01 GMT</pubDate>
             <content:encoded><![CDATA[화장을 하다 말았냐고요? 요새는 있는 듯~ 없는 듯~한 눈썹이 트렌드!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/cb10d0b6-84d0-4708-bad5-30bfe457e2cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곧 품절 각! 엔하이픈∙몬스타엑스∙세븐틴∙TXT가 ‘찐’으로 애용 중인 향수 리스트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67237</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67237</guid>
-            <pubDate>Wed, 22 Jun 2022 21:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[보송보송한 비누 향만 날 것 같은 남자 아이돌에게 이런 반전 향이 난다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2dc5df7a-49ad-447b-aefb-393f31023828.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
