@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 14:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 16:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미모는 템빨! 다비치 강민경이 늘 쟁여 두는 영양제 바닥템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67655</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67655</guid>
+            <pubDate>Thu, 30 Jun 2022 16:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[강민경의 매일 매일 예뻐지는 이너뷰티 비결~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/5b076316-7f36-4623-877e-c3c2d2b424d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볶아야 산다! 뷔·선미·천우희·한지민의 히피 펌 스타일링]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67613</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Jun 2022 11:10:00 GMT</pubDate>
             <content:encoded><![CDATA[진서연, 소이현, 설현 폭풍 감량 비결은 겨우 따뜻한 물!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/4670c2bf-df60-43dc-98ab-3bc9401f0943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 가장 ‘힙’한 헤어스타일이 궁금해? ‘슬릭번’ AKA 까치머리!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67401</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67401</guid>
-            <pubDate>Tue, 28 Jun 2022 06:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[뒷머리를 까치처럼 빼서 묶는 ‘슬릭번’, 일명 ‘까치머리’가 요즘 가장 힙한 헤어 트렌드라는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/bf9b4106-03c6-4e41-8eac-fc5a7f83dbeb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
