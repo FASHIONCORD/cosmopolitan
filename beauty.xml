@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 17:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 18:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘봐, 언니들의 투톤이다! 태연∙써니∙은하∙민니]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67665</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67665</guid>
+            <pubDate>Sat, 02 Jul 2022 18:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[여름 맞이, 헤어 컬러 체인지 시간! 브라운? 애쉬? 탈색?! 선택지가 너무 많아 고민이라면 두...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/d4bc761e-4883-4c4f-89f7-f7de6b8c799b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미모는 템빨! 다비치 강민경이 늘 쟁여 두는 영양제 바닥템은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67655</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Jun 2022 12:19:40 GMT</pubDate>
             <content:encoded><![CDATA[역시 분위기 변신은 한 끗 차이!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6f014fbc-d1f5-47b7-be75-c919415a89b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 언니들의 20kg 감량 비결은 바로 이것!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67407</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67407</guid>
-            <pubDate>Wed, 29 Jun 2022 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[진서연, 소이현, 설현 폭풍 감량 비결은 겨우 따뜻한 물!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/4670c2bf-df60-43dc-98ab-3bc9401f0943.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
