@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 17:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDlfMTc4/MDAxNjU0NzU0OTg0NTMy.Vl2Bsw-jcjPRqiJnrzodP-esl3IVf9JH4pTFbjGQex0g.OejbGUdCiY7PTZHrQ2mbz1SWpq5sJ1sVBvQ3eaHB4-8g.JPEG/I3Cug_nJQYc8a0RuWyuRNSdQIIcM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[손나은의 여름밤 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67684</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67684</guid>
+            <pubDate>Sun, 03 Jul 2022 17:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[손나은의 밤은 낮보다 아름답다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/b1e78002-236f-4b2a-8ce8-b498528e9187.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름의 햇살 만큼 강렬한 레드 아이템 스타일링 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67667</link>
             <guid>https://www.cosmopolitan.co.kr/article/67667</guid>
@@ -238,12 +246,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/7256d0e0-bbf6-4cdd-8350-fe791504713d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[볶아야 산다! 뷔·선미·천우희·한지민의 히피 펌 스타일링 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67613</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67613</guid>
-            <pubDate>Thu, 30 Jun 2022 06:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 컬러부터 브레이드 스타일, 헤어 액세서리까지, 올여름 헤어 트렌드는 맥시멀 그 자체! ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/c45f56fc-d33a-4a7c-bfa2-dce3114918bc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미모 극성수기! 화제의 드라마 <안나> 속 수지의 뷰티 모먼트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67673</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67673</guid>
+            <pubDate>Sat, 02 Jul 2022 15:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[인생작을 만난 ‘갓’수지! 눈을 뗄 수 없는 그녀의 뷰티 모먼트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/1620e3f8-6613-4938-a6ec-d6043438861d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잘봐, 언니들의 투톤이다! 태연∙써니∙은하∙민니 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -300,14 +308,6 @@
             <pubDate>Thu, 30 Jun 2022 03:08:43 GMT</pubDate>
             <content:encoded><![CDATA[Next 앞머리 아이콘은 누구?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/4bcbd70d-32d2-42ab-ba9a-01d8773885d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세는 앞머리!? ITZY 예지∙신민아∙한지민∙손담비의 세젤예 헤어 스타일링 모음.ZIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67479</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67479</guid>
-            <pubDate>Wed, 29 Jun 2022 12:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[역시 분위기 변신은 한 끗 차이!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6f014fbc-d1f5-47b7-be75-c919415a89b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미모 극성수기! 화제의 드라마 <안나> 속 수지의 뷰티 모먼트 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
