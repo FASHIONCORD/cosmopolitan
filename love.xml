@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 18:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 20:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현빈♥손예진, 임신 소식에 SNS계의 댓글 스나이퍼 이민정이 등장했다?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67559</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67559</guid>
+            <pubDate>Sun, 03 Jul 2022 20:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[당사자들보다 더 난리 난 대중들과 찐친들의 반응은?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/1b003aa8-c976-4f46-ba59-0f26b80f013a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉘 집 자식이라고? 피는 못 속이는 셀럽들의 2세는 누구?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67406</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Jun 2022 21:12:53 GMT</pubDate>
             <content:encoded><![CDATA[일단 스펙 인증부터 하라는 사악한 데이팅 앱 세계에 인간미 넘치는 소개팅 서비스가 등장했다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/143de671-eda3-44e2-a859-1a0c769ffb7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 말고, 추앙]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66968</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66968</guid>
-            <pubDate>Wed, 15 Jun 2022 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[“지금 사랑하지 않는 자, 모두 유죄”의 시대는 지났다. 우리는 다만 각자의 자리에서 조용히 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/2d8ae8da-b628-4eee-b522-95f911255d69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
