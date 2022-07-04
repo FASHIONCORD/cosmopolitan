@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“여러분에게 할 말이 있다” 슈화가 ‘워터밤’ 행사에서 분노한 이유부터 소신 발언 모음까지!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67685</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67685</guid>
+            <pubDate>Mon, 04 Jul 2022 08:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[슈화는 참지 않기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/23f8228d-d7ac-4951-a840-b69b04518472.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미모 극성수기! 화제의 드라마 <안나> 속 수지의 뷰티 모먼트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67673</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
             <content:encoded><![CDATA[물에 담가도 OK! 후회 안 할 액션캠 추천 4]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/9c5b5a26-5693-4874-8fb7-d8ff1b881c49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘군침이 싹 도노~’, 댕댕이 동반 ‘송도’ 먹방 투어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67573</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67573</guid>
-            <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말 댕댕이와 함께 송도 핫플 가보자고~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/3b88a8bb-75bf-4da3-a118-2aeda4035d38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

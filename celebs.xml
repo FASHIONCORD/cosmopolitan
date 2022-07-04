@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보디왕 찐천재]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67680</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67680</guid>
+            <pubDate>Mon, 04 Jul 2022 08:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[배꼽 하이~ 잘록한 허리 여신부터 탐나는 직각 어깨 소유자, 갓벽한 S라인 보디까지! 올타임 부...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/7aefab10-8ed7-4c3b-9a3f-f0883f436cb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[까무잡잡해서 더 매력적인 흑진주 피부 써머 퀸!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67674</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 09:10:44 GMT</pubDate>
             <content:encoded><![CDATA[#사지말고입양하세요 유기견과 가족이 된 셀럽들은 누구?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/d9a3fd2c-9372-491c-91ee-ad072dd54f38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀리뱅의 존멋 리더, 허니제이가 새로운 도전에 거침없는 ‘프로 도전러’가 된 이유?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67607</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67607</guid>
-            <pubDate>Thu, 30 Jun 2022 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[거침없는 그녀의 FFF TALK!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/9a5d5938-bce9-43a3-a0e2-89de6d17907f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
