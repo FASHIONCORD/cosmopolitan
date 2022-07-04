@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 14:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 15:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 픽! 7월에 소장해야 할 머스트 해브 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67643</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67643</guid>
+            <pubDate>Mon, 04 Jul 2022 15:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/acfb19ad-03b7-448d-bcce-c1ea2e21b7de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GOT7 제이비가 코스모폴리탄 매운맛 인터뷰에 자리를 박차고 나간 이유는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67686</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 09:10:10 GMT</pubDate>
             <content:encoded><![CDATA[1980년대를 향한 아름다운 오마주, 오니츠카타이거의 AW 22 컬렉션 캠페인]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/848b43ab-80bf-4742-80b3-e3390bba4ac3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더워도 절대 포기 못해! 부츠 러버들을 위한 멋잘알 여름 부츠 스타일링 TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67616</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67616</guid>
-            <pubDate>Thu, 30 Jun 2022 07:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[두아 리파부터 빅토리아 시크릿 엔젤 엘사 호스크까지 전부 있다니까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/b5ca3c38-19ce-4f8b-bc60-f3d23dd18be7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
