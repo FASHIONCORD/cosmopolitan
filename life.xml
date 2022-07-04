@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 21:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 04:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미모 극성수기! 화제의 드라마 <안나> 속 수지의 뷰티 모먼트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67673</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67673</guid>
+            <pubDate>Mon, 04 Jul 2022 04:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[인생작을 만난 ‘갓’수지! 눈을 뗄 수 없는 그녀의 뷰티 모먼트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/1620e3f8-6613-4938-a6ec-d6043438861d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RM도 슬퍼 한 을지면옥의 영업 종료, 연대 투쟁의 장이 된 을지OB베어]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67671</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67671</guid>
+            <pubDate>Mon, 04 Jul 2022 04:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[이제 그 자리에 없는 을지로의 상징적인 장소들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/5f72ae47-2d7b-474c-852f-c76472ec9eb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로튼토마토 지수 80% 이상! 장마기간을 책임질 호러무비 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67669</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말 댕댕이와 함께 송도 핫플 가보자고~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/3b88a8bb-75bf-4da3-a118-2aeda4035d38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인싸가 되고 싶니? 떠오르는 핫플 삼각지 맛집 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67564</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67564</guid>
-            <pubDate>Thu, 30 Jun 2022 06:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[여기만 가도 삼각지 정복 반은 성공!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/64f0ae1b-3c8a-4d39-a8af-e9e2f642e88e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫해핫해~ 셀럽들의 워터밤 패션 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67561</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67561</guid>
-            <pubDate>Wed, 29 Jun 2022 12:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[아이들 민니부터 우기, 청하, 허니제이까지! 핫걸들의 썸머 파티 패션을 소개합니다~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/2a0fd631-0830-4a74-aedb-cc0ef6a78a9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
