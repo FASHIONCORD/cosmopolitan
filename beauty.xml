@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 20:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 23:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[까무잡잡해서 더 매력적인 흑진주 피부 써머 퀸!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67674</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67674</guid>
+            <pubDate>Mon, 04 Jul 2022 23:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[올여름은 이 언니들이 접수한다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/615f5e20-a6f2-4262-95f7-89ffa3ad4bb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미모 극성수기! 화제의 드라마 <안나> 속 수지의 뷰티 모먼트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67673</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 07:08:52 GMT</pubDate>
             <content:encoded><![CDATA[트와이스 모모·다현, 오마이걸 미미·효정도 한 올여름 ‘찐’ 유행, 브레이드 헤어]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/69b423b7-4ae5-42b9-872e-1e6b2eb5087a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민니·조이·노제·리사 이 중에 앞머리 누가 제일 잘 어울려?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67491</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67491</guid>
-            <pubDate>Thu, 30 Jun 2022 03:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[Next 앞머리 아이콘은 누구?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/4bcbd70d-32d2-42ab-ba9a-01d8773885d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
