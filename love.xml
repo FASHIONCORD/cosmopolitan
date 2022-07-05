@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 15:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 17:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김고은, 새로운 가족이 생겼다? 뇌기능 장애를 앓고 있는 유기견 ‘월이’를 입양했다는데!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67611</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67611</guid>
+            <pubDate>Tue, 05 Jul 2022 17:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[#사지말고입양하세요 유기견과 가족이 된 셀럽들은 누구?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/d9a3fd2c-9372-491c-91ee-ad072dd54f38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현빈♥손예진, 임신 소식에 SNS계의 댓글 스나이퍼 이민정이 등장했다?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67559</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Jun 2022 21:12:53 GMT</pubDate>
             <content:encoded><![CDATA[황재균을 지연 밖에 모르는 찐 사랑꾼으로 인정하는 바~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/09d4a163-085d-47a0-b8a3-2d81c8db035e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이력서로 소개팅을?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67035</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67035</guid>
-            <pubDate>Wed, 22 Jun 2022 21:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[일단 스펙 인증부터 하라는 사악한 데이팅 앱 세계에 인간미 넘치는 소개팅 서비스가 등장했다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/143de671-eda3-44e2-a859-1a0c769ffb7e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

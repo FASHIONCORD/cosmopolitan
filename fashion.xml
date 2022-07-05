@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 15:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 17:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가벼운 티셔츠 하나면 서머 트레블러 룩 쌉파서블!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67646</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67646</guid>
+            <pubDate>Tue, 05 Jul 2022 17:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[여름엔 가벼운 티셔츠 한 장 입고 훌훌 떠나고 싶다. 서로 다른 매력을 지닌 각국의 도시와 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/0a61bcdf-f15b-4d18-bb39-925508e99945.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모 픽! 7월에 소장해야 할 머스트 해브 아이템은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67643</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 10:14:20 GMT</pubDate>
             <content:encoded><![CDATA[‘안나’가 된 수지처럼, 나도 수지가 되고 싶다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/f2d60199-d946-4efe-966f-fc69f9745da8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김민규와 오니츠카타이거의 기막힌 조우, SHADOW!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67657</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67657</guid>
-            <pubDate>Thu, 30 Jun 2022 09:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[1980년대를 향한 아름다운 오마주, 오니츠카타이거의 AW 22 컬렉션 캠페인]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/848b43ab-80bf-4742-80b3-e3390bba4ac3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
