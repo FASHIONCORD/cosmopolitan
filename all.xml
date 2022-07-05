@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 01:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 03:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -435,6 +435,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/143de671-eda3-44e2-a859-1a0c769ffb7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드라마 <미남당>의 주인공, 서인국과 오연서가 수상하다? 둘이 이 분위기 뭐야, 도대체 무슨 사이인데?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67687</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67687</guid>
+            <pubDate>Tue, 05 Jul 2022 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[수상하다, 수상해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/8fd2331f-7801-494e-a047-07fa1e2d1eba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOT7 제이비가 코스모폴리탄 매운맛 인터뷰에 자리를 박차고 나간 이유는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67686</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67686</guid>
+            <pubDate>Mon, 04 Jul 2022 04:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[제이비의 1급 비밀 최.초.공.개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/3984c30e-27b8-401f-98d4-98bc2ac0d1ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“여러분에게 할 말이 있다” 슈화가 ‘워터밤’ 행사에서 분노한 이유부터 소신 발언 모음까지! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67685</link>
             <guid>https://www.cosmopolitan.co.kr/article/67685</guid>
@@ -481,22 +497,6 @@
             <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
             <content:encoded><![CDATA[영상에서 눈팅만 하던 메뉴를 실제 영접할 수 있다고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/bddba86b-88f5-44cb-87fe-c0b542be837b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김고은, 새로운 가족이 생겼다? 뇌기능 장애를 앓고 있는 유기견 ‘월이’를 입양했다는데! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67611</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67611</guid>
-            <pubDate>Thu, 30 Jun 2022 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[#사지말고입양하세요 유기견과 가족이 된 셀럽들은 누구?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/d9a3fd2c-9372-491c-91ee-ad072dd54f38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레저는 내가 할게, 찍는 건 누가 할래? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67606</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67606</guid>
-            <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[물에 담가도 OK! 후회 안 할 액션캠 추천 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/9c5b5a26-5693-4874-8fb7-d8ff1b881c49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
