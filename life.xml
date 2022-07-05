@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 10:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 11:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 수지가 그렇게 연기를 잘 한다던데! 믿보배 수지 작품 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67746</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67746</guid>
+            <pubDate>Tue, 05 Jul 2022 11:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[태초에 ‘안나’ 이전에 이게 있었다고요~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/4fc86eff-3925-4ba8-9211-eb43e9648c3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 <미남당>의 주인공, 서인국과 오연서가 수상하다? 둘이 이 분위기 뭐야, 도대체 무슨 사이인데?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67687</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
             <content:encoded><![CDATA[이거 진짜 뉴스 맞아? 뉴스가 변화하고 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/9a1aab0b-94b3-4bca-bab8-211d5e06543c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기 그 사람이 하는 데라며? 유튜버가 하는 곳 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67614</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67614</guid>
-            <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[영상에서 눈팅만 하던 메뉴를 실제 영접할 수 있다고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/bddba86b-88f5-44cb-87fe-c0b542be837b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

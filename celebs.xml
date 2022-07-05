@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 10:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 11:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[켈리 클락슨과 스눕독이 극찬? 알렉사, 네 소개 좀 해줄래?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67770</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67770</guid>
+            <pubDate>Tue, 05 Jul 2022 11:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;아메리칸 송 테스트&gt; 최종 우승! 오클라호마 출신의 케이팝 팬은 어떻게 글로벌 케이팝 스타가...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/cbbb2964-fa5c-4b80-a51a-3e5696e9d2ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌 토끼상, 귀여우면 다냐?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67767</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 08:13:48 GMT</pubDate>
             <content:encoded><![CDATA[슈화는 참지 않기!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/23f8228d-d7ac-4951-a840-b69b04518472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보디왕 찐천재]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67680</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67680</guid>
-            <pubDate>Mon, 04 Jul 2022 08:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[배꼽 하이~ 잘록한 허리 여신부터 탐나는 직각 어깨 소유자, 갓벽한 S라인 보디까지! 올타임 부...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/7aefab10-8ed7-4c3b-9a3f-f0883f436cb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
