@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 03:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 06:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스트 말론, 안젤리나 졸리 아들 매덕스까지! 한국인 가족 생기는 헐리웃?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67755</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67755</guid>
+            <pubDate>Wed, 06 Jul 2022 06:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[안젤리나 졸리 한국인 며느리 맞이 하나]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/2631d522-b7ac-4779-b21e-16c75b70ec9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안 그래도 핫한데 더 한 핫플이 등장했다고? 한남 & 연남 신상 빵 맛집 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67748</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67748</guid>
+            <pubDate>Wed, 06 Jul 2022 06:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[그래, 뭐든 과할수록 좋죠!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/33dde1be-50f2-45e6-ac13-ec0c2fc3ac58.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 수지가 그렇게 연기를 잘 한다던데! 믿보배 수지 작품 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67746</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 04 Jul 2022 04:43:06 GMT</pubDate>
             <content:encoded><![CDATA[이제 그 자리에 없는 을지로의 상징적인 장소들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/5f72ae47-2d7b-474c-852f-c76472ec9eb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로튼토마토 지수 80% 이상! 장마기간을 책임질 호러무비 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67669</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67669</guid>
-            <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[장마기간도 허투루 보내지 않는 ‘갓생’을 위한 호러무비 추천]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/4ec541b0-0824-47dd-9287-ced6132c0e51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스 오프닝에서 춤을 추는 아나운서 등장?! 이젠 뉴스도 MZ세대!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67660</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67660</guid>
-            <pubDate>Thu, 30 Jun 2022 10:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[이거 진짜 뉴스 맞아? 뉴스가 변화하고 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/9a1aab0b-94b3-4bca-bab8-211d5e06543c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

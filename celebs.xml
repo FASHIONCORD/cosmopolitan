@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 03:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 06:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 제이홉, 미국 대형 페스티벌에서 메인무대를 장식한다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67784</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67784</guid>
+            <pubDate>Wed, 06 Jul 2022 06:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[KPOP 가수가 메인스테이지를 장식하는 건 최초라고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/2407809d-f3e2-49b6-af22-c32f0f8b795b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 영화감독으로 데뷔했다는 배우 문근영?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67782</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67782</guid>
+            <pubDate>Wed, 06 Jul 2022 06:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[배우 아닌 감독으로 부천 국제영화제 참석하는 그녀]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/f1bed429-f796-4687-9cac-9cad1a7c72ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[켈리 클락슨과 스눕독이 극찬? 알렉사, 네 소개 좀 해줄래?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67770</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 08:13:48 GMT</pubDate>
             <content:encoded><![CDATA[셀러브리티들과 인플루언서들의 핫 서머 스윔웨어 t트렌드? 최대한의 노출, 극도의 자신감을 장착...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/78ccdeab-c4ea-402c-9932-f75675fe816b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 <미남당>의 주인공, 서인국과 오연서가 수상하다? 둘이 이 분위기 뭐야, 도대체 무슨 사이인데?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67687</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67687</guid>
-            <pubDate>Tue, 05 Jul 2022 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[수상하다, 수상해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/8fd2331f-7801-494e-a047-07fa1e2d1eba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여러분에게 할 말이 있다” 슈화가 ‘워터밤’ 행사에서 분노한 이유부터 소신 발언 모음까지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67685</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67685</guid>
-            <pubDate>Tue, 05 Jul 2022 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[슈화는 참지 않기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/23f8228d-d7ac-4951-a840-b69b04518472.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
