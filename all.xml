@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 15:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 16:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -243,6 +243,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/f5033800-2a09-495c-b2b9-d443013820e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[New, Need, Now! 쿨~한 결제를 부르는 핫한 7월의 뷰티 신상 22 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67644</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67644</guid>
+            <pubDate>Wed, 06 Jul 2022 16:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[쿨~한 결제를 부르는 핫한 7월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/eea4c968-074e-4e1f-b911-2590dcc44802.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보디왕 찐천재 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67680</link>
             <guid>https://www.cosmopolitan.co.kr/article/67680</guid>
@@ -297,14 +305,6 @@
             <pubDate>Thu, 30 Jun 2022 10:14:35 GMT</pubDate>
             <content:encoded><![CDATA[여름에 데오도란트는 국룰이지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/fb91f930-410c-41f5-88a4-39aec65e1e1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘모나리자’가 아니고 ‘블리치드 브로우’ 입니다만?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67546</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67546</guid>
-            <pubDate>Thu, 30 Jun 2022 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[눈썹 탈색부터 염색까지, 2022 쏘 핫한 브로우 메이크업이 궁금하다면 커커몬!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/795215ec-2c5e-4e97-8b5b-836fc3d162b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심장아 나대지마, 대리만족 연애 장면 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
