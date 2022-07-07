@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 01:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 06:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다 된 패션에 에어팟 맥스 뿌리기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67801</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67801</guid>
+            <pubDate>Thu, 07 Jul 2022 06:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[벨라 하디드부터 유리ㆍ카이 등 성별, 국적을 막론하고 에어팟 맥스에 홀릭 중인 셀럽들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/3254cc7b-bb59-484d-b080-a8265bd74402.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선미는 꽃 모양 스티커를 추천했지, 핫썸머를 위한 노브라템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67789</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67789</guid>
+            <pubDate>Thu, 07 Jul 2022 06:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[답답함은 벗어버리고, 아름다움은 끌어올려줄 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/e23ee815-a93f-4846-bb53-71601f72be14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[존예 나나(NANA) 언니의 비주얼 특급 비법 공유해드림]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67788</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 08:13:48 GMT</pubDate>
             <content:encoded><![CDATA[트와이스 나연, 브브걸 유나, NCT 도형, 수지! 예쁘고 귀여운 거 모두 다 가진 토끼상 모음...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ecf30b96-0fe9-4521-8dad-48d084cded59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경과 보양식 먹을텐데~]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67766</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67766</guid>
-            <pubDate>Tue, 05 Jul 2022 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[음식에 진심인 성시경의 찐맛집 중 한여름 보양식 맛집은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ac433996-f07e-4239-94cc-016b920add90.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[포스트 말론, 안젤리나 졸리 아들 매덕스까지! 한국인 가족 생기는 헐리웃?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67755</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67755</guid>
-            <pubDate>Tue, 05 Jul 2022 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[안젤리나 졸리 한국인 며느리 맞이 하나]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/2631d522-b7ac-4779-b21e-16c75b70ec9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
