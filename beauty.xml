@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 15:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 18:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OMG! 셀럽들도 피할 수 없었던 아찔한 여름철 뷰티 웁쓰 모먼트는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67796</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67796</guid>
+            <pubDate>Thu, 07 Jul 2022 18:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[OMG! 미처 신경 쓰지 못한 소소한 실수가 흑역사로 남는 건 한순간. 셀렙들도 피할 수 없었던...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/22128394-ab9b-4673-a95d-d486caa1549b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소장각 드릉드릉~. 여름 한정 익스클루시브 뷰티 컬렉션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67762</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 03 Jul 2022 17:13:41 GMT</pubDate>
             <content:encoded><![CDATA[인생작을 만난 ‘갓’수지! 눈을 뗄 수 없는 그녀의 뷰티 모먼트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/1620e3f8-6613-4938-a6ec-d6043438861d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘봐, 언니들의 투톤이다! 태연∙써니∙은하∙민니]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67665</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67665</guid>
-            <pubDate>Sat, 02 Jul 2022 18:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[여름 맞이, 헤어 컬러 체인지 시간! 브라운? 애쉬? 탈색?! 선택지가 너무 많아 고민이라면 두...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/d4bc761e-4883-4c4f-89f7-f7de6b8c799b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
