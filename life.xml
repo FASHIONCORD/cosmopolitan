@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 14:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 15:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운 좋으면 실물 영접! 제주 핫플 연예인 카페 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67806</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67806</guid>
+            <pubDate>Thu, 07 Jul 2022 15:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[연예인이 직접 운영하는 카페에 가보고 싶다면?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/bdc4550e-08fe-4948-8eee-e385c78bb863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-드라마의 역주행?! HBO맥스 월드 순위에 진입한 2013년 드라마 <상속자들>]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67804</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 11:10:58 GMT</pubDate>
             <content:encoded><![CDATA[태초에 ‘안나’ 이전에 이게 있었다고요~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/4fc86eff-3925-4ba8-9211-eb43e9648c3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 <미남당>의 주인공, 서인국과 오연서가 수상하다? 둘이 이 분위기 뭐야, 도대체 무슨 사이인데?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67687</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67687</guid>
-            <pubDate>Tue, 05 Jul 2022 03:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[수상하다, 수상해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/8fd2331f-7801-494e-a047-07fa1e2d1eba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
