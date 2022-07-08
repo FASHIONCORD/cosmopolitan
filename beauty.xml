@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 14:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 16:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 관리 원샷원킬! 꿀팁만 모아 정리한 서머 뷰티 백과사전]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67652</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67652</guid>
+            <pubDate>Fri, 08 Jul 2022 16:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[여름 피부를 위한 원샷원킬 스킨케어 루틴에서 땀과 피지로부터 공들인 메이크업을 구원해줄 프루...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/f046332a-83bf-45bb-9b04-f09d80786541.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OMG! 셀럽들도 피할 수 없었던 아찔한 여름철 뷰티 웁쓰 모먼트는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67796</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Jul 2022 23:13:07 GMT</pubDate>
             <content:encoded><![CDATA[올여름은 이 언니들이 접수한다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/615f5e20-a6f2-4262-95f7-89ffa3ad4bb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미모 극성수기! 화제의 드라마 <안나> 속 수지의 뷰티 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67673</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67673</guid>
-            <pubDate>Sun, 03 Jul 2022 17:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[인생작을 만난 ‘갓’수지! 눈을 뗄 수 없는 그녀의 뷰티 모먼트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/1620e3f8-6613-4938-a6ec-d6043438861d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
