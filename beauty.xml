@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 12:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 17:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진리의 흑발 Vs 스타일리시한 금발, 내가 도전할 스타일은 어느 쪽?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67829</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67829</guid>
+            <pubDate>Sat, 09 Jul 2022 17:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[흑발과 금발, 고민의 갈림길에 서 있다면 필독!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/5e315fe4-46b7-41d1-96cd-c174fde7783c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 관리 원샷원킬! 꿀팁만 모아 정리한 서머 뷰티 백과사전]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67652</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 17:19:12 GMT</pubDate>
             <content:encoded><![CDATA[배꼽 하이~ 잘록한 허리 여신부터 탐나는 직각 어깨 소유자, 갓벽한 S라인 보디까지! 올타임 부...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/7aefab10-8ed7-4c3b-9a3f-f0883f436cb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까무잡잡해서 더 매력적인 흑진주 피부 써머 퀸!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67674</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67674</guid>
-            <pubDate>Mon, 04 Jul 2022 23:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[올여름은 이 언니들이 접수한다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/615f5e20-a6f2-4262-95f7-89ffa3ad4bb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

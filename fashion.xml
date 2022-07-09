@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 12:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 17:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이직한 아이템부터 개성까지 챙긴 탠한 언니 김희정ㆍ채정안ㆍ김나영의 태닝 스타일링!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67802</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67802</guid>
+            <pubDate>Sat, 09 Jul 2022 17:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[태닝 피부에 어떤 아이템이 잘 어울릴지 고민하지 말고 일단 들어와~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/61a9b459-8d69-4e16-9051-290a3a75093d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다 된 패션에 에어팟 맥스 뿌리기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67801</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67801</guid>
+            <pubDate>Sat, 09 Jul 2022 17:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[벨라 하디드부터 유리ㆍ카이 등 성별, 국적을 막론하고 에어팟 맥스에 홀릭 중인 셀럽들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/3254cc7b-bb59-484d-b080-a8265bd74402.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해변에서 시선 강탈! 신상 스윔슈트와 비치웨어]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67651</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 17:19:03 GMT</pubDate>
             <content:encoded><![CDATA[여름엔 가벼운 티셔츠 한 장 입고 훌훌 떠나고 싶다. 서로 다른 매력을 지닌 각국의 도시와 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/0a61bcdf-f15b-4d18-bb39-925508e99945.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 픽! 7월에 소장해야 할 머스트 해브 아이템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67643</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67643</guid>
-            <pubDate>Mon, 04 Jul 2022 15:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/acfb19ad-03b7-448d-bcce-c1ea2e21b7de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GOT7 제이비가 코스모폴리탄 매운맛 인터뷰에 자리를 박차고 나간 이유는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67686</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67686</guid>
-            <pubDate>Mon, 04 Jul 2022 04:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[제이비의 1급 비밀 최.초.공.개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/3984c30e-27b8-401f-98d4-98bc2ac0d1ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
