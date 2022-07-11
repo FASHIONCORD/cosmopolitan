@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 01:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 08:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하와이안 셔츠로 연출한 비치 룩 vs.시티 룩]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67881</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67881</guid>
+            <pubDate>Mon, 11 Jul 2022 08:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[비치웨어를 해변과 도시에서 즐기는 8가지 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/1e1a5a2d-77cb-469c-b46c-1fba8ddf5546.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[회사에서 이런 것도 해줘?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67880</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67880</guid>
+            <pubDate>Mon, 11 Jul 2022 08:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[작고 귀여운 내 연봉을 보완하는 건 짱짱한 사내 복지 제도. 너무 많아 퇴사하기 전에 다 써...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/7a391963-83d7-44e6-9fb1-31ab46abf6e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넌 누구냐? '포비빅'은 참지 않지!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67653</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67653</guid>
+            <pubDate>Mon, 11 Jul 2022 08:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[잔망루피의 떡상을 이어받을 ‘포비빅’, 넌 누구냐!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/c0083024-d0d5-4aed-9895-4920cc5421c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이직한 아이템부터 개성까지 챙긴 탠한 언니 김희정ㆍ채정안ㆍ김나영의 태닝 스타일링!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67802</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 18:14:27 GMT</pubDate>
             <content:encoded><![CDATA[하늘 하늘한 플라워 패턴 원피스를 입은 셀럽]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/7e1be75e-4132-4966-a747-676fdeba4f54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자, 몸을 드러내다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67743</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67743</guid>
-            <pubDate>Wed, 06 Jul 2022 03:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[남자들이 자신의 몸을 과감히 드러내기 시작했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/159ad96c-3ac3-4c25-ace8-0ee14c771d7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꾸.꾸.꾸! 대세 셀럽들이 찐 사랑하는 화려함 끝판왕, 페이스 젬]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67723</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67723</guid>
-            <pubDate>Wed, 06 Jul 2022 03:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[본격적인 여름을 앞두고, 코덕들이 필수로 알아야 할 뷰티 꿀팁과 신상 이슈!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/9f7e1e6d-87f7-4830-b837-f013cb8659f0.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가벼운 티셔츠 하나면 서머 트레블러 룩 쌉파서블!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67646</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67646</guid>
-            <pubDate>Tue, 05 Jul 2022 17:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[여름엔 가벼운 티셔츠 한 장 입고 훌훌 떠나고 싶다. 서로 다른 매력을 지닌 각국의 도시와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/0a61bcdf-f15b-4d18-bb39-925508e99945.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 01:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 08:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무더위 속 1초 극락! 두피 에어컨 스프레이 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67841</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67841</guid>
+            <pubDate>Mon, 11 Jul 2022 08:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 두피 온도를 낮춰줄 냉찜질 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/61dabd4c-c539-463d-9e9b-cad4055dfee0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진리의 흑발 Vs 스타일리시한 금발, 내가 도전할 스타일은 어느 쪽?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67829</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Jul 2022 16:18:44 GMT</pubDate>
             <content:encoded><![CDATA[쿨~한 결제를 부르는 핫한 7월의 뷰티 신상!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/eea4c968-074e-4e1f-b911-2590dcc44802.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보디왕 찐천재]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67680</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67680</guid>
-            <pubDate>Tue, 05 Jul 2022 17:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[배꼽 하이~ 잘록한 허리 여신부터 탐나는 직각 어깨 소유자, 갓벽한 S라인 보디까지! 올타임 부...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/7aefab10-8ed7-4c3b-9a3f-f0883f436cb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
