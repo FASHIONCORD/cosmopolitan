@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 04:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 07:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘부터 박은빈은 믿보배]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67902</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67902</guid>
+            <pubDate>Tue, 12 Jul 2022 07:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[우to the 영 to the 우! 힐링 요정 박은빈의 인생드라마로 입덕 완료! .]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/a94d9a71-51f0-4a1c-bd04-fb235606873e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재벌 패션에 ‘이것’ 빠질 수 없다? <안나> 수지 패션 분석!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67901</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Jul 2022 08:15:22 GMT</pubDate>
             <content:encoded><![CDATA[MD는 무슨 일해요? 상품 전략 수립부터 기획, 프로모션까지 뭐든 다~해요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/1ab0d90a-837f-4d4c-99a1-7ce10627489a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art from Royal Heritage]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67820</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67820</guid>
-            <pubDate>Sat, 09 Jul 2022 17:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[영국 왕실 헤리티지를 바탕으로 컨템퍼러리 아트 브랜드로서의 영역을 넓혀가고 있는 로얄살루트....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/24b8984e-9839-4d13-ae99-b7215f34d321.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
