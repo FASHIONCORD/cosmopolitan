@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 19:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 23:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/61a9b459-8d69-4e16-9051-290a3a75093d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[피부 트러블 세굿바! 여드름 없이 깨끗한 갓생 피부가 되는 법 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67853</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67853</guid>
+            <pubDate>Tue, 12 Jul 2022 23:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[청춘의 꽃이라고 하기엔 다시 겪고 싶지도, 마주하고 싶지도 않다! 더워지면 스멀스멀 만개하는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/4877a3f7-7ba1-4e5a-a6df-01ee4a024583.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자 인생 기댈 곳은 척추기립근뿐? 지금은 떼인 근력을 찾을 시간! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67842</link>
             <guid>https://www.cosmopolitan.co.kr/article/67842</guid>
@@ -295,14 +303,6 @@
             <pubDate>Thu, 07 Jul 2022 10:11:38 GMT</pubDate>
             <content:encoded><![CDATA[본격적인 여름을 앞두고, 코덕들이 필수로 알아야 할 뷰티 꿀팁과 신상 이슈!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/37993fa9-20b4-457b-af78-48100406cd95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무더운 여름철 필수! 서머 에티켓 아이템 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67647</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67647</guid>
-            <pubDate>Thu, 07 Jul 2022 10:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[본격적인 여름을 앞두고, 코덕들이 필수로 알아야 할 뷰티 꿀팁과 신상 이슈!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/8bfa5a5f-0251-4125-9296-8425c8119f62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청순한데 섹시해! 파격 뒤태 노출 감행한 반전 매력돌 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
