@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 19:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 인싸들이 사랑하는 그 브랜드, 알보우에 관한 A to Z!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67890</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67890</guid>
+            <pubDate>Wed, 13 Jul 2022 19:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[일상을 아티스틱하게! 다양한 분야의 창작자들과 협업하며 예술적 감흥과 뷰티 바이브를 선사하는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/a02e0823-ce9a-41d5-9459-9e35104f31de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피부 고민 순삭 쌉파써블! 올바른 피부 관리 가이드]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67882</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 18:14:37 GMT</pubDate>
             <content:encoded><![CDATA[OMG! 미처 신경 쓰지 못한 소소한 실수가 흑역사로 남는 건 한순간. 셀렙들도 피할 수 없었던...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/22128394-ab9b-4673-a95d-d486caa1549b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소장각 드릉드릉~. 여름 한정 익스클루시브 뷰티 컬렉션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67762</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67762</guid>
-            <pubDate>Thu, 07 Jul 2022 10:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[본격적인 여름을 앞두고, 코덕들이 필수로 알아야 할 뷰티 꿀팁과 신상 이슈!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/a457b5f4-1331-48e8-b866-0935f1e2f0d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
