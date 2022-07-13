@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 13:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 14:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 아니면 못 든다? 여름살이 라피아 백 눈치 게임 시작!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67935</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67935</guid>
+            <pubDate>Wed, 13 Jul 2022 14:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[언니들은 다 계획이 있구나~ 선미, 크리스탈, 산다라박, 신현지의 라피아 백 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/671b46cd-3795-479e-980d-4a2993eb793b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUMMER SONG 히피 소녀의 자유로운 여름날]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67928</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67928</guid>
+            <pubDate>Wed, 13 Jul 2022 14:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[햇살과 파도를 사랑하는 히피 소녀의 자유로운 여름날.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/64d022f9-a613-4a49-8516-7b45178423cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청순한데 섹시해! 파격 뒤태 노출 감행한 반전 매력돌]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67912</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67912</guid>
+            <pubDate>Wed, 13 Jul 2022 14:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[뒤태도 여신! 리사, 조이, 사나, 카리나의 백리스 스타일링 법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/c885765a-89ed-4959-8394-ce2acb790a0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<이상한 변호사 우영우> 열풍! 본격 우영우 손민수템 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67907</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 11 Jul 2022 08:14:03 GMT</pubDate>
             <content:encoded><![CDATA[비치웨어를 해변과 도시에서 즐기는 8가지 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/1e1a5a2d-77cb-469c-b46c-1fba8ddf5546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회사에서 이런 것도 해줘?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67880</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67880</guid>
-            <pubDate>Mon, 11 Jul 2022 08:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[작고 귀여운 내 연봉을 보완하는 건 짱짱한 사내 복지 제도. 너무 많아 퇴사하기 전에 다 써...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/7a391963-83d7-44e6-9fb1-31ab46abf6e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넌 누구냐? '포비빅'은 참지 않지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67653</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67653</guid>
-            <pubDate>Mon, 11 Jul 2022 08:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[잔망루피의 떡상을 이어받을 ‘포비빅’, 넌 누구냐!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/c0083024-d0d5-4aed-9895-4920cc5421c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이직한 아이템부터 개성까지 챙긴 탠한 언니 김희정ㆍ채정안ㆍ김나영의 태닝 스타일링!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67802</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67802</guid>
-            <pubDate>Sat, 09 Jul 2022 17:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[태닝 피부에 어떤 아이템이 잘 어울릴지 고민하지 말고 일단 들어와~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/61a9b459-8d69-4e16-9051-290a3a75093d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
