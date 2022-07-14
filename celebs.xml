@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘어디서 남자 냄새 안나요?’ 농염한 남돌이 컴백했다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67978</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67978</guid>
+            <pubDate>Thu, 14 Jul 2022 07:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[안구에 자동 수납되는 치명적 매력의 남돌.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/91f8c512-376e-4b65-b050-89af38cd12c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<이상한 변호사 우영우> 감초 역할 주현영의 패션 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67976</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Jul 2022 19:11:14 GMT</pubDate>
             <content:encoded><![CDATA[이 정도 미화는 사기 같지만, 내 얼굴도 좀 부탁하고 싶네?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/a4d6a510-a03c-41f3-a42c-cda9852cee30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인구 붕괴를 걱정해 본보기 출산? 말이야 방귀야, 일론 머스크야?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67966</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67966</guid>
-            <pubDate>Wed, 13 Jul 2022 19:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[본인이 설립한 '뉴럴링크'의 임원과 쌍둥이를 출산한 일론 머스크. 부유한 사람들도 자식을 적게...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/18e837ff-6399-4024-ab5b-cd6900c13c27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
