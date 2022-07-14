@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 14:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 18:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/38b29398-8095-4208-9a50-5f003ebbb7e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[볼륨 업! 정수리 볼륨은 끌올, 모발 텐션은 업시켜줄 헤어 치트키 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67896</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67896</guid>
+            <pubDate>Thu, 14 Jul 2022 18:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[볼륨 살리고~ 살리고! 가볍고 산뜻하게 정수리 볼륨은 끌올, 모발 텐션은 업시키는 공기 반 헤...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/fa558887-2505-4729-9a34-d298ab6f4f76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요즘 인싸들이 사랑하는 그 브랜드, 알보우에 관한 A to Z! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67890</link>
             <guid>https://www.cosmopolitan.co.kr/article/67890</guid>
@@ -295,14 +303,6 @@
             <pubDate>Fri, 08 Jul 2022 16:23:01 GMT</pubDate>
             <content:encoded><![CDATA[여름 피부를 위한 원샷원킬 스킨케어 루틴에서 땀과 피지로부터 공들인 메이크업을 구원해줄 프루...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/f046332a-83bf-45bb-9b04-f09d80786541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OMG! 셀럽들도 피할 수 없었던 아찔한 여름철 뷰티 웁쓰 모먼트는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67796</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67796</guid>
-            <pubDate>Thu, 07 Jul 2022 18:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[OMG! 미처 신경 쓰지 못한 소소한 실수가 흑역사로 남는 건 한순간. 셀렙들도 피할 수 없었던...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/22128394-ab9b-4673-a95d-d486caa1549b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<이상한 변호사 우영우> 배우 박은빈, 알고 보면 연예계 인맥 끝판왕? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
