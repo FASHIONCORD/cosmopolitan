@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 12:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 14:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여기가 ‘찐’ 멕시칸 레스토랑]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67965</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67965</guid>
+            <pubDate>Thu, 14 Jul 2022 14:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[제대로 된 멕시칸 레스토랑을 아시나요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e844b5d4-08cf-4732-87b3-8048894d243b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연희동 같이 산~책 할래요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67964</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67964</guid>
+            <pubDate>Thu, 14 Jul 2022 14:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[날이 더워도 외출은 포기할 수 없다면, 고즈넉한 연희동은 어떨까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/c4702bfc-8d00-4fda-8150-8bee047eb1d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘낮이밤이’ 핸드폰]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67932</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Jul 2022 07:20:58 GMT</pubDate>
             <content:encoded><![CDATA[우to the 영 to the 우! 힐링 요정 박은빈의 인생드라마로 입덕 완료! .]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/a94d9a71-51f0-4a1c-bd04-fb235606873e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재벌 패션에 ‘이것’ 빠질 수 없다? <안나> 수지 패션 분석!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67901</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67901</guid>
-            <pubDate>Mon, 11 Jul 2022 08:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[수지가 재현한 대학 교수 재벌가 사모님 룩?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/6078f287-fbde-47e2-8c10-d952d1130823.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙한 요즘 카페에서 낮술을?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67897</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67897</guid>
-            <pubDate>Mon, 11 Jul 2022 08:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[여름 해가 길다. 카페를 가장한 위스키 바에서 독주를 홀짝이다 저녁이 오기 전 휘청거릴 만큼...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/6d5e6433-6907-4a25-8a63-40de9284db7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
