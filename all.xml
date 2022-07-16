@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 14:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 23:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/6078f287-fbde-47e2-8c10-d952d1130823.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름엔 찐~한 초콜릿 피부지! 으른 섹시미를 200% 충전해줄 워너비 태닝 스킬 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67949</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67949</guid>
+            <pubDate>Sat, 16 Jul 2022 23:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[언제까지 우윳빛 피부에만 집착할래? 노출 욕구 100% 상승하는 여름엔 찐~한 초콜릿 피부로 으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/7b49d708-d3ae-4467-8b02-b9e7eaa09421.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메이크업만 했을 뿐인데 성형 효과가? 정교한 페이크 메이크업 TIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67929</link>
             <guid>https://www.cosmopolitan.co.kr/article/67929</guid>
@@ -292,14 +300,6 @@
             <pubDate>Mon, 11 Jul 2022 08:14:14 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 두피 온도를 낮춰줄 냉찜질 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/61dabd4c-c539-463d-9e9b-cad4055dfee0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진리의 흑발 Vs 스타일리시한 금발, 내가 도전할 스타일은 어느 쪽? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67829</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67829</guid>
-            <pubDate>Sat, 09 Jul 2022 17:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[흑발과 금발, 고민의 갈림길에 서 있다면 필독!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/5e315fe4-46b7-41d1-96cd-c174fde7783c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보일락 말락~해야 힙간지! 마이크로 미니스커트 입은 여돌 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
