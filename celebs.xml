@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 21:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 00:57:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬리브리스 톱을 입는 가장 똑똑한 방법은 무엇?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67994</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67994</guid>
+            <pubDate>Mon, 18 Jul 2022 00:54:17 GMT</pubDate>
+            <content:encoded><![CDATA[슬리브리스톱의 A to Z]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/c04bc551-ea7f-485f-9d2e-436e8c98b996.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보일락 말락~해야 힙간지! 마이크로 미니스커트 입은 여돌 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67981</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Jul 2022 19:11:14 GMT</pubDate>
             <content:encoded><![CDATA[이 언니 운동에 진심이네. 보디왕으로 거듭난 배우 이유리의 #운동스타그램]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e258f849-923c-4f3a-8f1c-0826e505e6f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김민규의 폭.탄.선.언🔥 전 바른생활 청년이 아님다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67972</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67972</guid>
-            <pubDate>Wed, 13 Jul 2022 19:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[댕댕미 넘치는 집사 김민규의 본격 덕질 권장 냥터뷰]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/2554fdeb-db77-4ffc-933e-8787820e80c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
