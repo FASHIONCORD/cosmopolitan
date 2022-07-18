@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 10:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 <미남당>의 주인공, 서인국과 오연서가 수상하다? 둘이 이 분위기 뭐야, 도대체 무슨 사이인데?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67687</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67687</guid>
+            <pubDate>Mon, 18 Jul 2022 10:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[수상하다, 수상해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/8fd2331f-7801-494e-a047-07fa1e2d1eba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2030세대가 성중독자 수의 70%나 된다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67661</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Jun 2022 17:39:28 GMT</pubDate>
             <content:encoded><![CDATA[연예계는 현재 결혼식 풍년!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917d1a5-97a1-4c2a-b6a5-c0a63231e6f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[햇빛 눈이 부신 날에 이별해봤니]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67072</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67072</guid>
-            <pubDate>Tue, 28 Jun 2022 16:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램 속 행복한 글과 사진으로는 결코 알 수 없는 그들 각자의 이별 사정. 코스모가 통...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/13596bb2-de8d-4361-92da-65c4c4863b8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
