@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,6 +431,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/13596bb2-de8d-4361-92da-65c4c4863b8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[홈쇼핑 최초로 넷플릭스 드라마를 판매한다고?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67970</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67970</guid>
+            <pubDate>Mon, 18 Jul 2022 06:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 드라마를 홍보하는 신박한 방법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/5765e7b2-c79a-434d-8482-7afbf94f19f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유재석이 라미네이트를 했네? 야옹이 작가가 <여신강림> 재질로 그린 스타들 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67967</link>
             <guid>https://www.cosmopolitan.co.kr/article/67967</guid>
@@ -485,14 +493,6 @@
             <pubDate>Tue, 12 Jul 2022 04:55:08 GMT</pubDate>
             <content:encoded><![CDATA[손민수를 부르는 치명적인 귀여움.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/6047e094-d874-4344-8da7-dd34d475afd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지나치게 귀여워! 꾸덕함이 폭발해버린 황치즈쿠키 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67906</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67906</guid>
-            <pubDate>Wed, 13 Jul 2022 13:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[뽀또 러버 여기 다 모여~~~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/793af933-243d-40f2-82e8-a6e9c6633ad7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
