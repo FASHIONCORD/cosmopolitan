@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 19:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애.사.비 그게 뭔데? 몸에 좋고, 맛도 좋은 애플사이다비니거 다이어트!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68042</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68042</guid>
+            <pubDate>Tue, 19 Jul 2022 06:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[애플사이다비니거, 다이어트는 물론 피부에도 좋다고? 상큼하게 살 빠지는 애사비 어떻게 먹을래...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/2e9b192a-ff42-433e-8edf-b472b963c248.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매년 리즈의 리즈를 갱신하는 셀럽들의 다이어트 치트키!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68013</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68013</guid>
+            <pubDate>Tue, 19 Jul 2022 06:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계에서 가장 유명한 가족, 카다시안 패밀리. 그녀들이 또다시 온라인을 뒤집어놓으셨다. 바...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/2310441f-80a5-4712-b7e3-14d7e1c5a7c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동에 미친 당신의 피부를 위한 운알못 피부 관리 TIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67987</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 13 Jul 2022 19:10:57 GMT</pubDate>
             <content:encoded><![CDATA[일상을 아티스틱하게! 다양한 분야의 창작자들과 협업하며 예술적 감흥과 뷰티 바이브를 선사하는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/a02e0823-ce9a-41d5-9459-9e35104f31de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 고민 순삭 쌉파써블! 올바른 피부 관리 가이드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67882</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67882</guid>
-            <pubDate>Wed, 13 Jul 2022 09:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[텁텁하고 답답한 여름, 스킨케어는 무조건 아웃이 답? 채워야 할 것과 비워야 할 것을 제대로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/de67a586-4697-436e-80e9-7a779a843c2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 트러블 세굿바! 여드름 없이 깨끗한 갓생 피부가 되는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67853</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67853</guid>
-            <pubDate>Tue, 12 Jul 2022 23:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[청춘의 꽃이라고 하기엔 다시 겪고 싶지도, 마주하고 싶지도 않다! 더워지면 스멀스멀 만개하는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/4877a3f7-7ba1-4e5a-a6df-01ee4a024583.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
