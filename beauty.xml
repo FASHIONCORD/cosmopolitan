@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 01:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굴욕 제로, 난감한 헤어 스타일도 소화해내는 셀럽들! 이효리∙채영∙현아]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68061</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68061</guid>
+            <pubDate>Thu, 21 Jul 2022 07:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[저세상 머리도 문제 없지! 소화력 200% 셀럽들의 최신 유행 헤어 스타일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/570b823e-f5de-43da-9237-0c0da86996bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 때문에 가려워? 가려운 증상이 보내는 숨겨진 뷰티 시그널]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68050</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68050</guid>
+            <pubDate>Thu, 21 Jul 2022 07:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[간질간질해 시도 때도 없이 벅벅! 보기에도 지저분해 보이지만 가렵다고 긁을수록 피부는 더 안...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/68ea5c18-e745-4f94-b841-bb776b4c29c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애.사.비 그게 뭔데? 몸에 좋고, 맛도 좋은 애플사이다비니거 다이어트!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68042</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 15 Jul 2022 15:10:50 GMT</pubDate>
             <content:encoded><![CDATA[메이크업만 했을 뿐인데 성형 효과가? 디테일한 메이크업 스킬로 마치 감쪽같이 시술받은 듯 정...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/539f402e-b5f6-4510-93ee-0d8899c08aed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼륨 업! 정수리 볼륨은 끌올, 모발 텐션은 업시켜줄 헤어 치트키]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67896</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67896</guid>
-            <pubDate>Thu, 14 Jul 2022 18:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[볼륨 살리고~ 살리고! 가볍고 산뜻하게 정수리 볼륨은 끌올, 모발 텐션은 업시키는 공기 반 헤...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/fa558887-2505-4729-9a34-d298ab6f4f76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 인싸들이 사랑하는 그 브랜드, 알보우에 관한 A to Z!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67890</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67890</guid>
-            <pubDate>Wed, 13 Jul 2022 19:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[일상을 아티스틱하게! 다양한 분야의 창작자들과 협업하며 예술적 감흥과 뷰티 바이브를 선사하는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/a02e0823-ce9a-41d5-9459-9e35104f31de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 01:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요리 실력이 이 정도라고? 떠오르는 요리 천재 여배우 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68072</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68072</guid>
+            <pubDate>Thu, 21 Jul 2022 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[손예진부터 이민정, 소유진, 윤은혜까지. ‘신흥 요리왕’으로 급 부상 중인 여배우를 모아봤다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/f9bab608-b7ef-4f4d-bc76-b92ad0ee2e90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[활동 잠정 중단한 방탄소년단 멤버들 최신 근황!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68058</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Jul 2022 14:12:32 GMT</pubDate>
             <content:encoded><![CDATA[제대로 된 멕시칸 레스토랑을 아시나요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e844b5d4-08cf-4732-87b3-8048894d243b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연희동 같이 산~책 할래요?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67964</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67964</guid>
-            <pubDate>Thu, 14 Jul 2022 14:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[날이 더워도 외출은 포기할 수 없다면, 고즈넉한 연희동은 어떨까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/c4702bfc-8d00-4fda-8150-8bee047eb1d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
