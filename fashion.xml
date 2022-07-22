@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 03:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 15:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화려한 골드 주얼리가 나를 감싸네]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68108</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68108</guid>
+            <pubDate>Fri, 22 Jul 2022 15:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[두아 리파ㆍ벨라 하디드와 같은 핫 셀럽도 선택한 강렬한 골드 액세서리 스타일링은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/364c11b8-6d73-48f2-8bd7-d08df946bf1d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 니트 베스트 패션 속 핵심은 뭐다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68107</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68107</guid>
+            <pubDate>Fri, 22 Jul 2022 15:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[더워도 포기 못 해! 예리ㆍ유아ㆍ크리스탈도 선택한 쿨한 니트 베스트 스타일링 꿀 TIP]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/80d53013-5a73-4111-b74c-7ad127b5ceeb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 데님 이렇게 입는다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68100</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Jul 2022 06:20:26 GMT</pubDate>
             <content:encoded><![CDATA[기러기 토마토 스위스 인도인 별똥별 우영우 패션]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/819594d7-bc3e-4900-9d1d-69af69decb5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬리브리스 톱을 입는 가장 똑똑한 방법은 무엇?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67994</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67994</guid>
-            <pubDate>Mon, 18 Jul 2022 19:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[슬리브리스톱의 A to Z]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/c04bc551-ea7f-485f-9d2e-436e8c98b996.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보일락 말락~해야 힙간지! 마이크로 미니스커트 입은 여돌 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67981</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67981</guid>
-            <pubDate>Mon, 18 Jul 2022 05:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[언더 붑에 이어 이번에는 초초초 마이크로 미니 스커트가 대세!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/0f2e434e-5127-44f8-9a07-26901114aa61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
