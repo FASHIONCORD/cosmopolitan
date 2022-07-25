@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 10:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 일상에 녹아든, 나의 배럴핏]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68071</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68071</guid>
+            <pubDate>Mon, 25 Jul 2022 10:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[뮤즈 이미주가 전하는 스타일리시한 애슬레저 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[틈만 나면 근육 자랑하는 몸매돌 누구야?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68062</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68062</guid>
+            <pubDate>Mon, 25 Jul 2022 10:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[소미, 솔라, 모모, 장원영은 틈만 나면 근육 자랑 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/b6aaeecd-939d-44eb-8606-c50d73d26c4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굴욕 제로, 난감한 헤어 스타일도 소화해내는 셀럽들! 이효리∙채영∙현아]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68061</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 18 Jul 2022 10:11:52 GMT</pubDate>
             <content:encoded><![CDATA[이 언니 운동에 진심이네. 보디왕으로 거듭난 배우 이유리의 #운동스타그램]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e258f849-923c-4f3a-8f1c-0826e505e6f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 찐~한 초콜릿 피부지! 으른 섹시미를 200% 충전해줄 워너비 태닝 스킬]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67949</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67949</guid>
-            <pubDate>Sat, 16 Jul 2022 23:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[언제까지 우윳빛 피부에만 집착할래? 노출 욕구 100% 상승하는 여름엔 찐~한 초콜릿 피부로 으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/7b49d708-d3ae-4467-8b02-b9e7eaa09421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이크업만 했을 뿐인데 성형 효과가? 정교한 페이크 메이크업 TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67929</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67929</guid>
-            <pubDate>Fri, 15 Jul 2022 15:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[메이크업만 했을 뿐인데 성형 효과가? 디테일한 메이크업 스킬로 마치 감쪽같이 시술받은 듯 정...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/539f402e-b5f6-4510-93ee-0d8899c08aed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
