@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 11:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 12:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음식에 찐심인 먹잘알 혜리가 살이 안 찌는 이유는 ‘이것’ 때문이라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68104</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68104</guid>
+            <pubDate>Tue, 26 Jul 2022 12:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[음식만큼 열정 터지는 혜리의 운동법이 궁금하다면 드루와~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/70c440b5-8831-4b39-8726-72138117b814.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 일상에 녹아든, 나의 배럴핏]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68071</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Jul 2022 10:11:52 GMT</pubDate>
             <content:encoded><![CDATA[운동에 미친 당신, 피부는 안녕한가요? 신나게 즐기다가 얼룩덜룩 따끔따끔한 피부에 고통받는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/0592a581-1ba4-4c33-8996-5b95109d9356.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫보디로 환생한 배우 이유리의 찐 다이어트 비법?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67973</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67973</guid>
-            <pubDate>Mon, 18 Jul 2022 10:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[이 언니 운동에 진심이네. 보디왕으로 거듭난 배우 이유리의 #운동스타그램]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e258f849-923c-4f3a-8f1c-0826e505e6f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

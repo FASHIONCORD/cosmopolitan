@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 11:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 12:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명함에 숨겨진 의미가 있다고?! 우영우 속 소름 돋는 디테일 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68276</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68276</guid>
+            <pubDate>Tue, 26 Jul 2022 12:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[알고 보면 더 재밌는 &lt;이상한 변호사 우영우&gt; 속 숨겨진 의미들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/8d948c3e-6d5d-4f0f-8b94-02a78d748056.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘캬~ 취한다!’ 혼술과 함께하는 알코올 웹 예능]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68251</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Jul 2022 04:45:07 GMT</pubDate>
             <content:encoded><![CDATA[먹고 싶은거 맘 편히 먹고! 살은 확실히 빼고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/dd1a1a9c-e9be-4ea4-b1ed-e38532b5a892.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷔∙박보검∙박서준∙지창욱∙안보현 등판! 이 예능 안보고는 못참지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68103</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68103</guid>
-            <pubDate>Mon, 25 Jul 2022 04:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[이 조합 실화? 이거슨 예능인가 화보인가. 눈호강 예능 한번 보고 가실게요~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/9dad9894-d850-41f9-bbfb-412ef2d4f323.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
