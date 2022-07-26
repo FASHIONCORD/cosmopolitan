@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연애 시장에서 '멘탈 갑' 되는 법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67648</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67648</guid>
+            <pubDate>Tue, 26 Jul 2022 05:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[연애와 데이트는 우리의 자신감에 엄청난 영향을 미친다. 그렇기 때문에 본격적으로 연애 시장에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/225f8fee-e11f-4022-b7b7-3e0e1a7ac0d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AM I BISEXUAL?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67645</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 10:15:33 GMT</pubDate>
             <content:encoded><![CDATA[민망하지만 재치있는 쓰레기통 활성화 전략]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/e1f2dc08-abca-48bf-9506-2e6739691b28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성용 경구 피임약, 99% 효과?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67230</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67230</guid>
-            <pubDate>Thu, 30 Jun 2022 06:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[섹스도 함께, 피임도 함께! 남성용 경구 피임약]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/58922454-01c0-4b4b-8e5a-fe3ca604edc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘캬~ 취한다!’ 혼술과 함께하는 알코올 웹 예능]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68251</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68251</guid>
+            <pubDate>Tue, 26 Jul 2022 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 술친구 젠지 영지, 라떼 희철, 러브송 조상 정엽이 짙은 알코올 향기와 친근한 수다를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/f101cdd5-2086-451d-b47e-52da634e5c39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<헤어질 결심> 볼 땐 ‘초밥 먹을 결심’ 해야져~ 테이크아웃 초밥 맛집 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68247</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68247</guid>
+            <pubDate>Tue, 26 Jul 2022 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;헤어질 결심&gt; 찐 팬이라면 이정도는 당연하죠(?)]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/3e088b6b-637a-4339-b7f4-b6934700298c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앞으로 해도 역삼역 거꾸로 해도 역삼역! 역삼역 맛집 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68245</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 25 Jul 2022 04:45:07 GMT</pubDate>
             <content:encoded><![CDATA[이 조합 실화? 이거슨 예능인가 화보인가. 눈호강 예능 한번 보고 가실게요~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/9dad9894-d850-41f9-bbfb-412ef2d4f323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요리 실력이 이 정도라고? 떠오르는 요리 천재 여배우 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68072</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68072</guid>
-            <pubDate>Thu, 21 Jul 2022 07:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[손예진부터 이민정, 소유진, 윤은혜까지. ‘신흥 요리왕’으로 급 부상 중인 여배우를 모아봤다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/f9bab608-b7ef-4f4d-bc76-b92ad0ee2e90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[활동 잠정 중단한 방탄소년단 멤버들 최신 근황!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68058</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68058</guid>
-            <pubDate>Wed, 20 Jul 2022 10:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[싸이 흠뻑쇼 깜짝 출연부터 셀린느 패션쇼 참석까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/848b65dc-cf74-41e1-b4c8-95e7cf9d428e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
