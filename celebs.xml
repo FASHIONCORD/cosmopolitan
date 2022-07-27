@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨 쉴 틈 없이 바쁜 갓생사는 여돌은 누구?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68304</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68304</guid>
+            <pubDate>Wed, 27 Jul 2022 05:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[활동 끝나자마자 컴백한다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/6df36768-4bff-479e-930b-af12ab0f5990.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여행 갔다면 이 언니들처럼! 한혜진·한선화·김나영의 여행 사진]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68303</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Jul 2022 05:05:04 GMT</pubDate>
             <content:encoded><![CDATA[현실판 &lt;진주 목걸이를 한 소녀&gt;! 블핑 제니, 레벨 웬디, 트와 지효&amp;나연, 있지 리아의 데일리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/45434ab3-ae42-4409-a8d6-f3be85501270.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명함에 숨겨진 의미가 있다고?! 우영우 속 소름 돋는 디테일 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68276</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68276</guid>
-            <pubDate>Tue, 26 Jul 2022 05:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[알고 보면 더 재밌는 &lt;이상한 변호사 우영우&gt; 속 숨겨진 의미들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/8d948c3e-6d5d-4f0f-8b94-02a78d748056.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
