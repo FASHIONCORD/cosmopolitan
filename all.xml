@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 13:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 14:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,6 +433,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/e1f2dc08-abca-48bf-9506-2e6739691b28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무더운 여름, 체감 온도 -10도 떨어트려주는 OTT 추천작들 (Feat.쫄보환영) (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68277</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68277</guid>
+            <pubDate>Wed, 27 Jul 2022 14:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[순한맛부터 마라맛까지! 단계별 공포 영화 추천]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/864a9ab2-e63b-4fd9-8652-7e2d22c8b8d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[명함에 숨겨진 의미가 있다고?! 우영우 속 소름 돋는 디테일 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68276</link>
             <guid>https://www.cosmopolitan.co.kr/article/68276</guid>
@@ -487,14 +495,6 @@
             <pubDate>Wed, 20 Jul 2022 10:12:23 GMT</pubDate>
             <content:encoded><![CDATA[압도적인 비주얼의 태국식 등뼈찜 '랭쎕'. 서울에서 먹고 싶다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/2c43d8fa-ba85-489b-8347-5bfef17a4485.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무려 -38kg 감량 김신영의 칼로리 DOWN! 레시피 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68106</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68106</guid>
-            <pubDate>Mon, 25 Jul 2022 04:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[먹고 싶은거 맘 편히 먹고! 살은 확실히 빼고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/dd1a1a9c-e9be-4ea4-b1ed-e38532b5a892.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
