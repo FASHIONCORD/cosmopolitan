@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 03:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마 끝, 햇볕 시작~버킷햇를 써야할 시기가 왔어]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68415</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68415</guid>
+            <pubDate>Fri, 29 Jul 2022 05:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[슬기, 태연, 크리스탈, 지젤처럼!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/1af3bac2-05ab-4c2e-ba44-ca5559770b2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패셔너블함은 한끗 차이~ ‘벨트’ 활용법]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68395</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Jul 2022 10:11:30 GMT</pubDate>
             <content:encoded><![CDATA[청량미 뽐내는 장원영·아이린·설현·아린의 공통점은? 모두 여름 쿨톤~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/781bb663-4179-4c4c-b1d0-874e038df7c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아 유 크레이지? 수영복을 #OOTD 로 입기 시작한 스타 누구야?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68355</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68355</guid>
-            <pubDate>Thu, 28 Jul 2022 10:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[제니,&nbsp;가비를 비롯해 할리우드 스타들도 수영복 #OOTD 에 동참했다!&nbsp;]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/3dd3fa97-e2b5-474e-9824-465466b2b1f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
