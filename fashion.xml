@@ -4,9 +4,24 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 12:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화이트 티셔츠로 멋쁨 뽐내기!? 뭔가 다른 그녀들의 힙 뽀인뜨~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68432</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68432</guid>
+            <pubDate>Fri, 29 Jul 2022 12:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[로제•리사•예리•설현의 티셔츠 룩 모음ZIP]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/bc48e988-b5c2-427c-b1a3-080f2da64212.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<환혼>으로 연기돌로 변신한 아린]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68418</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68418</guid>
+            <pubDate>Fri, 29 Jul 2022 12:20:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf674adc-034e-428a-b328-be926cb2d1da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[답답한 소매는 안녕~ 어깨를 드러내는 오프숄더!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68417</link>
@@ -54,22 +69,6 @@
             <pubDate>Thu, 28 Jul 2022 10:11:30 GMT</pubDate>
             <content:encoded><![CDATA[갓벽 그 자체! 켄달제너∙헤일리비버∙벨라하디드의 드레스 룩. 눈부시다 눈부셔!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/77f1ba63-cd37-4c41-adbe-f79f3353c610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키 커 보이는 스타일링이 궁금해? 클로그부터 겟챠-]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68379</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68379</guid>
-            <pubDate>Thu, 28 Jul 2022 10:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[멋잘알 해외 인플루언서들의 클로그 패션 총집합]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/25baf468-354d-4dae-894f-be73304ba31b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원피스에 스니커즈? 오히려 좋아~!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68378</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68378</guid>
-            <pubDate>Thu, 28 Jul 2022 10:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[김나영ㆍ차정원ㆍ수영도 즐겨 입는 올여름 국룰 패션 공식, 원피스+ 스니커즈]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/46fa3ed2-f2cd-472a-afe7-be8d7ae58ecb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
