@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 07:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -178,6 +178,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDhfMjg2/MDAxNjU3MjY2NjU4Njc0.HECftc1YAEKi_N6P62fTx_OKhVTmfDOpS8_eNFmOX9cg.tyUEmtrkRXfqUOp5p5r8KrqDkwrp9WiDghY9lAJVr1Ug.JPEG/Is8orpP8NheMdrOKGCQVN2WNhoIU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[답답한 소매는 안녕~ 어깨를 드러내는 오프숄더! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68417</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68417</guid>
+            <pubDate>Fri, 29 Jul 2022 05:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[카리나, 제니, 우기, 리아처럼 입어보자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a9cef2bc-fa0f-49f1-9f8b-013541210149.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장마 끝, 햇볕 시작~버킷햇를 써야할 시기가 왔어 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68415</link>
             <guid>https://www.cosmopolitan.co.kr/article/68415</guid>
@@ -234,12 +242,36 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/46fa3ed2-f2cd-472a-afe7-be8d7ae58ecb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전지적 여쿨 시점! 청순한 듯 청량한 여름 쿨톤 스타일링 팁은? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68374</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68374</guid>
-            <pubDate>Thu, 28 Jul 2022 10:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[청량미 뽐내는 장원영·아이린·설현·아린의 공통점은? 모두 여름 쿨톤~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/781bb663-4179-4c4c-b1d0-874e038df7c0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제니 ·신세경 ·세정 ·아이린의 ‘급빠’ 다이어트 꿀팁 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68324</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68324</guid>
+            <pubDate>Fri, 29 Jul 2022 07:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘부터 당장 시작?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/8035d616-6133-4a16-b904-b588f14628b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스테이씨 윤∙청하∙에스파 윈터∙ITZY 예지까지! 요즘 아이돌은 어떤 염색해? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68287</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68287</guid>
+            <pubDate>Fri, 29 Jul 2022 07:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[뜨겁게 돌아온 여돌들의 신상 헤어 컬러는 무엇?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/1961c741-5797-49ce-8a46-370d5c00cf8f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월의 신부, 김연아! 갓벽한 화이트 슈트 핏을 자랑하는 ‘연느 다이어트 비법’ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68271</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68271</guid>
+            <pubDate>Fri, 29 Jul 2022 07:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[찐 ‘유지어터’ 연느의 몸매 관리 비법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/ba67ae2e-4a3b-4f52-82d4-814bc5e75864.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크·에스파·아이브·르세라핌도 가지고 있는 얼굴 위의 매력 ‘점’ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68156</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68156</guid>
+            <pubDate>Fri, 29 Jul 2022 07:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴의 ‘점’이 결점으로만 여겨졌다면 필독. 부위에 따라 달라지는 얼굴 ‘점’의 매력 속으로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/04093c2b-e70d-49a4-8452-f374e30764d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바캉스 메이크업 룩에 제격! 서머 블러셔 연출 팁 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -274,36 +306,27 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/b6aaeecd-939d-44eb-8606-c50d73d26c4c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굴욕 제로, 난감한 헤어 스타일도 소화해내는 셀럽들! 이효리∙채영∙현아 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68061</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68061</guid>
-            <pubDate>Thu, 21 Jul 2022 07:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[저세상 머리도 문제 없지! 소화력 200% 셀럽들의 최신 유행 헤어 스타일]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/570b823e-f5de-43da-9237-0c0da86996bf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아린∙나연∙태연∙뉴진스 혜인의 공통점은!? 여름과 찰떡인 ‘이 헤어’를 했다는 것! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68441</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68441</guid>
+            <pubDate>Fri, 29 Jul 2022 07:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[양 갈래 머리를 즐길 시간도 1달밖에 남지 않았다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/47aacdea-7ad9-4b77-8e1a-36061d1f7a95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왜 때문에 가려워? 가려운 증상이 보내는 숨겨진 뷰티 시그널 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68050</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68050</guid>
-            <pubDate>Thu, 21 Jul 2022 07:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[간질간질해 시도 때도 없이 벅벅! 보기에도 지저분해 보이지만 가렵다고 긁을수록 피부는 더 안...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/68ea5c18-e745-4f94-b841-bb776b4c29c1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[비투비 민혁의 충실한 삶 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68435</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68435</guid>
+            <pubDate>Fri, 29 Jul 2022 07:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[일하고 음악하고 운동하는 비투비 이민혁, aka 허타의 충실한 삶.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/3b031eb6-e4f9-484b-ab1c-34d6dceb16d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애.사.비 그게 뭔데? 몸에 좋고, 맛도 좋은 애플사이다비니거 다이어트! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68042</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68042</guid>
-            <pubDate>Tue, 19 Jul 2022 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[애플사이다비니거, 다이어트는 물론 피부에도 좋다고? 상큼하게 살 빠지는 애사비 어떻게 먹을래...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/2e9b192a-ff42-433e-8edf-b472b963c248.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매년 리즈의 리즈를 갱신하는 셀럽들의 다이어트 치트키! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68013</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68013</guid>
-            <pubDate>Tue, 19 Jul 2022 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계에서 가장 유명한 가족, 카다시안 패밀리. 그녀들이 또다시 온라인을 뒤집어놓으셨다. 바...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/2310441f-80a5-4712-b7e3-14d7e1c5a7c0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[<환혼>으로 연기돌로 변신한 아린 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68418</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68418</guid>
+            <pubDate>Fri, 29 Jul 2022 07:10:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf674adc-034e-428a-b328-be926cb2d1da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[답답한 소매는 안녕~ 어깨를 드러내는 오프숄더! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -317,7 +340,7 @@
             <title><![CDATA[장마 끝, 햇볕 시작~버킷햇를 써야할 시기가 왔어 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68415</link>
             <guid>https://www.cosmopolitan.co.kr/article/68415</guid>
-            <pubDate>Fri, 29 Jul 2022 05:27:33 GMT</pubDate>
+            <pubDate>Fri, 29 Jul 2022 05:26:58 GMT</pubDate>
             <content:encoded><![CDATA[슬기, 태연, 크리스탈, 지젤처럼!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/1af3bac2-05ab-4c2e-ba44-ca5559770b2a.jpg" length="0" type="image/jpg"/>
         </item>
@@ -344,30 +367,6 @@
             <pubDate>Thu, 28 Jul 2022 16:20:46 GMT</pubDate>
             <content:encoded><![CDATA[이미지 변신 무엇?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/2a5f5568-8c52-4410-b5a5-0d4f8cea9658.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 에이프릴 이진솔, 이제는 어엿한 솔로 활동 시작?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68405</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68405</guid>
-            <pubDate>Thu, 28 Jul 2022 16:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;보니하니&gt;의 12대 하니의 다음 활동은 과연!?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/e0d0e9ff-e8c2-4d76-90da-77b1f8a0fe6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏘~ 하.이.텐.션! 파워 잉뿌피 임수향의 TMI 줌터뷰 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68398</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68398</guid>
-            <pubDate>Thu, 28 Jul 2022 16:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[갓벽하게 소화한 귀염 뽀짝st '지글지글 챌린지'도 보고 가세요~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/9bba347b-a381-4fb6-a2b7-278372efcece.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패셔너블함은 한끗 차이~ ‘벨트’ 활용법 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68395</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68395</guid>
-            <pubDate>Thu, 28 Jul 2022 16:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[무난한 코디도 센스있게 소화하고 싶다면 밸트에 주목할 것. 아이브 장원영부터 아이들 민니, 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/8cceeeb6-05c0-40f6-b77a-d42260b114f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 시장에서 '멘탈 갑' 되는 법 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -498,6 +497,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/b92d6eae-5577-415d-9c57-b6f3addfc5a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65142</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65142</guid>
+            <pubDate>Fri, 29 Jul 2022 07:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64487</link>
             <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
@@ -552,14 +559,6 @@
             <pubDate>Wed, 08 Jun 2022 03:56:16 GMT</pubDate>
             <content:encoded><![CDATA[피부와 자연에 이로운 클린 뷰티 라이프! 좋은 원료와 저자극, 지속 가능한 패키지, 동물실험 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/41da32a1-74ba-4410-abb9-e06a48909fb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#운동 못해도 운동복 재질! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61838</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61838</guid>
-            <pubDate>Wed, 08 Jun 2022 03:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[재택근무가 일상에 자리를 잡으며, 운동복과 라운지 웨어의 경계가 확장되었죠. 이는 오피스 룩으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/8ccb7d24-d1cd-4ed6-b436-7c97a3a0641e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

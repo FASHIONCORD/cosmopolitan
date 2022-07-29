@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 07:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65142</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65142</guid>
+            <pubDate>Fri, 29 Jul 2022 07:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 채식해?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/64487</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Jun 2022 03:56:16 GMT</pubDate>
             <content:encoded><![CDATA[피부와 자연에 이로운 클린 뷰티 라이프! 좋은 원료와 저자극, 지속 가능한 패키지, 동물실험 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/41da32a1-74ba-4410-abb9-e06a48909fb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#운동 못해도 운동복 재질!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61838</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61838</guid>
-            <pubDate>Wed, 08 Jun 2022 03:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[재택근무가 일상에 자리를 잡으며, 운동복과 라운지 웨어의 경계가 확장되었죠. 이는 오피스 룩으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/8ccb7d24-d1cd-4ed6-b436-7c97a3a0641e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
