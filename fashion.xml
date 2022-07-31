@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 10:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 19:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷잘알들이 사랑하는 블랙!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68438</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68438</guid>
+            <pubDate>Sun, 31 Jul 2022 19:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[BLACK LOVES MATTER.  패피라면 한여름에도 블랙이지. 블랙의 멋을 아는 패피들의 한여름 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/197663c1-1d63-485f-b817-a2378ced61b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갭신갭왕 레드벨벳 슬기의 꾸안꾸 힙스터 룩 탐구!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68433</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68433</guid>
+            <pubDate>Sun, 31 Jul 2022 19:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[당장 따라하고 싶은 패션 센스 무엇?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/4fc12154-d33c-4d1d-823a-8e8ab0c076ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화이트 티셔츠로 멋쁨 뽐내기!? 뭔가 다른 그녀들의 힙 뽀인뜨~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68432</link>
@@ -53,22 +69,6 @@
             <pubDate>Fri, 29 Jul 2022 03:20:29 GMT</pubDate>
             <content:encoded><![CDATA[‘올 화이트’로 코디하기 어렵다면 주목! 현아부터 아이유, 레드벨벳 조이, 다비치 강민경까지 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/f277b4db-9161-414a-8614-63fda295a2ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원피스 하나만 툭 걸쳐도 이렇게 예쁠 수 있다고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68392</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68392</guid>
-            <pubDate>Thu, 28 Jul 2022 10:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[켄달 제너, 선미, 채영, 김나영이 픽한 원피스 패션은~?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/3404a095-294e-48c1-bca5-99ba8355326f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재감 뿜뿜~ 해외 셀럽들의 화려한 드레스 패션 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68380</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68380</guid>
-            <pubDate>Thu, 28 Jul 2022 10:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[갓벽 그 자체! 켄달제너∙헤일리비버∙벨라하디드의 드레스 룩. 눈부시다 눈부셔!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/77f1ba63-cd37-4c41-adbe-f79f3353c610.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

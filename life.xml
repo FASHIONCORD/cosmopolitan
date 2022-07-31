@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 10:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 19:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 곳이 알고 싶다. 정용진이 인증한 노빠꾸 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68444</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68444</guid>
+            <pubDate>Sun, 31 Jul 2022 19:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[맛잘알 신세계 정용진 부회장이 인정한 그 맛집!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/a2f7cd09-c859-413d-90a2-4c29d5081b10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[X와 한 집에 산다?! 다시 돌아온 <환승연애> 시즌 2]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68440</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Jul 2022 10:14:49 GMT</pubDate>
             <content:encoded><![CDATA[먹방+힐링 데이트 끝판왕! 밤도깨비 야시장으로 놀러 가세요]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/c64b90b7-9802-479a-8757-be72e8c770e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이터가 말하는 ‘당신의 모든 것을 존중’하는 틱톡]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68239</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68239</guid>
-            <pubDate>Thu, 28 Jul 2022 10:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[위너(WINNER)의 이승훈 (A.K.A. HOONY) “틱톡은 나의 하나부터 열까지 모든 모습이 담겨있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/43cf67d5-bd5e-44df-9332-78ff6ba2a55c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
