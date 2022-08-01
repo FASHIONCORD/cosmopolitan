@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 14:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 15:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[급찐급빠에 효과 끝판왕! 수중 다이어트 BEST 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68460</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68460</guid>
+            <pubDate>Mon, 01 Aug 2022 15:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[물에서 하는 운동은 관절에 무리도 덜하고 칼로리 소모는 넘사벽!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/667bf998-35e4-4461-9dc5-3737a2a55f5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웰빙 그 잡채.. 다이어터들의 필수 먹거리, 서울 그릭요거트 맛집 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68456</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
             <content:encoded><![CDATA[청소기, 세탁기, 냉장고 등 상상으로 탄생한 테슬라 가전의 모든 것]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/f2d8e1f2-20e7-4c09-bed8-9ef887a14af0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도파민 대폭발, 연애 리얼리티 프로그램이 온다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68381</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68381</guid>
-            <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[이래도 되나 싶다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c4f3449c-0706-4620-a2e5-9b9c0dd3c5e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

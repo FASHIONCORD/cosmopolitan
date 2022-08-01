@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 14:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 15:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,6 +181,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTNfMTU4/MDAxNjU3Njk1NjQ0MTYz.3NbYZ1y_ViZ8qk9UhesQJ6DVev41C_VmjiJz0edelzwg.bnisuwxK3sYilczTHbQ-AHYLuPJzSzQ5fGCmELTvOtAg.JPEG/IcpbI_TxrroB9sLG4JT0loLiEpYo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[폴로셔츠 이렇게 입어야 멋진거야! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68467</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68467</guid>
+            <pubDate>Mon, 01 Aug 2022 15:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[폴로셔츠 진짜 멋지게 입는 4가지 방법!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/a80b580c-8863-4300-b0ab-50e219b5da64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쌍둥이가 아니라고!? ‘카피캣’으로 돌아온 초봄의 트윈 룩 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68465</link>
             <guid>https://www.cosmopolitan.co.kr/article/68465</guid>
@@ -234,14 +242,6 @@
             <pubDate>Fri, 29 Jul 2022 05:27:33 GMT</pubDate>
             <content:encoded><![CDATA[카리나, 제니, 우기, 리아처럼 입어보자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a9cef2bc-fa0f-49f1-9f8b-013541210149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장마 끝, 햇볕 시작~버킷햇를 써야할 시기가 왔어 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68415</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68415</guid>
-            <pubDate>Fri, 29 Jul 2022 05:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[슬기, 태연, 크리스탈, 지젤처럼!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/1af3bac2-05ab-4c2e-ba44-ca5559770b2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대세 오브 대세 ‘D 라인’을 더 건강하게! 아묻따 필수 케어템 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -372,6 +372,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/74b74fb1-7594-45fa-b094-61a282c9c955.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 언니가 곧 '엄마'가 된다고? 출산을 앞에 둔 예비 맘 4 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67997</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67997</guid>
+            <pubDate>Mon, 01 Aug 2022 15:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[박시은, 손예진, 곽지영, 홍현희까지! 이 언냐들의 2세가 궁금하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/795c5a5d-69fd-4790-a441-ed422bc1431f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Made in 조선! 요즘 연애 리얼리티 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/67650</link>
+            <guid>https://www.cosmopolitan.co.kr/article/67650</guid>
+            <pubDate>Mon, 01 Aug 2022 15:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[순정만화처럼 순하게 출발했던 연애 리얼리티가 우유 맛, 로제 맛을 거쳐 이윽고 마라 맛에 도...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/4f3a7c6f-a3a9-443e-9595-088e8297bdea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연애 시장에서 '멘탈 갑' 되는 법 (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67648</link>
             <guid>https://www.cosmopolitan.co.kr/article/67648</guid>
@@ -420,20 +436,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/1b003aa8-c976-4f46-ba59-0f26b80f013a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉘 집 자식이라고? 피는 못 속이는 셀럽들의 2세는 누구?! (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67406</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67406</guid>
-            <pubDate>Fri, 01 Jul 2022 18:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼 DNA, K-스포츠를 대표할 미래의 영웅들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/099272b0-6bf3-4e9e-9139-80ca7bef7016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘신음 소리’가 나오는 쓰레기통이 스웨덴에 도입된 이유 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67393</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67393</guid>
-            <pubDate>Thu, 30 Jun 2022 10:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[민망하지만 재치있는 쓰레기통 활성화 전략]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/e1f2dc08-abca-48bf-9506-2e6739691b28.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[급찐급빠에 효과 끝판왕! 수중 다이어트 BEST 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68460</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68460</guid>
+            <pubDate>Mon, 01 Aug 2022 06:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[물에서 하는 운동은 관절에 무리도 덜하고 칼로리 소모는 넘사벽!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/667bf998-35e4-4461-9dc5-3737a2a55f5e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웰빙 그 잡채.. 다이어터들의 필수 먹거리, 서울 그릭요거트 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -490,14 +498,6 @@
             <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
             <content:encoded><![CDATA[청소기, 세탁기, 냉장고 등 상상으로 탄생한 테슬라 가전의 모든 것]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/f2d8e1f2-20e7-4c09-bed8-9ef887a14af0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도파민 대폭발, 연애 리얼리티 프로그램이 온다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68381</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68381</guid>
-            <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[이래도 되나 싶다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c4f3449c-0706-4620-a2e5-9b9c0dd3c5e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
