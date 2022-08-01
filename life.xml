@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 19:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웰빙 그 잡채.. 다이어터들의 필수 먹거리, 서울 그릭요거트 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68456</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68456</guid>
+            <pubDate>Mon, 01 Aug 2022 06:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[기본에 충실한 플레인 그릭요거트부터 갖가지 맛의 이색 그릭요거트까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/8242f5b6-27f7-4cc8-bf18-79674c8a5082.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파도 맛집 양양, 고성! 서핑숍을 찾고 있다면?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68450</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68450</guid>
+            <pubDate>Mon, 01 Aug 2022 06:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[서핑 강습도 하고 장비도 빌려주고 맛있는 먹거리도 파는 강원도 서핑숍 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/95533c78-bd45-436d-bb80-c0ecd5e88d03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주당들은 요즘 이런 술을 마십니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68449</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68449</guid>
+            <pubDate>Mon, 01 Aug 2022 06:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 안마셔봤니? 아싸가 인싸된다는 요즘 유행하는 그 술.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/0c9d955e-630f-4120-a8ed-87f57d808703.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 곳이 알고 싶다. 정용진이 인증한 노빠꾸 맛집]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68444</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
             <content:encoded><![CDATA[이래도 되나 싶다는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c4f3449c-0706-4620-a2e5-9b9c0dd3c5e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생샷 건지기 쌉가능! 셀렙들도 반한 국내 전시 리스트 업!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68361</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68361</guid>
-            <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[끝나기&nbsp;전에 다 가보려면 바쁘다구! BTS•GD•키•송민호&nbsp;등이 픽한 전시들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a9649a17-7349-4e17-8cef-b40a0bd33d53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100만원 내외로 즐길 수 있는 해외 여행지 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68328</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68328</guid>
-            <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[막혀있던 하늘길이 조심스레 열리고 있다. 올여름만큼은 국내가 아닌 해외 여행지를 탐하고 있다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/9a3ffba5-792f-476c-82e7-cb2c94d5cc4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤 데이트 명소 '밤도깨비 야시장'이 3년 만에 돌아온다고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68302</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68302</guid>
-            <pubDate>Thu, 28 Jul 2022 10:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[먹방+힐링 데이트 끝판왕! 밤도깨비 야시장으로 놀러 가세요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/c64b90b7-9802-479a-8757-be72e8c770e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

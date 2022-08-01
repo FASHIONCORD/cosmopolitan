@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 19:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쌍둥이가 아니라고!? ‘카피캣’으로 돌아온 초봄의 트윈 룩]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68465</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68465</guid>
+            <pubDate>Mon, 01 Aug 2022 06:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[손민수 각! 알록달록 페스티벌 룩 추천]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/942eb40c-0a3e-46c0-94d5-7ce71bf341f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[있지 유나ㆍ뉴진스 혜인 등 MZ세대들의 뉴 애슬레저룩 트렌드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68453</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68453</guid>
+            <pubDate>Mon, 01 Aug 2022 06:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[흔하디흔한 애슬레저룩은 NO! 요즘 젠지들의 애슬레저룩은 뭔가 다르다?! 전소미부터 있지 유나,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/74b74fb1-7594-45fa-b094-61a282c9c955.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷잘알들이 사랑하는 블랙!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68438</link>
@@ -53,22 +69,6 @@
             <pubDate>Fri, 29 Jul 2022 05:26:58 GMT</pubDate>
             <content:encoded><![CDATA[슬기, 태연, 크리스탈, 지젤처럼!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/1af3bac2-05ab-4c2e-ba44-ca5559770b2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패셔너블함은 한끗 차이~ ‘벨트’ 활용법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68395</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68395</guid>
-            <pubDate>Fri, 29 Jul 2022 03:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[무난한 코디도 센스있게 소화하고 싶다면 밸트에 주목할 것. 아이브 장원영부터 아이들 민니, 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/8cceeeb6-05c0-40f6-b77a-d42260b114f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유ㆍ조이 등 셀럽들의 트렌디한 ‘올 화이트 룩’!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68394</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68394</guid>
-            <pubDate>Fri, 29 Jul 2022 03:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[‘올 화이트’로 코디하기 어렵다면 주목! 현아부터 아이유, 레드벨벳 조이, 다비치 강민경까지 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/f277b4db-9161-414a-8614-63fda295a2ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
