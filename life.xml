@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 03:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일과 사랑 모두 챙취할 수 있게 해주세요! 8월의 별자리 운세]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68486</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68486</guid>
+            <pubDate>Tue, 02 Aug 2022 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[일과 사랑을 모두 쟁취할 수 있게 도와줄 8월의 별자리 운세.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/3215728f-6919-4aab-acb0-c21277242fce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[급찐급빠에 효과 끝판왕! 수중 다이어트 BEST 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68460</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
             <content:encoded><![CDATA[지금 아니면 못 가는 ‘무료 전시’.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/11a7dc17-c670-4aa9-b642-ae973f380a5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘테슬라’가 변기를 만들었다고?! (Feat. AI 디자인)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68385</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68385</guid>
-            <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[청소기, 세탁기, 냉장고 등 상상으로 탄생한 테슬라 가전의 모든 것]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/f2d8e1f2-20e7-4c09-bed8-9ef887a14af0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

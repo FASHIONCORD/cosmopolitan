@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 03:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존예 주의! 풍덩 빠지고 싶은 매력적인 8월의 뷰티 신상 22]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68490</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68490</guid>
+            <pubDate>Tue, 02 Aug 2022 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[풍덩 빠지고 싶은 매력적인 8월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/755d592d-fe58-4fde-8255-f01b294d7c6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세 오브 대세 ‘D 라인’을 더 건강하게! 아묻따 필수 케어템 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68462</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 13:35:40 GMT</pubDate>
             <content:encoded><![CDATA[윤은혜, 조현아, HYNN, 쏠, 이보람의 관리 비법 대공개!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/876f9d30-566d-4539-b2e4-9f6e412d8f15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니 ·신세경 ·세정 ·아이린의 ‘급빠’ 다이어트 꿀팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68324</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68324</guid>
-            <pubDate>Fri, 29 Jul 2022 07:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[오늘부터 당장 시작?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/8035d616-6133-4a16-b904-b588f14628b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

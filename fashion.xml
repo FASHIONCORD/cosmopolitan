@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 03:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 픽! 8월에 꼭 소장해야 할 머스트해브 아이템 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68489</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68489</guid>
+            <pubDate>Tue, 02 Aug 2022 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/ae4c2815-f5e6-4a48-a54f-9ede827e9e7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일과 사랑 모두 챙취할 수 있게 해주세요! 8월의 별자리 운세]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68486</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68486</guid>
+            <pubDate>Tue, 02 Aug 2022 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[일과 사랑을 모두 쟁취할 수 있게 도와줄 8월의 별자리 운세.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/3215728f-6919-4aab-acb0-c21277242fce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴로셔츠 이렇게 입어야 멋진거야!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68467</link>
@@ -54,21 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 12:20:26 GMT</pubDate>
             <content:encoded><![CDATA[로제•리사•예리•설현의 티셔츠 룩 모음ZIP]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/bc48e988-b5c2-427c-b1a3-080f2da64212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<환혼>으로 연기돌로 변신한 아린]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68418</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68418</guid>
-            <pubDate>Fri, 29 Jul 2022 12:20:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf674adc-034e-428a-b328-be926cb2d1da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[답답한 소매는 안녕~ 어깨를 드러내는 오프숄더!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68417</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68417</guid>
-            <pubDate>Fri, 29 Jul 2022 07:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[카리나, 제니, 우기, 리아처럼 입어보자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a9cef2bc-fa0f-49f1-9f8b-013541210149.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

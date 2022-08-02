@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 03:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 마음 훔치지 마요 존잘 장발러들!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68517</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68517</guid>
+            <pubDate>Tue, 02 Aug 2022 09:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[세계 3대 마요인 참치 마요, 치킨 마요에 이어 ‘내 마음 훔치지 마요’ 편! 머리카락이 길어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/edce2d66-8c58-4637-8975-9dde836a7b66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 속을 병들게 만든 강태오 드라마 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68510</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68510</guid>
+            <pubDate>Tue, 02 Aug 2022 09:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[연하남, 박력남, 섭섭남까지 모두 소화하는 강태오의 드라마 모아보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/ffd2abf3-4c12-4eb0-ae2d-7ddeb4407917.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 몰랐던 비율 찢은 갓몸매]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68508</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 06:28:19 GMT</pubDate>
             <content:encoded><![CDATA[찐친 바이브, 가득 가득~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/921a8762-6552-4d0e-b97e-cab11a79ca93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[급찐급빠에 효과 끝판왕! 수중 다이어트 BEST 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68460</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68460</guid>
-            <pubDate>Mon, 01 Aug 2022 06:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[물에서 하는 운동은 관절에 무리도 덜하고 칼로리 소모는 넘사벽!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/667bf998-35e4-4461-9dc5-3737a2a55f5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 유나ㆍ뉴진스 혜인 등 MZ세대들의 뉴 애슬레저룩 트렌드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68453</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68453</guid>
-            <pubDate>Mon, 01 Aug 2022 06:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[흔하디흔한 애슬레저룩은 NO! 요즘 젠지들의 애슬레저룩은 뭔가 다르다?! 전소미부터 있지 유나,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/74b74fb1-7594-45fa-b094-61a282c9c955.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
