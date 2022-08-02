@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 12:31:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 열다섯 살이에요! 2008년생, 젠지 셀렙 소녀들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68519</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68519</guid>
+            <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;나의 아저씨&gt;의 아이유 아역, &lt;고요의 바다&gt; 루나 역, 서바이벌 경쟁 프로그램에서 우승까지… ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/96cf9998-cabe-4f87-98e9-eb61d0fc9305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 피부, 남돌에게 맡기세요!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68518</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68518</guid>
+            <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[모공 없고, 잡티 없고, 피부가 ‘맑고 영롱’ 그 자체! 손민수를 이롭게 하는 지갑 여는 뷰티...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d2082aed-615c-4d76-8d59-997777714b8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 마음 훔치지 마요 존잘 장발러들!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68517</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 14:17:28 GMT</pubDate>
             <content:encoded><![CDATA[안유진, 민니, 미연의 여름휴가 룩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/97d8ad98-aeea-4817-96cb-bc0c06039410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쌍둥이가 아니라고!? ‘카피캣’으로 돌아온 초봄의 트윈 룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68465</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68465</guid>
-            <pubDate>Mon, 01 Aug 2022 06:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[손민수 각! 알록달록 페스티벌 룩 추천]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/942eb40c-0a3e-46c0-94d5-7ce71bf341f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌의 홍은채, 카.잘.알 인증? 카즈하의 TMI를 싹~쓸이한 둘의 리얼 찐친 케미!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68463</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68463</guid>
-            <pubDate>Mon, 01 Aug 2022 06:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[찐친 바이브, 가득 가득~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/921a8762-6552-4d0e-b97e-cab11a79ca93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

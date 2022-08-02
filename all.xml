@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 12:31:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/876f9d30-566d-4539-b2e4-9f6e412d8f15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나는 열다섯 살이에요! 2008년생, 젠지 셀렙 소녀들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68519</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68519</guid>
+            <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;나의 아저씨&gt;의 아이유 아역, &lt;고요의 바다&gt; 루나 역, 서바이벌 경쟁 프로그램에서 우승까지… ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/96cf9998-cabe-4f87-98e9-eb61d0fc9305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 피부, 남돌에게 맡기세요! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68518</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68518</guid>
+            <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[모공 없고, 잡티 없고, 피부가 ‘맑고 영롱’ 그 자체! 손민수를 이롭게 하는 지갑 여는 뷰티...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d2082aed-615c-4d76-8d59-997777714b8f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내 마음 훔치지 마요 존잘 장발러들! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68517</link>
             <guid>https://www.cosmopolitan.co.kr/article/68517</guid>
@@ -354,22 +370,6 @@
             <pubDate>Mon, 01 Aug 2022 14:17:28 GMT</pubDate>
             <content:encoded><![CDATA[안유진, 민니, 미연의 여름휴가 룩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/97d8ad98-aeea-4817-96cb-bc0c06039410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쌍둥이가 아니라고!? ‘카피캣’으로 돌아온 초봄의 트윈 룩 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68465</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68465</guid>
-            <pubDate>Mon, 01 Aug 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[손민수 각! 알록달록 페스티벌 룩 추천]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/942eb40c-0a3e-46c0-94d5-7ce71bf341f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌의 홍은채, 카.잘.알 인증? 카즈하의 TMI를 싹~쓸이한 둘의 리얼 찐친 케미! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68463</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68463</guid>
-            <pubDate>Mon, 01 Aug 2022 06:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[찐친 바이브, 가득 가득~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/921a8762-6552-4d0e-b97e-cab11a79ca93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 언니가 곧 '엄마'가 된다고? 출산을 앞에 둔 예비 맘 4 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -436,10 +436,18 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/1b003aa8-c976-4f46-ba59-0f26b80f013a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서핑하고 포케 먹는 거 하와이 국룰 아닌가여? 부산 포케 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68501</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68501</guid>
+            <pubDate>Tue, 02 Aug 2022 12:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[니가 가라 하와이~ 나는 포케 먹으러 갈거야~~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/4aa0ff5e-4a2b-483e-9dd7-0b95faed484c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일과 사랑 모두 챙취할 수 있게 해주세요! 8월의 별자리 운세 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68486</link>
             <guid>https://www.cosmopolitan.co.kr/article/68486</guid>
-            <pubDate>Tue, 02 Aug 2022 09:19:37 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 09:15:54 GMT</pubDate>
             <content:encoded><![CDATA[일과 사랑을 모두 쟁취할 수 있게 도와줄 8월의 별자리 운세.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/3215728f-6919-4aab-acb0-c21277242fce.jpg" length="0" type="image/jpg"/>
         </item>
@@ -490,14 +498,6 @@
             <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
             <content:encoded><![CDATA[새로운 사랑을 시작하시겠습니까? 이별한 커플들의 연애 정거장, 티빙 오리지널이 선보이는 연애...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/eb3996d1-aabd-49ca-bb6f-c8e19b91b46c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트민남녀의 필수 코스! 전시 모음ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68399</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68399</guid>
-            <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[지금 아니면 못 가는 ‘무료 전시’.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/11a7dc17-c670-4aa9-b642-ae973f380a5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
