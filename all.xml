@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 14:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 16:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -180,6 +180,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTNfMTU5/MDAxNjU3Njk2MTAyMTY1.CTNslHs3azQkN3j-ndvGDnJAwJzLuFmMFexHtNndRwcg.i9jKAqKlJAfvWhNQul0Ke0NpUtiTXXopeCXJKIPMLJQg.JPEG/ISsjAY1sZNMDcP-KKQnfqs2zqtTQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[훌쩍 떠나고 싶어지는 셀럽들의 여름휴가 패션 탐구! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68499</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68499</guid>
+            <pubDate>Mon, 01 Aug 2022 14:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[안유진, 민니, 미연의 여름휴가 룩은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/97d8ad98-aeea-4817-96cb-bc0c06039410.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코스모 픽! 8월에 꼭 소장해야 할 머스트해브 아이템 3 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68489</link>
             <guid>https://www.cosmopolitan.co.kr/article/68489</guid>
@@ -236,12 +244,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/4fc12154-d33c-4d1d-823a-8e8ab0c076ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화이트 티셔츠로 멋쁨 뽐내기!? 뭔가 다른 그녀들의 힙 뽀인뜨~ (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68432</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68432</guid>
-            <pubDate>Fri, 29 Jul 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[로제•리사•예리•설현의 티셔츠 룩 모음ZIP]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/bc48e988-b5c2-427c-b1a3-080f2da64212.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우리가 몰랐던 비율 찢은 갓몸매 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68508</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68508</guid>
+            <pubDate>Mon, 01 Aug 2022 14:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[비비, 스테이시 윤, 에스파 카리나, 김민주까지 우리가 여태 몰라본 게 미안한 갓몸매 리스트. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/c0513bbf-051c-4dfe-9752-d008e87c9fd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존예 주의! 풍덩 빠지고 싶은 매력적인 8월의 뷰티 신상 22 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -298,14 +306,6 @@
             <pubDate>Fri, 29 Jul 2022 07:10:45 GMT</pubDate>
             <content:encoded><![CDATA[양 갈래 머리를 즐길 시간도 1달밖에 남지 않았다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/47aacdea-7ad9-4b77-8e1a-36061d1f7a95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평균 나이 30세, WSG워너비! 현역 아이돌 뺨치는 몸매 관리 치트키는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68375</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68375</guid>
-            <pubDate>Fri, 29 Jul 2022 13:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[윤은혜, 조현아, HYNN, 쏠, 이보람의 관리 비법 대공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/876f9d30-566d-4539-b2e4-9f6e412d8f15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 열다섯 살이에요! 2008년생, 젠지 셀렙 소녀들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -372,6 +372,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/97d8ad98-aeea-4817-96cb-bc0c06039410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[발라드 요정 ‘벤’, 임신 3개월 차 임밍아웃! 남편은 누구? (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68076</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68076</guid>
+            <pubDate>Tue, 02 Aug 2022 16:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[가수 벤의 임신 소식에 팬들은 뜨거운 응원과 격려를 보내고 있다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/3865e175-de2c-41c2-a9e0-d32c60a28251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 언니가 곧 '엄마'가 된다고? 출산을 앞에 둔 예비 맘 4 (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/67997</link>
             <guid>https://www.cosmopolitan.co.kr/article/67997</guid>
@@ -426,14 +434,6 @@
             <pubDate>Tue, 05 Jul 2022 17:20:04 GMT</pubDate>
             <content:encoded><![CDATA[#사지말고입양하세요 유기견과 가족이 된 셀럽들은 누구?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/d9a3fd2c-9372-491c-91ee-ad072dd54f38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현빈♥손예진, 임신 소식에 SNS계의 댓글 스나이퍼 이민정이 등장했다?! (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67559</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67559</guid>
-            <pubDate>Sun, 03 Jul 2022 20:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[당사자들보다 더 난리 난 대중들과 찐친들의 반응은?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/1b003aa8-c976-4f46-ba59-0f26b80f013a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서핑하고 포케 먹는 거 하와이 국룰 아닌가여? 부산 포케 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>

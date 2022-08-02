@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 14:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 16:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[훌쩍 떠나고 싶어지는 셀럽들의 여름휴가 패션 탐구!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68499</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68499</guid>
+            <pubDate>Tue, 02 Aug 2022 16:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[안유진, 민니, 미연의 여름휴가 룩은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/97d8ad98-aeea-4817-96cb-bc0c06039410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모 픽! 8월에 꼭 소장해야 할 머스트해브 아이템 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68489</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Jul 2022 19:09:32 GMT</pubDate>
             <content:encoded><![CDATA[당장 따라하고 싶은 패션 센스 무엇?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/4fc12154-d33c-4d1d-823a-8e8ab0c076ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트 티셔츠로 멋쁨 뽐내기!? 뭔가 다른 그녀들의 힙 뽀인뜨~]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68432</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68432</guid>
-            <pubDate>Fri, 29 Jul 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[로제•리사•예리•설현의 티셔츠 룩 모음ZIP]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/bc48e988-b5c2-427c-b1a3-080f2da64212.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
