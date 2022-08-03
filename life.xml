@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 12:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 14:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 월급 빼고 다 오른 미친 세상, 비행기 티켓팅 꿀팁 알려드림]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68502</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68502</guid>
+            <pubDate>Wed, 03 Aug 2022 14:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[비행기 값이 미쳤어도 여행은 놓칠 수 없는 당신께, 속닥속닥]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/a3bd2b59-4b34-4ca3-abe7-25b31a6ada6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서핑하고 포케 먹는 거 하와이 국룰 아닌가여? 부산 포케 맛집 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68501</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Jul 2022 19:12:56 GMT</pubDate>
             <content:encoded><![CDATA[맛잘알 신세계 정용진 부회장이 인정한 그 맛집!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/a2f7cd09-c859-413d-90a2-4c29d5081b10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[X와 한 집에 산다?! 다시 돌아온 <환승연애> 시즌 2]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68440</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68440</guid>
-            <pubDate>Fri, 29 Jul 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 사랑을 시작하시겠습니까? 이별한 커플들의 연애 정거장, 티빙 오리지널이 선보이는 연애...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/eb3996d1-aabd-49ca-bb6f-c8e19b91b46c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
