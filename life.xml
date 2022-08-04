@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 11:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 16:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금은 강북 스타일!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68521</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68521</guid>
+            <pubDate>Thu, 04 Aug 2022 16:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[비쥬얼+맛 모두 합격인 강북 카페 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/77d5df22-c2a2-43f9-89ca-66268cf954e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우영우가 좋아할 서울 김밥 맛집 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68504</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 06:29:06 GMT</pubDate>
             <content:encoded><![CDATA[서핑 강습도 하고 장비도 빌려주고 맛있는 먹거리도 파는 강원도 서핑숍 4]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/95533c78-bd45-436d-bb80-c0ecd5e88d03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주당들은 요즘 이런 술을 마십니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68449</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68449</guid>
-            <pubDate>Mon, 01 Aug 2022 06:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[아직도 안마셔봤니? 아싸가 인싸된다는 요즘 유행하는 그 술.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/0c9d955e-630f-4120-a8ed-87f57d808703.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

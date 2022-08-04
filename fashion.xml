@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 11:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 16:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHECK ON IT! Z세대의 체크 패턴 존잼 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68532</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68532</guid>
+            <pubDate>Thu, 04 Aug 2022 16:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[닮은 듯 다른 우리의 무늬. Z세대가 패턴 스타일링을 즐기는 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/3a8e0c2d-78b6-4291-bcef-92a58e93bd77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노제 똑닮은 외모로 화제인 환승연애2 최이현 사복패션!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68500</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 06:27:27 GMT</pubDate>
             <content:encoded><![CDATA[흔하디흔한 애슬레저룩은 NO! 요즘 젠지들의 애슬레저룩은 뭔가 다르다?! 전소미부터 있지 유나,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/74b74fb1-7594-45fa-b094-61a282c9c955.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷잘알들이 사랑하는 블랙!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68438</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68438</guid>
-            <pubDate>Sun, 31 Jul 2022 19:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[BLACK LOVES MATTER.  패피라면 한여름에도 블랙이지. 블랙의 멋을 아는 패피들의 한여름 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/197663c1-1d63-485f-b817-a2378ced61b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
