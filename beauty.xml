@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 16:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 17:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤승아∙혜리∙한지민의 단발은 사랑입니다! 머리카락 기부에 동참한 스타들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68520</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68520</guid>
+            <pubDate>Thu, 04 Aug 2022 17:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[한지민, 혜리, 윤승아, 이랑. 싹둑 자른 머리를 기부한 언니들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/91b59261-20fc-470b-a13b-50fd6d19a376.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 피부, 남돌에게 맡기세요!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68518</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 14:17:16 GMT</pubDate>
             <content:encoded><![CDATA[이것만 지키면 야 너두 할 수 있어!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/f503c744-6470-4c5b-ad73-fd49f975b6b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보라 빔을 받아랏! 청하∙카리나∙카즈하∙유에의 퍼플 헤어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68443</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68443</guid>
-            <pubDate>Mon, 01 Aug 2022 14:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[퍼플 지수에 따라 분위기 천차만별! 요즘 핫한 아이돌은 퍼플 헤어를 즐긴다?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/8ffcd05b-f869-4309-a815-739dfa8daf20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
