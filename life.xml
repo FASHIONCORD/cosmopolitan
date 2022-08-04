@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우영우가 좋아할 서울 김밥 맛집 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68504</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68504</guid>
+            <pubDate>Thu, 04 Aug 2022 03:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[우영우 과몰입러들 다들 모여!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/97678727-1592-4318-a703-2b464a2fc1e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 월급 빼고 다 오른 미친 세상, 비행기 티켓팅 꿀팁 알려드림]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68502</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 06:29:06 GMT</pubDate>
             <content:encoded><![CDATA[아직도 안마셔봤니? 아싸가 인싸된다는 요즘 유행하는 그 술.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/0c9d955e-630f-4120-a8ed-87f57d808703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 곳이 알고 싶다. 정용진이 인증한 노빠꾸 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68444</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68444</guid>
-            <pubDate>Sun, 31 Jul 2022 19:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[맛잘알 신세계 정용진 부회장이 인정한 그 맛집!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/a2f7cd09-c859-413d-90a2-4c29d5081b10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

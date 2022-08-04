@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노제 똑닮은 외모로 화제인 환승연애2 최이현 사복패션!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68500</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68500</guid>
+            <pubDate>Thu, 04 Aug 2022 03:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[입덕을 부르는 비주얼! 최이현 탐구]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/823834a9-c6a4-478e-b7d1-e296c4b93ffa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[훌쩍 떠나고 싶어지는 셀럽들의 여름휴가 패션 탐구!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68499</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Jul 2022 19:09:32 GMT</pubDate>
             <content:encoded><![CDATA[BLACK LOVES MATTER.  패피라면 한여름에도 블랙이지. 블랙의 멋을 아는 패피들의 한여름 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/197663c1-1d63-485f-b817-a2378ced61b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갭신갭왕 레드벨벳 슬기의 꾸안꾸 힙스터 룩 탐구!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68433</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68433</guid>
-            <pubDate>Sun, 31 Jul 2022 19:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[당장 따라하고 싶은 패션 센스 무엇?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/4fc12154-d33c-4d1d-823a-8e8ab0c076ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

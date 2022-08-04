@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2PM 황찬성 아빠 됐다? 딸&아들 바보 예약한 남돌 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68300</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68300</guid>
+            <pubDate>Thu, 04 Aug 2022 03:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[황찬성부터 바비, 첸까지. ‘아빠’로서 새롭게 출발하는 이들의 인생 제 2막!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/0e15d539-343e-4d9b-b00c-c8211c416338.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하니♥양재웅, 조이♥크러쉬, 이광수♥이선빈 중 2022.ver 최강 럽스타 커플은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68260</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Jul 2022 10:12:38 GMT</pubDate>
             <content:encoded><![CDATA[수상하다, 수상해...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/8fd2331f-7801-494e-a047-07fa1e2d1eba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2030세대가 성중독자 수의 70%나 된다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67661</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67661</guid>
-            <pubDate>Thu, 14 Jul 2022 07:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[출산율, 결혼율 심지어 연애율까지 감소했는데, 성중독자 수는 5배나 증가했다. 이게 대체 무슨 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/f24c40c9-a2e6-4001-84c4-6bee75bffd8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

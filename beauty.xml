@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 마음 훔치지 마요 존잘 장발러들!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68517</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68517</guid>
+            <pubDate>Thu, 04 Aug 2022 03:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[세계 3대 마요인 참치 마요, 치킨 마요에 이어 ‘내 마음 훔치지 마요’ 편! 머리카락이 길어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/edce2d66-8c58-4637-8975-9dde836a7b66.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 몰랐던 비율 찢은 갓몸매]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68508</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Jul 2022 19:09:56 GMT</pubDate>
             <content:encoded><![CDATA[뷰티 꿀팁?! 해시태그만 검색하면 다 알 수 있지! 핫한 아이돌들 해시태그, 지금 당장 검색 G...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/4838f8df-3ae8-411e-8c1a-b62b7720bc84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아린∙나연∙태연∙뉴진스 혜인의 공통점은!? 여름과 찰떡인 ‘이 헤어’를 했다는 것!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68441</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68441</guid>
-            <pubDate>Fri, 29 Jul 2022 13:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[양 갈래 머리를 즐길 시간도 1달밖에 남지 않았다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/47aacdea-7ad9-4b77-8e1a-36061d1f7a95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
