@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 03:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 김남길의 비.상.선.언🔥 나는 확신의 ‘댕길이’다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68566</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68566</guid>
+            <pubDate>Thu, 04 Aug 2022 05:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴도 목소리도 모두 대유잼! 배우 김남길의 고막 힐링 줌터뷰]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/b3d4fcb1-919f-4e10-b8ae-55a5b5a525c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[응원도 월클스럽게! BTS지민 ∙ 제이홉의 찐 브로맨스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68558</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68558</guid>
+            <pubDate>Thu, 04 Aug 2022 05:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[훈훈하다 훈훈해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/9b29398e-46b9-40c3-8101-a9220ea1dec1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어디서 술냄새 안나요? <나혼산>에 나온 칵테일 레시피 정리!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68555</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
             <content:encoded><![CDATA[모공 없고, 잡티 없고, 피부가 ‘맑고 영롱’ 그 자체! 손민수를 이롭게 하는 지갑 여는 뷰티...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d2082aed-615c-4d76-8d59-997777714b8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 마음 훔치지 마요 존잘 장발러들!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68517</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68517</guid>
-            <pubDate>Tue, 02 Aug 2022 09:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[세계 3대 마요인 참치 마요, 치킨 마요에 이어 ‘내 마음 훔치지 마요’ 편! 머리카락이 길어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/edce2d66-8c58-4637-8975-9dde836a7b66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 속을 병들게 만든 강태오 드라마 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68510</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68510</guid>
-            <pubDate>Tue, 02 Aug 2022 09:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[연하남, 박력남, 섭섭남까지 모두 소화하는 강태오의 드라마 모아보기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/ffd2abf3-4c12-4eb0-ae2d-7ddeb4407917.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
