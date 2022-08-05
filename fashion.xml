@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 13:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 16:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실내 냉방병 주의! 해결책은 바로 셔츠]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68541</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68541</guid>
+            <pubDate>Fri, 05 Aug 2022 16:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[반팔 셔츠부터 컬러 셔츠까지 여름 셔츠로 활용할 수 있는 건 전부 다 모았다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/2ff98fb1-fe0c-453d-ad6d-fdd9cf3e6ffd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 브라 톱만 입을 수 있다! 자신감을 가지고 도전해볼 브라 톱 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68540</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68540</guid>
+            <pubDate>Fri, 05 Aug 2022 16:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[제시ㆍ현아ㆍ화사 등 핫한 셀럽은 모두 입는다구!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/b55bbc32-873e-4c88-9837-03110ee3a4a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHECK ON IT! Z세대의 체크 패턴 존잼 스타일링]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68532</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[폴로셔츠 진짜 멋지게 입는 4가지 방법!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/a80b580c-8863-4300-b0ab-50e219b5da64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쌍둥이가 아니라고!? ‘카피캣’으로 돌아온 초봄의 트윈 룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68465</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68465</guid>
-            <pubDate>Mon, 01 Aug 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[손민수 각! 알록달록 페스티벌 룩 추천]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/942eb40c-0a3e-46c0-94d5-7ce71bf341f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 유나ㆍ뉴진스 혜인 등 MZ세대들의 뉴 애슬레저룩 트렌드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68453</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68453</guid>
-            <pubDate>Mon, 01 Aug 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[흔하디흔한 애슬레저룩은 NO! 요즘 젠지들의 애슬레저룩은 뭔가 다르다?! 전소미부터 있지 유나,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/74b74fb1-7594-45fa-b094-61a282c9c955.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 13:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 16:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[붙여야 산다? 자외선으로 부터 피부를 지켜줄 선 패치 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68528</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68528</guid>
+            <pubDate>Fri, 05 Aug 2022 16:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[머리부터 발끝까지, 서머 퀸들을 위한 필수 지침 뷰티 꿀팁 대방출!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/01d03fbf-9e76-432b-8399-5361dc600f50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤승아∙혜리∙한지민의 단발은 사랑입니다! 머리카락 기부에 동참한 스타들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68520</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 14:17:16 GMT</pubDate>
             <content:encoded><![CDATA[물에서 하는 운동은 관절에 무리도 덜하고 칼로리 소모는 넘사벽!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/667bf998-35e4-4461-9dc5-3737a2a55f5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것만 지키면 끝! 여에스더 박사님이 알려주는 다이어트 성공 공식]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68451</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68451</guid>
-            <pubDate>Mon, 01 Aug 2022 14:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[이것만 지키면 야 너두 할 수 있어!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/f503c744-6470-4c5b-ad73-fd49f975b6b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
