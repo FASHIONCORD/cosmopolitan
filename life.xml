@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 14:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 15:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디서 술냄새 안나요? <나혼산>에 나온 칵테일 레시피 정리!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68555</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68555</guid>
+            <pubDate>Sat, 06 Aug 2022 15:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[경력 7년에 빛나는 나래바 주인 박나래가 컨설팅했다는데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/f49d6575-defa-4d96-af98-eafaf290d7a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸어서 한남동 갤러리 투어]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68535</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68535</guid>
+            <pubDate>Sat, 06 Aug 2022 15:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[비 오는 날 힐링 타임으로 갤러리 투어를 하고 싶을 땐 한남동을 가보자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/4b05ae08-fca2-47f8-b954-c1616780a301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 강북 스타일!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68521</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 15:13:45 GMT</pubDate>
             <content:encoded><![CDATA[물에서 하는 운동은 관절에 무리도 덜하고 칼로리 소모는 넘사벽!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/667bf998-35e4-4461-9dc5-3737a2a55f5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰빙 그 잡채.. 다이어터들의 필수 먹거리, 서울 그릭요거트 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68456</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68456</guid>
-            <pubDate>Mon, 01 Aug 2022 06:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[기본에 충실한 플레인 그릭요거트부터 갖가지 맛의 이색 그릭요거트까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/8242f5b6-27f7-4cc8-bf18-79674c8a5082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파도 맛집 양양, 고성! 서핑숍을 찾고 있다면?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68450</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68450</guid>
-            <pubDate>Mon, 01 Aug 2022 06:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[서핑 강습도 하고 장비도 빌려주고 맛있는 먹거리도 파는 강원도 서핑숍 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/95533c78-bd45-436d-bb80-c0ecd5e88d03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
