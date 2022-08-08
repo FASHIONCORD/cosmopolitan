@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 03:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 04:31:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구매욕 뿜뿜 솟게 만드는 요즘 자동차의 신박한 기능들 part.1]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68675</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68675</guid>
+            <pubDate>Mon, 08 Aug 2022 04:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[구매욕 뿜뿜 솟게 만드는 요즘 자동차의 신박한 기능들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/538ca438-cb78-4ffe-ba8a-6d9d81f158d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구매욕 뿜뿜 솟게 만드는 요즘 자동차의 신박한 기능들 part.2]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68672</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Aug 2022 15:14:55 GMT</pubDate>
             <content:encoded><![CDATA[경력 7년에 빛나는 나래바 주인 박나래가 컨설팅했다는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/f49d6575-defa-4d96-af98-eafaf290d7a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸어서 한남동 갤러리 투어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68535</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68535</guid>
-            <pubDate>Sat, 06 Aug 2022 15:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[비 오는 날 힐링 타임으로 갤러리 투어를 하고 싶을 땐 한남동을 가보자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/4b05ae08-fca2-47f8-b954-c1616780a301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
