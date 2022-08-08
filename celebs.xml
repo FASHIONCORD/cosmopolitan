@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커밍아웃 22년 차! 탑게이 ‘홍석천’이 퀴어 드라마를 기획 중이라고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68587</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68587</guid>
+            <pubDate>Mon, 08 Aug 2022 05:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[홍석천 기획의 BL물 &lt;시골 게이 서울 상경기&gt;의 캐스팅 주목!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/0d5c1c5e-0b54-4151-9946-5a071713e914.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 김남길의 비.상.선.언🔥 나는 확신의 ‘댕길이’다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68566</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
             <content:encoded><![CDATA[&lt;나의 아저씨&gt;의 아이유 아역, &lt;고요의 바다&gt; 루나 역, 서바이벌 경쟁 프로그램에서 우승까지… ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/96cf9998-cabe-4f87-98e9-eb61d0fc9305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 피부, 남돌에게 맡기세요!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68518</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68518</guid>
-            <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[모공 없고, 잡티 없고, 피부가 ‘맑고 영롱’ 그 자체! 손민수를 이롭게 하는 지갑 여는 뷰티...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d2082aed-615c-4d76-8d59-997777714b8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
