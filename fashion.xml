@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 15:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 01:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탱크톱 하나면 트렌드세터 쌉파서블!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68623</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68623</guid>
+            <pubDate>Tue, 09 Aug 2022 00:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[올여름 화이트 탱크톱 없이 스타일을 논하지 말자! 런웨이는 물론이고 리얼웨이까지 탱크톱이 키...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/df23a679-ecef-4f6a-9cea-cb57117ba242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IN FULL BLOOM! 꽃무늬에 퐁당 빠져버렸어]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68568</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Aug 2022 16:15:01 GMT</pubDate>
             <content:encoded><![CDATA[안유진, 민니, 미연의 여름휴가 룩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/97d8ad98-aeea-4817-96cb-bc0c06039410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 픽! 8월에 꼭 소장해야 할 머스트해브 아이템 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68489</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68489</guid>
-            <pubDate>Tue, 02 Aug 2022 09:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/ae4c2815-f5e6-4a48-a54f-9ede827e9e7e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 15:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 01:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠핑할 때 가져갈 각! 택배 가능한 미친 퀄리티의 정육점 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68680</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68680</guid>
+            <pubDate>Tue, 09 Aug 2022 01:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑의 또다른 이름은 바비큐가 아니었던가~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/79b2e3c2-df9a-42a6-b323-71395f84f3c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 플레이 vs 제작진, <안나> 사태 이게 무슨 일?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68679</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68679</guid>
+            <pubDate>Tue, 09 Aug 2022 01:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[감독 배제한 편집 훼손 논란에 이어지는 스태프들의 감독 지지 선언까지,]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/b6f14d43-a005-4b10-8a6e-38456217427b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비오면 오히려 좋아~ 실내도, 야외도 매력적인 서울의 와인바 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68677</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 08 Aug 2022 03:08:36 GMT</pubDate>
             <content:encoded><![CDATA[생으로 먹어도 쏘 스위트! 쪄 먹고, 갈아 먹고, 볶아 먹는 초간단 초당옥수수 레시피.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/b48aabcb-22f4-469a-9412-b0a55ae5d030.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<시맨틱 에러>로 한방 터트렸던 ‘왓챠’에 큰 위기가 닥쳤다고?! (Feat.매각설)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68607</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68607</guid>
-            <pubDate>Sun, 07 Aug 2022 18:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[위기의 왓챠, 생존 가능할까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/a2178969-475e-4f22-93f7-78d4dfbd90c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비도 오는데 집에서 요리 한판? key든램지가 선보이는 홈파티 요리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68591</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68591</guid>
-            <pubDate>Sun, 07 Aug 2022 18:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[곧 뉴스에서 그의 요리 장면을 마주할 지도 모를 일!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/9a9631a5-6816-40b2-a7ed-3b4986b41ed6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
