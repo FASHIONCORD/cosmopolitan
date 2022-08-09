@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 15:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간절기 시즌의 국룰, MZ세대 카디건 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68575</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68575</guid>
+            <pubDate>Tue, 09 Aug 2022 17:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[무더위가 기승을 부리지만 조금만 지나면 새로운 계절이 도래한다. 지금부터 가을까지, 간절기에도...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/2c8c6c1b-bac8-4329-b2f4-c40e777e41f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[믹스&매치의 강자, 로퍼의 활약은 어디까지?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68662</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Aug 2022 16:16:13 GMT</pubDate>
             <content:encoded><![CDATA[반팔 셔츠부터 컬러 셔츠까지 여름 셔츠로 활용할 수 있는 건 전부 다 모았다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/2ff98fb1-fe0c-453d-ad6d-fdd9cf3e6ffd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 브라 톱만 입을 수 있다! 자신감을 가지고 도전해볼 브라 톱 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68540</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68540</guid>
-            <pubDate>Fri, 05 Aug 2022 16:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[제시ㆍ현아ㆍ화사 등 핫한 셀럽은 모두 입는다구!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/b55bbc32-873e-4c88-9837-03110ee3a4a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
