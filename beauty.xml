@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 흔적 순삭! 빨갛게 익은 피부를 워워~ 달래줄 스킨케어 TIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68569</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68569</guid>
+            <pubDate>Tue, 09 Aug 2022 07:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[신나게 바캉스를 즐길 땐 몰랐을 것이다. 빨갛게 익은 피부가 얼마나 오래가는지! 머리부터 발끝...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/f4182f86-9960-4c5d-8780-99fe01afd410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 진화된 New 다이슨 에어랩™ 멀티 스타일러]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68605</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Aug 2022 03:01:54 GMT</pubDate>
             <content:encoded><![CDATA[세계 3대 마요인 참치 마요, 치킨 마요에 이어 ‘내 마음 훔치지 마요’ 편! 머리카락이 길어...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/edce2d66-8c58-4637-8975-9dde836a7b66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 몰랐던 비율 찢은 갓몸매]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68508</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68508</guid>
-            <pubDate>Tue, 02 Aug 2022 16:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[비비, 스테이시 윤, 에스파 카리나, 김민주까지 우리가 여태 몰라본 게 미안한 갓몸매 리스트. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/c0513bbf-051c-4dfe-9752-d008e87c9fd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
