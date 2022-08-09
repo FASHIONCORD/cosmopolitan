@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 03:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비도 오는데 집에서 요리 한판? key든램지가 선보이는 홈파티 요리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68591</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68591</guid>
+            <pubDate>Tue, 09 Aug 2022 04:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[곧 뉴스에서 그의 요리 장면을 마주할 지도 모를 일!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/9a9631a5-6816-40b2-a7ed-3b4986b41ed6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커밍아웃 22년 차! 탑게이 ‘홍석천’이 퀴어 드라마를 기획 중이라고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68587</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Aug 2022 14:10:34 GMT</pubDate>
             <content:encoded><![CDATA[한지민, 혜리, 윤승아, 이랑. 싹둑 자른 머리를 기부한 언니들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/91b59261-20fc-470b-a13b-50fd6d19a376.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 열다섯 살이에요! 2008년생, 젠지 셀렙 소녀들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68519</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68519</guid>
-            <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;나의 아저씨&gt;의 아이유 아역, &lt;고요의 바다&gt; 루나 역, 서바이벌 경쟁 프로그램에서 우승까지… ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/96cf9998-cabe-4f87-98e9-eb61d0fc9305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

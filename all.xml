@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 03:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -309,6 +309,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/c0513bbf-051c-4dfe-9752-d008e87c9fd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비도 오는데 집에서 요리 한판? key든램지가 선보이는 홈파티 요리 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68591</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68591</guid>
+            <pubDate>Tue, 09 Aug 2022 04:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[곧 뉴스에서 그의 요리 장면을 마주할 지도 모를 일!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/9a9631a5-6816-40b2-a7ed-3b4986b41ed6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[커밍아웃 22년 차! 탑게이 ‘홍석천’이 퀴어 드라마를 기획 중이라고?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68587</link>
             <guid>https://www.cosmopolitan.co.kr/article/68587</guid>
@@ -363,14 +371,6 @@
             <pubDate>Wed, 03 Aug 2022 14:10:34 GMT</pubDate>
             <content:encoded><![CDATA[한지민, 혜리, 윤승아, 이랑. 싹둑 자른 머리를 기부한 언니들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/91b59261-20fc-470b-a13b-50fd6d19a376.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 열다섯 살이에요! 2008년생, 젠지 셀렙 소녀들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68519</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68519</guid>
-            <pubDate>Tue, 02 Aug 2022 12:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;나의 아저씨&gt;의 아이유 아역, &lt;고요의 바다&gt; 루나 역, 서바이벌 경쟁 프로그램에서 우승까지… ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/96cf9998-cabe-4f87-98e9-eb61d0fc9305.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭발적이었거나, 폭망했거나! 지금의 코스모를 만든 역대 섹스 팁 part.2 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -437,6 +437,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/44d7a5a0-2d9d-4566-b37d-1a46b22ead0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름은 캠핑의 계절! 핫한 전국 캠핑장 소개 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68681</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68681</guid>
+            <pubDate>Tue, 09 Aug 2022 04:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[그러니 오늘도 캠핑을 떠날 수 밖에]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c639f196-9c35-4eeb-a08a-a4cd923f8f21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[캠핑할 때 가져갈 각! 택배 가능한 미친 퀄리티의 정육점 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68680</link>
             <guid>https://www.cosmopolitan.co.kr/article/68680</guid>
@@ -491,14 +499,6 @@
             <pubDate>Mon, 08 Aug 2022 03:08:36 GMT</pubDate>
             <content:encoded><![CDATA[미국의 고등학생들이 졸업 후 ‘갭이어’를 통해 잠시 숨을 고르듯, 한국의 직장인들에게도 이따...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/c7713262-b4c0-42c3-8828-d4d76c5bfc25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쪄 먹고, 갈아 먹고, 볶아 먹는 초간단 초당옥수수 레시피 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68570</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68570</guid>
-            <pubDate>Mon, 08 Aug 2022 03:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[생으로 먹어도 쏘 스위트! 쪄 먹고, 갈아 먹고, 볶아 먹는 초간단 초당옥수수 레시피.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/b48aabcb-22f4-469a-9412-b0a55ae5d030.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

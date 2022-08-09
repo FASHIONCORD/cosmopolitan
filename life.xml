@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 03:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름은 캠핑의 계절! 핫한 전국 캠핑장 소개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68681</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68681</guid>
+            <pubDate>Tue, 09 Aug 2022 04:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[그러니 오늘도 캠핑을 떠날 수 밖에]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c639f196-9c35-4eeb-a08a-a4cd923f8f21.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캠핑할 때 가져갈 각! 택배 가능한 미친 퀄리티의 정육점 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68680</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Aug 2022 03:08:36 GMT</pubDate>
             <content:encoded><![CDATA[미국의 고등학생들이 졸업 후 ‘갭이어’를 통해 잠시 숨을 고르듯, 한국의 직장인들에게도 이따...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/c7713262-b4c0-42c3-8828-d4d76c5bfc25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쪄 먹고, 갈아 먹고, 볶아 먹는 초간단 초당옥수수 레시피]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68570</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68570</guid>
-            <pubDate>Mon, 08 Aug 2022 03:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[생으로 먹어도 쏘 스위트! 쪄 먹고, 갈아 먹고, 볶아 먹는 초간단 초당옥수수 레시피.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/b48aabcb-22f4-469a-9412-b0a55ae5d030.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
