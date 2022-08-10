@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 12:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 13:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모폴리탄 전문가 15명이 예측한 '미래의 스타' part.2]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68712</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68712</guid>
+            <pubDate>Wed, 10 Aug 2022 13:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘좋아요’와 팔로어 수가 유명세를 결정짓는 시대. 그레타 툰베리부터 킴 카다시안까지, 셀러브리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/be365c51-1047-4f0d-92f8-6c990f60acae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모폴리탄 전문가 15명이 예측한 '미래의 스타' part.1]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68577</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68577</guid>
+            <pubDate>Wed, 10 Aug 2022 13:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘좋아요’와 팔로어 수가 유명세를 결정짓는 시대. 그레타 툰베리부터 킴 카다시안까지, 셀러브리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/5aa38afe-9d40-44e0-ad18-bb0b5836ab42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자만추가 그 자만추가 아냐? 마라맛으로 돌아온 마녀사냥 2022]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68689</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 08 Aug 2022 07:12:33 GMT</pubDate>
             <content:encoded><![CDATA[변덕스러운 날씨로 데이트 코스를 짜기가 쉽지 않다고? 실내와 야외 모두 매력적인 와인바 리스...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/5001da32-de19-43cb-aa6e-e760c299fb89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구매욕 뿜뿜 솟게 만드는 요즘 자동차의 신박한 기능들 part.1]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68675</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68675</guid>
-            <pubDate>Mon, 08 Aug 2022 04:31:44 GMT</pubDate>
-            <content:encoded><![CDATA[구매욕 뿜뿜 솟게 만드는 요즘 자동차의 신박한 기능들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/538ca438-cb78-4ffe-ba8a-6d9d81f158d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구매욕 뿜뿜 솟게 만드는 요즘 자동차의 신박한 기능들 part.2]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68672</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68672</guid>
-            <pubDate>Mon, 08 Aug 2022 03:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[구매욕 뿜뿜 솟게 만드는 요즘 자동차의 신박한 기능들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/07a30776-2737-4c27-aa71-e3ca0039e96c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
