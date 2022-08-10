@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 13:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다양하게 골라 먹는 재미가 있다! MBTI로 찾는 바프 이야기 part.1]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68737</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68737</guid>
+            <pubDate>Wed, 10 Aug 2022 15:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[너무 많아서 뭘 고를지 모를 때, 한국인에겐 아주 편리한 방법이 있잖아? MBTI와 HBAF의 무...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/36a64467-1c0a-489d-8327-9221eb3920e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치인다…너에게, 돌싱글즈 3∙환승연애 2 심쿵 멘트 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68723</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68723</guid>
+            <pubDate>Wed, 10 Aug 2022 15:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[이전 시즌을 능가하는 멘트 제조기들이 등장했다는데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/ec772689-d454-4493-b9dd-f3a18a0293a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모폴리탄 전문가 15명이 예측한 '미래의 스타' part.2]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68712</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 09 Aug 2022 01:01:22 GMT</pubDate>
             <content:encoded><![CDATA[캠핑의 또다른 이름은 바비큐가 아니었던가~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/79b2e3c2-df9a-42a6-b323-71395f84f3c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 플레이 vs 제작진, <안나> 사태 이게 무슨 일?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68679</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68679</guid>
-            <pubDate>Tue, 09 Aug 2022 01:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[감독 배제한 편집 훼손 논란에 이어지는 스태프들의 감독 지지 선언까지,]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/b6f14d43-a005-4b10-8a6e-38456217427b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비오면 오히려 좋아~ 실내도, 야외도 매력적인 서울의 와인바 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68677</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68677</guid>
-            <pubDate>Mon, 08 Aug 2022 07:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[변덕스러운 날씨로 데이트 코스를 짜기가 쉽지 않다고? 실내와 야외 모두 매력적인 와인바 리스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/5001da32-de19-43cb-aa6e-e760c299fb89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
