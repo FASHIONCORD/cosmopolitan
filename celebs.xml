@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집중! 운동선수 아니고 ‘찐’ 트렌드야!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68779</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68779</guid>
+            <pubDate>Thu, 11 Aug 2022 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[멋쁨 넘치는 축구 져지 패션이 궁금하다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/f0b39664-31a3-43fb-9757-995c97fafc56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래식에 취한다! 매일매일 메리제인 홀릭]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68778</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68778</guid>
+            <pubDate>Thu, 11 Aug 2022 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[경리ㆍ한선화ㆍ메구의 잇 템! 데일리한 디자인부터 유니크한 디자인까지 여름 메리제인 슈즈 스타...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/847e2666-2c78-4d2f-a30c-3749b63a482d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안보면 후회! 남돌 으른미 피지컬 3대장]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68776</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 11 Aug 2022 07:15:23 GMT</pubDate>
             <content:encoded><![CDATA[휴가철에 어떤 수영복 입을지 고민이라면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/9de112b3-5737-4352-9b27-056b440d054a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 바로 소장각! 셀렙 인스타 멋쁨 뽀인트, 가을 신상은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68730</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68730</guid>
-            <pubDate>Thu, 11 Aug 2022 07:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[태연, 화사, 나연, 아이린이 선택한 초초초-신상 백, 루이 비통 쿠상]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/fd32567c-a3fc-4cac-9e29-55ba739f1e4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 투어 중인 여자아이들 멤버들의 각양각색 사복룩!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68728</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68728</guid>
-            <pubDate>Wed, 10 Aug 2022 13:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[힙하고 러블리하고 다하는 여자아이들 사복 패션]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/5bfa568e-65b6-4e40-8a0d-d5b6cd41cfb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
