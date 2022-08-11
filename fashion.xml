@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 16:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래식에 취한다! 매일매일 메리제인 홀릭]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68778</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68778</guid>
+            <pubDate>Thu, 11 Aug 2022 16:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[경리ㆍ한선화ㆍ메구의 잇 템! 데일리한 디자인부터 유니크한 디자인까지 여름 메리제인 슈즈 스타...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/847e2666-2c78-4d2f-a30c-3749b63a482d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THE LAST SCENE! 탑티어 디자이너들의 피날레 룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68765</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 Aug 2022 17:15:00 GMT</pubDate>
             <content:encoded><![CDATA[무더위가 기승을 부리지만 조금만 지나면 새로운 계절이 도래한다. 지금부터 가을까지, 간절기에도...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/2c8c6c1b-bac8-4329-b2f4-c40e777e41f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믹스&매치의 강자, 로퍼의 활약은 어디까지?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68662</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68662</guid>
-            <pubDate>Tue, 09 Aug 2022 07:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[무더위가 기승을 부리지만 조금만 지나면 새로운 계절이 도래한다. 지금부터 가을까지, 간절기에도...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/898efb91-2edc-495e-9410-40d833433bb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

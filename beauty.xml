@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 16:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰잘알들은 다 '이거' 해~. 메이크업 레벨 업, 금손 치트키!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68574</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68574</guid>
+            <pubDate>Thu, 11 Aug 2022 16:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뷰티 툴 잘 다루는 나, 제법 멋져요~. 똥망손도 메이크업 레벨 단숨에 업시키는 뷰티 툴 활용...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/a15f59f0-19e5-4ad4-8fe1-5bcb7c549755.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패드맛ZIP은 어디? 각질 순삭과 수분 충전 효과를 지닌 신상 패드 추천]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68573</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Aug 2022 16:16:55 GMT</pubDate>
             <content:encoded><![CDATA[머리부터 발끝까지, 서머 퀸들을 위한 필수 지침 뷰티 꿀팁 대방출!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/01d03fbf-9e76-432b-8399-5361dc600f50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아∙혜리∙한지민의 단발은 사랑입니다! 머리카락 기부에 동참한 스타들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68520</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68520</guid>
-            <pubDate>Thu, 04 Aug 2022 17:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[한지민, 혜리, 윤승아, 이랑. 싹둑 자른 머리를 기부한 언니들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/91b59261-20fc-470b-a13b-50fd6d19a376.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
