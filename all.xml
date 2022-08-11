@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 02:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -437,6 +437,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/44d7a5a0-2d9d-4566-b37d-1a46b22ead0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다양하게 골라 먹는 재미가 있다! MBTI로 찾는 바프 이야기 part.2 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68738</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68738</guid>
+            <pubDate>Thu, 11 Aug 2022 06:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[너무 많아서 뭘 고를지 모를 때, 한국인에겐 아주 편리한 방법이 있잖아? MBTI와 HBAF의 무...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/c69564fe-197e-42d0-b611-b0addf16f612.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다양하게 골라 먹는 재미가 있다! MBTI로 찾는 바프 이야기 part.1 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68737</link>
             <guid>https://www.cosmopolitan.co.kr/article/68737</guid>
@@ -491,14 +499,6 @@
             <pubDate>Tue, 09 Aug 2022 04:36:03 GMT</pubDate>
             <content:encoded><![CDATA[그러니 오늘도 캠핑을 떠날 수 밖에]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c639f196-9c35-4eeb-a08a-a4cd923f8f21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠핑할 때 가져갈 각! 택배 가능한 미친 퀄리티의 정육점 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68680</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68680</guid>
-            <pubDate>Tue, 09 Aug 2022 01:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑의 또다른 이름은 바비큐가 아니었던가~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/79b2e3c2-df9a-42a6-b323-71395f84f3c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
