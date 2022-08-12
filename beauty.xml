@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 15:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 16:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안티에이징 효과가 엄청나다는 바쿠치올, 너 정체가 뭐니?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68714</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68714</guid>
+            <pubDate>Fri, 12 Aug 2022 16:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[바쿠치올이라고 들어는 봤나? 확실한 안티에이징 효과에 순딩한 사용감, 게다가 비건이라니! 당장...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/c324944f-a850-4a4e-9a6e-7cb4073a821b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷰잘알들은 다 '이거' 해~. 메이크업 레벨 업, 금손 치트키!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68574</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Aug 2022 18:16:53 GMT</pubDate>
             <content:encoded><![CDATA[머리부터 발끝까지, 서머 퀸들을 위한 필수 지침 뷰티 꿀팁 대방출!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/a664c43f-a14d-48bf-ac9f-ea3e3478e68f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[붙여야 산다? 자외선으로 부터 피부를 지켜줄 선 패치 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68528</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68528</guid>
-            <pubDate>Fri, 05 Aug 2022 16:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[머리부터 발끝까지, 서머 퀸들을 위한 필수 지침 뷰티 꿀팁 대방출!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/01d03fbf-9e76-432b-8399-5361dc600f50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
