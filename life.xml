@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 04:00:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙하다 힙해! 재방문을 부르는 뷰티 핫플 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68580</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68580</guid>
+            <pubDate>Fri, 12 Aug 2022 09:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[재미는 잠깐이지만 경험은 영원하다. 엔데믹과 함께 오프라인 매장이 늘어나고 남다른 취향과 감...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/17765700-7c36-41a1-ada0-269ef666ba38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 볼 거 없어? 피땀눈물 ‘이종석’ vs 인간 비타민 ‘김세정’]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68760</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Aug 2022 13:33:38 GMT</pubDate>
             <content:encoded><![CDATA[‘좋아요’와 팔로어 수가 유명세를 결정짓는 시대. 그레타 툰베리부터 킴 카다시안까지, 셀러브리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/5aa38afe-9d40-44e0-ad18-bb0b5836ab42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자만추가 그 자만추가 아냐? 마라맛으로 돌아온 마녀사냥 2022]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68689</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68689</guid>
-            <pubDate>Tue, 09 Aug 2022 15:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[신동엽, 김이나, 코드쿤스트, 비비. 자꾸 생각나는 19금 연애 상담이 시작되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/ec240a2f-3fe5-48fd-b36c-fcb37972af48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
