@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 18:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 20:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이틴 재질 폴폴, 긴 생머리가 국룰이다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68727</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68727</guid>
+            <pubDate>Sat, 13 Aug 2022 20:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스, 제니, 장원영, 슬기, 보나의 청량미 터지는 긴 생머리 모음ZIP]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/b0d4f595-781b-4044-8dbd-0e7871167586.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안티에이징 효과가 엄청나다는 바쿠치올, 너 정체가 뭐니?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68714</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 07 Aug 2022 18:16:17 GMT</pubDate>
             <content:encoded><![CDATA[머리부터 발끝까지, 서머 퀸들을 위한 필수 지침 뷰티 꿀팁 대방출!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/3cc4747c-7aae-4530-9e37-e079fcae64ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 끗 차로 분위기 반전 SSAP 가능! 다현ㆍ장원영ㆍ츠키 등 셀럽들의 힙한 헤어핀 연출법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68561</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68561</guid>
-            <pubDate>Sat, 06 Aug 2022 18:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[머리부터 발끝까지, 서머 퀸들을 위한 필수 지침 뷰티 꿀팁 대방출!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/a664c43f-a14d-48bf-ac9f-ea3e3478e68f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
