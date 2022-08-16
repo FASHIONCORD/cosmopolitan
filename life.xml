@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 08:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 09:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아몬드 회사 사람들의 슬기로운 회사 생활 이야기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68761</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68761</guid>
+            <pubDate>Tue, 16 Aug 2022 09:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[허니버터 아몬드 열풍의 시작, 바프의 직원들은 평소에도 아몬드를 먹을까? 떡볶이맛 아몬드 같...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/3e86e95e-6c43-4a41-a0a0-e2f67d9fd3c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙하다 힙해! 재방문을 부르는 뷰티 핫플 7]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68580</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Aug 2022 13:33:38 GMT</pubDate>
             <content:encoded><![CDATA[‘좋아요’와 팔로어 수가 유명세를 결정짓는 시대. 그레타 툰베리부터 킴 카다시안까지, 셀러브리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/be365c51-1047-4f0d-92f8-6c990f60acae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모폴리탄 전문가 15명이 예측한 '미래의 스타' part.1]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68577</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68577</guid>
-            <pubDate>Wed, 10 Aug 2022 13:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘좋아요’와 팔로어 수가 유명세를 결정짓는 시대. 그레타 툰베리부터 킴 카다시안까지, 셀러브리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/5aa38afe-9d40-44e0-ad18-bb0b5836ab42.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
