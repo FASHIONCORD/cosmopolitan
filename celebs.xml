@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 06:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네일아트한 남자가 낯설다고요? ‘힙’의 꼭대기엔 네일아트가!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68788</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68788</guid>
+            <pubDate>Tue, 16 Aug 2022 08:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[더 이상 여자들만의 유희가 아닌 네일아트. 손끝까지 아름다운 남자들의 네일 구경 할래?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/7270f235-4793-44bd-b9e4-dcfb8770c8df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[품절 대란! 이제는 없어서 못 입는다구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68783</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Aug 2022 07:15:23 GMT</pubDate>
             <content:encoded><![CDATA[설렘주의보! 고자극 남돌 섹시컷 대방출.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/3313bbae-b71a-4818-ac66-676198aa5bdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <조커2>에 의외의 배우가 출연 확정됐다?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68770</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68770</guid>
-            <pubDate>Thu, 11 Aug 2022 07:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[레이디 가가 표 ‘할리 퀸’이 기대되는 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/5c4e230f-6414-426b-b2f8-1322bed4134a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
