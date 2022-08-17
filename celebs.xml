@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 15:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 19:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카고 팬츠 말고 카고 스커트는 어때?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68884</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68884</guid>
+            <pubDate>Wed, 17 Aug 2022 19:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[세기말 감성은 카고 스커트로 챙겨볼 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/16e64300-f1f4-4b55-87f5-b45e0b92d7ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌디함의 최전선 아이템, 쉴드 셰이드 선글라스!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68883</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 12:25:11 GMT</pubDate>
             <content:encoded><![CDATA[아이유부터 유재석, 김혜수, 수지, 안효섭, 한지민, 김고은까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/82ad493b-c99c-47bd-abf3-1bb8d12af855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Y2K를 타고 돌아온 비비안 웨스트우드 ORB!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68857</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68857</guid>
-            <pubDate>Tue, 16 Aug 2022 12:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스∙조이∙나연의 PICK]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/82190fd2-4e14-4d64-8e59-54857dbd96b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
