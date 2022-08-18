@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 09:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 11:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/e3186873-389e-4458-8b49-65faa04dc19d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#CLOSE_UP "오래 버티는 자가 승자다!" 커피 스토리와 경험을 전달하는 네스프레소 커피스페셜리스트 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68885</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68885</guid>
+            <pubDate>Thu, 18 Aug 2022 11:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[커피 스페셜리스트가 부티크에서 브랜드의 얼굴이 되는 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/4dbaea66-9a8d-4ef8-bdf4-d3a9ff83775f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카고 팬츠 말고 카고 스커트는 어때? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68884</link>
             <guid>https://www.cosmopolitan.co.kr/article/68884</guid>
@@ -364,14 +372,6 @@
             <pubDate>Tue, 16 Aug 2022 12:25:11 GMT</pubDate>
             <content:encoded><![CDATA[이것만 따라 해도 동안길로 가는 것 SSAP에이블~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/a1767480-c9b7-47ec-9746-ffa45f86461d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 폭우 피해에 연예계는 기부 행렬 중! 훈훈 갑, 기부 스타는 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68864</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68864</guid>
-            <pubDate>Tue, 16 Aug 2022 12:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[아이유부터 유재석, 김혜수, 수지, 안효섭, 한지민, 김고은까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/82ad493b-c99c-47bd-abf3-1bb8d12af855.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭발적이었거나, 폭망했거나! 지금의 코스모를 만든 역대 섹스 팁  part.1 (코스모폴리탄 코리아 ─ 러브)]]></title>
