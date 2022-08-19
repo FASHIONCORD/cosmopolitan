@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 12:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 13:34:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS 끊어볼까? 이효리∙박재범∙톰 홀랜드처럼!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68927</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68927</guid>
+            <pubDate>Fri, 19 Aug 2022 13:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[일단 휴대폰 내려놔.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/1c957569-9e00-48e9-8751-3e738fb7c42f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#JOB터뷰_ ”빠르게 시도해보고 빠르게 실패해본다” 메타버스 데이팅 서비스 ‘PM’편]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68914</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68914</guid>
+            <pubDate>Fri, 19 Aug 2022 13:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[아바타로 마음껏 썸탈 수 있는 어메이징한 세상? 메타버스 데이팅 앱 서비스를 기획, 개발한 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/f865b62a-88e5-4e71-a7ad-5c718c802599.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박시은∙채림∙김현숙∙김수민, 자신의 성을 물려주는 엄마들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68891</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 18:17:45 GMT</pubDate>
             <content:encoded><![CDATA[스키장 고글? 미래에서 온 디자인? 이상하게 끌려]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/5cfb08bb-0ec6-4964-af8c-df84612a241b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기 좋아! 준열X혜리∙동휘X호연 커플 서사 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68882</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68882</guid>
-            <pubDate>Tue, 16 Aug 2022 18:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[빌리 아일리시 콘서트에서 목격된 두 커플의 과거에서 현재까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/4fa889d0-c0f1-48ac-a00b-a0c2b3d702e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫한 남돌들의 8월 컴백, 당신의 선택은요?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68881</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68881</guid>
-            <pubDate>Tue, 16 Aug 2022 18:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[골든차일드, 더보이즈, BAE173, CIX, 하성운까지 야, 나도 컴백해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/0dd86f33-811f-49b9-bf33-536c4374c939.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
