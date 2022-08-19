@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 17:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 20:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시간 순삭! 넷플릭스 스릴러 떡상 중]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68876</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68876</guid>
+            <pubDate>Fri, 19 Aug 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[쉽게 과몰입하게 만드는 넷플릭스 스릴러.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/af2fa2af-ad01-49e5-92ea-c577b3ae3035.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 초초초 핫플, 성북동]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68873</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68873</guid>
+            <pubDate>Fri, 19 Aug 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[너 나랑 성북동 가지 않을래?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/929ff51a-4b58-4384-9e3e-87cd6712e961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인싸력 상승! 정동길 핫플]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68871</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68871</guid>
+            <pubDate>Fri, 19 Aug 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[지금 당장 정동길로 가야하는 이유!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/fb3a7fc7-ffd1-45a4-b32d-799872429d75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내 공개 된 갤럭시 Z 플립4와 Z 폴드4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68827</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[허니버터 아몬드 열풍의 시작, 바프의 직원들은 평소에도 아몬드를 먹을까? 떡볶이맛 아몬드 같...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/3e86e95e-6c43-4a41-a0a0-e2f67d9fd3c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙하다 힙해! 재방문을 부르는 뷰티 핫플 7]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68580</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68580</guid>
-            <pubDate>Fri, 12 Aug 2022 09:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[재미는 잠깐이지만 경험은 영원하다. 엔데믹과 함께 오프라인 매장이 늘어나고 남다른 취향과 감...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/17765700-7c36-41a1-ada0-269ef666ba38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 볼 거 없어? 피땀눈물 ‘이종석’ vs 인간 비타민 ‘김세정’]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68760</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68760</guid>
-            <pubDate>Thu, 11 Aug 2022 16:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;빅마우스&gt; VS &lt;오늘의 웹툰&gt; 치열한 금토극 승자는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/12b82a5f-4051-4eb0-951a-82afacec39e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써부터 심장이 쫄깃해, 사랑과 우정 사이 <각자의 본능대로> 출연진은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68758</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68758</guid>
-            <pubDate>Thu, 11 Aug 2022 08:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[찐남친 4명과 찐여친 4명의 얽히고 설킨 드라마가 연출된다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/84ade539-aa3d-4c51-9c3b-cac5ebaa31a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
