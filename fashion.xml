@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌디함의 최전선 아이템, 쉴드 셰이드 선글라스!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68883</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68883</guid>
+            <pubDate>Mon, 22 Aug 2022 09:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[스키장 고글? 미래에서 온 디자인? 이상하게 끌려]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/5cfb08bb-0ec6-4964-af8c-df84612a241b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Y2K를 타고 돌아온 비비안 웨스트우드 ORB!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68857</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 04:34:16 GMT</pubDate>
             <content:encoded><![CDATA[여름과 가을 사이. 우리가 반드시 기억해야 할 2가지 핫 트렌드 아이템을 다채롭게 즐기는 방법...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/0a623c9e-5980-4efc-9fe5-c4c5cb71ade0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 스포티 룩은 티나게, 간지나게?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68782</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68782</guid>
-            <pubDate>Tue, 16 Aug 2022 04:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[여름이 가기 전, 정호연, 아이린, 미연, 유나처럼 스포티하게 스타일 업!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/f412ce73-9321-44ad-abba-092ed04742f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

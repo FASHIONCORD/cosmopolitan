@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 화이트 룩으로 더 이상의 햇볕은 굿바이!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/69004</link>
+            <guid>https://www.cosmopolitan.co.kr/article/69004</guid>
+            <pubDate>Mon, 22 Aug 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[김나영, 조이, 장희령, 선미처럼 피부를 보호하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/b2336b10-6994-4346-b526-d1ed4f287040.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정규2집으로 돌아오는 샤이니 키의 아이돌모먼트 뿜뿜 사복!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/69003</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Aug 2022 13:33:48 GMT</pubDate>
             <content:encoded><![CDATA[일단 휴대폰 내려놔.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/1c957569-9e00-48e9-8751-3e738fb7c42f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#JOB터뷰_ ”빠르게 시도해보고 빠르게 실패해본다” 메타버스 데이팅 서비스 ‘PM’편]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68914</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68914</guid>
-            <pubDate>Fri, 19 Aug 2022 13:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[아바타로 마음껏 썸탈 수 있는 어메이징한 세상? 메타버스 데이팅 앱 서비스를 기획, 개발한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/f865b62a-88e5-4e71-a7ad-5c718c802599.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

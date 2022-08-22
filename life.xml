@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[막차 탑승하세요! 지금 놓치면 1년을 기다려야 하는 제철 과일 디저트 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68889</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68889</guid>
+            <pubDate>Mon, 22 Aug 2022 09:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[여름에 가장 맛 좋은 제철 과일로 만든 디저트 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/96c853d7-17c2-4512-8112-072cea1dabca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸크 래퍼들의 보컬 빅뱅!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68879</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68879</guid>
+            <pubDate>Mon, 22 Aug 2022 09:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[K-POP 걸그룹의 메인 래퍼들이 랩이 아닌 보컬로 경쟁하는 JTBC ‘두 번째 세계’. 1라운드 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/b7c79ba6-0c23-4b97-bf67-c6188a2b159c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간 순삭! 넷플릭스 스릴러 떡상 중]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68876</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 12:26:34 GMT</pubDate>
             <content:encoded><![CDATA[탑건 후유증이 이렇게나 무섭습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/f76cf681-ddb4-457e-9ae7-ff2c5dd0db3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <조커2>에 의외의 배우가 출연 확정됐다?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68770</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68770</guid>
-            <pubDate>Tue, 16 Aug 2022 12:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[레이디 가가 표 ‘할리 퀸’이 기대되는 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/5c4e230f-6414-426b-b2f8-1322bed4134a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아몬드 회사 사람들의 슬기로운 회사 생활 이야기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68761</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68761</guid>
-            <pubDate>Tue, 16 Aug 2022 09:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[허니버터 아몬드 열풍의 시작, 바프의 직원들은 평소에도 아몬드를 먹을까? 떡볶이맛 아몬드 같...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/3e86e95e-6c43-4a41-a0a0-e2f67d9fd3c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
