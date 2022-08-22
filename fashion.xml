@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 06:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 07:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Y2K를 타고 돌아온 비비안 웨스트우드 ORB!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68857</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68857</guid>
+            <pubDate>Mon, 22 Aug 2022 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스∙조이∙나연의 PICK]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/82190fd2-4e14-4d64-8e59-54857dbd96b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차정원∙설현∙제니의 장마 필수템 레인부츠 코디!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68856</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68856</guid>
+            <pubDate>Mon, 22 Aug 2022 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽들의 지금 가장 핫한 레인부츠 스타일링]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bd9fe06c-da8a-4d6b-97b6-578038db9bcb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전소미ㆍ사나 등 셀럽들의 휴양지 필수템, 프라다 라피아 토트 백]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68855</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 04:34:16 GMT</pubDate>
             <content:encoded><![CDATA[여름이 가기 전, 정호연, 아이린, 미연, 유나처럼 스포티하게 스타일 업!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/f412ce73-9321-44ad-abba-092ed04742f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리부터 발끝까지 손민수할 기회! 소시탐탐 노려봐~]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68781</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68781</guid>
-            <pubDate>Tue, 16 Aug 2022 04:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;당신이 소원을 말하면&gt;부터 소녀시대 컴백까지! 열일 중인 소녀시대 수영의 사복 모음ZIP]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/3e95c71b-1d9f-48fb-8a21-d23f5bfada22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비도 오고 그래서 쇼츠 생각이 났어!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68780</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68780</guid>
-            <pubDate>Sat, 13 Aug 2022 20:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록한 쇼츠 스타일링, 셀렙들은 어떻게 입을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/1ab9750b-4a07-4ab8-b1db-11825462b906.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
