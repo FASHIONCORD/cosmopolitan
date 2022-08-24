@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 01:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간절기 멋쁨 뽀인트! 헤어 스카프 스타일링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/69044</link>
+            <guid>https://www.cosmopolitan.co.kr/article/69044</guid>
+            <pubDate>Wed, 24 Aug 2022 00:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[여름과 가을 사이, 스카프 활용법 모두 알려드림]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/13a261b0-3d85-4891-be44-fc36089c995b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠지 세대 국룰, 하이힐엔 니삭스!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/69043</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Aug 2022 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[&lt;하트시그널3&gt; 서민재, 인스타에 남태현 폭로글 올려]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/79d17941-0e51-4c2e-bc74-e2a86ac47176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 화이트 룩으로 더 이상의 햇볕은 굿바이!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69004</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69004</guid>
-            <pubDate>Mon, 22 Aug 2022 09:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[김나영, 조이, 장희령, 선미처럼 피부를 보호하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/b2336b10-6994-4346-b526-d1ed4f287040.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
