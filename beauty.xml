@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 11:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 12:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약발에도 타이밍이 있다? 영양제 별 먹는 시간 총 청리!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68581</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68581</guid>
+            <pubDate>Wed, 24 Aug 2022 12:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[값비싼 영양제 섭취에도 골든 타임이 있다고? YES! 매일 먹는 영양제만 해도 수십 개가 넘지만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/e5c45804-872f-4da8-a315-cda79e01dc51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동 효과를 극대화하는 습관이 있다고? 운동 후 루틴 YES or NO!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68801</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Aug 2022 11:11:48 GMT</pubDate>
             <content:encoded><![CDATA[쓱~ 닦으면 각질이 순삭! 톡~ 올려주면 수분 급속 충전! 못하는 게 없는 만능 패드. 수많은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/784ff80e-1a27-4860-89c9-5c7053f3d54b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모공 저격 가즈아~. 안습 모공러를 위한 맞춤 케어 솔루션!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68648</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68648</guid>
-            <pubDate>Tue, 09 Aug 2022 17:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[힘없이 축~ 늘어지고 활짝 열린 모공 기강을 확실하게 잡아야 할 때! 화장발이라곤 1도 안 먹...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/e3186873-389e-4458-8b49-65faa04dc19d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
