@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 01:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 03:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정규2집으로 돌아오는 샤이니 키의 아이돌모먼트 뿜뿜 사복!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/69003</link>
+            <guid>https://www.cosmopolitan.co.kr/article/69003</guid>
+            <pubDate>Wed, 24 Aug 2022 03:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[남친에게 이렇게 입혀주면 바로 아이돌 데뷔 가능]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/cc392e6f-9a54-4ff2-8fbb-3fca2644324a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현존 걸그룹 TOP2의 컴백! 소녀시대 VS 블랙핑크 뷰티 리포트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68887</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 18:16:23 GMT</pubDate>
             <content:encoded><![CDATA[선글라스도 스포티해야 힙HIP하다구~ 카일리제너부터 두아리파, 시미헤이즈의 헤이즈, 데본칼슨, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/d41fc0ea-eca1-4e7f-98aa-531f4bd8eacc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY PREPPY! 2022 프리폴 컬렉션을 입은 프레피 걸의 하루]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68583</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68583</guid>
-            <pubDate>Tue, 16 Aug 2022 18:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[즐겁게 또 새롭게! 2022 프리폴 컬렉션을 입은 프레피 걸의 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/14/50245f33-b806-4c30-92cb-04ab57319943.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
