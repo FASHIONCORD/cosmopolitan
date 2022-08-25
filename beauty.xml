@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 01:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과호흡 증상을 경험한 적 있다면 드루와~. 편하게 '숨' 쉴 수 있는 꿀TIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68582</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68582</guid>
+            <pubDate>Thu, 25 Aug 2022 04:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[여성들이 경험하는 과호흡 증상, 크롭 톱 때문일 수도 있다? 얕은 호흡은 이제 그만, 따라 해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/14/5512df43-be64-49e4-91d1-807ee4cf4c41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[약발에도 타이밍이 있다? 영양제 별 먹는 시간 총 청리!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68581</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Aug 2022 16:13:44 GMT</pubDate>
             <content:encoded><![CDATA[뷰티 툴 잘 다루는 나, 제법 멋져요~. 똥망손도 메이크업 레벨 단숨에 업시키는 뷰티 툴 활용...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/a15f59f0-19e5-4ad4-8fe1-5bcb7c549755.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패드맛ZIP은 어디? 각질 순삭과 수분 충전 효과를 지닌 신상 패드 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68573</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68573</guid>
-            <pubDate>Thu, 11 Aug 2022 11:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[쓱~ 닦으면 각질이 순삭! 톡~ 올려주면 수분 급속 충전! 못하는 게 없는 만능 패드. 수많은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/784ff80e-1a27-4860-89c9-5c7053f3d54b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
