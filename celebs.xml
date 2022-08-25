@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 01:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크  뮤비에 한국적 요소가 가득 숨겨져 있다고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/69094</link>
+            <guid>https://www.cosmopolitan.co.kr/article/69094</guid>
+            <pubDate>Thu, 25 Aug 2022 01:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[Blackpink in Your Area~♥]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/a236ad6b-dcab-4c00-9883-848d60bf6d2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이네켄 실버와 권트윈스가 함께한 스무스한 모먼트!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/69092</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Aug 2022 12:21:14 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 이런 여자들은 없었다. 직설과 직진으로 화제가 된 옥순, 영숙, 영자의 멋짐 포인트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/137a30f6-3325-4ada-ac0b-8ddc2a12aad6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간절기 멋쁨 뽀인트! 헤어 스카프 스타일링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69044</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69044</guid>
-            <pubDate>Wed, 24 Aug 2022 00:58:48 GMT</pubDate>
-            <content:encoded><![CDATA[여름과 가을 사이, 스카프 활용법 모두 알려드림]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/13a261b0-3d85-4891-be44-fc36089c995b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
