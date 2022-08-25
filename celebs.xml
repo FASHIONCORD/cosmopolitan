@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 VS. 방탄소년단? 둘 다 응원해야지!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/69096</link>
+            <guid>https://www.cosmopolitan.co.kr/article/69096</guid>
+            <pubDate>Thu, 25 Aug 2022 07:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022 MTV 비디오 뮤직 어워드는 BTS와 블핑이 씹어먹을 예정!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/1808e48c-0f06-45dc-a48e-e5e1cb7571ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크  뮤비에 한국적 요소가 가득 숨겨져 있다고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/69094</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Aug 2022 12:21:14 GMT</pubDate>
             <content:encoded><![CDATA[가구 회사 MD에서 패션 디자이너를 거쳐 프로덕션 운영까지 하는 프로 커리어 확장러, 키미제이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/dfd3e3f6-6e5b-415c-9f90-98dbcdfb475f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직설과 직진, <나는 솔로> 9기 여자들이 멋진 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69048</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69048</guid>
-            <pubDate>Wed, 24 Aug 2022 12:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[지금까지 이런 여자들은 없었다. 직설과 직진으로 화제가 된 옥순, 영숙, 영자의 멋짐 포인트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/137a30f6-3325-4ada-ac0b-8ddc2a12aad6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
