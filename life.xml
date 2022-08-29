@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 10:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 11:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1988 감성 폭발, 상계동 슈프림팀의 <서울대작전>]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/69100</link>
+            <guid>https://www.cosmopolitan.co.kr/article/69100</guid>
+            <pubDate>Mon, 29 Aug 2022 11:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[유아인, 고경표, 이규형, 박주현, 옹성우 주인공만 봐도 아이돌급 조합. 예고편만으로도 기대되는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/9e662a3b-9064-46a7-b8bf-d2d8607e2f1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신은 혹시 fox? 플러팅갑, <환승연애 2> 나연의 연애 스킬]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/69097</link>
+            <guid>https://www.cosmopolitan.co.kr/article/69097</guid>
+            <pubDate>Mon, 29 Aug 2022 11:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[패널인 쌈디, 이용진도 인정했다는데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/332354de-0e5f-4114-b633-9b3f3e27e079.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최근 LA시가 ‘오징어 게임의 날’을 제정한다고 밝혔다고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/69076</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 25 Aug 2022 13:37:42 GMT</pubDate>
             <content:encoded><![CDATA[바이럴 금전 의혹부터 성희롱 논란까지 말 많아진 ‘익무’]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/e65d2e4c-3188-4fc0-8956-a038fd85565c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청담쀼♥ 이정재·정우성이 <헌트> 홍보에 이토록 진심인 이유?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68972</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68972</guid>
-            <pubDate>Thu, 25 Aug 2022 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[이정재·정우성이 열정 쏟아부은 &lt;헌트&gt; 비하인드를 풀어보자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/fda7cff4-b482-40ce-841e-de6bb7e689f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반전에 반전! <연애는 직진> 남자 출연진은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68964</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68964</guid>
-            <pubDate>Thu, 25 Aug 2022 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[훈훈해서 보는 내내 잇몸 가뭄 보장]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/56caaba5-43cb-46c9-9666-3c97d02ba21e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
