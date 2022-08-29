@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 03:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 05:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[31살 실화? 초 동안 외모 자랑하는 안소희의 치트키가 궁금하다면!?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68872</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68872</guid>
+            <pubDate>Mon, 29 Aug 2022 05:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[이것만 따라 해도 동안길로 가는 것 SSAP에이블~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/a1767480-c9b7-47ec-9746-ffa45f86461d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과호흡 증상을 경험한 적 있다면 드루와~. 편하게 '숨' 쉴 수 있는 꿀TIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68582</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 Aug 2022 16:15:24 GMT</pubDate>
             <content:encoded><![CDATA[바쿠치올이라고 들어는 봤나? 확실한 안티에이징 효과에 순딩한 사용감, 게다가 비건이라니! 당장...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/c324944f-a850-4a4e-9a6e-7cb4073a821b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰잘알들은 다 '이거' 해~. 메이크업 레벨 업, 금손 치트키!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68574</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68574</guid>
-            <pubDate>Thu, 11 Aug 2022 16:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티 툴 잘 다루는 나, 제법 멋져요~. 똥망손도 메이크업 레벨 단숨에 업시키는 뷰티 툴 활용...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/a15f59f0-19e5-4ad4-8fe1-5bcb7c549755.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
