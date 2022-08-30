@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 14:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 15:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을이 온다는 건 ‘이거’ 아니겠어요? 무화과 디저트 추천]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70213</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70213</guid>
+            <pubDate>Tue, 30 Aug 2022 15:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[가을의 또다른 이름은 무화과, 무화과, 무화과!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/093ddca2-b252-426e-9d9e-6789e345aff1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이스 라떼 성애자라면! 윤승아 김무열 피셜 서울 라떼 맛집🥛]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70205</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Aug 2022 03:43:48 GMT</pubDate>
             <content:encoded><![CDATA[15년지기 남사친과 선을 넘고 싶은 여자. &lt;마녀사냥 2022&gt; MC들과 풍자, 카더가든이 아슬아슬한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/025e76d6-8619-4043-85c3-b3b14f9348a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직설과 직진, <나는 솔로> 9기 여자들이 멋진 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69048</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69048</guid>
-            <pubDate>Mon, 29 Aug 2022 03:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[지금까지 이런 여자들은 없었다. 직설과 직진으로 화제가 된 옥순, 영숙, 영자의 멋짐 포인트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/137a30f6-3325-4ada-ac0b-8ddc2a12aad6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
