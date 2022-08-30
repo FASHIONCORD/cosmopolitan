@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 12:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 14:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동하는 남친… 아니 아이돌 (feat. 미모는 덤)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70272</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70272</guid>
+            <pubDate>Tue, 30 Aug 2022 14:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[보고만 있어도 이곳은 극락!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/f35d7e44-5471-4795-87b3-ee0da49baa85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대체 벌써 몇 번째야! 뷔제니 열애설 정리]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70271</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Aug 2022 10:13:49 GMT</pubDate>
             <content:encoded><![CDATA[시크부터 큐티까지 다양한 무드로 연출 가능하다고~! 블랙핑크 제니부터 전소미, 아이브 안유진, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/75e58aa4-1404-4ef2-a58a-e536d540bafd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐~ 간지나는 스맨파 오오티디다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70219</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70219</guid>
-            <pubDate>Tue, 30 Aug 2022 07:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[YGX 권영득부터 위댐보이즈 바타, 엠비셔스 노태현, 프라임킹즈 넉스까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/8d59d2cc-22c1-4ce2-85ae-c41c99601718.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
