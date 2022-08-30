@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 16:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 17:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피부과 화장품 존좋템 무엇? 피부과 10년차 직원 유튜버 소의튜브의 추천템!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70209</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70209</guid>
+            <pubDate>Tue, 30 Aug 2022 17:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[이미 여러 피부과에서 사용하고 있는 제품이자 고객들의 문의가 끊이질 않았던 찐템은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/cd85d661-3e62-4b13-baf8-befb2c99a554.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스∙있지∙비비즈 요즘 여돌 인싸 메이크업, 이가리 메이크업]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70206</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Aug 2022 05:23:58 GMT</pubDate>
             <content:encoded><![CDATA[이것만 따라 해도 동안길로 가는 것 SSAP에이블~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/a1767480-c9b7-47ec-9746-ffa45f86461d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과호흡 증상을 경험한 적 있다면 드루와~. 편하게 '숨' 쉴 수 있는 꿀TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68582</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68582</guid>
-            <pubDate>Thu, 25 Aug 2022 04:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[여성들이 경험하는 과호흡 증상, 크롭 톱 때문일 수도 있다? 얕은 호흡은 이제 그만, 따라 해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/14/5512df43-be64-49e4-91d1-807ee4cf4c41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
