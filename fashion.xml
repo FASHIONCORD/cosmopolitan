@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 09:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 10:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화사ㆍ로제 등 셀럽들의 억소리나는 명품 목걸이 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70218</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70218</guid>
+            <pubDate>Tue, 30 Aug 2022 10:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[명품 목걸이 최강자는 누구? 마마무 화사부터 블랙핑크 로제, 있지 유나, 리정까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/df95ee6f-06e6-4d66-89b1-e7bd41ceeb5b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에어팟 맥스 뽐뿌 지대로 오는 셀럽들의 착용샷!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70217</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70217</guid>
+            <pubDate>Tue, 30 Aug 2022 10:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[에어팟 맥스 병에 걸리게 될거야~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/06e748f7-38ac-4376-b8f4-4bc18640eddd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스 민지·NCT 재민 ·방탄 진이 같은 옷 입었다고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70216</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 29 Aug 2022 09:10:54 GMT</pubDate>
             <content:encoded><![CDATA[여름과 가을 사이, 스카프 활용법 모두 알려드림]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/13a261b0-3d85-4891-be44-fc36089c995b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠지 세대 국룰, 하이힐엔 니삭스!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69043</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69043</guid>
-            <pubDate>Mon, 29 Aug 2022 08:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[구두에 양말을 신는 찐 ‘힙’쟁이들 모음 zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/f7c3c7ea-8afc-49da-b9a0-0657115476ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한복 컨셉 꾸준히 밀고 있는 블랙핑크! 핑크 베놈 뮤비 패션 탐구]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69008</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69008</guid>
-            <pubDate>Mon, 29 Aug 2022 01:00:56 GMT</pubDate>
-            <content:encoded><![CDATA[거문고 켜는 블핑 지수라니!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/c3133348-befc-46c9-9b8f-2cac81c7a9a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
