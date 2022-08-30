@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 11:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 12:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이스 라떼 성애자라면! 윤승아 김무열 피셜 서울 라떼 맛집🥛]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70205</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70205</guid>
+            <pubDate>Tue, 30 Aug 2022 12:29:16 GMT</pubDate>
+            <content:encoded><![CDATA[데이트도 하고 맛있는 라떼도 먹고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/acebc08a-3cd5-45e5-a840-e7e7fe2bd29b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어른들의 문구점]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70195</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Aug 2022 03:43:48 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 이런 여자들은 없었다. 직설과 직진으로 화제가 된 옥순, 영숙, 영자의 멋짐 포인트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/137a30f6-3325-4ada-ac0b-8ddc2a12aad6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 시즌2 예고! 이상한 변호사 우영우]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69012</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69012</guid>
-            <pubDate>Thu, 25 Aug 2022 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[우영우 죽어도 못 보내! 시즌 2로 돌아오는 거 맞지? 질척대며 기다릴거야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/df6149d5-b430-4714-a2f0-3506bc0bd783.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
