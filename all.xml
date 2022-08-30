@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 01:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 04:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,7 +28,7 @@
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34354821&amp;memberNo=11800362</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34354821&amp;memberNo=11800362</guid>
             <pubDate>Mon, 29 Aug 2022 01:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 빛나는 배우, 김지원과 로렌 랄프 로렌이 만드는 잔잔한 물결. ▼&nbsp;클릭&nbsp;▼ www.cosmopolitan.co.kr www.cosmopolitan.co.kr  니트 톱 21만9천원, 셔츠 가격미정, 트위드 팬츠 33만9천원 모두 로렌 랄프 로렌···]]></content:encoded>
+            <content:encoded><![CDATA[지금 가장 빛나는 배우, 김지원과 로렌 랄프 로렌이 만드는 잔잔한 물결.▼ 클릭 ▼]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjZfMjQ2/MDAxNjYxNDczMjA5ODAy.zV1AeG4gRDQv1Sg1ibgSBumz61svwlYe8EcPqmeEVCgg.LSW0sRaGQ2XCkOvrcWdOi7sOazPBNjMmsUM8UJSWIeYg.JPEG/IAMS-ZiAAJfiaZbYCK3nxf3nKD1k.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -179,6 +179,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTJfMTg1/MDAxNjYwMjkyNDg4NTc3.W9pbGYJ8makkDNA7asMOtBRqCZxqnFC0I7uwbpCA2TIg.yAFyW59scygTKKj_6RZ_KjvXllQXXdNDsf4iD_utr1Eg.JPEG/I9skejVLxyjQCEMwpqxyKvpzde64.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴진스 민지·NCT 재민 ·방탄 진이 같은 옷 입었다고?! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70216</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70216</guid>
+            <pubDate>Tue, 30 Aug 2022 01:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[같은 옷 다른느낌! 루이비통 티셔츠]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/01eb2d37-a6eb-4e7c-b938-c9c3d3a7c5c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘제니부터 벨라 하디드’까지 모두가 찜한 스니커즈 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70207</link>
             <guid>https://www.cosmopolitan.co.kr/article/70207</guid>
@@ -235,12 +243,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/c3133348-befc-46c9-9b8f-2cac81c7a9a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올 화이트 룩으로 더 이상의 햇볕은 굿바이! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69004</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69004</guid>
-            <pubDate>Fri, 26 Aug 2022 09:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[김나영, 조이, 장희령, 선미처럼 피부를 보호하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/b2336b10-6994-4346-b526-d1ed4f287040.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[요즘 대세 of 대세! 손석구∙장원영∙홀리뱅∙아이들 미연∙안효섭의 공통점이 있다고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70109</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70109</guid>
+            <pubDate>Mon, 29 Aug 2022 09:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[이들이 뷰티 모델이라니 이제 남은 것은 텅장뿐!?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/9043a45f-70c7-483f-b948-06bf2e57791b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약도 없는 단발병 유발자 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -297,14 +305,6 @@
             <pubDate>Tue, 16 Aug 2022 18:16:33 GMT</pubDate>
             <content:encoded><![CDATA[운동이 끝난 뒤 무조건 해야 할, 혹은 절대 하면 안 되는 낄끼빠빠 루틴이 존재한다고? 운동...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/375f977e-a5a3-48b5-bd3c-9a76b0ee303c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네일아트한 남자가 낯설다고요? ‘힙’의 꼭대기엔 네일아트가! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68788</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68788</guid>
-            <pubDate>Tue, 16 Aug 2022 18:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[더 이상 여자들만의 유희가 아닌 네일아트. 손끝까지 아름다운 남자들의 네일 구경 할래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/7270f235-4793-44bd-b9e4-dcfb8770c8df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴진스 민지·NCT 재민 ·방탄 진이 같은 옷 입었다고?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
