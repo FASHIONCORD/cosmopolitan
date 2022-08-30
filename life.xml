@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 10:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 11:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어른들의 문구점]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70195</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70195</guid>
+            <pubDate>Tue, 30 Aug 2022 11:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[문구 덕후들에게 고함!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/f7072362-c9c9-4a72-89bc-7a7c7e82d2d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 뜨는 홍제천]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70194</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70194</guid>
+            <pubDate>Tue, 30 Aug 2022 11:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[홍대 말고 홍제천 핫플로 가보자고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/b3d0e450-d308-431a-9725-523d786275db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1988 감성 폭발, 상계동 슈프림팀의 <서울대작전>]]></title>
             <link>https://www.cosmopolitan.co.kr/article/69100</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 25 Aug 2022 13:37:42 GMT</pubDate>
             <content:encoded><![CDATA[우영우 죽어도 못 보내! 시즌 2로 돌아오는 거 맞지? 질척대며 기다릴거야!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/df6149d5-b430-4714-a2f0-3506bc0bd783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초록이 펼쳐진 파크뷰 카페]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69011</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69011</guid>
-            <pubDate>Thu, 25 Aug 2022 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[도심 속 산책 뒤 찾아가는 파크뷰 카페 모음zip.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/c422979e-55c4-4992-bb3e-a85868a9b7b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 최대 영화 커뮤니티 ‘익스트림무비’가 최근 논란이라고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/68973</link>
-            <guid>https://www.cosmopolitan.co.kr/article/68973</guid>
-            <pubDate>Thu, 25 Aug 2022 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[바이럴 금전 의혹부터 성희롱 논란까지 말 많아진 ‘익무’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/e65d2e4c-3188-4fc0-8956-a038fd85565c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
