@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 14:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크·트와이스·아이브·뉴진스까지! 3·4세대 톱 티어 여돌에게 있는 뷰티 공식은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70294</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70294</guid>
+            <pubDate>Wed, 31 Aug 2022 15:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[세기말 갬성 죽어도 못 잃어~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/b00fd493-b6c9-42ec-9d6d-165cfef2f4c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건조함 멈춰! 보습 스펙 만렙 신상 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70293</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Aug 2022 17:18:52 GMT</pubDate>
             <content:encoded><![CDATA[이미 여러 피부과에서 사용하고 있는 제품이자 고객들의 문의가 끊이질 않았던 찐템은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/cd85d661-3e62-4b13-baf8-befb2c99a554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스∙있지∙비비즈 요즘 여돌 인싸 메이크업, 이가리 메이크업]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70206</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70206</guid>
-            <pubDate>Tue, 30 Aug 2022 14:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[언니 페이스도 베이비 페이스로 바꿔주는 이가리 메이크업 도전?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/64e6b108-bab1-46fb-9241-26b83b6596df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
