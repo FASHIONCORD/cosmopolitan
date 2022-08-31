@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 06:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캡쳐를 부르는 걸그룹의 헤어스타일 레퍼런스 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70282</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70282</guid>
+            <pubDate>Wed, 31 Aug 2022 07:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[변덕스러운 날씨에 머리에도 변화를 주고 싶다고요? 걸그룹이 시도한 NEW 헤어스타일에 정답이~...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/d1cad4a9-859b-4e41-97fc-af90a57f51f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유·BTS·유재석 그다음은 누구? 대세의 지표, 요새 핫한 광고 모델 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70280</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Aug 2022 12:28:16 GMT</pubDate>
             <content:encoded><![CDATA[퀼팅ㆍ라피나ㆍ등 다양한 소재의 빅 백 총집합]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/c933a3f3-dcec-4dd3-bcca-160302033bb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백을 앞둔 빌리와 보내는 향기로운 하루]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70256</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70256</guid>
-            <pubDate>Tue, 30 Aug 2022 12:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[무대로 날아오르기 전, 빌리에게 주어진 하루의 휴식. 여유로운 그들의 낮과 밤을 포착했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/5c0d1ca0-4886-4b7d-a611-323d742881ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
