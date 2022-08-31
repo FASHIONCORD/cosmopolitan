@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 01:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 봐~ 간지나는 스맨파 오오티디다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70219</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70219</guid>
+            <pubDate>Wed, 31 Aug 2022 06:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[YGX 권영득부터 위댐보이즈 바타, 엠비셔스 노태현, 프라임킹즈 넉스까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/8d59d2cc-22c1-4ce2-85ae-c41c99601718.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화사ㆍ로제 등 셀럽들의 억소리나는 명품 목걸이 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70218</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Aug 2022 09:10:54 GMT</pubDate>
             <content:encoded><![CDATA[프레임 너머로 펼쳐지는 칼 라거펠트 레이디의 클래식 드라마.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/c05d3eb1-2061-4cf1-92b2-53d3741d2329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간절기 멋쁨 뽀인트! 헤어 스카프 스타일링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69044</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69044</guid>
-            <pubDate>Mon, 29 Aug 2022 09:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[여름과 가을 사이, 스카프 활용법 모두 알려드림]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/13a261b0-3d85-4891-be44-fc36089c995b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
