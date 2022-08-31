@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 07:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 08:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조던 필의 새로운 호러 영화 <놉>을 보기 전에 알면 좋을 #해시태그]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70286</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70286</guid>
+            <pubDate>Wed, 31 Aug 2022 08:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[뚜껑 열기 전부터 뜨겁게 달아올랐다. 조던 필의 새로운 호러 영화 &lt;놉&gt;을 보기 전에 알면 더...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/fa1a036a-06e3-4895-8088-ecb465f24eb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유포리아> 감독과 제니의 만남, <디 아이돌> 커밍쑨]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70279</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70279</guid>
+            <pubDate>Wed, 31 Aug 2022 08:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[제니가 바이섹슈얼로 나온다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/8949d1ec-0c52-4257-8cba-979c79a893cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한강’멍 쌉가능한 ‘이곳’ 카페]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70274</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 30 Aug 2022 11:14:58 GMT</pubDate>
             <content:encoded><![CDATA[문구 덕후들에게 고함!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/f7072362-c9c9-4a72-89bc-7a7c7e82d2d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 홍제천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70194</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70194</guid>
-            <pubDate>Tue, 30 Aug 2022 11:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[홍대 말고 홍제천 핫플로 가보자고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/b3d0e450-d308-431a-9725-523d786275db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1988 감성 폭발, 상계동 슈프림팀의 <서울대작전>]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/69100</link>
-            <guid>https://www.cosmopolitan.co.kr/article/69100</guid>
-            <pubDate>Mon, 29 Aug 2022 11:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[유아인, 고경표, 이규형, 박주현, 옹성우 주인공만 봐도 아이돌급 조합. 예고편만으로도 기대되는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/9e662a3b-9064-46a7-b8bf-d2d8607e2f1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
