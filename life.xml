@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 09:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀 버튼과 길예르모 델 토로가 넷플릭스에 뜬다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70320</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70320</guid>
+            <pubDate>Wed, 31 Aug 2022 10:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 가을밤을 오싹하게 할 호러 장인들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/6f96680d-70f0-4618-8cbc-e407abe4b748.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 돌아온 광장시장]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70319</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70319</guid>
+            <pubDate>Wed, 31 Aug 2022 10:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[여긴 꼭 가 봐야해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/cbd4cc49-8f9c-43b5-a2ed-4a48d49e9a44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조던 필의 새로운 호러 영화 <놉>을 보기 전에 알면 좋을 #해시태그]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70286</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 30 Aug 2022 15:15:58 GMT</pubDate>
             <content:encoded><![CDATA[가을의 또다른 이름은 무화과, 무화과, 무화과!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/093ddca2-b252-426e-9d9e-6789e345aff1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이스 라떼 성애자라면! 윤승아 김무열 피셜 서울 라떼 맛집🥛]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70205</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70205</guid>
-            <pubDate>Tue, 30 Aug 2022 12:29:16 GMT</pubDate>
-            <content:encoded><![CDATA[데이트도 하고 맛있는 라떼도 먹고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/acebc08a-3cd5-45e5-a840-e7e7fe2bd29b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른들의 문구점]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70195</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70195</guid>
-            <pubDate>Tue, 30 Aug 2022 11:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[문구 덕후들에게 고함!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/f7072362-c9c9-4a72-89bc-7a7c7e82d2d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

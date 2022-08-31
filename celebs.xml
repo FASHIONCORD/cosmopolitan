@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 09:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연예계 ‘올리비아 핫세’상 계보를 이을 자가 나타났다고?! (Feat.뉴진스)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70322</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70322</guid>
+            <pubDate>Wed, 31 Aug 2022 10:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[올리비아 핫세를 닮은 스타 TOP3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/ee210241-b8aa-4a81-b131-5faf35f67968.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앞머리 말고 잔머리 (feat. 장원영·다니엘·리아·미미)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70302</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70302</guid>
+            <pubDate>Wed, 31 Aug 2022 10:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[양파 뿌리 아니죠! 트위티뱅 맞습니다~. 분위기 천차만별, 잔머리 스타일링을 보여준 아이돌은 누...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/5a95ad1c-7587-4342-8d00-d433775281fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자크뮈스 결혼식의 모든 것]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70296</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 06:19:41 GMT</pubDate>
             <content:encoded><![CDATA[제니가 바이섹슈얼로 나온다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/8949d1ec-0c52-4257-8cba-979c79a893cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인티머시 코디네이터가 애정씬을 망친다고? 정신 차리세요!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70278</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70278</guid>
-            <pubDate>Wed, 31 Aug 2022 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[엠마 톰슨을 비롯한 여성 배우들은 그 말에 절대 동의할 수 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/7c6455d6-25d5-4663-8f46-b016099dece2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 뚝딱거리는 아저씨 좋아하네?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70276</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70276</guid>
-            <pubDate>Wed, 31 Aug 2022 01:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[이정재, 정우성, 박해일, 변요한! 영화 홍보에 진심인 뚝딱이 아저씨들의 매력 전쟁.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/4cae8ce9-a826-441b-984e-a81c13ba8c15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
