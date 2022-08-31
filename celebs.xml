@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 23:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 01:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 뚝딱거리는 아저씨 좋아하네?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70276</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70276</guid>
+            <pubDate>Wed, 31 Aug 2022 01:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[이정재, 정우성, 박해일, 변요한! 영화 홍보에 진심인 뚝딱이 아저씨들의 매력 전쟁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/4cae8ce9-a826-441b-984e-a81c13ba8c15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동하는 남친… 아니 아이돌 (feat. 미모는 덤)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70272</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Aug 2022 10:13:49 GMT</pubDate>
             <content:encoded><![CDATA[“어떤 일이라도 마음먹은 게 있다면 포기하지 말고 쭉 하세요.” 배우로서, 가수로서 여러 고비...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/68316df6-e644-4383-a3de-df9823ae668e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니ㆍ안유진ㆍ다니엘 등 MZ들의 간절기 비니 스타일링 꿀팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70220</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70220</guid>
-            <pubDate>Tue, 30 Aug 2022 10:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[시크부터 큐티까지 다양한 무드로 연출 가능하다고~! 블랙핑크 제니부터 전소미, 아이브 안유진, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/75e58aa4-1404-4ef2-a58a-e536d540bafd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
