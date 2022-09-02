@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 03:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 05:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTZfNTcg/MDAxNjYwNjQwNjgyNzA0.CyAvqrWQO963emNNRqs6cBB_qeVDdpv_Hz1_dVW8Y7Eg.BuJo62Eeo07VtQjtzFqz1zrsFNrahxzxIJ9pinRa0Rwg.JPEG/IqblEHbLPhVUy8QE5ZCaukkY4xbs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[호시ㆍ로꼬 등 Hype boy들의 로우라이즈 활용법! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70328</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70328</guid>
+            <pubDate>Fri, 02 Sep 2022 05:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[남자들의 로우라이즈는 더 과감하다! 세븐틴 호시부터 로꼬, 이던, 저스틴비버까지~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/99fa23e8-c405-47f0-8011-bdb1b0766576.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전소연ㆍ현아 등 셀럽들의 간절기용 나일론 잇템은? (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70327</link>
             <guid>https://www.cosmopolitan.co.kr/article/70327</guid>
@@ -233,12 +241,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/8d59d2cc-22c1-4ce2-85ae-c41c99601718.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화사ㆍ로제 등 셀럽들의 억소리나는 명품 목걸이 모음ZIP (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70218</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70218</guid>
-            <pubDate>Tue, 30 Aug 2022 07:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[명품 목걸이 최강자는 누구? 마마무 화사부터 블랙핑크 로제, 있지 유나, 리정까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/df95ee6f-06e6-4d66-89b1-e7bd41ceeb5b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[해피 추석~ 이건 특급 선물이야 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70308</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70308</guid>
+            <pubDate>Fri, 02 Sep 2022 05:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[보름달 보며 소원도 빌고 소중한 마음도 나누는 풍성한 한가위를 보내고 싶다면? 한국 고유의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/0f968353-3f7b-4f44-8d4c-90486e11cbcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앞머리 말고 잔머리 (feat. 장원영·다니엘·리아·미미) (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -295,14 +303,6 @@
             <pubDate>Wed, 31 Aug 2022 06:19:32 GMT</pubDate>
             <content:encoded><![CDATA[올해도 입증한 입추 매직! 이제는 가을맞이 신상 향수를 준비해야 할 때~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/aad96df8-b140-46da-8fe0-5e871f015d3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만성피로가 괴로운 직장인을 위한 고함량 액상 비타민 추천 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70214</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70214</guid>
-            <pubDate>Wed, 31 Aug 2022 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[오늘도 살기 위해 먹는다,,,]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/dbbed941-45f1-477d-a251-95885689609a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연예계 ‘올리비아 핫세’상 계보를 이을 자가 나타났다고?! (Feat.뉴진스) (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>

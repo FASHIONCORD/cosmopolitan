@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 03:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 05:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호시ㆍ로꼬 등 Hype boy들의 로우라이즈 활용법!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70328</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70328</guid>
+            <pubDate>Fri, 02 Sep 2022 05:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[남자들의 로우라이즈는 더 과감하다! 세븐틴 호시부터 로꼬, 이던, 저스틴비버까지~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/99fa23e8-c405-47f0-8011-bdb1b0766576.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전소연ㆍ현아 등 셀럽들의 간절기용 나일론 잇템은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70327</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 06:19:23 GMT</pubDate>
             <content:encoded><![CDATA[YGX 권영득부터 위댐보이즈 바타, 엠비셔스 노태현, 프라임킹즈 넉스까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/8d59d2cc-22c1-4ce2-85ae-c41c99601718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사ㆍ로제 등 셀럽들의 억소리나는 명품 목걸이 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70218</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70218</guid>
-            <pubDate>Tue, 30 Aug 2022 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[명품 목걸이 최강자는 누구? 마마무 화사부터 블랙핑크 로제, 있지 유나, 리정까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/df95ee6f-06e6-4d66-89b1-e7bd41ceeb5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

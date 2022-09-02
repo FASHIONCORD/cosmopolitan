@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 03:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 05:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피 추석~ 이건 특급 선물이야]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70308</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70308</guid>
+            <pubDate>Fri, 02 Sep 2022 05:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[보름달 보며 소원도 빌고 소중한 마음도 나누는 풍성한 한가위를 보내고 싶다면? 한국 고유의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/0f968353-3f7b-4f44-8d4c-90486e11cbcd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앞머리 말고 잔머리 (feat. 장원영·다니엘·리아·미미)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70302</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 06:19:32 GMT</pubDate>
             <content:encoded><![CDATA[올해도 입증한 입추 매직! 이제는 가을맞이 신상 향수를 준비해야 할 때~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/aad96df8-b140-46da-8fe0-5e871f015d3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만성피로가 괴로운 직장인을 위한 고함량 액상 비타민 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70214</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70214</guid>
-            <pubDate>Wed, 31 Aug 2022 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[오늘도 살기 위해 먹는다,,,]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/dbbed941-45f1-477d-a251-95885689609a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
