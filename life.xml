@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 14:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 15:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향 있는 이태원 ‘그곳’]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70321</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70321</guid>
+            <pubDate>Sat, 03 Sep 2022 15:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 안 가봤다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/165fbc82-447f-4915-861b-19814da3da2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팀 버튼과 길예르모 델 토로가 넷플릭스에 뜬다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70320</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 07:36:04 GMT</pubDate>
             <content:encoded><![CDATA[이건 또 무슨 일? ?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d536ce68-a68d-4e17-9501-b0a561b24e5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이 온다는 건 ‘이거’ 아니겠어요? 무화과 디저트 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70213</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70213</guid>
-            <pubDate>Tue, 30 Aug 2022 15:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[가을의 또다른 이름은 무화과, 무화과, 무화과!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/093ddca2-b252-426e-9d9e-6789e345aff1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

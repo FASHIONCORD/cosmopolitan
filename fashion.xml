@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 14:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 15:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코앞으로 다가온 가을! 셀렙들의 데님 룩이 궁금해?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70330</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70330</guid>
+            <pubDate>Sat, 03 Sep 2022 15:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[혜리•화사•미주•정혜성의 데님 패션 모음ZIP]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/ec76031b-a8d9-4a4d-ad53-5c8d246b1b94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[센스 킹정? 당장 떠나고 싶게 만드는 셀렙들의 해외여행 룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70329</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 09:11:27 GMT</pubDate>
             <content:encoded><![CDATA[‘손민수’하고싶어도 못하는 사투리가 매력 포인트 그 잡채]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/c571e04b-b12c-41a8-8a67-638b23dee965.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니ㆍ안유진ㆍ다니엘 등 MZ들의 간절기 비니 스타일링 꿀팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70220</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70220</guid>
-            <pubDate>Wed, 31 Aug 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[시크부터 큐티까지 다양한 무드로 연출 가능하다고~! 블랙핑크 제니부터 전소미, 아이브 안유진, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/75e58aa4-1404-4ef2-a58a-e536d540bafd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
