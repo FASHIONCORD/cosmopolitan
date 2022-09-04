@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 17:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 18:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스팸, 치약은 더 이상 놉! 센스 있는 추석 선물 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70324</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70324</guid>
+            <pubDate>Sun, 04 Sep 2022 18:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[추석 선물 리스트 배달 왔어요~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/1ac1d6c5-c4d7-4979-9cfd-bd9ad80bf0a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[취향 있는 이태원 ‘그곳’]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70321</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 07:36:04 GMT</pubDate>
             <content:encoded><![CDATA[안보면 후회합니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/02a5d8c8-4857-461d-95db-c08f09f7af8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성차별 논란에 제작진이 사과했다고? <스맨파> 논란 정리해드림]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70215</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70215</guid>
-            <pubDate>Wed, 31 Aug 2022 07:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[이건 또 무슨 일? ?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d536ce68-a68d-4e17-9501-b0a561b24e5e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
