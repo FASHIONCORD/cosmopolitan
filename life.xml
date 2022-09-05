@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 14:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따로 또 같이, 리빙룸메]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70335</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70335</guid>
+            <pubDate>Mon, 05 Sep 2022 14:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[나 쿨리시동, 에피소드 수유 838에서 리빙룸을 쉐어하면서 룸메이트와 한달 살기를 시작했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/615d22f7-5a81-463e-b30a-60fb5eac39a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문보트? 그거 나도탈래! 로맨틱 분위기 쌉가능한 문보트 스폿은 어디?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70331</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 08:16:45 GMT</pubDate>
             <content:encoded><![CDATA[제니가 바이섹슈얼로 나온다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/8949d1ec-0c52-4257-8cba-979c79a893cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한강’멍 쌉가능한 ‘이곳’ 카페]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70274</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70274</guid>
-            <pubDate>Wed, 31 Aug 2022 07:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 20분만 가면 남영주 카페가 그 주인공.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/32b6a257-ff04-41a1-8d2a-835845fdeb03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
