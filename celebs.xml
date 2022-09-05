@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 14:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 15:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 맥시멀리스트? 패알못? 아슬아슬한 패션 아이콘 줄리아 폭스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70491</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70491</guid>
+            <pubDate>Mon, 05 Sep 2022 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[제2의 레이디 가가? 줄리아 폭스의 투머치 패션은 어디까지?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/69f86eb4-38aa-4490-8551-185df0ba6cb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 제일 핫하죠! ‘프리즈’에 다녀간 셀렙은 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70477</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 05 Sep 2022 06:46:03 GMT</pubDate>
             <content:encoded><![CDATA[빌리는 인터뷰를 찢어!!!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/253ef854-34fd-4e46-a0f7-b0558f2a3046.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 뷰티의 우아한 뮤즈, 나탈리 포트먼을 만나다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70455</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70455</guid>
-            <pubDate>Mon, 05 Sep 2022 06:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[아름답고 감각적인 17가지 컬러의 루즈 디올 포에버 스틱. 그리고 이를 더 빛내줄 디올 뷰티의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/ed97fc8b-f02a-4371-9bec-3651c5fbdf38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

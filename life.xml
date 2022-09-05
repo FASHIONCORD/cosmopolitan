@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 14:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 15:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생일 인생샷 찍기 딱인 이색 케이크 맛집 5곳!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70338</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70338</guid>
+            <pubDate>Mon, 05 Sep 2022 15:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[케이크 들고 찍은 사진으로 인스타 폭풍 업로드 각?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/65317b70-e568-4332-8668-8633818cecdd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따로 또 같이, 리빙룸메]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70335</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 Aug 2022 08:16:45 GMT</pubDate>
             <content:encoded><![CDATA[뚜껑 열기 전부터 뜨겁게 달아올랐다. 조던 필의 새로운 호러 영화 &lt;놉&gt;을 보기 전에 알면 더...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/fa1a036a-06e3-4895-8088-ecb465f24eb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<유포리아> 감독과 제니의 만남, <디 아이돌> 커밍쑨]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70279</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70279</guid>
-            <pubDate>Wed, 31 Aug 2022 08:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[제니가 바이섹슈얼로 나온다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/8949d1ec-0c52-4257-8cba-979c79a893cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
