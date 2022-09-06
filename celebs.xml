@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 08:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 10:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘국주는 옳아!’ 먹교수 이영자가 인정한 이국주의 먹부림 메뉴는 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70527</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70527</guid>
+            <pubDate>Tue, 06 Sep 2022 10:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[먹을 줄 알지만 요리할 줄도 아는 ‘먹잘알’ 이국주의 전격 먹부림 노하우]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/0b182a25-b83f-40c1-8b76-7ff263f5f07b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[본격 유행 예감! 여돌의 투톤 헤어]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70522</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
             <content:encoded><![CDATA[다가올 가을엔 원 없이 산책 다니자~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a8df19cd-d4c0-4860-99a4-94d8a6fa103f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 맥시멀리스트? 패알못? 아슬아슬한 패션 아이콘 줄리아 폭스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70491</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70491</guid>
-            <pubDate>Mon, 05 Sep 2022 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[제2의 레이디 가가? 줄리아 폭스의 투머치 패션은 어디까지?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/69f86eb4-38aa-4490-8551-185df0ba6cb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
