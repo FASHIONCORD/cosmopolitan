@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 13:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 15:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모가 준비한 2022 하반기 뷰티 트렌드 키워드는 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70518</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70518</guid>
+            <pubDate>Tue, 06 Sep 2022 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[키워드를 읽으면 트렌드가 보이고, 유행을 살필 줄 알면 선택이 쉬워진다. 코스모가 준비한 202...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/ad202249-397d-458e-8f97-42eaff9c014e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패피들의 댕댕이 산책 패션!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70492</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 05 Sep 2022 06:45:41 GMT</pubDate>
             <content:encoded><![CDATA[보기만 해도 설레는 베이비 핑크부터 사랑스러운 오리지널 핑크, 통통 튀는 핫 핑크 컬러까지 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/47fdc4f8-c8fe-4384-bf42-dd60bc931abe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장바구니 오쁜! 올가을을 책임질 아우터 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70389</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70389</guid>
-            <pubDate>Mon, 05 Sep 2022 06:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[올가을 장바구니에 추가할 아우터 4가지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/9fa13fcf-8792-4c24-a602-1d714b447ca6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
