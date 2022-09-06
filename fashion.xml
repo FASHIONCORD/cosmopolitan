@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 07:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 08:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패피들의 댕댕이 산책 패션!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70492</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70492</guid>
+            <pubDate>Tue, 06 Sep 2022 08:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[다가올 가을엔 원 없이 산책 다니자~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a8df19cd-d4c0-4860-99a4-94d8a6fa103f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 맥시멀리스트? 패알못? 아슬아슬한 패션 아이콘 줄리아 폭스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70491</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70491</guid>
+            <pubDate>Tue, 06 Sep 2022 08:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[제2의 레이디 가가? 줄리아 폭스의 투머치 패션은 어디까지?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/69f86eb4-38aa-4490-8551-185df0ba6cb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘디키즈 바지 접어입기’ 가 유행? 제니·설현·조이의 카고 팬츠 사랑!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70469</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 05 Sep 2022 06:45:41 GMT</pubDate>
             <content:encoded><![CDATA[올가을 장바구니에 추가할 아우터 4가지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/9fa13fcf-8792-4c24-a602-1d714b447ca6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 픽! 9월의 머스트해브 아이템 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70351</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70351</guid>
-            <pubDate>Mon, 05 Sep 2022 06:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/9b278a88-b787-47d5-bfed-19fdd97ba319.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갑분 가을! 김나영, 차정원, 벨라는 이런 날 뭐 입을까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70334</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70334</guid>
-            <pubDate>Sun, 04 Sep 2022 15:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[장마가 끝나니 갑자기 서늘해졌다! 패셔니스타들이 선택한 간절기템은 무엇?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/7d617abb-7882-4980-b858-0a099d209bc9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
