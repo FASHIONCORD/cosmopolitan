@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 08:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 79회 베니스 국제영화제에 뜬 글로벌 슈스 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70536</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70536</guid>
+            <pubDate>Wed, 07 Sep 2022 09:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 밈을 낳은 티모시 샬라메부터 케이트 블란쳇까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c297803e-f4b6-4458-8f22-2344d4f19fce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아니, 연경 언니가 왜 거기서 나와?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70533</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
             <content:encoded><![CDATA[우주보다 더 깊은 렌즈돌.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/fd15495a-7a0d-4e0c-9f36-6d8367e14a5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음… 쪽쪽~ ‘뽀뽀돌’ 들어는 봤나?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70497</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70497</guid>
-            <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[혹시 너 나에게 뽀뽀하는 거냐?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a85445ba-f463-4e6b-8d95-837ffafecc00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

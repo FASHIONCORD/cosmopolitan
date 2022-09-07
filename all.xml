@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 08:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -306,6 +306,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/89d741e5-4d16-4f16-901b-894299b6ac81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제 79회 베니스 국제영화제에 뜬 글로벌 슈스 패션 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70536</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70536</guid>
+            <pubDate>Wed, 07 Sep 2022 09:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 밈을 낳은 티모시 샬라메부터 케이트 블란쳇까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c297803e-f4b6-4458-8f22-2344d4f19fce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아니, 연경 언니가 왜 거기서 나와? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70533</link>
             <guid>https://www.cosmopolitan.co.kr/article/70533</guid>
@@ -360,14 +368,6 @@
             <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
             <content:encoded><![CDATA[우주보다 더 깊은 렌즈돌.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/fd15495a-7a0d-4e0c-9f36-6d8367e14a5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음… 쪽쪽~ ‘뽀뽀돌’ 들어는 봤나? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70497</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70497</guid>
-            <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[혹시 너 나에게 뽀뽀하는 거냐?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a85445ba-f463-4e6b-8d95-837ffafecc00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭발적이었거나, 폭망했거나! 지금의 코스모를 만든 역대 섹스 팁  part.1 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -434,6 +434,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/225f8fee-e11f-4022-b7b7-3e0e1a7ac0d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-조상님도 홀딱 반한 요즘 추석상 part.1 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70511</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70511</guid>
+            <pubDate>Wed, 07 Sep 2022 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[온 가족이 모여 전을 부치는 건 이제 옛말. 달라지는 추석 풍경은 식탁 위에도 그려지고 있다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/7dff36a8-9dfb-4987-a85f-24a11e19d3ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 딱 기다려! 피자헛의 1인 피자 ‘마이박스’ (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70503</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70503</guid>
+            <pubDate>Wed, 07 Sep 2022 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[혼밥족, 소식좌에게 피자 한판은 그림의 떡? 댓츠 노~노~! 혼자서도 한판 순삭할 수 있는 쁘띠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a22d7734-c3af-4d19-a349-cc6c7669f5ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먹텐션 인정! 성식영 픽 맛집 모음 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70473</link>
             <guid>https://www.cosmopolitan.co.kr/article/70473</guid>
@@ -480,22 +496,6 @@
             <pubDate>Mon, 05 Sep 2022 06:46:27 GMT</pubDate>
             <content:encoded><![CDATA[없던 감정도 생겨날 정도로 설렌다는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/c92e72e7-de38-4b27-b637-43cd8821d2a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팸, 치약은 더 이상 놉! 센스 있는 추석 선물 모음.ZIP (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70324</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70324</guid>
-            <pubDate>Sun, 04 Sep 2022 18:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[추석 선물 리스트 배달 왔어요~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/1ac1d6c5-c4d7-4979-9cfd-bd9ad80bf0a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취향 있는 이태원 ‘그곳’ (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70321</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70321</guid>
-            <pubDate>Sat, 03 Sep 2022 15:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[아직도 안 가봤다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/165fbc82-447f-4915-861b-19814da3da2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
