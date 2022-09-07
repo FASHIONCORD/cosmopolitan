@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 09:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 10:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석 연휴에 꿀잼 보장! 웹 예능]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70553</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70553</guid>
+            <pubDate>Wed, 07 Sep 2022 10:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[추석에 정주행하기 딱 좋은 콘텐츠]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/f171f718-58e3-4972-9533-9e1378e46b3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[군살 1도 없는 것 실화? 완벽한 웨딩드레스 핏을 자랑한 손연재의 ‘다이어트 치트키’ 대공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70539</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70539</guid>
+            <pubDate>Wed, 07 Sep 2022 10:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[손연재의 몸매 관리 비법은 바로 이것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/832dee22-5ea3-44ee-9732-55e44d904131.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을엔 체크지! 셀럽들도 찜꽁해둔 '체크' 패턴 스타일링 TIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70537</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70537</guid>
+            <pubDate>Wed, 07 Sep 2022 10:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[가을이면 놓쳐서는 안될 다채로운 체크 패턴의 매력!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/194a41b9-d2bf-4707-bc00-9d9c658cfdc4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제 79회 베니스 국제영화제에 뜬 글로벌 슈스 패션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70536</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 06 Sep 2022 08:15:05 GMT</pubDate>
             <content:encoded><![CDATA[다시 돌아온 투톤 헤어의 시대.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/0c7e2066-4c0e-47ce-89bd-d9646ebb8103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 PICK! 뷰티템은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70521</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70521</guid>
-            <pubDate>Tue, 06 Sep 2022 08:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌이 사용했다고 입 소문난 비장의 뷰티템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/cbbab086-fc21-468c-9af4-9d8d930390b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수영이 진서연·한효주와 만나면? 근육이 솟아나요!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70499</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70499</guid>
-            <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[이 언니들 운동하는 자리에 진심, 끼고 싶다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/96afc2cb-dc9c-4e1c-ad85-8b9500c8dfef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[렌즈 눈빛에 함 빠져봅시다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70498</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70498</guid>
-            <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[우주보다 더 깊은 렌즈돌.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/fd15495a-7a0d-4e0c-9f36-6d8367e14a5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

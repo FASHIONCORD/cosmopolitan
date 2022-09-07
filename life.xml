@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 09:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 10:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석 연휴에 꿀잼 보장! 웹 예능]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70553</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70553</guid>
+            <pubDate>Wed, 07 Sep 2022 10:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[추석에 정주행하기 딱 좋은 콘텐츠]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/f171f718-58e3-4972-9533-9e1378e46b3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘국주는 옳아!’ 먹교수 이영자가 인정한 이국주의 먹부림 메뉴는 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70527</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70527</guid>
+            <pubDate>Wed, 07 Sep 2022 10:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[먹을 줄 알지만 요리할 줄도 아는 ‘먹잘알’ 이국주의 전격 먹부림 노하우]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/0b182a25-b83f-40c1-8b76-7ff263f5f07b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 비행기 티켓값이 싸질 거라고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70524</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70524</guid>
+            <pubDate>Wed, 07 Sep 2022 10:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[항공권이 비쌌던 이유는 ‘이것’ 때문입니다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/271b6823-0743-4ca1-9cc2-f48c2229b9de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-조상님도 홀딱 반한 요즘 추석상 part.1]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70511</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 06 Sep 2022 10:13:32 GMT</pubDate>
             <content:encoded><![CDATA[드디어 TV 앞에서 주말을 통째로 날릴 시리즈가 온다. &lt;반지의 제왕: 힘의 반지&gt;를 보기 전에...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/c84cd1d0-9b05-4b97-89d0-c562fcd53174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생일 인생샷 찍기 딱인 이색 케이크 맛집 5곳!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70338</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70338</guid>
-            <pubDate>Mon, 05 Sep 2022 15:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[케이크 들고 찍은 사진으로 인스타 폭풍 업로드 각?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/65317b70-e568-4332-8668-8633818cecdd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따로 또 같이, 리빙룸메]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70335</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70335</guid>
-            <pubDate>Mon, 05 Sep 2022 14:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[나 쿨리시동, 에피소드 수유 838에서 리빙룸을 쉐어하면서 룸메이트와 한달 살기를 시작했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/615d22f7-5a81-463e-b30a-60fb5eac39a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문보트? 그거 나도탈래! 로맨틱 분위기 쌉가능한 문보트 스폿은 어디?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70331</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70331</guid>
-            <pubDate>Mon, 05 Sep 2022 06:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[없던 감정도 생겨날 정도로 설렌다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/c92e72e7-de38-4b27-b637-43cd8821d2a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
