@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 14:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 15:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -178,6 +178,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjJfMjgw/MDAxNjYxMTU2MTMyNDE3.XJptRdd8BnOAYfICbf-qxLqAwdyr1bXidrDJhgZG_DUg.QlWuMdxssBdTtmANGoCYZ7zkODIEofELF78nMNQxxQYg.JPEG/ImMd-yTIHqv-LFrf5cHqtW4xGCH8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BLOW YOUR MIND! 패션 하우스의 가을 키 룩 10 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70517</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70517</guid>
+            <pubDate>Wed, 07 Sep 2022 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 바람이 분다. 시선을 멈추게 하는 강렬한 키 룩 10.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/3585a5ed-b5c9-4ce5-aea9-6be2af786e92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코스모가 준비한 2022 하반기 뷰티 트렌드 키워드는 무엇? (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70518</link>
             <guid>https://www.cosmopolitan.co.kr/article/70518</guid>
@@ -234,12 +242,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/a59f7a54-8d7a-4153-8cea-2ec1a57306fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[POP! POP! 셀렘 폭발! 핑크 파티 타임 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70436</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70436</guid>
-            <pubDate>Mon, 05 Sep 2022 06:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 설레는 베이비 핑크부터 사랑스러운 오리지널 핑크, 통통 튀는 핫 핑크 컬러까지 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/47fdc4f8-c8fe-4384-bf42-dd60bc931abe.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이돌 PICK! 뷰티템은 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70521</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70521</guid>
+            <pubDate>Wed, 07 Sep 2022 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌이 사용했다고 입 소문난 비장의 뷰티템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/cbbab086-fc21-468c-9af4-9d8d930390b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차은우와 캡춰토탈이 만들어 낸 눈부신 비주얼 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -296,14 +304,6 @@
             <pubDate>Mon, 05 Sep 2022 14:13:48 GMT</pubDate>
             <content:encoded><![CDATA[New, Need, Now! 가을바람과 함께 찾아온 9월의 뷰티 신상!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/bbdc2bd7-aa8e-4d58-88b4-b39d8f37a4b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처피뱅, 풀뱅을 잇는 대세 루키 앞머리는? ‘트위티뱅’! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70326</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70326</guid>
-            <pubDate>Mon, 05 Sep 2022 14:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[아이브 장원영 픽!으로 인기몰이중인 잔머리펌. 아이유부터 레드벨벳 아이린, 뉴진스 다니엘까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/89d741e5-4d16-4f16-901b-894299b6ac81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추석 연휴에 꿀잼 보장! 웹 예능 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -434,6 +434,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/225f8fee-e11f-4022-b7b7-3e0e1a7ac0d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-드라마 시즌2 소식에 두근두근 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70559</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70559</guid>
+            <pubDate>Wed, 07 Sep 2022 15:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[오징어게임, 지금 우리 학교는, 스위트홈, DP까지! 전세계가 기다리는K-드라마 시즌2 소식이 속속...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/92e969ec-24e7-44d2-970c-4ee214896d90.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[추석 연휴에 꿀잼 보장! 웹 예능 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70553</link>
             <guid>https://www.cosmopolitan.co.kr/article/70553</guid>
@@ -488,14 +496,6 @@
             <pubDate>Tue, 06 Sep 2022 10:13:32 GMT</pubDate>
             <content:encoded><![CDATA[국립고궁박물관에서 열리는 해외 환수문화재 특별전은 세계 곳곳에 퍼져 있던 우리의 문화재를 각...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/4d873759-1453-4486-b53e-c0af92fbd1ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OTT를 평정하러 <반지의 제왕:힘의 반지>가 돌아왔다 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70439</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70439</guid>
-            <pubDate>Tue, 06 Sep 2022 10:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 TV 앞에서 주말을 통째로 날릴 시리즈가 온다. &lt;반지의 제왕: 힘의 반지&gt;를 보기 전에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/c84cd1d0-9b05-4b97-89d0-c562fcd53174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

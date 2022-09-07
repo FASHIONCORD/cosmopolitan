@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 14:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 15:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌 PICK! 뷰티템은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70521</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70521</guid>
+            <pubDate>Wed, 07 Sep 2022 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌이 사용했다고 입 소문난 비장의 뷰티템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/cbbab086-fc21-468c-9af4-9d8d930390b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차은우와 캡춰토탈이 만들어 낸 눈부신 비주얼]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70493</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 05 Sep 2022 14:13:48 GMT</pubDate>
             <content:encoded><![CDATA[New, Need, Now! 가을바람과 함께 찾아온 9월의 뷰티 신상!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/bbdc2bd7-aa8e-4d58-88b4-b39d8f37a4b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처피뱅, 풀뱅을 잇는 대세 루키 앞머리는? ‘트위티뱅’!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70326</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70326</guid>
-            <pubDate>Mon, 05 Sep 2022 14:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[아이브 장원영 픽!으로 인기몰이중인 잔머리펌. 아이유부터 레드벨벳 아이린, 뉴진스 다니엘까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/89d741e5-4d16-4f16-901b-894299b6ac81.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
