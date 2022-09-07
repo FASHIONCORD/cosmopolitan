@@ -4,16 +4,24 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 07:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아니, 연경 언니가 왜 거기서 나와?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70533</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70533</guid>
+            <pubDate>Wed, 07 Sep 2022 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[발렌시아가 캠페인에 김연경 선수 등장! 패션계에서 러브콜을 받는 k-피플들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/b3ff1325-74b5-47ca-99fa-5e5cac3d9f58.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마린 룩은 삭제 바람! 가을 버전 스트라이프 모음 ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70532</link>
             <guid>https://www.cosmopolitan.co.kr/article/70532</guid>
             <pubDate>Wed, 07 Sep 2022 01:08:35 GMT</pubDate>
             <content:encoded><![CDATA[취향에 따라 고르는 재미가 있는 스트라이프 패턴 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/965be06b-af37-438f-aaba-fda6bfcba5f6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/965be06b-af37-438f-aaba-fda6bfcba5f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘국주는 옳아!’ 먹교수 이영자가 인정한 이국주의 먹부림 메뉴는 무엇?]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
             <content:encoded><![CDATA[혹시 너 나에게 뽀뽀하는 거냐?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a85445ba-f463-4e6b-8d95-837ffafecc00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오징어 게임> 이유미, 한국인 최초로 미국 에미상 게스트상 수상했다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70496</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70496</guid>
-            <pubDate>Tue, 06 Sep 2022 07:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;오징어 게임&gt; 신드롬의 끝은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/b9abd570-0d09-4a16-8810-2735a93d36e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
