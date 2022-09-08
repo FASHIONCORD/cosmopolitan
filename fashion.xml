@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 14:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 15:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 79회 베니스 국제영화제에 뜬 글로벌 슈스 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70536</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70536</guid>
+            <pubDate>Thu, 08 Sep 2022 15:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 밈을 낳은 티모시 샬라메부터 케이트 블란쳇까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c297803e-f4b6-4458-8f22-2344d4f19fce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마린 룩은 삭제 바람! 가을 버전 스트라이프 모음 ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70532</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 05 Sep 2022 17:17:04 GMT</pubDate>
             <content:encoded><![CDATA[일상에서 따라하기 좋은 캐주얼 룩 강자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/2c2858ec-9d24-4540-a199-c17180ea662a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디까지 입어봤니? 트렌치 도장 깨기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70446</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70446</guid>
-            <pubDate>Mon, 05 Sep 2022 17:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[베이식 디자인부터 쿠튀르적 요소가 가미된 스타일까지 트렌치코트를 분류해봤다. 1~4단계는 누구나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/2bc82492-02f3-4f76-b958-86650a3cfa1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
