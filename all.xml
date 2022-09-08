@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -305,6 +305,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/bbdc2bd7-aa8e-4d58-88b4-b39d8f37a4b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전구우우욱~ 노래자랑! 빰빰빰빰빰 김신영이!! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70571</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70571</guid>
+            <pubDate>Thu, 08 Sep 2022 07:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[칸 배우 등극에 이어 전국노래자랑 MC 발탁! 올해는 김신영이 씹어먹는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/0adce5af-d435-471a-859b-f269940dc9ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최근 역대급 선물 받은 박은빈의 ‘생일 선물 스케일 변천사’ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70569</link>
             <guid>https://www.cosmopolitan.co.kr/article/70569</guid>
@@ -359,14 +367,6 @@
             <pubDate>Wed, 07 Sep 2022 09:13:10 GMT</pubDate>
             <content:encoded><![CDATA[수많은 밈을 낳은 티모시 샬라메부터 케이트 블란쳇까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c297803e-f4b6-4458-8f22-2344d4f19fce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아니, 연경 언니가 왜 거기서 나와? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70533</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70533</guid>
-            <pubDate>Wed, 07 Sep 2022 08:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[발렌시아가 캠페인에 김연경 선수 등장! 패션계에서 러브콜을 받는 k-피플들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/b3ff1325-74b5-47ca-99fa-5e5cac3d9f58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭발적이었거나, 폭망했거나! 지금의 코스모를 만든 역대 섹스 팁  part.1 (코스모폴리탄 코리아 ─ 러브)]]></title>
