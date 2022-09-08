@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 05:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjJfMjQ0/MDAxNjYxMTU2NDY0NTAx.nCjtnJ0nvYoSwhXbEj7Wq9BsnQzwENBV8X2x7AcihxQg.diEe4JPOLcrcyHx4DB3xGgM_WqqB5Cu7oDADkkQsTgUg.JPEG/IthwT9i9wnQ3RN6yNxd6OD5yW_J0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마린 룩은 삭제 바람! 가을 버전 스트라이프 모음 ZIP (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70532</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70532</guid>
+            <pubDate>Wed, 07 Sep 2022 01:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[취향에 따라 고르는 재미가 있는 스트라이프 패턴 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/965be06b-af37-438f-aaba-fda6bfcba5f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BLOW YOUR MIND! 패션 하우스의 가을 키 룩 10 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70517</link>
             <guid>https://www.cosmopolitan.co.kr/article/70517</guid>
@@ -231,14 +239,6 @@
             <pubDate>Mon, 05 Sep 2022 17:17:04 GMT</pubDate>
             <content:encoded><![CDATA[베이식 디자인부터 쿠튀르적 요소가 가미된 스타일까지 트렌치코트를 분류해봤다. 1~4단계는 누구나...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/2bc82492-02f3-4f76-b958-86650a3cfa1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정독 필수! 2022 F/W 패션 트렌드 요약 ZIP (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70438</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70438</guid>
-            <pubDate>Mon, 05 Sep 2022 06:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[Y2K 무드를 만난 프레피, 돌아온 파워숄더, 코르셋의 변주 등 가을 쇼핑을 나서기 전 반드시 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/a59f7a54-8d7a-4153-8cea-2ec1a57306fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이돌 PICK! 뷰티템은 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -305,6 +305,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/bbdc2bd7-aa8e-4d58-88b4-b39d8f37a4b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최근 역대급 선물 받은 박은빈의 ‘생일 선물 스케일 변천사’ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70569</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70569</guid>
+            <pubDate>Thu, 08 Sep 2022 06:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[우영우 인기 이 정도야?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/27afc31d-9e45-4a26-9c73-06dee20802a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 조합 무엇? 연애 리얼리티에서 탄생한 현커들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70562</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70562</guid>
+            <pubDate>Thu, 08 Sep 2022 06:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[그런데 그 일이 실제로 일어났습니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/6b2704a8-4fe7-4998-9989-8e0722db5e24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[K-드라마 시즌2 소식에 두근두근 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70559</link>
             <guid>https://www.cosmopolitan.co.kr/article/70559</guid>
@@ -351,22 +367,6 @@
             <pubDate>Wed, 07 Sep 2022 08:17:45 GMT</pubDate>
             <content:encoded><![CDATA[발렌시아가 캠페인에 김연경 선수 등장! 패션계에서 러브콜을 받는 k-피플들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/b3ff1325-74b5-47ca-99fa-5e5cac3d9f58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마린 룩은 삭제 바람! 가을 버전 스트라이프 모음 ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70532</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70532</guid>
-            <pubDate>Wed, 07 Sep 2022 01:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[취향에 따라 고르는 재미가 있는 스트라이프 패턴 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/965be06b-af37-438f-aaba-fda6bfcba5f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘국주는 옳아!’ 먹교수 이영자가 인정한 이국주의 먹부림 메뉴는 무엇? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70527</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70527</guid>
-            <pubDate>Tue, 06 Sep 2022 10:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[먹을 줄 알지만 요리할 줄도 아는 ‘먹잘알’ 이국주의 전격 먹부림 노하우]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/0b182a25-b83f-40c1-8b76-7ff263f5f07b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭발적이었거나, 폭망했거나! 지금의 코스모를 만든 역대 섹스 팁  part.1 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -433,6 +433,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/225f8fee-e11f-4022-b7b7-3e0e1a7ac0d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 조합 무엇? 연애 리얼리티에서 탄생한 현커들 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70562</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70562</guid>
+            <pubDate>Thu, 08 Sep 2022 06:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[그런데 그 일이 실제로 일어났습니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/6b2704a8-4fe7-4998-9989-8e0722db5e24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[K-드라마 시즌2 소식에 두근두근 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70559</link>
             <guid>https://www.cosmopolitan.co.kr/article/70559</guid>
@@ -487,14 +495,6 @@
             <pubDate>Wed, 07 Sep 2022 01:09:21 GMT</pubDate>
             <content:encoded><![CDATA[요즘 노래 보다 먹는데 진심 이라던데~~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/aedbd63d-0a70-46df-ada9-e149d6f5082c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무한한 애정과 땀과 눈물로 문화재를 환수하고 보존해온 국외소재문화재재단의 영웅들 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70454</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70454</guid>
-            <pubDate>Tue, 06 Sep 2022 10:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[국립고궁박물관에서 열리는 해외 환수문화재 특별전은 세계 곳곳에 퍼져 있던 우리의 문화재를 각...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/4d873759-1453-4486-b53e-c0af92fbd1ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 05:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마린 룩은 삭제 바람! 가을 버전 스트라이프 모음 ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70532</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70532</guid>
+            <pubDate>Thu, 08 Sep 2022 06:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[취향에 따라 고르는 재미가 있는 스트라이프 패턴 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/965be06b-af37-438f-aaba-fda6bfcba5f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLOW YOUR MIND! 패션 하우스의 가을 키 룩 10]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70517</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 05 Sep 2022 17:17:04 GMT</pubDate>
             <content:encoded><![CDATA[베이식 디자인부터 쿠튀르적 요소가 가미된 스타일까지 트렌치코트를 분류해봤다. 1~4단계는 누구나...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/2bc82492-02f3-4f76-b958-86650a3cfa1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정독 필수! 2022 F/W 패션 트렌드 요약 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70438</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70438</guid>
-            <pubDate>Mon, 05 Sep 2022 06:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[Y2K 무드를 만난 프레피, 돌아온 파워숄더, 코르셋의 변주 등 가을 쇼핑을 나서기 전 반드시 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/a59f7a54-8d7a-4153-8cea-2ec1a57306fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
