@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 01:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 03:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-드라마 시즌2 소식에 두근두근]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70559</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70559</guid>
+            <pubDate>Thu, 08 Sep 2022 03:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[오징어게임, 지금 우리 학교는, 스위트홈, DP까지! 전세계가 기다리는K-드라마 시즌2 소식이 속속...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/92e969ec-24e7-44d2-970c-4ee214896d90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석 연휴에 꿀잼 보장! 웹 예능]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70553</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 06 Sep 2022 10:12:43 GMT</pubDate>
             <content:encoded><![CDATA[먹을 줄 알지만 요리할 줄도 아는 ‘먹잘알’ 이국주의 전격 먹부림 노하우]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/0b182a25-b83f-40c1-8b76-7ff263f5f07b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본격 유행 예감! 여돌의 투톤 헤어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70522</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70522</guid>
-            <pubDate>Tue, 06 Sep 2022 08:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[다시 돌아온 투톤 헤어의 시대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/0c7e2066-4c0e-47ce-89bd-d9646ebb8103.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
