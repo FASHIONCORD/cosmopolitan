@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 16:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 17:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/2c2858ec-9d24-4540-a199-c17180ea662a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[본격 유행 예감! 여돌의 투톤 헤어 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70522</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70522</guid>
+            <pubDate>Thu, 08 Sep 2022 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아온 투톤 헤어의 시대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/0c7e2066-4c0e-47ce-89bd-d9646ebb8103.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이돌 PICK! 뷰티템은 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70521</link>
             <guid>https://www.cosmopolitan.co.kr/article/70521</guid>
@@ -295,14 +303,6 @@
             <pubDate>Mon, 05 Sep 2022 14:13:48 GMT</pubDate>
             <content:encoded><![CDATA[화장대를 점령한 큐티뽀짝 코즈메틱 모음ZIP.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/902ef3e5-eb05-4270-8a51-77daeca64d27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New, Need, Now! 가을바람과 함께 찾아온 9월의 뷰티 신상 26 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70355</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70355</guid>
-            <pubDate>Mon, 05 Sep 2022 14:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[New, Need, Now! 가을바람과 함께 찾아온 9월의 뷰티 신상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/bbdc2bd7-aa8e-4d58-88b4-b39d8f37a4b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전구우우욱~ 노래자랑! 빰빰빰빰빰 김신영이!! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
