@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 15:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 16:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말엔 눈 호강이지! 힙하고 ‘색’다른 뉴 플레이스 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70576</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70576</guid>
+            <pubDate>Thu, 08 Sep 2022 16:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[색감 맛집이라는 신생 ‘핫플’ 리스트]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/4fb56871-07f6-4659-bafa-3c668cd310f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안 보면 후회한다는 신작 드라마 리스트 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70575</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 07 Sep 2022 10:17:07 GMT</pubDate>
             <content:encoded><![CDATA[항공권이 비쌌던 이유는 ‘이것’ 때문입니다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/271b6823-0743-4ca1-9cc2-f48c2229b9de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-조상님도 홀딱 반한 요즘 추석상 part.1]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70511</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70511</guid>
-            <pubDate>Wed, 07 Sep 2022 09:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[온 가족이 모여 전을 부치는 건 이제 옛말. 달라지는 추석 풍경은 식탁 위에도 그려지고 있다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/7dff36a8-9dfb-4987-a85f-24a11e19d3ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
