@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 08:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 09:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안 보면 후회한다는 신작 드라마 리스트 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70575</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70575</guid>
+            <pubDate>Thu, 08 Sep 2022 09:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[24시간이 모자라! 올가을도 드라마는 풍년~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/9b8f1d54-eb01-4ed5-8eab-878904185dcc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전구우우욱~ 노래자랑! 빰빰빰빰빰 김신영이!!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70571</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 07 Sep 2022 09:13:32 GMT</pubDate>
             <content:encoded><![CDATA[온 가족이 모여 전을 부치는 건 이제 옛말. 달라지는 추석 풍경은 식탁 위에도 그려지고 있다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/7dff36a8-9dfb-4987-a85f-24a11e19d3ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 딱 기다려! 피자헛의 1인 피자 ‘마이박스’]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70503</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70503</guid>
-            <pubDate>Wed, 07 Sep 2022 09:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[혼밥족, 소식좌에게 피자 한판은 그림의 떡? 댓츠 노~노~! 혼자서도 한판 순삭할 수 있는 쁘띠...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/a22d7734-c3af-4d19-a349-cc6c7669f5ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
