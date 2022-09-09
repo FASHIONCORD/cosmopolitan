@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 15:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 16:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[촉촉함은 기본, 은은한 향기까지 지닌 ‘나심비’ 갑 샤넬 바디 오일!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70461</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70461</guid>
+            <pubDate>Fri, 09 Sep 2022 16:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 코코 마드모아젤 바디 오일로 세련되고 특별한 나만의 보디 리추얼을 완성해볼 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/1eaeed4b-4bef-45f4-887f-abf48ee92836.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[본격 유행 예감! 여돌의 투톤 헤어]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70522</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 06 Sep 2022 13:37:59 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 하우스의 상징인 ‘트위드’의 매력을 가득 담은 ‘레 꺄트르 옹브르 트위드’ 아이 섀도 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/47c0c021-44d3-45d7-8af3-82a0ac5771d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀,귀,귀요미! 화장대를 점령한 큐티뽀작 코스메틱 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70386</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70386</guid>
-            <pubDate>Mon, 05 Sep 2022 14:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[화장대를 점령한 큐티뽀짝 코즈메틱 모음ZIP.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/902ef3e5-eb05-4270-8a51-77daeca64d27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
