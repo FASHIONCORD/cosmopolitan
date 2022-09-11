@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 러브</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 18:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 19:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틴더로 유방암 발견한 썰.txt part.2]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/68600</link>
+            <guid>https://www.cosmopolitan.co.kr/article/68600</guid>
+            <pubDate>Sun, 11 Sep 2022 19:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[주작 아님 주의! 데이팅 앱으로 유방암 발견하고 훈남 애인 얻은 썰 푼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/b995e542-7b9b-4b62-a6a3-a1aedacd5463.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틴더로 유방암 발견한 썰.txt part.1]]></title>
             <link>https://www.cosmopolitan.co.kr/article/68599</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Aug 2022 13:37:00 GMT</pubDate>
             <content:encoded><![CDATA[가수 벤의 임신 소식에 팬들은 뜨거운 응원과 격려를 보내고 있다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/3865e175-de2c-41c2-a9e0-d32c60a28251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 언니가 곧 '엄마'가 된다고? 출산을 앞에 둔 예비 맘 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/67997</link>
-            <guid>https://www.cosmopolitan.co.kr/article/67997</guid>
-            <pubDate>Thu, 25 Aug 2022 13:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[박시은, 손예진, 곽지영, 홍현희까지! 이 언냐들의 2세가 궁금하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/795c5a5d-69fd-4790-a441-ed422bc1431f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
