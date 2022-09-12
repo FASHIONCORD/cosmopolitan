@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 13:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 15:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주지훈·한효주 드디어 만났다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70600</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70600</guid>
+            <pubDate>Mon, 12 Sep 2022 15:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;지배종&gt;의 주연으로 찰떡 케미 보여줄 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/11f10017-8660-45b1-bf87-374e158da42c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[댕심 저격' 럭셔리 펫 아이템 part.1]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70582</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 07 Sep 2022 10:17:07 GMT</pubDate>
             <content:encoded><![CDATA[추석에 정주행하기 딱 좋은 콘텐츠]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/f171f718-58e3-4972-9533-9e1378e46b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘국주는 옳아!’ 먹교수 이영자가 인정한 이국주의 먹부림 메뉴는 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70527</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70527</guid>
-            <pubDate>Wed, 07 Sep 2022 10:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[먹을 줄 알지만 요리할 줄도 아는 ‘먹잘알’ 이국주의 전격 먹부림 노하우]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/0b182a25-b83f-40c1-8b76-7ff263f5f07b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
