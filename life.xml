@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 01:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 04:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 이 정도였다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70606</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70606</guid>
+            <pubDate>Tue, 13 Sep 2022 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[K팝 걸그룹 최초로 빌보드 2주 연속 1위를 했다고]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ec50be7c-0252-4863-9541-4ce3c014c2ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HOT한 양양에 말리부가 왔Summer!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70604</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70604</guid>
+            <pubDate>Tue, 13 Sep 2022 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[서퍼들의 성지, 양양 레인보우 비치가 올여름 맛있고 즐거워진 이유? 바로 말리부 썸머 브리즈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/4c3bc2c5-3136-41ce-a2fa-11744c9f6493.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주지훈·한효주 드디어 만났다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70600</link>
@@ -16,12 +32,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/11f10017-8660-45b1-bf87-374e158da42c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[댕심 저격' 럭셔리 펫 아이템 part.1]]></title>
+            <title><![CDATA['댕심 저격' 럭셔리 펫 아이템 part.1]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70582</link>
             <guid>https://www.cosmopolitan.co.kr/article/70582</guid>
             <pubDate>Fri, 09 Sep 2022 16:17:13 GMT</pubDate>
             <content:encoded><![CDATA[구찌, 에르메스, 프라다…. ‘댕품격’ 수직 상승을 위해 럭셔리 하우스 브랜드들이 펫 아이템을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/f03f3756-c6c4-4dbe-9102-562d9f88e136.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/f03f3756-c6c4-4dbe-9102-562d9f88e136.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주말엔 눈 호강이지! 힙하고 ‘색’다른 뉴 플레이스 4]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 08 Sep 2022 06:42:25 GMT</pubDate>
             <content:encoded><![CDATA[그런데 그 일이 실제로 일어났습니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/6b2704a8-4fe7-4998-9989-8e0722db5e24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-드라마 시즌2 소식에 두근두근]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70559</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70559</guid>
-            <pubDate>Wed, 07 Sep 2022 15:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[오징어게임, 지금 우리 학교는, 스위트홈, DP까지! 전세계가 기다리는K-드라마 시즌2 소식이 속속...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/92e969ec-24e7-44d2-970c-4ee214896d90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 연휴에 꿀잼 보장! 웹 예능]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70553</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70553</guid>
-            <pubDate>Wed, 07 Sep 2022 10:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[추석에 정주행하기 딱 좋은 콘텐츠]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/f171f718-58e3-4972-9533-9e1378e46b3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
