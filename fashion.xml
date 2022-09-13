@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 11:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOVE MYSELF! 내 모습 그대로를 담은 코스모 패션 씬]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70643</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70643</guid>
+            <pubDate>Tue, 13 Sep 2022 11:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[자신을 있는 그대로 사랑하고 드러내는 당당함, 빛나는 관능미, 티 없이 맑은 순수함까지 담았다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/20af79e8-354c-4055-a9a2-63ff0ee15378.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 쭉 늘릴 때! 맥시스커트를 입는 4가지 방법]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70618</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 08 Sep 2022 06:39:48 GMT</pubDate>
             <content:encoded><![CDATA[취향에 따라 고르는 재미가 있는 스트라이프 패턴 스타일링.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/965be06b-af37-438f-aaba-fda6bfcba5f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLOW YOUR MIND! 패션 하우스의 가을 키 룩 10]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70517</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70517</guid>
-            <pubDate>Wed, 07 Sep 2022 15:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 바람이 분다. 시선을 멈추게 하는 강렬한 키 룩 10.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/3585a5ed-b5c9-4ce5-aea9-6be2af786e92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
