@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 07:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니·슬기는 요즘 무슨 운동화 신어?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70683</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70683</guid>
+            <pubDate>Wed, 14 Sep 2022 09:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[아디다스 삼바부터 오트리까지, 셀럽들의 스니커즈 PICK!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/4511395d-c77b-4187-925c-8d7b9bce3e3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차정원·수사샤·오눅의 PICK! 빈티지 레더재킷]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70682</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70682</guid>
+            <pubDate>Wed, 14 Sep 2022 09:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[시크+힙 동시에 잡고 싶다면 드루와~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/c7e19ea7-1f8f-4c9f-82eb-e351667df37f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LOVE MYSELF! 내 모습 그대로를 담은 코스모 패션 씬]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70643</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 09 Sep 2022 15:12:27 GMT</pubDate>
             <content:encoded><![CDATA[가을이면 놓쳐서는 안될 다채로운 체크 패턴의 매력!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/194a41b9-d2bf-4707-bc00-9d9c658cfdc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제 79회 베니스 국제영화제에 뜬 글로벌 슈스 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70536</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70536</guid>
-            <pubDate>Thu, 08 Sep 2022 15:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 밈을 낳은 티모시 샬라메부터 케이트 블란쳇까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c297803e-f4b6-4458-8f22-2344d4f19fce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마린 룩은 삭제 바람! 가을 버전 스트라이프 모음 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70532</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70532</guid>
-            <pubDate>Thu, 08 Sep 2022 06:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[취향에 따라 고르는 재미가 있는 스트라이프 패턴 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/965be06b-af37-438f-aaba-fda6bfcba5f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
