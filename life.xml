@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 04:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 05:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남돌 컴백 풍년이로구나~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70717</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70717</guid>
+            <pubDate>Thu, 15 Sep 2022 05:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[얼마나 기다렸는지 알아?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/dc2a20c1-3bf3-4ad4-890f-15e86629133a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼자 있을 때도 빛이 나는 솔로!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70716</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70716</guid>
+            <pubDate>Thu, 15 Sep 2022 05:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[솔로 컴백 아이돌 제 점수는요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a353824c-c6c8-4667-b319-33e69384a4db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 여기가 그렇게 핫하다던데, ‘남영동’ 핫한 공간 추천]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70689</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70689</guid>
+            <pubDate>Thu, 15 Sep 2022 05:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[남영돈만 알았다면 그건 크나큰 오산!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/3f147e50-2a3b-4e63-bdfb-33b7a540e775.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#CLOSE_UP 전반적인 미술 시장에 관여하는 아트 씬의 만능캐, 아트 어드바이저]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70685</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 13 Sep 2022 04:16:21 GMT</pubDate>
             <content:encoded><![CDATA[K팝 걸그룹 최초로 빌보드 2주 연속 1위를 했다고]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ec50be7c-0252-4863-9541-4ce3c014c2ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOT한 양양에 말리부가 왔Summer!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70604</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70604</guid>
-            <pubDate>Tue, 13 Sep 2022 04:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[서퍼들의 성지, 양양 레인보우 비치가 올여름 맛있고 즐거워진 이유? 바로 말리부 썸머 브리즈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/4c3bc2c5-3136-41ce-a2fa-11744c9f6493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주지훈·한효주 드디어 만났다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70600</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70600</guid>
-            <pubDate>Mon, 12 Sep 2022 15:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;지배종&gt;의 주연으로 찰떡 케미 보여줄 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/11f10017-8660-45b1-bf87-374e158da42c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['댕심 저격' 럭셔리 펫 아이템 part.1]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70582</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70582</guid>
-            <pubDate>Fri, 09 Sep 2022 16:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[구찌, 에르메스, 프라다…. ‘댕품격’ 수직 상승을 위해 럭셔리 하우스 브랜드들이 펫 아이템을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/f03f3756-c6c4-4dbe-9102-562d9f88e136.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
