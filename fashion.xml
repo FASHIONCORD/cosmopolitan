@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 03:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 05:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 ‘에미상’ 을 휩쓸어버렸다! 오징어 게임즈 국뽕 모먼트 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70702</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70702</guid>
+            <pubDate>Mon, 19 Sep 2022 05:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[아직 현재 진행 중인 &lt;오징어 게임&gt;의 신드롬!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/88bc0bc7-bf11-4c62-b1af-e13205f8749c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[순한 맛부터 매운 맛까지, 가을 ver. 트렌치코트 입기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70687</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70687</guid>
+            <pubDate>Mon, 19 Sep 2022 05:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 핫한 언니들은 트렌치코트를 이렇게 입는다고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/4fd3cb26-e695-4abe-9eb4-f9b64e58df15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이지 베이비들과 함께 가을 나들이 갈 시간]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70686</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 13 Sep 2022 04:13:28 GMT</pubDate>
             <content:encoded><![CDATA[뛰어난 비주얼로 한복의 美 알린 스타들은 누구?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ac08ea0e-4dc6-4298-8892-c68d0f78f1e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 쫙 조일 때! 코르셋을 입는 4가지 방법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70585</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70585</guid>
-            <pubDate>Tue, 13 Sep 2022 04:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[코르셋과 맥시스커트를 스타일리시하게 즐기는 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/8c8521f7-6b54-4f7d-8e7f-1370bbf2b25b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙하게 제멋대로! 젠지식 하이주얼리 매칭 플레이]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70545</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70545</guid>
-            <pubDate>Tue, 13 Sep 2022 04:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[젠지에게 정해진 룰이란 없다. 힙하게 제멋대로! 슬라임을 갖고 놀듯 내 맘대로 즐기는 하이 주...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/58a05286-93b8-4a69-bde0-9f6beb79b87e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
