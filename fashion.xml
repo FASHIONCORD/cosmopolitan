@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 대세 컬러, 핑크 탑승 준비 완료!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70726</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70726</guid>
+            <pubDate>Mon, 19 Sep 2022 10:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[나연, 효민, 예나, 선미도 픽한 바로 그 컬러! 가을 핑크 스타일링 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/71a9b2de-8ccc-4850-acdb-176f0ab76c0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 ‘에미상’ 을 휩쓸어버렸다! 오징어 게임즈 국뽕 모먼트 모음ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70702</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 13 Sep 2022 04:13:28 GMT</pubDate>
             <content:encoded><![CDATA[코르셋과 맥시스커트를 스타일리시하게 즐기는 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/64e639f6-7938-4c0a-8a35-e90f32dac4b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석맞이 ‘한복’을 찰떡같이 소화한 스타 TOP7 (feat.최신판)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70598</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70598</guid>
-            <pubDate>Tue, 13 Sep 2022 04:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[뛰어난 비주얼로 한복의 美 알린 스타들은 누구?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ac08ea0e-4dc6-4298-8892-c68d0f78f1e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

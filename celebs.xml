@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신혼여행에서 리즈 찍은 손연재 파리여행 룩!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70800</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70800</guid>
+            <pubDate>Mon, 19 Sep 2022 10:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[깔끔한 캐주얼룩의 정석! 손연재 스타일 파헤치기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/33fb7d4e-186e-46ac-add4-0ca4cd7dd36c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결혼과 임신을 동시에? 깜짝 겹 경사 소식을 알린 허니제이!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70769</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 16 Sep 2022 04:20:06 GMT</pubDate>
             <content:encoded><![CDATA[선선한 가을, 요즘 딱 입기 좋은 하프 집업 스타일링]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/2e39111a-9163-4e7e-bece-63c8bfe280bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 컬러, 핑크 탑승 준비 완료!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70726</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70726</guid>
-            <pubDate>Thu, 15 Sep 2022 05:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[나연, 효민, 예나, 선미도 픽한 바로 그 컬러! 가을 핑크 스타일링 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/71a9b2de-8ccc-4850-acdb-176f0ab76c0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
