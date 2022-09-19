@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 01:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 03:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이지 베이비들과 함께 가을 나들이 갈 시간]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70686</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70686</guid>
+            <pubDate>Mon, 19 Sep 2022 03:54:36 GMT</pubDate>
+            <content:encoded><![CDATA[이호정ㆍ유리ㆍ태연 등 존예 셀렙들의 에센셜 컬러, 베이지 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/d5c0e326-d147-4b2e-8a55-27dba8019a65.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니·슬기는 요즘 무슨 운동화 신어?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70683</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 13 Sep 2022 04:13:28 GMT</pubDate>
             <content:encoded><![CDATA[젠지에게 정해진 룰이란 없다. 힙하게 제멋대로! 슬라임을 갖고 놀듯 내 맘대로 즐기는 하이 주...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/58a05286-93b8-4a69-bde0-9f6beb79b87e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을엔 체크지! 셀럽들도 찜꽁해둔 '체크' 패턴 스타일링 TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70537</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70537</guid>
-            <pubDate>Fri, 09 Sep 2022 15:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[가을이면 놓쳐서는 안될 다채로운 체크 패턴의 매력!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/194a41b9-d2bf-4707-bc00-9d9c658cfdc4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 01:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 03:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -179,6 +179,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjRfMTUy/MDAxNjYxMzA4NDg3NDcw.j3kNjQaFGqspFsAfej0HdzCx4-HtXil2fNB91Lry0w0g.uH66eV7Uz9ulCxQNTpHqF_ZvovYUOyqTceAyqHeSX-gg.JPEG/IGMhnDgoMrUYW9mE1p5a3czNiOpU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[베이지 베이비들과 함께 가을 나들이 갈 시간 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70686</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70686</guid>
+            <pubDate>Mon, 19 Sep 2022 03:54:36 GMT</pubDate>
+            <content:encoded><![CDATA[이호정ㆍ유리ㆍ태연 등 존예 셀렙들의 에센셜 컬러, 베이지 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/d5c0e326-d147-4b2e-8a55-27dba8019a65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제니·슬기는 요즘 무슨 운동화 신어? (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70683</link>
             <guid>https://www.cosmopolitan.co.kr/article/70683</guid>
@@ -233,14 +241,6 @@
             <pubDate>Tue, 13 Sep 2022 04:13:28 GMT</pubDate>
             <content:encoded><![CDATA[젠지에게 정해진 룰이란 없다. 힙하게 제멋대로! 슬라임을 갖고 놀듯 내 맘대로 즐기는 하이 주...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/58a05286-93b8-4a69-bde0-9f6beb79b87e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을엔 체크지! 셀럽들도 찜꽁해둔 '체크' 패턴 스타일링 TIP (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70537</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70537</guid>
-            <pubDate>Wed, 07 Sep 2022 10:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[가을이면 놓쳐서는 안될 다채로운 체크 패턴의 매력!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/194a41b9-d2bf-4707-bc00-9d9c658cfdc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오히려 멋진 언니들의 등근육 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -307,6 +307,30 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/8387e96a-3c3d-4476-bec8-46aece9360e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 뜨는 걸그룹이 궁금해? 입덕 요정 막내들의 챠밍 모먼트! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70748</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70748</guid>
+            <pubDate>Mon, 19 Sep 2022 03:55:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘덕후 몰이’는 막내 담당이라구!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/d1b7d8ab-d3c4-4ea8-aa7a-15069d1cf5a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럽스타그램 장난 아니라는 블랙핑크 ‘지수’ ♥ 우주소녀 ‘보나’ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70744</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70744</guid>
+            <pubDate>Mon, 19 Sep 2022 03:55:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘95즈’ 지수X보나의 친목을 모아보자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/02dd1e4c-4f74-4e47-9c3a-7e259a2aff3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흙수저들의 반란! 드라마 <작은 아씨들> VS. <금수저> (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70731</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70731</guid>
+            <pubDate>Mon, 19 Sep 2022 03:55:03 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 돈이 없지, 자매가 없냐? 금수저, 돈으로 사겠어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/94e1e7a0-fa9b-423d-a950-37540b5ea3ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그동안 알려지지 않았던 ‘스맨파’ 비하인드 스토리 10가지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70730</link>
             <guid>https://www.cosmopolitan.co.kr/article/70730</guid>
@@ -345,30 +369,6 @@
             <pubDate>Wed, 14 Sep 2022 10:21:58 GMT</pubDate>
             <content:encoded><![CDATA[얼마나 기다렸는지 알아?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/dc2a20c1-3bf3-4ad4-890f-15e86629133a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼자 있을 때도 빛이 나는 솔로! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70716</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70716</guid>
-            <pubDate>Wed, 14 Sep 2022 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[솔로 컴백 아이돌 제 점수는요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a353824c-c6c8-4667-b319-33e69384a4db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 ‘에미상’ 을 휩쓸어버렸다! 오징어 게임즈 국뽕 모먼트 모음ZIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70702</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70702</guid>
-            <pubDate>Wed, 14 Sep 2022 09:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[아직 현재 진행 중인 &lt;오징어 게임&gt;의 신드롬!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/88bc0bc7-bf11-4c62-b1af-e13205f8749c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황보·최여진·백종원의 공통점은? 요트 운전 SSAP가능! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70700</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70700</guid>
-            <pubDate>Wed, 14 Sep 2022 09:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[어때유? 폼나쥬?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/52d47e2b-3934-4ac8-b10b-acccfc90596a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틴더로 유방암 발견한 썰.txt part.2 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -435,6 +435,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/3865e175-de2c-41c2-a9e0-d32c60a28251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그동안 알려지지 않았던 ‘스맨파’ 비하인드 스토리 10가지 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70730</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70730</guid>
+            <pubDate>Fri, 16 Sep 2022 04:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[지저스 크라이스트, 넉스는 뇌섹남에 오천이 득돈 형제보다 동생이라는데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a963b65c-613f-4602-bc5c-ed261cee5384.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남돌 컴백 풍년이로구나~ (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70717</link>
             <guid>https://www.cosmopolitan.co.kr/article/70717</guid>
@@ -489,14 +497,6 @@
             <pubDate>Wed, 14 Sep 2022 07:30:45 GMT</pubDate>
             <content:encoded><![CDATA[구찌, 에르메스, 프라다…. ‘댕품격’ 수직 상승을 위해 럭셔리 하우스 브랜드들이 펫 아이템을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/25adda9d-d775-486a-8c1a-4b24046dbdde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 이 정도였다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70606</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70606</guid>
-            <pubDate>Tue, 13 Sep 2022 04:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[K팝 걸그룹 최초로 빌보드 2주 연속 1위를 했다고]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ec50be7c-0252-4863-9541-4ce3c014c2ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
