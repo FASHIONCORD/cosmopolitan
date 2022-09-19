@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 05:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석에 선물 받은 ‘스팸’, 이렇게 요리해 먹을 수 있다고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70745</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70745</guid>
+            <pubDate>Mon, 19 Sep 2022 06:58:37 GMT</pubDate>
+            <content:encoded><![CDATA[밥 도둑 스팸의 변신은 무죄! 스팸 요리법 4가지를 살펴보자]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/449254cf-9c68-4500-8660-73a6ee1514fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흙수저들의 반란! 드라마 <작은 아씨들> VS. <금수저>]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70731</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70731</guid>
+            <pubDate>Mon, 19 Sep 2022 06:58:37 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 돈이 없지, 자매가 없냐? 금수저, 돈으로 사겠어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/94e1e7a0-fa9b-423d-a950-37540b5ea3ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그동안 알려지지 않았던 ‘스맨파’ 비하인드 스토리 10가지]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70730</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 14 Sep 2022 12:23:51 GMT</pubDate>
             <content:encoded><![CDATA[살도 쫙쫙 빠지는데 맛까지 좋다뇨~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/36308e3c-213b-4ce8-be31-af71f7948849.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-조상님도 홀딱 반한 요즘 추석상 part.2]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70640</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70640</guid>
-            <pubDate>Wed, 14 Sep 2022 07:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[온 가족이 모여 전을 부치는 건 이제 옛말. 달라지는 추석 풍경은 식탁 위에도 그려지고 있다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/5e86a92f-693d-49d9-a00e-509c73798039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['댕심 저격' 럭셔리 펫 아이템 part.2]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70619</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70619</guid>
-            <pubDate>Wed, 14 Sep 2022 07:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[구찌, 에르메스, 프라다…. ‘댕품격’ 수직 상승을 위해 럭셔리 하우스 브랜드들이 펫 아이템을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/25adda9d-d775-486a-8c1a-4b24046dbdde.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

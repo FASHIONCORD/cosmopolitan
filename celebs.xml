@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 05:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼과 임신을 동시에? 깜짝 겹 경사 소식을 알린 허니제이!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70769</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70769</guid>
+            <pubDate>Mon, 19 Sep 2022 06:57:44 GMT</pubDate>
+            <content:encoded><![CDATA[울 언니 결혼 한다!!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/929d2f02-8bc2-4fdb-a831-ee92c43e7308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌써 17년 전? <내 이름은 김삼순> 다니엘 헤니 VS. 현빈]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70768</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70768</guid>
+            <pubDate>Mon, 19 Sep 2022 06:57:44 GMT</pubDate>
+            <content:encoded><![CDATA[17년 만에 다시 얼굴로 맞짱 뜬 현빈과 다니엘 헤니. 두 남자의 특히 잊지 못할 잘생긴 순간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/84ca1501-80c7-4c0f-8221-843090bc2b26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 뜨는 걸그룹이 궁금해? 입덕 요정 막내들의 챠밍 모먼트!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70748</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 15 Sep 2022 05:57:52 GMT</pubDate>
             <content:encoded><![CDATA[나연, 효민, 예나, 선미도 픽한 바로 그 컬러! 가을 핑크 스타일링 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/71a9b2de-8ccc-4850-acdb-176f0ab76c0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 슬기, 10월 4일 솔로 데뷔 확정!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70725</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70725</guid>
-            <pubDate>Thu, 15 Sep 2022 05:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳과는 사뭇 다른 파격적인 컨셉을 선보일 예정]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/82d94e68-1183-4a5d-988b-a3f8bd36a05b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남돌 컴백 풍년이로구나~]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70717</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70717</guid>
-            <pubDate>Wed, 14 Sep 2022 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[얼마나 기다렸는지 알아?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/dc2a20c1-3bf3-4ad4-890f-15e86629133a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
