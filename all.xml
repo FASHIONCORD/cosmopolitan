@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 08:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/91f27338-adca-4f11-91ca-a05771d85516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메이크업이 밋밋할 때 리사·다니엘·제니·선미는 이걸로 포인트를 넣어준다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70805</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70805</guid>
+            <pubDate>Tue, 20 Sep 2022 08:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[한 끗 차이로 분위기 전환 SSAP에이블~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/25cc4126-5122-43e7-9b7d-a6f14a48a372.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제니·민니·태연의 PICK 요즘 힙한 파츠 메이크업! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70801</link>
             <guid>https://www.cosmopolitan.co.kr/article/70801</guid>
@@ -362,14 +370,6 @@
             <pubDate>Mon, 19 Sep 2022 03:55:03 GMT</pubDate>
             <content:encoded><![CDATA[우리가 돈이 없지, 자매가 없냐? 금수저, 돈으로 사겠어!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/94e1e7a0-fa9b-423d-a950-37540b5ea3ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그동안 알려지지 않았던 ‘스맨파’ 비하인드 스토리 10가지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70730</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70730</guid>
-            <pubDate>Fri, 16 Sep 2022 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[지저스 크라이스트, 넉스는 뇌섹남에 오천이 득돈 형제보다 동생이라는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a963b65c-613f-4602-bc5c-ed261cee5384.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틴더로 유방암 발견한 썰.txt part.2 (코스모폴리탄 코리아 ─ 러브)]]></title>
