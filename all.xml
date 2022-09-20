@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -436,6 +436,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/3865e175-de2c-41c2-a9e0-d32c60a28251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 핫한 ‘보광동’ 먹방투어 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70815</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70815</guid>
+            <pubDate>Tue, 20 Sep 2022 06:55:04 GMT</pubDate>
+            <content:encoded><![CDATA[아직 한번도 안 가봤다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/0515d393-2e54-4c17-bee4-11c0e8d60f6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이것이 원조다! 강릉 1박 2일 코스 (1) (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70810</link>
             <guid>https://www.cosmopolitan.co.kr/article/70810</guid>
@@ -490,14 +498,6 @@
             <pubDate>Fri, 16 Sep 2022 04:20:06 GMT</pubDate>
             <content:encoded><![CDATA[지저스 크라이스트, 넉스는 뇌섹남에 오천이 득돈 형제보다 동생이라는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a963b65c-613f-4602-bc5c-ed261cee5384.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남돌 컴백 풍년이로구나~ (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70717</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70717</guid>
-            <pubDate>Wed, 14 Sep 2022 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[얼마나 기다렸는지 알아?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/dc2a20c1-3bf3-4ad4-890f-15e86629133a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
