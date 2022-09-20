@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 04:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/91f27338-adca-4f11-91ca-a05771d85516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제니·민니·태연의 PICK 요즘 힙한 파츠 메이크업! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/70801</link>
+            <guid>https://www.cosmopolitan.co.kr/article/70801</guid>
+            <pubDate>Tue, 20 Sep 2022 06:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴에 보석을 박았어요~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/1777194a-b198-49a7-836d-35010dbc9fee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신혼여행에서 리즈 찍은 손연재 파리여행 룩! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/70800</link>
             <guid>https://www.cosmopolitan.co.kr/article/70800</guid>
@@ -362,14 +370,6 @@
             <pubDate>Fri, 16 Sep 2022 04:20:06 GMT</pubDate>
             <content:encoded><![CDATA[지저스 크라이스트, 넉스는 뇌섹남에 오천이 득돈 형제보다 동생이라는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/a963b65c-613f-4602-bc5c-ed261cee5384.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지퍼를 올렸다~내렸다~ 하프 집업 잼 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/70728</link>
-            <guid>https://www.cosmopolitan.co.kr/article/70728</guid>
-            <pubDate>Fri, 16 Sep 2022 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[선선한 가을, 요즘 딱 입기 좋은 하프 집업 스타일링]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/2e39111a-9163-4e7e-bece-63c8bfe280bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틴더로 유방암 발견한 썰.txt part.2 (코스모폴리탄 코리아 ─ 러브)]]></title>
