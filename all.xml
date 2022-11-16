@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 13:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 14:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/11/bac367d3-3808-46ec-aff8-41ee365386f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여드름 없애는 데 최고인 이 방법! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/72347</link>
+            <guid>https://www.cosmopolitan.co.kr/article/72347</guid>
+            <pubDate>Wed, 16 Nov 2022 14:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[리얼로 도자기 피부 만들어벌임!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/14/be3d3f4d-b868-4806-b9ee-4fd904f4fb08.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[와, 이게 되네? 김민경 태극마크 달다! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/72340</link>
             <guid>https://www.cosmopolitan.co.kr/article/72340</guid>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 14 Nov 2022 20:14:04 GMT</pubDate>
             <content:encoded><![CDATA[분위기 한 스푼 듬뿍! 과감한 컬러들 사이에서 더욱 돋보이는 누드 컬러 립.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/11cc3ace-b883-45fb-9148-136a6dd16823.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 아우라! 영롱한 샤넬 '2022 홀리데이 메이크업 컬렉션' (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72019</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72019</guid>
-            <pubDate>Mon, 14 Nov 2022 20:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[심플하면서도 화려하게, 샤넬 뷰티가 달에서 영감 받은 리미티드 에디션을 선보인다. 코스모가 제...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/82606420-82fa-405e-b156-478a74723208.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신흥 금발러 등극! 세상 힙한 '아이들'로 본 금발 헤어 스타일링 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
