@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 19:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 20:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,6 +249,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/17/4a3fa210-c31a-4e36-a7b2-8c28f15d37a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[피부 광난다, 광나! 여자 배우들이 쓰는 ‘강추’하는 이것? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/72843</link>
+            <guid>https://www.cosmopolitan.co.kr/article/72843</guid>
+            <pubDate>Wed, 30 Nov 2022 04:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[배우들이 직접 공개한 ‘찐’ 강추 스킨케어 꿀 팁&amp;아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/2b81618e-7a62-4470-be79-f6d22e883807.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[급찐살 나만 무서워? 다이어트를 위해 꾹 참아야할 겨울 간식! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/72794</link>
             <guid>https://www.cosmopolitan.co.kr/article/72794</guid>
@@ -265,20 +273,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/9876b614-27a7-47c9-8a1e-3977dcb4f943.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[‘이것’으로 11kg 감량한 신지의 다이어트 비법? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72788</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72788</guid>
-            <pubDate>Thu, 01 Dec 2022 09:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[몰라보게 쏙 빠진 신지가 밝힌 감량 비법은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/190e25b9-7ebc-46fe-bc6b-999fc301eab1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다이슨 본사에서 직접 체험해 본 뉴 에어랩 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/72748</link>
             <guid>https://www.cosmopolitan.co.kr/article/72748</guid>
             <pubDate>Wed, 30 Nov 2022 04:14:48 GMT</pubDate>
             <content:encoded><![CDATA[‘이보다 더 좋을 수 있을까?’ 싶은 순간, 다이슨 에어랩™ 스타일러가 다시 한번 진화했다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/dc2eb9fc-bc13-4cb4-a494-d9afb51e5b44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이것’으로 11kg 감량한 신지의 다이어트 비법? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/72788</link>
+            <guid>https://www.cosmopolitan.co.kr/article/72788</guid>
+            <pubDate>Thu, 01 Dec 2022 09:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[몰라보게 쏙 빠진 신지가 밝힌 감량 비법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/190e25b9-7ebc-46fe-bc6b-999fc301eab1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JYP의 러브콜을 받은 유아·장원영·조유리! 그 비결은 OO에 있다? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -305,12 +313,28 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/24/a42febf8-cf37-47e9-8eb8-0d87590f97cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이제 퍼스널 컬러가 아니라 ‘퍼스널 골격’ 진단이 유행이라고?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72624</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72624</guid>
-            <pubDate>Wed, 30 Nov 2022 04:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[윤아, 조이, 리사, 안유진 등 스타들의 퍼스널 체형.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/23/55ebe294-12eb-450c-abaf-d147e1f6ebfd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[품절 대란! 한소희•송혜교도 내돈내산 했다는 생일 필수템?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/72848</link>
+            <guid>https://www.cosmopolitan.co.kr/article/72848</guid>
+            <pubDate>Thu, 01 Dec 2022 20:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[한소희부터 김혜수까지, 품절 대란에도 포기할 수 없는 공주 세트 착샷.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/60540759-9bb8-47f1-8a6e-92a7295f15b4.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[SINCE 1993, 청룡은 김혜수다! 김혜수의 역대 레전드 드레스 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/72846</link>
+            <guid>https://www.cosmopolitan.co.kr/article/72846</guid>
+            <pubDate>Thu, 01 Dec 2022 20:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[올해로 29년째, 함께 진행한 남성 MC 12명. 탁월한 진행과 공감능력만큼이나 화제가 된 김혜수...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/0380e6d6-0b12-45cd-8796-5fa9ae12d6aa.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 ‘김고은’이 노래 연기를 하다 운 사연은?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/72844</link>
+            <guid>https://www.cosmopolitan.co.kr/article/72844</guid>
+            <pubDate>Thu, 01 Dec 2022 20:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[충무로 기대작 &lt;영웅&gt;의 이모저모]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/265853bf-79dc-479b-ba7a-985180ff35e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피부 광난다, 광나! 여자 배우들이 쓰는 ‘강추’하는 이것? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -351,30 +375,6 @@
             <pubDate>Wed, 30 Nov 2022 04:14:57 GMT</pubDate>
             <content:encoded><![CDATA[중독성 있는 사운드 퀸, Red velvet과 ITZY 컴백에 뭔가 특별함이 느껴진다?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/29755ec4-d5ac-491b-8e7d-db82c1c28dfb.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[범죄 도시 제작진이 만든 뷰티 도시는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72820</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72820</guid>
-            <pubDate>Wed, 30 Nov 2022 04:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[마블리 액션이 구강 액션으로 펼쳐진다는 대환장 코미디 &lt;압꾸정&gt;의 관전 포인트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/172b1b73-93b6-4e18-a5a6-522e23a60c7e.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 문소리, 10.29 이태원 참사 희생자인 스태프를 향한 수상소감? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72817</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72817</guid>
-            <pubDate>Wed, 30 Nov 2022 04:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[탕웨이의 눈물, 문소리의 애도, 김혜수의 위로, 제43회 청룡영화상 감동의 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/45dd48b9-c0cd-4098-8643-7d7b8392a73f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[털신 진화론? 어그 말고, 퍼 메리제인! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72795</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72795</guid>
-            <pubDate>Tue, 29 Nov 2022 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[옷 좀 입는 셀럽들은 요즘 이런 퍼 슈즈 신더라~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/61878c3e-e930-40b3-adb7-99626aa91583.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA['원샷원킬'로 끝낼 수 있는 성감대 스폿 최종판! (코스모폴리탄 코리아 ─ 러브)]]></title>
