@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 09:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 10:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글렌피딕이라는 낭만]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34899111&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34899111&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 05 Dec 2022 10:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[글렌피딕과 함께하는 시간에 낭만이 흐른다.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/72594SWEET NIGHT]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfMTk1/MDAxNjY5NjA5MzMwODcw.xZDUMZwdjZ_KVUuvWQofjAv6co7FrnlVCK0lyQpH9G4g.1Ch8MzqwWvKDf54rGM7IPBIbKUqm2lZiopF6vgqnqj0g.JPEG/IfTCwBU18VCADEDAENoUxxPHVVcw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그를 위한 완벽한 선물, 랩 시리즈]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34897369&amp;memberNo=11800362</link>
@@ -173,16 +181,6 @@
             <pubDate>Thu, 17 Nov 2022 08:15:08 GMT</pubDate>
             <content:encoded><![CDATA[좋은 건 같이 먹으라고 배웠습니다!▼ 클릭 ▼아차산 신토불이 떡볶이일명 한지민 떡볶이로 유명한 아차산 신토불이 떡볶이! 작은 가게로 시작했지만 나날이 인기를 더해 맞은편에 포장 전문 매장을 새로 오픈했을 정···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfNzIg/MDAxNjY4NjcyNjk2MzI1.hUoLLljpn6s4ZGVz5qgS_9knX2XQ5GqANSw4acpPEbMg.J06mapCs5hKZvGo9Buglh2tTMlabtNfnq1Z7hpmOWNkg.JPEG/IjRpbw9xYN_gzvlTSu3EO3RnupUk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 찰떡일 수가! 
-뷰티 브랜드의 뉴 페이스로 
-발탁된 걸그룹 멤버들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34801024&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34801024&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[먼저 데려가는 곳이 승자! 제니·카즈하·안유진을 모델로 발탁한 안목 좋은 뷰티 브랜드는 어디?▼ 클릭 ▼카즈하 X 에뛰드 4세대 걸그룹 중 비주얼로는 원 톱인 르세라핌 카즈하. 수지와 김고은을 조화···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTZfMjU0/MDAxNjY4NTkyODMwMzUz.HqoscmNIF09ZhPuAuTeB3Q4f3wx_5vICbD9ge1Cq7zUg.mZikJBjD6ENLO8zSPXAiwNn558ykz_fPMiwh4U5LZrcg.JPEG/I5GAvdmQulij_49LLURNOBCcNfEY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
