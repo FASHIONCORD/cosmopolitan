@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 02:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 03:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애주가라고 소문난 니콜이 술 살 없이 ‘45kg’을 유지하는 비결은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73123</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73123</guid>
+            <pubDate>Tue, 06 Dec 2022 03:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[쏙쏙 숨은 군살까지 빼고 싶다면 니콜의 관리법에 주목해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/05/5abf608f-6951-4c00-b1c7-25b5d0796819.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안중근은 거절할게? 일본의 현빈 패싱 기류, 진짜일까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73117</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73117</guid>
+            <pubDate>Tue, 06 Dec 2022 03:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;하얼빈&gt;에서 안중근 의사를 맡아 일본에서 패싱되고 있다는 현빈. 팩트일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/05/8fcf9ad5-e80c-470d-8c75-fdaf96a20e4f.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[요즘 여돌이 사랑하는 영롱한 ‘그것!’]]></title>
             <link>https://www.cosmopolitan.co.kr/article/73115</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 05 Dec 2022 22:11:44 GMT</pubDate>
             <content:encoded><![CDATA[놓쳐서는 안 될 2023년 내한 공연 라인업!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/650df4ed-9602-460d-975f-7084dc0565d9.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴이 요~만해 보이는 걸그룹 애착 헤어는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72893</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72893</guid>
-            <pubDate>Mon, 05 Dec 2022 22:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[제니, 다니엘, 레이, 슬기의 유니크한 헤어 비법은 바로~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/69f10ab0-bc47-406a-aa15-bb47623e0fc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한효주의 도전]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72892</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72892</guid>
-            <pubDate>Mon, 05 Dec 2022 22:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[한효주는 도전한다. 태닝을 하고, 주근깨를 그리고, 액션에 몸을 사리지 않는다. 무시무시한 악역...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/e776385a-ac74-44e5-b11a-ca6fc5da3405.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
