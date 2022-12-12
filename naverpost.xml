@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 04:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 05:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주얼리 그 이상의 쇼메]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34938666&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34938666&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 12 Dec 2022 05:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[시선을 사로잡는 쇼메의 품격.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73248TWINKLE]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTJfMjg2/MDAxNjcwODE4NTU5MDgw.srSyGAPNdmmxr7zJl1C8i7Gd9smWTsaDCsMThXh4lxYg.1wndDR5b92XeM567DxvOmayC4wtJWgKvsDpc87fVoTkg.JPEG/I7V9EuNLznTAgE1BuYKNeOBkrGTY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 코스모 뷰티 어워즈, 
 당당히 1위를 차지한 
@@ -162,14 +170,6 @@
             <pubDate>Mon, 05 Dec 2022 10:10:51 GMT</pubDate>
             <content:encoded><![CDATA[글렌피딕과 함께하는 시간에 낭만이 흐른다.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/72594SWEET NIGHT]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfMTk1/MDAxNjY5NjA5MzMwODcw.xZDUMZwdjZ_KVUuvWQofjAv6co7FrnlVCK0lyQpH9G4g.1Ch8MzqwWvKDf54rGM7IPBIbKUqm2lZiopF6vgqnqj0g.JPEG/IfTCwBU18VCADEDAENoUxxPHVVcw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그를 위한 완벽한 선물, 랩 시리즈]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34897369&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34897369&amp;memberNo=11800362</guid>
-            <pubDate>Mon, 05 Dec 2022 06:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[겨울철 피부를 화사하게 가꿔줄 랩 시리즈 데일리 그루밍 아이템. ▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73100THE SPECIAL BLUE]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDVfMjIg/MDAxNjcwMjIwMTEyMTA4.CVa_GTHJ8mrtgHRn5coaN-BY5kV87fL_BjGFG93h9c4g.Th0aSTCoaEnbIZPYfX-kggw4fQhVFM0u1CV_a5Wz3dgg.JPEG/IeAniBIoW08xCtmd10jlxjMPFX2A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
