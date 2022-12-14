@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 03:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 04:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울에 더 맛있는 인싸 ‘아이스크림’]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34953476&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34953476&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 14 Dec 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[편의점 아이스크림 중 내가 제일 잘나가.▼ 클릭 ▼인싸 맥주 느낌 가득 #버터콘품절 대란 버터 맥주 브랜드 브랑제리 뵈르의 편의점 점령기. 버터 캐러멜과 버터 체다치즈 두 가지 맛으로 토핑이 많고 진한 맛 덕분에···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTRfNTQg/MDAxNjcwOTkwNzY0MzQ5.Xz9qL8XBndz8MFggwT89kAAxc5e_dGmnFZH08Jvk9WAg.ugqk1uH-U3h2y987z_k7bziLTUJj5LXm9Wi0tuEV3P0g.JPEG/IWUpL3H6BW-Eo8Jm44JDMDUX72KY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커플 워치를 찾는다면?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34952093&amp;memberNo=11800362</link>
@@ -163,14 +171,6 @@
             <pubDate>Tue, 06 Dec 2022 08:12:43 GMT</pubDate>
             <content:encoded><![CDATA[듀엠으로 완성하는 속부터 차오르는 나만의 빛.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73152MY OWN LIGHT]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfMjUw/MDAxNjY5NjE2NTY0ODQ2.JQhPwAGiqMHh0cHSQaKcM5gPKf_94IG2PWLz8ckZ9Lkg.DhLggXHUAvHaBlpo621f04kKlZNfbrD-1REs2NRXEJ0g.JPEG/I8CklpruDus3SJOqfziUi_C7cDAE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별을 꿈꾸는 시간]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34903849&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34903849&amp;memberNo=11800362</guid>
-            <pubDate>Tue, 06 Dec 2022 07:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[마르니와 우주를 유영하다.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/72857DREAM OF STARS]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDZfMTE2/MDAxNjcwMjkwMTc0MTAz.VHUYYQpzxsGKAAuCn36XgqdR33vf0bIaEYCkbW8JbcAg.rusLSRD7pJS1giDCw5qzV3deayFnLLu7jbfJAWmhoEsg.JPEG/IXFyi8PDJKyZN4xFchEDbmFGoYjc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
