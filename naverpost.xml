@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 09:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 10:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디서나 시선을 사로 잡는 휴대폰 케이스]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34970766&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34970766&amp;memberNo=11800362</guid>
+            <pubDate>Fri, 16 Dec 2022 10:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[케이스티파이 하나로 주인공이 되다.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73275POP!]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMjIz/MDAxNjcwOTEwNDU4MjM5.DL8aXuuMHnuTFqcrGOS04hUmtXpI09dQSTkXnRqgM3Mg.kFL2VrwvOGTsxtFLDTCFHkJhKkwxK8FSxNxhoMLbFdIg.JPEG/I5JdCD4z0M-JBrz8Q2I24cG3hTkc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홀리데이에 더욱 반짝이는 다미아니라는 별]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34969960&amp;memberNo=11800362</link>
@@ -163,14 +171,6 @@
             <pubDate>Thu, 08 Dec 2022 06:12:40 GMT</pubDate>
             <content:encoded><![CDATA[꼬달리가 빚어낸 티 없이 맑고 깨끗한 피부.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/72813CLEAN BEAUTY]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfMTQ3/MDAxNjY5NjAzMDMxMDUx.1p88ci2S677MhRzWtanvw3Q5tbVm45j-VeZnrXsbX_Qg.8K7BhYj_jZzUaqgFbUMoaUHejwyI9RB_igkO6J-IWtwg.JPEG/IeCR_JcH5B6rlXf2wwRg5YdPYZzg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔망루피 홀로 집에]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34916812&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34916812&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 08 Dec 2022 06:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[혼자여도 괜찮아! 마이클코어스가 있으니까.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73195HOME ALONE]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDhfMTgw/MDAxNjcwNDc4MzY4Mzc3.kN6WtPkwCdpR9AqqlnyNW05UJokDoNx_tj9BAZF-6XEg.PM4grnVE5UE3fBAQEi2kItxp_z9Xgy1y7_M0oOkdfmAg.JPEG/ILink4-C4BLdtQ2R0k-0ey1umKgQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
