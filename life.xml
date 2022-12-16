@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 16:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 17:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민 게임 ‘카트라이더’, 18년 만에 서비스 종료 확정]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73421</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73421</guid>
+            <pubDate>Fri, 16 Dec 2022 17:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[굿바이, 카트라이더.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/3c6894ac-43f7-4ebb-8e90-18bb359b7854.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여기어때! 마츠다부장님이 찾은 한국술맛집]]></title>
             <link>https://www.cosmopolitan.co.kr/article/73415</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 15 Dec 2022 11:16:59 GMT</pubDate>
             <content:encoded><![CDATA[축제가 끝났어도 바쁘다 바빠~~~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/92120519-b59c-4a5f-bec2-3eaeeb655b57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#조규성 보유클럽]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73349</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73349</guid>
-            <pubDate>Thu, 15 Dec 2022 11:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[전북현대 SNS 연어질 좀 해봤지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/fd05eb29-20bd-45df-98c5-5497d9683b87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
