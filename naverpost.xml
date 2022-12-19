@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 03:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 04:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리데이를 위한 피부 관리의 시작]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34983755&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34983755&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 19 Dec 2022 04:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[비디비치 스킨 일루미네이션으로 완성하는 장밋빛 피부.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/72907A BRIGHT DAY WITH ROSY SKIN]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMTcg/MDAxNjcwOTEwNTk2NDA4.yMmFUNmuywWQXsfnqY57GRAKLaFXYlYBE3K1Im5Q5jQg.giBVGR9bJ-q7CMHARIxHEKHF1bnwmlvDiy4WWbScmrQg.JPEG/IgOs-uvVkIw2rl0tTRHQ-eNQkL_c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 코스모 뷰티 어워즈, 
 1위를 수상한 베스트 오브 베스트 
@@ -166,14 +174,6 @@
             <pubDate>Fri, 09 Dec 2022 02:20:18 GMT</pubDate>
             <content:encoded><![CDATA[스파오 푸퍼 하나면 매서운 추위도 무섭지 않다.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73235FULL OF WARMTH]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDlfMTQz/MDAxNjcwNTQ5MDI1NjQ0.ax8mf80gB83nsNi_Q2KNoGDekb2oWOGOpm2dxtrZSzEg.RGfOKitRz2wZ1rFDI8bEhYbsnirMC6q2f-SCnpY4Gv8g.JPEG/IrNrmcPpSOhXcsH1vduWDJ1xWFPw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안나수이라는 판타지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34918352&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34918352&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 08 Dec 2022 09:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[신비로운 미드 나잇, 안나수이 홀리데이 컬렉션.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73010TOUCH BY ILLUMINATION]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjVfODEg/MDAxNjY5MzYwNTE4MzAw.njYYJhle7v9XdXuX68hbI3g0OERfEt3FqpeWdzJqtrEg.MoSVTffgGow9ujQ83FKd1SFcVFgW5AGGBY2JfIBsBNQg.JPEG/Ir2T8340GaUR5tsSQct2dYXgYOwg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
