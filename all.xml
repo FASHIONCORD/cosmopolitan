@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 02:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 02:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/936ac77f-8071-4bf6-b7fc-295adb3580cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제니•보아•뉴진스의 요즘 땋은 머리! ‘베이비 브레이드’ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73543</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73543</guid>
+            <pubDate>Sat, 24 Dec 2022 02:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 대세는 베이비 브레이드 헤어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/20/cfe52121-0b34-4f57-844b-d0eb8c6a0b40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[입 속까지 마사지? 모델 한혜진의 뷰티 루틴 따라잡기 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/73517</link>
             <guid>https://www.cosmopolitan.co.kr/article/73517</guid>
@@ -292,14 +300,6 @@
             <pubDate>Mon, 19 Dec 2022 20:12:19 GMT</pubDate>
             <content:encoded><![CDATA[눈부신 별이 쏟아지는 듯 홀리데이 무드로 가득한 크리스챤 디올 뷰티, &lt;꿈의 아뜰리에&gt; 팝업에...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/36ce7ead-4251-4d82-9450-3af010033ab9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOZM 앞머리 국룰 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73427</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73427</guid>
-            <pubDate>Mon, 19 Dec 2022 20:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[갸름하거나 날렵하거나!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/7e9e22eb-d12e-4a65-a0bd-fea2957d5785.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[정수정·전소미·예지의 메이크업에 공통점이 있다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
