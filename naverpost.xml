@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 07:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 08:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검은 토끼띠 2023년! 
+달라지는 것들은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35064613&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35064613&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 02 Jan 2023 08:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[내년엔 지금보다 좀 더 나아지겠지!?▼ 클릭 ▼최저시급 5% 인상2023년 최저시급은 2022년 9160원에서 5% 오른 9620원이다. 주 40시간, 휴일 근무 빼고 월 209시간 일한다고 가정했을 때 191만원이었던 월급이 201만원···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDJfMjgx/MDAxNjcyNjQ0MjQzOTEz.I56wDi8VhXUOoT7KXXxdUfKxqc8BtUZuK2Pq-y6s38Ig.GsgiQVGWgjdx4fq6YLftsofq_t76ywr2pfFgmyqAPPog.JPEG/IZP2GRs-UiTlNjJaykFk3lKoo_GM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또 해냈다 효리언니의 캐나다 체크인]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35013137&amp;memberNo=11800362</link>
@@ -164,14 +173,6 @@
             <pubDate>Wed, 14 Dec 2022 02:19:20 GMT</pubDate>
             <content:encoded><![CDATA[페라가모 워치로 통하는 우리만의 시간.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73254TIME WITH YOU]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTRfMTEg/MDAxNjcwOTgwOTgzNDg5.Pzdpbq9Lo2XD6Cn5UfK-n6prWDHllvSH7S-0nJoXbCEg.K8lpOHm5iUTPlMN2sqYqYoj13jE77rIlRQPA1Al5dFMg.JPEG/ItPupobU36SLBfPcw40nNSdEZrp0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완벽한 홀리데이 기프트를 찾는다면?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34947842&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34947842&amp;memberNo=11800362</guid>
-            <pubDate>Tue, 13 Dec 2022 08:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[머리끝부터 발끝까지, 라부르켓 홀리데이 에디션과 함께하는 힐링 타임.▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/73355HEALTHY GLOW]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMzAw/MDAxNjcwODk5NTMyNDc3.1gC9W_MGXy9ejxPOpjXa-tV4CNj5vIUauyKR5R9113kg.y_5XeslGjshvPGp4kt0p9-Q8cVT-AP4wwsVF0G2i0Eog.JPEG/I81vNpBMXNDM5nPr-GXszeRLA6lQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
