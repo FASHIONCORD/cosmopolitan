@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 21:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 22:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어트 성공각?! SNS 핫템 칼로리 컷팅제와 효소의 효과는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73949</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73949</guid>
+            <pubDate>Sat, 07 Jan 2023 22:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[새해 다이어트가 작심삼일이 되지 않도록 도와줄 수 있을지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/03/d94de4d3-89d6-49fd-827a-3c30bc018ac3.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[장원영∙조이∙허윤진처럼 ‘왕’ 큰 액세서리로 ‘왕’ 예뻐지는 법?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/73924</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 Jan 2023 23:11:14 GMT</pubDate>
             <content:encoded><![CDATA[이번 연말, 리본만 있다면 누구나 인싸 될 수 있어!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/02/f6f01554-f20c-446c-b167-d60d5a64d876.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<재벌집 막내아들> 박지현이 78kg였다고!?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73726</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73726</guid>
-            <pubDate>Mon, 02 Jan 2023 23:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[그녀가 78kg 확찐자에서 확뺀자로 바뀔 수 있던 비결!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/26/ae8355bd-ac1a-4db5-840e-d53c0d1f2f5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
