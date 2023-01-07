@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 03:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 04:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장원영∙조이∙허윤진처럼 ‘왕’ 큰 액세서리로 ‘왕’ 예뻐지는 법?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73924</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73924</guid>
+            <pubDate>Sat, 07 Jan 2023 04:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[무심한 헤어 스타일에 이것만 툭~ 얹으면 시선 집중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/03/14da9d92-627c-4713-a52b-0fb2c4c94921.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 남자 셀렙이 푹 빠진 ‘이것’은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73885</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73885</guid>
+            <pubDate>Sat, 07 Jan 2023 04:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[손 끝까지 아름답게 가꾸는 남자들!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/02/8e56201a-e8b4-47b5-8d97-26fef83f1df9.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[새로운 해, 립 제스처에 긍정적 바이브를 더해줄 '샤넬 루쥬 알뤼르 벨벳']]></title>
             <link>https://www.cosmopolitan.co.kr/article/73865</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 02 Jan 2023 23:11:14 GMT</pubDate>
             <content:encoded><![CDATA[그녀가 78kg 확찐자에서 확뺀자로 바뀔 수 있던 비결!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/26/ae8355bd-ac1a-4db5-840e-d53c0d1f2f5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화장으로도 가려지지 않는 모공? Y자 모공의 모든 것]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73644</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73644</guid>
-            <pubDate>Mon, 02 Jan 2023 23:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[화장을 하면 할수록 도드라지는 프로 ‘모공러’들 모여라! 이제는 모공 크기가 아닌 모양에 집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/23/3dd8085f-9db4-4bb9-ab34-95ef12ccb5bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해엔 페이스 다이어트? 느슨해진 얼굴에 긴장감을 줘!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73591</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73591</guid>
-            <pubDate>Mon, 02 Jan 2023 23:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[방탄 진이 먹는다는 이 약. 얼굴 부기부터 코로나 예방까지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/21/5cd6e702-cffb-445d-9c0c-54a52fa08de1.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
