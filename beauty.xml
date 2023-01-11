@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 15:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 16:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[촉촉 립 VS 블러 립! 요즘 핫한 셀럽들의 립 메이크업 치트키는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74095</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74095</guid>
+            <pubDate>Wed, 11 Jan 2023 16:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[시도해보고 싶은 립 메이크업은 어느 쪽?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/304a9600-b2b4-4a84-8c79-70e1790f29bd.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[다이어터 필독! 닭가슴살 소시지 성분 팩트 체크!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74091</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74091</guid>
+            <pubDate>Wed, 11 Jan 2023 16:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[속세의 맛, 닭가슴살 소시지의 정체는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/8e47883c-3d24-4f29-a1ea-f5968769c110.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 네일 어때요? 귀염 뽀짝 깜찍한 네일 디자인 추천!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/73932</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 11 Jan 2023 00:46:52 GMT</pubDate>
             <content:encoded><![CDATA[무대부터 메이크업까지 모든 게 완벽했다는 ‘토끼즈’에 푹 빠져볼 차례!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/03/2d2b3c34-81f3-421b-893a-5bbab90de07f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 성공각?! SNS 핫템 칼로리 컷팅제와 효소의 효과는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73949</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73949</guid>
-            <pubDate>Sat, 07 Jan 2023 22:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[새해 다이어트가 작심삼일이 되지 않도록 도와줄 수 있을지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/03/d94de4d3-89d6-49fd-827a-3c30bc018ac3.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[장원영∙조이∙허윤진처럼 ‘왕’ 큰 액세서리로 ‘왕’ 예뻐지는 법?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73924</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73924</guid>
-            <pubDate>Sat, 07 Jan 2023 04:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[무심한 헤어 스타일에 이것만 툭~ 얹으면 시선 집중!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/03/14da9d92-627c-4713-a52b-0fb2c4c94921.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
