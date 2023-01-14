@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 07:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 08:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -244,6 +244,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/21/4339ae2e-04d1-4ef0-85c0-e66891135eaf.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[주먹만 한 얼굴로 변신할 수 있다!? 부승관의 얼굴형 관리법 스포!! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74107</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74107</guid>
+            <pubDate>Sat, 14 Jan 2023 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[엄격한 자기관리러 부승관의 스킨케어 방법 대공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/a32e7288-588f-409c-a6a9-3fa9bad53acf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송혜교·고민시·수영으로 보는 2023년 헤어 트렌드는!? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74106</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74106</guid>
+            <pubDate>Sat, 14 Jan 2023 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[이들처럼 단발로 싹둑 자르고, 인싸 버스 첫차 탑승해보는 것 어떨까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/1c1bf0d4-6ddc-4ad7-bbcf-64f46badd464.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[촉촉 립 VS 블러 립! 요즘 핫한 셀럽들의 립 메이크업 치트키는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/74095</link>
             <guid>https://www.cosmopolitan.co.kr/article/74095</guid>
@@ -290,22 +306,6 @@
             <pubDate>Wed, 11 Jan 2023 00:46:52 GMT</pubDate>
             <content:encoded><![CDATA[이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/17b1bc37-ba7f-4c9a-b6b6-48d72847ad18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반전 매력 뿜뿜~. 존재 자체로 설레는 신상 겨울 향수 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73922</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73922</guid>
-            <pubDate>Wed, 11 Jan 2023 00:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/04/384d9ab4-ed9b-4f0a-ab7f-a9a38c64172e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아린·최예나·츄가 ‘토끼즈’로 뭉친 이유는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73951</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73951</guid>
-            <pubDate>Sat, 07 Jan 2023 04:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[무대부터 메이크업까지 모든 게 완벽했다는 ‘토끼즈’에 푹 빠져볼 차례!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/03/2d2b3c34-81f3-421b-893a-5bbab90de07f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달랏 안 가봤으면 MZ 아니다? 나혼산 팜유즈도 반한 달랏! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
