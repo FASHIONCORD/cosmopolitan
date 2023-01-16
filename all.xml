@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 20:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 21:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -243,6 +243,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/08/7ce2d06c-1d0f-400f-85fc-1732da911d71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빈티 작렬 모발과 세굿바~. 건강한 두피 케어 TIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74124</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74124</guid>
+            <pubDate>Mon, 16 Jan 2023 21:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[본투비 헤어 흙수저로 살고 싶지 않다면 빽빽한 모발로 뒤덮인 두피부터 세심히 들여다볼 것. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/11/ea8a0c99-1203-4df4-8230-7abd29cf5fc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주먹만 한 얼굴로 변신할 수 있다!? 부승관의 얼굴형 관리법 스포!! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/74107</link>
             <guid>https://www.cosmopolitan.co.kr/article/74107</guid>
@@ -297,14 +305,6 @@
             <pubDate>Wed, 11 Jan 2023 00:46:52 GMT</pubDate>
             <content:encoded><![CDATA[거친 터치, 시각적 자극을 주는 컬러, 상식을 벗어난 디자인이 주를 이루며, 그 어느 때보다 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/07/de0515a0-00e0-4b64-a81d-0e2be30be77d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰랑찰랑! 고급진 머릿결을 만들어줄 럭셔리 헤어템 추천 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73925</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73925</guid>
-            <pubDate>Wed, 11 Jan 2023 00:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/17b1bc37-ba7f-4c9a-b6b6-48d72847ad18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달랏 안 가봤으면 MZ 아니다? 나혼산 팜유즈도 반한 달랏! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
