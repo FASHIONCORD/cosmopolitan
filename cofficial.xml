@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 05:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 06:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#조규성 보유클럽]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73349</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73349</guid>
+            <pubDate>Fri, 20 Jan 2023 06:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[전북현대 SNS 연어질 좀 해봤지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/fd05eb29-20bd-45df-98c5-5497d9683b87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기 센 손흥민, 인터뷰 모음ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73216</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73216</guid>
+            <pubDate>Fri, 20 Jan 2023 06:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[인터뷰할 때 눈빛부터 바뀌는 우리의 캡틴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/07/426765c8-ad0a-44c4-a6c6-26fb0f92d398.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[축구복 벗으니까 오히려 좋아!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/73215</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 17 Dec 2022 18:20:29 GMT</pubDate>
             <content:encoded><![CDATA[축구보다 더 눈길이 가는 건 어쩔수 없다는.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/ae01376b-8d08-49dd-b240-756dd5089020.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[월드컵 대혜자, 축구 안 보고 얼굴만 본 사람 손!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72769</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72769</guid>
-            <pubDate>Sat, 17 Dec 2022 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[본 건 월드컵인데 남는 건 훈훈한 얼굴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/a0ce54c6-71e4-453a-a47b-3a327a242acb.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민이 태극 문양이 아닌 ‘배트맨 검은색 마스크’를 쓰게 된 사연?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72620</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72620</guid>
-            <pubDate>Sat, 17 Dec 2022 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[토트넘 제작 검은 마스크를 쓰고 카타르에 간 캡틴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/24/1842c412-6bcd-42af-a294-7dfba51dcfee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
