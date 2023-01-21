@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 12:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 13:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,6 +242,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/08/7ce2d06c-1d0f-400f-85fc-1732da911d71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<더 글로리> 하도영, 이게 8주 만에 만든 몸이라고?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74268</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74268</guid>
+            <pubDate>Sat, 21 Jan 2023 13:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[박연진 남편 역 하도영의 #8주간의기적]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/11bd3a78-e380-470f-b10b-38796547b8f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자기관리 끝판왕, 한혜진이 알려주는 초보 헬린이 운동루틴 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/74267</link>
             <guid>https://www.cosmopolitan.co.kr/article/74267</guid>
@@ -296,14 +304,6 @@
             <pubDate>Mon, 16 Jan 2023 21:10:38 GMT</pubDate>
             <content:encoded><![CDATA[본투비 헤어 흙수저로 살고 싶지 않다면 빽빽한 모발로 뒤덮인 두피부터 세심히 들여다볼 것. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/11/ea8a0c99-1203-4df4-8230-7abd29cf5fc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주먹만 한 얼굴로 변신할 수 있다!? 부승관의 얼굴형 관리법 스포!! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74107</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74107</guid>
-            <pubDate>Sat, 14 Jan 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[엄격한 자기관리러 부승관의 스킨케어 방법 대공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/a32e7288-588f-409c-a6a9-3fa9bad53acf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달랏 안 가봤으면 MZ 아니다? 나혼산 팜유즈도 반한 달랏! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -434,68 +434,68 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/b995e542-7b9b-4b62-a6a3-a1aedacd5463.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국 미술시장이 사상 최초로 1조원을 돌파했다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74147</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74147</guid>
-            <pubDate>Mon, 16 Jan 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[역시 재테크 중 재테크는 아트테크!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/11/cd5b5fa3-6106-463e-8b3c-2e2a0ab2f38d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[현규해은을 잇는 커플은 누구? 현커 인증한 <러브캐처 인 발리> 수로 태은 커플 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74296</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74296</guid>
+            <pubDate>Sat, 21 Jan 2023 13:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[완벽한 서사를 쌓고, 현재까지도 잘 지내고 있다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/34ef4bb9-622b-445b-8ff7-9118cbf6fd9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘참치 오마카세’ 먹는 삶, 제법 행복하네! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74142</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74142</guid>
-            <pubDate>Mon, 16 Jan 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[‘참치’는 ‘참치’마요~ 예약 필수 ‘참치 오마카세’ 맛집 3]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/11/4556e684-ee34-4682-91b5-8a536011e4c0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[올해도 집.콕 예약! 티저부터 난리 난 드라마 신작 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74283</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74283</guid>
+            <pubDate>Sat, 21 Jan 2023 13:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[이번 달도 외출하긴 틀렸어요~. 과몰입 유발할 신작 드라마 4편만 추렸다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/56a54696-0911-4ad3-b8fa-2efc7c8f2e49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[저장 필수! 국내 최초 ‘종이 복합문화공간’이 생긴다?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74112</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74112</guid>
-            <pubDate>Mon, 16 Jan 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 3,400가지 종이를 만나볼 수 있는 ‘더페이퍼랩’.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/920ebc3d-ee17-4c53-97ef-e2655a73ab88.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[나 지금 일본인가? 찐-하게 타주는 하이볼 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74277</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74277</guid>
+            <pubDate>Sat, 21 Jan 2023 13:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도면 걸어서 일본 간 너낌쓰!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/7832a2ec-1749-4663-be3e-6fc589da2737.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제80회 골든 글로브 비영어 작품상, 헤.어.질.결.심?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74103</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74103</guid>
-            <pubDate>Mon, 16 Jan 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[타는구나 마.침.내? 골든 글로브 받고 아카데미 가보자고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/9628896d-a274-47b6-80bf-7f48e95e36f1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[글로벌 재벌 빌 게이츠는 이 ‘폰’을 쓴다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74276</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74276</guid>
+            <pubDate>Sat, 21 Jan 2023 13:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[그것도 심지어 JY가 직접 선물했다던데!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/30d4dcd6-32b1-4767-bf71-eda7c676de66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무조건 킹정 받는 겨울 여행지 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74100</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74100</guid>
-            <pubDate>Mon, 16 Jan 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[겨울 여행 쫌 다녀봤다고 모두에게 킹정 받는 겨울 여행 코스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/6eedf500-957f-4dd2-8f59-b47954e1e1bf.gif" length="0" type="image/gif"/>
+            <title><![CDATA[찐은 달라! 입천장 안 까지는 바게트 맛집 뿌시기 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74275</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74275</guid>
+            <pubDate>Sat, 21 Jan 2023 13:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[비슷하게 생겼어도 다같은 바게트가 아니라고요~~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/8a0fc425-757d-4970-a573-1d514ec191b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새해 선물이 고민된다면? 가격대 별로 추천하는 설날 기프트5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74093</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74093</guid>
-            <pubDate>Mon, 16 Jan 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[가성비 ‘만렙’ 선물부터 센스 만점 선물까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/a1a6bb41-a9a0-4041-b415-2d7e70b07b2d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[설 음식 플렉스 좌표 드림! 지금 바로 주문하세요! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74272</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74272</guid>
+            <pubDate>Sat, 21 Jan 2023 13:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[1인 가족부터 대가족까지! 밀키트와 새벽배송으로 명절상 다~ 했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/b1eef1d8-25e7-43ea-b02a-bcbc7924ba57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미방분 포함! 개꿀잼 중독각 <나혼산> 팜유 먹투어! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74092</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74092</guid>
-            <pubDate>Mon, 16 Jan 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[팜유는 달랏을 뿌셔!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/67596d60-0d09-490d-a9fa-508d0bb3a023.gif" length="0" type="image/gif"/>
+            <title><![CDATA[효리언니도 반해버린 캐나다 여행 필수 코스 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74266</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74266</guid>
+            <pubDate>Sat, 21 Jan 2023 13:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[제주댁 효리 언니도 반해버린 캐나다, 함께 랜선여행 떠나볼까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/fb9365eb-db41-48d3-8cea-7113ca08d6b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다이어터 필독! 닭가슴살 소시지 성분 팩트 체크! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74091</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74091</guid>
-            <pubDate>Wed, 11 Jan 2023 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[속세의 맛, 닭가슴살 소시지의 정체는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/8e47883c-3d24-4f29-a1ea-f5968769c110.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[<더 글로리>의 주역! 박성훈·이도현·정성일·임지연의 차기작이 벌써 결정됐다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74262</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74262</guid>
+            <pubDate>Sat, 21 Jan 2023 13:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[드라마부터 영화, 뮤지컬까지 2023년은 &lt;더 글로리&gt; 멤버즈가 접수한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/76d9894a-c5a4-4fb7-bcec-ab5d9c450c22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#조규성 보유클럽 (코스모폴리탄 코리아 ─ 코피셜)]]></title>

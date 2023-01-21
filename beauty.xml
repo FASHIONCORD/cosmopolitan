@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 12:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 13:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 글로리> 하도영, 이게 8주 만에 만든 몸이라고?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74268</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74268</guid>
+            <pubDate>Sat, 21 Jan 2023 13:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[박연진 남편 역 하도영의 #8주간의기적]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/11bd3a78-e380-470f-b10b-38796547b8f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기관리 끝판왕, 한혜진이 알려주는 초보 헬린이 운동루틴]]></title>
             <link>https://www.cosmopolitan.co.kr/article/74267</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 16 Jan 2023 21:10:38 GMT</pubDate>
             <content:encoded><![CDATA[본투비 헤어 흙수저로 살고 싶지 않다면 빽빽한 모발로 뒤덮인 두피부터 세심히 들여다볼 것. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/11/ea8a0c99-1203-4df4-8230-7abd29cf5fc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주먹만 한 얼굴로 변신할 수 있다!? 부승관의 얼굴형 관리법 스포!!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74107</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74107</guid>
-            <pubDate>Sat, 14 Jan 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[엄격한 자기관리러 부승관의 스킨케어 방법 대공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/a32e7288-588f-409c-a6a9-3fa9bad53acf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
