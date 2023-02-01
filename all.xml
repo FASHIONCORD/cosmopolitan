@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 16:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 17:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,12 +233,28 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/15/03251b10-6a7d-4f27-8c73-d956c934dfa7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[펑키 수치 MAX! 걸그룹들이 즐겨하는 ‘이 헤어’ 나도 도전?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74674</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74674</guid>
+            <pubDate>Wed, 01 Feb 2023 17:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[찰랑이는 긴 생머리 그다음은 어떤 머리가 유행일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/fdf0d767-cbdf-4aa7-8ede-72109481a4ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입덕 버튼, 핑크 젤리돌 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74661</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74661</guid>
+            <pubDate>Wed, 01 Feb 2023 17:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[발바닥에 젤리 있을 것 같은 핑크 멍뭉미.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/ff9e3072-f80b-4b6a-b983-2e5fe4d3de05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더블랙레이블 택한 박보검, 요즘 비주얼 리즈찍은 이유? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/74653</link>
             <guid>https://www.cosmopolitan.co.kr/article/74653</guid>
             <pubDate>Tue, 31 Jan 2023 16:14:50 GMT</pubDate>
             <content:encoded><![CDATA[요즘 비주얼 미쳤다는 평가 듣는 박보검. 그 이유를 분석해봤습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/e2fbbeaa-be8e-43eb-8372-3128b081c8fa.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/e2fbbeaa-be8e-43eb-8372-3128b081c8fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[깜빡 속았네! 요즘 여돌들은 스타일링을 할 때 ‘가발’을 이용한다고!? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -279,22 +295,6 @@
             <pubDate>Tue, 31 Jan 2023 16:14:50 GMT</pubDate>
             <content:encoded><![CDATA[이게 바로 레전드 몸매 유지 방법?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/08e09999-8fce-48c0-b793-252ff6776c85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 김성희 몸매를 만든 찐템? 이거 뭐예요? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74612</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74612</guid>
-            <pubDate>Tue, 31 Jan 2023 16:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티템부터 알콜템까지 다 공개했네!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/205b124c-138a-4413-afea-6e94ce3f883e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있으면 요긴한 쓸모없….지 않은템! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74515</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74515</guid>
-            <pubDate>Tue, 31 Jan 2023 13:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[한번 사용하면 헤어나기 힘든 개미지옥.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/26/c5053323-f409-43c7-a794-773ab70d0fa4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포경 산업 비판해서 보이콧? 일본에서 외면 받는 <아바타> 2 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
