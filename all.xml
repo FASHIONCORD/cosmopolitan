@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 22:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 23:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/15/03251b10-6a7d-4f27-8c73-d956c934dfa7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BACK TO THE 90’S! OO 립 메이크업이 다시 유행한다? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74679</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74679</guid>
+            <pubDate>Thu, 02 Feb 2023 23:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[90년대를 풍미했던 또렷한 립 라인, 더 이상 촌스럽지 않다! 유행 타고 다시 돌아온 밀레니얼 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/cf44eb96-8de9-42cd-bcee-a91c491a0923.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[펑키 수치 MAX! 걸그룹들이 즐겨하는 ‘이 헤어’ 나도 도전?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/74674</link>
             <guid>https://www.cosmopolitan.co.kr/article/74674</guid>
@@ -286,14 +294,6 @@
             <pubDate>Tue, 31 Jan 2023 13:30:41 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 ‘근’징어게임이라던데!!!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/1f6d9025-1fb9-4775-a048-dff6610f9954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 장윤주는 ‘000 다이어트’를 한다고? 식단일기 대공개! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74613</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74613</guid>
-            <pubDate>Tue, 31 Jan 2023 16:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[이게 바로 레전드 몸매 유지 방법?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/08e09999-8fce-48c0-b793-252ff6776c85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포경 산업 비판해서 보이콧? 일본에서 외면 받는 <아바타> 2 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
