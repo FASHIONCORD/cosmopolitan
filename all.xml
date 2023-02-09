@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 12:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 13:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,6 +483,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/5aa19907-7e86-46ec-8586-57a99f1d1090.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[월드컵 16강 진출 후, 국대 최신 근황은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/73365</link>
+            <guid>https://www.cosmopolitan.co.kr/article/73365</guid>
+            <pubDate>Thu, 09 Feb 2023 13:30:44 GMT</pubDate>
+            <content:encoded><![CDATA[축제가 끝났어도 바쁘다 바빠~~~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/92120519-b59c-4a5f-bec2-3eaeeb655b57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#조규성 보유클럽 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/73349</link>
             <guid>https://www.cosmopolitan.co.kr/article/73349</guid>
@@ -537,14 +545,6 @@
             <pubDate>Sat, 17 Dec 2022 18:20:29 GMT</pubDate>
             <content:encoded><![CDATA[연예계 의외의 인맥이 +1 됐습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/06/738fac48-6fcb-471a-a2dc-4f5029844dbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카타르 월드컵이 아니라 이상형 월드컵? 시선강탈한 감독들 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72767</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72767</guid>
-            <pubDate>Sat, 17 Dec 2022 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[축구보다 더 눈길이 가는 건 어쩔수 없다는.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/ae01376b-8d08-49dd-b240-756dd5089020.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
