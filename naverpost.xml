@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-02-10T08:25:09.726Z</updated>
+    <updated>2023-02-10T09:22:54.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인스타 업로드 각! 
+밸런타인데이 디저트 폼 미쳤다!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35412765&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35412765&amp;memberNo=11800362"/>
+        <updated>2023-02-10T09:10:16.436Z</updated>
+        <content type="html"><![CDATA[기념일엔 디저트 하나도 특별해야 하니까.▼ 클릭 ▼누데이크 퍼포즈 케이크케이크를 자르면 크런치 비즈와 초콜릿 반지가 쏟아져 나오는 밸런타인데이 시즌 케이크. 성별에 따라 레터링 선택이 가능하고, 메시지를 적···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젠지 핫플 등극! 
 ‘다이슨 스타일 랩’ 폼 미쳤다!]]></title>
@@ -152,12 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35136415&amp;memberNo=11800362"/>
         <updated>2023-01-17T00:45:08.179Z</updated>
         <content type="html"><![CDATA[그녀만의 독특한 다이어트 비법이 있다는데.. ▼&nbsp;클릭&nbsp;▼  출산 후 다이어트 성공한 홍현희의 비법은 ‘OO 줄이기?’ 그녀만의 독특한 다이어트 비법이 있다는데.. www.cosmopolitan.co.kr  출산 후 다이어트에 성공해 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꼭 봐야할 뮤지컬 영화 4]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35136370&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35136370&amp;memberNo=11800362"/>
-        <updated>2023-01-16T00:45:55.737Z</updated>
-        <content type="html"><![CDATA[눈과&nbsp;귀가&nbsp;즐거운&nbsp;뮤지컬&nbsp;영화&nbsp;나만&nbsp;모르니? ▼&nbsp;클릭&nbsp;▼  꼭 봐야할 뮤지컬 영화 4 눈과 귀가 즐거운 뮤지컬 영화 나만 모르니? www.cosmopolitan.co.kr   〈영웅〉 (2022) 1909년 10월 26일 하얼빈 역에서 이토 히로부···]]></content>
     </entry>
 </feed>
