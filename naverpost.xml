@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-02-10T23:22:01.554Z</updated>
+    <updated>2023-02-11T00:53:50.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 화제작, 
+‘피지컬: 100’ 관전 포인트!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35412862&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35412862&amp;memberNo=11800362"/>
+        <updated>2023-02-11T00:41:14.483Z</updated>
+        <content type="html"><![CDATA[몸에 진심인 사람들이 모여 몸싸움을 벌일 예정이다. ▼&nbsp;클릭&nbsp;▼  넷플릭스 화제작, ‘피지컬: 100’ 관전 포인트! 몸에 진심인 사람들이 모여 몸싸움을 벌일 예정이다. www.cosmopolitan.co.kr  공개 이틀 만에 월드 차···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인스타 업로드 각! 
 밸런타인데이 디저트 폼 미쳤다!]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35165172&amp;memberNo=11800362"/>
         <updated>2023-01-18T00:47:04.075Z</updated>
         <content type="html"><![CDATA[얘, 이혼이 뭐 별 거니? ▼&nbsp;클릭&nbsp;▼  내로남불 현실판, 아옳이 이혼! 서주원의 외도 흔적은? 얘, 이혼이 뭐 별 거니? www.cosmopolitan.co.kr  아옳이 쇼핑 하울과 여행 콘텐츠로 유명한 유튜버, 아옳이가 최근 이혼 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출산 후 다이어트 성공한 
-홍현희의 비법은 ‘OO 줄이기?’]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35136415&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35136415&amp;memberNo=11800362"/>
-        <updated>2023-01-17T00:45:08.179Z</updated>
-        <content type="html"><![CDATA[그녀만의 독특한 다이어트 비법이 있다는데.. ▼&nbsp;클릭&nbsp;▼  출산 후 다이어트 성공한 홍현희의 비법은 ‘OO 줄이기?’ 그녀만의 독특한 다이어트 비법이 있다는데.. www.cosmopolitan.co.kr  출산 후 다이어트에 성공해 ···]]></content>
     </entry>
 </feed>
