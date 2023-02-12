@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-02-11T23:21:44.742Z</updated>
+    <updated>2023-02-12T01:03:51.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초콜렛 만들기, 
+이 ‘4가지’만 있으면 쌉가능!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35412908&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35412908&amp;memberNo=11800362"/>
+        <updated>2023-02-12T00:51:07.727Z</updated>
+        <content type="html"><![CDATA[집에서 직접 초콜렛 만들기, 참 쉽죠? ▼&nbsp;클릭&nbsp;▼  초콜렛 만들기, 이 ‘4가지’만 있으면 쌉가능! 집에서 직접 초콜렛 만들기, 참 쉽죠? www.cosmopolitan.co.kr  내 취향대로, 바크 초콜렛 동영상  버튼을 누르면 현재···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 화제작, 
 ‘피지컬: 100’ 관전 포인트!]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35178633&amp;memberNo=11800362"/>
         <updated>2023-01-19T00:46:31.389Z</updated>
         <content type="html"><![CDATA[신예은, 손나은 등 몸매 천재 셀럽들이 하는 운동은? ▼&nbsp;클릭&nbsp;▼  새해 다짐 국룰 ‘다이어트’! 워너비 몸매 셀럽들은 000 한다! 신예은, 손나은 등 몸매 천재 셀럽들이 하는 운동은? www.cosmopolitan.co.kr 신예은 #···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내로남불 현실판, 아옳이 이혼! 
-서주원의 외도 흔적은?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35165172&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35165172&amp;memberNo=11800362"/>
-        <updated>2023-01-18T00:47:04.075Z</updated>
-        <content type="html"><![CDATA[얘, 이혼이 뭐 별 거니? ▼&nbsp;클릭&nbsp;▼  내로남불 현실판, 아옳이 이혼! 서주원의 외도 흔적은? 얘, 이혼이 뭐 별 거니? www.cosmopolitan.co.kr  아옳이 쇼핑 하울과 여행 콘텐츠로 유명한 유튜버, 아옳이가 최근 이혼 ···]]></content>
     </entry>
 </feed>
