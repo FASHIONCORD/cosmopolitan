@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 20:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 21:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빵에 소금을 뿌려? 김나영식 프렌치 토스트~.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75017</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75017</guid>
+            <pubDate>Fri, 17 Feb 2023 21:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[초간단인데 맛있다고?? 노필터티비프 프토 레시피!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/184cc551-be4f-492c-b84c-a89d9b8d6ff2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로컬들만 아는 성수동 찐 맛집 4.]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75009</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Feb 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[찐 멀티플레이어, 드라마 &lt;좋좋소&gt;의 감독이자 3Y코퍼레이션 웹 콘텐츠 제작자의 커리어가 궁금하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/5a5e1af2-1b6d-4cd2-a68a-3cfa4b4b1ca4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE IS EVERYWHERE! 8명의 사진가가 포착한 사랑의 순간]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74734</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74734</guid>
-            <pubDate>Wed, 15 Feb 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[형용할 순 없어도 눈앞에 사랑이 그려지는 순간. 8인의 사진가가 여덟 빛깔의 사랑을 보내왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/278be32d-7eed-4fe2-9a57-5525c443b118.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
