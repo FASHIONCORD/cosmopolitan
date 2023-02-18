@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 09:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 10:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,6 +290,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/04/cfdac8a8-5a2d-4c56-b567-3a69c5e8d542.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한달 안에 구독자 340만 돌파한 대형 브이로거! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75010</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75010</guid>
+            <pubDate>Sat, 18 Feb 2023 10:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[첫 영상 조회 수 1250만 뷰를 가뿐히 넘긴 블핑 지수의 ‘행복지수 103%’~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/b683484e-3dfc-4cb8-b892-d28281c527b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사람이야 스프링이야, <피지컬: 100> 출연자 윤성빈 톺아보기! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75008</link>
             <guid>https://www.cosmopolitan.co.kr/article/75008</guid>
@@ -344,14 +352,6 @@
             <pubDate>Fri, 17 Feb 2023 03:21:13 GMT</pubDate>
             <content:encoded><![CDATA[부석순·미사모·문빈&amp;산하까지! 실력과 비주얼 다 되는 멤버들로 구성된 어벤져스 조합이라는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/ebe58868-7bdf-44a2-b8bc-b2154d6ad80b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫해도 너무 핫해, 배우 노윤서! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74988</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74988</guid>
-            <pubDate>Fri, 17 Feb 2023 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 1년도 안됐는데 이렇게 뜨기 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/5f7d0a67-cc49-477e-9e16-6d0b4617cfc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
