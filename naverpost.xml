@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-02-20T07:22:34.753Z</updated>
+    <updated>2023-02-20T08:26:03.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먹는 건 또 못참지! ‘맛잘알’들을
+ 드릉대게 만드는 신상 버거 2]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35508131&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35508131&amp;memberNo=11800362"/>
+        <updated>2023-02-20T08:13:29.708Z</updated>
+        <content type="html"><![CDATA[각자의 세계관을 지닌 버거킹과 롯데리아가 신메뉴로 진검 승부를 펼친다.▼ 클릭 ▼버거킹이 왜 패션위크를 열어??버거킹은 신메뉴 치킨킹을 출시하면서 패션 브랜드에서나 할법한 패션위크를 열었다. 치킨 패티로 보···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 핫해도 너무 핫해, 배우 노윤서!]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=35457580&amp;memberNo=11800362</id>
@@ -150,13 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35253814&amp;memberNo=11800362"/>
         <updated>2023-01-30T00:41:23.207Z</updated>
         <content type="html"><![CDATA[최근 다같이 만난 응팔 식구들. 왜 모였을까? ▼&nbsp;클릭&nbsp;▼ 리멤버 이멤버, ‘응답하라 1988’ 완전체 모임 최근 다같이 만난 응팔 식구들. 왜 모였을까? www.cosmopolitan.co.kr 얼마 전, 배우 이동휘의 인스타그램에 반···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쩝쩝 박사 다 모여! 
-젠지들이 픽한 오픈런 식당은 어디?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35253735&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35253735&amp;memberNo=11800362"/>
-        <updated>2023-01-29T00:49:45.853Z</updated>
-        <content type="html"><![CDATA[오픈런, 웨이팅은 더 이상 브랜드 매장에만 국한된 이야기가 아니다. 젠지를 자석처럼 끌어들이는 F&amp;B 영업장 대표들의 오프더레코드 영업 비밀. ▼&nbsp;클릭&nbsp;▼  쩝쩝 박사 다 모여! 젠지들이 픽한 오픈런 식당은 어···]]></content>
     </entry>
 </feed>
