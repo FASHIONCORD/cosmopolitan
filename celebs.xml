@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 23:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 00:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 사랑스러운 조합! NMIXX 릴리 & 규진의 첫 유닛 화보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75140</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75140</guid>
+            <pubDate>Wed, 22 Feb 2023 00:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[과감하지만 태연하게 무대를 유영하며, 판도를 뒤집을 두 소녀. 지금 가장 새로운 그룹 엔믹스 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f0f2d326-9343-4a9b-8e41-709310d0ba52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘역주행 신화’ 브레이브걸스 계약 종료! 그 진실은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75123</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 18 Feb 2023 10:14:17 GMT</pubDate>
             <content:encoded><![CDATA[첫 영상 조회 수 1250만 뷰를 가뿐히 넘긴 블핑 지수의 ‘행복지수 103%’~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/b683484e-3dfc-4cb8-b892-d28281c527b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사람이야 스프링이야, <피지컬: 100> 출연자 윤성빈 톺아보기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75008</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75008</guid>
-            <pubDate>Fri, 17 Feb 2023 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[보는 사람마다 ‘괴물’이라 칭하는 그의 피지컬 모먼트~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/20da474d-4ee6-4b89-9ac5-ede59d79d534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

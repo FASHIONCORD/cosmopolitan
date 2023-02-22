@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-02-21T23:12:09.341Z</updated>
+    <updated>2023-02-22T00:45:18.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빵에 소금을 뿌려? 
+김나영식 프렌치 토스트~.]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35508209&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35508209&amp;memberNo=11800362"/>
+        <updated>2023-02-22T00:44:22.114Z</updated>
+        <content type="html"><![CDATA[초간단인데 맛있다고?? 노필터티비 프토 레시피! ▼&nbsp;클릭&nbsp;▼  빵에 소금을 뿌려? 김나영식 프렌치 토스트~. 초간단인데 맛있다고?? 노필터티비 프토 레시피! www.cosmopolitan.co.kr  프토의 정석  달걀에 우유와 설탕···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최근 앞머리 ‘싹둑’ 자르고 
 리즈 갱신한 셀럽들은 누구?]]></title>
@@ -151,12 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35296716&amp;memberNo=11800362"/>
         <updated>2023-02-01T00:52:19.122Z</updated>
         <content type="html"><![CDATA[살이 쭉쭉 빠졌다는 그 레시피! ▼&nbsp;클릭&nbsp;▼ 풍자가 36kg 감량한 쌈장 다이어트! 살이 쭉쭉 빠졌다는 그 레시피! www.cosmopolitan.co.kr 엄청 간단하다. 준비물은 저염 쌈장과 참치캔. 기름을 쭉 뺀 참치에 저염 쌈장···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암 투병 새 삶을 살게 된 스타들은 누구?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35296678&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35296678&amp;memberNo=11800362"/>
-        <updated>2023-01-31T00:47:57.988Z</updated>
-        <content type="html"><![CDATA["병마를 이겨내고 세상을 다르게 보게 됐어요” ▼&nbsp;클릭&nbsp;▼  암 투병 새 삶을 살게 된 스타들은 누구? www.cosmopolitan.co.kr  박소담 - “제 목소리로 인사 드릴 수 있어 감사해요”&nbsp; 박소담 박소담은 영화 촬영 중···]]></content>
     </entry>
 </feed>
