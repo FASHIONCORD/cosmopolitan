@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 00:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 02:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[턱 떨림 필요하다고 14번 NG? 배두나가 말하는 봉테일, 깐느박의 만행!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75208</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75208</guid>
+            <pubDate>Thu, 23 Feb 2023 02:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[자타공인 ‘감독바라기’ 배우 배두나! 하지만 이제는 거장들의 만행을 밝힐 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3c707740-e506-4903-9ec0-d915881842ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 정도였어? 연예계 신흥 인맥왕 ‘조현아’의 의외의 친분 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75202</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 20:11:38 GMT</pubDate>
             <content:encoded><![CDATA["24시간이 모자라" 갓생 사는 안현모∙이혜성∙문가영.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/4d933129-c0ff-4a33-8bcc-f5428af661cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛이 나는 솔로, 시대를 앞서 나간 엄정화의 캐릭터들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75027</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75027</guid>
-            <pubDate>Tue, 21 Feb 2023 20:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[우리에게 여전히 &lt;싱글즈&gt;의 동미이자 &lt;결혼은 미친 짓이다&gt;의 연희인 엄정화. 그가 일과 사랑과...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/4a46e432-4010-42bd-86a4-8fad816a0a72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

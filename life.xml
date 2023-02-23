@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 00:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 02:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나는 솔로> 역대급 논란, 또 터졌다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75125</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75125</guid>
+            <pubDate>Thu, 23 Feb 2023 02:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[한 출연자가 성병을 옮겼다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/a597f9d4-d552-461b-b9f7-8d42e43e608a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말만 들어도 꿀잼각! 이효리X김태호PD의 새 예능은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75124</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 20:12:04 GMT</pubDate>
             <content:encoded><![CDATA[셀럽들은 어떤 전시를 보러 갔을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/fea5ee4b-85aa-40fd-846c-3a7895c5924b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입천장 데여도 좋아! 양파 스프의 맛.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75019</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75019</guid>
-            <pubDate>Tue, 21 Feb 2023 20:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이면 생각나는 댕맛 메뉴, 인정?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/0f1791f8-de97-464b-a14f-9d1b0ecbdf83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
