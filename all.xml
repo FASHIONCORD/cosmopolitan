@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 23:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 00:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -292,6 +292,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/aa55c596-bc88-417f-ab53-893a54f51d4f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[멋있다 임지연! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75194</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75194</guid>
+            <pubDate>Fri, 24 Feb 2023 00:49:46 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;더 글로리&gt;의 찬란한 악역 ‘박연진’으로 배우 인생 2막을 연 임지연은 짜릿할 만큼 미움을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/31f7a34d-430e-4b56-8ca6-293c1c756a9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[턱 떨림 필요하다고 14번 NG? 배두나가 말하는 봉테일, 깐느박의 만행! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75208</link>
             <guid>https://www.cosmopolitan.co.kr/article/75208</guid>
@@ -346,14 +354,6 @@
             <pubDate>Tue, 21 Feb 2023 20:11:38 GMT</pubDate>
             <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 세 번째 에피소드는? 구독자 90만 프로 유튜버 선배,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/e7936604-0e03-49ff-98d0-d2308303119b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갓생 의지' 자극하는 연예계 뇌섹녀 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75030</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75030</guid>
-            <pubDate>Tue, 21 Feb 2023 20:11:38 GMT</pubDate>
-            <content:encoded><![CDATA["24시간이 모자라" 갓생 사는 안현모∙이혜성∙문가영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/4d933129-c0ff-4a33-8bcc-f5428af661cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
