@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 05:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범접불가! 지코(ZICO)의 SWAG 넘치는 스터뷰]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75218</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75218</guid>
+            <pubDate>Fri, 24 Feb 2023 05:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[지코에게 심멎 당해버릴 준비 완료?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/6e1b8627-336f-4804-a895-d7f0ed37ef37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멋있다 임지연!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75194</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 20:11:38 GMT</pubDate>
             <content:encoded><![CDATA[“브레이브걸스는 그대로일 거예요.”]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/eb2cbef0-b662-48f7-8f84-1a3f63070d20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 마크 VS 박재범?! 영지의 사심 가득한 커버 촬영장 습격]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75091</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75091</guid>
-            <pubDate>Tue, 21 Feb 2023 20:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 세 번째 에피소드는? 구독자 90만 프로 유튜버 선배,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/e7936604-0e03-49ff-98d0-d2308303119b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
