@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 07:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 08:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10일만에 틱톡 팔로워 16만 등극! 틱톡에서 핫한 북한 생활?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75144</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75144</guid>
+            <pubDate>Fri, 24 Feb 2023 08:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[현대차가 달리는 평양, 북한의 창의적 선전은 현재 진행 중?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/82abb583-cecc-4a95-9d61-3d9d8662c08f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나도 따라할래! ‘먹잘알’ 셀럽들이 선보이는 SNS 핫 레시피]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75136</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 20:12:04 GMT</pubDate>
             <content:encoded><![CDATA[각자의 세계관을 지닌 버거킹과 롯데리아가 신메뉴로 진검 승부를 펼친다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/2b8fdcc4-2734-4aa1-8b9f-51516c37a8d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 겨울왕국인 삿포로를 방문한 스타들 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75040</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75040</guid>
-            <pubDate>Tue, 21 Feb 2023 20:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[금새록, 안소희, 슬기, 유리의 삿포로 여행 스팟은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/ca9636e5-e8a8-4f2d-80c9-40e0dacce7d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

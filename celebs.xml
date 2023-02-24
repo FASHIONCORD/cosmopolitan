@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 07:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 08:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알고보니 일타강사? 올어라운더 김연아의 쪽집게 과외 모음.ZIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75224</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75224</guid>
+            <pubDate>Fri, 24 Feb 2023 08:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[핵심만 콕콕 찍어 가르치는 퀸연아의 다재다능한 능력!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/75726e56-ec41-4276-9b21-ba6245674665.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[범접불가! 지코(ZICO)의 SWAG 넘치는 스터뷰]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75218</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 00:44:49 GMT</pubDate>
             <content:encoded><![CDATA[과감하지만 태연하게 무대를 유영하며, 판도를 뒤집을 두 소녀. 지금 가장 새로운 그룹 엔믹스 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f0f2d326-9343-4a9b-8e41-709310d0ba52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘역주행 신화’ 브레이브걸스 계약 종료! 그 진실은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75123</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75123</guid>
-            <pubDate>Tue, 21 Feb 2023 20:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[“브레이브걸스는 그대로일 거예요.”]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/eb2cbef0-b662-48f7-8f84-1a3f63070d20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
