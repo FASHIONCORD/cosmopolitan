@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,6 +164,14 @@
             <content:encoded><![CDATA[이번 달 놓치지 말아야 할 핫 이슈.▼ 클릭 ▼더반 베를린 성수베를린의 3대 커피 로스터리로 손꼽히는 더반 베를린이 성수동에 문을 열었다. 한적한 골목의 주택을 개조했는데, 베를린과 성수 특유의 감성이 조화롭다···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<일타스캔들> 전도연의 미친 청바지 핏! 남행선 패션 파헤치기 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75161</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75161</guid>
+            <pubDate>Mon, 27 Feb 2023 03:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[러블리한 룩으로 화제인 남행선 패션 탐구!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/61b7ca7b-3f2d-4be9-beb7-9795e8fece21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴진스·차정원이 멘 그 등산 가방! 아크테릭스 백팩 셀럽 코디 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75160</link>
             <guid>https://www.cosmopolitan.co.kr/article/75160</guid>
@@ -220,12 +228,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/11/8c345286-2a7e-4fb6-a283-5c3841245c5d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LOVE IS EVERYWHERE! 8명의 사진가가 포착한 사랑의 순간 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74734</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74734</guid>
-            <pubDate>Tue, 21 Feb 2023 20:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[형용할 순 없어도 눈앞에 사랑이 그려지는 순간. 8인의 사진가가 여덟 빛깔의 사랑을 보내왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/278be32d-7eed-4fe2-9a57-5525c443b118.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[카페인, 먹지 말고 바르라고? 카페인과 피부의 관계 A to Z! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74966</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74966</guid>
+            <pubDate>Mon, 27 Feb 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[카페인, 피부를 위해 먹지 말고 바르라고? 카페인과 피부의 운명적 만남, 그 진실 혹은 거짓.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/cd367787-0827-485c-b906-2d60c417b4b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핑크빛 밸런타인데이에 설렘을 더해줄 뷰티 위시 리스트9 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -282,14 +290,6 @@
             <pubDate>Sun, 12 Feb 2023 11:10:07 GMT</pubDate>
             <content:encoded><![CDATA[윤승아가 임신 후에도 비주얼 극상 유지한 비법 공개!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/7c38528c-ec2e-4f96-83a6-e618fd10d2a6.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[FIND YOUR PERFUME! 당신의 소울메이트 퍼퓸은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74818</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74818</guid>
-            <pubDate>Sun, 12 Feb 2023 11:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[사랑이 샘솟는 밸런타인 데이, 이상형이 ‘좋은 향 나는 사람’인 ‘찐’ 향덕 에디터가 당신의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/aa55c596-bc88-417f-ab53-893a54f51d4f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데뷔 16주년 맞은 현아, 펑키한 록스타로 파격 변신! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>

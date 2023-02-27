@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카페인, 먹지 말고 바르라고? 카페인과 피부의 관계 A to Z!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/74966</link>
+            <guid>https://www.cosmopolitan.co.kr/article/74966</guid>
+            <pubDate>Mon, 27 Feb 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[카페인, 피부를 위해 먹지 말고 바르라고? 카페인과 피부의 운명적 만남, 그 진실 혹은 거짓.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/cd367787-0827-485c-b906-2d60c417b4b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핑크빛 밸런타인데이에 설렘을 더해줄 뷰티 위시 리스트9]]></title>
             <link>https://www.cosmopolitan.co.kr/article/74964</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 12 Feb 2023 11:10:07 GMT</pubDate>
             <content:encoded><![CDATA[윤승아가 임신 후에도 비주얼 극상 유지한 비법 공개!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/7c38528c-ec2e-4f96-83a6-e618fd10d2a6.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[FIND YOUR PERFUME! 당신의 소울메이트 퍼퓸은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74818</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74818</guid>
-            <pubDate>Sun, 12 Feb 2023 11:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[사랑이 샘솟는 밸런타인 데이, 이상형이 ‘좋은 향 나는 사람’인 ‘찐’ 향덕 에디터가 당신의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/aa55c596-bc88-417f-ab53-893a54f51d4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
