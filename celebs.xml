@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 23:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 00:49:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데뷔 16주년 맞은 현아, 펑키한 록스타로 파격 변신!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75216</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75216</guid>
+            <pubDate>Mon, 27 Feb 2023 00:48:35 GMT</pubDate>
+            <content:encoded><![CDATA[어디서든 피어나는 들꽃처럼, 한없이 순수하고 무엇보다 강인한 현아의 지금.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/9a63f976-6f44-45a0-8d54-23c1e2395848.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알고보니 일타강사? 올어라운더 김연아의 쪽집게 과외 모음.ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75224</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 02:19:11 GMT</pubDate>
             <content:encoded><![CDATA[블랙핑크·우주소녀·NCT까지, 벌써 해체하긴 넘 아까운 그룹들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f5e8e57b-e71d-4c30-8895-b031ecbae447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 사랑스러운 조합! NMIXX 릴리 & 규진의 첫 유닛 화보]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75140</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75140</guid>
-            <pubDate>Wed, 22 Feb 2023 00:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[과감하지만 태연하게 무대를 유영하며, 판도를 뒤집을 두 소녀. 지금 가장 새로운 그룹 엔믹스 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f0f2d326-9343-4a9b-8e41-709310d0ba52.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
