@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 06:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 07:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주에서 지금 뜨는 뉴 숙소]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75411</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75411</guid>
+            <pubDate>Tue, 28 Feb 2023 07:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[지금 바로 예약 고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/2d71204c-bfd9-49d3-9b86-672d561de00c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[똥 손도 아티스트 만들어주는 드로잉 카페]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75410</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75410</guid>
+            <pubDate>Tue, 28 Feb 2023 07:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[아무 생각 없이 그리다 보면 자동 힐링 중~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/3592202f-7262-452f-bba0-17904a737881.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 뭐 볼까? 넷플 킬링타임 화제작]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75408</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75408</guid>
+            <pubDate>Tue, 28 Feb 2023 07:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[시간 순삭 쌉가능?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ee34727f-1b94-46ed-9eb6-48e422e91d92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더글로리 파트2 두둥공개, 예고편에 숨겨진 스포?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75395</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 04:12:28 GMT</pubDate>
             <content:encoded><![CDATA[에디터부터 포토그래퍼, 헤어 &amp; 메이크업 아티스트, 스타일리스트의 업무 브이로그가 궁금하다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/46c4b35b-0da7-4b9d-a3b9-4ddc533d110e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<화양연화>를 옮겨 놓은 듯한 공간이 을지로에?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75290</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75290</guid>
-            <pubDate>Tue, 28 Feb 2023 03:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[분위기 깡패, 렌탈스튜디오 ‘도시정전’에서 홍콩 영화 따라잡기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/34918e28-5220-4333-8218-3426938e14f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 글로리 연진이 본인 등판! 시즌2 대형 스포 나갑니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75269</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75269</guid>
-            <pubDate>Tue, 28 Feb 2023 02:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[시즌 1은 아무것도 아니었다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/080e457d-8cf7-4517-a99c-db1192258f4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서인국∙차정원∙김연아 등 셀럽들이 ‘픽’한 요즘 가장 핫한 전시는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75204</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75204</guid>
-            <pubDate>Tue, 28 Feb 2023 02:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[스타들도 다녀간 감각 있는 전시 공간 3]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/c0e16b65-8a90-45cc-b6ac-45a00ecb1b13.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
