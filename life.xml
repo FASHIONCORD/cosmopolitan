@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송정에서 소문난 핫플 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75419</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75419</guid>
+            <pubDate>Tue, 28 Feb 2023 09:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말에 고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9d1805f3-c1eb-4f86-829c-040f8325ebd3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레스토랑에 친구 없이 혼자 가도 신나는 이유]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75417</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 06:15:56 GMT</pubDate>
             <content:encoded><![CDATA[JMT 약과를 먹을 수 있는데, 이 정도면 약과지~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ef3f3182-4cbc-4a9d-973d-9f70687e9485.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<모범택시2>에 이영애가? 목소리로만 출연한 배우들!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75392</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75392</guid>
-            <pubDate>Tue, 28 Feb 2023 05:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;모범택시&gt;에는 이영애가, &lt;수리남&gt;에는 이성민이 출연했었다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/b5d5bdec-c29f-45ed-bdfb-ffacffb0cb0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
