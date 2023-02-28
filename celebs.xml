@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 09:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 10:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-서바이벌 남돌 전쟁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75425</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75425</guid>
+            <pubDate>Tue, 28 Feb 2023 10:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[지금 투표가 올해 가장 잘한 일이 될지 모르는 K-서바이벌 관전 포인트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/620f2509-2cf6-42e7-b60e-1129ce43a88b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<일타 스캔들>청량 비주얼 4인방]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75407</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[견주인 정채연·크러쉬·뷔·지수와도 최강 케미를 보이는 K-댕댕이들~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/5fb13707-6d58-48b6-b89a-3bcb5a03727a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도플갱어 의혹? 동료들도 착각할 정도로 똑 닮은 셀럽들이 있다?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75390</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75390</guid>
-            <pubDate>Tue, 28 Feb 2023 03:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[사나·미연, 류진·김지은, 수빈·이민혁까지! 붕어빵 주의, 닮아도 너~무 닮았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/d2dfe554-2f5b-4c9b-bdbc-b26a4f9c470d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

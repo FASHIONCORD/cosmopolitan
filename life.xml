@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 09:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 10:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로컬 스티치 회현에 가면]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75420</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75420</guid>
+            <pubDate>Tue, 28 Feb 2023 10:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[프리랜서들에게 코워킹, 코리빙 스페이스를 제공하는 로컬 스티치가 남대문과 서울역 사이에 새로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/616db410-17fc-487d-9d55-c73aa45f3b68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송정에서 소문난 핫플 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75419</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 06:15:56 GMT</pubDate>
             <content:encoded><![CDATA[예고편 뜯어보며 궁예질 해봤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/b3ee39c5-d2d5-4848-865e-d839d16c04c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-디저트는 요즘 광클 열풍! ‘약켓팅’ 각, 약과 찐 맛집 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75393</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75393</guid>
-            <pubDate>Tue, 28 Feb 2023 06:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[JMT 약과를 먹을 수 있는데, 이 정도면 약과지~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ef3f3182-4cbc-4a9d-973d-9f70687e9485.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
