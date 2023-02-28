@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 07:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 08:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옆구리 터진 옷! 잘록한 허리 라인을 드러낸 패션이 유행이다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75236</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75236</guid>
+            <pubDate>Tue, 28 Feb 2023 08:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[난이도로 치면 최상급! 웬만한 자신감 없이 못 입는다는 이 패션~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/2ebe1726-2e16-435c-a870-901a948e6ef6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올 봄 셀럽들의 PICK! 오버사이즈 레더 재킷]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75162</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75162</guid>
+            <pubDate>Tue, 28 Feb 2023 08:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[헤일리 비버, 차정원, 오눅의 스타일링을 살펴볼까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/a6544076-de5e-4e50-8b55-030830d85651.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<일타스캔들> 전도연의 미친 청바지 핏! 남행선 패션 파헤치기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75161</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 20:11:17 GMT</pubDate>
             <content:encoded><![CDATA[칼단발 하고 리즈 찍은 배우 고민시.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/e01e6f18-094d-4d6f-bde1-2dd6cb612ad2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승기♥이다인 ‘4월의 신부’ 이다인의 ‘찐’ 사복 패션은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75020</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75020</guid>
-            <pubDate>Tue, 21 Feb 2023 20:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[이승기가 반한 이유가 다 여기 있었네~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/a4338e8f-0315-45c5-86f7-b17475f5e282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티 시장이 달려졌어요! 반드시 기억해야 할 올해의 뷰티 키워드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74952</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74952</guid>
-            <pubDate>Tue, 21 Feb 2023 20:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 사태가 온전히 끝나고, 새롭게 맞이한 2023년. 그사이 뷰티 시장은 예상치 못한 변수와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/11/8c345286-2a7e-4fb6-a283-5c3841245c5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

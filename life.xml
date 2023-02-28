@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 07:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 08:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레스토랑에 친구 없이 혼자 가도 신나는 이유]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75417</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75417</guid>
+            <pubDate>Tue, 28 Feb 2023 08:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 레스토랑들에선 먹고 마시기만 하는 게 아니다! 복합문화공간이 된 서울의 레스토랑들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ec7ca381-3082-4e35-bb1e-1636f3bf0987.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주의 서쪽, 조수리 핫플]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75415</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75415</guid>
+            <pubDate>Tue, 28 Feb 2023 08:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[모르면 후회할지도 모르는 제주도 포토샷.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9c4786a1-9931-4aae-b6f1-107f946e1a51.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[제주에서 지금 뜨는 뉴 숙소]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75411</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 05:12:18 GMT</pubDate>
             <content:encoded><![CDATA[&lt;모범택시&gt;에는 이영애가, &lt;수리남&gt;에는 이성민이 출연했었다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/b5d5bdec-c29f-45ed-bdfb-ffacffb0cb0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅성웅성, 맥도날드서 뉴진스밀이 나온다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75389</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75389</guid>
-            <pubDate>Tue, 28 Feb 2023 04:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[온세상이 뉴진스될 기세!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/c017efe5-9dd4-4271-b5cf-616729365aa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐 오브 찐 매운맛 열정 주의! 코스모폴리탄 화보 촬영 현장 대.공.개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75323</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75323</guid>
-            <pubDate>Tue, 28 Feb 2023 04:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[에디터부터 포토그래퍼, 헤어 &amp; 메이크업 아티스트, 스타일리스트의 업무 브이로그가 궁금하다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/46c4b35b-0da7-4b9d-a3b9-4ddc533d110e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
