@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 06:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 앞머리 ‘싹둑’ 자르고 리즈 갱신한 셀럽들은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75032</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75032</guid>
+            <pubDate>Tue, 28 Feb 2023 06:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[따라 하고 싶은 아이유∙지수∙강민경의 앞머리 근황!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/aa00aecf-9b15-4fe6-a861-5af0766747af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈가∙송민호∙마크! 요즘 남자 아이돌이 사랑하는 ‘이 헤어’?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75003</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Feb 2023 20:12:55 GMT</pubDate>
             <content:encoded><![CDATA[그로테스크한 #브로리스 메이크업부터 복고풍 바이브의 스키니 브로, 블링블링한 액세서리 그 자체...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/08/a882efc8-32b0-4545-9cc0-301ddaba9a38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시술 초보자 모여! 티 안 나게 예뻐지는 2023 뷰티 시술 총.정.리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74845</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74845</guid>
-            <pubDate>Sun, 12 Feb 2023 11:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[시술 애송이 어서 오고~ 티 안 나게 예뻐지는 뷰티 시술이 여기 있다! 집 나간 피부 컨디션은...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/598d37b9-bfe9-42e2-868c-cf9aae6b25e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
