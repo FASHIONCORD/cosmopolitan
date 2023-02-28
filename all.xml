@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 03:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 04:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -292,6 +292,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/598d37b9-bfe9-42e2-868c-cf9aae6b25e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<모범택시2>에 이영애가? 목소리로만 출연한 배우들! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75392</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75392</guid>
+            <pubDate>Tue, 28 Feb 2023 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;모범택시&gt;에는 이영애가, &lt;수리남&gt;에는 이성민이 출연했었다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/b5d5bdec-c29f-45ed-bdfb-ffacffb0cb0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어나더 견생! 셀럽들의 러블리 끝판왕 반려견이 궁금하다면? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75391</link>
             <guid>https://www.cosmopolitan.co.kr/article/75391</guid>
@@ -346,14 +354,6 @@
             <pubDate>Tue, 28 Feb 2023 02:18:52 GMT</pubDate>
             <content:encoded><![CDATA[시즌 1은 아무것도 아니었다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/080e457d-8cf7-4517-a99c-db1192258f4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 16주년 맞은 현아, 펑키한 록스타로 파격 변신! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75216</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75216</guid>
-            <pubDate>Mon, 27 Feb 2023 00:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[어디서든 피어나는 들꽃처럼, 한없이 순수하고 무엇보다 강인한 현아의 지금.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/9a63f976-6f44-45a0-8d54-23c1e2395848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -420,6 +420,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[웅성웅성, 맥도날드서 뉴진스밀이 나온다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75389</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75389</guid>
+            <pubDate>Tue, 28 Feb 2023 04:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[온세상이 뉴진스될 기세!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/c017efe5-9dd4-4271-b5cf-616729365aa5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐 오브 찐 매운맛 열정 주의! 코스모폴리탄 화보 촬영 현장 대.공.개 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75323</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75323</guid>
+            <pubDate>Tue, 28 Feb 2023 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[에디터부터 포토그래퍼, 헤어 &amp; 메이크업 아티스트, 스타일리스트의 업무 브이로그가 궁금하다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/46c4b35b-0da7-4b9d-a3b9-4ddc533d110e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<화양연화>를 옮겨 놓은 듯한 공간이 을지로에?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75290</link>
             <guid>https://www.cosmopolitan.co.kr/article/75290</guid>
@@ -466,22 +482,6 @@
             <pubDate>Thu, 23 Feb 2023 08:13:40 GMT</pubDate>
             <content:encoded><![CDATA[오늘 메뉴는 ‘너’로 정했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/d46960d8-8115-4f68-bb3a-b655186db956.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나는 솔로> 역대급 논란, 또 터졌다! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75125</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75125</guid>
-            <pubDate>Thu, 23 Feb 2023 02:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[한 출연자가 성병을 옮겼다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/a597f9d4-d552-461b-b9f7-8d42e43e608a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말만 들어도 꿀잼각! 이효리X김태호PD의 새 예능은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75124</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75124</guid>
-            <pubDate>Tue, 21 Feb 2023 20:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[효리 언니가 말하는대로 이루어진다. &lt;서울체크인&gt; 멤버가 함께한다는 예능의 정체는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/6d4819e9-6c3c-4628-a4b1-c6c6ff3382dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

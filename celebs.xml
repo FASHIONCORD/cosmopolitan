@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 03:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 04:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<모범택시2>에 이영애가? 목소리로만 출연한 배우들!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75392</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75392</guid>
+            <pubDate>Tue, 28 Feb 2023 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;모범택시&gt;에는 이영애가, &lt;수리남&gt;에는 이성민이 출연했었다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/b5d5bdec-c29f-45ed-bdfb-ffacffb0cb0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어나더 견생! 셀럽들의 러블리 끝판왕 반려견이 궁금하다면?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75391</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 02:18:52 GMT</pubDate>
             <content:encoded><![CDATA[시즌 1은 아무것도 아니었다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/080e457d-8cf7-4517-a99c-db1192258f4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 16주년 맞은 현아, 펑키한 록스타로 파격 변신!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75216</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75216</guid>
-            <pubDate>Mon, 27 Feb 2023 00:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[어디서든 피어나는 들꽃처럼, 한없이 순수하고 무엇보다 강인한 현아의 지금.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/9a63f976-6f44-45a0-8d54-23c1e2395848.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
