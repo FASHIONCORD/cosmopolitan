@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 02:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 03:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<화양연화>를 옮겨 놓은 듯한 공간이 을지로에?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75290</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75290</guid>
+            <pubDate>Tue, 28 Feb 2023 03:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[분위기 깡패, 렌탈스튜디오 ‘도시정전’에서 홍콩 영화 따라잡기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/34918e28-5220-4333-8218-3426938e14f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 글로리 연진이 본인 등판! 시즌2 대형 스포 나갑니다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75269</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 20:12:04 GMT</pubDate>
             <content:encoded><![CDATA[효리 언니가 말하는대로 이루어진다. &lt;서울체크인&gt; 멤버가 함께한다는 예능의 정체는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/6d4819e9-6c3c-4628-a4b1-c6c6ff3382dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이래도 바나나 푸딩에 바나나 안 바나나?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75122</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75122</guid>
-            <pubDate>Tue, 21 Feb 2023 20:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕 매그놀리아의 바나나 푸딩 뺨 때렸지 모야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/e5c0287c-a366-4bad-bc9f-898cbd682fb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
