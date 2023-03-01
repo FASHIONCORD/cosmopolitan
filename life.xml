@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 14:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 15:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딸기 메뉴 5대장]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75424</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75424</guid>
+            <pubDate>Wed, 01 Mar 2023 15:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[지금 당장 딸기 과다 수혈이 필요할 때.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/5d84406a-23e0-4c23-924c-f882e78d8c3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말 브런치 ‘맛맛맛’집]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75422</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 07:11:01 GMT</pubDate>
             <content:encoded><![CDATA[아무 생각 없이 그리다 보면 자동 힐링 중~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/3592202f-7262-452f-bba0-17904a737881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 뭐 볼까? 넷플 킬링타임 화제작]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75408</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75408</guid>
-            <pubDate>Tue, 28 Feb 2023 07:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[시간 순삭 쌉가능?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ee34727f-1b94-46ed-9eb6-48e422e91d92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
