@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-03-01T00:54:22.138Z</updated>
+    <updated>2023-03-01T02:30:40.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나도 따라할래! ‘먹잘알’ 셀럽들이 
+선보이는 SNS 핫 레시피]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35545054&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35545054&amp;memberNo=11800362"/>
+        <updated>2023-03-01T02:29:34.162Z</updated>
+        <content type="html"><![CDATA[오늘 메뉴는 ‘너’로 정했다! ▼&nbsp;클릭&nbsp;▼  나도 따라할래! ‘먹잘알’ 셀럽들이 선보이는 SNS 핫 레시피 오늘 메뉴는 ‘너’로 정했다! www.cosmopolitan.co.kr 이국주X꿀떡 떡볶이    @gookju MBC 제공,@gookju 편의점에나···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<화양연화>를 옮겨 놓은 듯한 공간이 
 을지로에?!]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35355558&amp;memberNo=11800362"/>
         <updated>2023-02-06T02:11:12.618Z</updated>
         <content type="html"><![CDATA[미모 무슨 일이에요? 독보적인 미모의 신예 여자 배우들!▼ 클릭 ▼노윤서“이런 마스크는 처음이야!” 단아해 보이면서 어딘가 도도한 분위기를 풍기는 신인 배우 노윤서. 그녀의 분위기는 시원시원한 &amp;lsq···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구에서 김밥튀김 먹고, 
-울산에서 쫀드기? 전국~ 간식 자랑!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35336632&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35336632&amp;memberNo=11800362"/>
-        <updated>2023-02-05T02:20:06.275Z</updated>
-        <content type="html"><![CDATA[&lt;놀면 뭐하니&gt;에 등장한 대구, 울산, 전주의 명물 간식들. ▼&nbsp;클릭&nbsp;▼  대구에서 김밥튀김 먹고, 울산에서 쫀드기? 전국~ 간식 자랑! &lt;놀면 뭐하니&gt;에 등장한 대구, 울산, 전주의 명물 간식들. www.cosmop···]]></content>
     </entry>
 </feed>
