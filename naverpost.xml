@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-03-02T09:12:15.674Z</updated>
+    <updated>2023-03-02T10:12:01.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주말 브런치 ‘맛맛맛’집]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35560565&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35560565&amp;memberNo=11800362"/>
+        <updated>2023-03-02T10:11:05.549Z</updated>
+        <content type="html"><![CDATA[힐링하러 함 가볼까나?▼ 클릭 ▼바 부 이태원의 내추럴 와인바 바 부에서 주말에 브런치를 선보인다. 잠봉뵈르 샌드위치와 후무스, 프렌치토스트 등 호불호 없이 누구나 좋아할 만한 메뉴들이 준비되어 있다. 날씨가 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나도 따라할래! ‘먹잘알’ 셀럽들이 
 선보이는 SNS 핫 레시피]]></title>
@@ -152,13 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35355615&amp;memberNo=11800362"/>
         <updated>2023-02-07T00:46:14.938Z</updated>
         <content type="html"><![CDATA[이게 바로 레전드 몸매 유지 방법? ▼&nbsp;클릭&nbsp;▼  모델 장윤주는 ‘000 다이어트’를 한다고? 식단일기 대공개! 이게 바로 레전드 몸매 유지 방법? www.cosmopolitan.co.kr  샐러드부터 집밥까지 다양하게 장윤주 식단 장···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예은·노윤서·고윤정 신예 배우들이 유독 예뻐 보이는 이유? 
-바로 ‘이것’ 때문!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35355558&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35355558&amp;memberNo=11800362"/>
-        <updated>2023-02-06T02:11:12.618Z</updated>
-        <content type="html"><![CDATA[미모 무슨 일이에요? 독보적인 미모의 신예 여자 배우들!▼ 클릭 ▼노윤서“이런 마스크는 처음이야!” 단아해 보이면서 어딘가 도도한 분위기를 풍기는 신인 배우 노윤서. 그녀의 분위기는 시원시원한 &amp;lsq···]]></content>
     </entry>
 </feed>
