@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 14:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 15:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[용산구 ‘열정도’ 먹자 골목]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75426</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75426</guid>
+            <pubDate>Thu, 02 Mar 2023 15:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[그중 찐 맛집은 이거지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/e07b5185-1520-4854-8e18-a3d1b471a431.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딸기 메뉴 5대장]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75424</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 07:11:01 GMT</pubDate>
             <content:encoded><![CDATA[지금 바로 예약 고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/2d71204c-bfd9-49d3-9b86-672d561de00c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[똥 손도 아티스트 만들어주는 드로잉 카페]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75410</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75410</guid>
-            <pubDate>Tue, 28 Feb 2023 07:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[아무 생각 없이 그리다 보면 자동 힐링 중~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/3592202f-7262-452f-bba0-17904a737881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
