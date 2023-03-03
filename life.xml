@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 02:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 04:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<피지컬: 100> 최종 우승자가 뒤바뀌었다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75434</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75434</guid>
+            <pubDate>Fri, 03 Mar 2023 04:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[피지컬: 100 ‘결승 조작 논란’이 불거진 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/4130fd6c-b290-4219-aef6-f05b02520785.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용산구 ‘열정도’ 먹자 골목]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75426</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 08:14:36 GMT</pubDate>
             <content:encoded><![CDATA[모르면 후회할지도 모르는 제주도 포토샷.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9c4786a1-9931-4aae-b6f1-107f946e1a51.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[제주에서 지금 뜨는 뉴 숙소]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75411</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75411</guid>
-            <pubDate>Tue, 28 Feb 2023 07:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[지금 바로 예약 고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/2d71204c-bfd9-49d3-9b86-672d561de00c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
