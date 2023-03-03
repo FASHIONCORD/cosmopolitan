@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 14:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시향지마저 힙해! 브랜드의 아이덴티티가 그대로 담긴 시향지 9]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75398</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75398</guid>
+            <pubDate>Fri, 03 Mar 2023 15:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[이달에 무슨 일이? 이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/de3a9535-bd38-40ae-9e38-be4321d2a1d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New, Need, Now! 봄바람 따라 등장한 3월의 뷰티 신상 17]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75397</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 10:11:13 GMT</pubDate>
             <content:encoded><![CDATA[헤어 테크놀로지를 기반으로 프리미엄 헤어 스타일링 서비스를 제공하는 다이슨 데모 스토어 사운...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/63dca309-e2fb-42c4-b526-54caa1dbedc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 앞머리 ‘싹둑’ 자르고 리즈 갱신한 셀럽들은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75032</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75032</guid>
-            <pubDate>Tue, 28 Feb 2023 06:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[따라 하고 싶은 아이유∙지수∙강민경의 앞머리 근황!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/aa00aecf-9b15-4fe6-a861-5af0766747af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

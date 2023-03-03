@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 14:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입대 앞둔 ‘제이홉’, 호랑이 조교 ‘진’이 벌써 군기 잡았다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75436</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75436</guid>
+            <pubDate>Fri, 03 Mar 2023 15:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[맏형에 이어 입영 연기 자진 취소한 BTS 제이홉.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ad0d2383-0cea-4902-ada2-7f8165be3b33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닮은 꼴로 유명한 송혜교∙한소희가 드라마를 함께 찍는다고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75432</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 08:14:20 GMT</pubDate>
             <content:encoded><![CDATA[나 지금 되게 신나.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/e77994d3-5104-4143-b994-d8b7b79442f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷빨 500% UP! 찐 오브 찐 ‘직각 어깨’를 지닌 셀럽 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75394</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75394</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[유아부터 제니, 김채원까지. 패션의 완성은 어깨, 인정?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/36fcf578-346a-4a8d-bacf-9f4e2ddcc8dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
