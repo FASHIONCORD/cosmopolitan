@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 09:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 10:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New, Need, Now! 봄바람 따라 등장한 3월의 뷰티 신상 17]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75397</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75397</guid>
+            <pubDate>Fri, 03 Mar 2023 10:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[New, Need, Now!  봄바람 따라 두둥 등장~. 화장대를 리뉴얼해줄 3월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/83466ff2-c2fa-4485-a37b-17d7d4474666.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한혜진이 말하는 청담동 메이크업 비법 대.방.출!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75446</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75446</guid>
+            <pubDate>Fri, 03 Mar 2023 10:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[톱 모델의 메이크업은 뭐가 다를까? 매력 부자 한혜진이 자신의 유튜브 채널에서 공개한 메이크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/68243660-9647-4fdb-a9b1-58a1d1bc1f19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코코 마드모아젤의 새로운 뮤즈는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75373</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 06:15:23 GMT</pubDate>
             <content:encoded><![CDATA[따라 하고 싶은 아이유∙지수∙강민경의 앞머리 근황!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/aa00aecf-9b15-4fe6-a861-5af0766747af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가∙송민호∙마크! 요즘 남자 아이돌이 사랑하는 ‘이 헤어’?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75003</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75003</guid>
-            <pubDate>Mon, 27 Feb 2023 05:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[남자 아이돌이 선택한 헤어스타일은 바로 이것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/89b9dffe-6703-433d-a7ab-cbe279324ae0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페인, 먹지 말고 바르라고? 카페인과 피부의 관계 A to Z!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74966</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74966</guid>
-            <pubDate>Mon, 27 Feb 2023 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[카페인, 피부를 위해 먹지 말고 바르라고? 카페인과 피부의 운명적 만남, 그 진실 혹은 거짓.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/cd367787-0827-485c-b906-2d60c417b4b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
