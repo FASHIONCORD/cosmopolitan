@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 07:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 08:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차은우∙제이홉∙필릭스∙해찬의 꾸안꾸 필수템 버킷햇]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75428</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75428</guid>
+            <pubDate>Fri, 03 Mar 2023 08:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[잘생김은 가려지지 않는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/d8383c4c-e784-4d02-b5f3-8af706bfeb87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 F/W 런던 패션위크에서 포착한 시선 강탈 뷰티 키워드 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75358</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 07:10:12 GMT</pubDate>
             <content:encoded><![CDATA[고프코어 열풍을 타고 안착한 아크테릭스 대란템 셀럽 착샷 보기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/6b35cd9b-c3a5-420b-9387-a16b614ea54b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비주얼 끝판왕 커플 김나영 ♥ 마이큐, 럽스타 시작!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75131</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75131</guid>
-            <pubDate>Wed, 22 Feb 2023 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[열애 인정부터 커플 사진 업로드까지 조금씩 나아갔던 이들의 럽스타가 궁금하다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/0122f3da-2a39-4ca0-a5e1-6a3a540a7a04.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
