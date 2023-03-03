@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 05:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 06:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 K팝 키워드는 유닛&솔로]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75429</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75429</guid>
+            <pubDate>Fri, 03 Mar 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[참다 참다 더 이상 숨길 수 없는 K-끼쟁이들 유닛&amp;솔로로 출동!  미사모, 부석순, 슈가, 지민...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/df434c63-92bb-4c57-91cb-54e37116abbd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-서바이벌 남돌 전쟁]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75425</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 04:12:12 GMT</pubDate>
             <content:encoded><![CDATA[&lt;모범택시&gt;에는 이영애가, &lt;수리남&gt;에는 이성민이 출연했었다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/b5d5bdec-c29f-45ed-bdfb-ffacffb0cb0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어나더 견생! 셀럽들의 러블리 끝판왕 반려견이 궁금하다면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75391</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75391</guid>
-            <pubDate>Tue, 28 Feb 2023 03:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[견주인 정채연·크러쉬·뷔·지수와도 최강 케미를 보이는 K-댕댕이들~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/5fb13707-6d58-48b6-b89a-3bcb5a03727a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
