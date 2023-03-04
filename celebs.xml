@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 00:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 02:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[켄달 제너가 비버 부부와 더블 데이트를 했다고? 새 남자친구는 바로~.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75439</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75439</guid>
+            <pubDate>Sat, 04 Mar 2023 02:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[지금 지구에서 핫한 라틴 토끼, 배드 버니!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/96d3f81c-91d6-4f30-a6a0-e836ecc364b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입대 앞둔 ‘제이홉’, 호랑이 조교 ‘진’이 벌써 군기 잡았다!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75436</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 08:14:20 GMT</pubDate>
             <content:encoded><![CDATA[시상하고 수상하다 통해버린 모니카 벨루치와 팀 버튼?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ae8bd114-6bf6-4e88-8777-4cf8ce9f127a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 조합 실화? 송혜교와 한소희가 OO 작품으로 만난다?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75402</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75402</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[나 지금 되게 신나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/e77994d3-5104-4143-b994-d8b7b79442f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
