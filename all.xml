@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 14:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 15:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,6 +164,22 @@
             <content:encoded><![CDATA[D라인도 세상 힙하고 매력적일 수 있다고! ▼&nbsp;클릭&nbsp;▼ 한국의 리한나?! 예비맘 허니제이의 ‘D라인’ 패션 D라인도 세상 힙하고 매력적일 수 있다고! www.cosmopolitan.co.kr   힙하게 Instagram @__honey.j__ 허니제이···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[“지겨운 건 매일 반복되는 일상이 아니라 알면서도 변하지 않는 나” (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75485</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75485</guid>
+            <pubDate>Sat, 04 Mar 2023 15:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[뼈 맞았다면 일단 클릭하시라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/7f4e0a78-4684-443e-8731-9e3f95927662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COSMO HOT! 코스모가 픽한 3월의 아이템은? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75396</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75396</guid>
+            <pubDate>Sat, 04 Mar 2023 15:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 3월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/5440125b-091c-4a44-9dee-3caabcb0b954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패피는 ‘빈티지’를 입는다? 이동휘∙현아∙이종원의 빈티지 사랑! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75431</link>
             <guid>https://www.cosmopolitan.co.kr/article/75431</guid>
@@ -210,22 +226,6 @@
             <pubDate>Tue, 28 Feb 2023 08:14:03 GMT</pubDate>
             <content:encoded><![CDATA[난이도로 치면 최상급! 웬만한 자신감 없이 못 입는다는 이 패션~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/2ebe1726-2e16-435c-a870-901a948e6ef6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 봄 셀럽들의 PICK! 오버사이즈 레더 재킷 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75162</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75162</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[헤일리 비버, 차정원, 오눅의 스타일링을 살펴볼까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/a6544076-de5e-4e50-8b55-030830d85651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<일타스캔들> 전도연의 미친 청바지 핏! 남행선 패션 파헤치기 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75161</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75161</guid>
-            <pubDate>Mon, 27 Feb 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[러블리한 룩으로 화제인 남행선 패션 탐구!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/61b7ca7b-3f2d-4be9-beb7-9795e8fece21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시향지마저 힙해! 브랜드의 아이덴티티가 그대로 담긴 시향지 9 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -292,6 +292,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/63dca309-e2fb-42c4-b526-54caa1dbedc5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴 신드롬! 뉴진스가 6개월 만에 이뤄낸 전무후무한 이력들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75445</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75445</guid>
+            <pubDate>Sat, 04 Mar 2023 15:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[새 시대의 아이콘, 뉴진스가 6개월 만에 일궈낸 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/3ae9c330-b844-43c5-a7cb-4b272cc7f428.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[켄달 제너가 비버 부부와 더블 데이트를 했다고? 새 남자친구는 바로~. (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75439</link>
             <guid>https://www.cosmopolitan.co.kr/article/75439</guid>
@@ -346,14 +354,6 @@
             <pubDate>Tue, 28 Feb 2023 09:12:14 GMT</pubDate>
             <content:encoded><![CDATA[오은영 &lt;금쪽상담소&gt;에서 셀럽들의 가장 많은 고민을 차지하는 ‘과민증'. 어떤 증상일까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/4b8ede41-b6ed-4756-b621-7ec64e6b6a76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화계 빅빅 커플 탄생! 모니카 벨루치♥팀 버튼 감독과 열애-ing? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75404</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75404</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[시상하고 수상하다 통해버린 모니카 벨루치와 팀 버튼?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ae8bd114-6bf6-4e88-8777-4cf8ce9f127a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>

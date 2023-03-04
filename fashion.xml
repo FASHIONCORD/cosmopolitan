@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 14:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 15:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“지겨운 건 매일 반복되는 일상이 아니라 알면서도 변하지 않는 나”]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75485</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75485</guid>
+            <pubDate>Sat, 04 Mar 2023 15:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[뼈 맞았다면 일단 클릭하시라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/7f4e0a78-4684-443e-8731-9e3f95927662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COSMO HOT! 코스모가 픽한 3월의 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75396</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75396</guid>
+            <pubDate>Sat, 04 Mar 2023 15:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 3월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/5440125b-091c-4a44-9dee-3caabcb0b954.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패피는 ‘빈티지’를 입는다? 이동휘∙현아∙이종원의 빈티지 사랑!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75431</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 08:14:03 GMT</pubDate>
             <content:encoded><![CDATA[난이도로 치면 최상급! 웬만한 자신감 없이 못 입는다는 이 패션~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/2ebe1726-2e16-435c-a870-901a948e6ef6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 봄 셀럽들의 PICK! 오버사이즈 레더 재킷]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75162</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75162</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[헤일리 비버, 차정원, 오눅의 스타일링을 살펴볼까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/a6544076-de5e-4e50-8b55-030830d85651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<일타스캔들> 전도연의 미친 청바지 핏! 남행선 패션 파헤치기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75161</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75161</guid>
-            <pubDate>Mon, 27 Feb 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[러블리한 룩으로 화제인 남행선 패션 탐구!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/61b7ca7b-3f2d-4be9-beb7-9795e8fece21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
