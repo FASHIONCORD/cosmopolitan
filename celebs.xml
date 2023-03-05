@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 14:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장꾸미 가득! 개구장이 동표의 사랑스러운 순간]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75508</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75508</guid>
+            <pubDate>Sun, 05 Mar 2023 15:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[PLAY WITH DONGPYO!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/0f18e578-a537-48d3-b658-2ad6069d1b30.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴 신드롬! 뉴진스가 6개월 만에 이뤄낸 전무후무한 이력들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75445</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 09:12:14 GMT</pubDate>
             <content:encoded><![CDATA[얼굴은 소년, 피지컬은 으른! 선재, 건후, 희재 그리고 동희.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/529d9ca5-cdd5-40be-b25f-8abe862344ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과민증, 나도 혹시!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75406</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75406</guid>
-            <pubDate>Tue, 28 Feb 2023 09:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[오은영 &lt;금쪽상담소&gt;에서 셀럽들의 가장 많은 고민을 차지하는 ‘과민증'. 어떤 증상일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/4b8ede41-b6ed-4756-b621-7ec64e6b6a76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
