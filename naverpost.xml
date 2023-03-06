@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-03-05T23:10:23.624Z</updated>
+    <updated>2023-03-06T00:49:00.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용산구 ‘열정도’ 먹자 골목]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35565355&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35565355&amp;memberNo=11800362"/>
+        <updated>2023-03-06T00:48:14.242Z</updated>
+        <content type="html"><![CDATA[그중 찐 맛집은 이거지! ▼&nbsp;클릭&nbsp;▼  용산구 ‘열정도’ 먹자 골목 그중 찐 맛집은 이거지! www.cosmopolitan.co.kr   열정도 고깃집 오래된 남영동 골목이었던 열정도를 대표하는 듯한 이름의 고깃집. 수차례 방송을 통···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-디저트는 요즘 광클 열풍!
  ‘약켓팅’ 각, 약과 찐 맛집 4]]></title>
@@ -152,13 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35398701&amp;memberNo=11800362"/>
         <updated>2023-02-09T08:12:50.855Z</updated>
         <content type="html"><![CDATA[성수동을 뜨겁게 달군 헤어 테크놀로지 체험 성지, 다이슨 스타일 랩▼ 클릭 ▼젠지 세대가 애정하는 성수동에 드디어 다이슨이 상륙했다. 혁신적인 헤어 테크놀로지를 직접 확인할 수 있는 헤어 제품 팝업 ‘다···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 리한나?! 
-예비맘 허니제이의 ‘D라인’ 패션]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35355677&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35355677&amp;memberNo=11800362"/>
-        <updated>2023-02-08T00:45:54.155Z</updated>
-        <content type="html"><![CDATA[D라인도 세상 힙하고 매력적일 수 있다고! ▼&nbsp;클릭&nbsp;▼ 한국의 리한나?! 예비맘 허니제이의 ‘D라인’ 패션 D라인도 세상 힙하고 매력적일 수 있다고! www.cosmopolitan.co.kr   힙하게 Instagram @__honey.j__ 허니제이···]]></content>
     </entry>
 </feed>
