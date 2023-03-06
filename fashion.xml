@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 02:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 03:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드보다 핫한 블루, 올봄의 데님 룩 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75541</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75541</guid>
+            <pubDate>Mon, 06 Mar 2023 03:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[지금 가장 핫한 트렌드는 데님! 클래식과 트렌드를 아우르는 데님 룩 5가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/ce9765e0-72a3-4686-8822-16d3d2f5c26f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악마는 프라다를 입을까? 에디터의 쌩 리얼 출근룩 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75524</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75524</guid>
+            <pubDate>Mon, 06 Mar 2023 03:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 다섯 번째 에피소드는? 찐 현실 주의! 코스모의 출근...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/2c5e8d58-79db-4964-b3eb-f831f80296d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장꾸미 가득! 개구장이 동표의 사랑스러운 순간]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75508</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 03 Mar 2023 06:16:58 GMT</pubDate>
             <content:encoded><![CDATA[놓쳐서는 안될 2023 뷰티 트렌드는 무엇?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/7275ff12-47a4-48e0-85e2-1cba8e336a4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌고 도는 패션 세계관? ‘그때 그 시절’ 룩을 꺼내 입은 셀럽들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75244</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75244</guid>
-            <pubDate>Fri, 03 Mar 2023 04:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[잊고 있던 창고 속 옷을 다시 들쳐 봐야 할 시간~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/ac236afe-7f43-4806-b052-bba785ac48e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽 운동복 파헤치기! 셀럽들이 사랑하는 운동복은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75237</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75237</guid>
-            <pubDate>Tue, 28 Feb 2023 16:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[안소희, 제니, 박지현, 혜리처럼 운동할 때도 스타일리시해지고 싶은 사람 손~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/bfdf0ae0-84bd-4674-94fe-5637a96fd80f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

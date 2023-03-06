@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 02:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 03:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니가 콘서트 찾아간 ‘프렌치 키위 주스’는 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75530</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75530</guid>
+            <pubDate>Mon, 06 Mar 2023 03:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 뮤지션 FKJ 콘서트장 찾은 제니.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/eededb27-9cb0-452f-b5b8-b58765713f3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장꾸미 가득! 개구장이 동표의 사랑스러운 순간]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75508</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 10:11:22 GMT</pubDate>
             <content:encoded><![CDATA[지금 투표가 올해 가장 잘한 일이 될지 모르는 K-서바이벌 관전 포인트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/620f2509-2cf6-42e7-b60e-1129ce43a88b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<일타 스캔들>청량 비주얼 4인방]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75407</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75407</guid>
-            <pubDate>Tue, 28 Feb 2023 09:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴은 소년, 피지컬은 으른! 선재, 건후, 희재 그리고 동희.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/529d9ca5-cdd5-40be-b25f-8abe862344ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
