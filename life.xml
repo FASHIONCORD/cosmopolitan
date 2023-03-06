@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 00:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 02:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<서진이네> 촬영지, 멕시코 바칼라르 여행 스폿 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75443</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75443</guid>
+            <pubDate>Mon, 06 Mar 2023 02:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[너무 예뻐서 ‘제2의 몰디브’로 불린다는 그곳!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/422ad7fb-46f6-4d40-b114-5dcf5446c99f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<피지컬: 100> 최종 우승자가 뒤바뀌었다?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75434</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 08:14:36 GMT</pubDate>
             <content:encoded><![CDATA[요즘 레스토랑들에선 먹고 마시기만 하는 게 아니다! 복합문화공간이 된 서울의 레스토랑들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ec7ca381-3082-4e35-bb1e-1636f3bf0987.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주의 서쪽, 조수리 핫플]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75415</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75415</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[모르면 후회할지도 모르는 제주도 포토샷.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9c4786a1-9931-4aae-b6f1-107f946e1a51.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
