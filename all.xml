@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 06:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 07:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,30 +291,6 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/7275ff12-47a4-48e0-85e2-1cba8e336a4f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빵 하나로 연매출 100억 달성? 농부에서 창업가가 된 감자밭 대표 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75416</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75416</guid>
-            <pubDate>Mon, 06 Mar 2023 04:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[아버지의 부탁으로 춘천에 내려와 감자를 팔게 된 청년 농부 이미소가 연매출 100억의 감자빵을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/4d52379a-9326-4b53-934d-5154039ae310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니가 콘서트 찾아간 ‘프렌치 키위 주스’는 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75530</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75530</guid>
-            <pubDate>Mon, 06 Mar 2023 03:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 뮤지션 FKJ 콘서트장 찾은 제니.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/eededb27-9cb0-452f-b5b8-b58765713f3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장꾸미 가득! 개구장이 동표의 사랑스러운 순간 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75508</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75508</guid>
-            <pubDate>Sun, 05 Mar 2023 15:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[PLAY WITH DONGPYO!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/dae72d0c-9bc5-4a9f-a533-4caea27e3ae5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뉴 신드롬! 뉴진스가 6개월 만에 이뤄낸 전무후무한 이력들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75445</link>
             <guid>https://www.cosmopolitan.co.kr/article/75445</guid>
@@ -353,6 +329,30 @@
             <pubDate>Fri, 03 Mar 2023 06:17:15 GMT</pubDate>
             <content:encoded><![CDATA[참다 참다 더 이상 숨길 수 없는 K-끼쟁이들 유닛&amp;솔로로 출동!  미사모, 부석순, 슈가, 지민...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/df434c63-92bb-4c57-91cb-54e37116abbd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-서바이벌 남돌 전쟁 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75425</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75425</guid>
+            <pubDate>Mon, 06 Mar 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[지금 투표가 올해 가장 잘한 일이 될지 모르는 K-서바이벌 관전 포인트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/620f2509-2cf6-42e7-b60e-1129ce43a88b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<일타 스캔들>청량 비주얼 4인방 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75407</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75407</guid>
+            <pubDate>Mon, 06 Mar 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴은 소년, 피지컬은 으른! 선재, 건후, 희재 그리고 동희.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/529d9ca5-cdd5-40be-b25f-8abe862344ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과민증, 나도 혹시! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75406</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75406</guid>
+            <pubDate>Mon, 06 Mar 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[오은영 &lt;금쪽상담소&gt;에서 셀럽들의 가장 많은 고민을 차지하는 ‘과민증'. 어떤 증상일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/4b8ede41-b6ed-4756-b621-7ec64e6b6a76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
