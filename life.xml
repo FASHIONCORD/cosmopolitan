@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 03:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 04:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WELCOME TO KOREA! 오매불망 기다린 내한 소식5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75450</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75450</guid>
+            <pubDate>Mon, 06 Mar 2023 04:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[이달에 무슨 일이? 이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/14c327b4-a1c0-4bde-b9cb-5c8372b9c0fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<서진이네> 촬영지, 멕시코 바칼라르 여행 스폿 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75443</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 09:12:43 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말에 고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9d1805f3-c1eb-4f86-829c-040f8325ebd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레스토랑에 친구 없이 혼자 가도 신나는 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75417</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75417</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 레스토랑들에선 먹고 마시기만 하는 게 아니다! 복합문화공간이 된 서울의 레스토랑들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ec7ca381-3082-4e35-bb1e-1636f3bf0987.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

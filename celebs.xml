@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 03:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 04:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빵 하나로 연매출 100억 달성? 농부에서 창업가가 된 감자밭 대표]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75416</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75416</guid>
+            <pubDate>Mon, 06 Mar 2023 04:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[아버지의 부탁으로 춘천에 내려와 감자를 팔게 된 청년 농부 이미소가 연매출 100억의 감자빵을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/4d52379a-9326-4b53-934d-5154039ae310.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니가 콘서트 찾아간 ‘프렌치 키위 주스’는 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75530</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Mar 2023 06:17:15 GMT</pubDate>
             <content:encoded><![CDATA[참다 참다 더 이상 숨길 수 없는 K-끼쟁이들 유닛&amp;솔로로 출동!  미사모, 부석순, 슈가, 지민...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/df434c63-92bb-4c57-91cb-54e37116abbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-서바이벌 남돌 전쟁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75425</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75425</guid>
-            <pubDate>Tue, 28 Feb 2023 10:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[지금 투표가 올해 가장 잘한 일이 될지 모르는 K-서바이벌 관전 포인트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/620f2509-2cf6-42e7-b60e-1129ce43a88b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
