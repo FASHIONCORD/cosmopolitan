@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 14:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 15:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태어나니 엄마가 OOO! 올해 2세를 출산하는 셀럽은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75566</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75566</guid>
+            <pubDate>Tue, 07 Mar 2023 15:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[나혜미·안영미·윤승아·허니제이까지! 2023년 검은 토끼띠 엄마가 될 예비맘 4.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/4a3dc795-8ece-4ddd-a9f8-059041b10c8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당장 팔로우 각? 인스타 피드 예쁘다고 소문난 연예인 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75565</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Mar 2023 15:10:57 GMT</pubDate>
             <content:encoded><![CDATA[맏형에 이어 입영 연기 자진 취소한 BTS 제이홉.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ad0d2383-0cea-4902-ada2-7f8165be3b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닮은 꼴로 유명한 송혜교∙한소희가 드라마를 함께 찍는다고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75432</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75432</guid>
-            <pubDate>Fri, 03 Mar 2023 10:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 '더 글로리' 송혜교의 차기작 정보가 공개됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/eaf023fb-b2b8-4c76-a7ac-04031d83d366.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

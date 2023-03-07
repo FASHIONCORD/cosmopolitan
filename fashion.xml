@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 14:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 15:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄이 왔나봄! 셀렙 PICK 핑크 스니커즈는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75562</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75562</guid>
+            <pubDate>Tue, 07 Mar 2023 15:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[올봄에는 장원영ㆍ슬기ㆍ조이처럼 발끝에 핑크 포인트 주기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/460712cd-59e6-4a60-9f7e-a53142d1254c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 에디터 이병호의 SPRING MOOD BOARD]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75554</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 04 Mar 2023 15:09:10 GMT</pubDate>
             <content:encoded><![CDATA[뼈 맞았다면 일단 클릭하시라.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/7f4e0a78-4684-443e-8731-9e3f95927662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COSMO HOT! 코스모가 픽한 3월의 아이템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75396</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75396</guid>
-            <pubDate>Sat, 04 Mar 2023 15:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 3월의 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/5440125b-091c-4a44-9dee-3caabcb0b954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
