@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 08:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 09:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다가올 ‘벚꽃’뷰 카페 미리 알아 두기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75567</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75567</guid>
+            <pubDate>Tue, 07 Mar 2023 09:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[이제 곧 벚꽃 시즌이다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/031d0222-4088-4618-991b-def2fc691031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2% 부족해? ‘서진이네’ 어벤져스 4인방 매력 탐구]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75561</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75561</guid>
+            <pubDate>Tue, 07 Mar 2023 09:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[정이사님부터 김인턴까지 각양각색 직원들과 함께하는 서진 사장님은 행복한 사람!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/57c8b40c-f280-465c-b162-5bb508c6fb28.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비밀 레시피 가득! 맛.잘.알들이 책을 냈다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75486</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 02 Mar 2023 15:11:55 GMT</pubDate>
             <content:encoded><![CDATA[그중 찐 맛집은 이거지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/e07b5185-1520-4854-8e18-a3d1b471a431.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딸기 메뉴 5대장]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75424</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75424</guid>
-            <pubDate>Wed, 01 Mar 2023 15:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[지금 당장 딸기 과다 수혈이 필요할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/5d84406a-23e0-4c23-924c-f882e78d8c3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 브런치 ‘맛맛맛’집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75422</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75422</guid>
-            <pubDate>Tue, 28 Feb 2023 15:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[힐링하러 함 가볼까나?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/61515671-5299-4d2c-8b09-afbc32d39a76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
