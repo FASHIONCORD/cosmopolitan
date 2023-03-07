@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노빠꾸 떡밥 실화? 엔믹스 릴리X규진의 TMI 대환장 파티]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75546</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75546</guid>
+            <pubDate>Tue, 07 Mar 2023 08:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[엔믹스 컴백 '빅'스포 다 알려드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/5b797862-cce2-4a52-b059-6e60e39bef37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니가 콘서트 찾아간 ‘프렌치 키위 주스’는 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75530</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Mar 2023 06:17:15 GMT</pubDate>
             <content:encoded><![CDATA[참다 참다 더 이상 숨길 수 없는 K-끼쟁이들 유닛&amp;솔로로 출동!  미사모, 부석순, 슈가, 지민...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/df434c63-92bb-4c57-91cb-54e37116abbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-서바이벌 남돌 전쟁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75425</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75425</guid>
-            <pubDate>Mon, 06 Mar 2023 07:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[지금 투표가 올해 가장 잘한 일이 될지 모르는 K-서바이벌 관전 포인트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/620f2509-2cf6-42e7-b60e-1129ce43a88b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
