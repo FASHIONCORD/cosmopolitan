@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 06:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 07:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -227,6 +227,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/5440125b-091c-4a44-9dee-3caabcb0b954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이게 과일이야, 화장품이야? 상콤 상콤한 프루트 뷰티템 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75552</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75552</guid>
+            <pubDate>Tue, 07 Mar 2023 07:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[이달에 무슨 일이? 이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/bdfc9324-3a9b-41ed-ad96-7b80ad4cde9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앞머리 있기 VS 없기! 셀럽들의 앞머리 헤어, 당신의 선택은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75399</link>
             <guid>https://www.cosmopolitan.co.kr/article/75399</guid>
@@ -281,14 +289,6 @@
             <pubDate>Fri, 03 Mar 2023 10:11:07 GMT</pubDate>
             <content:encoded><![CDATA[New, Need, Now!  봄바람 따라 두둥 등장~. 화장대를 리뉴얼해줄 3월의 뷰티 신상!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/83466ff2-c2fa-4485-a37b-17d7d4474666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한혜진이 말하는 청담동 메이크업 비법 대.방.출! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75446</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75446</guid>
-            <pubDate>Fri, 03 Mar 2023 10:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[톱 모델의 메이크업은 뭐가 다를까? 매력 부자 한혜진이 자신의 유튜브 채널에서 공개한 메이크...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/68243660-9647-4fdb-a9b1-58a1d1bc1f19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니가 콘서트 찾아간 ‘프렌치 키위 주스’는 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
