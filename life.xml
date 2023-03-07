@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 09:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 10:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가오픈 중인데도 벌써 핫해! 더 늦기 전 가야하는 수도권 신상 카페 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75597</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75597</guid>
+            <pubDate>Tue, 07 Mar 2023 10:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[새로이 다가오는 계절, 새로운 곳으로 놀러가고 싶었다면 필독!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/11d548c9-73b3-42e0-8c89-aca7354c77cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역시는 역시! 배우 조승우의 <신성한, 이혼> 관전포인트 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75583</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75583</guid>
+            <pubDate>Tue, 07 Mar 2023 10:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 드라마 사상 가장 높은 첫방송 최고 시청률 1위을 기록했다고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/81e57b58-b445-43f3-9948-f857c9ba884c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<일타스캔들> 평행세계! 일타스캔들 아역이 길복순 걔였어?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75575</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75575</guid>
+            <pubDate>Tue, 07 Mar 2023 10:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;소년심판&gt;에서는 다른 성을 연기했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/09a5ca3a-d783-42d9-9331-d3536e618c4e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다가올 ‘벚꽃’뷰 카페 미리 알아 두기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75567</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 06 Mar 2023 04:13:16 GMT</pubDate>
             <content:encoded><![CDATA[이달에 무슨 일이? 이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/14c327b4-a1c0-4bde-b9cb-5c8372b9c0fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서진이네> 촬영지, 멕시코 바칼라르 여행 스폿 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75443</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75443</guid>
-            <pubDate>Mon, 06 Mar 2023 02:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[너무 예뻐서 ‘제2의 몰디브’로 불린다는 그곳!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/422ad7fb-46f6-4d40-b114-5dcf5446c99f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<피지컬: 100> 최종 우승자가 뒤바뀌었다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75434</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75434</guid>
-            <pubDate>Fri, 03 Mar 2023 04:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[피지컬: 100 ‘결승 조작 논란’이 불거진 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/4130fd6c-b290-4219-aef6-f05b02520785.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용산구 ‘열정도’ 먹자 골목]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75426</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75426</guid>
-            <pubDate>Thu, 02 Mar 2023 15:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[그중 찐 맛집은 이거지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/e07b5185-1520-4854-8e18-a3d1b471a431.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
