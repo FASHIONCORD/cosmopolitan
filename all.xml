@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 00:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 02:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -163,6 +163,22 @@
             <content:encoded><![CDATA[성수동을 뜨겁게 달군 헤어 테크놀로지 체험 성지, 다이슨 스타일 랩▼ 클릭 ▼젠지 세대가 애정하는 성수동에 드디어 다이슨이 상륙했다. 혁신적인 헤어 테크놀로지를 직접 확인할 수 있는 헤어 제품 팝업 ‘다···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[패션 에디터 이병호의 SPRING MOOD BOARD (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75554</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75554</guid>
+            <pubDate>Tue, 07 Mar 2023 02:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[생각만 해도 설레는 봄. 새로운 계절을 맞이하는 코스모 패션 에디터들의 취향이 담긴 스프링 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/aa566004-c96e-4866-92e7-47af0a3a2068.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 디렉터 김지후의 SPRING MOOD BOARD (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75550</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75550</guid>
+            <pubDate>Tue, 07 Mar 2023 02:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[생각만 해도 설레는 봄. 새로운 계절을 맞이하는 코스모 패션 에디터들의 취향이 담긴 스프링 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/bf1cdb9a-2003-432f-8ad2-36c08f202571.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로워, 짜릿해! 2023년 뷰티 브랜드의 선택을 받은 NEW 뷰티 모델 6 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75549</link>
             <guid>https://www.cosmopolitan.co.kr/article/75549</guid>
@@ -211,20 +227,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/5440125b-091c-4a44-9dee-3caabcb0b954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패피는 ‘빈티지’를 입는다? 이동휘∙현아∙이종원의 빈티지 사랑! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75431</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75431</guid>
-            <pubDate>Fri, 03 Mar 2023 15:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[할머니 옷도 내가 입으면 힙 힙힙힙! 이동휘, 현아, 이종원의 힙 터지는 빈티지 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ffe07f11-d9c7-4dfe-956f-b3b0d7a23a69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차은우∙제이홉∙필릭스∙해찬의 꾸안꾸 필수템 버킷햇 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75428</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75428</guid>
-            <pubDate>Fri, 03 Mar 2023 08:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[잘생김은 가려지지 않는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/d8383c4c-e784-4d02-b5f3-8af706bfeb87.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고민시·설인아·채수빈 등 단발병 유발자 연예인 5 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75531</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75531</guid>
+            <pubDate>Tue, 07 Mar 2023 02:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[다가오는 봄, 깔끔한 단발은 어때요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/30043c50-9aa4-453a-97c5-55f81a0d2284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열흘만에 3kg 감량한 한혜진 다이어트 식단은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -281,14 +289,6 @@
             <pubDate>Fri, 03 Mar 2023 04:26:40 GMT</pubDate>
             <content:encoded><![CDATA[호기심, 당돌함, 꾸밈없는 아름다움의 키워드, 휘트니 픽.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/6cca2683-9035-43a0-8172-a3333331b6c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓벽한 헤어 스타일을 완성할 헤어 잇템 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75359</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75359</guid>
-            <pubDate>Thu, 02 Mar 2023 15:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[셀프 헤어 스타일링도 다음의 뷰티템만 있다면 SSAP 가능~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/27089854-ccbd-47af-a76e-daa94a54763c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장꾸미 가득! 개구장이 동표의 사랑스러운 순간 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -419,6 +419,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비밀 레시피 가득! 맛.잘.알들이 책을 냈다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75486</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75486</guid>
+            <pubDate>Tue, 07 Mar 2023 02:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[이달에 무슨 일이? 이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/1a2684b3-3540-4f68-bd2d-4708b7d3d3ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BACK TO SCHOOL! 새 학기 맞이 플렉스를 부르는 아이템6 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75453</link>
             <guid>https://www.cosmopolitan.co.kr/article/75453</guid>
@@ -473,14 +481,6 @@
             <pubDate>Tue, 28 Feb 2023 15:11:22 GMT</pubDate>
             <content:encoded><![CDATA[힐링하러 함 가볼까나?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/61515671-5299-4d2c-8b09-afbc32d39a76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로컬 스티치 회현에 가면 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75420</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75420</guid>
-            <pubDate>Tue, 28 Feb 2023 10:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[프리랜서들에게 코워킹, 코리빙 스페이스를 제공하는 로컬 스티치가 남대문과 서울역 사이에 새로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/616db410-17fc-487d-9d55-c73aa45f3b68.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 00:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 02:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 에디터 이병호의 SPRING MOOD BOARD]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75554</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75554</guid>
+            <pubDate>Tue, 07 Mar 2023 02:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[생각만 해도 설레는 봄. 새로운 계절을 맞이하는 코스모 패션 에디터들의 취향이 담긴 스프링 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/aa566004-c96e-4866-92e7-47af0a3a2068.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 디렉터 김지후의 SPRING MOOD BOARD]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75550</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75550</guid>
+            <pubDate>Tue, 07 Mar 2023 02:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[생각만 해도 설레는 봄. 새로운 계절을 맞이하는 코스모 패션 에디터들의 취향이 담긴 스프링 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/bf1cdb9a-2003-432f-8ad2-36c08f202571.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로워, 짜릿해! 2023년 뷰티 브랜드의 선택을 받은 NEW 뷰티 모델 6]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75549</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 04 Mar 2023 15:09:10 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 3월의 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/5440125b-091c-4a44-9dee-3caabcb0b954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패피는 ‘빈티지’를 입는다? 이동휘∙현아∙이종원의 빈티지 사랑!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75431</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75431</guid>
-            <pubDate>Fri, 03 Mar 2023 15:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[할머니 옷도 내가 입으면 힙 힙힙힙! 이동휘, 현아, 이종원의 힙 터지는 빈티지 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ffe07f11-d9c7-4dfe-956f-b3b0d7a23a69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차은우∙제이홉∙필릭스∙해찬의 꾸안꾸 필수템 버킷햇]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75428</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75428</guid>
-            <pubDate>Fri, 03 Mar 2023 08:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[잘생김은 가려지지 않는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/d8383c4c-e784-4d02-b5f3-8af706bfeb87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
