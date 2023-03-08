@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 00:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 02:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -227,6 +227,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/7f4e0a78-4684-443e-8731-9e3f95927662.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한 달 반 동안 ‘의지만으로’ 16kg 감량한 강재준! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75607</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75607</guid>
+            <pubDate>Wed, 08 Mar 2023 02:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[그가 살 빼면 가장 하고 싶었던 것은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/10a27237-9b78-4d37-822c-445c1f01baeb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니∙오눅∙크리스탈 등 셀럽들의 양갈래 땋은 머리! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75599</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75599</guid>
+            <pubDate>Wed, 08 Mar 2023 02:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽들처럼 내추럴하게 머리 땋는 비법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/bbcfbace-0b7c-413e-99b6-7243e0bd9fd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뷰티 아이콘 '바비'의 얼굴에서 발견한 NEW 뷰티 트렌드! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75400</link>
             <guid>https://www.cosmopolitan.co.kr/article/75400</guid>
@@ -273,30 +289,6 @@
             <pubDate>Mon, 06 Mar 2023 16:13:41 GMT</pubDate>
             <content:encoded><![CDATA[촬영 앞둔 모델의 급찐급빠 비법 공개.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/0a96dd6a-50d2-4d6d-9548-d3d4cfe0049c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“지겨운 건 매일 반복되는 일상이 아니라 알면서도 변하지 않는 나” (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75485</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75485</guid>
-            <pubDate>Sat, 04 Mar 2023 15:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[뼈 맞았다면 일단 클릭하시라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/7f4e0a78-4684-443e-8731-9e3f95927662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NO ALCOHOL?! 알코올이 없는 순딩이 '워터 베이스' 향수 추천 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75488</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75488</guid>
-            <pubDate>Sun, 05 Mar 2023 15:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[이달에 무슨 일이? 이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/2b14d73f-dffe-46a1-a583-d504660811b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태어나니 엄마가 OOO! 올해 2세를 출산하는 셀럽은 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75566</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75566</guid>
-            <pubDate>Tue, 07 Mar 2023 15:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[나혜미·안영미·윤승아·허니제이까지! 2023년 검은 토끼띠 엄마가 될 예비맘 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/4a3dc795-8ece-4ddd-a9f8-059041b10c8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당장 팔로우 각? 인스타 피드 예쁘다고 소문난 연예인 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -353,6 +345,14 @@
             <pubDate>Fri, 03 Mar 2023 15:10:57 GMT</pubDate>
             <content:encoded><![CDATA[맏형에 이어 입영 연기 자진 취소한 BTS 제이홉.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/ad0d2383-0cea-4902-ada2-7f8165be3b33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닮은 꼴로 유명한 송혜교∙한소희가 드라마를 함께 찍는다고?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75432</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75432</guid>
+            <pubDate>Wed, 08 Mar 2023 02:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 보는 '더 글로리' 송혜교의 차기작 정보가 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/eaf023fb-b2b8-4c76-a7ac-04031d83d366.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
