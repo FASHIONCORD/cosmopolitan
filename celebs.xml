@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 14:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 15:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어! 블랙핑크 지수 솔로 데뷔]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75605</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75605</guid>
+            <pubDate>Wed, 08 Mar 2023 15:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램을 통해 컴백 포스터를 공개했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/e80ee2e0-ab64-4852-ad68-d0cbfccdc884.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아버지도 배우라고?! 본투비 배우 유전자를 지닌 셀럽 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75587</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 04 Mar 2023 15:09:27 GMT</pubDate>
             <content:encoded><![CDATA[새 시대의 아이콘, 뉴진스가 6개월 만에 일궈낸 것들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/3ae9c330-b844-43c5-a7cb-4b272cc7f428.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[켄달 제너가 비버 부부와 더블 데이트를 했다고? 새 남자친구는 바로~.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75439</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75439</guid>
-            <pubDate>Sat, 04 Mar 2023 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[지금 지구에서 핫한 라틴 토끼, 배드 버니!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/96d3f81c-91d6-4f30-a6a0-e836ecc364b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
