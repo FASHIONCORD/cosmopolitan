@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 14:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 15:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스모키 is BACK! 강렬한 존재감의 스모키 메이크업이 트렌드?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75618</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75618</guid>
+            <pubDate>Thu, 09 Mar 2023 15:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[검게 번진 눈매에서 뿜어지는 강렬한 존재감. 반항아적인 면모가 돋보이는 스모키 아이 메이크업...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/f2b9c1b8-fde1-4092-94d0-af5845f179ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라운드어라운드의 감각적인 향과 함께한 <솔로지옥2> 신슬기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75577</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Mar 2023 03:25:00 GMT</pubDate>
             <content:encoded><![CDATA[이달에 무슨 일이? 이번 달 놓치지 말아야 할 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/6826997c-5c08-46d1-a8a7-0e42a521a2f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고민시·설인아·채수빈 등 단발병 유발자 연예인 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75531</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75531</guid>
-            <pubDate>Tue, 07 Mar 2023 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 봄, 깔끔한 단발은 어때요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/30043c50-9aa4-453a-97c5-55f81a0d2284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

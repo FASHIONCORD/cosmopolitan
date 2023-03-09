@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 14:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 15:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프렌치 시크의 정석 위키미키 김도연 사복패션 탐구]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75598</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75598</guid>
+            <pubDate>Thu, 09 Mar 2023 15:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[파리 여자 느낌 제대로인 김도연 패션의 비밀?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/3e2b4974-b6af-456c-9901-4b463296bf1f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 에디터 김소연의 SPRING MOOD BOARD]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75492</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Mar 2023 03:18:03 GMT</pubDate>
             <content:encoded><![CDATA[지금 가장 핫한 트렌드는 데님! 클래식과 트렌드를 아우르는 데님 룩 5가지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/ce9765e0-72a3-4686-8822-16d3d2f5c26f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악마는 프라다를 입을까? 에디터의 쌩 리얼 출근룩 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75524</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75524</guid>
-            <pubDate>Mon, 06 Mar 2023 03:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 다섯 번째 에피소드는? 찐 현실 주의! 코스모의 출근...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/2c5e8d58-79db-4964-b3eb-f831f80296d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
