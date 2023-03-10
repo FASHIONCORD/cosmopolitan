@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 15:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 16:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 지민∙엑소 카이∙샤이니 온유∙황민현 솔로 전쟁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75667</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75667</guid>
+            <pubDate>Fri, 10 Mar 2023 16:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[대어들이 출몰하는 3월 심장 어택 준비 완료?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/51208094-a37a-47ea-9558-6afb748f3d6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브 식구들이 총출동했다? 제이홉 신곡  댄스 챌린지]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75623</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Mar 2023 08:15:14 GMT</pubDate>
             <content:encoded><![CDATA[엔믹스 컴백 '빅'스포 다 알려드림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/5b797862-cce2-4a52-b059-6e60e39bef37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니가 콘서트 찾아간 ‘프렌치 키위 주스’는 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75530</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75530</guid>
-            <pubDate>Tue, 07 Mar 2023 03:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 뮤지션 FKJ 콘서트장 찾은 제니.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/eededb27-9cb0-452f-b5b8-b58765713f3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
