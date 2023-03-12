@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 14:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 15:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/460712cd-59e6-4a60-9f7e-a53142d1254c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄, 여름이 코앞! 지금 먹어야 할 이너뷰티템 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75640</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75640</guid>
+            <pubDate>Sun, 12 Mar 2023 15:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[잘나가는 셀렙들이 모두 반했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/e0322f9a-ac43-4e5b-8e0f-ba5a11545511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자기관리 존똑! 셀럽들의 이너뷰티 팁 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75639</link>
             <guid>https://www.cosmopolitan.co.kr/article/75639</guid>
@@ -280,14 +288,6 @@
             <pubDate>Tue, 07 Mar 2023 15:11:03 GMT</pubDate>
             <content:encoded><![CDATA[극도로 얇아진 눈썹, 시선을 압도하는 강렬한 마젠타, 눈부시게 반짝이는 글리터까지. 시대를 넘...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/754fe5ce-727c-4c30-a524-c161e3e09f7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[-3kg 쌉가능! 급찐급빠 한혜진 다이어트 식단 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75563</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75563</guid>
-            <pubDate>Tue, 07 Mar 2023 09:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 손민수하기 좋은 한혜진의 다이어트 식단 공개.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/aaee1650-a2e8-4ebb-8937-013fcb2671cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이브 식구들이 총출동했다? 제이홉 신곡  댄스 챌린지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
