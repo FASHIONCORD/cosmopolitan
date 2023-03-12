@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 15:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 16:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WHO'S NEXT? 패션 하우스에 제 2의 전성기를 가져다줄 뉴 디자이너는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75697</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75697</guid>
+            <pubDate>Sun, 12 Mar 2023 16:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이티브 디렉터의 교체는 곧 브랜드의 변화와 미래를 뜻한다. 새롭게 임명된 디자이너들은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/638ecc3d-53fc-4c36-82aa-240e8d0750ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOU ARE THE SHINE! 아트북과 파인 주얼리의 조우]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75634</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Mar 2023 15:11:04 GMT</pubDate>
             <content:encoded><![CDATA[딱 지금 입을 것만 알잘딱깔센으로 모아봤지~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/94d029bd-afdb-46e6-a1f1-1227d2ee9cc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄이 왔나봄! 셀렙 PICK 핑크 스니커즈는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75562</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75562</guid>
-            <pubDate>Tue, 07 Mar 2023 15:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[올봄에는 장원영ㆍ슬기ㆍ조이처럼 발끝에 핑크 포인트 주기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/460712cd-59e6-4a60-9f7e-a53142d1254c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
