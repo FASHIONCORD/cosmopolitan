@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 14:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 15:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지친 심신의 텐션을 끌올! 찐 힐링 배스 아이템 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75641</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75641</guid>
+            <pubDate>Mon, 13 Mar 2023 15:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[지친 심신을 끌어올려줄 힐링 타임! 더욱 완벽한 배스케이션을 위해 우리가 준비해야 할 것은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/3cc26f77-08da-46d3-8765-4c1d7765843d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당당한 여성의 ‘나’다움을 완성하는 향수]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75707</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Mar 2023 08:13:44 GMT</pubDate>
             <content:encoded><![CDATA[립부심 높이고 싶다면 주목! 마스크 속 꽁꽁 숨겼던 입술을 제대로 꾸며줄 2023 립 메이크업 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/895049ee-9d53-4ed9-b34e-3b1621d6a669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스모키 is BACK! 강렬한 존재감의 스모키 메이크업이 트렌드?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75618</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75618</guid>
-            <pubDate>Thu, 09 Mar 2023 15:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[검게 번진 눈매에서 뿜어지는 강렬한 존재감. 반항아적인 면모가 돋보이는 스모키 아이 메이크업...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/f2b9c1b8-fde1-4092-94d0-af5845f179ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

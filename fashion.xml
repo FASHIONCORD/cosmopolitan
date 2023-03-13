@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 14:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 15:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE BIKER CLUB! 바이커 재킷에 대한 모든 것]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75726</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75726</guid>
+            <pubDate>Mon, 13 Mar 2023 15:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[바이커 재킷은 옷장에 없어선 안 될 에센셜한 아이템이다. 세상에서 가장 특별한 가죽 재킷, 바...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/4f74f4e2-7f40-4b84-9cd2-4643d4f0bea0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손맛보단 역시 '툴'맛? 피부 속을 바꾸는 스킨케어 툴 추천서!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75635</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 09 Mar 2023 15:11:00 GMT</pubDate>
             <content:encoded><![CDATA[파리 여자 느낌 제대로인 김도연 패션의 비밀?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/3e2b4974-b6af-456c-9901-4b463296bf1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 에디터 김소연의 SPRING MOOD BOARD]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75492</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75492</guid>
-            <pubDate>Wed, 08 Mar 2023 16:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[생각만 해도 설레는 봄. 새로운 계절을 맞이하는 코스모 패션 에디터들의 취향이 담긴 스프링 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/8e867cc0-ccbc-42e6-81c4-33677fb926a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
