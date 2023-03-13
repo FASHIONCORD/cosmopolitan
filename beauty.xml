@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 10:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 11:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당당한 여성의 ‘나’다움을 완성하는 향수]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75707</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75707</guid>
+            <pubDate>Mon, 13 Mar 2023 11:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[휘트니 픽이 함께한 샤넬 코코 마드모아젤 캠페인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/28a79192-2726-41b3-b29b-31e98aa84282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에따 리브르 도랑쥬..? 역대급 반응터진 신상 향수 리뷰 (feat. 크래비티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75717</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75717</guid>
+            <pubDate>Mon, 13 Mar 2023 11:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 여섯 번째 에피소드는? 나는 새삥~ 신상 향수 싹 다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/7f624be9-7dc1-4f0b-98f9-8e51a4ddaecd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세 오브 대세! '글레이즈 도넛 스킨' 만드는 법 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75696</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 09 Mar 2023 15:11:08 GMT</pubDate>
             <content:encoded><![CDATA[검게 번진 눈매에서 뿜어지는 강렬한 존재감. 반항아적인 면모가 돋보이는 스모키 아이 메이크업...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/f2b9c1b8-fde1-4092-94d0-af5845f179ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라운드어라운드의 감각적인 향과 함께한 <솔로지옥2> 신슬기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75577</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75577</guid>
-            <pubDate>Thu, 09 Mar 2023 02:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[들판 위 햇살을 가득 품은 새하얀 들꽃의 향을 감각적으로 담아낸 라운드어라운드 BEST 프래그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/4498dee9-1996-4795-89d9-e7e57ca8841b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 달 반 동안 ‘의지만으로’ 16kg 감량한 강재준!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75607</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75607</guid>
-            <pubDate>Wed, 08 Mar 2023 02:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[그가 살 빼면 가장 하고 싶었던 것은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/10a27237-9b78-4d37-822c-445c1f01baeb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

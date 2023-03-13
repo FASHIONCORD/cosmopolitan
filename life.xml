@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 10:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 11:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금은 안국역 시대]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75769</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75769</guid>
+            <pubDate>Mon, 13 Mar 2023 11:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[안국역 멋지다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/6440b52c-e6f5-44d0-a279-e2c61a049c34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[분위기 도라방스~ MZ 취향 저격 BAR]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75766</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 05:10:20 GMT</pubDate>
             <content:encoded><![CDATA[배우들이 직접 확인해준 뇌피셜 최최최종 정리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/38f6f7d7-61f0-42e7-81bb-cc47ab58fee4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남들 다 가는 곳 말고 여기! 신사동 숨겨진 찐 맛집 리스트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75617</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75617</guid>
-            <pubDate>Mon, 13 Mar 2023 02:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[웨이팅 줄만 길고 맛은 그저 그런 페이크 맛집은 가라! 가로수길 리얼 맛집 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/6b42315b-0e0e-48bd-8a11-62edbff9aaf6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
