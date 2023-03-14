@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 05:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 06:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극심한 온도차? 알고보면 더 영광스러운 <더 글로리> 비하인드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75773</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75773</guid>
+            <pubDate>Tue, 14 Mar 2023 06:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[반전도 이런 반전이 따로 없다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/f5a8ed61-27ea-496b-b5b9-05d9977f8f2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 안국역 시대]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75769</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 08:14:48 GMT</pubDate>
             <content:encoded><![CDATA[서울부터 제주까지, 나랑 꽃 보러 가지 않을래?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/db21987b-e41b-4c95-b885-f942d4da2271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 본체 확인 완료! <더글로리> 파트 2 궁예 중 맞는 것이 있다고!?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75619</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75619</guid>
-            <pubDate>Mon, 13 Mar 2023 05:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우들이 직접 확인해준 뇌피셜 최최최종 정리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/38f6f7d7-61f0-42e7-81bb-cc47ab58fee4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
