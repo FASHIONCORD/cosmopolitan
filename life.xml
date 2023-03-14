@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 08:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광흥창역 근처 인싸력 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75779</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75779</guid>
+            <pubDate>Tue, 14 Mar 2023 09:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[오픈런 되기 직전인 예비 핫플!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/055621a5-7285-4b5d-9aae-da6e2b1609c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개성 있는 이색 치킨 핫플]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75778</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75778</guid>
+            <pubDate>Tue, 14 Mar 2023 09:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[치킨 처돌이 돌격 완료?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/a4f16383-1027-4288-b13b-22426d1f17d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플렉스 뿜뿜 오픈런 맛집]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75776</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 10:13:17 GMT</pubDate>
             <content:encoded><![CDATA[편지나 유서를 쓰는 것으로는 김은숙 작가를 따라올 이가 없다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/0b6e09ef-3446-43c6-8c31-a40a1d97376a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기만렙 <더 글로리> 속 광기 가득한 엄마들 #스포아님]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75752</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75752</guid>
-            <pubDate>Mon, 13 Mar 2023 10:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[최강 빌런이기도 히어로이기도 한 더 글로리 엄마들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/c930d306-50bf-46c9-9383-5e870b223abd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출시 임박 애플페이! 이마트·스타벅스에선 못 쓴다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75622</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75622</guid>
-            <pubDate>Mon, 13 Mar 2023 10:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[제휴사 확대 애먹는 애플페이의 진통.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/baf0fcc7-acb5-45d0-8a9f-4d6511e23e21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

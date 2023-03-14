@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 08:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러블리 그 잡채! 정지소(JungJiSo)의 근황부터 ‘더 글로리’ 비하인드까지탈탈 털어 봄]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75715</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75715</guid>
+            <pubDate>Tue, 14 Mar 2023 09:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;더 글로리&gt;정지소, 비하인드 썰 다 푼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/b5bc6c8f-b49b-4feb-b89c-17f4ba7df3bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['힙 그 잡채' 현아가 매일매일 FUN하게 사는 비결은? (ft. 따사 KEEM)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75705</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75705</guid>
+            <pubDate>Tue, 14 Mar 2023 09:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[매일 매일이 빨개요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/36627570-1d84-4505-9094-e8726b611b13.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최최차차 차은우가 사용하는 품절대란 헤어 드라이어는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75689</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 09 Mar 2023 10:12:54 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램을 통해 컴백 포스터를 공개했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/e80ee2e0-ab64-4852-ad68-d0cbfccdc884.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지도 배우라고?! 본투비 배우 유전자를 지닌 셀럽 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75587</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75587</guid>
-            <pubDate>Wed, 08 Mar 2023 09:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[지금의 배두나, 이청아, 이유진을 있게 한 부모님은 바로~~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/dd575ca5-28fd-45d4-99bf-72131d5b6f4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태어나니 엄마가 OOO! 올해 2세를 출산하는 셀럽은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75566</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75566</guid>
-            <pubDate>Wed, 08 Mar 2023 09:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[나혜미·안영미·윤승아·허니제이까지! 2023년 검은 토끼띠 엄마가 될 예비맘 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/4a3dc795-8ece-4ddd-a9f8-059041b10c8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
