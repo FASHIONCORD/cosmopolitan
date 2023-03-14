@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 07:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 08:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플렉스 뿜뿜 오픈런 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75776</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75776</guid>
+            <pubDate>Tue, 14 Mar 2023 08:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[비싼 만큼 아니 그보다 더 맛있어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/402adcf0-ae80-4fd5-aacd-10a18bd3b7c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소문난 한강 뷰 맛집 카페 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75775</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75775</guid>
+            <pubDate>Tue, 14 Mar 2023 08:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[이곳만 가면 한강 뷰 원없이 볼 수 있다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/13ad2abe-28a4-4a54-93f0-10b505e5542b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극심한 온도차? 알고보면 더 영광스러운 <더 글로리> 비하인드]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75773</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 10:13:17 GMT</pubDate>
             <content:encoded><![CDATA[제휴사 확대 애먹는 애플페이의 진통.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/baf0fcc7-acb5-45d0-8a9f-4d6511e23e21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인테리어의 완성은 거울? 방 분위기를 바꿔줄 디자인 거울 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75621</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75621</guid>
-            <pubDate>Mon, 13 Mar 2023 09:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[지루하고 밋밋한 공간을 거울로 바꿔보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/51d66313-62cf-4252-8ebc-9ed298c45cc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 얼마만의 꽃놀이? 봄이 그렇게도 좋은 '꽃 러버'를 위한 축제 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75620</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75620</guid>
-            <pubDate>Mon, 13 Mar 2023 08:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[서울부터 제주까지, 나랑 꽃 보러 가지 않을래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/db21987b-e41b-4c95-b885-f942d4da2271.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
