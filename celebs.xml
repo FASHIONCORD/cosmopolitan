@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 08:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 09:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌이 픽한 띵곡은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75812</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75812</guid>
+            <pubDate>Wed, 15 Mar 2023 09:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[아껴 쓰고 다시 쓰고 빨아 쓰던 추억 소환 리메이크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/fc24d49a-f5af-4d36-acd1-9bb6e660db5c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[축, 양자경 오스카 수상! 아카데미 수상 배우들의 감동적인 수상 소감 모음]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75799</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Mar 2023 08:13:52 GMT</pubDate>
             <content:encoded><![CDATA[“이 조합 대찬성” 뉴진스, TXT와 역대급 댄스 콜라보한 제이홉.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/a569df04-76d6-45c6-a797-efe734839448.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유아인 나가고 김성철 들어갔다, 사건 사고 이후 배우 교체]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75612</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75612</guid>
-            <pubDate>Fri, 10 Mar 2023 03:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[구원투수, 위화전복, 믿습니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/0c254f45-ec90-408c-8886-5259940e9876.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
