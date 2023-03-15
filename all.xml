@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 14:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 15:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,6 +290,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/895049ee-9d53-4ed9-b34e-3b1621d6a669.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나혼산 이유진의 감성 자취 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75813</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75813</guid>
+            <pubDate>Wed, 15 Mar 2023 15:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[‘업자’소리 들은 금손 인테리어… 근데 이제 잘생김을 곁들인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/eabb0447-c2be-4e55-ba88-a08af3dc5679.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이돌이 픽한 띵곡은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75812</link>
             <guid>https://www.cosmopolitan.co.kr/article/75812</guid>
@@ -344,14 +352,6 @@
             <pubDate>Tue, 14 Mar 2023 07:11:28 GMT</pubDate>
             <content:encoded><![CDATA[대어들이 출몰하는 3월 심장 어택 준비 완료?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/51208094-a37a-47ea-9558-6afb748f3d6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 식구들이 총출동했다? 제이홉 신곡  댄스 챌린지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75623</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75623</guid>
-            <pubDate>Fri, 10 Mar 2023 08:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[“이 조합 대찬성” 뉴진스, TXT와 역대급 댄스 콜라보한 제이홉.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/a569df04-76d6-45c6-a797-efe734839448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
