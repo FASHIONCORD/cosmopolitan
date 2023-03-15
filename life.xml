@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 07:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 08:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄타고 식물 쇼핑 가고 싶은 사람]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75796</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75796</guid>
+            <pubDate>Wed, 15 Mar 2023 08:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[봄에는 파릇파릇 식쇼가 제격!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/e7a35777-3f18-4729-a2c6-1fed5a0abf46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광흥창역 근처 인싸력 맛집]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75779</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 10:13:17 GMT</pubDate>
             <content:encoded><![CDATA[가볍게 한잔 콜?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/3445bb55-83d9-49ce-867d-70505cb2cd2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김은숙표 편지 & 유서 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75755</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75755</guid>
-            <pubDate>Mon, 13 Mar 2023 10:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[편지나 유서를 쓰는 것으로는 김은숙 작가를 따라올 이가 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/0b6e09ef-3446-43c6-8c31-a40a1d97376a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
