@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 00:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 02:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[데뷔&nbsp;1년도&nbsp;안됐는데&nbsp;이렇게&nbsp;뜨기&nbsp;있다고? ▼&nbsp;클릭&nbsp;▼  요즘 핫해도 너무 핫해, 배우 노윤서! 데뷔 1년도 안됐는데 이렇게 뜨기 있다고? www.cosmopolitan.co.kr 조회 수 1600만 회의 주인공 동영상  버튼을 누르면 현···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['헤드폰' 헤어 힙하게 연출하고 싶다면? SNS 속 잇걸들의 헤어 샘플러 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75636</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75636</guid>
+            <pubDate>Thu, 16 Mar 2023 02:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[하이프 보이, 하이프 걸들의 필수 텍세서리 헤드폰. 내가 썼더니 묘하게 어색함이 느껴진다면? ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/a6e7c3a1-7875-436e-868f-a0a170be0df1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A FRESH NEW ME! 새 봄에 걸맞은 뉴 룩! (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75637</link>
             <guid>https://www.cosmopolitan.co.kr/article/75637</guid>
@@ -218,12 +226,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/da0c93d3-dc6c-475b-90f3-e656622e95cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지수∙오눅∙차정원 등 요즘 핫한 아디다스 삼바 연예인 착샷 5 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75600</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75600</guid>
-            <pubDate>Fri, 10 Mar 2023 15:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[어디에나 잘 어울리는 삼바 연예인 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/e7f55d5b-a135-4483-a6db-9387aef5af7e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제니가 요즘 푹 빠진 메이크업이 뭐라고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75759</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75759</guid>
+            <pubDate>Thu, 16 Mar 2023 02:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 쇼, 자크뮈스 받고 블핑 투어까지! 젠득이 누디 스타일 다 뽑아봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/d22a7317-8410-4725-9fbf-af1d50eebeaa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원장님, 이 머리로 할게요! 수지∙블핑∙뉴진스도 한 헤어 스타일은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75758</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75758</guid>
+            <pubDate>Thu, 16 Mar 2023 02:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴이 작아 보인다는 그 유명한 레이어드 헤어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/7e2315d9-8af4-40ba-a0c8-14a407d9900c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지친 심신의 텐션을 끌올! 찐 힐링 배스 아이템 7 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -272,22 +288,6 @@
             <pubDate>Sun, 12 Mar 2023 15:08:51 GMT</pubDate>
             <content:encoded><![CDATA[잘나가는 셀렙들이 모두 반했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/e0322f9a-ac43-4e5b-8e0f-ba5a11545511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자기관리 존똑! 셀럽들의 이너뷰티 팁 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75639</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75639</guid>
-            <pubDate>Fri, 10 Mar 2023 10:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[몸이 재산! 나이보다 어린 동안 피부, 탄탄한 몸매까지 꽉 잡은 셀럽 이너뷰티 팁.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/ea71de6f-6013-49f7-8034-020c4eb62e15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[립부심 높이고 싶다면 주목! 2023 립 메이크업 트렌드는 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75628</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75628</guid>
-            <pubDate>Fri, 10 Mar 2023 08:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[립부심 높이고 싶다면 주목! 마스크 속 꽁꽁 숨겼던 입술을 제대로 꾸며줄 2023 립 메이크업 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/895049ee-9d53-4ed9-b34e-3b1621d6a669.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이돌이 픽한 띵곡은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
