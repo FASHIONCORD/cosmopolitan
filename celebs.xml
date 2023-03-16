@@ -4,17 +4,9 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 22:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 23:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[‘젠득이’에게 이런 모습이? 선배미 뿜뿜하는 제니 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75815</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75815</guid>
-            <pubDate>Thu, 16 Mar 2023 15:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[진심어린 조언하는 제니, 이런 선배 있으면 세상이 든든할듯!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/f059ad84-6932-42fe-89e9-c34acb5498f7.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나혼산 이유진의 감성 자취]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75813</link>
@@ -70,6 +62,14 @@
             <pubDate>Tue, 14 Mar 2023 08:15:11 GMT</pubDate>
             <content:encoded><![CDATA[역대급 K-POP 역사를 새로 쓰는 중!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/e806d3f5-710f-41f2-a12e-e26bf5e2406f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민∙엑소 카이∙샤이니 온유∙황민현 솔로 전쟁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75667</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75667</guid>
+            <pubDate>Thu, 16 Mar 2023 23:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[대어들이 출몰하는 3월 심장 어택 준비 완료?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/51208094-a37a-47ea-9558-6afb748f3d6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
