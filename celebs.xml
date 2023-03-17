@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 07:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 08:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<소울메이트>변우석, 촬영장에서 심쿵하다!?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75843</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75843</guid>
+            <pubDate>Fri, 17 Mar 2023 08:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[변우석! 왜 그렇게 예쁘게 우석?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/2766e1f3-bc84-41c8-af01-de5357ef90b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑꾼 고백부터 학폭 연루까지? 스타 PD들의 반전 라이프]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75821</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75821</guid>
+            <pubDate>Fri, 17 Mar 2023 08:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[연진아 이건 그냥 못 넘어가겠다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/de164582-a175-4a2f-8db2-8c811ef3dffe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘젠득이’에게 이런 모습이? 선배미 뿜뿜하는 제니 모먼트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75815</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 14 Mar 2023 09:11:09 GMT</pubDate>
             <content:encoded><![CDATA[매일 매일이 빨개요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/36627570-1d84-4505-9094-e8726b611b13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최최차차 차은우가 사용하는 품절대란 헤어 드라이어는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75689</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75689</guid>
-            <pubDate>Tue, 14 Mar 2023 08:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[NEW 다이슨 슈퍼소닉™ 헤어 드라이어가 바로 그것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/cce7b291-4e7b-486e-b02c-96e8cb60120e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폼 미친 블핑 국뽕 레전드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75668</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75668</guid>
-            <pubDate>Tue, 14 Mar 2023 08:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[역대급 K-POP 역사를 새로 쓰는 중!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/e806d3f5-710f-41f2-a12e-e26bf5e2406f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
