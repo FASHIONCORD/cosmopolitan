@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 22:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 23:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,14 +291,6 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/e0322f9a-ac43-4e5b-8e0f-ba5a11545511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전재준 과몰입 방지, 본캐 박성훈의 실제 모습은 무엇? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75850</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75850</guid>
-            <pubDate>Sat, 18 Mar 2023 15:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[다꾸하는 ENFP인간이라는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/ff7d7069-63a0-4841-8591-780ccbd6afe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<소울메이트>변우석, 촬영장에서 심쿵하다!? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75843</link>
             <guid>https://www.cosmopolitan.co.kr/article/75843</guid>
@@ -353,6 +345,14 @@
             <pubDate>Tue, 14 Mar 2023 09:11:09 GMT</pubDate>
             <content:encoded><![CDATA[&lt;더 글로리&gt;정지소, 비하인드 썰 다 푼다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/b5bc6c8f-b49b-4feb-b89c-17f4ba7df3bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['힙 그 잡채' 현아가 매일매일 FUN하게 사는 비결은? (ft. 따사 KEEM) (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75705</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75705</guid>
+            <pubDate>Sat, 18 Mar 2023 23:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[매일 매일이 빨개요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/36627570-1d84-4505-9094-e8726b611b13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
