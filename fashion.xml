@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 06:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 07:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남친한테 링크 보낼 각! 블핑이 사랑한 귀염뽀짝 하트 백]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75753</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75753</guid>
+            <pubDate>Mon, 20 Mar 2023 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[자기야, 화이트데이 선물로 하트 백 어때?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/25f87639-a4f6-49d3-ba41-fedf1de43f36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[23 S/S COSMOPOLITAN RUNWAY! 백스테이지의 현장으로]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75642</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 11 Mar 2023 16:11:12 GMT</pubDate>
             <content:encoded><![CDATA[아트 북의 일부가 된 파인 주얼리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/3c742bd3-61df-4554-a36f-d04bbdb79119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[액세서리보다 힙하다?! 개성과 취향대로 즐길 수 있는 '타투' 룩 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75401</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75401</guid>
-            <pubDate>Sat, 11 Mar 2023 15:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[날개뼈 사이로 피어난 꽃, 의미심장한 메시지의 폰트 드로잉 등 타투야말로 그 어떤 액세서리보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/f466bd7d-627d-4c6f-a158-48fab6755a0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

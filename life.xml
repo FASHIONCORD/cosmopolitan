@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 06:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 07:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스크 벗고 소리 질러! 페스티벌 시즌이 돌아왔다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75930</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75930</guid>
+            <pubDate>Mon, 20 Mar 2023 07:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[서.재.페부터 뷰.민.라까지~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/c1ed597a-daa3-4319-8174-84397dfe9e07.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위스키 입문자들을 위한 서울 위스키 바 추천]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75847</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 14 Mar 2023 09:11:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈런 되기 직전인 예비 핫플!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/055621a5-7285-4b5d-9aae-da6e2b1609c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개성 있는 이색 치킨 핫플]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75778</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75778</guid>
-            <pubDate>Tue, 14 Mar 2023 09:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[치킨 처돌이 돌격 완료?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/a4f16383-1027-4288-b13b-22426d1f17d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

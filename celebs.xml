@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 06:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 07:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한소희, 송혜교에게 폭탄선언 하다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75895</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75895</guid>
+            <pubDate>Mon, 20 Mar 2023 07:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[송혜교X한소희 조합 나만 기대돼?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/590d2c79-45b3-41d4-905a-00151a75cbc4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<더 글로리> 다정한 美친놈, 배우 이도현과 불가리의 매혹적인 만남!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75887</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Mar 2023 09:11:33 GMT</pubDate>
             <content:encoded><![CDATA[‘업자’소리 들은 금손 인테리어… 근데 이제 잘생김을 곁들인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/eabb0447-c2be-4e55-ba88-a08af3dc5679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌이 픽한 띵곡은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75812</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75812</guid>
-            <pubDate>Wed, 15 Mar 2023 09:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[아껴 쓰고 다시 쓰고 빨아 쓰던 추억 소환 리메이크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/fc24d49a-f5af-4d36-acd1-9bb6e660db5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
