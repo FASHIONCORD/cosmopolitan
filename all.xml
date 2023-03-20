@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 00:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 02:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,6 +291,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/e0322f9a-ac43-4e5b-8e0f-ba5a11545511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5월에 요정들 대.거.출.몰?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75883</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75883</guid>
+            <pubDate>Mon, 20 Mar 2023 02:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[활동마다 ‘최초’타이틀을 기록 중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/83029657-dccf-4442-b775-aa7b83a1790a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전재준 과몰입 방지, 본캐 박성훈의 실제 모습은 무엇? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75850</link>
             <guid>https://www.cosmopolitan.co.kr/article/75850</guid>
@@ -345,14 +353,6 @@
             <pubDate>Wed, 15 Mar 2023 07:09:39 GMT</pubDate>
             <content:encoded><![CDATA[우리 언니 수상 소감 하는데 누가 자르니?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/978bccf0-9e03-4e7d-a3fe-2d25fec3dd0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러블리 그 잡채! 정지소(JungJiSo)의 근황부터 ‘더 글로리’ 비하인드까지탈탈 털어 봄 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75715</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75715</guid>
-            <pubDate>Tue, 14 Mar 2023 09:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;더 글로리&gt;정지소, 비하인드 썰 다 푼다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/b5bc6c8f-b49b-4feb-b89c-17f4ba7df3bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -419,6 +419,30 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세상을 떠난 <검정 고무신> 원작자의 충격적인 수입?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75816</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75816</guid>
+            <pubDate>Mon, 20 Mar 2023 02:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[이우영 작가를 죽음으로 내몬 ‘저작권 분쟁’.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/95da0398-f150-4e4d-adeb-387720ee6a8f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파워 시동 걸린 괴물 예능이 온다! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75809</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75809</guid>
+            <pubDate>Mon, 20 Mar 2023 02:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[웃수저 출동 완료.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/eb17f7fd-8d4e-471d-9d8e-446d152c2818.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 글로리> 재밌게 봤다면! 맛있는 복수 드라마 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75804</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75804</guid>
+            <pubDate>Mon, 20 Mar 2023 02:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[맵고 달고 짜고, 모든 맛이 다 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/e6afd15d-b59e-4306-82a5-3ce1311fe928.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄타고 식물 쇼핑 가고 싶은 사람 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75796</link>
             <guid>https://www.cosmopolitan.co.kr/article/75796</guid>
@@ -457,30 +481,6 @@
             <pubDate>Tue, 14 Mar 2023 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[이곳만 가면 한강 뷰 원없이 볼 수 있다고.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/13ad2abe-28a4-4a54-93f0-10b505e5542b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극심한 온도차? 알고보면 더 영광스러운 <더 글로리> 비하인드 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75773</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75773</guid>
-            <pubDate>Tue, 14 Mar 2023 06:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[반전도 이런 반전이 따로 없다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/f5a8ed61-27ea-496b-b5b9-05d9977f8f2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 안국역 시대 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75769</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75769</guid>
-            <pubDate>Mon, 13 Mar 2023 11:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[안국역 멋지다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/6440b52c-e6f5-44d0-a279-e2c61a049c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분위기 도라방스~ MZ 취향 저격 BAR (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75766</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75766</guid>
-            <pubDate>Mon, 13 Mar 2023 10:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[가볍게 한잔 콜?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/3445bb55-83d9-49ce-867d-70505cb2cd2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
