@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위스키 입문자들을 위한 서울 위스키 바 추천]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75847</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75847</guid>
+            <pubDate>Mon, 20 Mar 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[하이볼 열풍에 따라 위스키 인기력 무한 상승 중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/86cf7148-7f3c-4a58-8851-8e7fab6e9896.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 글로리>∙<일타 스캔들> 모두 여기서 찍었다고? 핫플 등극한 청주]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75817</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75817</guid>
+            <pubDate>Mon, 20 Mar 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;일타 스캔들&gt;의 반찬가게도, &lt;더 글로리&gt;의 은행나무도 바로 이곳!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/9a5a4b0f-fbeb-4e75-a307-25d02e9d86af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상을 떠난 <검정 고무신> 원작자의 충격적인 수입?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75816</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 14 Mar 2023 09:11:32 GMT</pubDate>
             <content:encoded><![CDATA[치킨 처돌이 돌격 완료?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/a4f16383-1027-4288-b13b-22426d1f17d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플렉스 뿜뿜 오픈런 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75776</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75776</guid>
-            <pubDate>Tue, 14 Mar 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[비싼 만큼 아니 그보다 더 맛있어!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/402adcf0-ae80-4fd5-aacd-10a18bd3b7c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소문난 한강 뷰 맛집 카페 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75775</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75775</guid>
-            <pubDate>Tue, 14 Mar 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[이곳만 가면 한강 뷰 원없이 볼 수 있다고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/13ad2abe-28a4-4a54-93f0-10b505e5542b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

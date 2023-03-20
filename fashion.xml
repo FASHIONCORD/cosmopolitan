@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[23 S/S COSMOPOLITAN RUNWAY! 백스테이지의 현장으로]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75642</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75642</guid>
+            <pubDate>Mon, 20 Mar 2023 03:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[넘치는 에너지와 긴장감 그리고 유쾌한 바이브가 가득한 백스테이지의 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/56a0e119-dc82-442a-83a7-3fd5f373b745.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['헤드폰' 헤어 힙하게 연출하고 싶다면? SNS 속 잇걸들의 헤어 샘플러]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75636</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 11 Mar 2023 15:08:59 GMT</pubDate>
             <content:encoded><![CDATA[날개뼈 사이로 피어난 꽃, 의미심장한 메시지의 폰트 드로잉 등 타투야말로 그 어떤 액세서리보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/f466bd7d-627d-4c6f-a158-48fab6755a0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CARGO IS BACK! 카고팬츠의 성대한 귀환!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75629</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75629</guid>
-            <pubDate>Fri, 10 Mar 2023 15:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[카고 팬츠가 돌아왔다. 그 어느 때보다도 다채로운 모습으로!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/da0c93d3-dc6c-475b-90f3-e656622e95cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

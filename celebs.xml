@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 글로리> 다정한 美친놈, 배우 이도현과 불가리의 매혹적인 만남!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75887</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75887</guid>
+            <pubDate>Mon, 20 Mar 2023 03:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[순백의 남자를 옥죄어 초대한 관능의 세계. 지금 이도현이 맞이한 영광의 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/70d07584-cf43-4d3c-a37e-daaf4883e334.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월에 요정들 대.거.출.몰?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75883</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Mar 2023 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[아껴 쓰고 다시 쓰고 빨아 쓰던 추억 소환 리메이크.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/fc24d49a-f5af-4d36-acd1-9bb6e660db5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축, 양자경 오스카 수상! 아카데미 수상 배우들의 감동적인 수상 소감 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75799</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75799</guid>
-            <pubDate>Wed, 15 Mar 2023 07:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[우리 언니 수상 소감 하는데 누가 자르니?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/978bccf0-9e03-4e7d-a3fe-2d25fec3dd0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
