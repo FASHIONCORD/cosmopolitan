@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 03:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[초간단인데 맛있다고?? 노필터티비 프토 레시피! ▼&nbsp;클릭&nbsp;▼  빵에 소금을 뿌려? 김나영식 프렌치 토스트~. 초간단인데 맛있다고?? 노필터티비 프토 레시피! www.cosmopolitan.co.kr  프토의 정석  달걀에 우유와 설탕···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NOT YOUR TYPICAL GIRL! 패션으로 표현한 자아 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75787</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75787</guid>
+            <pubDate>Tue, 21 Mar 2023 03:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[나 자신을 표현하는 본질적인 물음에 답할 때.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/328425cb-9861-44dc-a115-b3697fa11c00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남친한테 링크 보낼 각! 블핑이 사랑한 귀염뽀짝 하트 백 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75753</link>
             <guid>https://www.cosmopolitan.co.kr/article/75753</guid>
@@ -216,14 +224,6 @@
             <pubDate>Sun, 12 Mar 2023 16:10:45 GMT</pubDate>
             <content:encoded><![CDATA[크리에이티브 디렉터의 교체는 곧 브랜드의 변화와 미래를 뜻한다. 새롭게 임명된 디자이너들은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/638ecc3d-53fc-4c36-82aa-240e8d0750ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOU ARE THE SHINE! 아트북과 파인 주얼리의 조우 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75634</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75634</guid>
-            <pubDate>Sat, 11 Mar 2023 16:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[아트 북의 일부가 된 파인 주얼리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/3c742bd3-61df-4554-a36f-d04bbdb79119.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니가 요즘 푹 빠진 메이크업이 뭐라고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
