@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 04:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스∙슬기 등 셀럽 ‘풋볼티셔츠’ 스타일링 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75864</guid>
+            <pubDate>Tue, 21 Mar 2023 05:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 핫한 ‘풋볼 티’ 셀럽들은 어떻게 코디 했을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b1973b1a-1f6c-48b7-b624-ea355a1155c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 입으로 배불러? '소식좌' 열풍이 몰고 온 찬반 논란!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75829</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75829</guid>
+            <pubDate>Tue, 21 Mar 2023 05:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[커피 한 잔, 김밥 세 알이 한 끼라고? 소식좌 열풍이 몰고 온 찬반 논란.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/3daaa725-235d-44a7-974d-4677a0c8730d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NOT YOUR TYPICAL GIRL! 패션으로 표현한 자아]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75787</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 15:09:06 GMT</pubDate>
             <content:encoded><![CDATA[바이커 재킷은 옷장에 없어선 안 될 에센셜한 아이템이다. 세상에서 가장 특별한 가죽 재킷, 바...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/4f74f4e2-7f40-4b84-9cd2-4643d4f0bea0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손맛보단 역시 '툴'맛? 피부 속을 바꾸는 스킨케어 툴 추천서!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75635</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75635</guid>
-            <pubDate>Mon, 13 Mar 2023 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[손맛보다 ‘툴’맛! 피부 속을 바꾸는 스킨케어 툴 추천서. 스킨케어할 때 도구 하나쯤은 써줘야...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/e28991ee-fb9d-438e-b3ef-aa0e6f39c0d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHO'S NEXT? 패션 하우스에 제 2의 전성기를 가져다줄 뉴 디자이너는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75697</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75697</guid>
-            <pubDate>Sun, 12 Mar 2023 16:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이티브 디렉터의 교체는 곧 브랜드의 변화와 미래를 뜻한다. 새롭게 임명된 디자이너들은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/638ecc3d-53fc-4c36-82aa-240e8d0750ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
