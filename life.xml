@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 07:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 08:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YOZM 웹예능 특: 술토크]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75958</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75958</guid>
+            <pubDate>Tue, 21 Mar 2023 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[술이 빠지지 않고 등장하는 웹 예능이 몰려온다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/8ac557fd-0b69-4663-8c1a-be397772fef4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이렇게 만난다고? 이색 콜라보 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75954</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 07:10:24 GMT</pubDate>
             <content:encoded><![CDATA[서.재.페부터 뷰.민.라까지~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/c1ed597a-daa3-4319-8174-84397dfe9e07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위스키 입문자들을 위한 서울 위스키 바 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75847</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75847</guid>
-            <pubDate>Mon, 20 Mar 2023 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[하이볼 열풍에 따라 위스키 인기력 무한 상승 중!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/86cf7148-7f3c-4a58-8851-8e7fab6e9896.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
