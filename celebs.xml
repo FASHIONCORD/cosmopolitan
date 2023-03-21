@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 23:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 00:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현웃 주의! 뱀뱀한테 연애 고민 상담한 SSUL]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75899</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75899</guid>
+            <pubDate>Tue, 21 Mar 2023 00:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 일곱 번째 에피소드는? 동(갑)친(구) 뱀뱀을 만난 막내...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/778f924d-1c80-4d35-a7ee-e7bea99cc914.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한소희, 송혜교에게 폭탄선언 하다?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75895</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 17 Mar 2023 00:46:14 GMT</pubDate>
             <content:encoded><![CDATA[진심어린 조언하는 제니, 이런 선배 있으면 세상이 든든할듯!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/f059ad84-6932-42fe-89e9-c34acb5498f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나혼산 이유진의 감성 자취]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75813</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75813</guid>
-            <pubDate>Thu, 16 Mar 2023 09:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘업자’소리 들은 금손 인테리어… 근데 이제 잘생김을 곁들인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/eabb0447-c2be-4e55-ba88-a08af3dc5679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
