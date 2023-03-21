@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 06:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 07:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유재석의 원픽! 틴탑 is 백]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75950</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75950</guid>
+            <pubDate>Tue, 21 Mar 2023 07:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[유재석의 소원성취, &lt;놀면뭐하니&gt;로 소환된 띵곡 장인 틴탑의 컴백 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/3a47ecc2-0ea8-4a3d-9467-80aaaac001e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘더 글로리2’ 정주행 다음 날, 이도현이 나타났다! 이거 실화임?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75940</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 02:14:22 GMT</pubDate>
             <content:encoded><![CDATA[활동마다 ‘최초’타이틀을 기록 중!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/83029657-dccf-4442-b775-aa7b83a1790a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전재준 과몰입 방지, 본캐 박성훈의 실제 모습은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75850</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75850</guid>
-            <pubDate>Mon, 20 Mar 2023 00:47:20 GMT</pubDate>
-            <content:encoded><![CDATA[다꾸하는 ENFP인간이라는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/ff7d7069-63a0-4841-8591-780ccbd6afe3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
