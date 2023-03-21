@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 02:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS공식 먹짱 정국 추천! 불그리 그게 뭔데?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75939</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75939</guid>
+            <pubDate>Tue, 21 Mar 2023 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[안 먹어볼 수 없는 방탄 정국이의 추천 메뉴, 그 맛 어떤데~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/4643f67b-e4b7-4516-844b-a63343fcbbd7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에 그득한 스페인 간식, 츄러스 맛집 리스트~]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75938</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 02:14:55 GMT</pubDate>
             <content:encoded><![CDATA[이우영 작가를 죽음으로 내몬 ‘저작권 분쟁’.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/95da0398-f150-4e4d-adeb-387720ee6a8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파워 시동 걸린 괴물 예능이 온다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75809</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75809</guid>
-            <pubDate>Mon, 20 Mar 2023 02:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[웃수저 출동 완료.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/eb17f7fd-8d4e-471d-9d8e-446d152c2818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

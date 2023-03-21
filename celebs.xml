@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 02:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4세대 대표 '힐링돌' 스테이씨의 완전체 화보!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75892</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75892</guid>
+            <pubDate>Tue, 21 Mar 2023 02:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[쉿! 비행기 모드를 한 소녀들의 작당 모의에 초대합니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/3e43d3c8-792d-482a-8066-416b3254c79b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현웃 주의! 뱀뱀한테 연애 고민 상담한 SSUL]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75899</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 17 Mar 2023 08:13:09 GMT</pubDate>
             <content:encoded><![CDATA[연진아 이건 그냥 못 넘어가겠다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/de164582-a175-4a2f-8db2-8c811ef3dffe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘젠득이’에게 이런 모습이? 선배미 뿜뿜하는 제니 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75815</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75815</guid>
-            <pubDate>Fri, 17 Mar 2023 00:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[진심어린 조언하는 제니, 이런 선배 있으면 세상이 든든할듯!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/f059ad84-6932-42fe-89e9-c34acb5498f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
