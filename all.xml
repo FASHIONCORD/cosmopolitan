@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 06:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/4f74f4e2-7f40-4b84-9cd2-4643d4f0bea0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사람이야, 조각이야? ‘짐종국’이 인정한 헬스 러버 셀럽들 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75782</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75782</guid>
+            <pubDate>Wed, 22 Mar 2023 06:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴도 잘 생겼는데 몸까지 좋으면 반칙 아니냐고요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9e999738-6767-433e-96b9-b0d735711e6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시선 집중! 봄 분위기 끌올 해줄 스프링 네일 6 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75781</link>
             <guid>https://www.cosmopolitan.co.kr/article/75781</guid>
@@ -282,12 +290,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/f9731ebd-3530-4b2e-bd71-67dfeb8aeb85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[얼굴 천재 차은우가 픽한 헤어 드라이어 천재는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75676</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75676</guid>
-            <pubDate>Mon, 13 Mar 2023 05:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[잔머리를 매끄럽게 정돈해주는 NEW 다이슨 슈퍼소닉™ 헤어 드라이어!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/ec1ef947-fc14-45f2-b2dc-8bf890b14b3f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제이홉부터 옹성우·민혁까지! 군백기를 앞둔 남돌은 누규? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75992</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75992</guid>
+            <pubDate>Wed, 22 Mar 2023 06:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[다치치 말고 무사 전역하길!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/8d1376ce-289a-4387-8a04-ee276d9fcd8a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 바이럴 그 잡채, 김연아❤고우림의 신혼 라이프 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -344,14 +352,6 @@
             <pubDate>Tue, 21 Mar 2023 00:43:06 GMT</pubDate>
             <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 일곱 번째 에피소드는? 동(갑)친(구) 뱀뱀을 만난 막내...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/778f924d-1c80-4d35-a7ee-e7bea99cc914.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희, 송혜교에게 폭탄선언 하다? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75895</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75895</guid>
-            <pubDate>Mon, 20 Mar 2023 07:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[송혜교X한소희 조합 나만 기대돼?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/590d2c79-45b3-41d4-905a-00151a75cbc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
