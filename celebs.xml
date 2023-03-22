@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 23:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 00:44:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼 바이럴 그 잡채, 김연아❤고우림의 신혼 라이프]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75977</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75977</guid>
+            <pubDate>Wed, 22 Mar 2023 00:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[연느님이 집에서 기다리고 있다는 그 남자의 삶 속으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/a9eb27b5-6c38-4c6b-b781-af57187dc3f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 가장 빛나는 조우, 김재중&김준수의 데뷔 20주년 화보!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75956</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 07:10:08 GMT</pubDate>
             <content:encoded><![CDATA[송혜교X한소희 조합 나만 기대돼?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/590d2c79-45b3-41d4-905a-00151a75cbc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 글로리> 다정한 美친놈, 배우 이도현과 불가리의 매혹적인 만남!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75887</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75887</guid>
-            <pubDate>Mon, 20 Mar 2023 03:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[순백의 남자를 옥죄어 초대한 관능의 세계. 지금 이도현이 맞이한 영광의 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/70d07584-cf43-4d3c-a37e-daaf4883e334.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
