@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 04:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,6 +290,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/f9731ebd-3530-4b2e-bd71-67dfeb8aeb85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[필요한 건 목소리뿐, 아카데미에서 맨 얼굴로 노래한 레이디 가가?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76015</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76015</guid>
+            <pubDate>Thu, 23 Mar 2023 05:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[지난 오스카의 또 다른 히어로, 레이디 가가!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/a3c6ecd2-b2a0-456e-be7c-baa8808945be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8년 연애 끝 결혼! 세븐❤이다해 러브스토리 총정리 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75998</link>
             <guid>https://www.cosmopolitan.co.kr/article/75998</guid>
@@ -344,14 +352,6 @@
             <pubDate>Tue, 21 Mar 2023 06:12:19 GMT</pubDate>
             <content:encoded><![CDATA[본캐마저 다정한 망나니, 이도현과의 영광스러운 줌터뷰.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/e3dc3271-7f4b-4692-8b81-b913813e42c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세 오브 대세, 더 글로리 배우들의 차기작 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75929</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75929</guid>
-            <pubDate>Mon, 20 Mar 2023 09:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[나는 아직 망나니 이도현을 보낼 준비가 안되었는데..]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/a871a959-5b9f-4e7b-8fd8-2cc90e93f1d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
