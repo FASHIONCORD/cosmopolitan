@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 00:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 02:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8년 연애 끝 결혼! 세븐❤이다해 러브스토리 총정리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75998</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75998</guid>
+            <pubDate>Thu, 23 Mar 2023 02:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[세븐에게는 가장 짧은 연애로, 이다해에겐 가장 긴 연애로 기록된 둘의 러브 스토리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/1564eac1-0d3e-49aa-b3d4-c627e1aed26d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부기 관리 필수템은 ‘이것’! 지압 슬리퍼를 사랑한 셀럽 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75996</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 06:12:19 GMT</pubDate>
             <content:encoded><![CDATA[나는 아직 망나니 이도현을 보낼 준비가 안되었는데..]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/a871a959-5b9f-4e7b-8fd8-2cc90e93f1d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4세대 대표 '힐링돌' 스테이씨의 완전체 화보!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75892</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75892</guid>
-            <pubDate>Tue, 21 Mar 2023 02:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[쉿! 비행기 모드를 한 소녀들의 작당 모의에 초대합니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/3e43d3c8-792d-482a-8066-416b3254c79b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
