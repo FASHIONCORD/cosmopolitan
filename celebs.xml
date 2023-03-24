@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 23:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 00:44:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청춘물의 대명사 변우석의 선과 악이 공존하는 화보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75988</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75988</guid>
+            <pubDate>Fri, 24 Mar 2023 00:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[선과 악이 공존하는 얼굴과 충만한 영혼의 소유자, 배우 변우석의 자유로운 오후.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1cafbadb-2469-43e2-be02-f2d41ea93753.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[필요한 건 목소리뿐, 아카데미에서 맨 얼굴로 노래한 레이디 가가?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76015</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[유재석의 소원성취, &lt;놀면뭐하니&gt;로 소환된 띵곡 장인 틴탑의 컴백 소식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/3a47ecc2-0ea8-4a3d-9467-80aaaac001e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘더 글로리2’ 정주행 다음 날, 이도현이 나타났다! 이거 실화임?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75940</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75940</guid>
-            <pubDate>Tue, 21 Mar 2023 06:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[본캐마저 다정한 망나니, 이도현과의 영광스러운 줌터뷰.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/e3dc3271-7f4b-4692-8b81-b913813e42c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
