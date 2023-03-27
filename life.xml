@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 00:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 02:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 여행 대신 ‘이자카야’ 어때?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75980</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75980</guid>
+            <pubDate>Mon, 27 Mar 2023 02:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[비행기를 타지 않고도 갈 수 있는 작은 일본.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/7ebc0549-ef64-4ed9-b9d4-714558fb2473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성수동 로컬만 아는 진또배기 곱창 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75960</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75960</guid>
+            <pubDate>Mon, 27 Mar 2023 02:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[곱창 세끼 가능한 성수동 곱창 맛집 베스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/96ec45e3-0736-4e85-86b9-cc800682ed8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOZM 웹예능 특: 술토크]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75958</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 09:12:12 GMT</pubDate>
             <content:encoded><![CDATA[뭘 좋아할지 몰라 다 준비했어~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/17c00ad1-8caa-48b4-b0fa-321d86347399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세 오브 대세, 더 글로리 배우들의 차기작]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75929</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75929</guid>
-            <pubDate>Mon, 20 Mar 2023 09:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[나는 아직 망나니 이도현을 보낼 준비가 안되었는데..]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/a871a959-5b9f-4e7b-8fd8-2cc90e93f1d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크 벗고 소리 질러! 페스티벌 시즌이 돌아왔다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75930</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75930</guid>
-            <pubDate>Mon, 20 Mar 2023 07:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[서.재.페부터 뷰.민.라까지~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/c1ed597a-daa3-4319-8174-84397dfe9e07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

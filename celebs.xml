@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 00:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 02:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG가 내놓은 새로운 걸그룹 <베이비 몬스터> 멤버 살펴보기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76059</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76059</guid>
+            <pubDate>Mon, 27 Mar 2023 02:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[블핑 이후로 7년만의 걸그룹! 멤버는 과연 누구?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/44f3043f-acc2-4e40-9f2d-df1c00dd715d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강렬하고 강인하게,]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75955</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Mar 2023 06:12:41 GMT</pubDate>
             <content:encoded><![CDATA[다치치 말고 무사 전역하길!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/8d1376ce-289a-4387-8a04-ee276d9fcd8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 바이럴 그 잡채, 김연아❤고우림의 신혼 라이프]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75977</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75977</guid>
-            <pubDate>Wed, 22 Mar 2023 00:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[연느님이 집에서 기다리고 있다는 그 남자의 삶 속으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/a9eb27b5-6c38-4c6b-b781-af57187dc3f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
