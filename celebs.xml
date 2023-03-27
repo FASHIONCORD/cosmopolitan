@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 07:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 08:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판빙빙과 퀴어영화 <그린나이트>로 베를린 초청 받은 이주영의 행보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76144</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76144</guid>
+            <pubDate>Mon, 27 Mar 2023 08:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이주영은 자유롭다. 퀴어 영화를 촬영하는 것도, 트랜스젠더로 분하는 것도, 한국 프로 야...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/ae4fe8e0-2a11-4a9f-b36b-844c006b2001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[걸그룹 차세대 비주얼! 미모 끝판왕 있지 유나의 인생 첫 화보]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76096</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 05:09:14 GMT</pubDate>
             <content:encoded><![CDATA[지난 오스카의 또 다른 히어로, 레이디 가가!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/a3c6ecd2-b2a0-456e-be7c-baa8808945be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8년 연애 끝 결혼! 세븐❤이다해 러브스토리 총정리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75998</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75998</guid>
-            <pubDate>Thu, 23 Mar 2023 02:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[세븐에게는 가장 짧은 연애로, 이다해에겐 가장 긴 연애로 기록된 둘의 러브 스토리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/1564eac1-0d3e-49aa-b3d4-c627e1aed26d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
