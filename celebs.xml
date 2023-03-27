@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 05:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 06:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제나 너무 귀여워서 미안해, 댕댕이 츄(CHUU)가 요즘 과몰입한 것은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76070</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76070</guid>
+            <pubDate>Mon, 27 Mar 2023 06:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[왕간다 말고 츄간다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/eabb6ed9-8b64-4ed6-bf5a-5f1cd3a62a5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG가 내놓은 새로운 걸그룹 <베이비 몬스터> 멤버 살펴보기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76059</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 00:46:31 GMT</pubDate>
             <content:encoded><![CDATA[신예은∙서인국∙아이린의 필수템은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/b3ac2ac8-b6f5-4243-a91a-763af2f503bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉부터 옹성우·민혁까지! 군백기를 앞둔 남돌은 누규?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75992</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75992</guid>
-            <pubDate>Wed, 22 Mar 2023 06:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[다치치 말고 무사 전역하길!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/8d1376ce-289a-4387-8a04-ee276d9fcd8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
