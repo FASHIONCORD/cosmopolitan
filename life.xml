@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 02:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 03:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안소희와 함께 압구정 핫플레이스 투어 해볼까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75990</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75990</guid>
+            <pubDate>Mon, 27 Mar 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[‘트민녀’ 안소희 PICK! 압구정 핫플레이스 리스트를 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/b8a2a2a9-cd71-4ffd-b444-5665e031dd69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 여행 대신 ‘이자카야’ 어때?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75980</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 09:12:12 GMT</pubDate>
             <content:encoded><![CDATA[놀이공원 간식 아니고 대세 디저트 맞습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/47deb083-7abf-4387-b494-bd9144db5304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페스티벌 처돌이들 주목! 2023 상반기 뮤직 페스티벌 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75934</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75934</guid>
-            <pubDate>Mon, 20 Mar 2023 09:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[뭘 좋아할지 몰라 다 준비했어~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/17c00ad1-8caa-48b4-b0fa-321d86347399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
