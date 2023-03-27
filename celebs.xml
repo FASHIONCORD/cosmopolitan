@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 23:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 00:43:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강렬하고 강인하게,]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75955</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75955</guid>
+            <pubDate>Mon, 27 Mar 2023 00:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[어제보다 오늘 더 강해진 츄가 말한다. 어떤 일이 있어도 두렵지 않다고. 그러니 뭐든 다 와보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/f4b19e33-de80-46ed-8b31-a9182f825259.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW 댄스봇 등장! 스테이씨가 추는 랜덤 플레이 댄스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76039</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76039</guid>
+            <pubDate>Mon, 27 Mar 2023 00:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[몰라도 일단 추고 보는 스테이씨(STAYC)의 댄스 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/a6c066e8-e0f0-49ce-9121-80e978c35d9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청춘물의 대명사 변우석의 선과 악이 공존하는 화보]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75988</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 22 Mar 2023 00:43:50 GMT</pubDate>
             <content:encoded><![CDATA[연느님이 집에서 기다리고 있다는 그 남자의 삶 속으로.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/a9eb27b5-6c38-4c6b-b781-af57187dc3f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 빛나는 조우, 김재중&김준수의 데뷔 20주년 화보!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75956</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75956</guid>
-            <pubDate>Tue, 21 Mar 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[다시 타오르기 시작한, 그리고 영원히 지속될 지금 김재중과 김준수의 조우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/6eab58ae-ce60-42eb-a8ac-ed0431c337aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재석의 원픽! 틴탑 is 백]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75950</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75950</guid>
-            <pubDate>Tue, 21 Mar 2023 07:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[유재석의 소원성취, &lt;놀면뭐하니&gt;로 소환된 띵곡 장인 틴탑의 컴백 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/3a47ecc2-0ea8-4a3d-9467-80aaaac001e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
