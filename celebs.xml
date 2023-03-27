@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 08:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 09:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또다시 수면 위로 올라온 승리의 그녀, 유혜원은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76145</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76145</guid>
+            <pubDate>Mon, 27 Mar 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[출소와 동시에 방콕 여행을 함께 했다고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/06fb0409-cc3f-4dbc-a6cd-d1f86abb626b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판빙빙과 퀴어영화 <그린나이트>로 베를린 초청 받은 이주영의 행보]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76144</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Mar 2023 00:43:24 GMT</pubDate>
             <content:encoded><![CDATA[선과 악이 공존하는 얼굴과 충만한 영혼의 소유자, 배우 변우석의 자유로운 오후.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1cafbadb-2469-43e2-be02-f2d41ea93753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필요한 건 목소리뿐, 아카데미에서 맨 얼굴로 노래한 레이디 가가?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76015</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76015</guid>
-            <pubDate>Thu, 23 Mar 2023 05:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[지난 오스카의 또 다른 히어로, 레이디 가가!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/a3c6ecd2-b2a0-456e-be7c-baa8808945be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

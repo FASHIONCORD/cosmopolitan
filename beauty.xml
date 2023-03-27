@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 08:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 09:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[60만원 FLEX?! 1n년차 뷰티 에디터들의 '찐' 공병템 텁니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76120</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76120</guid>
+            <pubDate>Mon, 27 Mar 2023 09:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 여덟 번째 에피소드는? '탈탈' 털어 쓴 에디터의 공...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/df8572e1-146d-41d3-8fcd-52414b3c517f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클라랑스와 함께한 황민현의 뷰티 모먼트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76030</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 06:12:11 GMT</pubDate>
             <content:encoded><![CDATA[보기만 해도 행복해! 긍정적인 바이브를 뿜어내는 봄 네일 총집합!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/78994eca-2fea-4570-9c2e-a8deab89d44a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니가 요즘 푹 빠진 메이크업이 뭐라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75759</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75759</guid>
-            <pubDate>Thu, 16 Mar 2023 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 쇼, 자크뮈스 받고 블핑 투어까지! 젠득이 누디 스타일 다 뽑아봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/d22a7317-8410-4725-9fbf-af1d50eebeaa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
