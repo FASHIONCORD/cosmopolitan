@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 02:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 03:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연예계 찐친 전소미·지젤이 군살 하나 없는 이유?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76152</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76152</guid>
+            <pubDate>Tue, 28 Mar 2023 03:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[복근 장착에 힙업까지! 친구랑 하면 더 좋은 운동 루틴~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/596d2acc-3d1a-4df3-9676-0b5fe4dfffae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[60만원 FLEX?! 1n년차 뷰티 에디터들의 '찐' 공병템 텁니다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76120</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Mar 2023 06:12:31 GMT</pubDate>
             <content:encoded><![CDATA[얼굴도 잘 생겼는데 몸까지 좋으면 반칙 아니냐고요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9e999738-6767-433e-96b9-b0d735711e6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시선 집중! 봄 분위기 끌올 해줄 스프링 네일 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75781</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75781</guid>
-            <pubDate>Tue, 21 Mar 2023 06:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 행복해! 긍정적인 바이브를 뿜어내는 봄 네일 총집합!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/78994eca-2fea-4570-9c2e-a8deab89d44a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
