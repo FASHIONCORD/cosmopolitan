@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 05:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 06:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 글로리>를 잇는 ‘초대형’ 넷플 공개 예정작 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76148</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76148</guid>
+            <pubDate>Tue, 28 Mar 2023 06:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[길을 비켜라. ‘쎈’ 언니들 등장하신다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/12045379-202c-4ee0-8b07-a9d1bdfeca55.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[큰 거 옵니다! 새롭게 컴백하는 화제작 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76147</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[술이 빠지지 않고 등장하는 웹 예능이 몰려온다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/8ac557fd-0b69-4663-8c1a-be397772fef4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 만난다고? 이색 콜라보 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75954</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75954</guid>
-            <pubDate>Tue, 21 Mar 2023 06:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[이 조합 아주아주 신선하고 칭찬해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/95ecb398-746a-4845-8e59-a36387844a97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
