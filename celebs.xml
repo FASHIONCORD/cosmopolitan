@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 23:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 00:49:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 가족은 발달장애인입니다, 이도현의 수상 소감 속 그 동생]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76166</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76166</guid>
+            <pubDate>Wed, 29 Mar 2023 00:49:14 GMT</pubDate>
+            <content:encoded><![CDATA[오윤아, 주호민, 이도현의 고백과 부탁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/847544a0-2a8c-44cc-acc9-633db704256e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추성훈, 추사랑 남친에게 한마디!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76161</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 02:03:11 GMT</pubDate>
             <content:encoded><![CDATA[블핑 이후로 7년만의 걸그룹! 멤버는 과연 누구?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/44f3043f-acc2-4e40-9f2d-df1c00dd715d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강렬하고 강인하게,]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75955</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75955</guid>
-            <pubDate>Mon, 27 Mar 2023 00:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[어제보다 오늘 더 강해진 츄가 말한다. 어떤 일이 있어도 두렵지 않다고. 그러니 뭐든 다 와보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/f4b19e33-de80-46ed-8b31-a9182f825259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
