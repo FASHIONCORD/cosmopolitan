@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 00:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 02:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벚꽃비 내리기 전에 가야 할 전국구 벚꽃뷰 카페 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76185</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76185</guid>
+            <pubDate>Wed, 29 Mar 2023 02:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[2주 빨리 핀 벚꽃, 다 떨어지기 전에 서두르자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/92473e09-038f-42b2-9635-7185751d832d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이어트 필수템, 제로 칼로리 음료 이 성분 체크]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76154</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76154</guid>
+            <pubDate>Wed, 29 Mar 2023 02:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트 성공을 위해 제로 칼로리 음료 고를 때 꼭 체크해야할 성분을 알려줄게!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a25c4dfa-3d79-4210-b394-704f6d5a9e03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<더 글로리>를 잇는 ‘초대형’ 넷플 공개 예정작 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76148</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 02:03:42 GMT</pubDate>
             <content:encoded><![CDATA[비행기를 타지 않고도 갈 수 있는 작은 일본.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/7ebc0549-ef64-4ed9-b9d4-714558fb2473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성수동 로컬만 아는 진또배기 곱창 맛집 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75960</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75960</guid>
-            <pubDate>Mon, 27 Mar 2023 02:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[곱창 세끼 가능한 성수동 곱창 맛집 베스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/96ec45e3-0736-4e85-86b9-cc800682ed8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOZM 웹예능 특: 술토크]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75958</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75958</guid>
-            <pubDate>Tue, 21 Mar 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[술이 빠지지 않고 등장하는 웹 예능이 몰려온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/8ac557fd-0b69-4663-8c1a-be397772fef4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
