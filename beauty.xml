@@ -4,17 +4,9 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 22:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 23:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[두피부터 머리카락 끝까지, 모델 한혜진의 헤어케어 루틴!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76156</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76156</guid>
-            <pubDate>Wed, 29 Mar 2023 04:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[모델은 헤어 관리도 특별하다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/96e11d9e-cbb0-4302-9abb-211ac1a659bc.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[환승연애 나연, -20kg 다이어트 찐천재가 나타났다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76153</link>
@@ -70,6 +62,14 @@
             <pubDate>Mon, 27 Mar 2023 03:10:21 GMT</pubDate>
             <content:encoded><![CDATA[‘히메컷’ 촌스럽지 않게 연출하는 법!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/13d6def9-01d1-44f8-aafa-6ef79e55863a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['버섯증후군'을 조심하세요! 버섯증후군 A to Z]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/75785</link>
+            <guid>https://www.cosmopolitan.co.kr/article/75785</guid>
+            <pubDate>Wed, 29 Mar 2023 23:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[갑자기 웬 버섯이냐고? 지금 당장 손을 들어 목 뒤를 만져보자.  버섯처럼 혹이 자라고 있을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/b2a3cec9-c2ab-4393-9219-c162ea5f6559.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
