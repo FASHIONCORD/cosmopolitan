@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 02:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 03:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[까면 깔수록 매력 있어! 믿.보.배 이도현의 TMI는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76189</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76189</guid>
+            <pubDate>Wed, 29 Mar 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[하나부터 열까지 모두 궁금해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/34676c34-bb88-48da-b956-ab1a71c7b3c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[있지 황금 막내에서 핫한 언니로 변신?! 유나의 잔망 가득 줌터뷰]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76187</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76187</guid>
+            <pubDate>Wed, 29 Mar 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[조회수 340만회! 유고걸 직캠 비하인드까지~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/39662802-15f5-4f04-8ded-7f499c19192c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제 가족은 발달장애인입니다, 이도현의 수상 소감 속 그 동생]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76166</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 07:10:43 GMT</pubDate>
             <content:encoded><![CDATA[있지(ITZY) 유나는 음악에 관한 기존의 공식을 모두 허물어버린다. 밝은 에너지를 음악의 일부로...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a813e28f-56ca-451b-bc4c-9d188b6b144b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언제나 너무 귀여워서 미안해, 댕댕이 츄(CHUU)가 요즘 과몰입한 것은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76070</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76070</guid>
-            <pubDate>Mon, 27 Mar 2023 06:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[왕간다 말고 츄간다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/eabb6ed9-8b64-4ed6-bf5a-5f1cd3a62a5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG가 내놓은 새로운 걸그룹 <베이비 몬스터> 멤버 살펴보기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76059</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76059</guid>
-            <pubDate>Mon, 27 Mar 2023 02:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[블핑 이후로 7년만의 걸그룹! 멤버는 과연 누구?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/44f3043f-acc2-4e40-9f2d-df1c00dd715d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
