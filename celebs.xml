@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 05:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 06:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카리나∙있지∙나연 등 셀카 장인 아이돌들이 푹 빠진 후면 셀피 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76209</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76209</guid>
+            <pubDate>Thu, 30 Mar 2023 06:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[셀카 장인 아이돌들 사이에서 요즘 유행하는 셀피 포즈는 바로 이것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/20fb8848-5a9d-4207-8e1a-9976ceb91f31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불사신, 살인마, 빌런, 이번엔 '살인자의 쇼핑몰' 운영자? 강렬한 캐릭터 수집가, 배우 김혜준의 상큼 터지는 화보]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76201</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[출소와 동시에 방콕 여행을 함께 했다고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/06fb0409-cc3f-4dbc-a6cd-d1f86abb626b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판빙빙과 퀴어영화 <그린나이트>로 베를린 초청 받은 이주영의 행보]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76144</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76144</guid>
-            <pubDate>Mon, 27 Mar 2023 08:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이주영은 자유롭다. 퀴어 영화를 촬영하는 것도, 트랜스젠더로 분하는 것도, 한국 프로 야...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/ae4fe8e0-2a11-4a9f-b36b-844c006b2001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
