@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 14:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 15:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패피들 사이에서 대세라는 아톰부츠! 전소미∙홍은채 등 연예인 착샷 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76061</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76061</guid>
+            <pubDate>Fri, 31 Mar 2023 15:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[이게 정말 유행이라고?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/c8dda525-e37d-41ff-8fd6-b06e3d9b0764.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임지연∙수영∙김나영 등 셀럽들의 청청패션 코디 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76060</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76060</guid>
+            <pubDate>Fri, 31 Mar 2023 15:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[올 봄 트렌드인 청청 데님 패션, 셀럽들은 어떻게 입었을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/e2ff9dc6-7601-4745-8bdd-d39dfc0776fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기은세가 피워낸 봄]]></title>
             <link>https://www.cosmopolitan.co.kr/article/75933</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 05:09:57 GMT</pubDate>
             <content:encoded><![CDATA[요즘 핫한 ‘풋볼 티’ 셀럽들은 어떻게 코디 했을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b1973b1a-1f6c-48b7-b624-ea355a1155c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 입으로 배불러? '소식좌' 열풍이 몰고 온 찬반 논란!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75829</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75829</guid>
-            <pubDate>Tue, 21 Mar 2023 05:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[커피 한 잔, 김밥 세 알이 한 끼라고? 소식좌 열풍이 몰고 온 찬반 논란.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/3daaa725-235d-44a7-974d-4677a0c8730d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOT YOUR TYPICAL GIRL! 패션으로 표현한 자아]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75787</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75787</guid>
-            <pubDate>Tue, 21 Mar 2023 03:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[나 자신을 표현하는 본질적인 물음에 답할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/328425cb-9861-44dc-a115-b3697fa11c00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
