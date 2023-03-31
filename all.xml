@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 07:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 08:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,6 +291,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/ecba28d2-f3f9-46c9-945a-87f7b936eeec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대체불가 이효리 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76251</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76251</guid>
+            <pubDate>Fri, 31 Mar 2023 08:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[지금 이대로 좋아. 여유와 쿨함이 느껴지는 이효리와 쟈딕앤볼테르의 애티튜드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/4985ddae-1706-4789-beb7-b304dc59da4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카리나∙있지∙나연 등 셀카 장인 아이돌들이 푹 빠진 후면 셀피 6 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76209</link>
             <guid>https://www.cosmopolitan.co.kr/article/76209</guid>
@@ -345,14 +353,6 @@
             <pubDate>Tue, 28 Mar 2023 00:45:22 GMT</pubDate>
             <content:encoded><![CDATA[최소 1억 원을 기부해야 가입할 수 있는 고액 기부자 모임!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/fc14d5a8-15b9-4ef6-8574-e453d75c66ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또다시 수면 위로 올라온 승리의 그녀, 유혜원은 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76145</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76145</guid>
-            <pubDate>Mon, 27 Mar 2023 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[출소와 동시에 방콕 여행을 함께 했다고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/06fb0409-cc3f-4dbc-a6cd-d1f86abb626b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
