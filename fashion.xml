@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 14:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 15:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[많을수록 좋아! ‘다다익선 포켓’ 패션에 빠진 셀렙은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76163</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76163</guid>
+            <pubDate>Sun, 02 Apr 2023 15:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[어디에 넣었는지 까먹을 수 있으니 주의!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/2c5ba593-44f3-4838-ba86-b4cadcadc224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬부터 셀린느까지! 명품 테니스 백 가격은 얼마?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76162</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 02:03:18 GMT</pubDate>
             <content:encoded><![CDATA[필드에서 도심까지, 콜마르 2023 S/S 컬렉션과 함께한 강렬한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/645d7ed4-6601-46d0-910c-05aee93720ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니미가 대세! 멋쁨 장착 모터사이클 재킷을 입은 셀렙은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75937</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75937</guid>
-            <pubDate>Thu, 23 Mar 2023 02:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[오빠 오빠 오토바이 있어? 난 모터사이클 재킷 있어!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/19177e48-918a-42fd-9e5d-277407e8ad3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
