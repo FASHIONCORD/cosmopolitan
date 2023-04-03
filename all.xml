@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 15:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 16:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,6 +164,14 @@
             <content:encoded><![CDATA[촬영 앞둔 모델의 급찐급빠 비법 공개.▼ 클릭 ▼모델 한혜진이 촬영을 앞두고 먹는 다이어트 식단을 공개했습니다. 그녀는 광고 촬영장에서 노출이 들어간 의상을 소화하기 위해 다이어트에 돌입했는데요. 소고기 덮···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BIG BAG IS BACK! 수납력 갑, 빅 백 전성시대 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76300</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76300</guid>
+            <pubDate>Mon, 03 Apr 2023 16:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[지금 알아야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/0e9955f3-3443-4f33-a791-574652071a17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[COSMO HOT! 코스모가 픽한 4월의 아이템은? (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76394</link>
             <guid>https://www.cosmopolitan.co.kr/article/76394</guid>
@@ -218,14 +226,6 @@
             <pubDate>Fri, 31 Mar 2023 15:10:02 GMT</pubDate>
             <content:encoded><![CDATA[올 봄 트렌드인 청청 데님 패션, 셀럽들은 어떻게 입었을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/e2ff9dc6-7601-4745-8bdd-d39dfc0776fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기은세가 피워낸 봄 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75933</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75933</guid>
-            <pubDate>Wed, 29 Mar 2023 00:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[셀렙샵 에디션과 함께한 기은세의 스프링 룩.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/648aa530-d74a-488b-b72a-985b44bec462.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건강한 라이프스타일을 위한 꿀팁이 필요할 땐? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
