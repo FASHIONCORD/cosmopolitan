@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 04:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 05:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극강의 하이텐션, ENFP 손동표가 코스모에 떴다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76386</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76386</guid>
+            <pubDate>Mon, 03 Apr 2023 05:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 아홉 번째 에피소드는? 코스모에 일일 입사한 손동표~...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/116db17d-7170-4e5d-880f-eb47a4cdd7ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성덕 중 성덕! 배우 김혜준의 블랙핑크 입덕 계기는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76342</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Mar 2023 06:13:09 GMT</pubDate>
             <content:encoded><![CDATA[&lt;커넥트&gt;의 불사신 ‘이랑’, &lt;구경이&gt;의 살인마 ‘케이’, &lt;킹덤&gt;의 빌런 ‘계비 조씨’, &lt;미성년...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/5e0ebc78-e7e1-4539-8267-11702cf9b2c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까면 깔수록 매력 있어! 믿.보.배 이도현의 TMI는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76189</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76189</guid>
-            <pubDate>Wed, 29 Mar 2023 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[하나부터 열까지 모두 궁금해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/34676c34-bb88-48da-b956-ab1a71c7b3c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
