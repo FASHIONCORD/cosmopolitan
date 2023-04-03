@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[COSMO PICK! 놓치면 안 될 이 달의 신간 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76206</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76206</guid>
+            <pubDate>Mon, 03 Apr 2023 06:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[지금 알아야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/e91cfebf-6e61-423b-9e07-6ab056b67ee6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 플레이팅 본 적 있어? 요즘 핫한 푸드 크리에이터 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76341</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Mar 2023 03:11:23 GMT</pubDate>
             <content:encoded><![CDATA[근처 살지 않아도 매일 가고 싶어하는 사람들이 꽤 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/ca39a35d-5c06-4a87-81ab-f578e02138ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벚꽃비 내리기 전에 가야 할 전국구 벚꽃뷰 카페 7]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76185</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76185</guid>
-            <pubDate>Wed, 29 Mar 2023 02:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2주 빨리 핀 벚꽃, 다 떨어지기 전에 서두르자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/92473e09-038f-42b2-9635-7185751d832d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
