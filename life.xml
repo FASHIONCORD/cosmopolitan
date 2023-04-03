@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 00:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 01:59:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홈가드닝을 꿈꾼다면? 당장 가야 할 식물 편집숍 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76261</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76261</guid>
+            <pubDate>Mon, 03 Apr 2023 01:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[식물이 더 아름다워 보이는 매직~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/9c3be5e7-a604-4845-bb0a-143256cc208b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공리단길 테라스 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76258</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76258</guid>
+            <pubDate>Mon, 03 Apr 2023 01:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 MZ구역 공릉역 인근 테라스 핫플이 떡상 중이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/d3c2b1df-a055-4d6a-bde6-51e9b41a1bca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고덕역 브런치가 뜨는 이유]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76255</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 29 Mar 2023 02:15:27 GMT</pubDate>
             <content:encoded><![CDATA[다이어트 성공을 위해 제로 칼로리 음료 고를 때 꼭 체크해야할 성분을 알려줄게!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a25c4dfa-3d79-4210-b394-704f6d5a9e03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 글로리>를 잇는 ‘초대형’ 넷플 공개 예정작 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76148</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76148</guid>
-            <pubDate>Tue, 28 Mar 2023 06:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[길을 비켜라. ‘쎈’ 언니들 등장하신다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/12045379-202c-4ee0-8b07-a9d1bdfeca55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큰 거 옵니다! 새롭게 컴백하는 화제작 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76147</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76147</guid>
-            <pubDate>Tue, 28 Mar 2023 03:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[하트시그널… 나만 기다렸니?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/7a27891a-dce9-46c5-b11d-659e57e5c1bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

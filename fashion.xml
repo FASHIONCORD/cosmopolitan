@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 00:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 01:59:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대체불가 이효리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76251</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76251</guid>
+            <pubDate>Mon, 03 Apr 2023 01:58:44 GMT</pubDate>
+            <content:encoded><![CDATA[지금 이대로 좋아. 여유와 쿨함이 느껴지는 이효리와 쟈딕앤볼테르의 애티튜드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/4985ddae-1706-4789-beb7-b304dc59da4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[많을수록 좋아! ‘다다익선 포켓’ 패션에 빠진 셀렙은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76163</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 06:12:49 GMT</pubDate>
             <content:encoded><![CDATA[머리부터 발끝까지 신슬기의 감각적인 터치로 완성한 로맨틱 데이트 룩을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e6dcbced-ad09-4742-a386-fdc3d538333a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다니엘 헤니와 함께]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75898</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75898</guid>
-            <pubDate>Thu, 23 Mar 2023 02:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[필드에서 도심까지, 콜마르 2023 S/S 컬렉션과 함께한 강렬한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/645d7ed4-6601-46d0-910c-05aee93720ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
