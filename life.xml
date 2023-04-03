@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 14:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 15:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦으면 못 가요! 지금 가기 딱 좋은 페스티벌 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76207</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76207</guid>
+            <pubDate>Mon, 03 Apr 2023 15:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[지금 알아야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/125272d1-562e-470b-a3f1-5e9e60e79bee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[COSMO PICK! 놓치면 안 될 이 달의 신간 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76206</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Mar 2023 06:13:13 GMT</pubDate>
             <content:encoded><![CDATA[서울부터 부산까지 인생샷 가능한 벚꽃뷰 카페 총정리!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/3d8f75ad-93f5-4c25-a0e4-f12e4dede962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠실 주민이 매일 찾는 ‘송리단길’ 카페 맛집!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76210</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76210</guid>
-            <pubDate>Wed, 29 Mar 2023 03:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[근처 살지 않아도 매일 가고 싶어하는 사람들이 꽤 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/ca39a35d-5c06-4a87-81ab-f578e02138ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 14:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 15:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[COSMO HOT! 코스모가 픽한 4월의 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76394</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76394</guid>
+            <pubDate>Mon, 03 Apr 2023 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 4월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/e39af5bb-05b7-4fbb-afb0-d569ca8c3172.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 맞이 인테리어 각? 봄기운 가득 품은 홈 아이템8]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76205</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Mar 2023 00:48:52 GMT</pubDate>
             <content:encoded><![CDATA[셀렙샵 에디션과 함께한 기은세의 스프링 룩.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/648aa530-d74a-488b-b72a-985b44bec462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄엔 데님 재킷? 스타일리시한 셀럽들의 데님 재킷 스타일링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/75989</link>
-            <guid>https://www.cosmopolitan.co.kr/article/75989</guid>
-            <pubDate>Mon, 27 Mar 2023 06:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[“캐주얼한데, 힙해!” 셀럽들의 인스타그램에서 찾은 데님 재킷 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/a1146a66-ef15-471d-8f23-967529b24f2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
