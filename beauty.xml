@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 02:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 03:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신상 자외선 차단제, 폼 미쳤다! 신상 선크림 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76222</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76222</guid>
+            <pubDate>Tue, 04 Apr 2023 03:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금 알아야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/7fb26a40-cfb4-4874-9255-e8991fa28777.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월을 쏘~핫 하게 만든 TREND 아이템!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76221</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 31 Mar 2023 06:12:31 GMT</pubDate>
             <content:encoded><![CDATA[빼고 싶은 만큼 뺄 수 있다는 거 실화?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/19828495-f9f9-4e1c-baf2-c37abb0a5e29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두피부터 머리카락 끝까지, 모델 한혜진의 헤어케어 루틴!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76156</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76156</guid>
-            <pubDate>Thu, 30 Mar 2023 05:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[모델은 헤어 관리도 특별하다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/96e11d9e-cbb0-4302-9abb-211ac1a659bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
