@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 09:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 10:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[촬영했는데 방영되지 못하는 K-드라마가 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76426</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76426</guid>
+            <pubDate>Tue, 04 Apr 2023 10:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[출연진인 심은우·박혜수·유아인 논란의 여파는 어디까지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/db07c802-5a2a-4e4a-b702-682d7b88fd84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역대급 출연진?! 4월 공개되는 영화·드라마 라인업은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76425</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76425</guid>
+            <pubDate>Tue, 04 Apr 2023 10:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[벚꽃이 만개해도 집콕할 수 밖에 없는 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/6fca8626-6db0-4ddd-bc06-67be9c028649.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닭구이부터 디저트까지! 입맛이 싹 도는 석촌호수 맛집 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76420</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 03 Apr 2023 01:59:32 GMT</pubDate>
             <content:encoded><![CDATA[식물이 더 아름다워 보이는 매직~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/9c3be5e7-a604-4845-bb0a-143256cc208b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공리단길 테라스 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76258</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76258</guid>
-            <pubDate>Mon, 03 Apr 2023 01:59:32 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 MZ구역 공릉역 인근 테라스 핫플이 떡상 중이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/d3c2b1df-a055-4d6a-bde6-51e9b41a1bca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고덕역 브런치가 뜨는 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76255</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76255</guid>
-            <pubDate>Sun, 02 Apr 2023 15:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[고덕역 브런치 맛집 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/9d1d0f81-01d8-41a8-aaf3-81ceb81f9dbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
