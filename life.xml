@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 08:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 09:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닭구이부터 디저트까지! 입맛이 싹 도는 석촌호수 맛집 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76420</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76420</guid>
+            <pubDate>Tue, 04 Apr 2023 09:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[석촌호수 가서 벚꽃만 보는 건 아니잖아요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/e4f7cc92-c94f-417e-aac3-8150291d72dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송혜교와 한소희의 #럽스타그램 ?! 여성 투톱 작품 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76413</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 02 Apr 2023 15:09:10 GMT</pubDate>
             <content:encoded><![CDATA[고덕역 브런치 맛집 4.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/9d1d0f81-01d8-41a8-aaf3-81ceb81f9dbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브리저튼의 프리퀄? <샬럿 왕비: 브리저튼 외전> 커밍쑨]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76228</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76228</guid>
-            <pubDate>Sat, 01 Apr 2023 15:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[브리저튼의 프리퀄? &lt;샬럿 왕비: 브리저튼 외전&gt; 커밍쑨]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/2f324d6f-fce1-4a35-a63f-332363b96032.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
