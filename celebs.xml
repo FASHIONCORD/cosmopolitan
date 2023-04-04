@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 00:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 02:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 지수 출격! 첫 솔로 앨범 초동 반응]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76415</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76415</guid>
+            <pubDate>Tue, 04 Apr 2023 02:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크 솔로 프로젝트의 마지막 퍼즐이 지수로 맞춰지다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/ab5f6eb8-1e8d-4536-8db4-65f28f184557.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[송혜교와 한소희의 #럽스타그램 ?! 여성 투톱 작품 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76413</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 31 Mar 2023 08:12:20 GMT</pubDate>
             <content:encoded><![CDATA[지금 이대로 좋아. 여유와 쿨함이 느껴지는 이효리와 쟈딕앤볼테르의 애티튜드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/4985ddae-1706-4789-beb7-b304dc59da4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카리나∙있지∙나연 등 셀카 장인 아이돌들이 푹 빠진 후면 셀피 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76209</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76209</guid>
-            <pubDate>Thu, 30 Mar 2023 06:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[셀카 장인 아이돌들 사이에서 요즘 유행하는 셀피 포즈는 바로 이것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/20fb8848-5a9d-4207-8e1a-9976ceb91f31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

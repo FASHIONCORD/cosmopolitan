@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 00:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 02:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월을 쏘~핫 하게 만든 TREND 아이템!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76221</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76221</guid>
+            <pubDate>Tue, 04 Apr 2023 02:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금 알아야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/4b4259fe-bd64-4342-a55a-adebe9e0ace4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건강한 라이프스타일을 위한 꿀팁이 필요할 땐?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76380</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Mar 2023 05:10:00 GMT</pubDate>
             <content:encoded><![CDATA[모델은 헤어 관리도 특별하다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/96e11d9e-cbb0-4302-9abb-211ac1a659bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환승연애 나연, -20kg 다이어트 찐천재가 나타났다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76153</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76153</guid>
-            <pubDate>Wed, 29 Mar 2023 02:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[알고 보니 숨어 있는 다이어트 고수, 나연의 20kg 감량 다이어트 진짜 비법이 공개되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/f5ad4106-b5f5-43fc-bc33-e74897ad7f54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
