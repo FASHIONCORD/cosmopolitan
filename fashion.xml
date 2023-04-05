@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 02:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 03:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋쁨 폭발! <길복순> 전도연의 리즈 시절 패션 스타일은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76423</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76423</guid>
+            <pubDate>Wed, 05 Apr 2023 03:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[이 언니, 멋있고 사랑스럽고 다 해~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/fb643cd1-55c0-47ee-b7c4-6a826240f28f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“오늘부터 내 꿈은 너야.” 이도현이 반한 임지연의 사복 스타일은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76418</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 02 Apr 2023 15:08:29 GMT</pubDate>
             <content:encoded><![CDATA[어디에 넣었는지 까먹을 수 있으니 주의!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/2c5ba593-44f3-4838-ba86-b4cadcadc224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬부터 셀린느까지! 명품 테니스 백 가격은 얼마?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76162</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76162</guid>
-            <pubDate>Sat, 01 Apr 2023 16:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[테니스 백이 이렇게 예뻐도 되는겁니까!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/4a4bf1af-c00a-48ff-a02f-54ce2cf2cbbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
