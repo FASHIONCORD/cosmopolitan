@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 14:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 15:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEEP COOL GO BRAID! 브레이드 헤어스타일링 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76223</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76223</guid>
+            <pubDate>Wed, 05 Apr 2023 15:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[제대로 꼬인 요즘 애들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/6f83de82-2a35-461d-bf2c-b73d625ea31f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멋쁨 폭발! <길복순> 전도연의 리즈 시절 패션 스타일은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76423</link>
@@ -40,14 +48,6 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/0e9955f3-3443-4f33-a791-574652071a17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[COSMO HOT! 코스모가 픽한 4월의 아이템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76394</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76394</guid>
-            <pubDate>Mon, 03 Apr 2023 15:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 4월의 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/e39af5bb-05b7-4fbb-afb0-d569ca8c3172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[봄 맞이 인테리어 각? 봄기운 가득 품은 홈 아이템8]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76205</link>
             <guid>https://www.cosmopolitan.co.kr/article/76205</guid>
@@ -56,20 +56,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/9e0c13a8-01ad-4078-9909-81a076ded175.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[COSMO HOT! 코스모가 픽한 4월의 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76394</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76394</guid>
+            <pubDate>Mon, 03 Apr 2023 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 4월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/e39af5bb-05b7-4fbb-afb0-d569ca8c3172.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대체불가 이효리]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76251</link>
             <guid>https://www.cosmopolitan.co.kr/article/76251</guid>
             <pubDate>Mon, 03 Apr 2023 01:58:44 GMT</pubDate>
             <content:encoded><![CDATA[지금 이대로 좋아. 여유와 쿨함이 느껴지는 이효리와 쟈딕앤볼테르의 애티튜드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/4985ddae-1706-4789-beb7-b304dc59da4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[많을수록 좋아! ‘다다익선 포켓’ 패션에 빠진 셀렙은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76163</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76163</guid>
-            <pubDate>Sun, 02 Apr 2023 15:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[어디에 넣었는지 까먹을 수 있으니 주의!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/2c5ba593-44f3-4838-ba86-b4cadcadc224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
