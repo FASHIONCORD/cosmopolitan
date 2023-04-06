@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 14:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 15:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PAST & FUTURE! 과거와 현재의 앙상블 2023 F/W 파리 패션 위크]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76304</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76304</guid>
+            <pubDate>Thu, 06 Apr 2023 15:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[변화무쌍한 패션계의 시각은 매 시즌 우리를 새로운 방향으로 이끈다. 2023 F/W 컬렉션의 가장...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/98b839b3-40a0-489c-a906-a1405b42c946.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀여운게 최고! 키덜트 패션의 세계]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76302</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Apr 2023 02:26:22 GMT</pubDate>
             <content:encoded><![CDATA[지금 알아야 할 이달의 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/9e0c13a8-01ad-4078-9909-81a076ded175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COSMO HOT! 코스모가 픽한 4월의 아이템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76394</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76394</guid>
-            <pubDate>Mon, 03 Apr 2023 15:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 4월의 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/e39af5bb-05b7-4fbb-afb0-d569ca8c3172.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
