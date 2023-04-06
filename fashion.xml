@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 02:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 03:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀여운게 최고! 키덜트 패션의 세계]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76302</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76302</guid>
+            <pubDate>Thu, 06 Apr 2023 03:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[내 가방은 세일러문, 네 부츠는 아톰. 이런 걸 어떻게 착용하냐고? 보기만 해도 웃음이 터지는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/cde822f7-2470-496d-9e09-688c4bbd702f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEEP COOL GO BRAID! 브레이드 헤어스타일링 6]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76223</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Apr 2023 15:09:41 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 4월의 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/e39af5bb-05b7-4fbb-afb0-d569ca8c3172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대체불가 이효리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76251</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76251</guid>
-            <pubDate>Mon, 03 Apr 2023 01:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[지금 이대로 좋아. 여유와 쿨함이 느껴지는 이효리와 쟈딕앤볼테르의 애티튜드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/4985ddae-1706-4789-beb7-b304dc59da4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

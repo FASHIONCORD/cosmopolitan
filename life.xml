@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 02:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 03:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주목하세요! 방방곡곡 싹 모은 전국 벚꽃 개화시기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76440</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76440</guid>
+            <pubDate>Thu, 06 Apr 2023 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[4월의 벚꽃에 대한 날카로운 기억 혹은 흐드러진 상상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/e2eb1282-0a01-45c5-8060-2c3871523076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[촬영했는데 방영되지 못하는 K-드라마가 있다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76426</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Apr 2023 05:09:57 GMT</pubDate>
             <content:encoded><![CDATA[이게 음식이야, 작품이야?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/9933d8cf-8ce5-440a-bd19-a2a3734244d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈가드닝을 꿈꾼다면? 당장 가야 할 식물 편집숍 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76261</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76261</guid>
-            <pubDate>Mon, 03 Apr 2023 01:59:32 GMT</pubDate>
-            <content:encoded><![CDATA[식물이 더 아름다워 보이는 매직~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/9c3be5e7-a604-4845-bb0a-143256cc208b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
