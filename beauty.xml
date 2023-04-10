@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트.잘.알 오셨다! 이사배의 데이 투 나잇 룩 최초 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76482</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76482</guid>
+            <pubDate>Mon, 10 Apr 2023 06:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[올 봄에 뭐 입지? 고민이라면 드루와~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/bf481f2f-9db2-49a9-bff2-b86295aa2faf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이게 바로 얼굴 천재 더보이즈 영훈이 쓰는 향수라고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76451</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 04 Apr 2023 02:03:00 GMT</pubDate>
             <content:encoded><![CDATA[지금 알아야 할 이달의 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/4b4259fe-bd64-4342-a55a-adebe9e0ace4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 라이프스타일을 위한 꿀팁이 필요할 땐?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76380</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76380</guid>
-            <pubDate>Mon, 03 Apr 2023 01:58:52 GMT</pubDate>
-            <content:encoded><![CDATA['할리스 핏’ 원데이 클래스를 주목할 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/3f2c06ce-85d5-4fd8-81ec-fafa4e3fcae8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

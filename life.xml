@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페인 감성까지 한입! 서울 츄러스 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76505</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76505</guid>
+            <pubDate>Mon, 10 Apr 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말, 바삭하고 달콤한 츄러스 한 입 하실래요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/11e4ca3f-2f36-45cf-981a-f888f1598b3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄바람 솔솔~ 지금 놓치면 후회할 전시 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76469</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 04 Apr 2023 10:11:04 GMT</pubDate>
             <content:encoded><![CDATA[벚꽃이 만개해도 집콕할 수 밖에 없는 이유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/6fca8626-6db0-4ddd-bc06-67be9c028649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닭구이부터 디저트까지! 입맛이 싹 도는 석촌호수 맛집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76420</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76420</guid>
-            <pubDate>Tue, 04 Apr 2023 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[석촌호수 가서 벚꽃만 보는 건 아니잖아요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/e4f7cc92-c94f-417e-aac3-8150291d72dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
