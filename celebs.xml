@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 09:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 10:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브∙NCT∙세븐틴∙케플러 컴백 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76556</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76556</guid>
+            <pubDate>Mon, 10 Apr 2023 10:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[사전 발표 곡부터 차트 점령하는 아이돌이 돌아온다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/075a6db2-79ed-419e-b628-86060dd2c70b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우아함과 와일드함이 동시에, 반전매력 차주영 극과 극 라이프]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76501</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76501</guid>
+            <pubDate>Mon, 10 Apr 2023 10:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[이 언니 귀엽고 멋있고 하고 싶은 거 다하는 여자였네!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/b3dec352-c953-42b3-b1de-b3c512828f47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘헉’ 소리 나는 이도현❤임지연 커플의 공통점!?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76471</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 04 Apr 2023 10:10:15 GMT</pubDate>
             <content:encoded><![CDATA[그동안 우리가 몰랐던 수지의 이야기가 이렇게나 많이 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/db0401e6-4ffd-4dad-a709-eb2d946b151c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K팝 강자? 세븐틴 롸잇 히얼]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76424</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76424</guid>
-            <pubDate>Tue, 04 Apr 2023 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[캐럿들 모두 주목! 오빠들 컴백 소식이다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/1adf5697-5186-4be6-9ccc-f1ac801072a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아빠 어디가>부터 <슈돌>까지! 육아 예능 키즈들의 폭풍 성장 근황은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76422</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76422</guid>
-            <pubDate>Tue, 04 Apr 2023 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[고 1인데 키가 189cm? 방탄소년단 뷔 닮은꼴이라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/ec45aa7e-f092-40d1-999e-7836d1d1ecfe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
