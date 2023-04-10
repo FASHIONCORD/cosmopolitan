@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 14:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 15:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-STAR BOMB! 2023 F/W 패션 위크를 빛낸 셀렙은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76543</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76543</guid>
+            <pubDate>Mon, 10 Apr 2023 15:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[변화무쌍한 패션계의 시각은 매 시즌 우리를 새로운 방향으로 이끈다. 2023 F/W 컬렉션의 가장...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/f3afafdf-d31d-45b1-b3ab-6239a5bf397e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다양성과 창의성이 혼재한 패션 신, 2023 F/W 런던 패션 위크]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76303</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76303</guid>
+            <pubDate>Mon, 10 Apr 2023 15:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[변화무쌍한 패션계의 시각은 매 시즌 우리를 새로운 방향으로 이끈다. 2023 F/W 컬렉션의 가장...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/259e056a-a3f9-4060-be85-e7171562966f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안목까지 상향 평준화된 뷰티 소비자의 취향이 더해져 고공 상승 어나더 레벨을 찍어버린 리치리치템은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76226</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 07 Apr 2023 15:08:47 GMT</pubDate>
             <content:encoded><![CDATA[갓피지컬을 가진 언니들이 핫하다, 핫해!  탄탄하고 건강한 신체로 미의 기준을 다시 세우며 넷...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/d1200707-14a9-4536-ae91-68681c36a614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PAST & FUTURE! 과거와 현재의 앙상블 2023 F/W 파리 패션 위크]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76304</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76304</guid>
-            <pubDate>Thu, 06 Apr 2023 15:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[변화무쌍한 패션계의 시각은 매 시즌 우리를 새로운 방향으로 이끈다. 2023 F/W 컬렉션의 가장...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/98b839b3-40a0-489c-a906-a1405b42c946.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여운게 최고! 키덜트 패션의 세계]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76302</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76302</guid>
-            <pubDate>Thu, 06 Apr 2023 03:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[내 가방은 세일러문, 네 부츠는 아톰. 이런 걸 어떻게 착용하냐고? 보기만 해도 웃음이 터지는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/cde822f7-2470-496d-9e09-688c4bbd702f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
