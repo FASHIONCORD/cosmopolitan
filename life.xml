@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 00:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 01:58:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄바람 솔솔~ 지금 놓치면 후회할 전시 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76469</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76469</guid>
+            <pubDate>Mon, 10 Apr 2023 01:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[따뜻한 봄, 전시 나들이 어때?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/71c74a48-1466-4599-a923-aebd774a9520.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<신성한, 이혼> ‘라면집’ 현실판? 지금 가야 할 라면집 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76468</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76468</guid>
+            <pubDate>Mon, 10 Apr 2023 01:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[물잡이가 다르고, 면발이 다른 신성한 라면집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/5e15399f-a63b-4f06-a549-ecfb8d9e1710.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진해에 이효리가 떴다? 댄스가수 유랑단 활약상]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76465</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 04 Apr 2023 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[석촌호수 가서 벚꽃만 보는 건 아니잖아요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/e4f7cc92-c94f-417e-aac3-8150291d72dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교와 한소희의 #럽스타그램 ?! 여성 투톱 작품 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76413</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76413</guid>
-            <pubDate>Tue, 04 Apr 2023 02:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 브로맨스보다 워맨스가 대세~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/a54bb02e-2ebb-4411-8f00-1c0be3d7d441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늦으면 못 가요! 지금 가기 딱 좋은 페스티벌 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76207</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76207</guid>
-            <pubDate>Mon, 03 Apr 2023 15:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[지금 알아야 할 이달의 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/125272d1-562e-470b-a3f1-5e9e60e79bee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
