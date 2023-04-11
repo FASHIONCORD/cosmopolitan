@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 14:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 15:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TUNE UP! 음악과 패션 주얼리의 리드미컬한 조합]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76308</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76308</guid>
+            <pubDate>Tue, 11 Apr 2023 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[자유로운 감성, 리드미컬한 매력, 눈부신 존재감까지. 음악과 패션 주얼리의 상관관계에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/7983f9b4-8c1f-45fc-85af-f1a695a13ad8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIFT ME UP! 축~처진 눈꼬리, 입꼬리 모두 끌업!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76550</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76550</guid>
+            <pubDate>Tue, 11 Apr 2023 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[찐찐찐찐 찐이야~! 아니? 페이크 리프팅인데? 축~ 처진 눈꼬리, 입꼬리 모두 끌업! 5살 더 어려...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/63ed9d16-6545-410a-8c21-6eaebfc297d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이커머스, 뷰티에 빠지다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76544</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 08 Apr 2023 22:08:07 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 앰버서더인 디올 드레스부터 국내 디자이너브랜드까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/e5b2cab3-b9a4-4b36-802d-a05ebaa8facb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAMMA MIA! 참신한 아이디어로 가득찬 2023 F/W 밀라노 패션 위크]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76497</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76497</guid>
-            <pubDate>Sat, 08 Apr 2023 22:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[변화무쌍한 패션계의 시각은 매 시즌 우리를 새로운 방향으로 이끈다. 2023 F/W 컬렉션의 가장...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/4ea3bc5e-4653-4a09-8492-f48a2f145715.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트.잘.알 오셨다! 이사배의 데이 투 나잇 룩 최초 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76482</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76482</guid>
-            <pubDate>Fri, 07 Apr 2023 15:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[올 봄에 뭐 입지? 고민이라면 드루와~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/bf481f2f-9db2-49a9-bff2-b86295aa2faf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

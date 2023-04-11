@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 14:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 15:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[없어서 못 먹는(?) 강남 핫플 디저트 맛집 순례 다녀왔습니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76531</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76531</guid>
+            <pubDate>Tue, 11 Apr 2023 15:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 열 번째 에피소드는? 오픈런 디저트 핫플을 찾아간 막...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/cac3ab94-fe82-4a2c-83a7-56731c8c14eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강은 이제 그만! 서울 속 숨겨진 산책 스폿]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76515</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Apr 2023 03:10:09 GMT</pubDate>
             <content:encoded><![CDATA[4월의 벚꽃에 대한 날카로운 기억 혹은 흐드러진 상상.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/e2eb1282-0a01-45c5-8060-2c3871523076.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[촬영했는데 방영되지 못하는 K-드라마가 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76426</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76426</guid>
-            <pubDate>Tue, 04 Apr 2023 10:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[출연진인 심은우·박혜수·유아인 논란의 여파는 어디까지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/db07c802-5a2a-4e4a-b702-682d7b88fd84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
