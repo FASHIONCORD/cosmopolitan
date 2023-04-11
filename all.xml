@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 09:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 10:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,6 +422,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한강은 이제 그만! 서울 속 숨겨진 산책 스폿 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76515</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76515</guid>
+            <pubDate>Tue, 11 Apr 2023 10:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[산책은 그저 한강이라고만 생각했다면 주목! 서울 방방곡곡 숨겨진 보물 같은 산책 스폿을 모았...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/93cafe8c-825e-475f-9650-9a453f15f7ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스페인 감성까지 한입! 서울 츄러스 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76505</link>
             <guid>https://www.cosmopolitan.co.kr/article/76505</guid>
@@ -476,14 +484,6 @@
             <pubDate>Tue, 04 Apr 2023 10:11:04 GMT</pubDate>
             <content:encoded><![CDATA[출연진인 심은우·박혜수·유아인 논란의 여파는 어디까지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/db07c802-5a2a-4e4a-b702-682d7b88fd84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 출연진?! 4월 공개되는 영화·드라마 라인업은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76425</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76425</guid>
-            <pubDate>Tue, 04 Apr 2023 10:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[벚꽃이 만개해도 집콕할 수 밖에 없는 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/6fca8626-6db0-4ddd-bc06-67be9c028649.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
