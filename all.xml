@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 07:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 08:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/bf481f2f-9db2-49a9-bff2-b86295aa2faf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄 지민이 50kg 대를 매일 유지할 수 있는 이유? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76554</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76554</guid>
+            <pubDate>Tue, 11 Apr 2023 08:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[먹고 싶은 음식이 있을 땐 ‘이것’을 활용!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/653cc6e2-3a47-4f9b-a83e-1095913ebbe8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이돌 PICK! 선크림은 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76555</link>
             <guid>https://www.cosmopolitan.co.kr/article/76555</guid>
@@ -286,12 +294,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/eeaf8a18-9021-4f1c-9a8f-38aa7f2e8935.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[-11kg 성공한 박봄의 다이어트 노하우 4가지! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76412</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76412</guid>
-            <pubDate>Wed, 05 Apr 2023 15:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[박봄의 다이어트 습관을 분석해봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/80c2708f-2070-4b59-90f4-6a26d77d41ec.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스포는 금지! <하트시그널4>의 진실 혹은 거짓 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76553</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76553</guid>
+            <pubDate>Tue, 11 Apr 2023 08:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[20세 대학생과 기업 CEO가 나온다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/59c77c83-95a7-41bb-8f1f-e75d0bbb3393.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이브∙NCT∙세븐틴∙케플러 컴백 맛집 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -348,14 +356,6 @@
             <pubDate>Thu, 06 Apr 2023 02:00:54 GMT</pubDate>
             <content:encoded><![CDATA[잠깐만.. 이거 세계관 충돌 아닌가요..?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/992e8296-125e-48f2-bcae-7bc61e870cde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지가 여자 최수종이라고? 절친 조현아 피셜 수지 의외의 모습들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76429</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76429</guid>
-            <pubDate>Tue, 04 Apr 2023 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[그동안 우리가 몰랐던 수지의 이야기가 이렇게나 많이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/db0401e6-4ffd-4dad-a709-eb2d946b151c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>

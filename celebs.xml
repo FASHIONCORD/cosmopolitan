@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 07:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 08:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포는 금지! <하트시그널4>의 진실 혹은 거짓]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76553</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76553</guid>
+            <pubDate>Tue, 11 Apr 2023 08:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[20세 대학생과 기업 CEO가 나온다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/59c77c83-95a7-41bb-8f1f-e75d0bbb3393.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브∙NCT∙세븐틴∙케플러 컴백 맛집]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76556</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Apr 2023 02:00:54 GMT</pubDate>
             <content:encoded><![CDATA[잠깐만.. 이거 세계관 충돌 아닌가요..?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/992e8296-125e-48f2-bcae-7bc61e870cde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지가 여자 최수종이라고? 절친 조현아 피셜 수지 의외의 모습들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76429</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76429</guid>
-            <pubDate>Tue, 04 Apr 2023 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[그동안 우리가 몰랐던 수지의 이야기가 이렇게나 많이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/db0401e6-4ffd-4dad-a709-eb2d946b151c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

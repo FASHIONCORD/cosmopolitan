@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 07:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 08:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄 지민이 50kg 대를 매일 유지할 수 있는 이유?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76554</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76554</guid>
+            <pubDate>Tue, 11 Apr 2023 08:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[먹고 싶은 음식이 있을 땐 ‘이것’을 활용!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/653cc6e2-3a47-4f9b-a83e-1095913ebbe8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌 PICK! 선크림은 무엇?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76555</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Apr 2023 16:11:34 GMT</pubDate>
             <content:encoded><![CDATA[이정도면 다이어트 끝판왕 아님? -11kg 급빠 성공을 이뤄낸 주양의 다이어트 믿고 따라와.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/eeaf8a18-9021-4f1c-9a8f-38aa7f2e8935.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[-11kg 성공한 박봄의 다이어트 노하우 4가지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76412</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76412</guid>
-            <pubDate>Wed, 05 Apr 2023 15:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[박봄의 다이어트 습관을 분석해봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/80c2708f-2070-4b59-90f4-6a26d77d41ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
