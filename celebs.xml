@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 09:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 10:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최.초.공.개, <종이달> 김서형 삭발고백]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76618</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76618</guid>
+            <pubDate>Wed, 12 Apr 2023 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[다짜고짜 카리스마 공격에 치이는 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/e7c9885b-9abc-42d8-9713-9d466670dd03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스튜어디스 혜정아, 넌 바이크 탈 때 제일 예뻐!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76601</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Apr 2023 10:10:02 GMT</pubDate>
             <content:encoded><![CDATA[사전 발표 곡부터 차트 점령하는 아이돌이 돌아온다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/075a6db2-79ed-419e-b628-86060dd2c70b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우아함과 와일드함이 동시에, 반전매력 차주영 극과 극 라이프]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76501</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76501</guid>
-            <pubDate>Mon, 10 Apr 2023 10:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[이 언니 귀엽고 멋있고 하고 싶은 거 다하는 여자였네!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/b3dec352-c953-42b3-b1de-b3c512828f47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
