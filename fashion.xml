@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 14:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 15:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여기가 바로 Y-토피아 극락?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76293</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76293</guid>
+            <pubDate>Wed, 12 Apr 2023 15:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[여기가 바로 Y-토피아 극락? 소재, 촉감, 흡수력까지 완벽한 요즘 생리대를 비교 분석했다. Y존...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/79dad3ff-5862-4d4f-9736-e856bf1f1c0b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우아하고 선량하며 괴물같은 배우, 케이트 블란쳇에 대하여]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76584</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76584</guid>
+            <pubDate>Wed, 12 Apr 2023 15:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[압도적으로 우아하고 사악하며 또 선량한 괴물 같은 배우. 케이트 블란쳇이 여성 지휘자로 분해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/3a85b720-2875-42c8-bdf9-f1f2cc9049f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TUNE UP! 음악과 패션 주얼리의 리드미컬한 조합]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76308</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 09 Apr 2023 16:09:56 GMT</pubDate>
             <content:encoded><![CDATA[그냥 하이엔드가 아니다. 지금은 초고가 럭셔리 뷰티의 전성시대. 안목까지 상향 평준화된 뷰티 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/65e2b72d-f789-4e1f-b997-924bb385c79c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FREEDOM IN NY! 실험적인 패션 판타지 2023 F/W 뉴욕 패션 위크]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76516</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76516</guid>
-            <pubDate>Sun, 09 Apr 2023 15:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[변화무쌍한 패션계의 시각은 매 시즌 우리를 새로운 방향으로 이끈다. 2023 F/W 컬렉션의 가장...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/1e0cf48e-35e9-485f-b785-1d8c5e1f780b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃’ 뮤비 속 지수가 입은 드레스 브랜드는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76507</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76507</guid>
-            <pubDate>Sat, 08 Apr 2023 22:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 앰버서더인 디올 드레스부터 국내 디자이너브랜드까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/e5b2cab3-b9a4-4b36-802d-a05ebaa8facb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
