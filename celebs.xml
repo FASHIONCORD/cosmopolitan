@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 02:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 02:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스튜어디스 혜정아, 넌 바이크 탈 때 제일 예뻐!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76601</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76601</guid>
+            <pubDate>Wed, 12 Apr 2023 02:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;전참시&gt;에 바이크 타고 등장한 차주영과 걸크러시 터지는 스피드 매니아 언니들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/a1ea6143-b801-4764-857b-763aa91f8433.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 셀럽들은 OO에서 만나 연애한다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76579</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76579</guid>
+            <pubDate>Wed, 12 Apr 2023 02:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[아무도 몰랐던 이도현, 혜리, 아이유 커플의 러브 스토리?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/9e2acf56-bfd7-4e30-b755-33268ea27c87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미친 DNA, 장원영 친언니 장다아는 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76577</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 10 Apr 2023 10:10:02 GMT</pubDate>
             <content:encoded><![CDATA[이 언니 귀엽고 멋있고 하고 싶은 거 다하는 여자였네!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/b3dec352-c953-42b3-b1de-b3c512828f47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘헉’ 소리 나는 이도현❤임지연 커플의 공통점!?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76471</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76471</guid>
-            <pubDate>Mon, 10 Apr 2023 02:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[그림체만 닮은 게 아니었다! 더 글로리 공식 커플의 공통분모.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/6f8789bb-378f-4684-9eca-bea5b6651652.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들 사이에서 대유행?! NEW 인싸포즈]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76470</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76470</guid>
-            <pubDate>Mon, 10 Apr 2023 01:57:48 GMT</pubDate>
-            <content:encoded><![CDATA[들어는 봤나, 공주님 스포트라이트 포즈~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/f771057a-4077-4e4f-9ccc-118a471ec512.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
