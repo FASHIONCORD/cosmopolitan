@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 09:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 10:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이큐 ♥ 김나영의 피크닉 도시락 레시피 궁금하쥬!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76566</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76566</guid>
+            <pubDate>Thu, 13 Apr 2023 10:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[손민수 가능한 봄나들이 도시락으로 추천!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/36eb1b95-50ea-49a6-842f-bb1ce8c44b85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광주 비엔날레 보고 당 충전 할래?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76557</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Apr 2023 01:58:06 GMT</pubDate>
             <content:encoded><![CDATA[물잡이가 다르고, 면발이 다른 신성한 라면집.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/5e15399f-a63b-4f06-a549-ecfb8d9e1710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진해에 이효리가 떴다? 댄스가수 유랑단 활약상]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76465</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76465</guid>
-            <pubDate>Fri, 07 Apr 2023 10:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[전설로 남은 ‘텐미닛’ 무대를 선보여 무대를 뿌셨다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/02aaddd3-b03e-448f-9021-24f3fa269c4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
