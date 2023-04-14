@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 14:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 15:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CLASH IN THE NIGHT! 낡은 폐차장 속 유틸리티 코드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76310</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76310</guid>
+            <pubDate>Fri, 14 Apr 2023 15:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[낡은 폐차장의 밤을 수놓는 불꽃과 유틸리티 코드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/7973e2b5-b096-4cf1-92c0-f35b7a099d06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹어도, 먹어도, 배고파! 혹시 나도 음식 중독?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76614</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76614</guid>
+            <pubDate>Fri, 14 Apr 2023 15:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[틈만 나면 먹을 걸 찾는 나. 음식에 대한 집착은 배고픔이 아닌 중독의 신호다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/4b5d4ad4-1252-4395-ac29-0af586fba970.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가방과 신발에 꽃이 피었습니다?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76309</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 11 Apr 2023 15:09:41 GMT</pubDate>
             <content:encoded><![CDATA[찐찐찐찐 찐이야~! 아니? 페이크 리프팅인데? 축~ 처진 눈꼬리, 입꼬리 모두 끌업! 5살 더 어려...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/63ed9d16-6545-410a-8c21-6eaebfc297d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이커머스, 뷰티에 빠지다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76544</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76544</guid>
-            <pubDate>Tue, 11 Apr 2023 02:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 디지털과 AI를 외치는 세상. 쇼핑도 이커머스 플랫폼이 시장을 견인하고 있다. 변화한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/72662aa6-c076-47e1-b0e4-d4e2a1b9ad07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-STAR BOMB! 2023 F/W 패션 위크를 빛낸 셀렙은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76543</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76543</guid>
-            <pubDate>Mon, 10 Apr 2023 15:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[변화무쌍한 패션계의 시각은 매 시즌 우리를 새로운 방향으로 이끈다. 2023 F/W 컬렉션의 가장...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/f3afafdf-d31d-45b1-b3ab-6239a5bf397e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

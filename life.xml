@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 14:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 15:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5만 원만 챙겨! 가성비 미슐랭 레스토랑 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76606</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76606</guid>
+            <pubDate>Fri, 14 Apr 2023 15:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[맛과 가격 모두 만족스러울걸?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/90560d6b-81f0-4723-9a72-6ca12dd59bce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이큐 ♥ 김나영의 피크닉 도시락 레시피 궁금하쥬!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76566</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Apr 2023 01:58:06 GMT</pubDate>
             <content:encoded><![CDATA[따뜻한 봄, 전시 나들이 어때?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/71c74a48-1466-4599-a923-aebd774a9520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<신성한, 이혼> ‘라면집’ 현실판? 지금 가야 할 라면집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76468</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76468</guid>
-            <pubDate>Mon, 10 Apr 2023 01:58:06 GMT</pubDate>
-            <content:encoded><![CDATA[물잡이가 다르고, 면발이 다른 신성한 라면집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/5e15399f-a63b-4f06-a549-ecfb8d9e1710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
