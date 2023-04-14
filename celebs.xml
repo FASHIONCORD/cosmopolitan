@@ -4,7 +4,7 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 07:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 08:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/653cc6e2-3a47-4f9b-a83e-1095913ebbe8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스포는 금지! <하트시그널4>의 진실 혹은 거짓]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76553</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76553</guid>
-            <pubDate>Tue, 11 Apr 2023 08:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[20세 대학생과 기업 CEO가 나온다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/59c77c83-95a7-41bb-8f1f-e75d0bbb3393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아이브∙NCT∙세븐틴∙케플러 컴백 맛집]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76556</link>
             <guid>https://www.cosmopolitan.co.kr/article/76556</guid>
             <pubDate>Mon, 10 Apr 2023 10:10:02 GMT</pubDate>
             <content:encoded><![CDATA[사전 발표 곡부터 차트 점령하는 아이돌이 돌아온다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/075a6db2-79ed-419e-b628-86060dd2c70b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스포는 금지! <하트시그널4>의 진실 혹은 거짓]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76553</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76553</guid>
+            <pubDate>Tue, 11 Apr 2023 08:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[20세 대학생과 기업 CEO가 나온다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/59c77c83-95a7-41bb-8f1f-e75d0bbb3393.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
