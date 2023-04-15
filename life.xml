@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 14:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 15:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남돌 서바이벌이 다시 돌아왔다! 5세대 아이돌 파헤치기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76613</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76613</guid>
+            <pubDate>Sat, 15 Apr 2023 15:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[남자 아이돌 서바이벌이 다시 돌아왔다. 지금 가장 뜨거운 두 프로그램,  JTBC &lt;피크타임&gt;과 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/39c4ba0d-4dca-4603-9785-a4ad2608970e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5만 원만 챙겨! 가성비 미슐랭 레스토랑 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76606</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Apr 2023 06:13:01 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말, 바삭하고 달콤한 츄러스 한 입 하실래요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/11e4ca3f-2f36-45cf-981a-f888f1598b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄바람 솔솔~ 지금 놓치면 후회할 전시 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76469</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76469</guid>
-            <pubDate>Mon, 10 Apr 2023 01:58:06 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻한 봄, 전시 나들이 어때?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/71c74a48-1466-4599-a923-aebd774a9520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
