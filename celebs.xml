@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 00:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 02:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디에잇∙비비지 신비 등 요즘 젠Z는 거울샷을 찍어!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76623</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76623</guid>
+            <pubDate>Mon, 17 Apr 2023 02:01:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘셀카를 찍는 나’를 찍는 거울샷이 요즘 대세!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b3d87f21-36df-4f0f-9e12-d7be12e8ed1e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고소영∙서인영∙이다인이 선택한 럭셔리 부케의 정체]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76622</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Apr 2023 02:00:34 GMT</pubDate>
             <content:encoded><![CDATA[말해봐요. 뭐부터 해줄까요? 어떻게 해 줄까요? 본방 사수부터 시작하면 돼요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/813ee504-f4da-4125-80e9-1d55d5b797ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄 지민이 50kg 대를 매일 유지할 수 있는 이유?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76554</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76554</guid>
-            <pubDate>Wed, 12 Apr 2023 02:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[먹고 싶은 음식이 있을 땐 ‘이것’을 활용!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/653cc6e2-3a47-4f9b-a83e-1095913ebbe8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
