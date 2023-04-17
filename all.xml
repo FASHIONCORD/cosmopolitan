@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 08:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 09:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,6 +293,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/bf481f2f-9db2-49a9-bff2-b86295aa2faf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제니∙지수 등 셀럽이 사랑하는 키링 5 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76624</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76624</guid>
+            <pubDate>Mon, 17 Apr 2023 09:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[키링 품절 사태! 연예인들은 어떤 키링 달고 다닐까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/39d72ad7-3cb2-4f50-b9f2-41ace484ac4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디에잇∙비비지 신비 등 요즘 젠Z는 거울샷을 찍어! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76623</link>
             <guid>https://www.cosmopolitan.co.kr/article/76623</guid>
@@ -347,14 +355,6 @@
             <pubDate>Wed, 12 Apr 2023 02:00:34 GMT</pubDate>
             <content:encoded><![CDATA[장원영 보다 예쁘기로 유명했던 친언니가 등판했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/5453fe35-ce28-428b-aceb-7b2a9eaac73f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입대가 코 앞! 이도현의 넥스트 행보는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76560</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76560</guid>
-            <pubDate>Wed, 12 Apr 2023 02:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[말해봐요. 뭐부터 해줄까요? 어떻게 해 줄까요? 본방 사수부터 시작하면 돼요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/813ee504-f4da-4125-80e9-1d55d5b797ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
