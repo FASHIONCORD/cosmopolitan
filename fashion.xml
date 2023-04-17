@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 14:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 15:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RUN BABY RUN! 트렌드세터들의 오프런 현장]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76670</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76670</guid>
+            <pubDate>Mon, 17 Apr 2023 15:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[늦으면 솔드 아웃! 멋지고 맛있는 것을 탐미하는 트렌드세터들의 오픈 런.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/4f7df69f-f2a8-4371-b2e1-da5a67ed240e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구원의 마사지로 말할 것 같으면!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76295</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Apr 2023 15:09:42 GMT</pubDate>
             <content:encoded><![CDATA[스타일의 기본이자 시작. 베이식 위의 베이식, 에센셜 위의 에센셜인 화이트 셔츠의 모든 것을 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/8ecc1342-a617-46fb-8ae3-f1e028e3cd0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기가 바로 Y-토피아 극락?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76293</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76293</guid>
-            <pubDate>Wed, 12 Apr 2023 15:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[여기가 바로 Y-토피아 극락? 소재, 촉감, 흡수력까지 완벽한 요즘 생리대를 비교 분석했다. Y존...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/79dad3ff-5862-4d4f-9736-e856bf1f1c0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
