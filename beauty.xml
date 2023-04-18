@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 04:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 05:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이솔이∙허영지∙이수정∙서하얀! 다이어터보다 더 독한 유지어터 노하우]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76652</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76652</guid>
+            <pubDate>Tue, 18 Apr 2023 05:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트 후 요요가 당연하다면 여기 프로 유지어터들의 비법을 꼭 따라해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/fccb9fde-e0a7-4c0f-908f-a19757cb31f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복근까지 장착한 배우 이지아의 다이어트 비결은 00000?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76600</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Apr 2023 03:10:05 GMT</pubDate>
             <content:encoded><![CDATA[선크림의 계절이 다가온다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/c33d077c-9d3a-4787-9e1f-24414790f7ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cheek On! 피부 톤별 치크 착붙 추천템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76225</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76225</guid>
-            <pubDate>Mon, 10 Apr 2023 10:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[치크 메이크업으로 음습한 얼굴에 생기 한 스푼 올릴 때! 본격 메이크업 전 다음의 피부 톤별...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/5795778b-f28b-4c81-ad9c-32f4ba395f22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
