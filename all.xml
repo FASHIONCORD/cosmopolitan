@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 05:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 06:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,10 +421,18 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[휴대폰으로 찍은 영화? 갤럭시S23 울트라로 촬영한 단편영화 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76214</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76214</guid>
+            <pubDate>Tue, 18 Apr 2023 06:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[이제 휴대폰으로 영화를 찍는 시대다. 나홍진 감독이 정정훈 촬영감독과 갤럭시 S23 울트라로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/df4de29c-0334-40d7-9494-777ab120a1c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[직원 4명인 회사에서 빌보드 진출시킨 여돌의 정체?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76637</link>
             <guid>https://www.cosmopolitan.co.kr/article/76637</guid>
-            <pubDate>Tue, 18 Apr 2023 05:10:11 GMT</pubDate>
+            <pubDate>Tue, 18 Apr 2023 05:09:37 GMT</pubDate>
             <content:encoded><![CDATA[우리는 이걸 보고 중소기업의 기적이라 부르기로 했어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/ff0237c9-9c38-4663-8058-a14e267f289a.jpg" length="0" type="image/jpg"/>
         </item>
@@ -475,14 +483,6 @@
             <pubDate>Tue, 11 Apr 2023 15:10:26 GMT</pubDate>
             <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 열 번째 에피소드는? 오픈런 디저트 핫플을 찾아간 막...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/cac3ab94-fe82-4a2c-83a7-56731c8c14eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강은 이제 그만! 서울 속 숨겨진 산책 스폿 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76515</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76515</guid>
-            <pubDate>Tue, 11 Apr 2023 10:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[산책은 그저 한강이라고만 생각했다면 주목! 서울 방방곡곡 숨겨진 보물 같은 산책 스폿을 모았...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/93cafe8c-825e-475f-9650-9a453f15f7ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
