@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 14:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 15:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PILLOW TALK! 나른하고 편안한 지금 이 순간]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76697</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76697</guid>
+            <pubDate>Wed, 19 Apr 2023 15:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[나른한 4월의 방에서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/1144182a-2a2f-4ad4-9bb8-434e18caebf2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RUN BABY RUN! 트렌드세터들의 오프런 현장]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76670</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Apr 2023 15:09:44 GMT</pubDate>
             <content:encoded><![CDATA[압도적으로 우아하고 사악하며 또 선량한 괴물 같은 배우. 케이트 블란쳇이 여성 지휘자로 분해...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/3a85b720-2875-42c8-bdf9-f1f2cc9049f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일의 기본이자 시작, 화이트 셔츠의 모든 것]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76585</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76585</guid>
-            <pubDate>Thu, 13 Apr 2023 15:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[스타일의 기본이자 시작. 베이식 위의 베이식, 에센셜 위의 에센셜인 화이트 셔츠의 모든 것을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/8ecc1342-a617-46fb-8ae3-f1e028e3cd0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
