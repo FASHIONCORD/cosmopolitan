@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 23:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 03:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사기캐 아냐? 삼박자를 두루 갖춘 소형 SUV 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76216</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76216</guid>
+            <pubDate>Wed, 19 Apr 2023 03:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[작은 몸집, 큰 존재감. 디자인, 성능, 가격 삼박자를 두루 갖춘 ‘사기캐’ 소형 SUV를 모았다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/c5ff16d8-dda2-40d7-9dbd-486186fb6cb8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<피지컬 100>의 장은실이랑 운동하고, 윤성빈, 서준맘이랑 으쌰으쌰할 수 있는 페스티벌이 있다?!?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76664</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76664</guid>
+            <pubDate>Wed, 19 Apr 2023 03:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[항시~ 텐션 맥스도! 항시~ 이너 피스들도! 5월 20일에 노들섬으로~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/edeb0d6b-edc7-45ee-919f-c11c93524503.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴대폰으로 찍은 영화? 갤럭시S23 울트라로 촬영한 단편영화]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76214</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 12 Apr 2023 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[광주 용봉동 핫 스팟 저장!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/eed90ccf-9ae6-4c3e-81a6-ad5057f1e840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포는 금지! <하트시그널4>의 진실 혹은 거짓]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76553</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76553</guid>
-            <pubDate>Wed, 12 Apr 2023 10:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[20세 대학생과 기업 CEO가 나온다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/59c77c83-95a7-41bb-8f1f-e75d0bbb3393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[없어서 못 먹는(?) 강남 핫플 디저트 맛집 순례 다녀왔습니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76531</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76531</guid>
-            <pubDate>Tue, 11 Apr 2023 15:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 열 번째 에피소드는? 오픈런 디저트 핫플을 찾아간 막...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/cac3ab94-fe82-4a2c-83a7-56731c8c14eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
