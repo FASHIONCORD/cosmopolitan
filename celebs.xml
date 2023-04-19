@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 05:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴은 힘을 뺄 생각이 전혀 없다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76790</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76790</guid>
+            <pubDate>Wed, 19 Apr 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 조슈아와 민규는 여전히 뜨겁고, 누구보다 성실하며, 조금도 힘을 뺄 생각이 없다. 지난...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/bdbd1a3b-525f-4f22-93af-e5d812b1b55b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃보다 아름다운 아이브 레이, 화보 공개!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76742</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Apr 2023 05:09:37 GMT</pubDate>
             <content:encoded><![CDATA[우리는 이걸 보고 중소기업의 기적이라 부르기로 했어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/ff0237c9-9c38-4663-8058-a14e267f289a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니∙지수 등 셀럽이 사랑하는 키링 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76624</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76624</guid>
-            <pubDate>Mon, 17 Apr 2023 09:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[키링 품절 사태! 연예인들은 어떤 키링 달고 다닐까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/39d72ad7-3cb2-4f50-b9f2-41ace484ac4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
