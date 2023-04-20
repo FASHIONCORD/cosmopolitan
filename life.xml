@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 04:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 05:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금은 초간단 시대! 자취러 설레게 하는 비건 간편 음식 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76716</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76716</guid>
+            <pubDate>Thu, 20 Apr 2023 05:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[마이너한 비건 리그에 대기업 제품군의 등장이라…. 나날이 다채로워지는 비건 식탁, 이번엔 간편...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/573fb5e1-9bf4-40d9-ad6c-468f5231705d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사기캐 아냐? 삼박자를 두루 갖춘 소형 SUV 6]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76216</link>
@@ -21,7 +29,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/76664</guid>
             <pubDate>Wed, 19 Apr 2023 03:13:16 GMT</pubDate>
             <content:encoded><![CDATA[항시~ 텐션 맥스도! 항시~ 이너 피스들도! 5월 20일에 노들섬으로~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/edeb0d6b-edc7-45ee-919f-c11c93524503.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/ba584ed3-ad96-4438-9c6c-01c93ccb4a59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴대폰으로 찍은 영화? 갤럭시S23 울트라로 촬영한 단편영화]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Apr 2023 10:10:33 GMT</pubDate>
             <content:encoded><![CDATA[손민수 가능한 봄나들이 도시락으로 추천!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/36eb1b95-50ea-49a6-842f-bb1ce8c44b85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주 비엔날레 보고 당 충전 할래?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76557</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76557</guid>
-            <pubDate>Wed, 12 Apr 2023 15:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[광주 용봉동 핫 스팟 저장!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/eed90ccf-9ae6-4c3e-81a6-ad5057f1e840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

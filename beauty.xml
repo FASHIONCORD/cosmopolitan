@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 04:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 05:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댄스유랑단 엄정화, 평생 다이어트 식단 노하우는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76739</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76739</guid>
+            <pubDate>Thu, 20 Apr 2023 05:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[정화언니가 이효리, 화사만큼 몸매 좋은 법 다 알려드림!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/df897f6a-c1f1-4bdc-8445-e7e8f049619d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 번에 000 칼로리? 모델 한혜진의 지방 태우는 법!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76736</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Apr 2023 04:11:20 GMT</pubDate>
             <content:encoded><![CDATA[등부터 다리까지 붓기 빼기 쌉가능!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/bd748545-3acd-4aa8-8b48-48b4062a4e29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄 지민이 50kg 대를 매일 유지할 수 있는 이유?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76554</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76554</guid>
-            <pubDate>Tue, 11 Apr 2023 08:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[먹고 싶은 음식이 있을 땐 ‘이것’을 활용!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/653cc6e2-3a47-4f9b-a83e-1095913ebbe8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
