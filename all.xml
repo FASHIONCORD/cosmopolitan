@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 14:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 15:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -165,6 +165,14 @@
             <content:encoded><![CDATA[곱창 세끼 가능한 성수동 곱창 맛집 베스트.▼ 클릭 ▼천수곱창 성수동에서 성수 감자탕만큼 유명한 천수 곱창. 모듬 곱창 구이와 볶음밥까지의 향연에 정신 못 차린 듯 먹게 되고 알콜을 겸하게 된다. 맛잘알들 별점 ···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NEW COCO, NEW FACE (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76298</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76298</guid>
+            <pubDate>Thu, 20 Apr 2023 15:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[다름을 두려워하지 않는 배우 휘트니 픽. 그녀가 자신을 닮은 향수, 코코 마드모아젤의 새로운 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/0e338167-598c-47a2-8eae-b8cf194644ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에브리데이 쾌변하기 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76714</link>
             <guid>https://www.cosmopolitan.co.kr/article/76714</guid>
@@ -219,14 +227,6 @@
             <pubDate>Fri, 14 Apr 2023 15:08:51 GMT</pubDate>
             <content:encoded><![CDATA[낡은 폐차장의 밤을 수놓는 불꽃과 유틸리티 코드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/7973e2b5-b096-4cf1-92c0-f35b7a099d06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹어도, 먹어도, 배고파! 혹시 나도 음식 중독? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76614</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76614</guid>
-            <pubDate>Fri, 14 Apr 2023 15:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[틈만 나면 먹을 걸 찾는 나. 음식에 대한 집착은 배고픔이 아닌 중독의 신호다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/4b5d4ad4-1252-4395-ac29-0af586fba970.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[댄스유랑단 엄정화, 평생 다이어트 식단 노하우는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
