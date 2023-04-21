@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 00:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER STYLING, SUPERSONIC HAIR DRYER]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76297</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76297</guid>
+            <pubDate>Fri, 21 Apr 2023 02:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[진화에 진화를 거듭한 다이슨 헤어 컬렉션. 이번엔 하나의 툴로 브러시와 잔머리 정리까지 도와...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/f1200c77-e8e6-42f9-9bf1-1ba574cbf63c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEW COCO, NEW FACE]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76298</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 15 Apr 2023 15:08:18 GMT</pubDate>
             <content:encoded><![CDATA[나인틴, 나이티 나인~ 이런 게 바로 찐 세기말 뷰티 감성! 이번 시즌 트렌드 반열에 오른  ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/e889c8a2-9d68-47f0-8b63-177b5a2d37ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CLASH IN THE NIGHT! 낡은 폐차장 속 유틸리티 코드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76310</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76310</guid>
-            <pubDate>Fri, 14 Apr 2023 15:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[낡은 폐차장의 밤을 수놓는 불꽃과 유틸리티 코드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/7973e2b5-b096-4cf1-92c0-f35b7a099d06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
