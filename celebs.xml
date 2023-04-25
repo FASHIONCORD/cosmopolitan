@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 07:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 08:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 컴백 직캠 여신들 납시오!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76965</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76965</guid>
+            <pubDate>Tue, 25 Apr 2023 08:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[직캠 왕들의 재등장 준비 완료.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8fab7fb1-b7bd-413f-a908-b99aa56569d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연기는 내 숙명... <종이달> 김서형은 오늘도 꿈을 꾼다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76830</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Apr 2023 10:10:51 GMT</pubDate>
             <content:encoded><![CDATA[국민 끝사랑과 국민 훈녀가 전하는 술자리 플러팅 꿀팁.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4b167b65-7554-49fe-94bc-db753487ab38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴은 힘을 뺄 생각이 전혀 없다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76790</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76790</guid>
-            <pubDate>Wed, 19 Apr 2023 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[세븐틴 조슈아와 민규는 여전히 뜨겁고, 누구보다 성실하며, 조금도 힘을 뺄 생각이 없다. 지난...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/bdbd1a3b-525f-4f22-93af-e5d812b1b55b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
