@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 04:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 05:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -165,6 +165,14 @@
             <content:encoded><![CDATA[빼고 싶은 만큼 뺄 수 있다는 거 실화?▼ 클릭 ▼다이어트는 다이어트를 포기해야 된다?나연의 다이어트 꿀팁, 그 첫 번째는 다이어트를 그만두는 것. 이게 뭔 말도 안되는 얘기냐고? 빨리 뺄 생각을 하지 말고 오랫동···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[먼싱웨어와 장윤주의 만남 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76800</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76800</guid>
+            <pubDate>Tue, 25 Apr 2023 05:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[그린, 햇살, 나만의 필드 그리고 나와 마주하는 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/f50233f0-9e71-415c-8b9d-37ec01e191e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블핑으로 뜨거운 코첼라를 찾은 셀럽들의 패션은? (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76840</link>
             <guid>https://www.cosmopolitan.co.kr/article/76840</guid>
@@ -219,14 +227,6 @@
             <pubDate>Wed, 19 Apr 2023 15:10:21 GMT</pubDate>
             <content:encoded><![CDATA[나른한 4월의 방에서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/1144182a-2a2f-4ad4-9bb8-434e18caebf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RUN BABY RUN! 트렌드세터들의 오프런 현장 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76670</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76670</guid>
-            <pubDate>Mon, 17 Apr 2023 15:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[늦으면 솔드 아웃! 멋지고 맛있는 것을 탐미하는 트렌드세터들의 오픈 런.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/4f7df69f-f2a8-4371-b2e1-da5a67ed240e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멋지다 이시영! 비키니와 함께 하는 하와이 라이프 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
