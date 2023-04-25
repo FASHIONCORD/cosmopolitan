@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 00:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 02:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 배우 신재하! 알고 보면 흥행 보증수표라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76794</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76794</guid>
+            <pubDate>Tue, 25 Apr 2023 02:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[일타 스캔들∙모범택시2의 숨은 주역! 신재하의 필모그래피.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/a8759064-ec07-4a92-9c63-b9ba517679c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레트로 푸드 천국 ‘동묘’ 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76770</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76770</guid>
+            <pubDate>Tue, 25 Apr 2023 02:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[정겨운 빈티지 무드 맛집이 한가득!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/3545566b-edfe-44b1-9237-8c4dca1721ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬램덩크 감동 바톤 터치할 힐링작]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76766</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76766</guid>
+            <pubDate>Tue, 25 Apr 2023 02:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[농구 덕후들에게 반가운 소식이 아닐 수 없음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/07de7cbd-7604-40cb-a3cc-301a875fce47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 초간단 시대! 자취러 설레게 하는 비건 간편 음식 7]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76716</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 18 Apr 2023 05:10:11 GMT</pubDate>
             <content:encoded><![CDATA[우리는 이걸 보고 중소기업의 기적이라 부르기로 했어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/ff0237c9-9c38-4663-8058-a14e267f289a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남돌 서바이벌이 다시 돌아왔다! 5세대 아이돌 파헤치기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76613</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76613</guid>
-            <pubDate>Sat, 15 Apr 2023 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[남자 아이돌 서바이벌이 다시 돌아왔다. 지금 가장 뜨거운 두 프로그램,  JTBC &lt;피크타임&gt;과 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/39c4ba0d-4dca-4603-9785-a4ad2608970e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5만 원만 챙겨! 가성비 미슐랭 레스토랑 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76606</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76606</guid>
-            <pubDate>Fri, 14 Apr 2023 15:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[맛과 가격 모두 만족스러울걸?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/90560d6b-81f0-4723-9a72-6ca12dd59bce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이큐 ♥ 김나영의 피크닉 도시락 레시피 궁금하쥬!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76566</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76566</guid>
-            <pubDate>Thu, 13 Apr 2023 10:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[손민수 가능한 봄나들이 도시락으로 추천!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/36eb1b95-50ea-49a6-842f-bb1ce8c44b85.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
