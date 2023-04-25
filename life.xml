@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 02:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 03:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[없어서 못판다는 대란템! 전국 약과 쿠키 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76839</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76839</guid>
+            <pubDate>Tue, 25 Apr 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[쫀득하고 달콤한 약과 쿠키 전국 맛집 총정리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/6faa632b-1107-49f4-9d47-40b8599e9e5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커피부터 오뎅까지! 이색 오마카세 추천 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76795</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76795</guid>
+            <pubDate>Tue, 25 Apr 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 안 가봤어?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/99a1c793-9e88-4a4f-8afe-15d705dff7d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세 배우 신재하! 알고 보면 흥행 보증수표라고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76794</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 19 Apr 2023 03:13:16 GMT</pubDate>
             <content:encoded><![CDATA[항시~ 텐션 맥스도! 항시~ 이너 피스들도! 5월 20일에 노들섬으로~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/ba584ed3-ad96-4438-9c6c-01c93ccb4a59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴대폰으로 찍은 영화? 갤럭시S23 울트라로 촬영한 단편영화]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76214</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76214</guid>
-            <pubDate>Tue, 18 Apr 2023 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[이제 휴대폰으로 영화를 찍는 시대다. 나홍진 감독이 정정훈 촬영감독과 갤럭시 S23 울트라로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/df4de29c-0334-40d7-9494-777ab120a1c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직원 4명인 회사에서 빌보드 진출시킨 여돌의 정체?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76637</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76637</guid>
-            <pubDate>Tue, 18 Apr 2023 05:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 이걸 보고 중소기업의 기적이라 부르기로 했어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/ff0237c9-9c38-4663-8058-a14e267f289a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
