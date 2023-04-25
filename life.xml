@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 08:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 09:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스를 바짝 추격한다! 애플∙디플의 존잼 리스트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76964</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76964</guid>
+            <pubDate>Tue, 25 Apr 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[느슨해진 OTT 계를 긴장시킨 디즈니+와 애플TV+ 명작들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7a2fe3e8-164b-475e-ad41-f70495f982da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 좀 똑똑한 듯? 상식 알려주는 개꿀 유튜브 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76962</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76962</guid>
+            <pubDate>Tue, 25 Apr 2023 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[한 번도 궁금해본 적 없지만 제목만 보면 클릭을 참을 수가 없다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/9071cd03-7610-4fc3-8f65-7e5dee055b11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[없어서 못판다는 대란템! 전국 약과 쿠키 맛집 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76839</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 20 Apr 2023 05:09:48 GMT</pubDate>
             <content:encoded><![CDATA[마이너한 비건 리그에 대기업 제품군의 등장이라…. 나날이 다채로워지는 비건 식탁, 이번엔 간편...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/573fb5e1-9bf4-40d9-ad6c-468f5231705d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사기캐 아냐? 삼박자를 두루 갖춘 소형 SUV 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76216</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76216</guid>
-            <pubDate>Wed, 19 Apr 2023 03:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[작은 몸집, 큰 존재감. 디자인, 성능, 가격 삼박자를 두루 갖춘 ‘사기캐’ 소형 SUV를 모았다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/c5ff16d8-dda2-40d7-9dbd-486186fb6cb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<피지컬 100>의 장은실이랑 운동하고, 윤성빈, 서준맘이랑 으쌰으쌰할 수 있는 페스티벌이 있다?!?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76664</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76664</guid>
-            <pubDate>Wed, 19 Apr 2023 03:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[항시~ 텐션 맥스도! 항시~ 이너 피스들도! 5월 20일에 노들섬으로~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/ba584ed3-ad96-4438-9c6c-01c93ccb4a59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
