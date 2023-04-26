@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 00:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 02:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,6 +293,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/fccb9fde-e0a7-4c0f-908f-a19757cb31f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그곳에선 부디 평안하길, 故 문빈에게 보내는 편지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76978</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76978</guid>
+            <pubDate>Wed, 26 Apr 2023 02:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[사랑하는 친구 문빈을 애도하는 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8bee1fd9-61d8-4144-b0d5-acbf6563c2ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<나혼자산다> 기안84를 넘보는 마이웨이 끝판왕, 김대호 아나운서 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76961</link>
             <guid>https://www.cosmopolitan.co.kr/article/76961</guid>
@@ -347,14 +355,6 @@
             <pubDate>Tue, 25 Apr 2023 02:02:14 GMT</pubDate>
             <content:encoded><![CDATA[송중기부터 정성일까지, 한화팬이라 행복합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/15f6265f-26fc-4046-a8a2-e19ae1b1ba6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월클 블랙핑크! 무대 의상을 00에서 만들었다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76797</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76797</guid>
-            <pubDate>Thu, 20 Apr 2023 00:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[역대급으로 반응 좋았던 K-멋의 비밀.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/0c034361-69e5-486d-b9ce-83229bee94d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
