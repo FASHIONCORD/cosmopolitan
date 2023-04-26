@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 10:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 11:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행한다면 이들처럼, 우당탕탕 덱스와 세준의 오사카 여행기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77013</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77013</guid>
+            <pubDate>Wed, 26 Apr 2023 11:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[극P들의 여행에서 얻는 교훈 5가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/698189ec-6dff-4874-af21-0040c41f3d36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코첼라에서 딱 걸렸다! 해외 셀렙들의 시크릿 모먼트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76989</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76989</guid>
+            <pubDate>Wed, 26 Apr 2023 11:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[누가 봐도 열애 현장? 사랑이 꽃핀 2023 코첼라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/5fef98d7-1167-4f29-86fc-73dcd1de9911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이·NCT 재현·아리아나 그란데의 건강이상설?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76979</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76979</guid>
+            <pubDate>Wed, 26 Apr 2023 11:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[회복이 우선, 건강한 모습으로 다시 만나요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/dd7c97c8-bdc5-4791-b2d3-4f31dda323ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그곳에선 부디 평안하길, 故 문빈에게 보내는 편지]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76978</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 03:09:59 GMT</pubDate>
             <content:encoded><![CDATA[“실제로 만나보니까 더 좋아요”]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/3088ba09-ec43-46d2-b62c-06196402db39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐♥이다해, 대놓고 티내는 예비 신혼부부의 #럽스타그램]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76807</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76807</guid>
-            <pubDate>Tue, 25 Apr 2023 03:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[양봉장급의 꿀이 뚝뚝 떨어지는 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/85592a1e-16cb-4641-a1fc-75a00280450f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 지수와 박명수가 같은 재질?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76799</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76799</guid>
-            <pubDate>Tue, 25 Apr 2023 02:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[ISTP 그 잡채인 두 사람의 공통점 6가지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/f15b629a-27e7-4eaa-bf25-792c5c0b6b9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정성일도 보살팬!? 한화 이글스에 진심인 스타들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76798</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76798</guid>
-            <pubDate>Tue, 25 Apr 2023 02:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[송중기부터 정성일까지, 한화팬이라 행복합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/15f6265f-26fc-4046-a8a2-e19ae1b1ba6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
