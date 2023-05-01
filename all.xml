@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 05:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 06:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,14 +230,6 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/1144182a-2a2f-4ad4-9bb8-434e18caebf2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1년간 -14kg? 이국주의 뜻밖의 다이어트 비결은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76974</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76974</guid>
-            <pubDate>Mon, 01 May 2023 05:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[풍자랑 캐릭터 겹쳐서 살을 뺐다는 그녀의 다이어트 팁 전수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/12c0c832-811b-438b-b9cd-116a3ae5f396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[배우 임현태♥레이디 제인, 예비 신부의 운동 비결은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76970</link>
             <guid>https://www.cosmopolitan.co.kr/article/76970</guid>
@@ -292,6 +284,14 @@
             <pubDate>Thu, 20 Apr 2023 05:09:20 GMT</pubDate>
             <content:encoded><![CDATA[정화언니가 이효리, 화사만큼 몸매 좋은 법 다 알려드림!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/df897f6a-c1f1-4bdc-8445-e7e8f049619d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 번에 000 칼로리? 모델 한혜진의 지방 태우는 법! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76736</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76736</guid>
+            <pubDate>Mon, 01 May 2023 06:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[홈트로 관악산 등반 칼로리를 뺄 수 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/3d29f08e-f4a4-43f1-8bb5-3e1743d639b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금의 나, 지금의 정은지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
