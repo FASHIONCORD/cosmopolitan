@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 12:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 13:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의외로 저렴템 많은 한소희 사복패션 탐구!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76981</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76981</guid>
+            <pubDate>Tue, 02 May 2023 13:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[10만원 이내 갓성비 아이템만 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/3ade8ec8-1f77-4805-8092-f00989fb0f4e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기은세의 홀리데이 리조트 룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76829</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 21 Apr 2023 02:01:23 GMT</pubDate>
             <content:encoded><![CDATA[진화에 진화를 거듭한 다이슨 헤어 컬렉션. 이번엔 하나의 툴로 브러시와 잔머리 정리까지 도와...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/f1200c77-e8e6-42f9-9bf1-1ba574cbf63c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW COCO, NEW FACE]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76298</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76298</guid>
-            <pubDate>Thu, 20 Apr 2023 15:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[다름을 두려워하지 않는 배우 휘트니 픽. 그녀가 자신을 닮은 향수, 코코 마드모아젤의 새로운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/0e338167-598c-47a2-8eae-b8cf194644ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
