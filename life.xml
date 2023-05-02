@@ -4,9 +4,33 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 11:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 12:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FOR YOUR LIFE! 일상에 활기를 더해주는 꿀템 9]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77229</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77229</guid>
+            <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/244594cd-4c69-4315-b2e4-43918d6354d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현실에서 잠시 로그아웃! 시간 순삭 소설3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77226</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77226</guid>
+            <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/78ba4b81-5ff5-4758-8e59-5612f4c1f97d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 따라 일본 여행 각? 스즈메의 문단속 배경지 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77015</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77015</guid>
+            <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[영화 속 장소 찾아 여행 한번 해볼래?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/993a68a9-5215-47d9-a8d1-8c731e886163.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최근 애플에서 혁신적인 ‘통장’이 출시됐다고?!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77014</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 09:10:44 GMT</pubDate>
             <content:encoded><![CDATA[느슨해진 OTT 계를 긴장시킨 디즈니+와 애플TV+ 명작들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7a2fe3e8-164b-475e-ad41-f70495f982da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 좀 똑똑한 듯? 상식 알려주는 개꿀 유튜브 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76962</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76962</guid>
-            <pubDate>Tue, 25 Apr 2023 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[한 번도 궁금해본 적 없지만 제목만 보면 클릭을 참을 수가 없다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/9071cd03-7610-4fc3-8f65-7e5dee055b11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[없어서 못판다는 대란템! 전국 약과 쿠키 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76839</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76839</guid>
-            <pubDate>Tue, 25 Apr 2023 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[쫀득하고 달콤한 약과 쿠키 전국 맛집 총정리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/6faa632b-1107-49f4-9d47-40b8599e9e5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피부터 오뎅까지! 이색 오마카세 추천 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76795</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76795</guid>
-            <pubDate>Tue, 25 Apr 2023 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[아직도 안 가봤어?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/99a1c793-9e88-4a4f-8afe-15d705dff7d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
