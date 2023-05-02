@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 04:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고려시대 디저트가 지금 유행한다고? 개성주악 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76982</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76982</guid>
+            <pubDate>Tue, 02 May 2023 05:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[SNS 대란템 개성주악 전국 맛집 총정리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/10eaa905-06ba-4b02-b35a-b54ad367d7b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 날씨에 못 참지! 사진발 미친 테라스 브런치 맛집 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76972</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 02:03:05 GMT</pubDate>
             <content:encoded><![CDATA[일타 스캔들∙모범택시2의 숨은 주역! 신재하의 필모그래피.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/a8759064-ec07-4a92-9c63-b9ba517679c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레트로 푸드 천국 ‘동묘’ 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76770</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76770</guid>
-            <pubDate>Tue, 25 Apr 2023 02:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[정겨운 빈티지 무드 맛집이 한가득!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/3545566b-edfe-44b1-9237-8c4dca1721ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

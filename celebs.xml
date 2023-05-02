@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 04:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현빈·손예진의 크리스털 잔부터 화병까지? 셀렙들의 결혼식 답례품]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77118</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77118</guid>
+            <pubDate>Tue, 02 May 2023 05:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[의미가 남다르네? 하객들 감동시킨 답례품.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/0fa1bc84-74ea-41c3-bb86-8d95ece7903d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브 레이, 활동 중단 ‘전’에 밝힌 컴백 에피소드!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77087</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 00:42:43 GMT</pubDate>
             <content:encoded><![CDATA[기안84를 처음 만났을 때 충격만큼 대단한 자연인이 나타났다. MBC 아나운서 김대호!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/edf0112c-4037-47df-9288-7b8cc7c19b8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 컴백 직캠 여신들 납시오!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76965</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76965</guid>
-            <pubDate>Tue, 25 Apr 2023 08:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[직캠 왕들의 재등장 준비 완료.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8fab7fb1-b7bd-413f-a908-b99aa56569d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
