@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 23:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 00:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 날씨에 못 참지! 사진발 미친 테라스 브런치 맛집 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76972</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76972</guid>
+            <pubDate>Tue, 02 May 2023 00:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[용산부터 한남까지 서울에서 핫한 브런치집 다 모았다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/e469fd8e-07fd-49b7-8f9e-778bad497cbe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제부도 노을 명당 카페 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76963</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76963</guid>
+            <pubDate>Tue, 02 May 2023 00:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[주말엔 석양 만끽 바다 뷰 맛집으로 고고싱?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/584db9a6-3ad3-4e58-80e0-67db802bb4f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스를 바짝 추격한다! 애플∙디플의 존잼 리스트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76964</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 02:03:05 GMT</pubDate>
             <content:encoded><![CDATA[정겨운 빈티지 무드 맛집이 한가득!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/3545566b-edfe-44b1-9237-8c4dca1721ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬램덩크 감동 바톤 터치할 힐링작]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76766</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76766</guid>
-            <pubDate>Tue, 25 Apr 2023 02:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[농구 덕후들에게 반가운 소식이 아닐 수 없음.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/07de7cbd-7604-40cb-a3cc-301a875fce47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 초간단 시대! 자취러 설레게 하는 비건 간편 음식 7]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76716</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76716</guid>
-            <pubDate>Thu, 20 Apr 2023 05:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[마이너한 비건 리그에 대기업 제품군의 등장이라…. 나날이 다채로워지는 비건 식탁, 이번엔 간편...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/573fb5e1-9bf4-40d9-ad6c-468f5231705d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

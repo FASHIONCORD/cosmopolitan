@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 23:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 00:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키토 다이어트가 위험한 이유]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76986</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76986</guid>
+            <pubDate>Tue, 02 May 2023 00:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[요요가 쉽게 온다는 단점만 있는 것이 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/26ca3910-7906-4aab-953b-567041c43c47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이슨 데모 스토어에서 곰손 탈출!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76837</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76837</guid>
+            <pubDate>Tue, 02 May 2023 00:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[다이슨 데모 스토어 사운즈 한남의 ‘하우투 세션’에서 전문가의 손길을 배우다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/53b1fa89-08cd-4a69-b50b-7ac23b7e1840.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1년간 -14kg? 이국주의 뜻밖의 다이어트 비결은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76974</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 03:09:50 GMT</pubDate>
             <content:encoded><![CDATA[다시 런웨이에 서기 위해 이천수의 와이프, 심하은이 시도한 방법이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/2e7b8a7c-b434-47b5-90cb-33f736941179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사람을 홀리는 ‘눈’ 만들기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76762</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76762</guid>
-            <pubDate>Tue, 25 Apr 2023 03:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[촉촉함이 관건!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/76bae0fe-d60e-4595-85a4-57fcb7752cbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄스유랑단 엄정화, 평생 다이어트 식단 노하우는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76739</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76739</guid>
-            <pubDate>Thu, 20 Apr 2023 05:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[정화언니가 이효리, 화사만큼 몸매 좋은 법 다 알려드림!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/df897f6a-c1f1-4bdc-8445-e7e8f049619d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
