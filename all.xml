@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 02:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 02:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <content:encoded><![CDATA[고 1인데 키가 189cm? 방탄소년단 뷔 닮은꼴이라고?▼ 클릭 ▼10준수장난기 가득한 엉뚱함이 매력이었던 준수. 최근 자신의 유튜브 ‘10준수’ 채널에 모습을 공개했다. 살이 빠져 한층 훈훈한 비주얼은 물···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기은세의 홀리데이 리조트 룩 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76829</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76829</guid>
+            <pubDate>Tue, 02 May 2023 02:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[세련된 자연스러움, 셀렙샵 에디션의 서머 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/36e97ef6-239f-40e4-9135-7bd4032a6d3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이성경 PICK! 여름 스타일링 맛집, 더엣지 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76816</link>
             <guid>https://www.cosmopolitan.co.kr/article/76816</guid>
@@ -221,12 +229,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/0e338167-598c-47a2-8eae-b8cf194644ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에브리데이 쾌변하기 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76714</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76714</guid>
-            <pubDate>Mon, 01 May 2023 11:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[피부, 다이어트, 면역력까지! 건강의 시작인 클린~한 장을 위한 쾌변 프리패스 방법 바로 알기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/725a0a7d-7387-4a9b-a444-f73aa4fba448.gif" length="0" type="image/gif"/>
+            <title><![CDATA[5월, 봄날의 햇살 같은 최서은 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76872</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76872</guid>
+            <pubDate>Tue, 02 May 2023 02:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[오롯이 나를 위한 행복한 시간. 최서은에게 찾아온 선물 같은 하루.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/63136264-4fab-4f63-8b3e-0d57fb656135.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유행은 돌아오는 거야! 셀렙의 스모키 메이크업 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -283,14 +291,6 @@
             <pubDate>Mon, 01 May 2023 11:08:03 GMT</pubDate>
             <content:encoded><![CDATA[New, Need, Now! 화려한 비주얼로 심쿵 유발하는 4월의 뷰티 신상.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/d5e82e8f-e283-4d33-8673-6e698a94fcf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋지다 이시영! 비키니와 함께 하는 하와이 라이프 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76764</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76764</guid>
-            <pubDate>Mon, 01 May 2023 11:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[하와이에 비키니만 가져가는 굳은 심지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/31c6f5f5-5255-41b3-abe2-20be22284776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이브 레이, 활동 중단 ‘전’에 밝힌 컴백 에피소드! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
