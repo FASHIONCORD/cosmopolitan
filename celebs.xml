@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 00:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 02:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브 레이, 활동 중단 ‘전’에 밝힌 컴백 에피소드!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77087</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77087</guid>
+            <pubDate>Tue, 02 May 2023 02:01:03 GMT</pubDate>
+            <content:encoded><![CDATA[렌즈 뚫고 나오는 귀여움보소.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/90d36857-2413-4245-bcd9-16053be05c15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금의 나, 지금의 정은지]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76843</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 08:11:54 GMT</pubDate>
             <content:encoded><![CDATA[직캠 왕들의 재등장 준비 완료.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8fab7fb1-b7bd-413f-a908-b99aa56569d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기는 내 숙명... <종이달> 김서형은 오늘도 꿈을 꾼다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76830</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76830</guid>
-            <pubDate>Tue, 25 Apr 2023 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[명백하고 격렬한 욕망. 김서형은 여전히 꿈을 꾼다. 데뷔 30주년이라는 말은 그에겐 사치일 뿐,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/ce0122e2-4cae-4700-97bd-2cce721949df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

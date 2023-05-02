@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 00:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 02:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유행은 돌아오는 거야! 셀렙의 스모키 메이크업]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77016</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77016</guid>
+            <pubDate>Tue, 02 May 2023 02:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[제니∙태연∙민지의 반전 매력에 풍덩~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7317d6c4-ffd0-495d-a026-04856340dcc2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키토 다이어트가 위험한 이유]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76986</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 03:09:50 GMT</pubDate>
             <content:encoded><![CDATA[하와이에 비키니만 가져가는 굳은 심지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/31c6f5f5-5255-41b3-abe2-20be22284776.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[16kg 감량은 ‘00’ 다이어트 덕분!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76763</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76763</guid>
-            <pubDate>Tue, 25 Apr 2023 03:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[다시 런웨이에 서기 위해 이천수의 와이프, 심하은이 시도한 방법이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/2e7b8a7c-b434-47b5-90cb-33f736941179.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

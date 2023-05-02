@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 00:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 02:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,6 +229,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/725a0a7d-7387-4a9b-a444-f73aa4fba448.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[유행은 돌아오는 거야! 셀렙의 스모키 메이크업 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77016</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77016</guid>
+            <pubDate>Tue, 02 May 2023 02:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[제니∙태연∙민지의 반전 매력에 풍덩~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7317d6c4-ffd0-495d-a026-04856340dcc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[키토 다이어트가 위험한 이유 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76986</link>
             <guid>https://www.cosmopolitan.co.kr/article/76986</guid>
@@ -285,12 +293,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/31c6f5f5-5255-41b3-abe2-20be22284776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[16kg 감량은 ‘00’ 다이어트 덕분! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76763</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76763</guid>
-            <pubDate>Mon, 01 May 2023 11:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[다시 런웨이에 서기 위해 이천수의 와이프, 심하은이 시도한 방법이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/2e7b8a7c-b434-47b5-90cb-33f736941179.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이브 레이, 활동 중단 ‘전’에 밝힌 컴백 에피소드! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77087</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77087</guid>
+            <pubDate>Tue, 02 May 2023 02:01:03 GMT</pubDate>
+            <content:encoded><![CDATA[렌즈 뚫고 나오는 귀여움보소.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/90d36857-2413-4245-bcd9-16053be05c15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금의 나, 지금의 정은지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -347,14 +355,6 @@
             <pubDate>Mon, 01 May 2023 11:08:12 GMT</pubDate>
             <content:encoded><![CDATA[직캠 왕들의 재등장 준비 완료.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8fab7fb1-b7bd-413f-a908-b99aa56569d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기는 내 숙명... <종이달> 김서형은 오늘도 꿈을 꾼다 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76830</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76830</guid>
-            <pubDate>Mon, 01 May 2023 11:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[명백하고 격렬한 욕망. 김서형은 여전히 꿈을 꾼다. 데뷔 30주년이라는 말은 그에겐 사치일 뿐,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/ce0122e2-4cae-4700-97bd-2cce721949df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
