@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 14:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 15:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국·김나영·안소희가 보장한 JMT 레시피 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77261</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77261</guid>
+            <pubDate>Tue, 02 May 2023 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[트민남, 트민녀가 되고 싶다면 꼭 따라 해 봐야 하는 레시피.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/ee091fdd-853f-4b83-a135-dca8ccb9d1b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FOR YOUR LIFE! 일상에 활기를 더해주는 꿀템 9]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77229</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 May 2023 00:43:44 GMT</pubDate>
             <content:encoded><![CDATA[주말엔 석양 만끽 바다 뷰 맛집으로 고고싱?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/584db9a6-3ad3-4e58-80e0-67db802bb4f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스를 바짝 추격한다! 애플∙디플의 존잼 리스트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76964</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76964</guid>
-            <pubDate>Tue, 25 Apr 2023 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[느슨해진 OTT 계를 긴장시킨 디즈니+와 애플TV+ 명작들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7a2fe3e8-164b-475e-ad41-f70495f982da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
