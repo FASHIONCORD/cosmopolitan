@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 04:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 05:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫서머 대비! 워너비 핏 윤은혜 몸매의 비결은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77253</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77253</guid>
+            <pubDate>Wed, 03 May 2023 05:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[식단부터 운동까지, 급찐급빠에도 노하우가 있다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/1eff7b99-755d-4537-9046-e73904ecaef7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루만에 지방 2 kg 빠진다고? 윤은혜의 급찐급빠 다이어트 노하우]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77251</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 May 2023 00:43:14 GMT</pubDate>
             <content:encoded><![CDATA[요요가 쉽게 온다는 단점만 있는 것이 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/26ca3910-7906-4aab-953b-567041c43c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이슨 데모 스토어에서 곰손 탈출!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76837</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76837</guid>
-            <pubDate>Tue, 02 May 2023 00:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[다이슨 데모 스토어 사운즈 한남의 ‘하우투 세션’에서 전문가의 손길을 배우다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/53b1fa89-08cd-4a69-b50b-7ac23b7e1840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
