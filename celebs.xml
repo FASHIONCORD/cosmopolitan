@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 00:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 02:00:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손석구∙정성일∙박해수 연기 천재들의 선택, 연극으로 돌아오다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77248</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77248</guid>
+            <pubDate>Wed, 03 May 2023 01:59:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화, OTT 시리즈가 아닌 무대로 돌아오는 연기천재들의 컴백 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/c2a3475d-7ee5-4d98-889e-6c421b699cd3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고막 힐링돌 비투비 컴백 기념 완전체 화보 공개!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77004</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 11:08:31 GMT</pubDate>
             <content:encoded><![CDATA[극P들의 여행에서 얻는 교훈 5가지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/698189ec-6dff-4874-af21-0040c41f3d36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코첼라에서 딱 걸렸다! 해외 셀렙들의 시크릿 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76989</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76989</guid>
-            <pubDate>Wed, 26 Apr 2023 11:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[누가 봐도 열애 현장? 사랑이 꽃핀 2023 코첼라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/5fef98d7-1167-4f29-86fc-73dcd1de9911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
