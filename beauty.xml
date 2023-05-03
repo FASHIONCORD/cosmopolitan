@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 11:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 12:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루만에 -2kg 가능? 윤은혜의 급찐급빠 다이어트 수칙]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77278</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77278</guid>
+            <pubDate>Wed, 03 May 2023 12:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[프로 다이어터 윤실장님이 알려주는 다이어트 노하우!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/a0b5dbd3-8c20-430f-9da3-85201ff0f062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핫서머 대비! 워너비 핏 윤은혜 몸매의 비결은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77253</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 May 2023 02:00:53 GMT</pubDate>
             <content:encoded><![CDATA[제니∙태연∙민지의 반전 매력에 풍덩~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7317d6c4-ffd0-495d-a026-04856340dcc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키토 다이어트가 위험한 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76986</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76986</guid>
-            <pubDate>Tue, 02 May 2023 00:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[요요가 쉽게 온다는 단점만 있는 것이 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/26ca3910-7906-4aab-953b-567041c43c47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
