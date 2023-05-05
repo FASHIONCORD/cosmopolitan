@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 14:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 15:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폼 미쳤다! 인간 샤넬 제니의 페스티벌 룩 손민수 가이드.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77252</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77252</guid>
+            <pubDate>Fri, 05 May 2023 15:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[블핑 제니의 OOTD! 하나까지 완전 맘에 들지~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/ab9e0b8c-2784-4b50-a5b1-3f479d78be76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PERFECT MATCH! 완벽 그 잡채, 신상 백&슈즈 매칭법]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77227</link>
@@ -61,14 +69,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/76870</guid>
             <pubDate>Tue, 02 May 2023 00:43:04 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/0d5e2977-5209-4450-a8f4-c5a87e2b59af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼싱웨어와 장윤주의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76800</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76800</guid>
-            <pubDate>Tue, 25 Apr 2023 05:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[그린, 햇살, 나만의 필드 그리고 나와 마주하는 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/f50233f0-9e71-415c-8b9d-37ec01e191e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
