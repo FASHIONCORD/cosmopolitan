@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 07:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 08:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/b41ed5d1-aa4b-4ad5-bc2a-0645246d5c6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한소희·김히어라·신현지! 송혜교를 사랑하는 모임 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77281</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77281</guid>
+            <pubDate>Fri, 05 May 2023 08:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[송혜교에 진심인 친구들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/467b6929-097f-4a17-ba04-2eb40d7ec85d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[군인돌 제이홉·진·민혁의 최근 근황은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77260</link>
             <guid>https://www.cosmopolitan.co.kr/article/77260</guid>
@@ -349,14 +357,6 @@
             <pubDate>Tue, 02 May 2023 02:01:03 GMT</pubDate>
             <content:encoded><![CDATA[렌즈 뚫고 나오는 귀여움보소.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/90d36857-2413-4245-bcd9-16053be05c15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금의 나, 지금의 정은지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76843</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76843</guid>
-            <pubDate>Mon, 01 May 2023 11:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[정은지가 스스로에게 던지는 물음표. 내가 ‘나’로 존재하기 위해 치열하게 고민했던 순간은 지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/833d84eb-b400-4cf2-aaf0-6144db1ebce9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
