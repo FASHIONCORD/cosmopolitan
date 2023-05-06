@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 15:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 16:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신동엽 하차 요구까지? 넷플릭스 <성+인물> AV 미화 논란]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77280</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77280</guid>
+            <pubDate>Sat, 06 May 2023 16:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;동물농장&gt; 하차 요구까지 나온 문제적 지점들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/2267dc2e-9c3c-4686-9eb3-b45bdc739e02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자출연진 외모 미쳤다, 벌써부터 기대되는 <하트시그널 4>]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77277</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 May 2023 05:09:59 GMT</pubDate>
             <content:encoded><![CDATA[SNS 대란템 개성주악 전국 맛집 총정리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/10eaa905-06ba-4b02-b35a-b54ad367d7b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 날씨에 못 참지! 사진발 미친 테라스 브런치 맛집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76972</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76972</guid>
-            <pubDate>Tue, 02 May 2023 00:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[용산부터 한남까지 서울에서 핫한 브런치집 다 모았다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/e469fd8e-07fd-49b7-8f9e-778bad497cbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

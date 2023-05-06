@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 15:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 16:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김희애∙한혜진∙이소연 한몸매 하는 언니들의 독한 습관]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77319</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77319</guid>
+            <pubDate>Sat, 06 May 2023 16:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[40-50대에도 멋진 몸매를 유지하는 이 언니들이 꼭 지키는 독한 다이어트 습관.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/f32f765e-5c9e-4e57-8cf9-eb1d5f808191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집에서도 손쉽게! 무너진 얼굴 라인엔 더마쎄라]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77304</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 May 2023 01:59:36 GMT</pubDate>
             <content:encoded><![CDATA[지난해에 이어 다시 돌아온 윤은혜의 급찐급빠 다이어트 팁 대방출.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/00eda39d-f4c6-4da2-a5ed-24e2c20c6b0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Hot issue_Beauty!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77228</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77228</guid>
-            <pubDate>Tue, 02 May 2023 15:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/bf802410-f903-41fe-9ea3-1758f90d7425.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

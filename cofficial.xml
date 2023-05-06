@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 코피셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 15:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 16:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 채식해?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64487</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
+            <pubDate>Sat, 06 May 2023 16:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/fdef0949-753f-4b68-8736-97965b951957.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/63642</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Feb 2023 04:22:41 GMT</pubDate>
             <content:encoded><![CDATA[코스모폴리탄과 입생로랑 뷰티, 한국여성의전화가 함께하는 ‘파트너 폭력 인식 개선 프로그램’으...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b63604de-8bd7-4196-beac-5f95a0e0a6c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 코시국 속 외로움을 느낀 적 있다? 없다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/61304</link>
-            <guid>https://www.cosmopolitan.co.kr/article/61304</guid>
-            <pubDate>Mon, 06 Mar 2023 06:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[※15-25세 얼리 MZ세대들만 드루와※ 대면 수업이 있었는데, 없었어요... 코로나가 뺏어간 소중한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/705c8d66-8ced-4907-a92f-d903497551b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
