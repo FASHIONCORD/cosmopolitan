@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 02:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대급 컴백! 나영석도 도전한 세븐틴 챌린지의 정체]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77284</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77284</guid>
+            <pubDate>Mon, 08 May 2023 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[극악의 난이도! 세븐틴 ‘손오공 댄스 챌린지’에 도전한 셀럽들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/e9662ce8-aa61-4b61-976c-057784a7702f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대급 의리! 매니저 결혼식에 뛰어든 이효리∙이재욱∙한해]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77283</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 May 2023 12:16:55 GMT</pubDate>
             <content:encoded><![CDATA[이 조합 어떻게 안 봐?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/c798f025-b4cc-4654-b4b0-4e6760d0a8df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현빈·손예진의 크리스털 잔부터 화병까지? 셀렙들의 결혼식 답례품]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77118</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77118</guid>
-            <pubDate>Tue, 02 May 2023 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[의미가 남다르네? 하객들 감동시킨 답례품.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/0fa1bc84-74ea-41c3-bb86-8d95ece7903d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

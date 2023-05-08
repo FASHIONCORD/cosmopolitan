@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 02:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[May Day! 봄의 절정을 느낄 수 있는 5월의 꽃과 술]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77324</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77324</guid>
+            <pubDate>Mon, 08 May 2023 03:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 절정, 곁에 두고 기념하고 싶은 5월의 꽃과 술.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/7ac3ecf2-1602-43d0-bc8d-fbd2cac5d699.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[놓치면 후회 각! 지금 가야 할 신상 전시회4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77225</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
             <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/244594cd-4c69-4315-b2e4-43918d6354d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실에서 잠시 로그아웃! 시간 순삭 소설3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77226</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77226</guid>
-            <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/78ba4b81-5ff5-4758-8e59-5612f4c1f97d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
