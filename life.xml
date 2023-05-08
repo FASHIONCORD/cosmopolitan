@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 10:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 11:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방콕 가기 딱 좋은 지금! 핫플 모두 알려드림]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77385</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77385</guid>
+            <pubDate>Mon, 08 May 2023 11:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[여행객 하나 없이 쓸쓸했던 방콕이 활기 넘치는 모습을 되찾았다. 팬데믹 기간 문을 닫은 공간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/5940c703-c259-40c3-9abd-444f4559d3dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 KBO 개막 기념! 야구 영화 속 인물 10인]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77379</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 May 2023 16:12:06 GMT</pubDate>
             <content:encoded><![CDATA[방송 시작전부터 여자출연진들이 주목을 받고 있다는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/f140ce02-47d8-4c20-847c-59ae65c5c723.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정국·김나영·안소희가 보장한 JMT 레시피 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77261</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77261</guid>
-            <pubDate>Tue, 02 May 2023 15:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[트민남, 트민녀가 되고 싶다면 꼭 따라 해 봐야 하는 레시피.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/ee091fdd-853f-4b83-a135-dca8ccb9d1b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
