@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 11:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 12:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 핫키워드 '정은지 사건' 본인 등판했습니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77389</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77389</guid>
+            <pubDate>Mon, 08 May 2023 12:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[친필 사인이 담긴 폴라로이드 증정 이벤트는 덤~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/43486217-74ab-4b3f-80ec-6e908cb1f0b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방콕 가기 딱 좋은 지금! 핫플 모두 알려드림]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77385</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 May 2023 16:12:02 GMT</pubDate>
             <content:encoded><![CDATA[&lt;동물농장&gt; 하차 요구까지 나온 문제적 지점들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/2267dc2e-9c3c-4686-9eb3-b45bdc739e02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자출연진 외모 미쳤다, 벌써부터 기대되는 <하트시그널 4>]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77277</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77277</guid>
-            <pubDate>Wed, 03 May 2023 16:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[방송 시작전부터 여자출연진들이 주목을 받고 있다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/f140ce02-47d8-4c20-847c-59ae65c5c723.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
