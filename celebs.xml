@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 12:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 13:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비투비 완전체가 코스모에 떴다! 현웃주의 줌터뷰]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77299</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77299</guid>
+            <pubDate>Mon, 08 May 2023 13:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[회사에서 보지 마세요. 빵 터져도 책임 못 지니까...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/01b2d86a-d616-4f77-8d8e-3d1608347d23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대급 컴백! 나영석도 도전한 세븐틴 챌린지의 정체]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77284</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 May 2023 12:16:55 GMT</pubDate>
             <content:encoded><![CDATA[그냥 한국 살면 안 되겠니?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/55be5034-7eb8-4f41-9af3-60d67e498223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴(SEVENTEEN) 민규가 질투 폭발한 ‘조슈아💗랑 가장 수다 많이 떠는 멤버’는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77119</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77119</guid>
-            <pubDate>Tue, 02 May 2023 12:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[이 조합 어떻게 안 봐?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/c798f025-b4cc-4654-b4b0-4e6760d0a8df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
