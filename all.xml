@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 00:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 02:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/36e97ef6-239f-40e4-9135-7bd4032a6d3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[FLOWER CAKE, 겐조 플라워바이겐조 오 드 퍼퓸 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77295</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77295</guid>
+            <pubDate>Mon, 08 May 2023 02:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[케이크처럼 부드럽고 캔디보다 달콤해! 디저트 테이블 위를 점령한 봄 향수 라인업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b5a034cc-896f-4af5-b296-1b0c1aa5731c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rose Blossom, 5월에 막 피어난 장미꽃을 그대로 닮은 마성의 로즈 향수는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76791</link>
             <guid>https://www.cosmopolitan.co.kr/article/76791</guid>
@@ -288,12 +296,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/a0b5dbd3-8c20-430f-9da3-85201ff0f062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[핫서머 대비! 워너비 핏 윤은혜 몸매의 비결은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77253</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77253</guid>
-            <pubDate>Wed, 03 May 2023 05:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[식단부터 운동까지, 급찐급빠에도 노하우가 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/1eff7b99-755d-4537-9046-e73904ecaef7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[역대급 의리! 매니저 결혼식에 뛰어든 이효리∙이재욱∙한해 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77283</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77283</guid>
+            <pubDate>Mon, 08 May 2023 02:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[결혼식이야? 시상식이야? 매니저 기 살려준 스타들은 누구?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/d6de402e-80be-42ef-9637-ed538a2f20c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한소희·김히어라·신현지! 송혜교를 사랑하는 모임 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -350,14 +358,6 @@
             <pubDate>Tue, 02 May 2023 05:09:37 GMT</pubDate>
             <content:encoded><![CDATA[의미가 남다르네? 하객들 감동시킨 답례품.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/0fa1bc84-74ea-41c3-bb86-8d95ece7903d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브 레이, 활동 중단 ‘전’에 밝힌 컴백 에피소드! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77087</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77087</guid>
-            <pubDate>Tue, 02 May 2023 02:01:03 GMT</pubDate>
-            <content:encoded><![CDATA[렌즈 뚫고 나오는 귀여움보소.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/90d36857-2413-4245-bcd9-16053be05c15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -424,6 +424,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[놓치면 후회 각! 지금 가야 할 신상 전시회4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77225</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77225</guid>
+            <pubDate>Mon, 08 May 2023 02:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/f906112e-1c76-4dd2-9687-d94fe06ebcb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사진 찍기 딱! 좋은 지금. 서울 튤립 명소 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77285</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77285</guid>
+            <pubDate>Mon, 08 May 2023 02:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[지금이 절정! 안가면 후회할 걸?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/e76e29a2-b09d-48a4-b716-9bc1980df70e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인류의 마지막 희망은 김우빈? 한국판 매드맥스 <택배기사> (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77282</link>
             <guid>https://www.cosmopolitan.co.kr/article/77282</guid>
@@ -470,22 +486,6 @@
             <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
             <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/78ba4b81-5ff5-4758-8e59-5612f4c1f97d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 따라 일본 여행 각? 스즈메의 문단속 배경지 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77015</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77015</guid>
-            <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[영화 속 장소 찾아 여행 한번 해볼래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/993a68a9-5215-47d9-a8d1-8c731e886163.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 애플에서 혁신적인 ‘통장’이 출시됐다고?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77014</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77014</guid>
-            <pubDate>Tue, 02 May 2023 11:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[금융업에 발 뻗는 애플의 속내.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4f1bc8e7-4fdc-463f-908d-c3ef46d05493.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 00:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 02:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놓치면 후회 각! 지금 가야 할 신상 전시회4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77225</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77225</guid>
+            <pubDate>Mon, 08 May 2023 02:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/f906112e-1c76-4dd2-9687-d94fe06ebcb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사진 찍기 딱! 좋은 지금. 서울 튤립 명소 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77285</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77285</guid>
+            <pubDate>Mon, 08 May 2023 02:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[지금이 절정! 안가면 후회할 걸?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/e76e29a2-b09d-48a4-b716-9bc1980df70e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인류의 마지막 희망은 김우빈? 한국판 매드맥스 <택배기사>]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77282</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
             <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/78ba4b81-5ff5-4758-8e59-5612f4c1f97d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 따라 일본 여행 각? 스즈메의 문단속 배경지 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77015</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77015</guid>
-            <pubDate>Tue, 02 May 2023 12:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[영화 속 장소 찾아 여행 한번 해볼래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/993a68a9-5215-47d9-a8d1-8c731e886163.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 애플에서 혁신적인 ‘통장’이 출시됐다고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77014</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77014</guid>
-            <pubDate>Tue, 02 May 2023 11:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[금융업에 발 뻗는 애플의 속내.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4f1bc8e7-4fdc-463f-908d-c3ef46d05493.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
