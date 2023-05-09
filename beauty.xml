@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 15:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 16:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 지수· 차은우의 애착템? 디올의 새로운 핸드 크림, 디올 르 밤]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77406</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77406</guid>
+            <pubDate>Tue, 09 May 2023 16:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[모든 건조한 부위에 다양하게 사용할 수 있는 유니버셜 뷰티 아이콘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/eb9a1d3f-70c9-49fe-96c6-543861bf29dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야식은 건강의 절대 악]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77391</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 07 May 2023 16:10:17 GMT</pubDate>
             <content:encoded><![CDATA[살짝~ 설랬어 난~ 심쿵? 아니, 코쿵! 5월에 막 피어난 장미꽃을 그대로 닮은 마성의 로즈 향수...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/7c9c5dc1-3a2e-4048-b1de-8bd56d014f8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김희애∙한혜진∙이소연 한몸매 하는 언니들의 독한 습관]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77319</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77319</guid>
-            <pubDate>Sat, 06 May 2023 16:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[40-50대에도 멋진 몸매를 유지하는 이 언니들이 꼭 지키는 독한 다이어트 습관.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/f32f765e-5c9e-4e57-8cf9-eb1d5f808191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
