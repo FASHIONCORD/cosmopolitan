@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 00:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 02:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 개인전 <청춘>으로 돌아온 안도 타다오와의 대화]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77238</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77238</guid>
+            <pubDate>Tue, 09 May 2023 02:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[아주 희미한 빛으로도 세상을 번쩍 빛나게 하는 건축물을 만들어온 이 시대의 건축가. 개인전 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/d3478559-7df1-4cda-8270-31eddf084b8a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비투비 완전체가 코스모에 떴다! 현웃주의 줌터뷰]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77299</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 May 2023 12:16:55 GMT</pubDate>
             <content:encoded><![CDATA[‘그리워하다’ 돌아오길 ‘기도’했더니 ‘바람’을 가르고 다가와준 비투비.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/7f65e671-143f-4421-9384-5b9d496858a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음방 출연에 한강 버스킹까지, 뉴호프클럽의 대한 사랑]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77120</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77120</guid>
-            <pubDate>Tue, 02 May 2023 12:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[그냥 한국 살면 안 되겠니?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/55be5034-7eb8-4f41-9af3-60d67e498223.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

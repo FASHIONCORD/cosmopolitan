@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 00:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 02:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야식은 건강의 절대 악]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77391</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77391</guid>
+            <pubDate>Tue, 09 May 2023 02:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트는 물론 건강까지 위협하는 야식, 절대적으로 끊어내야 우리 몸을 지킬 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/322dbe27-1a73-40f8-aae1-cbfca54de616.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다채로운 룩을 완성해줄 멀티 유즈의 대표주자, 컬러 팔레트 모음zip]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77331</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77331</guid>
+            <pubDate>Tue, 09 May 2023 02:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[똑똑한 ‘요즘 코덕’에겐 좋은 팔레트 하나면 열 화장품 필요 없다. 다채로운 룩을 완성해줄 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/fe83bd41-00fa-43c6-a761-6d714fdb6cbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 이 계절에 필요한 다재다능한 선 프로텍션 띵템은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77239</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 06 May 2023 16:11:35 GMT</pubDate>
             <content:encoded><![CDATA[40-50대에도 멋진 몸매를 유지하는 이 언니들이 꼭 지키는 독한 다이어트 습관.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/f32f765e-5c9e-4e57-8cf9-eb1d5f808191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서도 손쉽게! 무너진 얼굴 라인엔 더마쎄라]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77304</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77304</guid>
-            <pubDate>Fri, 05 May 2023 16:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[전문적인 케어 느낌 그대로, 집에서도 간편하게! 스마트한 홈 뷰티 디바이스 하나면 팽팽하고 탄...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/fe90bd00-2ae6-444f-b2d1-7cef759a5edc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A BITE OF MACARON, 샤넬 코코 마드모아젤 오 드 빠르펭]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77294</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77294</guid>
-            <pubDate>Thu, 04 May 2023 16:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[케이크처럼 부드럽고 캔디보다 달콤해! 디저트 테이블 위를 점령한 봄 향수 라인업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/f3703be7-1e96-4e0c-b30c-d7f6ae24f5f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
