@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 14:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 15:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘멍 때리기’ 도와주는 케이크 만들기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77409</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77409</guid>
+            <pubDate>Thu, 11 May 2023 15:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[시간이 순식간에 지나간다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/d1877385-f87c-45f5-a1ee-43f83548268d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이러니 안 반해? 훈내 폭발하는 <서진이네> 미담은 무엇?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77393</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 May 2023 02:02:38 GMT</pubDate>
             <content:encoded><![CDATA[잠깐! 5월에 알고 가야 할 이달의 핫 이슈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/f906112e-1c76-4dd2-9687-d94fe06ebcb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진 찍기 딱! 좋은 지금. 서울 튤립 명소 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77285</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77285</guid>
-            <pubDate>Mon, 08 May 2023 02:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[지금이 절정! 안가면 후회할 걸?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/e76e29a2-b09d-48a4-b716-9bc1980df70e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
