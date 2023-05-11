@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 00:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 02:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50대 언니들의 으른 MZ 사복 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77412</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77412</guid>
+            <pubDate>Thu, 11 May 2023 02:01:42 GMT</pubDate>
+            <content:encoded><![CDATA[닮고 싶은 패션 천재 언니들 보고 가실 분?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/03e41473-8176-4358-906b-2193915effce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에디터스 픽 핫플 in 서울 ! 뷰티 에디터 김민지의 뷰티 플레이스 모음 ZIP]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77235</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 May 2023 16:11:26 GMT</pubDate>
             <content:encoded><![CDATA[미국 패션계 최대 행사 멧 갈라 2023을 찾은 월드 스타들의 드레스 룩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/48f58b97-d61a-4c65-ad2e-5bb7437d6399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폼 미쳤다! 인간 샤넬 제니의 페스티벌 룩 손민수 가이드.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77252</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77252</guid>
-            <pubDate>Fri, 05 May 2023 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[블핑 제니의 OOTD! 하나까지 완전 맘에 들지~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/ab9e0b8c-2784-4b50-a5b1-3f479d78be76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

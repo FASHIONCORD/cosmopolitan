@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 00:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 02:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1초면 참여 완료! 황민현도 동참한 캠페인의 정체는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77424</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77424</guid>
+            <pubDate>Thu, 11 May 2023 02:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[댓글만 달아도 기부 동참 완료~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/d61b0575-1697-421a-8149-23ccd25bbbfe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐❤이다해, 해븐커플 결혼식에 누가 누가 왔을까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77417</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77417</guid>
+            <pubDate>Thu, 11 May 2023 02:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[신랑신부 쇼맨십부터 하객 리스트까지 돋보였던 결혼식 이모저모.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/39768218-26eb-4e2d-aa3e-d02936aeee7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크·송혜교·세븐틴! 국뽕 차오르게 하는 대세 셀렙 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77394</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 08 May 2023 03:10:16 GMT</pubDate>
             <content:encoded><![CDATA[극악의 난이도! 세븐틴 ‘손오공 댄스 챌린지’에 도전한 셀럽들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/e9662ce8-aa61-4b61-976c-057784a7702f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 의리! 매니저 결혼식에 뛰어든 이효리∙이재욱∙한해]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77283</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77283</guid>
-            <pubDate>Mon, 08 May 2023 02:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[결혼식이야? 시상식이야? 매니저 기 살려준 스타들은 누구?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/d6de402e-80be-42ef-9637-ed538a2f20c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희·김히어라·신현지! 송혜교를 사랑하는 모임]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77281</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77281</guid>
-            <pubDate>Fri, 05 May 2023 08:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[송혜교에 진심인 친구들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/467b6929-097f-4a17-ba04-2eb40d7ec85d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
