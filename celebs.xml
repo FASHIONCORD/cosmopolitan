@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 왜 설레? 유죄인간 이동욱의 스윗모먼트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77431</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77431</guid>
+            <pubDate>Fri, 12 May 2023 08:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴로 사람 마음 집어 삼키는 남자 구미호 등장이오~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/5dbb8acb-90d4-4a22-8ac1-03d17fa1f208.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1초면 참여 완료! 황민현도 동참한 캠페인의 정체는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77424</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 May 2023 13:12:02 GMT</pubDate>
             <content:encoded><![CDATA[회사에서 보지 마세요. 빵 터져도 책임 못 지니까...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/01b2d86a-d616-4f77-8d8e-3d1608347d23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 컴백! 나영석도 도전한 세븐틴 챌린지의 정체]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77284</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77284</guid>
-            <pubDate>Mon, 08 May 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[극악의 난이도! 세븐틴 ‘손오공 댄스 챌린지’에 도전한 셀럽들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/e9662ce8-aa61-4b61-976c-057784a7702f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
