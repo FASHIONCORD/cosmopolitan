@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 14:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 15:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1초면 참여 완료! 황민현도 동참한 캠페인의 정체는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77424</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77424</guid>
+            <pubDate>Fri, 12 May 2023 15:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[댓글만 달아도 기부 동참 완료~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/d61b0575-1697-421a-8149-23ccd25bbbfe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THE SWEETEST THING, 로즈 폼퐁 오 드 뚜왈렛 & 쁘띠 쉐리 오 드 퍼퓸]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77296</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 May 2023 16:11:41 GMT</pubDate>
             <content:encoded><![CDATA[지금 이 계절에 필요한 다재다능한 선 프로텍션 띵템은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/b6739c08-cad8-47e8-8b0c-c7a67dbe20cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Feel So Energetic~ 땀 냄새 쎄굿바~ 스포츠 퍼퓸템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77330</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77330</guid>
-            <pubDate>Mon, 08 May 2023 12:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[땀 냄새 쎄굿바~. 잘 고른 스포츠 퍼퓸 하나면 운동 중에도 ‘기승전산뜻’할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/2e37df96-4303-4e18-8b7e-eb2579bf3cca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
