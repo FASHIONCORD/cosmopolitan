@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 09:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 10:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 삼촌 GD야, 우리 고모 한혜진이거든?! 연예계 특급 조카 바보들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77436</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77436</guid>
+            <pubDate>Fri, 12 May 2023 10:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[나도 조카 할래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/5fca85fe-2bcc-481f-a3a5-82e7084457f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나 왜 설레? 유죄인간 이동욱의 스윗모먼트]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77431</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 May 2023 02:02:26 GMT</pubDate>
             <content:encoded><![CDATA[아주 희미한 빛으로도 세상을 번쩍 빛나게 하는 건축물을 만들어온 이 시대의 건축가. 개인전 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/d3478559-7df1-4cda-8270-31eddf084b8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비투비 완전체가 코스모에 떴다! 현웃주의 줌터뷰]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77299</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77299</guid>
-            <pubDate>Mon, 08 May 2023 13:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[회사에서 보지 마세요. 빵 터져도 책임 못 지니까...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/01b2d86a-d616-4f77-8d8e-3d1608347d23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
