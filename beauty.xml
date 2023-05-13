@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 14:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 15:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극강의 보송함을 자랑하는 환절기 보습 어벤져스템!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77241</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77241</guid>
+            <pubDate>Sat, 13 May 2023 15:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[극강의 보송함을 자랑하는 환절기 보습 어벤져스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/678075ff-0004-431b-903a-d9737618a7f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1초면 참여 완료! 황민현도 동참한 캠페인의 정체는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77424</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 May 2023 02:02:16 GMT</pubDate>
             <content:encoded><![CDATA[똑똑한 ‘요즘 코덕’에겐 좋은 팔레트 하나면 열 화장품 필요 없다. 다채로운 룩을 완성해줄 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/fe83bd41-00fa-43c6-a761-6d714fdb6cbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 이 계절에 필요한 다재다능한 선 프로텍션 띵템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77239</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77239</guid>
-            <pubDate>Mon, 08 May 2023 16:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[지금 이 계절에 필요한 다재다능한 선 프로텍션 띵템은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/b6739c08-cad8-47e8-8b0c-c7a67dbe20cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
