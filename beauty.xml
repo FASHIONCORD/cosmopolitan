@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 14:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 승인이 임박한 꿈의 다이어트 신약, '위고비'가 뭔데?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77463</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77463</guid>
+            <pubDate>Sun, 14 May 2023 15:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[맞기만 해도 10kg 감량 SSAP파서블! 블록버스터급 흥행을 예고하며 국내 승인이 임박한 꿈의 다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/4d82c601-ba7d-4aae-92de-db7b664f9d59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극강의 보송함을 자랑하는 환절기 보습 어벤져스템!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77241</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 May 2023 02:02:16 GMT</pubDate>
             <content:encoded><![CDATA[다이어트는 물론 건강까지 위협하는 야식, 절대적으로 끊어내야 우리 몸을 지킬 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/322dbe27-1a73-40f8-aae1-cbfca54de616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 룩을 완성해줄 멀티 유즈의 대표주자, 컬러 팔레트 모음zip]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77331</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77331</guid>
-            <pubDate>Tue, 09 May 2023 02:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[똑똑한 ‘요즘 코덕’에겐 좋은 팔레트 하나면 열 화장품 필요 없다. 다채로운 룩을 완성해줄 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/fe83bd41-00fa-43c6-a761-6d714fdb6cbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
