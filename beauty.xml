@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKIP? OR KEEP? 뷰티 루틴을 트렌드에 맞춰 재정비할 타이밍!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77246</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77246</guid>
+            <pubDate>Mon, 15 May 2023 03:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[화장대도 낄끼빠빠! 복잡한 환절기 뷰티 루틴을 트렌드에 맞춰 재정비할 타이밍.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/94db3d88-706a-4d54-b4b4-fd774deda97b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DRINK UP, 지방시 뷰티 랑떼르디 오 드 퍼퓸 롤온]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77297</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77297</guid>
+            <pubDate>Mon, 15 May 2023 03:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[케이크처럼 부드럽고 캔디보다 달콤해! 디저트 테이블 위를 점령한 봄 향수 라인업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a28e5cb6-45e4-42bc-8299-f51f7daba025.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미친거 아니고 無쳤다? 유해 물질 제로에 과몰입 중인 뷰티업계]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77243</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 11 May 2023 15:12:02 GMT</pubDate>
             <content:encoded><![CDATA[화장품 용기의 90% 이상은 재활용되지 않는다는 사실! ‘예쁜 쓰레기’라는 오명이 따라다니는 화...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/e9a25872-90fa-4972-83f0-20132cc07542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닥터 차정숙이 먹는 영양제? 엄정화의 관리법 대공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77415</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77415</guid>
-            <pubDate>Wed, 10 May 2023 17:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[드라마부터 댄스 유랑단까지, 거뜬한 이유가 여깄네!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/0826e4a4-4f68-4ae5-97cc-a73c82553934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 지수· 차은우의 애착템? 디올의 새로운 핸드 크림, 디올 르 밤]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77406</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77406</guid>
-            <pubDate>Tue, 09 May 2023 16:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[모든 건조한 부위에 다양하게 사용할 수 있는 유니버셜 뷰티 아이콘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/eb9a1d3f-70c9-49fe-96c6-543861bf29dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
