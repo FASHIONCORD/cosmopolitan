@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 13:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 17:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Slow-aging Care! 진정, 보습, 탄력을 한번에 케어 가능한 꿀템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77249</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77249</guid>
+            <pubDate>Mon, 15 May 2023 17:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[피부는 더 늦기 전에 관리해야 하는 법. 비원츠의 ‘시카 콜라겐 리프팅 크림’으로 진정, 보습...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/9d668b59-d3ae-4bac-bcdc-38063c8f5e4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텅장각 부르는 5월의 뷰티 산상!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76772</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 May 2023 15:09:38 GMT</pubDate>
             <content:encoded><![CDATA[댓글만 달아도 기부 동참 완료~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/d61b0575-1697-421a-8149-23ccd25bbbfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE SWEETEST THING, 로즈 폼퐁 오 드 뚜왈렛 & 쁘띠 쉐리 오 드 퍼퓸]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77296</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77296</guid>
-            <pubDate>Fri, 12 May 2023 01:58:24 GMT</pubDate>
-            <content:encoded><![CDATA[케이크처럼 부드럽고 캔디보다 달콤해! 디저트 테이블 위를 점령한 봄 향수 라인업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/fb499ba2-1176-4f97-94b2-74c3482792e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

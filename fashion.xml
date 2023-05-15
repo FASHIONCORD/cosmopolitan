@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 13:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 17:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄비 오는 날, 패피 셀렙들의 레인부츠 스타일링 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77469</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77469</guid>
+            <pubDate>Mon, 15 May 2023 17:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[스타들이 스타일리시하게 비를 피하는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/b0a43cb6-91a3-4ebc-8e5c-cacc1a468088.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 키드들이 푹 빠진 #YOZM JEWELRY]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77465</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 May 2023 16:11:31 GMT</pubDate>
             <content:encoded><![CDATA[파워 외향인도 파워 내향인도 밖으로 나가고 싶은 요즘이다. 신상 핫플, 나만 알고 싶은 숍, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/8d9b809c-ccd8-4bc6-bbd8-99c07a110017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터스 픽 핫플 in 서울 ! 디지털 에디터 김서영의 힐링 플레이스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77233</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77233</guid>
-            <pubDate>Tue, 09 May 2023 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[파워 외향인도 파워 내향인도 밖으로 나가고 싶은 요즘이다. 신상 핫플, 나만 알고 싶은 숍, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/bc259ab5-e9d8-4447-8c93-a1542eafc0f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
