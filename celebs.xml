@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 06:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 07:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교❤️이민호?! 결혼 사진까지 떴다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77439</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77439</guid>
+            <pubDate>Mon, 15 May 2023 07:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 아니냐고? 응 아니야!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/b5f710ac-df34-4c96-bc71-33591add1491.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 삼촌 GD야, 우리 고모 한혜진이거든?! 연예계 특급 조카 바보들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77436</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 May 2023 07:09:32 GMT</pubDate>
             <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 재중&amp;준수 OPPA를 찾아간 코스모 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/1cef43d6-2b5d-47f8-aa52-b48f6b215472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 개인전 <청춘>으로 돌아온 안도 타다오와의 대화]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77238</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77238</guid>
-            <pubDate>Tue, 09 May 2023 02:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[아주 희미한 빛으로도 세상을 번쩍 빛나게 하는 건축물을 만들어온 이 시대의 건축가. 개인전 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/d3478559-7df1-4cda-8270-31eddf084b8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
