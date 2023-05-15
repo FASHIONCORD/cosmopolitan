@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 07:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 08:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[텅장각 부르는 5월의 뷰티 산상!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/76772</link>
+            <guid>https://www.cosmopolitan.co.kr/article/76772</guid>
+            <pubDate>Mon, 15 May 2023 08:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[New, Need, Now! 텅장각 부르는 5월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/f4d17db9-0f2b-44fc-8bdf-e9d34ffee5de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKIP? OR KEEP? 뷰티 루틴을 트렌드에 맞춰 재정비할 타이밍!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77246</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 May 2023 01:58:24 GMT</pubDate>
             <content:encoded><![CDATA[케이크처럼 부드럽고 캔디보다 달콤해! 디저트 테이블 위를 점령한 봄 향수 라인업.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/fb499ba2-1176-4f97-94b2-74c3482792e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예쁜 쓰레기가 되지 않으려면! 야무진 화장품 분리배출TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77421</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77421</guid>
-            <pubDate>Thu, 11 May 2023 15:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[화장품 용기의 90% 이상은 재활용되지 않는다는 사실! ‘예쁜 쓰레기’라는 오명이 따라다니는 화...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/e9a25872-90fa-4972-83f0-20132cc07542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
