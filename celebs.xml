@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 06:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데뷔 앞둔 판타지오 신인 남돌 최초 공개합니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77512</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77512</guid>
+            <pubDate>Tue, 16 May 2023 06:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 판타지오 신인 남돌 루네이트를 찾아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/0672b2b4-5721-4bd5-a398-a65fe79189a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로불참러도 참석? 세븐♥이다해 결혼식 속 스타들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77468</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 02:02:02 GMT</pubDate>
             <content:encoded><![CDATA[신랑신부 쇼맨십부터 하객 리스트까지 돋보였던 결혼식 이모저모.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/39768218-26eb-4e2d-aa3e-d02936aeee7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크·송혜교·세븐틴! 국뽕 차오르게 하는 대세 셀렙 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77394</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77394</guid>
-            <pubDate>Tue, 09 May 2023 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[어나더 영향력을 보여주는 블랙핑크, 윤여정, 송혜교, 세븐틴의 행보!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/c8ae55d2-f978-43ab-a30b-262bc05acdc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
