@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 09:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 10:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아우슈비츠가 왜 거기서 나와? <보라! 데보라> 논란]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77567</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77567</guid>
+            <pubDate>Tue, 16 May 2023 10:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[데보라 님, 아우슈비츠는 그런 곳이 아닙니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/108f25d6-8c93-4c93-b203-e9af5eff1130.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이효리가 시스루 드레스 입은 이유가 미주때문이라고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77545</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 May 2023 10:09:13 GMT</pubDate>
             <content:encoded><![CDATA[나도 조카 할래.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/5fca85fe-2bcc-481f-a3a5-82e7084457f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 왜 설레? 유죄인간 이동욱의 스윗모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77431</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77431</guid>
-            <pubDate>Fri, 12 May 2023 08:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴로 사람 마음 집어 삼키는 남자 구미호 등장이오~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/5dbb8acb-90d4-4a22-8ac1-03d17fa1f208.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
