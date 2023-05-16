@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 04:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 05:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WATCHES & WONDERS 2023 REPORT(1)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77244</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77244</guid>
+            <pubDate>Tue, 16 May 2023 05:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 말, 스위스 제네바에 전 세계의 이목이 집중됐다. 워치메이킹의 중심지인 스위스 제네...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/09f58954-bc28-44de-b5a1-5fbda0f8f7cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LE GRAND BLEU! 블루진에 대한 모든 것]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77491</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77491</guid>
+            <pubDate>Tue, 16 May 2023 05:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[젊음과 저항의 상징이자, 광부의 옷에서 오트 쿠튀르에 오르기까지 블루진에 새겨진 그 모든 역...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/4d5ca9b7-6825-4d7c-b8d9-c2d106856371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄비 오는 날, 패피 셀렙들의 레인부츠 스타일링 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77469</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 11 May 2023 02:01:42 GMT</pubDate>
             <content:encoded><![CDATA[닮고 싶은 패션 천재 언니들 보고 가실 분?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/03e41473-8176-4358-906b-2193915effce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터스 픽 핫플 in 서울 ! 뷰티 에디터 김민지의 뷰티 플레이스 모음 ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77235</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77235</guid>
-            <pubDate>Wed, 10 May 2023 17:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[파워 외향인도 파워 내향인도 밖으로 나가고 싶은 요즘이다. 신상 핫플, 나만 알고 싶은 숍, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/c0c3dbe6-1b48-4350-97ec-88e658758db3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터스 픽 핫플 in 서울 ! 피처 에디터 천일홍의 시간 보내기 좋은 공간들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77234</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77234</guid>
-            <pubDate>Tue, 09 May 2023 16:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[파워 외향인도 파워 내향인도 밖으로 나가고 싶은 요즘이다. 신상 핫플, 나만 알고 싶은 숍, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/8d9b809c-ccd8-4bc6-bbd8-99c07a110017.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
