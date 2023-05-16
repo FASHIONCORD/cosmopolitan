@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 08:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 09:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2k는 빠져 보이는 소유의 붓기 빼기 노하우?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77540</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77540</guid>
+            <pubDate>Tue, 16 May 2023 09:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴부터 몸까지 ‘찐’으로 슬림하게 보이는 방법 대공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/86e743ad-ebf7-42b9-b41c-c6e8450c1f13.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤메 바꾼 장원영∙닝닝∙나연!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77537</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 May 2023 02:05:11 GMT</pubDate>
             <content:encoded><![CDATA[미친 거 아니고 無쳤다? 빼고, 빼고, 또 빼라! 유해 물질 제로에 과몰입 중인 뷰티업계.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/f80d970b-9eeb-45e8-a771-b429e048f779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 승인이 임박한 꿈의 다이어트 신약, '위고비'가 뭔데?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77463</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77463</guid>
-            <pubDate>Sun, 14 May 2023 15:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[맞기만 해도 10kg 감량 SSAP파서블! 블록버스터급 흥행을 예고하며 국내 승인이 임박한 꿈의 다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/4d82c601-ba7d-4aae-92de-db7b664f9d59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
