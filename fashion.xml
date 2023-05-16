@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 14:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 16:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BRILLIANT JOURNEY! 다미아니와의 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77247</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77247</guid>
+            <pubDate>Tue, 16 May 2023 16:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[100여 년의 역사와 전통으로 눈부시게 빛나는 이탈리아 하이 주얼리 브랜드, 다미아니의 부사장 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/002f8461-bd97-402a-bbdf-bddeef4b65d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WATCHES & WONDERS 2023 REPORT(2)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77245</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 May 2023 15:09:29 GMT</pubDate>
             <content:encoded><![CDATA[발레복을 일상에서 입는 ‘발레코어룩’이 요즘 대세!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/fe165f3c-d5fe-414a-ade8-b5c84306b7be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터스 픽 핫플 in 서울 ! 패션 에디터 김소연의 HOT&FUN 플레이스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77230</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77230</guid>
-            <pubDate>Thu, 11 May 2023 15:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[파워 외향인도 파워 내향인도 밖으로 나가고 싶은 요즘이다. 신상 핫플, 나만 알고 싶은 숍, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/2c5d239e-00d2-4c99-9f0c-f24fd912712e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
