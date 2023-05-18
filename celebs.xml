@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 10:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 11:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어트하고 싶다면 그를 보라, 소식자 최강좌 던 등장]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77578</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77578</guid>
+            <pubDate>Thu, 18 May 2023 11:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[보기만 해도 식욕이 뚝뚝 떨어지니 오늘부터 무한재생하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/19d2b435-fba5-41c7-904b-acc86d3b8f02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이효리 ‘헤이걸’ 래퍼의 정체? <댄스가수유랑단> 스포일러]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77574</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 May 2023 02:04:34 GMT</pubDate>
             <content:encoded><![CDATA[사랑스러움과 진중함이 공존하는 셀프 포트레이트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/9efc15d1-ddb1-4e75-bb0d-41c744b7efa7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교❤️이민호?! 결혼 사진까지 떴다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77439</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77439</guid>
-            <pubDate>Mon, 15 May 2023 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 아니냐고? 응 아니야!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/b5f710ac-df34-4c96-bc71-33591add1491.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
