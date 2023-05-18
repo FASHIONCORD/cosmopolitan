@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 00:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 02:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -427,6 +427,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가정의 달 취향 저격! 한정판 호텔 케이크 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77470</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77470</guid>
+            <pubDate>Thu, 18 May 2023 02:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[눈과 입을 모두 만족시켜주는 5월의 스페셜 케이크~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/5410660d-bc10-4758-ad97-05a08d827d47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름 휴가로 괌 어때요? 3가지 스포츠로 괌 100배 즐기기 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77242</link>
             <guid>https://www.cosmopolitan.co.kr/article/77242</guid>
@@ -481,14 +489,6 @@
             <pubDate>Mon, 08 May 2023 12:17:10 GMT</pubDate>
             <content:encoded><![CDATA[친필 사인이 담긴 폴라로이드 증정 이벤트는 덤~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/43486217-74ab-4b3f-80ec-6e908cb1f0b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방콕 가기 딱 좋은 지금! 핫플 모두 알려드림 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77385</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77385</guid>
-            <pubDate>Mon, 08 May 2023 11:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[여행객 하나 없이 쓸쓸했던 방콕이 활기 넘치는 모습을 되찾았다. 팬데믹 기간 문을 닫은 공간...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/5940c703-c259-40c3-9abd-444f4559d3dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
