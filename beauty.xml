@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 07:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 08:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brighten Your Skin! 속부터 맑게 빛나는 피부를 완성시켜 줄 크림은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77556</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77556</guid>
+            <pubDate>Fri, 19 May 2023 08:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[칙칙하고 생기 잃은 피부가 고민이라면? 랑벨의 ‘비타 에너지 라인’으로 속부터 맑게 빛나는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/8157fe0b-0723-43fb-8264-f611b087ffaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀염뽀짝 미니 타투, 어디에 할까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77546</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 May 2023 03:10:02 GMT</pubDate>
             <content:encoded><![CDATA[화장대도 낄끼빠빠! 복잡한 환절기 뷰티 루틴을 트렌드에 맞춰 재정비할 타이밍.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/94db3d88-706a-4d54-b4b4-fd774deda97b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRINK UP, 지방시 뷰티 랑떼르디 오 드 퍼퓸 롤온]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77297</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77297</guid>
-            <pubDate>Mon, 15 May 2023 03:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[케이크처럼 부드럽고 캔디보다 달콤해! 디저트 테이블 위를 점령한 봄 향수 라인업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a28e5cb6-45e4-42bc-8299-f51f7daba025.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
