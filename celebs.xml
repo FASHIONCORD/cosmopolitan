@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 00:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 02:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공효진, 최근 근황으로 육아 사진 투척! 머선 129?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77586</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77586</guid>
+            <pubDate>Fri, 19 May 2023 02:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[공블리답게 사진에도 러블리함이 뚝뚝~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/5683f816-f1af-4bb3-b1b3-ce8295318882.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트하고 싶다면 그를 보라, 소식자 최강좌 던 등장]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77578</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 May 2023 05:09:25 GMT</pubDate>
             <content:encoded><![CDATA[인맥 실화냐? 세븐♥이다해 결혼식에 모인 초호화 하객들!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/11aa4485-5948-4b29-91ae-d62e75070fa3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<방과 후 전쟁활동> 신수현이 온전한 배우로 거듭나는 순간]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77467</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77467</guid>
-            <pubDate>Tue, 16 May 2023 02:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[사랑스러움과 진중함이 공존하는 셀프 포트레이트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/9efc15d1-ddb1-4e75-bb0d-41c744b7efa7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
