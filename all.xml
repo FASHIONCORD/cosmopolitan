@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 02:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -299,6 +299,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a28e5cb6-45e4-42bc-8299-f51f7daba025.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[티모시 샬라메와 조우한 블루 드 샤넬 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77569</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77569</guid>
+            <pubDate>Fri, 19 May 2023 03:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[블루 드 샤넬의 얼굴이 된 티모시 샬라메.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/c8896dba-02b4-4dce-8ca5-69608f7c931d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공효진, 최근 근황으로 육아 사진 투척! 머선 129? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77586</link>
             <guid>https://www.cosmopolitan.co.kr/article/77586</guid>
@@ -353,14 +361,6 @@
             <pubDate>Tue, 16 May 2023 06:16:00 GMT</pubDate>
             <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 판타지오 신인 남돌 루네이트를 찾아...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/0672b2b4-5721-4bd5-a398-a65fe79189a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로불참러도 참석? 세븐♥이다해 결혼식 속 스타들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77468</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77468</guid>
-            <pubDate>Tue, 16 May 2023 05:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[인맥 실화냐? 세븐♥이다해 결혼식에 모인 초호화 하객들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/11aa4485-5948-4b29-91ae-d62e75070fa3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
