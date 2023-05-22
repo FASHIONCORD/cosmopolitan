@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 02:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 03:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물은 몰아서 마셔야 할까, 나눠서 마셔야 할까?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77580</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77580</guid>
+            <pubDate>Mon, 22 May 2023 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[체중 감량에 도움이 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/4b2a4c4e-aedb-4bd5-bbc2-5d3b1115b57e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BEAUTY ATTENTION! 멋쁨터지는 데님과 쿠션의 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77570</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77570</guid>
+            <pubDate>Mon, 22 May 2023 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[MZ 취.저 아닌가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/d3e22252-1aa3-4e4b-b447-f488a621e82e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Brighten Your Skin! 속부터 맑게 빛나는 피부를 완성시켜 줄 크림은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77556</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 15 May 2023 17:09:12 GMT</pubDate>
             <content:encoded><![CDATA[피부는 더 늦기 전에 관리해야 하는 법. 비원츠의 ‘시카 콜라겐 리프팅 크림’으로 진정, 보습...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/9d668b59-d3ae-4bac-bcdc-38063c8f5e4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텅장각 부르는 5월의 뷰티 산상!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76772</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76772</guid>
-            <pubDate>Mon, 15 May 2023 08:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[New, Need, Now! 텅장각 부르는 5월의 뷰티 신상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/f4d17db9-0f2b-44fc-8bdf-e9d34ffee5de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKIP? OR KEEP? 뷰티 루틴을 트렌드에 맞춰 재정비할 타이밍!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77246</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77246</guid>
-            <pubDate>Mon, 15 May 2023 03:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[화장대도 낄끼빠빠! 복잡한 환절기 뷰티 루틴을 트렌드에 맞춰 재정비할 타이밍.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/94db3d88-706a-4d54-b4b4-fd774deda97b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

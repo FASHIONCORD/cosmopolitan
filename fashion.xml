@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 02:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 03:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가짜 y2k 다비켜! y2k 근본 이효리, 요즘 난리 난 사복 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77572</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77572</guid>
+            <pubDate>Mon, 22 May 2023 03:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[대체불가 원조 y2k 힙스터가 나타났다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/24bbd592-0905-42db-bb1c-e8e7bd37b4c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FAR FROM THE LAND 표류하듯 유영하는 여인]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76793</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 May 2023 15:08:37 GMT</pubDate>
             <content:encoded><![CDATA[신선함을 넘어 괴짜스러운 것이 대세인 요즘, 패션 키드들이 푹 빠진 주얼리 브랜드를 알아보자...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/082935f0-f796-49ef-9504-5280c629ad36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZOOM UP! 작고 소중한 나의 쁘티 주얼리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77240</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77240</guid>
-            <pubDate>Sat, 13 May 2023 15:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[들여다보고 싶은 작고 소중한 너.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/8c437d52-f111-49fa-8c09-c869ef473b33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
