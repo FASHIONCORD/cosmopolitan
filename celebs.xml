@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 23:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 00:46:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹 드라마에 ‘찐’ 대세돌 등판?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77634</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77634</guid>
+            <pubDate>Mon, 22 May 2023 00:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[YOZM 이곳 저곳 자주 등장하는 형원, 이제는 드라마까지 접수!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/9856ad45-5a57-4acf-af11-978c2d4d403c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이병헌 전액 부담?! BH엔터 워크숍 이모저모]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77591</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 May 2023 09:09:48 GMT</pubDate>
             <content:encoded><![CDATA[예능캐 아닌 솔로 가수로 컴백하는 미주는 어떤 모습일지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/8ffa60c6-5d88-4cd8-b047-792d50162df0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 준비는 마쳤다. 출격을 앞둔 루네이트의 단단한 각오]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76847</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76847</guid>
-            <pubDate>Tue, 16 May 2023 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[출격을 앞둔 8명의 소년, 루네이트의 단단한 각오.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/11fd2134-8594-4995-936d-02c4260564ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
