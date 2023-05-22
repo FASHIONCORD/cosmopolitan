@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 08:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 09:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티모시 샬라메와 조우한 블루 드 샤넬]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77569</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77569</guid>
+            <pubDate>Mon, 22 May 2023 09:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[블루 드 샤넬의 얼굴이 된 티모시 샬라메.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/c8896dba-02b4-4dce-8ca5-69608f7c931d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물은 몰아서 마셔야 할까, 나눠서 마셔야 할까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77580</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 May 2023 06:15:52 GMT</pubDate>
             <content:encoded><![CDATA[다이어트 성공을 좌우하는 식단 조절에 성공하려면, 단식부터 스따뜨!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/babb5764-59a0-424b-98e2-503a4714474f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slow-aging Care! 진정, 보습, 탄력을 한번에 케어 가능한 꿀템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77249</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77249</guid>
-            <pubDate>Mon, 15 May 2023 17:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[피부는 더 늦기 전에 관리해야 하는 법. 비원츠의 ‘시카 콜라겐 리프팅 크림’으로 진정, 보습...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/9d668b59-d3ae-4bac-bcdc-38063c8f5e4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
