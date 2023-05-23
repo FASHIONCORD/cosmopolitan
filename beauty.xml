@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 09:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 10:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌이 사랑하는 그것!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77609</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77609</guid>
+            <pubDate>Tue, 23 May 2023 10:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[피부 좋은 아이돌이 픽한 봄 클렌저.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/b5ba4107-f26d-48c9-8da8-1f27ae63c6b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티모시 샬라메와 조우한 블루 드 샤넬]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77569</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 May 2023 07:14:32 GMT</pubDate>
             <content:encoded><![CDATA[하나만 바꿨는데 이렇게 달라보인다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/e80a6ae5-767b-4f9f-b5c5-208e112deab2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤은혜∙이장우∙최화정! 다이어트를 위한 단식 노하우]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77533</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77533</guid>
-            <pubDate>Tue, 16 May 2023 06:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 성공을 좌우하는 식단 조절에 성공하려면, 단식부터 스따뜨!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/babb5764-59a0-424b-98e2-503a4714474f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
