@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 02:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 03:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,6 +425,22 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이유 있는 역주행, 이번엔 ‘에세이’ 편이다! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77613</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77613</guid>
+            <pubDate>Tue, 23 May 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[읽을 때마다 가슴을 후려치게 만드는 위로 끝판왕 책들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/59046c81-5935-42a1-afe0-36ff9eeea280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<닥터 차정숙> 배우들의 놀라운 과거 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77590</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77590</guid>
+            <pubDate>Tue, 23 May 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;닥터 차정숙&gt; 출연진들의 과거 출연작들이 심상치 않다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/cf3465d5-7fef-4be9-a682-21465b9cbf7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[푸르공 타고 게르에서 자고, MZ 스타일 몽골 여행 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77588</link>
             <guid>https://www.cosmopolitan.co.kr/article/77588</guid>
@@ -471,22 +487,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <pubDate>Tue, 16 May 2023 10:10:51 GMT</pubDate>
             <content:encoded><![CDATA[2023년 봄을 점령할 학원물이 온다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/05855314-b37f-41a8-a157-1d0fef2e9b19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘멍 때리기’ 도와주는 케이크 만들기! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77409</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77409</guid>
-            <pubDate>Thu, 11 May 2023 15:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[시간이 순식간에 지나간다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/d1877385-f87c-45f5-a1ee-43f83548268d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이러니 안 반해? 훈내 폭발하는 <서진이네> 미담은 무엇? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77393</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77393</guid>
-            <pubDate>Thu, 11 May 2023 02:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;서진이네&gt; 관계자들의 사람 냄새나는 비하인드 스토리 대공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/772a299c-46e0-4c35-806e-9d8f77d9ff86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
