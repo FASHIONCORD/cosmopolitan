@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 08:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 09:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,6 +425,30 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘도입부 장인’ (여자)아이들 민니 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77746</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77746</guid>
+            <pubDate>Tue, 23 May 2023 09:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[민니가 도입부를 맡은 노래만 모아봤다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/72890b4f-9d35-4752-a5b8-0cf9af115d6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쫀득 달콤 시원! 여름 그 맛, 젤라또 맛집 추천 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77719</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77719</guid>
+            <pubDate>Tue, 23 May 2023 09:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 젤라또 제대로 만드는 집만 골랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/88311c30-ab55-473e-baae-c05bc0b2d26d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갓성비 실화냐? 6월 여행 프로모션 총정리 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77713</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77713</guid>
+            <pubDate>Tue, 23 May 2023 09:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[모르고 가면 나만 손해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/f0e586d1-f563-4b61-9a81-9acc568cb400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[본격 페스티벌 시즌의 개막! 그 첫 번째 주자는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77579</link>
             <guid>https://www.cosmopolitan.co.kr/article/77579</guid>
@@ -463,30 +487,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <pubDate>Mon, 22 May 2023 02:08:47 GMT</pubDate>
             <content:encoded><![CDATA[오프로드에 적수 없는 디펜더 130과 당장 서킷을 돌아도 될 정도의 고성능 XM. 두 신형 SUV...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/3c65f0fb-b15c-4f25-93be-f1546e15791a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가정의 달 취향 저격! 한정판 호텔 케이크 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77470</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77470</guid>
-            <pubDate>Thu, 18 May 2023 02:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[눈과 입을 모두 만족시켜주는 5월의 스페셜 케이크~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/5410660d-bc10-4758-ad97-05a08d827d47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가로 괌 어때요? 3가지 스포츠로 괌 100배 즐기기 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77242</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77242</guid>
-            <pubDate>Wed, 17 May 2023 08:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[괌 하면 머릿속에 떠오르는 몇몇 단어와 장면들, 잠시 접어두어도 좋다. 요가, 사이클링, 다이빙...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/f58b1b43-4ae2-4452-927d-a55b5ca0799c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관리의 정석, 최화정의 동안 비법? 요거트 00이라고! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77416</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77416</guid>
-            <pubDate>Tue, 16 May 2023 10:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 떡상! 만들기 쉽고 맛있는 최화정의 아침 메뉴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/5460cac7-f83d-4fca-abaf-198a76bd7771.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
