@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 07:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 08:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페스티벌은 올여름 필수 코스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77747</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77747</guid>
+            <pubDate>Thu, 25 May 2023 08:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[올 여름은 매주 페스티벌로 스케쥴 채워야 할 듯! 안가면 너무 섭섭한 쏘핫 페스티벌 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/476313aa-5187-4324-9241-4cf20869d64d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘도입부 장인’ (여자)아이들 민니]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77746</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 May 2023 03:10:37 GMT</pubDate>
             <content:encoded><![CDATA[몽골 가서 뭐 하지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/caa9e541-4cc4-401f-8f7d-79e7fa303662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUV 세계관 최강자?! 국내 상륙한 신형 SUV 길들이기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76851</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76851</guid>
-            <pubDate>Mon, 22 May 2023 02:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[오프로드에 적수 없는 디펜더 130과 당장 서킷을 돌아도 될 정도의 고성능 XM. 두 신형 SUV...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/3c65f0fb-b15c-4f25-93be-f1546e15791a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
