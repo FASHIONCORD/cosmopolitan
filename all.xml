@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 00:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 02:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/082935f0-f796-49ef-9504-5280c629ad36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김도연의 애착 향수 최초 공개?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77680</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77680</guid>
+            <pubDate>Tue, 23 May 2023 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 김도연의 호텔 방을 찾아간 김서영 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/fbbc4c0e-066a-4700-8d8f-4fb6aec7a6ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이돌이 사랑하는 그것! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77609</link>
             <guid>https://www.cosmopolitan.co.kr/article/77609</guid>
@@ -287,14 +295,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <pubDate>Tue, 16 May 2023 09:09:40 GMT</pubDate>
             <content:encoded><![CDATA[얼굴부터 몸까지 ‘찐’으로 슬림하게 보이는 방법 대공개!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/86e743ad-ebf7-42b9-b41c-c6e8450c1f13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤메 바꾼 장원영∙닝닝∙나연! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77537</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77537</guid>
-            <pubDate>Tue, 16 May 2023 07:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[하나만 바꿨는데 이렇게 달라보인다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/e80a6ae5-767b-4f9f-b5c5-208e112deab2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<피크타임>의 빛나는 우승! VANNER(배너) 첫 완전체 화보 공개! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
