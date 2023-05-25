@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 09:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스∙제니의 잇템? 축구 유니폼 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77589</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77589</guid>
+            <pubDate>Thu, 25 May 2023 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[경기장 밖, 스타들의 블록코어룩을 살펴보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/443932a5-ac9b-4421-bf05-755f665df012.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-하이틴 스타일의 정석! 윈터∙허윤진 등 아이돌 스쿨 룩 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77573</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77573</guid>
+            <pubDate>Thu, 25 May 2023 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 핫한 아이돌들은 모두 스쿨 룩에 빠져있다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/a0281974-8e15-4f70-a9cc-056f4415b985.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가짜 y2k 다비켜! y2k 근본 이효리, 요즘 난리 난 사복 패션]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77572</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 16 May 2023 05:09:04 GMT</pubDate>
             <content:encoded><![CDATA[젊음과 저항의 상징이자, 광부의 옷에서 오트 쿠튀르에 오르기까지 블루진에 새겨진 그 모든 역...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/4d5ca9b7-6825-4d7c-b8d9-c2d106856371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄비 오는 날, 패피 셀렙들의 레인부츠 스타일링 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77469</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77469</guid>
-            <pubDate>Mon, 15 May 2023 17:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[스타들이 스타일리시하게 비를 피하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/b0a43cb6-91a3-4ebc-8e5c-cacc1a468088.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 키드들이 푹 빠진 #YOZM JEWELRY]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77465</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77465</guid>
-            <pubDate>Sun, 14 May 2023 15:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[신선함을 넘어 괴짜스러운 것이 대세인 요즘, 패션 키드들이 푹 빠진 주얼리 브랜드를 알아보자...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/082935f0-f796-49ef-9504-5280c629ad36.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
