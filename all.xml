@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 17:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 18:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/77716</guid>
             <pubDate>Tue, 30 May 2023 06:12:11 GMT</pubDate>
             <content:encoded><![CDATA[양치승 관장과 함께한 그녀의 다이어트 프로젝트 대공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/d0be9add-e502-4950-a496-bdf636dffda8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컬러 라인, 이렇게 쉬워? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -91,6 +92,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/77715</guid>
             <pubDate>Tue, 30 May 2023 02:08:44 GMT</pubDate>
             <content:encoded><![CDATA[헤일리 비버가 다양한 컬러 라인을 소화했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/89c8c4ea-bc87-43fa-8daf-be565541868f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김도연의 애착 향수 최초 공개?! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -98,6 +100,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/77680</guid>
             <pubDate>Tue, 23 May 2023 08:13:06 GMT</pubDate>
             <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 김도연의 호텔 방을 찾아간 김서영 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/fbbc4c0e-066a-4700-8d8f-4fb6aec7a6ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이돌이 사랑하는 그것! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -105,6 +108,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/77609</guid>
             <pubDate>Tue, 23 May 2023 10:12:06 GMT</pubDate>
             <content:encoded><![CDATA[피부 좋은 아이돌이 픽한 봄 클렌저.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/b5ba4107-f26d-48c9-8da8-1f27ae63c6b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티모시 샬라메와 조우한 블루 드 샤넬 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -112,6 +116,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/77569</guid>
             <pubDate>Fri, 19 May 2023 03:10:06 GMT</pubDate>
             <content:encoded><![CDATA[블루 드 샤넬의 얼굴이 된 티모시 샬라메.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/c8896dba-02b4-4dce-8ca5-69608f7c931d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물은 몰아서 마셔야 할까, 나눠서 마셔야 할까? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -119,6 +124,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/77580</guid>
             <pubDate>Mon, 22 May 2023 03:09:54 GMT</pubDate>
             <content:encoded><![CDATA[체중 감량에 도움이 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/4b2a4c4e-aedb-4bd5-bbc2-5d3b1115b57e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BEAUTY ATTENTION! 멋쁨터지는 데님과 쿠션의 만남 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -126,6 +132,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/77570</guid>
             <pubDate>Mon, 22 May 2023 03:09:54 GMT</pubDate>
             <content:encoded><![CDATA[MZ 취.저 아닌가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/d3e22252-1aa3-4e4b-b447-f488a621e82e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전소연, 그 자신과의 열렬한 연애담 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -253,7 +260,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77773</guid>
             <pubDate>Tue, 30 May 2023 03:12:34 GMT</pubDate>
             <content:encoded><![CDATA[&lt;내가 사랑했던 모든 남자들에게&gt; 스핀오프작이라... 이거 재밌어지겠는걸?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/81789ac3-74f8-4e2d-a187-deb690a80377.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄정화가 즐겨 마시는 마돈나 샴페인의 정체?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -261,7 +267,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77770</guid>
             <pubDate>Tue, 30 May 2023 02:09:24 GMT</pubDate>
             <content:encoded><![CDATA[가성비는 덤~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/f997ce67-c9d0-4666-bca8-8d6cc8c587af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요기야, 요기! 돈과 시간 모두 소중한 MZ 맞춤 서비스 추천 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -269,7 +274,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77755</guid>
             <pubDate>Fri, 26 May 2023 08:12:07 GMT</pubDate>
             <content:encoded><![CDATA[책은 3분 요약으로 후루룩, 배달비도 딱 한 번만?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/12e6e673-a215-4beb-94f3-7d20cd2378c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페스티벌은 올여름 필수 코스 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -277,7 +281,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77747</guid>
             <pubDate>Thu, 25 May 2023 08:13:25 GMT</pubDate>
             <content:encoded><![CDATA[올 여름은 매주 페스티벌로 스케쥴 채워야 할 듯! 안가면 너무 섭섭한 쏘핫 페스티벌 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/476313aa-5187-4324-9241-4cf20869d64d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘도입부 장인’ (여자)아이들 민니 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -285,7 +288,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77746</guid>
             <pubDate>Tue, 23 May 2023 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[민니가 도입부를 맡은 노래만 모아봤다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/72890b4f-9d35-4752-a5b8-0cf9af115d6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쫀득 달콤 시원! 여름 그 맛, 젤라또 맛집 추천 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -293,7 +295,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77719</guid>
             <pubDate>Tue, 23 May 2023 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 젤라또 제대로 만드는 집만 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/88311c30-ab55-473e-baae-c05bc0b2d26d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갓성비 실화냐? 6월 여행 프로모션 총정리 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -301,7 +302,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77713</guid>
             <pubDate>Tue, 23 May 2023 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[모르고 가면 나만 손해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/f0e586d1-f563-4b61-9a81-9acc568cb400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[본격 페스티벌 시즌의 개막! 그 첫 번째 주자는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -309,7 +309,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77579</guid>
             <pubDate>Tue, 23 May 2023 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[아직 열대야도 아닌데 이 열기는 어디서 오는 거지? 본격 페스티벌 시즌이 시작됐는데, 집에서...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/5597f484-ac16-49d1-8719-398c2a585c52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
