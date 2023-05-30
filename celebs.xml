@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 00:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 02:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실제는 그냥 대놓고 FOX?! 치명 섹시 다해버리는 아기 여우 김범 본격 파헤치기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77728</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77728</guid>
+            <pubDate>Tue, 30 May 2023 02:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[폭시미 넘치는 본격 호터뷰!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/e7f9052c-9924-463c-a4d7-fc1a842cf7e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한소희∙NCT마크도 반한 힙한 프라이팬?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77714</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 May 2023 00:45:51 GMT</pubDate>
             <content:encoded><![CDATA[YOZM 이곳 저곳 자주 등장하는 형원, 이제는 드라마까지 접수!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/9856ad45-5a57-4acf-af11-978c2d4d403c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이병헌 전액 부담?! BH엔터 워크숍 이모저모]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77591</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77591</guid>
-            <pubDate>Fri, 19 May 2023 08:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[고수, 김고은, 한효주 등 톱스타들이 워크숍에 총출동했다?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/5352e2f7-1286-4791-9656-aa336d8791a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
