@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 06:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6주 동안 6kg 감량?! 최강희 다이어트 꿀팁 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77716</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77716</guid>
+            <pubDate>Tue, 30 May 2023 06:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[양치승 관장과 함께한 그녀의 다이어트 프로젝트 대공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/d0be9add-e502-4950-a496-bdf636dffda8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컬러 라인, 이렇게 쉬워?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77715</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 May 2023 08:11:17 GMT</pubDate>
             <content:encoded><![CDATA[칙칙하고 생기 잃은 피부가 고민이라면? 랑벨의 ‘비타 에너지 라인’으로 속부터 맑게 빛나는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/8157fe0b-0723-43fb-8264-f611b087ffaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀염뽀짝 미니 타투, 어디에 할까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77546</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77546</guid>
-            <pubDate>Wed, 17 May 2023 07:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[누구누구 타투인지 알아맞혀 보세요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/b9a54399-8838-4374-bda7-17f3653bad76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
