@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 02:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 03:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한소희∙NCT마크도 반한 힙한 프라이팬? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77714</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77714</guid>
+            <pubDate>Fri, 26 May 2023 06:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[나도 따라 살래!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/c237089c-4cd2-4f45-a6bd-018ea4ce9cc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간이 멈춘 곳, 보광로 노스텔지아 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76796</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 May 2023 10:09:58 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월 말, 스위스 제네바에 전 세계의 이목이 집중됐다. 워치메이킹의 중심지인 스위스 제네...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/45589b46-273a-47ea-b655-adae187e2c90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WATCHES & WONDERS 2023 REPORT(1) (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77244</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77244</guid>
-            <pubDate>Tue, 16 May 2023 05:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 말, 스위스 제네바에 전 세계의 이목이 집중됐다. 워치메이킹의 중심지인 스위스 제네...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/09f58954-bc28-44de-b5a1-5fbda0f8f7cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컬러 라인, 이렇게 쉬워? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국판 K-고딩? 넷플릭스 신작 <엑스오, 키티> (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77773</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77773</guid>
+            <pubDate>Tue, 30 May 2023 03:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;내가 사랑했던 모든 남자들에게&gt; 스핀오프작이라... 이거 재밌어지겠는걸?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/81789ac3-74f8-4e2d-a187-deb690a80377.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엄정화가 즐겨 마시는 마돈나 샴페인의 정체?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77770</link>
             <guid>https://www.cosmopolitan.co.kr/article/77770</guid>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 23 May 2023 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[아직 열대야도 아닌데 이 열기는 어디서 오는 거지? 본격 페스티벌 시즌이 시작됐는데, 집에서...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/5597f484-ac16-49d1-8719-398c2a585c52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이유 있는 역주행, 이번엔 ‘에세이’ 편이다! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77613</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77613</guid>
-            <pubDate>Tue, 23 May 2023 03:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[읽을 때마다 가슴을 후려치게 만드는 위로 끝판왕 책들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/59046c81-5935-42a1-afe0-36ff9eeea280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

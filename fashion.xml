@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 02:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 03:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한소희∙NCT마크도 반한 힙한 프라이팬?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77714</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77714</guid>
+            <pubDate>Tue, 30 May 2023 03:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[나도 따라 살래!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/c237089c-4cd2-4f45-a6bd-018ea4ce9cc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간이 멈춘 곳, 보광로 노스텔지아]]></title>
             <link>https://www.cosmopolitan.co.kr/article/76796</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 May 2023 10:09:58 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월 말, 스위스 제네바에 전 세계의 이목이 집중됐다. 워치메이킹의 중심지인 스위스 제네...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/45589b46-273a-47ea-b655-adae187e2c90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WATCHES & WONDERS 2023 REPORT(1)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77244</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77244</guid>
-            <pubDate>Tue, 16 May 2023 05:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 말, 스위스 제네바에 전 세계의 이목이 집중됐다. 워치메이킹의 중심지인 스위스 제네...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/09f58954-bc28-44de-b5a1-5fbda0f8f7cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
