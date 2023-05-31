@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 03:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 04:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,13 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <content:encoded><![CDATA[세계는 넓고 남자는 많다. 해외에서 데이팅 앱을 써야 하는 6가지 이유.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[초대형 인형이랑 사진 찍는 인증숏 스팟 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77776</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77776</guid>
+            <pubDate>Wed, 31 May 2023 04:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[어머 여긴 꼭 가야 해!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미국판 K-고딩? 넷플릭스 신작 <엑스오, 키티> (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77773</link>
             <guid>https://www.cosmopolitan.co.kr/article/77773</guid>
@@ -447,13 +454,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77713</guid>
             <pubDate>Tue, 23 May 2023 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[모르고 가면 나만 손해...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[본격 페스티벌 시즌의 개막! 그 첫 번째 주자는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77579</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77579</guid>
-            <pubDate>Tue, 23 May 2023 06:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[아직 열대야도 아닌데 이 열기는 어디서 오는 거지? 본격 페스티벌 시즌이 시작됐는데, 집에서...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
