@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 12:19:31 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한소희∙NCT마크도 반한 힙한 프라이팬?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77714</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77714</guid>
-            <pubDate>Tue, 30 May 2023 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[나도 따라 살래!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/c237089c-4cd2-4f45-a6bd-018ea4ce9cc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간이 멈춘 곳, 보광로 노스텔지아]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76796</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76796</guid>
-            <pubDate>Tue, 30 May 2023 02:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[시간이 멈춘 장소. 보광로 골목에서 마주한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/ebbec0b0-138b-4378-abf9-f6fa928a2882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스∙제니의 잇템? 축구 유니폼 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77589</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77589</guid>
-            <pubDate>Thu, 25 May 2023 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[경기장 밖, 스타들의 블록코어룩을 살펴보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/443932a5-ac9b-4421-bf05-755f665df012.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-하이틴 스타일의 정석! 윈터∙허윤진 등 아이돌 스쿨 룩 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77573</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77573</guid>
-            <pubDate>Thu, 25 May 2023 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 핫한 아이돌들은 모두 스쿨 룩에 빠져있다?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/a0281974-8e15-4f70-a9cc-056f4415b985.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜 y2k 다비켜! y2k 근본 이효리, 요즘 난리 난 사복 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77572</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77572</guid>
-            <pubDate>Mon, 22 May 2023 03:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[대체불가 원조 y2k 힙스터가 나타났다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/24bbd592-0905-42db-bb1c-e8e7bd37b4c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FAR FROM THE LAND 표류하듯 유영하는 여인]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76793</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76793</guid>
-            <pubDate>Mon, 22 May 2023 02:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[표류하듯 유영하는 밤의 피사체.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/82dd9399-a6e5-4655-8c36-2c27c6582484.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRILLIANT JOURNEY! 다미아니와의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77247</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77247</guid>
-            <pubDate>Tue, 16 May 2023 16:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[100여 년의 역사와 전통으로 눈부시게 빛나는 이탈리아 하이 주얼리 브랜드, 다미아니의 부사장 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/002f8461-bd97-402a-bbdf-bddeef4b65d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WATCHES & WONDERS 2023 REPORT(2)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77245</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77245</guid>
-            <pubDate>Tue, 16 May 2023 10:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 말, 스위스 제네바에 전 세계의 이목이 집중됐다. 워치메이킹의 중심지인 스위스 제네...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/45589b46-273a-47ea-b655-adae187e2c90.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-05-31T13:14:59.135Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희∙NCT마크도 반한 힙한 프라이팬?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77714</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77714"/>
+        <updated>2023-05-30T03:11:11.134Z</updated>
+        <content type="html"><![CDATA[나도 따라 살래!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시간이 멈춘 곳, 보광로 노스텔지아]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/76796</id>
+        <link href="https://www.cosmopolitan.co.kr/article/76796"/>
+        <updated>2023-05-30T02:08:34.218Z</updated>
+        <content type="html"><![CDATA[시간이 멈춘 장소. 보광로 골목에서 마주한 순간들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스∙제니의 잇템? 축구 유니폼 패션]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77589</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77589"/>
+        <updated>2023-05-25T09:09:48.350Z</updated>
+        <content type="html"><![CDATA[경기장 밖, 스타들의 블록코어룩을 살펴보자.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-하이틴 스타일의 정석! 윈터∙허윤진 등 아이돌 스쿨 룩 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77573</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77573"/>
+        <updated>2023-05-25T09:09:48.354Z</updated>
+        <content type="html"><![CDATA[요즘 핫한 아이돌들은 모두 스쿨 룩에 빠져있다?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가짜 y2k 다비켜! y2k 근본 이효리, 요즘 난리 난 사복 패션]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77572</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77572"/>
+        <updated>2023-05-22T03:09:45.024Z</updated>
+        <content type="html"><![CDATA[대체불가 원조 y2k 힙스터가 나타났다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAR FROM THE LAND 표류하듯 유영하는 여인]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/76793</id>
+        <link href="https://www.cosmopolitan.co.kr/article/76793"/>
+        <updated>2023-05-22T02:07:47.967Z</updated>
+        <content type="html"><![CDATA[표류하듯 유영하는 밤의 피사체.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRILLIANT JOURNEY! 다미아니와의 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77247</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77247"/>
+        <updated>2023-05-16T16:16:41.305Z</updated>
+        <content type="html"><![CDATA[100여 년의 역사와 전통으로 눈부시게 빛나는 이탈리아 하이 주얼리 브랜드, 다미아니의 부사장 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WATCHES & WONDERS 2023 REPORT(2)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77245</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77245"/>
+        <updated>2023-05-16T10:09:58.737Z</updated>
+        <content type="html"><![CDATA[지난 3월 말, 스위스 제네바에 전 세계의 이목이 집중됐다. 워치메이킹의 중심지인 스위스 제네...]]></content>
+    </entry>
+</feed>
