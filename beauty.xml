@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 07:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 08:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레 베쥬 아이템으로 완성하는 썸머 헬시 글로우 룩]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77806</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77806</guid>
+            <pubDate>Wed, 31 May 2023 08:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[햇살 아래 눈 부시게 반짝이는 피부를 원한다면? 샤넬의 ‘레 베쥬’ 컬렉션은 선택이 아닌 필...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/2d62215c-b8f4-4a03-bfc7-86b31f92f767.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카리나∙제니가 밝힌 특별한 몸매 유지 비결?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77774</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 May 2023 09:10:05 GMT</pubDate>
             <content:encoded><![CDATA[블루 드 샤넬의 얼굴이 된 티모시 샬라메.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/c8896dba-02b4-4dce-8ca5-69608f7c931d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물은 몰아서 마셔야 할까, 나눠서 마셔야 할까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77580</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77580</guid>
-            <pubDate>Mon, 22 May 2023 03:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[체중 감량에 도움이 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/4b2a4c4e-aedb-4bd5-bbc2-5d3b1115b57e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
