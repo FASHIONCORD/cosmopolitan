@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-05-31T02:23:06.889Z</updated>
+    <updated>2023-05-31T03:16:06.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카리나∙제니가 밝힌 특별한 몸매 유지 비결?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77774</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77774"/>
+        <updated>2023-05-31T03:15:08.250Z</updated>
+        <content type="html"><![CDATA[톱 아이돌은 이 방법을 쓴다?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카리나는 다이어트도 찢어! 에스파 식 몸매 관리 비법은?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/77727</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/77580"/>
         <updated>2023-05-22T03:09:54.772Z</updated>
         <content type="html"><![CDATA[체중 감량에 도움이 된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEAUTY ATTENTION! 멋쁨터지는 데님과 쿠션의 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/77570</id>
-        <link href="https://www.cosmopolitan.co.kr/article/77570"/>
-        <updated>2023-05-22T03:09:54.773Z</updated>
-        <content type="html"><![CDATA[MZ 취.저 아닌가요?]]></content>
     </entry>
 </feed>
