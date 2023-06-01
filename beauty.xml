@@ -1,68 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 13:15:01 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한 달 만에 -28kg? 진서연의 출산 후 다이어트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77951</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77951</guid>
-            <pubDate>Wed, 31 May 2023 15:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[운동부터 식단까지, 감량 필승법 공개.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레 베쥬 아이템으로 완성하는 썸머 헬시 글로우 룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77806</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77806</guid>
-            <pubDate>Wed, 31 May 2023 08:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[햇살 아래 눈 부시게 반짝이는 피부를 원한다면? 샤넬의 ‘레 베쥬’ 컬렉션은 선택이 아닌 필...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카리나∙제니가 밝힌 특별한 몸매 유지 비결?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77774</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77774</guid>
-            <pubDate>Wed, 31 May 2023 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[톱 아이돌은 이 방법을 쓴다?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카리나는 다이어트도 찢어! 에스파 식 몸매 관리 비법은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77727</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77727</guid>
-            <pubDate>Tue, 30 May 2023 14:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[원래는 대식가라는 카리나의 몸매 유지 비결 대공개.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6주 동안 6kg 감량?! 최강희 다이어트 꿀팁 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77716</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77716</guid>
-            <pubDate>Tue, 30 May 2023 06:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[양치승 관장과 함께한 그녀의 다이어트 프로젝트 대공개.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[컬러 라인, 이렇게 쉬워?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77715</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77715</guid>
-            <pubDate>Tue, 30 May 2023 02:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[헤일리 비버가 다양한 컬러 라인을 소화했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김도연의 애착 향수 최초 공개?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77680</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77680</guid>
-            <pubDate>Thu, 25 May 2023 02:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 김도연의 호텔 방을 찾아간 김서영 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이돌이 사랑하는 그것!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77609</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77609</guid>
-            <pubDate>Tue, 23 May 2023 10:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[피부 좋은 아이돌이 픽한 봄 클렌저.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/b5ba4107-f26d-48c9-8da8-1f27ae63c6b0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-06-01T14:10:45.752Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 달 만에 -28kg? 진서연의 출산 후 다이어트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77951</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77951"/>
+        <updated>2023-05-31T15:12:02.950Z</updated>
+        <content type="html"><![CDATA[운동부터 식단까지, 감량 필승법 공개.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레 베쥬 아이템으로 완성하는 썸머 헬시 글로우 룩]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77806</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77806"/>
+        <updated>2023-05-31T08:12:32.549Z</updated>
+        <content type="html"><![CDATA[햇살 아래 눈 부시게 반짝이는 피부를 원한다면? 샤넬의 ‘레 베쥬’ 컬렉션은 선택이 아닌 필...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카리나∙제니가 밝힌 특별한 몸매 유지 비결?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77774</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77774"/>
+        <updated>2023-05-31T03:15:08.250Z</updated>
+        <content type="html"><![CDATA[톱 아이돌은 이 방법을 쓴다?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카리나는 다이어트도 찢어! 에스파 식 몸매 관리 비법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77727</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77727"/>
+        <updated>2023-05-30T14:08:46.318Z</updated>
+        <content type="html"><![CDATA[원래는 대식가라는 카리나의 몸매 유지 비결 대공개.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6주 동안 6kg 감량?! 최강희 다이어트 꿀팁 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77716</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77716"/>
+        <updated>2023-05-30T06:12:11.020Z</updated>
+        <content type="html"><![CDATA[양치승 관장과 함께한 그녀의 다이어트 프로젝트 대공개.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컬러 라인, 이렇게 쉬워?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77715</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77715"/>
+        <updated>2023-05-30T02:08:44.485Z</updated>
+        <content type="html"><![CDATA[헤일리 비버가 다양한 컬러 라인을 소화했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김도연의 애착 향수 최초 공개?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77680</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77680"/>
+        <updated>2023-05-25T02:02:01.457Z</updated>
+        <content type="html"><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 김도연의 호텔 방을 찾아간 김서영 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이돌이 사랑하는 그것!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77609</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77609"/>
+        <updated>2023-05-23T10:12:06.591Z</updated>
+        <content type="html"><![CDATA[피부 좋은 아이돌이 픽한 봄 클렌저.]]></content>
+    </entry>
+</feed>
