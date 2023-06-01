@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 02:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 03:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<소년심판>부터 <길복순>까지, 강렬한 각인을 남기는 배우 이연의 행보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77817</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77817</guid>
+            <pubDate>Thu, 01 Jun 2023 03:28:54 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;소년심판&gt;의 촉법소년 ‘백성우’로 존재감을 뽐낸 배우 이연이 2023년 &lt;길복순&gt;의 리틀 복순, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/f0849e31-1754-490f-8b81-7624bd4ba8d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월은 남자 솔로 대전! 태용∙렌∙강다니엘∙아이엠까지!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77971</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 May 2023 06:12:36 GMT</pubDate>
             <content:encoded><![CDATA[서로 찍어준 거 다 알아요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/a73919ae-cabd-47de-9259-66845be66651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슛돌이 지승준, 18년 만의 방송 출연 이유는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77766</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77766</guid>
-            <pubDate>Tue, 30 May 2023 06:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[바른 성장의 예.jpg]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/6cdede4d-939f-4890-b12d-1c57e4bcf031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
