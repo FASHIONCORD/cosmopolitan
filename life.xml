@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-06-03T15:09:06.839Z</updated>
+    <updated>2023-06-03T16:11:46.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영원한 아기 판다 ‘푸바오’의 성장기 (feat.짤털이)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78007</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78007"/>
+        <updated>2023-06-03T16:11:36.477Z</updated>
+        <content type="html"><![CDATA[왕 커서 왕 귀여운 푸바오에게 입덕해볼까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치팅데이에 필수템, 다이어트 떡볶이 시리즈]]></title>
         <id>https://www.cosmopolitan.co.kr/article/77960</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/77770"/>
         <updated>2023-05-30T02:09:24.595Z</updated>
         <content type="html"><![CDATA[가성비는 덤~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요기야, 요기! 돈과 시간 모두 소중한 MZ 맞춤 서비스 추천]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/77755</id>
-        <link href="https://www.cosmopolitan.co.kr/article/77755"/>
-        <updated>2023-05-26T08:12:07.214Z</updated>
-        <content type="html"><![CDATA[책은 3분 요약으로 후루룩, 배달비도 딱 한 번만?!]]></content>
     </entry>
 </feed>
