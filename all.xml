@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 14:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 15:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77955</guid>
             <pubDate>Fri, 02 Jun 2023 15:09:18 GMT</pubDate>
             <content:encoded><![CDATA[제니, 로제, 에스파 등 국내 셀럽 대거 출동한 이번 칸 영화제]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/406af44f-8018-4665-b8ad-35de49800a2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<닥터 차정숙> 배우 조아람의 사복 패션 탐구! (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -324,7 +325,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77948</guid>
             <pubDate>Wed, 31 May 2023 00:49:38 GMT</pubDate>
             <content:encoded><![CDATA[조용하고 단순한 식물처럼, 빛을 받는 게 가장 좋은 배우 이솜의 고요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/a3ed8384-3693-4d99-b5a1-4e7e2c7134cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전소연, 그 자신과의 열렬한 연애담 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -332,7 +332,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77908</guid>
             <pubDate>Tue, 30 May 2023 06:12:36 GMT</pubDate>
             <content:encoded><![CDATA[(여자)아이들의 전소연은 어떤 누구와도 자신을 바꾸고 싶지 않다. 자기혐오에서 자기애로, 그가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/0c61012d-5b66-4c98-b853-4235c360856d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김우빈❤️신민아 발리행? 셀렙들의 럽스타그램 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -340,7 +339,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77769</guid>
             <pubDate>Tue, 30 May 2023 06:12:36 GMT</pubDate>
             <content:encoded><![CDATA[서로 찍어준 거 다 알아요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/a73919ae-cabd-47de-9259-66845be66651.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -369,7 +367,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/71481</guid>
             <pubDate>Mon, 01 May 2023 11:08:22 GMT</pubDate>
             <content:encoded><![CDATA[백 마디 플러팅보다 단 한 번의 터치가 ‘썸인간’의 ‘섹스 텐션’을 자극한다. ‘원샷원킬’로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/ff247771-5689-4803-a18a-be6744f7a106.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 연애 어떻게 시작해? <코스모> 독자들에게 물었다! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -377,7 +374,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/70666</guid>
             <pubDate>Mon, 01 May 2023 11:08:22 GMT</pubDate>
             <content:encoded><![CDATA[네이트온부터 페메까지, 엄마 친구가 해준 소개팅부터 데이팅 앱까지. 무구한 썸과 연애의 역사는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/fc6edecb-2e77-43a8-a504-2d9e65c62378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱글이어도 가을 타지 않기로 약속! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -385,7 +381,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/70652</guid>
             <pubDate>Mon, 01 May 2023 11:08:22 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 제안하는 6가지 가을 데이트 아이디어를 현실로 옮기자. 옆구리 시린 증상이 조금은 완...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/e2d9a23c-a1db-4701-9c16-468c00cc1b27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브 지수 만렉 시켜줄 고배 각 세우기 좋은 스폿 5. (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -393,7 +388,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/70644</guid>
             <pubDate>Mon, 01 May 2023 11:08:22 GMT</pubDate>
             <content:encoded><![CDATA[세 번 이상 만났는데 아직 썸을 청산하지 못했다? 200% 확신하건대, 장소가 문제다. 고백 각 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/4f679469-bdff-4f59-b9ff-e3a3a58322c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해외에서 데이팅 앱을 써야 하는 6가지 이유 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -401,7 +395,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/68837</guid>
             <pubDate>Mon, 01 May 2023 11:08:22 GMT</pubDate>
             <content:encoded><![CDATA[세계는 넓고 남자는 많다. 해외에서 데이팅 앱을 써야 하는 6가지 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치팅데이에 필수템, 다이어트 떡볶이 시리즈 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -409,7 +402,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77960</guid>
             <pubDate>Fri, 02 Jun 2023 17:08:40 GMT</pubDate>
             <content:encoded><![CDATA[치팅데이, 가장 그리웠던 단짜단짜 떡볶이 대신 다이어트 꾸준하게 도와줄 다이어트 떡볶이 추천...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/e9efbf28-e26a-4748-bd8d-0e88899bc620.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[느슨해진 빙수 씬에 긴장감을 줘! 색다른 호텔 빙수 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -417,7 +409,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77952</guid>
             <pubDate>Thu, 01 Jun 2023 17:09:11 GMT</pubDate>
             <content:encoded><![CDATA[토마토 받고 크로아상까지~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/cf8a188c-291d-4f7d-a4d2-523fb20e63b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스모배 최고의 김밥을 찾아라! (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -425,7 +416,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77915</guid>
             <pubDate>Wed, 31 May 2023 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 김밥 짬바 1n년차들의 고품격 시식...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/c3229551-51ec-4d62-908d-889c870e448c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하루종일 시간 보내기 SSAP 가능! 경주 차기 핫플, 플레이스 씨 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -433,7 +423,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77879</guid>
             <pubDate>Wed, 31 May 2023 05:10:00 GMT</pubDate>
             <content:encoded><![CDATA[황리단길 지척에 위치한 600평 규모의 한옥 복합문화공간이 베일을 벗었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/49296971-2771-45a2-8c3c-f18bd475af90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초대형 인형이랑 사진 찍는 인증숏 스팟 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -441,7 +430,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77776</guid>
             <pubDate>Wed, 31 May 2023 04:12:03 GMT</pubDate>
             <content:encoded><![CDATA[어머 여긴 꼭 가야 해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/3f3aafc6-23db-4002-ac95-c950e0bdcbf2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국판 K-고딩? 넷플릭스 신작 <엑스오, 키티> (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -449,7 +437,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77773</guid>
             <pubDate>Tue, 30 May 2023 03:12:34 GMT</pubDate>
             <content:encoded><![CDATA[&lt;내가 사랑했던 모든 남자들에게&gt; 스핀오프작이라... 이거 재밌어지겠는걸?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/81789ac3-74f8-4e2d-a187-deb690a80377.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄정화가 즐겨 마시는 마돈나 샴페인의 정체?! (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -457,7 +444,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77770</guid>
             <pubDate>Tue, 30 May 2023 02:09:24 GMT</pubDate>
             <content:encoded><![CDATA[가성비는 덤~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/f997ce67-c9d0-4666-bca8-8d6cc8c587af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요기야, 요기! 돈과 시간 모두 소중한 MZ 맞춤 서비스 추천 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -465,7 +451,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77755</guid>
             <pubDate>Fri, 26 May 2023 08:12:07 GMT</pubDate>
             <content:encoded><![CDATA[책은 3분 요약으로 후루룩, 배달비도 딱 한 번만?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/12e6e673-a215-4beb-94f3-7d20cd2378c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
