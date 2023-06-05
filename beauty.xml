@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 22:09:37 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여름에 딱! 청량하고 향기로운 바디용품 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77792</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77792</guid>
-            <pubDate>Mon, 05 Jun 2023 16:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[취향껏 골라봐! 청량하고 향기로운 보디 필템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/43682493-ac37-4301-921b-b252ee234890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오브제 아님 주의! 자랑하고 싶은 신상 뷰티템 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77790</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77790</guid>
-            <pubDate>Mon, 05 Jun 2023 11:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[화장품 맞아요? 제품력은 기본, 오브제처럼 예쁜 비주얼로 중무장한 뉴 뷰티템 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/8e7953c6-2084-4ffa-8c23-978d3f44c9a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가방부터 향수까지, 코스모 픽 6월 추천템 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77789</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77789</guid>
-            <pubDate>Mon, 05 Jun 2023 07:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 6월의 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/324bd1b7-2dde-4ec0-a430-47c2a99c543c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부에 균이 산다고? 피부에 순하고 균에는 강한 시타 듀 3중 항균 젤 클렌저]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77721</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77721</guid>
-            <pubDate>Sun, 04 Jun 2023 16:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[여드름, 뾰루지, 붉게 달아오른 피부까지! 자꾸만 올라오는 트러블로 스트레스였다면 클렌징에 집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/f58f67b6-f5fe-449c-8a37-fdd5de10e49f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 딱 기다려! 셀렙 중 최강 다이어트 유발자는 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78005</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78005</guid>
-            <pubDate>Sat, 03 Jun 2023 16:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[오늘부터 내 꿈은 너야.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/825a446e-27e4-46c7-b458-6f1a7185d688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임지연, 슬렌더 보디라인 유지비결이 필라테스?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77996</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77996</guid>
-            <pubDate>Fri, 02 Jun 2023 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[경력만 해도 10년이 넘는다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/3144ff10-4989-4373-b569-03cf7db53033.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이수지 쾌변의 비밀?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77887</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77887</guid>
-            <pubDate>Thu, 01 Jun 2023 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 잘 어울릴 수가? 이수지와 둘코락스®의 역대급 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/4aa67ad9-4c25-474e-93fe-d574408b3c87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 달 만에 -28kg? 진서연의 출산 후 다이어트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77951</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77951</guid>
-            <pubDate>Wed, 31 May 2023 15:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[운동부터 식단까지, 감량 필승법 공개.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/22b569ea-08ce-4960-9f76-b8aaf5136611.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-06-05T23:10:00.760Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름에 딱! 청량하고 향기로운 바디용품 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77792</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77792"/>
+        <updated>2023-06-05T16:11:29.093Z</updated>
+        <content type="html"><![CDATA[취향껏 골라봐! 청량하고 향기로운 보디 필템.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오브제 아님 주의! 자랑하고 싶은 신상 뷰티템 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77790</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77790"/>
+        <updated>2023-06-05T11:09:38.958Z</updated>
+        <content type="html"><![CDATA[화장품 맞아요? 제품력은 기본, 오브제처럼 예쁜 비주얼로 중무장한 뉴 뷰티템 4.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가방부터 향수까지, 코스모 픽 6월 추천템 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77789</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77789"/>
+        <updated>2023-06-05T07:10:27.157Z</updated>
+        <content type="html"><![CDATA[코스모가 픽한 6월의 아이템.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피부에 균이 산다고? 피부에 순하고 균에는 강한 시타 듀 3중 항균 젤 클렌저]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77721</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77721"/>
+        <updated>2023-06-04T16:11:00.113Z</updated>
+        <content type="html"><![CDATA[여드름, 뾰루지, 붉게 달아오른 피부까지! 자꾸만 올라오는 트러블로 스트레스였다면 클렌징에 집...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 딱 기다려! 셀렙 중 최강 다이어트 유발자는 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78005</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78005"/>
+        <updated>2023-06-03T16:11:01.129Z</updated>
+        <content type="html"><![CDATA[오늘부터 내 꿈은 너야.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임지연, 슬렌더 보디라인 유지비결이 필라테스?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77996</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77996"/>
+        <updated>2023-06-02T15:09:28.913Z</updated>
+        <content type="html"><![CDATA[경력만 해도 10년이 넘는다는데?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이수지 쾌변의 비밀?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77887</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77887"/>
+        <updated>2023-06-01T15:09:28.711Z</updated>
+        <content type="html"><![CDATA[이렇게 잘 어울릴 수가? 이수지와 둘코락스®의 역대급 만남.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 달 만에 -28kg? 진서연의 출산 후 다이어트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77951</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77951"/>
+        <updated>2023-05-31T15:12:02.950Z</updated>
+        <content type="html"><![CDATA[운동부터 식단까지, 감량 필승법 공개.]]></content>
+    </entry>
+</feed>
