@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 15:11:20 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[드림카 드루와! 피처 에디터들의 드림카 시승 담화]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78109</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78109</guid>
-            <pubDate>Mon, 05 Jun 2023 15:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 천일홍·김미나 피처 에디터의 본격 카 토크 타임! 스포티한 매력을 가득 담은 4대의 드...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/2f578388-972b-4d01-9c39-2a8e445cd9b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BOOK OF THE MONTH! 여성의 이야기를 담은 신간3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77824</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77824</guid>
-            <pubDate>Mon, 05 Jun 2023 08:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[이토록 다채롭고 찬란한 여성들의 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/005dd0fb-f00a-47dc-884e-efa24ca2a19a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 즐기기에 딱! 인생샷 가능한 요즘 전시 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77826</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77826</guid>
-            <pubDate>Mon, 05 Jun 2023 07:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[불어오는 여름 바람과 함께 즐기고 싶은 4개의 전시.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/c573b9a3-1233-4dbd-b149-e2b382484d2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 건 거부! 놓치면 후회할 신상 아이스크림 11]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77803</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77803</guid>
-            <pubDate>Mon, 05 Jun 2023 03:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[하늘에서 아이스크림이 쏟아진다면!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/fdc99d96-5cc6-4be9-8790-4ee5cdc6eb75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 한 잔? 정재형∙성시경∙류수영 손님맞이 레시피]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78010</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78010</guid>
-            <pubDate>Mon, 05 Jun 2023 03:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[이 계절에 딱, 시원한 와인 마구 들이켜고 싶은 OPPA들의 레시피.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/3e43520b-28c5-40ce-856c-ee0584c99655.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원한 아기 판다 ‘푸바오’의 성장기 (feat.짤털이)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78007</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78007</guid>
-            <pubDate>Sat, 03 Jun 2023 16:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[왕 커서 왕 귀여운 푸바오에게 입덕해볼까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/3dd76eda-294d-421f-8ae6-f140941047c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치팅데이에 필수템, 다이어트 떡볶이 시리즈]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77960</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77960</guid>
-            <pubDate>Fri, 02 Jun 2023 17:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[치팅데이, 가장 그리웠던 단짜단짜 떡볶이 대신 다이어트 꾸준하게 도와줄 다이어트 떡볶이 추천...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/e9efbf28-e26a-4748-bd8d-0e88899bc620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느슨해진 빙수 씬에 긴장감을 줘! 색다른 호텔 빙수 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77952</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77952</guid>
-            <pubDate>Thu, 01 Jun 2023 17:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[토마토 받고 크로아상까지~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/cf8a188c-291d-4f7d-a4d2-523fb20e63b4.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-06-05T16:13:12.326Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드림카 드루와! 피처 에디터들의 드림카 시승 담화]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78109</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78109"/>
+        <updated>2023-06-05T15:11:04.156Z</updated>
+        <content type="html"><![CDATA[코스모 천일홍·김미나 피처 에디터의 본격 카 토크 타임! 스포티한 매력을 가득 담은 4대의 드...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOOK OF THE MONTH! 여성의 이야기를 담은 신간3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77824</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77824"/>
+        <updated>2023-06-05T08:12:34.392Z</updated>
+        <content type="html"><![CDATA[이토록 다채롭고 찬란한 여성들의 이야기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 즐기기에 딱! 인생샷 가능한 요즘 전시 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77826</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77826"/>
+        <updated>2023-06-05T07:10:52.024Z</updated>
+        <content type="html"><![CDATA[불어오는 여름 바람과 함께 즐기고 싶은 4개의 전시.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평범한 건 거부! 놓치면 후회할 신상 아이스크림 11]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77803</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77803"/>
+        <updated>2023-06-05T03:13:05.017Z</updated>
+        <content type="html"><![CDATA[하늘에서 아이스크림이 쏟아진다면!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집에서 한 잔? 정재형∙성시경∙류수영 손님맞이 레시피]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78010</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78010"/>
+        <updated>2023-06-05T03:13:05.018Z</updated>
+        <content type="html"><![CDATA[이 계절에 딱, 시원한 와인 마구 들이켜고 싶은 OPPA들의 레시피.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영원한 아기 판다 ‘푸바오’의 성장기 (feat.짤털이)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78007</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78007"/>
+        <updated>2023-06-03T16:11:36.477Z</updated>
+        <content type="html"><![CDATA[왕 커서 왕 귀여운 푸바오에게 입덕해볼까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치팅데이에 필수템, 다이어트 떡볶이 시리즈]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77960</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77960"/>
+        <updated>2023-06-02T17:08:40.936Z</updated>
+        <content type="html"><![CDATA[치팅데이, 가장 그리웠던 단짜단짜 떡볶이 대신 다이어트 꾸준하게 도와줄 다이어트 떡볶이 추천...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[느슨해진 빙수 씬에 긴장감을 줘! 색다른 호텔 빙수 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77952</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77952"/>
+        <updated>2023-06-01T17:09:11.380Z</updated>
+        <content type="html"><![CDATA[토마토 받고 크로아상까지~!]]></content>
+    </entry>
+</feed>

@@ -4,15 +4,24 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 15:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 16:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[COSMO LIKE! 지금 주목해야 할 핫 이슈는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77786</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77786</guid>
+            <pubDate>Mon, 05 Jun 2023 16:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/74375705-bcf4-41ba-a49d-6a14f042a8c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가방부터 향수까지, 코스모 픽 6월 추천템 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77789</link>
             <guid>https://www.cosmopolitan.co.kr/article/77789</guid>
             <pubDate>Sun, 04 Jun 2023 15:08:34 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 6월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/324bd1b7-2dde-4ec0-a430-47c2a99c543c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장마 대비 차정원∙김나영 등 셀럽 레전드 레인부츠 룩 5]]></title>
@@ -61,14 +70,6 @@
             <pubDate>Tue, 30 May 2023 03:11:11 GMT</pubDate>
             <content:encoded><![CDATA[나도 따라 살래!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/c237089c-4cd2-4f45-a6bd-018ea4ce9cc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간이 멈춘 곳, 보광로 노스텔지아]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/76796</link>
-            <guid>https://www.cosmopolitan.co.kr/article/76796</guid>
-            <pubDate>Tue, 30 May 2023 02:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[시간이 멈춘 장소. 보광로 골목에서 마주한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/ebbec0b0-138b-4378-abf9-f6fa928a2882.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
