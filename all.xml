@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 05:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 06:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,12 +285,18 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <content:encoded><![CDATA[원래는 대식가라는 카리나의 몸매 유지 비결 대공개.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[솔로 출격! 몬스타엑스 아이엠이 진짜 하고 싶은 것 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77975</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77975</guid>
+            <pubDate>Mon, 05 Jun 2023 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[더 깊게 내려가 마주한 몬스타엑스 아이엠의 얼굴.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[<소년심판>부터 <길복순>까지, 강렬한 각인을 남기는 배우 이연의 행보 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77817</link>
             <guid>https://www.cosmopolitan.co.kr/article/77817</guid>
             <pubDate>Thu, 01 Jun 2023 03:28:54 GMT</pubDate>
             <content:encoded><![CDATA[&lt;소년심판&gt;의 촉법소년 ‘백성우’로 존재감을 뽐낸 배우 이연이 2023년 &lt;길복순&gt;의 리틀 복순, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/f0849e31-1754-490f-8b81-7624bd4ba8d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월은 남자 솔로 대전! 태용∙렌∙강다니엘∙아이엠까지! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -298,7 +304,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77971</guid>
             <pubDate>Wed, 31 May 2023 05:09:40 GMT</pubDate>
             <content:encoded><![CDATA[벌써 뜨겁다 뜨거워~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/b3a767c5-406a-475d-8a1f-d4b7cd43de5b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<바비> OST 참여부터 유럽투어까지! 글로벌로 진격하는 걸그룹 소식 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -306,7 +311,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77970</guid>
             <pubDate>Wed, 31 May 2023 05:09:40 GMT</pubDate>
             <content:encoded><![CDATA[진짜 다들 폼 미쳤다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/4f11b884-516f-4db3-86e7-aae05e137857.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현아·태연·최예나도 SNS에 인증한 요즘 인싸템? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -314,7 +318,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77969</guid>
             <pubDate>Wed, 31 May 2023 03:15:18 GMT</pubDate>
             <content:encoded><![CDATA[요즘 판매 요청 폭주한다는 ‘퀸카 박스’의 정체.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/0c26d340-8002-47f3-9c6c-08a4092f85b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니는 개도 2개 국어를 한다? 존재자체가 자랑인 제니 반려견 쿠마 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -322,7 +325,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77967</guid>
             <pubDate>Wed, 31 May 2023 00:49:38 GMT</pubDate>
             <content:encoded><![CDATA[우리집 강아지도 2개 국어 쌉가능?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/724cb9a7-997f-4ff6-ba99-45cfc05c6679.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조용하고 단순한 식물처럼, 이솜의 고요 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -330,7 +332,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77948</guid>
             <pubDate>Wed, 31 May 2023 00:49:38 GMT</pubDate>
             <content:encoded><![CDATA[조용하고 단순한 식물처럼, 빛을 받는 게 가장 좋은 배우 이솜의 고요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/a3ed8384-3693-4d99-b5a1-4e7e2c7134cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전소연, 그 자신과의 열렬한 연애담 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -338,15 +339,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77908</guid>
             <pubDate>Tue, 30 May 2023 06:12:36 GMT</pubDate>
             <content:encoded><![CDATA[(여자)아이들의 전소연은 어떤 누구와도 자신을 바꾸고 싶지 않다. 자기혐오에서 자기애로, 그가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/0c61012d-5b66-4c98-b853-4235c360856d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김우빈❤️신민아 발리행? 셀렙들의 럽스타그램 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77769</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77769</guid>
-            <pubDate>Tue, 30 May 2023 06:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[서로 찍어준 거 다 알아요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/a73919ae-cabd-47de-9259-66845be66651.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -466,7 +458,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
             <pubDate>Sat, 06 May 2023 16:12:12 GMT</pubDate>
             <content:encoded><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/fdef0949-753f-4b68-8736-97965b951957.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -474,7 +465,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/63642</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/aa057e16-327b-41d8-b659-a5b643d33cce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -482,7 +472,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/63099</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/765a3322-7839-4aec-bbe0-4eab080760a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[질투하는 남친이 위험한 이유 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -490,7 +479,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/62775</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계를 찢어 놓으셨다! 2021년 화제의 인물을 골라보자. (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -498,7 +486,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/62402</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[마! 이게 k-셀럽이다! 국뽕을 차오르게 한 &lt;오징어 게임&gt;부터 올림픽까지! 2021년, 그야말로 한국의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/9936bc1a-5f99-49b0-8987-55856559f909.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니멀하고 지속 가능한 뷰티 습관, 클린뷰티 어디까지 알고 있나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -506,7 +493,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/61879</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[피부와 자연에 이로운 클린 뷰티 라이프! 좋은 원료와 저자극, 지속 가능한 패키지, 동물실험 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/41da32a1-74ba-4410-abb9-e06a48909fb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#운동 못해도 운동복 재질! (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -514,7 +500,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/61838</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[재택근무가 일상에 자리를 잡으며, 운동복과 라운지 웨어의 경계가 확장되었죠. 이는 오피스 룩으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/8ccb7d24-d1cd-4ed6-b436-7c97a3a0641e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -522,7 +507,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/61462</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[코스모폴리탄과 입생로랑 뷰티, 한국여성의전화가 함께하는 ‘파트너 폭력 인식 개선 프로그램’으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b63604de-8bd7-4196-beac-5f95a0e0a6c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
