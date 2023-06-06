@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-06-06T15:09:59.252Z</updated>
+    <updated>2023-06-06T16:12:06.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오래오래 머무르고 싶은 제주 스테이]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78122</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78122"/>
+        <updated>2023-06-06T16:11:56.268Z</updated>
+        <content type="html"><![CDATA[아무것도 필요없다. 무조건 휴식에 집중하고 싶을 때 머무르기 딱 좋은 제주 숙소 리스트.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드림카 드루와! 피처 에디터들의 드림카 시승 담화]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78109</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/77960"/>
         <updated>2023-06-02T17:08:40.936Z</updated>
         <content type="html"><![CDATA[치팅데이, 가장 그리웠던 단짜단짜 떡볶이 대신 다이어트 꾸준하게 도와줄 다이어트 떡볶이 추천...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[느슨해진 빙수 씬에 긴장감을 줘! 색다른 호텔 빙수 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/77952</id>
-        <link href="https://www.cosmopolitan.co.kr/article/77952"/>
-        <updated>2023-06-01T17:09:11.380Z</updated>
-        <content type="html"><![CDATA[토마토 받고 크로아상까지~!]]></content>
     </entry>
 </feed>
