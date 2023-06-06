@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-06-06T12:17:24.278Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[가격만 700억? 블랙핑크의 초럭셔리 전세기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78133</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78133"/>
-        <updated>2023-06-05T09:09:51.565Z</updated>
-        <content type="html"><![CDATA[멤버들 SNS 속 인증샷에 올라온 그 전세기가 맞다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나무늘보’ 엄현경, ‘낭또’ 차서원이 결혼한다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78128</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78128"/>
-        <updated>2023-06-05T08:12:12.836Z</updated>
-        <content type="html"><![CDATA[드라마 속 이야기가 현실로!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첸백시’가 SM에 전속계약 해지를 통보했다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78042</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78042"/>
-        <updated>2023-06-05T08:12:12.844Z</updated>
-        <content type="html"><![CDATA[웅성웅성 이게 무슨 일이래?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석∙EXO∙조혜련 총출동! 손민수♥임라라 결혼식]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78009</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78009"/>
-        <updated>2023-06-05T08:12:12.853Z</updated>
-        <content type="html"><![CDATA[10년간의 열애 끝에 결혼식을 올린 엔조이 커플.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최신 업데이트된 연예계 의외의 친분 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78008</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78008"/>
-        <updated>2023-06-05T07:10:36.294Z</updated>
-        <content type="html"><![CDATA[네티즌들을 웅성웅성하게 만든 연예계 의외의 조합은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘은 골프장 결혼식이 대세? 테이의 이색 웨딩마치]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78004</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78004"/>
-        <updated>2023-06-05T07:10:36.296Z</updated>
-        <content type="html"><![CDATA[박인비 선수가 결혼한 장소라고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔로 출격! 몬스타엑스 아이엠이 진짜 하고 싶은 것]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/77975</id>
-        <link href="https://www.cosmopolitan.co.kr/article/77975"/>
-        <updated>2023-06-05T06:12:38.504Z</updated>
-        <content type="html"><![CDATA[더 깊게 내려가 마주한 몬스타엑스 아이엠의 얼굴.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<소년심판>부터 <길복순>까지, 강렬한 각인을 남기는 배우 이연의 행보]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/77817</id>
-        <link href="https://www.cosmopolitan.co.kr/article/77817"/>
-        <updated>2023-06-01T03:28:54.178Z</updated>
-        <content type="html"><![CDATA[&lt;소년심판&gt;의 촉법소년 ‘백성우’로 존재감을 뽐낸 배우 이연이 2023년 &lt;길복순&gt;의 리틀 복순, ...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 06 Jun 2023 13:14:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가격만 700억? 블랙핑크의 초럭셔리 전세기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78133</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78133</guid>
+            <pubDate>Mon, 05 Jun 2023 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[멤버들 SNS 속 인증샷에 올라온 그 전세기가 맞다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/4e3fe1ed-7a28-4a8d-91a8-982c32ce187d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘나무늘보’ 엄현경, ‘낭또’ 차서원이 결혼한다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78128</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78128</guid>
+            <pubDate>Mon, 05 Jun 2023 08:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 속 이야기가 현실로!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/ffc4a3a2-8bc3-4653-8a10-872826c6b5ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['첸백시’가 SM에 전속계약 해지를 통보했다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78042</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78042</guid>
+            <pubDate>Mon, 05 Jun 2023 08:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[웅성웅성 이게 무슨 일이래?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/9a1bfebe-09cf-4f1b-9dc7-7abe82dc58af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재석∙EXO∙조혜련 총출동! 손민수♥임라라 결혼식]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78009</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78009</guid>
+            <pubDate>Mon, 05 Jun 2023 08:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[10년간의 열애 끝에 결혼식을 올린 엔조이 커플.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/95a987ce-abf4-4578-93ef-b14c48dbdab4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최신 업데이트된 연예계 의외의 친분 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78008</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78008</guid>
+            <pubDate>Mon, 05 Jun 2023 07:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[네티즌들을 웅성웅성하게 만든 연예계 의외의 조합은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/58a11860-f9f9-41b2-9140-d1421b0e2b66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘은 골프장 결혼식이 대세? 테이의 이색 웨딩마치]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78004</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78004</guid>
+            <pubDate>Mon, 05 Jun 2023 07:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[박인비 선수가 결혼한 장소라고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/ee51bfd4-5ade-4197-9c58-02a5cd19f11f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔로 출격! 몬스타엑스 아이엠이 진짜 하고 싶은 것]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77975</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77975</guid>
+            <pubDate>Mon, 05 Jun 2023 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[더 깊게 내려가 마주한 몬스타엑스 아이엠의 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/07ca590a-da65-4bd6-bd54-912667cd7c0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<소년심판>부터 <길복순>까지, 강렬한 각인을 남기는 배우 이연의 행보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77817</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77817</guid>
+            <pubDate>Thu, 01 Jun 2023 03:28:54 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;소년심판&gt;의 촉법소년 ‘백성우’로 존재감을 뽐낸 배우 이연이 2023년 &lt;길복순&gt;의 리틀 복순, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/f0849e31-1754-490f-8b81-7624bd4ba8d6.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
