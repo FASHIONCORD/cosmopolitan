@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 02:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 03:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -221,6 +221,20 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <content:encoded><![CDATA[제니, 안유진, 윈터, 은채는 어떻게 소화할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[피부과 안 가도 된다고? 윤은혜 피부 홈케어 대공개! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78126</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78126</guid>
+            <pubDate>Wed, 07 Jun 2023 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[세안부터 여드름까지 집에서도 피부 관리 SSAP가능.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[까맣지만 시크해! 요즘 유행하는 블랙립 모음 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/77835</link>
+            <guid>https://www.cosmopolitan.co.kr/article/77835</guid>
+            <pubDate>Wed, 07 Jun 2023 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[까맣게 물들었다! 시크한 무드를 더해주는 초크초크한 블랙 립 컬러.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[틸다 스윈튼이 설화수 모델? K뷰티를 빛내줄 글로벌 모델 4인 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77795</link>
             <guid>https://www.cosmopolitan.co.kr/article/77795</guid>
@@ -263,18 +277,12 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <content:encoded><![CDATA[오늘부터 내 꿈은 너야.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임지연, 슬렌더 보디라인 유지비결이 필라테스? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77996</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77996</guid>
-            <pubDate>Fri, 02 Jun 2023 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[경력만 해도 10년이 넘는다는데?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이수지 쾌변의 비밀? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77887</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77887</guid>
-            <pubDate>Thu, 01 Jun 2023 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 잘 어울릴 수가? 이수지와 둘코락스®의 역대급 만남.]]></content:encoded>
+            <title><![CDATA[비포 애프터가 확실하다! 장영란 최측근이 추천한 팔자주름 관리 꿀팁은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78138</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78138</guid>
+            <pubDate>Wed, 07 Jun 2023 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[깨끗한 손과 비닐장갑만 있으면 준비 끝!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/28af4806-c418-4cda-9d26-f4f755bf8c2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박재범에게 롤렉스를? 은혜 갚은 이영지 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -282,6 +290,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/78135</guid>
             <pubDate>Wed, 07 Jun 2023 02:24:45 GMT</pubDate>
             <content:encoded><![CDATA[은혜 입은 사람에겐 롤** 선물이 국룰? 이영지, 이국주의 선물 플렉스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/2f3e83ff-a1ee-4783-8c34-335450e0927f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가격만 700억? 블랙핑크의 초럭셔리 전세기 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -289,6 +298,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/78133</guid>
             <pubDate>Mon, 05 Jun 2023 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[멤버들 SNS 속 인증샷에 올라온 그 전세기가 맞다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/4e3fe1ed-7a28-4a8d-91a8-982c32ce187d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘나무늘보’ 엄현경, ‘낭또’ 차서원이 결혼한다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -296,6 +306,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/78128</guid>
             <pubDate>Mon, 05 Jun 2023 08:12:12 GMT</pubDate>
             <content:encoded><![CDATA[드라마 속 이야기가 현실로!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/ffc4a3a2-8bc3-4653-8a10-872826c6b5ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['첸백시’가 SM에 전속계약 해지를 통보했다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -303,6 +314,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/78042</guid>
             <pubDate>Mon, 05 Jun 2023 08:12:12 GMT</pubDate>
             <content:encoded><![CDATA[웅성웅성 이게 무슨 일이래?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/9a1bfebe-09cf-4f1b-9dc7-7abe82dc58af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유재석∙EXO∙조혜련 총출동! 손민수♥임라라 결혼식 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -310,6 +322,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/78009</guid>
             <pubDate>Mon, 05 Jun 2023 08:12:12 GMT</pubDate>
             <content:encoded><![CDATA[10년간의 열애 끝에 결혼식을 올린 엔조이 커플.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/95a987ce-abf4-4578-93ef-b14c48dbdab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최신 업데이트된 연예계 의외의 친분 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -317,6 +330,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/78008</guid>
             <pubDate>Mon, 05 Jun 2023 07:10:36 GMT</pubDate>
             <content:encoded><![CDATA[네티즌들을 웅성웅성하게 만든 연예계 의외의 조합은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/58a11860-f9f9-41b2-9140-d1421b0e2b66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘은 골프장 결혼식이 대세? 테이의 이색 웨딩마치 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -325,14 +339,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <pubDate>Mon, 05 Jun 2023 07:10:36 GMT</pubDate>
             <content:encoded><![CDATA[박인비 선수가 결혼한 장소라고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/ee51bfd4-5ade-4197-9c58-02a5cd19f11f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로 출격! 몬스타엑스 아이엠이 진짜 하고 싶은 것 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77975</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77975</guid>
-            <pubDate>Mon, 05 Jun 2023 06:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[더 깊게 내려가 마주한 몬스타엑스 아이엠의 얼굴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/07ca590a-da65-4bd6-bd54-912667cd7c0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -391,6 +397,13 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <content:encoded><![CDATA[세계는 넓고 남자는 많다. 해외에서 데이팅 앱을 써야 하는 6가지 이유.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이건 먹어야 해! OO에서만 판매하는 한정판 음식은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78131</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78131</guid>
+            <pubDate>Wed, 07 Jun 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[SNS 업로드 각인 음식이 속리산·제주·예산에 있다!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[밤샘각? 넷플릭스 오리지널 <사이렌: 불의 섬> 관전 포인트 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78123</link>
             <guid>https://www.cosmopolitan.co.kr/article/78123</guid>
@@ -438,13 +451,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/78010</guid>
             <pubDate>Mon, 05 Jun 2023 03:13:05 GMT</pubDate>
             <content:encoded><![CDATA[이 계절에 딱, 시원한 와인 마구 들이켜고 싶은 OPPA들의 레시피.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영원한 아기 판다 ‘푸바오’의 성장기 (feat.짤털이) (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78007</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78007</guid>
-            <pubDate>Sat, 03 Jun 2023 16:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[왕 커서 왕 귀여운 푸바오에게 입덕해볼까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
