@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 08:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,6 +397,13 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <content:encoded><![CDATA[세계는 넓고 남자는 많다. 해외에서 데이팅 앱을 써야 하는 6가지 이유.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[회사에 피자 화덕? 억 소리 나는 픽사 복지 모음 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78136</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78136</guid>
+            <pubDate>Wed, 07 Jun 2023 09:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[픽사의 직원 복지는 픽사 애니만큼이나 감동적이다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이건 먹어야 해! OO에서만 판매하는 한정판 음식은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78131</link>
             <guid>https://www.cosmopolitan.co.kr/article/78131</guid>
@@ -444,13 +451,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/77803</guid>
             <pubDate>Mon, 05 Jun 2023 03:13:05 GMT</pubDate>
             <content:encoded><![CDATA[하늘에서 아이스크림이 쏟아진다면!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[집에서 한 잔? 정재형∙성시경∙류수영 손님맞이 레시피 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78010</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78010</guid>
-            <pubDate>Mon, 05 Jun 2023 03:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[이 계절에 딱, 시원한 와인 마구 들이켜고 싶은 OPPA들의 레시피.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
