@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 23:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 00:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤샘각? 넷플릭스 오리지널 
+<사이렌: 불의 섬> 관전 포인트 3 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36062182&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36062182&amp;memberNo=11800362</guid>
+            <pubDate>Fri, 09 Jun 2023 00:52:40 GMT</pubDate>
+            <content:encoded><![CDATA[직업으로 붙는다. 여자치고 잘한다는 말, 금지! ▼ 클릭 ▼ 밤샘각? 넷플릭스 오리지널 &lt;사이렌: 불의 섬&gt; 관전 포인트 3 직업으로 붙는다. 여자치고 잘한다는 말, 금지! www.cosmopolitan.co.kr  카페인 서바이···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[벌써 1년? <환승연애 2> 출연진 
 근황 모음 zip (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
@@ -155,13 +163,6 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35941482&amp;memberNo=11800362</guid>
             <pubDate>Thu, 08 Jun 2023 23:09:03 GMT</pubDate>
             <content:encoded><![CDATA[하나만 바꿨는데 이렇게 달라보인다고? ▼ 클릭 ▼ 헤메 바꾼 장원영∙닝닝∙나연! 하나만 바꿨는데 이렇게 달라보인다고? www.cosmopolitan.co.kr  눈썹만 바꿨을 뿐인데 눈썹 하나로 이렇게 이미지가 달라질 수 있을까···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송혜교❤️이민호?! 결혼 사진까지 떴다 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35930261&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35930261&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 08 Jun 2023 23:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 아니냐고? 응 아니야!  중국 웨이보에서 순식간에 퍼진 송혜교와 이민호의 결혼 사진. 물론 가짜다. 두 사람이 중국 혼례복을 입고 있는데, 딱 봐도 합성이다. 그런데 웬걸. 지난해 두 사람이 펜디 패션쇼 행사···]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상의 오브제가 된 클래식 워치 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -499,6 +500,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/61838</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[재택근무가 일상에 자리를 잡으며, 운동복과 라운지 웨어의 경계가 확장되었죠. 이는 오피스 룩으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/8ccb7d24-d1cd-4ed6-b436-7c97a3a0641e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가까운 관계에서의 ‘파트너 폭력’, 코피셜 결과는? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -506,6 +508,7 @@ BH엔터 워크숍 이모저모 (네이버 포스트 ─ 코스모폴리탄 코�
             <guid>https://www.cosmopolitan.co.kr/article/61462</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[코스모폴리탄과 입생로랑 뷰티, 한국여성의전화가 함께하는 ‘파트너 폭력 인식 개선 프로그램’으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b63604de-8bd7-4196-beac-5f95a0e0a6c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
