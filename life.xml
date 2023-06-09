@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-06-09T14:10:13.132Z</updated>
+    <updated>2023-06-09T15:10:26.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[색감 미쳤다! 예쁨 폭발하는 비주얼 만렙 영화는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78171</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78171"/>
+        <updated>2023-06-09T15:10:01.333Z</updated>
+        <content type="html"><![CDATA[세상 모든 컬러를 다 빼앗은 듯!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캠핑족 드루와! 캠핑 유튜버가 인증한 최고의 스폿]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78165</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78109"/>
         <updated>2023-06-05T15:11:04.156Z</updated>
         <content type="html"><![CDATA[코스모 천일홍·김미나 피처 에디터의 본격 카 토크 타임! 스포티한 매력을 가득 담은 4대의 드...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOOK OF THE MONTH! 여성의 이야기를 담은 신간3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/77824</id>
-        <link href="https://www.cosmopolitan.co.kr/article/77824"/>
-        <updated>2023-06-05T08:12:34.392Z</updated>
-        <content type="html"><![CDATA[이토록 다채롭고 찬란한 여성들의 이야기.]]></content>
     </entry>
 </feed>
