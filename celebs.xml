@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 02:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 03:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고막힐링 주의! 팀 11시, 배너가 푸는 피크타임 비하인드 썰]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78202</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78202</guid>
+            <pubDate>Tue, 13 Jun 2023 03:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[우승 상금 3억의 행방까지~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/e941b1fd-fa2b-46d1-a8d6-1067e8a19409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 아이돌 팬들 사이에서 대유행?! AI 프로필]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78180</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78180</guid>
+            <pubDate>Tue, 13 Jun 2023 03:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[클릭 한 번이면 내 최애가 ‘만찢녀’로 바뀐다고?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/da8bb60f-2395-4481-bb73-39124e6fd728.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도파민의 끝, 사이렌 언니들 사복 모음]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78173</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 07 Jun 2023 02:24:45 GMT</pubDate>
             <content:encoded><![CDATA[은혜 입은 사람에겐 롤** 선물이 국룰? 이영지, 이국주의 선물 플렉스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/2f3e83ff-a1ee-4783-8c34-335450e0927f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가격만 700억? 블랙핑크의 초럭셔리 전세기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78133</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78133</guid>
-            <pubDate>Mon, 05 Jun 2023 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[멤버들 SNS 속 인증샷에 올라온 그 전세기가 맞다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/4e3fe1ed-7a28-4a8d-91a8-982c32ce187d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나무늘보’ 엄현경, ‘낭또’ 차서원이 결혼한다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78128</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78128</guid>
-            <pubDate>Mon, 05 Jun 2023 08:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 속 이야기가 현실로!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/ffc4a3a2-8bc3-4653-8a10-872826c6b5ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
