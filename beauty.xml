@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 06:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 07:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이석훈이 선택한 다이어트 음식은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78301</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78301</guid>
+            <pubDate>Wed, 14 Jun 2023 07:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[레이디 가가도 ‘000 다이어트’로 14kg을 감량했다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/9b908028-f451-4582-9657-b359967f3473.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일주일이면 목주름 순삭 가능? 박준금 000 시술 후기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78297</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 12 Jun 2023 02:22:31 GMT</pubDate>
             <content:encoded><![CDATA[공기마저 무거운 여름, 젤만큼 쓰기 좋은 텍스처가 있을까? 머리부터 발끝까지 젤이면 다 돼요...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/1f2ed468-01d0-4c0e-a8f0-c0f5c833bcfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하태 하태! 여름 네일 고민이라면?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78178</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78178</guid>
-            <pubDate>Sun, 11 Jun 2023 15:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 여름, 쿨한 네일 아이디어를 원한다면 주목!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/28a2cfe4-c1fe-42f4-9b2d-a6c56347541a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
