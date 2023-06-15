@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-06-15T04:11:21.817Z</updated>
+    <updated>2023-06-15T05:09:37.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나 혼자 쉰다! 혼자서도 쉬기 좋은 프라이빗 힐링 호텔 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78300</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78300"/>
+        <updated>2023-06-15T05:09:27.181Z</updated>
+        <content type="html"><![CDATA[반신욕 가능! 단 하루의 안식처가 될 힐링 스팟.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 여행은 이 곳? 비엔나의 낮과 밤]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78169</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78165"/>
         <updated>2023-06-08T15:09:52.522Z</updated>
         <content type="html"><![CDATA[유행이 아닌, 문화를 좇고 싶은 사람만 입문할 것! 캠핑 유튜버 4인이 들려주는 최고의 캠핑 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집들이 SSAP 가능? 편의점표 한 상 차림]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78151</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78151"/>
-        <updated>2023-06-07T16:11:57.637Z</updated>
-        <content type="html"><![CDATA[애피타이저부터 디저트까지, 이제 편의점에서 풀코스로 즐긴다! 레스토랑 부럽지 않은 편의점표 음...]]></content>
     </entry>
 </feed>
