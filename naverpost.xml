@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 06:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Scent & Softness]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36098628&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36098628&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 15 Jun 2023 06:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 신세경의 일상을 향기롭게 채우는 4가지 뷰티 제스처. ▼ 클릭 ▼ FULL BLOOM러블리하고 감미롭게! 핑크빛 퍼프 블라우스를 입은 신세경의 로맨틱한 모습과 더없이 잘 어울리는 여성스러운 플로럴 향을 찾고 있다···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뻔하지만 재밌다! 
 범죄 도시3 못 참게 만드는 미친 존재감들]]></title>
@@ -157,13 +164,6 @@ BH엔터 워크숍 이모저모]]></title>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35976536&amp;memberNo=11800362</guid>
             <pubDate>Wed, 14 Jun 2023 07:08:19 GMT</pubDate>
             <content:encoded><![CDATA[경기장 밖, 스타들의 블록코어룩을 살펴보자.유니폼이 패션 아이템으로 진화했다?! 축구 유니폼과 일상복을 매치하는 패션인 블록코어룩은 영국에서 ‘녀석’을 뜻하는 속어인 블록(Bloke)과 평범···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가수 제니∙비비가 칸 영화제에 배우로 초대됐다고? (feat. 제니∙뷔 목격담)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35966406&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35966406&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 14 Jun 2023 07:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[가수가 아닌 배우로서 당당히 초대받은 그녀들▼ 클릭 ▼제니, &lt;더 아이돌&gt; 배우로 레드카펫행글로벌 투어다 패션브랜드 행사다 해서 최근 눈코뜰새 없이 바쁜 제니가 이번엔 칸 영화제를 접수한다. 제니는 지난···]]></content:encoded>
         </item>
     </channel>
 </rss>
