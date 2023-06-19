@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-06-19T21:09:09.999Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[베이스 완성은 퍼프로부터! 쫀득 말캉한 요즘 퍼프 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78189</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78189"/>
-        <updated>2023-06-19T11:08:35.952Z</updated>
-        <content type="html"><![CDATA[쫀득하고 말캉해~. 촉감도, 형태도 달라도 너무 다른 요즘 퍼프. 어떤 퍼프를 어떻게 쓰느냐에 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피부 컨디션 최대치로 끌어올리는 화제의 스킨 사이클링]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78174</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78174"/>
-        <updated>2023-06-19T08:12:34.384Z</updated>
-        <content type="html"><![CDATA[핫하다 핫해! 피부 건강을 위한 전략적 스킨케어 루틴, #스킨사이클링이 화제다. 피부 개선과 재...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scent & Softness]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78324</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78324"/>
-        <updated>2023-06-19T04:11:28.432Z</updated>
-        <content type="html"><![CDATA[배우 신세경의 일상을 향기롭게 채우는 4가지 뷰티 제스처.&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[48세 맞아? <닥터 차정숙> 명세빈의 동안 피부 유지 비법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78365</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78365"/>
-        <updated>2023-06-19T04:11:28.434Z</updated>
-        <content type="html"><![CDATA[최승희 교수님이 그토록 아름다웠던 이유!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<환승연애2> 성해은 ‘찐’ 추천! 엉덩이 근육 키우는 00 챌린지]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78362</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78362"/>
-        <updated>2023-06-19T00:48:31.300Z</updated>
-        <content type="html"><![CDATA[주 7회 웨이트한다는 운동마니아 중의 마니아, 해은이 픽한 운동법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀프 홈케어족을 위한 여름 패디큐어 루틴]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78170</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78170"/>
-        <updated>2023-06-18T15:08:26.349Z</updated>
-        <content type="html"><![CDATA[발톱을 드러내야 하는 시즌이 다가왔다. 컬러링을 하기 전, 제대로 된 페디 플래닝으로 케어부터...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4세대 여돌 춤 따라하면서 다이어트하기!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78338</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78338"/>
-        <updated>2023-06-16T03:10:23.171Z</updated>
-        <content type="html"><![CDATA[영상을 틀고 따라하기만 하면 된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름만 되면 올라오는 여드름? 퇴치 솔루션 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78077</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78077"/>
-        <updated>2023-06-15T05:09:01.093Z</updated>
-        <content type="html"><![CDATA[여름만 기다렸건만 이게 웬 갑툭 여드름? 무더위, 흐르는 1톤 땀, 그리고 유전 터진 듯 넘치...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 19 Jun 2023 22:09:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이스 완성은 퍼프로부터! 쫀득 말캉한 요즘 퍼프 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78189</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78189</guid>
+            <pubDate>Mon, 19 Jun 2023 11:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[쫀득하고 말캉해~. 촉감도, 형태도 달라도 너무 다른 요즘 퍼프. 어떤 퍼프를 어떻게 쓰느냐에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/87f2a7d9-e38d-4623-957c-ed043e078f32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피부 컨디션 최대치로 끌어올리는 화제의 스킨 사이클링]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78174</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78174</guid>
+            <pubDate>Mon, 19 Jun 2023 08:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[핫하다 핫해! 피부 건강을 위한 전략적 스킨케어 루틴, #스킨사이클링이 화제다. 피부 개선과 재...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/01d1c252-d15c-444b-b1d8-3fe1890e95ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scent & Softness]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78324</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78324</guid>
+            <pubDate>Mon, 19 Jun 2023 04:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[배우 신세경의 일상을 향기롭게 채우는 4가지 뷰티 제스처.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/7fa66c73-6630-4a98-9553-479ea3ef0c92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[48세 맞아? <닥터 차정숙> 명세빈의 동안 피부 유지 비법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78365</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78365</guid>
+            <pubDate>Mon, 19 Jun 2023 04:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[최승희 교수님이 그토록 아름다웠던 이유!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/c7250859-c8bf-44aa-aeae-e63f0fd5d215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<환승연애2> 성해은 ‘찐’ 추천! 엉덩이 근육 키우는 00 챌린지]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78362</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78362</guid>
+            <pubDate>Mon, 19 Jun 2023 00:48:31 GMT</pubDate>
+            <content:encoded><![CDATA[주 7회 웨이트한다는 운동마니아 중의 마니아, 해은이 픽한 운동법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/e7feb65a-95fd-4e2c-b76a-51a5b5913d06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셀프 홈케어족을 위한 여름 패디큐어 루틴]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78170</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78170</guid>
+            <pubDate>Sun, 18 Jun 2023 15:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[발톱을 드러내야 하는 시즌이 다가왔다. 컬러링을 하기 전, 제대로 된 페디 플래닝으로 케어부터...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/909f6265-7a11-4f6b-b8cb-846332933298.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4세대 여돌 춤 따라하면서 다이어트하기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78338</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78338</guid>
+            <pubDate>Fri, 16 Jun 2023 03:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[영상을 틀고 따라하기만 하면 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/f9694128-e73a-4a8a-bd20-ee766a44857d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름만 되면 올라오는 여드름? 퇴치 솔루션 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78077</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78077</guid>
+            <pubDate>Thu, 15 Jun 2023 05:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[여름만 기다렸건만 이게 웬 갑툭 여드름? 무더위, 흐르는 1톤 땀, 그리고 유전 터진 듯 넘치...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/fe1d03b4-b34b-4231-b0df-3dde5193ecc2.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
