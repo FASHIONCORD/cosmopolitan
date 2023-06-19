@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-06-19T11:09:15.745Z</updated>
+    <updated>2023-06-19T12:18:40.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[터질 것이 터졌다! <범죄도시 3> 이준혁의 매력]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78354</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78354"/>
+        <updated>2023-06-19T12:18:15.580Z</updated>
+        <content type="html"><![CDATA[나 이 오빠 좋아했네? 우리가 이준혁을 좋아할 수밖에 없는 이유.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어차피 주인공은 제니? <디 아이돌>과 마블 캐스팅 논란]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78353</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78202"/>
         <updated>2023-06-13T03:10:06.154Z</updated>
         <content type="html"><![CDATA[우승 상금 3억의 행방까지~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 아이돌 팬들 사이에서 대유행?! AI 프로필]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78180</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78180"/>
-        <updated>2023-06-13T03:10:06.162Z</updated>
-        <content type="html"><![CDATA[클릭 한 번이면 내 최애가 ‘만찢녀’로 바뀐다고?!]]></content>
     </entry>
 </feed>
