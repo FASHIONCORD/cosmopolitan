@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 08:13:10 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[어차피 주인공은 제니? <디 아이돌>과 마블 캐스팅 논란]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78353</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78353</guid>
-            <pubDate>Mon, 19 Jun 2023 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;디 아이돌&gt; 선정성 논란과 마블 합류 소문.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/596379a2-c432-412c-92e2-503708992374.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 신곡 MV에 숨겨진 ‘종현’의 흔적]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78333</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78333</guid>
-            <pubDate>Mon, 19 Jun 2023 02:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘셜록’ 뺨치는 샤이니 월드의 <the feeling=""> MV 해석은?                                    </the>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/a865b1f4-3081-4666-8a58-bda1a9cd8fb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스 아이엠! 임창균 귀여운 거 세상 사람들 다 알게 해주세요.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78325</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78325</guid>
-            <pubDate>Mon, 19 Jun 2023 00:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[나른 섹시 아이엠이 본캐 임짱균으로 변하는 순간!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/dee14690-bc5d-4738-bb3f-332c84ecbffe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 체크 셔츠, 유느님 잠옷 바지? 셀럽의 애착 의상]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78312</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78312</guid>
-            <pubDate>Wed, 14 Jun 2023 07:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[단추 떨어지고 고무줄 늘어나도 편한 게 최고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/65b16d9e-6001-4b7c-ae10-cb263be3ac96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐’ 결혼 바이럴, 이효리♥이상순이 스위스에 간 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78311</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78311</guid>
-            <pubDate>Tue, 13 Jun 2023 10:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[결혼 10주년 기념여행인지? 아니면 화보 촬영 때문?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/4a22aeef-e007-4b33-8a7b-3ad614ce371c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뻔하지만 재밌다! 범죄 도시3 못 참게 만드는 미친 존재감들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78298</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78298</guid>
-            <pubDate>Tue, 13 Jun 2023 10:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[마동석과 존잘러들 그리고 초롱이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/c6cf7e1d-f273-4f8a-895f-4da2864f1b89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고막힐링 주의! 팀 11시, 배너가 푸는 피크타임 비하인드 썰]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78202</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78202</guid>
-            <pubDate>Tue, 13 Jun 2023 03:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[우승 상금 3억의 행방까지~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/e941b1fd-fa2b-46d1-a8d6-1067e8a19409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 아이돌 팬들 사이에서 대유행?! AI 프로필]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78180</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78180</guid>
-            <pubDate>Tue, 13 Jun 2023 03:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[클릭 한 번이면 내 최애가 ‘만찢녀’로 바뀐다고?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/da8bb60f-2395-4481-bb73-39124e6fd728.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-06-19T09:10:26.920Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어차피 주인공은 제니? <디 아이돌>과 마블 캐스팅 논란]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78353</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78353"/>
+        <updated>2023-06-19T06:12:55.741Z</updated>
+        <content type="html"><![CDATA[&lt;디 아이돌&gt; 선정성 논란과 마블 합류 소문.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤이니 신곡 MV에 숨겨진 ‘종현’의 흔적]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78333</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78333"/>
+        <updated>2023-06-19T02:12:51.592Z</updated>
+        <content type="html"><![CDATA[‘셜록’ 뺨치는 샤이니 월드의 <the feeling=""> MV 해석은?                                    </the>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 아이엠! 임창균 귀여운 거 세상 사람들 다 알게 해주세요.]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78325</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78325"/>
+        <updated>2023-06-19T00:48:41.775Z</updated>
+        <content type="html"><![CDATA[나른 섹시 아이엠이 본캐 임짱균으로 변하는 순간!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유 체크 셔츠, 유느님 잠옷 바지? 셀럽의 애착 의상]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78312</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78312"/>
+        <updated>2023-06-14T07:08:49.748Z</updated>
+        <content type="html"><![CDATA[단추 떨어지고 고무줄 늘어나도 편한 게 최고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찐’ 결혼 바이럴, 이효리♥이상순이 스위스에 간 이유]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78311</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78311"/>
+        <updated>2023-06-13T10:10:10.382Z</updated>
+        <content type="html"><![CDATA[결혼 10주년 기념여행인지? 아니면 화보 촬영 때문?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뻔하지만 재밌다! 범죄 도시3 못 참게 만드는 미친 존재감들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78298</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78298"/>
+        <updated>2023-06-13T10:10:10.391Z</updated>
+        <content type="html"><![CDATA[마동석과 존잘러들 그리고 초롱이.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고막힐링 주의! 팀 11시, 배너가 푸는 피크타임 비하인드 썰]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78202</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78202"/>
+        <updated>2023-06-13T03:10:06.154Z</updated>
+        <content type="html"><![CDATA[우승 상금 3억의 행방까지~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 아이돌 팬들 사이에서 대유행?! AI 프로필]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78180</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78180"/>
+        <updated>2023-06-13T03:10:06.162Z</updated>
+        <content type="html"><![CDATA[클릭 한 번이면 내 최애가 ‘만찢녀’로 바뀐다고?!]]></content>
+    </entry>
+</feed>
