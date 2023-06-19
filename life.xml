@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-06-19T02:13:19.987Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[인간극장급 인생예능 최강야구]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78351</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78351"/>
-        <updated>2023-06-19T02:13:10.225Z</updated>
-        <content type="html"><![CDATA[야구를 떠난 팬들은 물론 야.알.못.들까지 야구앓이로 만들어버린 인생 예능 등장, 최강야구.  ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비행기 타고 꽃구경 각! 일본 라벤더 명소 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78332</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78332"/>
-        <updated>2023-06-19T00:49:02.738Z</updated>
-        <content type="html"><![CDATA[일본 여행은 덤! 라벤더 밭에서 인생 샷 남겨볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOZM 핫플 먼저가드림.]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78308</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78308"/>
-        <updated>2023-06-16T03:10:48.158Z</updated>
-        <content type="html"><![CDATA[요즘 핫한 성수부터 익선동까지 장소 불문 출동하는 에디터 브이로그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 혼자 쉰다! 혼자서도 쉬기 좋은 프라이빗 힐링 호텔 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78300</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78300"/>
-        <updated>2023-06-15T05:09:27.181Z</updated>
-        <content type="html"><![CDATA[반신욕 가능! 단 하루의 안식처가 될 힐링 스팟.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 여행은 이 곳? 비엔나의 낮과 밤]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78169</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78169"/>
-        <updated>2023-06-13T10:10:31.375Z</updated>
-        <content type="html"><![CDATA[지금까지 당신이 봤던 비엔나, 그리고 보지 못했던 비엔나. 번쩍이는 클림트, 영롱한 모차르트, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓성비 여행 각! 국내 LCC 항공 꿀팁 총정리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78038</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78038"/>
-        <updated>2023-06-13T10:10:31.377Z</updated>
-        <content type="html"><![CDATA[‘Low-Cost Carrier’의 약자로 일명 ‘저비용 항공사’라 불리는 국내 LCC 항공사들이 국제 노...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 집순이라고? 지금 가야 할 페스티벌 7]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78204</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78204"/>
-        <updated>2023-06-13T03:10:28.605Z</updated>
-        <content type="html"><![CDATA[아직 열대야도 아닌데 이 열기는 어디서 오는 거지? 본격 페스티벌 시즌이 시작됐는데, 집에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와인 초보도 웰컴! 프랑스 대표 빈티지 샴페인, 뵈브 클리코]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78199</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78199"/>
-        <updated>2023-06-12T09:10:54.444Z</updated>
-        <content type="html"><![CDATA[뵈브 클리코의 와인 메이커를 만나다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 19 Jun 2023 03:11:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간극장급 인생예능 최강야구]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78351</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78351</guid>
+            <pubDate>Mon, 19 Jun 2023 02:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[야구를 떠난 팬들은 물론 야.알.못.들까지 야구앓이로 만들어버린 인생 예능 등장, 최강야구.  ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/26becae4-79e5-4bf0-b731-627b71e09fa4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비행기 타고 꽃구경 각! 일본 라벤더 명소 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78332</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78332</guid>
+            <pubDate>Mon, 19 Jun 2023 00:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[일본 여행은 덤! 라벤더 밭에서 인생 샷 남겨볼까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/1f019ec3-d0b3-48d9-8fa4-918f56cb9c68.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOZM 핫플 먼저가드림.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78308</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78308</guid>
+            <pubDate>Fri, 16 Jun 2023 03:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 핫한 성수부터 익선동까지 장소 불문 출동하는 에디터 브이로그]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/48569d08-05f6-46e8-9c19-5e86aab57a32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 혼자 쉰다! 혼자서도 쉬기 좋은 프라이빗 힐링 호텔 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78300</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78300</guid>
+            <pubDate>Thu, 15 Jun 2023 05:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[반신욕 가능! 단 하루의 안식처가 될 힐링 스팟.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/ca459f07-6a60-447d-b297-907a85766e8c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 여행은 이 곳? 비엔나의 낮과 밤]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78169</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78169</guid>
+            <pubDate>Tue, 13 Jun 2023 10:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 당신이 봤던 비엔나, 그리고 보지 못했던 비엔나. 번쩍이는 클림트, 영롱한 모차르트, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/9af30b90-fa04-4bc1-a3c2-409bf40394f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갓성비 여행 각! 국내 LCC 항공 꿀팁 총정리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78038</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78038</guid>
+            <pubDate>Tue, 13 Jun 2023 10:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘Low-Cost Carrier’의 약자로 일명 ‘저비용 항공사’라 불리는 국내 LCC 항공사들이 국제 노...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/de707937-cfda-46ec-9bcc-0bb747ee20e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 집순이라고? 지금 가야 할 페스티벌 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78204</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78204</guid>
+            <pubDate>Tue, 13 Jun 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[아직 열대야도 아닌데 이 열기는 어디서 오는 거지? 본격 페스티벌 시즌이 시작됐는데, 집에서...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/210de092-9527-49de-8478-ca1da06a6b3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와인 초보도 웰컴! 프랑스 대표 빈티지 샴페인, 뵈브 클리코]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78199</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78199</guid>
+            <pubDate>Mon, 12 Jun 2023 09:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[뵈브 클리코의 와인 메이커를 만나다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/7ec9c73a-db54-4074-89be-4cdd6f504190.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
