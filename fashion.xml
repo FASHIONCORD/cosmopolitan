@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 10:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 11:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정수정∙슬기∙수영 등 셀럽 바캉스 룩 5!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78218</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78218</guid>
+            <pubDate>Tue, 20 Jun 2023 11:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[편하지만 센스 있는 바캉스 룩을 연출하고 싶다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/ff8e599e-c66e-4c89-b998-5d75d09f885e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바캉스 룩으로 참고할만한 셀럽 비키니 패션 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78215</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 07 Jun 2023 16:11:18 GMT</pubDate>
             <content:encoded><![CDATA[대담하고 파워풀한 패션의 상징, 컷아웃을 즐기는 5가지 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/4030924c-59be-4611-97f1-172e254ed160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STARS IN SEOUL! 한강 잠수교를 수놓은 빛나는 별들은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77953</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77953</guid>
-            <pubDate>Tue, 06 Jun 2023 16:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[한강 잠수교를 수놓은 빛나는 별들! 루이 비통 최초의 프리폴 쇼에 참석하기 위해 스트레이 키...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/8857e482-1535-4e1a-b4b7-19e7b38db5a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 10:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 11:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78462</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78462</guid>
+            <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 ‘시티포레스티벌 2023’의 기분 좋은 바이브...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4a30e2a2-8c36-4f96-8543-99a685b5916b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나혼산> 김대호 아나운서 단골 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78447</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78447</guid>
+            <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[행주산성 어탕국수부터 약수역 이북식 찜닭까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/28a4f3d4-fe4a-4f2c-86a2-8830af4f1f9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낭만 가득 여름밤, 한옥 스테이 추천]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78445</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 19 Jun 2023 00:49:02 GMT</pubDate>
             <content:encoded><![CDATA[일본 여행은 덤! 라벤더 밭에서 인생 샷 남겨볼까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/1f019ec3-d0b3-48d9-8fa4-918f56cb9c68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOZM 핫플 먼저가드림.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78308</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78308</guid>
-            <pubDate>Fri, 16 Jun 2023 03:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 핫한 성수부터 익선동까지 장소 불문 출동하는 에디터 브이로그]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/48569d08-05f6-46e8-9c19-5e86aab57a32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 혼자 쉰다! 혼자서도 쉬기 좋은 프라이빗 힐링 호텔 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78300</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78300</guid>
-            <pubDate>Thu, 15 Jun 2023 05:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[반신욕 가능! 단 하루의 안식처가 될 힐링 스팟.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/ca459f07-6a60-447d-b297-907a85766e8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
