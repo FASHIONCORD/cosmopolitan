@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 00:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 02:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,6 +389,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/70644</guid>
             <pubDate>Mon, 01 May 2023 11:08:22 GMT</pubDate>
             <content:encoded><![CDATA[세 번 이상 만났는데 아직 썸을 청산하지 못했다? 200% 확신하건대, 장소가 문제다. 고백 각 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/4f679469-bdff-4f59-b9ff-e3a3a58322c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해외에서 데이팅 앱을 써야 하는 6가지 이유 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -396,6 +397,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/68837</guid>
             <pubDate>Mon, 01 May 2023 11:08:22 GMT</pubDate>
             <content:encoded><![CDATA[세계는 넓고 남자는 많다. 해외에서 데이팅 앱을 써야 하는 6가지 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/9572af99-6305-4784-a9e6-85022def7bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘샤넬 코드 컬러 팝업’으로 놀러와! (코스모폴리탄 코리아 ─ 라이프)]]></title>
