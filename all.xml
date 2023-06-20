@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 23:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 00:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,13 @@
             <content:encoded><![CDATA[여름만 기다렸건만 이게 웬 갑툭 여드름? 무더위, 흐르는 1톤 땀, 그리고 유전 터진 듯 넘치...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[48세 맞아? <닥터 차정숙> 명세빈의 동안 피부 유지 비법 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78365</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78365</guid>
+            <pubDate>Mon, 19 Jun 2023 04:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[최승희 교수님이 그토록 아름다웠던 이유!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[터질 것이 터졌다! <범죄도시 3> 이준혁의 매력 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78354</link>
             <guid>https://www.cosmopolitan.co.kr/article/78354</guid>
@@ -333,13 +340,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78298</guid>
             <pubDate>Tue, 13 Jun 2023 10:10:10 GMT</pubDate>
             <content:encoded><![CDATA[마동석과 존잘러들 그리고 초롱이.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고막힐링 주의! 팀 11시, 배너가 푸는 피크타임 비하인드 썰 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78202</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78202</guid>
-            <pubDate>Tue, 13 Jun 2023 03:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[우승 상금 3억의 행방까지~.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
