@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-06-22T03:20:55.689Z</updated>
+    <updated>2023-06-22T04:14:59.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수지♥김우빈∙윤아♥준호! 설렘 포텐 터지는 드라마 주연 조합]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78468</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78468"/>
+        <updated>2023-06-22T04:14:51.095Z</updated>
+        <content type="html"><![CDATA[N번째 호흡을 맞추니 최강 케미는 따놓은 당상!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78462</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78351"/>
         <updated>2023-06-19T02:13:10.225Z</updated>
         <content type="html"><![CDATA[야구를 떠난 팬들은 물론 야.알.못.들까지 야구앓이로 만들어버린 인생 예능 등장, 최강야구.  ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비행기 타고 꽃구경 각! 일본 라벤더 명소 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78332</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78332"/>
-        <updated>2023-06-19T00:49:02.738Z</updated>
-        <content type="html"><![CDATA[일본 여행은 덤! 라벤더 밭에서 인생 샷 남겨볼까?]]></content>
     </entry>
 </feed>

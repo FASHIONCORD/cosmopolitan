@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-06-22T03:20:55.688Z</updated>
+    <updated>2023-06-22T04:14:59.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20kg 벌크업했다가 -17kg? ‘개안남’ 이준혁 다이어트의 전말]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78492</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78492"/>
+        <updated>2023-06-22T04:14:32.961Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오징어게임2’에 ‘더글로리’ OOO이 나온다고요?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78477</id>
@@ -53,12 +59,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78365"/>
         <updated>2023-06-20T00:47:03.171Z</updated>
         <content type="html"><![CDATA[최승희 교수님이 그토록 아름다웠던 이유!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[터질 것이 터졌다! <범죄도시 3> 이준혁의 매력]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78354</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78354"/>
-        <updated>2023-06-19T12:18:15.580Z</updated>
-        <content type="html"><![CDATA[나 이 오빠 좋아했네? 우리가 이준혁을 좋아할 수밖에 없는 이유.]]></content>
     </entry>
 </feed>
