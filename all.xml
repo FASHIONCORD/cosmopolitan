@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 10:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 11:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -221,6 +221,14 @@
             <content:encoded><![CDATA[먼 미래인 줄만 알았는데, 이미 내 곁을 파고든 AI. 패션계에는 어떻게 침투했을까? 정말 AI...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78462</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78462</guid>
+            <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 ‘시티포레스티벌 2023’의 기분 좋은 바이브...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4a30e2a2-8c36-4f96-8543-99a685b5916b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름철 불면증, 이렇게 막을 수 있다 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78450</link>
             <guid>https://www.cosmopolitan.co.kr/article/78450</guid>
@@ -277,18 +285,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/c7250859-c8bf-44aa-aeae-e63f0fd5d215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<환승연애2> 성해은 ‘찐’ 추천! 엉덩이 근육 키우는 00 챌린지 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78362</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78362</guid>
-            <pubDate>Mon, 19 Jun 2023 00:48:31 GMT</pubDate>
-            <content:encoded><![CDATA[주 7회 웨이트한다는 운동마니아 중의 마니아, 해은이 픽한 운동법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/e7feb65a-95fd-4e2c-b76a-51a5b5913d06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[20kg 벌크업했다가 -17kg? ‘개안남’ 이준혁 다이어트의 전말 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78492</link>
             <guid>https://www.cosmopolitan.co.kr/article/78492</guid>
             <pubDate>Thu, 22 Jun 2023 04:14:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/9f40c772-88c3-4a1c-88a2-430ed1742bdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘오징어게임2’에 ‘더글로리’ OOO이 나온다고요? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -296,6 +297,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78477</guid>
             <pubDate>Thu, 22 Jun 2023 02:14:32 GMT</pubDate>
             <content:encoded><![CDATA[초호화 라인업 확정! 넷플릭스 오리지널 시즌2 모음]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/01557a65-44f4-4483-a21b-d3e1605c3846.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수술복 벗어 던진 <낭만닥터 김사부 3> 이신영, 한 층 성숙한 모습 담은 화보 공개 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -303,6 +305,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78458</guid>
             <pubDate>Wed, 21 Jun 2023 07:09:48 GMT</pubDate>
             <content:encoded><![CDATA[지금 청춘 한가운데 선 배우 이신영, 그가 발을 디딘 곳엔 언제나 빛이 드리운다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/9b5df54a-ea7a-4f5e-bd0b-0dbdf4ee1a82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기안84∙곽튜브∙김민경, 그 시절 우리가 당한 학폭 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -310,6 +313,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78469</guid>
             <pubDate>Wed, 21 Jun 2023 04:11:30 GMT</pubDate>
             <content:encoded><![CDATA[연진아, 나 꼭 성공해서 네 이름 부르고 싶었어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/1a59eb8b-c5ca-423b-8c20-b2bf045927c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[월 800? 억 소리 나는 셀렙들의 사교육 열전 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -317,6 +321,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78454</guid>
             <pubDate>Wed, 21 Jun 2023 02:08:27 GMT</pubDate>
             <content:encoded><![CDATA[자식에게 더 주고 싶은 마음은 다들 똑같잖아요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/36ca90aa-50dd-4853-a1cd-384f123fdf20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우월한 2세 비주얼 보장! 최근 득남 소식 알린 셀렙은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -324,6 +329,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78446</guid>
             <pubDate>Tue, 20 Jun 2023 06:13:39 GMT</pubDate>
             <content:encoded><![CDATA[‘아들 바보’ 예약이요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/830cece5-f568-488b-a594-0af68841150e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배가 절대 안 고프다고? 강민경의 갓벽 몸매 유지법 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -331,6 +337,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78444</guid>
             <pubDate>Tue, 20 Jun 2023 03:10:43 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단 아니고 방탄 커피!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/84ebc55d-2cd6-459c-9508-2dc18acc9f2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[48세 맞아? <닥터 차정숙> 명세빈의 동안 피부 유지 비법 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -338,6 +345,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78365</guid>
             <pubDate>Mon, 19 Jun 2023 04:11:28 GMT</pubDate>
             <content:encoded><![CDATA[최승희 교수님이 그토록 아름다웠던 이유!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/c7250859-c8bf-44aa-aeae-e63f0fd5d215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>

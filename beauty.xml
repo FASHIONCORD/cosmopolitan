@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 10:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 11:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78462</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78462</guid>
+            <pubDate>Thu, 22 Jun 2023 11:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 ‘시티포레스티벌 2023’의 기분 좋은 바이브...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4a30e2a2-8c36-4f96-8543-99a685b5916b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름철 불면증, 이렇게 막을 수 있다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78450</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 19 Jun 2023 04:11:28 GMT</pubDate>
             <content:encoded><![CDATA[최승희 교수님이 그토록 아름다웠던 이유!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/c7250859-c8bf-44aa-aeae-e63f0fd5d215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<환승연애2> 성해은 ‘찐’ 추천! 엉덩이 근육 키우는 00 챌린지]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78362</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78362</guid>
-            <pubDate>Mon, 19 Jun 2023 00:48:31 GMT</pubDate>
-            <content:encoded><![CDATA[주 7회 웨이트한다는 운동마니아 중의 마니아, 해은이 픽한 운동법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/e7feb65a-95fd-4e2c-b76a-51a5b5913d06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
