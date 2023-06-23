@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 07:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 08:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,13 @@
             <content:encoded><![CDATA[먼 미래인 줄만 알았는데, 이미 내 곁을 파고든 AI. 패션계에는 어떻게 침투했을까? 정말 AI...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[극강 동안! 2kg 이상 찐 적 없는 미나의 다이어트 꿀팁 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78520</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78520</guid>
+            <pubDate>Fri, 23 Jun 2023 08:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[먹는 것에 진심인 미나가 52세에 52kg을 유지하는 법.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[38kg 감량한 풍자가 다시 다이어트를 시작한 이유? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78470</link>
             <guid>https://www.cosmopolitan.co.kr/article/78470</guid>
@@ -268,18 +275,12 @@
             <content:encoded><![CDATA[핫하다 핫해! 피부 건강을 위한 전략적 스킨케어 루틴, #스킨사이클링이 화제다. 피부 개선과 재...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Scent & Softness (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78324</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78324</guid>
-            <pubDate>Mon, 19 Jun 2023 04:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신세경의 일상을 향기롭게 채우는 4가지 뷰티 제스처.&nbsp;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[찬란하게 빛나는 다섯 청춘, CIX 화보 공개 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78524</link>
             <guid>https://www.cosmopolitan.co.kr/article/78524</guid>
             <pubDate>Fri, 23 Jun 2023 02:26:02 GMT</pubDate>
             <content:encoded><![CDATA[해피 엔딩으로 향하는 CIX라는 이름의 청춘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/292e1aa1-33f7-47a2-83e4-deb745764663.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화려하게 만개하는 렌의 계절 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -287,12 +288,14 @@
             <guid>https://www.cosmopolitan.co.kr/article/78498</guid>
             <pubDate>Fri, 23 Jun 2023 02:26:02 GMT</pubDate>
             <content:encoded><![CDATA[솔로 아티스트로 우뚝 선 렌이 다시 만개하는 계절.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/32f8dc20-4ad0-409d-a1a4-09a4d95bc768.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[20kg 벌크업했다가 -17kg? ‘개안남’ 이준혁 다이어트의 전말 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78492</link>
             <guid>https://www.cosmopolitan.co.kr/article/78492</guid>
             <pubDate>Thu, 22 Jun 2023 04:14:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/9f40c772-88c3-4a1c-88a2-430ed1742bdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘오징어게임2’에 ‘더글로리’ OOO이 나온다고요? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -300,6 +303,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78477</guid>
             <pubDate>Thu, 22 Jun 2023 02:14:32 GMT</pubDate>
             <content:encoded><![CDATA[초호화 라인업 확정! 넷플릭스 오리지널 시즌2 모음]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/01557a65-44f4-4483-a21b-d3e1605c3846.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수술복 벗어 던진 <낭만닥터 김사부 3> 이신영, 한 층 성숙한 모습 담은 화보 공개 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -307,6 +311,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78458</guid>
             <pubDate>Wed, 21 Jun 2023 07:09:48 GMT</pubDate>
             <content:encoded><![CDATA[지금 청춘 한가운데 선 배우 이신영, 그가 발을 디딘 곳엔 언제나 빛이 드리운다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/9b5df54a-ea7a-4f5e-bd0b-0dbdf4ee1a82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기안84∙곽튜브∙김민경, 그 시절 우리가 당한 학폭 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -314,6 +319,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78469</guid>
             <pubDate>Wed, 21 Jun 2023 04:11:30 GMT</pubDate>
             <content:encoded><![CDATA[연진아, 나 꼭 성공해서 네 이름 부르고 싶었어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/1a59eb8b-c5ca-423b-8c20-b2bf045927c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[월 800? 억 소리 나는 셀렙들의 사교육 열전 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -321,6 +327,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78454</guid>
             <pubDate>Wed, 21 Jun 2023 02:08:27 GMT</pubDate>
             <content:encoded><![CDATA[자식에게 더 주고 싶은 마음은 다들 똑같잖아요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/36ca90aa-50dd-4853-a1cd-384f123fdf20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우월한 2세 비주얼 보장! 최근 득남 소식 알린 셀렙은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -328,6 +335,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78446</guid>
             <pubDate>Tue, 20 Jun 2023 06:13:39 GMT</pubDate>
             <content:encoded><![CDATA[‘아들 바보’ 예약이요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/830cece5-f568-488b-a594-0af68841150e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑스에 대한 뒤엉킨 심정 팩트 체크 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -391,7 +399,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78483</guid>
             <pubDate>Thu, 22 Jun 2023 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[바쁘다 바빠 현대사회 하지만 놓칠 수 없는 맛있는 음식들. 차에서도 거뜬히 소화하는 차밥 메...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/91bfc7af-c68c-44aa-b7ae-de7a88d56dee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수지♥김우빈∙윤아♥준호! 설렘 포텐 터지는 드라마 주연 조합 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -399,7 +406,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78468</guid>
             <pubDate>Thu, 22 Jun 2023 04:14:51 GMT</pubDate>
             <content:encoded><![CDATA[N번째 호흡을 맞추니 최강 케미는 따놓은 당상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4ac76ce2-80b4-4f90-a919-63e69fd0ba31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -407,7 +413,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78462</guid>
             <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 ‘시티포레스티벌 2023’의 기분 좋은 바이브...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4a30e2a2-8c36-4f96-8543-99a685b5916b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나혼산> 김대호 아나운서 단골 맛집 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -415,7 +420,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78447</guid>
             <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[행주산성 어탕국수부터 약수역 이북식 찜닭까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/28a4f3d4-fe4a-4f2c-86a2-8830af4f1f9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낭만 가득 여름밤, 한옥 스테이 추천 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -423,7 +427,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78445</guid>
             <pubDate>Tue, 20 Jun 2023 09:10:28 GMT</pubDate>
             <content:encoded><![CDATA[자연 속에서 휴식이 필요하다면, 여름밤 낭만이 더해지는 전통 한옥에서 머무르는 휴가 어때!  ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/9d60d12f-a6e0-41df-a2fb-0911797163c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숙명여대 핫플 등극? <코스모 트레일러> 폼 어떤데! (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -431,7 +434,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78405</guid>
             <pubDate>Tue, 20 Jun 2023 03:11:00 GMT</pubDate>
             <content:encoded><![CDATA[부릉부릉~ 과연 코스모 트레일러의 다음 행선지는 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/78493c39-3780-48ab-80ea-9c24a52530d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘샤넬 코드 컬러 팝업’으로 놀러와! (코스모폴리탄 코리아 ─ 라이프)]]></title>
