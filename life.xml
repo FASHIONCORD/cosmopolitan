@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-06-25T07:10:21.908Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[먹잘알 다비치에게 배우는 차밥 열전]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78483</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78483"/>
-        <updated>2023-06-22T08:12:27.504Z</updated>
-        <content type="html"><![CDATA[바쁘다 바빠 현대사회 하지만 놓칠 수 없는 맛있는 음식들. 차에서도 거뜬히 소화하는 차밥 메...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지♥김우빈∙윤아♥준호! 설렘 포텐 터지는 드라마 주연 조합]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78468</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78468"/>
-        <updated>2023-06-22T04:14:51.095Z</updated>
-        <content type="html"><![CDATA[N번째 호흡을 맞추니 최강 케미는 따놓은 당상!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78462</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78462"/>
-        <updated>2023-06-20T11:08:41.871Z</updated>
-        <content type="html"><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 ‘시티포레스티벌 2023’의 기분 좋은 바이브...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<나혼산> 김대호 아나운서 단골 맛집 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78447</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78447"/>
-        <updated>2023-06-20T11:08:41.873Z</updated>
-        <content type="html"><![CDATA[행주산성 어탕국수부터 약수역 이북식 찜닭까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낭만 가득 여름밤, 한옥 스테이 추천]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78445</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78445"/>
-        <updated>2023-06-20T09:10:28.535Z</updated>
-        <content type="html"><![CDATA[자연 속에서 휴식이 필요하다면, 여름밤 낭만이 더해지는 전통 한옥에서 머무르는 휴가 어때!  ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숙명여대 핫플 등극? <코스모 트레일러> 폼 어떤데!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78405</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78405"/>
-        <updated>2023-06-20T03:11:00.831Z</updated>
-        <content type="html"><![CDATA[부릉부릉~ 과연 코스모 트레일러의 다음 행선지는 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘샤넬 코드 컬러 팝업’으로 놀러와!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78374</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78374"/>
-        <updated>2023-06-19T11:09:04.764Z</updated>
-        <content type="html"><![CDATA[7월, 코덕들의 성지가 될 이 곳을 &lt;코스모&gt;가 미리 스포 합니다. 나만의 컬러를 찾을 수 있는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카메라만 354대? <사이렌: 불의 섬> 입덕 포인트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78352</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78352"/>
-        <updated>2023-06-19T08:13:00.898Z</updated>
-        <content type="html"><![CDATA[지금까지 본 적 없는 여성 서바이벌 예능이 탄생했다!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 25 Jun 2023 08:12:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹잘알 다비치에게 배우는 차밥 열전]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78483</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78483</guid>
+            <pubDate>Thu, 22 Jun 2023 08:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[바쁘다 바빠 현대사회 하지만 놓칠 수 없는 맛있는 음식들. 차에서도 거뜬히 소화하는 차밥 메...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/91bfc7af-c68c-44aa-b7ae-de7a88d56dee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지♥김우빈∙윤아♥준호! 설렘 포텐 터지는 드라마 주연 조합]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78468</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78468</guid>
+            <pubDate>Thu, 22 Jun 2023 04:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[N번째 호흡을 맞추니 최강 케미는 따놓은 당상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4ac76ce2-80b4-4f90-a919-63e69fd0ba31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78462</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78462</guid>
+            <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 ‘시티포레스티벌 2023’의 기분 좋은 바이브...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4a30e2a2-8c36-4f96-8543-99a685b5916b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나혼산> 김대호 아나운서 단골 맛집 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78447</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78447</guid>
+            <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[행주산성 어탕국수부터 약수역 이북식 찜닭까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/28a4f3d4-fe4a-4f2c-86a2-8830af4f1f9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만 가득 여름밤, 한옥 스테이 추천]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78445</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78445</guid>
+            <pubDate>Tue, 20 Jun 2023 09:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[자연 속에서 휴식이 필요하다면, 여름밤 낭만이 더해지는 전통 한옥에서 머무르는 휴가 어때!  ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/9d60d12f-a6e0-41df-a2fb-0911797163c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숙명여대 핫플 등극? <코스모 트레일러> 폼 어떤데!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78405</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78405</guid>
+            <pubDate>Tue, 20 Jun 2023 03:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[부릉부릉~ 과연 코스모 트레일러의 다음 행선지는 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/78493c39-3780-48ab-80ea-9c24a52530d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘샤넬 코드 컬러 팝업’으로 놀러와!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78374</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78374</guid>
+            <pubDate>Mon, 19 Jun 2023 11:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[7월, 코덕들의 성지가 될 이 곳을 &lt;코스모&gt;가 미리 스포 합니다. 나만의 컬러를 찾을 수 있는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/db5ba143-e38c-4953-8785-4f4c25224d5f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카메라만 354대? <사이렌: 불의 섬> 입덕 포인트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78352</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78352</guid>
+            <pubDate>Mon, 19 Jun 2023 08:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 본 적 없는 여성 서바이벌 예능이 탄생했다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/3bc6148d-c40b-4beb-85ca-07f8ad83b636.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
