@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 01:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 02:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -476,6 +476,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/63642</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/aa057e16-327b-41d8-b659-a5b643d33cce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -483,6 +484,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/63099</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/765a3322-7839-4aec-bbe0-4eab080760a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[질투하는 남친이 위험한 이유 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -490,6 +492,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/62775</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계를 찢어 놓으셨다! 2021년 화제의 인물을 골라보자. (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -497,6 +500,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/62402</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[마! 이게 k-셀럽이다! 국뽕을 차오르게 한 &lt;오징어 게임&gt;부터 올림픽까지! 2021년, 그야말로 한국의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/9936bc1a-5f99-49b0-8987-55856559f909.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니멀하고 지속 가능한 뷰티 습관, 클린뷰티 어디까지 알고 있나요? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -504,6 +508,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/61879</guid>
             <pubDate>Mon, 01 May 2023 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[피부와 자연에 이로운 클린 뷰티 라이프! 좋은 원료와 저자극, 지속 가능한 패키지, 동물실험 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/41da32a1-74ba-4410-abb9-e06a48909fb5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
