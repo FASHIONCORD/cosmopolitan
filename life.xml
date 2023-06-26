@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 14:11:14 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여행 경비 걱정은 놉! ‘갓성비’ 국내 여행지 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78518</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78518</guid>
-            <pubDate>Mon, 26 Jun 2023 06:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[가성비 터지는 자연 워터파크는 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/3088d917-b2ea-4d4b-8ae0-514beca45fb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주말 데이트는 여기서! <하트시그널 4>에 나온 데이트 스폿 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78511</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78511</guid>
-            <pubDate>Mon, 26 Jun 2023 06:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[남자 출연진들이 평소 자주 간다는 데이트 장소가 공개됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/66fbf646-eec4-48fc-8782-60431c359da7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹잘알 다비치에게 배우는 차밥 열전]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78483</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78483</guid>
-            <pubDate>Thu, 22 Jun 2023 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[바쁘다 바빠 현대사회 하지만 놓칠 수 없는 맛있는 음식들. 차에서도 거뜬히 소화하는 차밥 메...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/91bfc7af-c68c-44aa-b7ae-de7a88d56dee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지♥김우빈∙윤아♥준호! 설렘 포텐 터지는 드라마 주연 조합]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78468</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78468</guid>
-            <pubDate>Thu, 22 Jun 2023 04:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[N번째 호흡을 맞추니 최강 케미는 따놓은 당상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4ac76ce2-80b4-4f90-a919-63e69fd0ba31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78462</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78462</guid>
-            <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 ‘시티포레스티벌 2023’의 기분 좋은 바이브...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/4a30e2a2-8c36-4f96-8543-99a685b5916b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나혼산> 김대호 아나운서 단골 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78447</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78447</guid>
-            <pubDate>Tue, 20 Jun 2023 11:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[행주산성 어탕국수부터 약수역 이북식 찜닭까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/28a4f3d4-fe4a-4f2c-86a2-8830af4f1f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만 가득 여름밤, 한옥 스테이 추천]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78445</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78445</guid>
-            <pubDate>Tue, 20 Jun 2023 09:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[자연 속에서 휴식이 필요하다면, 여름밤 낭만이 더해지는 전통 한옥에서 머무르는 휴가 어때!  ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/9d60d12f-a6e0-41df-a2fb-0911797163c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숙명여대 핫플 등극? <코스모 트레일러> 폼 어떤데!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78405</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78405</guid>
-            <pubDate>Tue, 20 Jun 2023 03:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[부릉부릉~ 과연 코스모 트레일러의 다음 행선지는 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/78493c39-3780-48ab-80ea-9c24a52530d3.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-06-26T15:12:11.389Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여행 경비 걱정은 놉! ‘갓성비’ 국내 여행지 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78518</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78518"/>
+        <updated>2023-06-26T06:15:33.187Z</updated>
+        <content type="html"><![CDATA[가성비 터지는 자연 워터파크는 어디?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 주말 데이트는 여기서! <하트시그널 4>에 나온 데이트 스폿 6]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78511</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78511"/>
+        <updated>2023-06-26T06:15:33.191Z</updated>
+        <content type="html"><![CDATA[남자 출연진들이 평소 자주 간다는 데이트 장소가 공개됐다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먹잘알 다비치에게 배우는 차밥 열전]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78483</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78483"/>
+        <updated>2023-06-22T08:12:27.504Z</updated>
+        <content type="html"><![CDATA[바쁘다 바빠 현대사회 하지만 놓칠 수 없는 맛있는 음식들. 차에서도 거뜬히 소화하는 차밥 메...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지♥김우빈∙윤아♥준호! 설렘 포텐 터지는 드라마 주연 조합]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78468</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78468"/>
+        <updated>2023-06-22T04:14:51.095Z</updated>
+        <content type="html"><![CDATA[N번째 호흡을 맞추니 최강 케미는 따놓은 당상!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인싸 운동 러버들의 근본 페스티벌, <시포레 2023>의 열기 넘쳤던 현장]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78462</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78462"/>
+        <updated>2023-06-20T11:08:41.871Z</updated>
+        <content type="html"><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 ‘시티포레스티벌 2023’의 기분 좋은 바이브...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<나혼산> 김대호 아나운서 단골 맛집 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78447</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78447"/>
+        <updated>2023-06-20T11:08:41.873Z</updated>
+        <content type="html"><![CDATA[행주산성 어탕국수부터 약수역 이북식 찜닭까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[낭만 가득 여름밤, 한옥 스테이 추천]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78445</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78445"/>
+        <updated>2023-06-20T09:10:28.535Z</updated>
+        <content type="html"><![CDATA[자연 속에서 휴식이 필요하다면, 여름밤 낭만이 더해지는 전통 한옥에서 머무르는 휴가 어때!  ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숙명여대 핫플 등극? <코스모 트레일러> 폼 어떤데!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78405</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78405"/>
+        <updated>2023-06-20T03:11:00.831Z</updated>
+        <content type="html"><![CDATA[부릉부릉~ 과연 코스모 트레일러의 다음 행선지는 어디?]]></content>
+    </entry>
+</feed>
