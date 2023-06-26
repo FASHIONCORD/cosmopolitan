@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 04:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 05:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 피로, 가짜일지도? 가짜 피로 진단표]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78191</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78191</guid>
+            <pubDate>Mon, 26 Jun 2023 05:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[에브리데이 피로를 호소하는 K-직장인들. 그런데 매일 나를 침대로 끌어당기는 피곤함의 정체가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/c5378f8e-3987-49db-bf9d-5d96a8538b53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극강 동안! 2kg 이상 찐 적 없는 미나의 다이어트 꿀팁]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78520</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 19 Jun 2023 11:08:35 GMT</pubDate>
             <content:encoded><![CDATA[쫀득하고 말캉해~. 촉감도, 형태도 달라도 너무 다른 요즘 퍼프. 어떤 퍼프를 어떻게 쓰느냐에 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/87f2a7d9-e38d-4623-957c-ed043e078f32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 컨디션 최대치로 끌어올리는 화제의 스킨 사이클링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78174</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78174</guid>
-            <pubDate>Mon, 19 Jun 2023 08:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[핫하다 핫해! 피부 건강을 위한 전략적 스킨케어 루틴, #스킨사이클링이 화제다. 피부 개선과 재...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/01d1c252-d15c-444b-b1d8-3fe1890e95ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
