@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-06-26T23:10:59.955Z</updated>
+    <updated>2023-06-27T01:01:22.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파이브 가이즈부터 설빙·맘스터치까지 올여름 큰 거 온다!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36153092&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36153092&amp;memberNo=11800362"/>
+        <updated>2023-06-27T01:00:26.956Z</updated>
+        <content type="html"><![CDATA[주문을 부르는 美친 비주얼?! ▼ 클릭 ▼ 파이브 가이즈부터 설빙·맘스터치까지 올여름 큰 거 온다! 주문을 부르는 美친 비주얼?! www.cosmopolitan.co.kr  파이브 가이즈 미국 3대 버거로 유명한 파이브 가이즈가 드디···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팜유 이장우의 사랑, 조혜원은 누구?]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=36153053&amp;memberNo=11800362</id>
@@ -150,13 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36016573&amp;memberNo=11800362"/>
         <updated>2023-06-26T15:10:11.699Z</updated>
         <content type="html"><![CDATA[구구단 출신 배우 조아람의 따라하고 싶은 캐주얼 사복 룩.▼ 클릭 ▼시청률 18%를 넘기며 뜨거운 인기를 얻고 있는 드라마 〈닥터 차정숙〉. 드라마 속 3년차 레지던트인 ‘전소라’역을 맡은 조아람은 사실 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카리나∙제니가 밝힌 
-특별한 몸매 유지 비결?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35996325&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35996325&amp;memberNo=11800362"/>
-        <updated>2023-06-26T15:10:11.703Z</updated>
-        <content type="html"><![CDATA[톱 아이돌은 이 방법을 쓴다? ▼ 클릭 ▼ 카리나∙제니가 밝힌 특별한 몸매 유지 비결? 톱 아이돌은 이 방법을 쓴다? www.cosmopolitan.co.kr  신곡 ‘Spicy’와 함께 썸머걸로 돌아온 카리나와 미국 HBO 드라마 〈디 아이···]]></content>
     </entry>
 </feed>
