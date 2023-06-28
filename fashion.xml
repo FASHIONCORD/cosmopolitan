@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-06-28T01:03:28.810Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[JUMP into Unknown Lands]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78568</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78568"/>
-        <updated>2023-06-27T10:11:18.598Z</updated>
-        <content type="html"><![CDATA[제이에스티나와 함께 떠나는 아이유의 낯선 여행.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나만 안 갔어?’ 브루노마스 콘서트 속 스타들의 패션]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78517</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78517"/>
-        <updated>2023-06-27T06:13:26.417Z</updated>
-        <content type="html"><![CDATA[콘서트의 완성은 패션?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행 룩 손민수 가능! 스위스로 떠난 이효리의 스타일링 법은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78452</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78452"/>
-        <updated>2023-06-26T07:10:15.253Z</updated>
-        <content type="html"><![CDATA[일상룩으로도 쌉가능! 레전더리 패션 아이콘의 룩 어떤데~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멜빵의 시대가 왔다! 셀럽 오버올 패션 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78336</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78336"/>
-        <updated>2023-06-26T06:14:39.450Z</updated>
-        <content type="html"><![CDATA[미미, 허윤진, 웬디의 편한데 귀엽기까지한 오버올 패션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 몰라보게 힙해진 서현 사복패션?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78334</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78334"/>
-        <updated>2023-06-26T05:11:27.017Z</updated>
-        <content type="html"><![CDATA[최근 과감해진 서현의 사복 LOOK 파헤치기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선글라스로 스타일에 강렬함과 파워를 더해라!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78243</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78243"/>
-        <updated>2023-06-22T08:11:31.757Z</updated>
-        <content type="html"><![CDATA[선글라스로 스타일에 강렬함과 파워를 더하라.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정수정∙슬기∙수영 등 셀럽 바캉스 룩 5!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78218</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78218"/>
-        <updated>2023-06-20T11:07:51.245Z</updated>
-        <content type="html"><![CDATA[편하지만 센스 있는 바캉스 룩을 연출하고 싶다면?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바캉스 룩으로 참고할만한 셀럽 비키니 패션 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78215</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78215"/>
-        <updated>2023-06-19T04:11:20.453Z</updated>
-        <content type="html"><![CDATA[미미, 이나연, 장희령이 PICK한 휴양지 비키니 룩!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 28 Jun 2023 02:28:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JUMP into Unknown Lands]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78568</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78568</guid>
+            <pubDate>Tue, 27 Jun 2023 10:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[제이에스티나와 함께 떠나는 아이유의 낯선 여행.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/f79e4f54-e6bf-4484-ae56-237011e496cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘나만 안 갔어?’ 브루노마스 콘서트 속 스타들의 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78517</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78517</guid>
+            <pubDate>Tue, 27 Jun 2023 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[콘서트의 완성은 패션?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/6ca67f4a-732b-4257-89c3-31078fa9ef69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여행 룩 손민수 가능! 스위스로 떠난 이효리의 스타일링 법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78452</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78452</guid>
+            <pubDate>Mon, 26 Jun 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[일상룩으로도 쌉가능! 레전더리 패션 아이콘의 룩 어떤데~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/5cadd9c0-030f-4f5d-8b0b-1e913f50011f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜빵의 시대가 왔다! 셀럽 오버올 패션 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78336</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78336</guid>
+            <pubDate>Mon, 26 Jun 2023 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[미미, 허윤진, 웬디의 편한데 귀엽기까지한 오버올 패션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/04a81138-9f7c-42df-add3-9faa5528a801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 몰라보게 힙해진 서현 사복패션?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78334</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78334</guid>
+            <pubDate>Mon, 26 Jun 2023 05:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[최근 과감해진 서현의 사복 LOOK 파헤치기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/c0ca2a44-d2cd-4a78-9941-6caef3e2e757.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선글라스로 스타일에 강렬함과 파워를 더해라!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78243</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78243</guid>
+            <pubDate>Thu, 22 Jun 2023 08:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[선글라스로 스타일에 강렬함과 파워를 더하라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/34e03644-709f-407d-9830-d06fc7915b40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정수정∙슬기∙수영 등 셀럽 바캉스 룩 5!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78218</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78218</guid>
+            <pubDate>Tue, 20 Jun 2023 11:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[편하지만 센스 있는 바캉스 룩을 연출하고 싶다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/ff8e599e-c66e-4c89-b998-5d75d09f885e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바캉스 룩으로 참고할만한 셀럽 비키니 패션 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78215</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78215</guid>
+            <pubDate>Mon, 19 Jun 2023 04:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[미미, 이나연, 장희령이 PICK한 휴양지 비키니 룩!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/4193366a-cc0b-4883-b5f0-e4231942ea6b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
