@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-06-28T06:14:31.667Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[어느 때보다 강해진 50세의 염정아]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78553</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78553"/>
-        <updated>2023-06-27T10:11:38.402Z</updated>
-        <content type="html"><![CDATA[지난한 20대, 풍요로운 30대, 깊어진 40대를 보내며, 어느 때보다 강해진 50세의 염정아.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러운 여름 소녀로 변신한 배우 김시아 화보 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78583</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78583"/>
-        <updated>2023-06-27T07:10:14.386Z</updated>
-        <content type="html"><![CDATA[여름의 한가운데에서 매일 새로운 꿈을 꾸는 열여섯 살 소녀, 배우 김시아가 그리는 다채로운 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드벨벳 예리, 청담국제고 악녀 변신!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78540</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78540"/>
-        <updated>2023-06-26T08:21:01.320Z</updated>
-        <content type="html"><![CDATA[언제나 하하하 웃고, 할 말은 시원시원하게 한다. 뒤끝 한 끗 남기지 않는 예리, 김예림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 셀렙 실물 영접 가능! 톰 아저씨와 여름의 내한러들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78556</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78556"/>
-        <updated>2023-06-26T05:11:48.958Z</updated>
-        <content type="html"><![CDATA[스크린과 SNS에서만 보던 글로벌 셀럽들 실존 체험 스케줄 잡힘.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멤버들의 TMI를 싸~악 푸는 CIX의 대환장 맛집]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78539</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78539"/>
-        <updated>2023-06-26T00:59:09.941Z</updated>
-        <content type="html"><![CDATA[찐친모드 ON! 혹시 너...T야?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬란하게 빛나는 다섯 청춘, CIX 화보 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78524</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78524"/>
-        <updated>2023-06-23T02:26:02.081Z</updated>
-        <content type="html"><![CDATA[해피 엔딩으로 향하는 CIX라는 이름의 청춘.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려하게 만개하는 렌의 계절]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78498</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78498"/>
-        <updated>2023-06-23T02:26:02.093Z</updated>
-        <content type="html"><![CDATA[솔로 아티스트로 우뚝 선 렌이 다시 만개하는 계절.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20kg 벌크업했다가 -17kg? ‘개안남’ 이준혁 다이어트의 전말]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78492</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78492"/>
-        <updated>2023-06-22T04:14:32.961Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 28 Jun 2023 07:10:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 때보다 강해진 50세의 염정아]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78553</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78553</guid>
+            <pubDate>Tue, 27 Jun 2023 10:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[지난한 20대, 풍요로운 30대, 깊어진 40대를 보내며, 어느 때보다 강해진 50세의 염정아.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/41570d6a-dbbb-4512-8e8c-e403823897fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 여름 소녀로 변신한 배우 김시아 화보 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78583</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78583</guid>
+            <pubDate>Tue, 27 Jun 2023 07:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 한가운데에서 매일 새로운 꿈을 꾸는 열여섯 살 소녀, 배우 김시아가 그리는 다채로운 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/b860cb21-3c50-4bd0-a35d-c0b4b19c9d7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 예리, 청담국제고 악녀 변신!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78540</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78540</guid>
+            <pubDate>Mon, 26 Jun 2023 08:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[언제나 하하하 웃고, 할 말은 시원시원하게 한다. 뒤끝 한 끗 남기지 않는 예리, 김예림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/9d343dd8-9f7e-4aae-9cc4-3371356e3c17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 셀렙 실물 영접 가능! 톰 아저씨와 여름의 내한러들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78556</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78556</guid>
+            <pubDate>Mon, 26 Jun 2023 05:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[스크린과 SNS에서만 보던 글로벌 셀럽들 실존 체험 스케줄 잡힘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/b68a1896-08a5-4477-9c6a-0637af2604e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멤버들의 TMI를 싸~악 푸는 CIX의 대환장 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78539</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78539</guid>
+            <pubDate>Mon, 26 Jun 2023 00:59:09 GMT</pubDate>
+            <content:encoded><![CDATA[찐친모드 ON! 혹시 너...T야?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/5111bdb7-b61a-4b59-a4f8-15b80bf6cd5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬란하게 빛나는 다섯 청춘, CIX 화보 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78524</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78524</guid>
+            <pubDate>Fri, 23 Jun 2023 02:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[해피 엔딩으로 향하는 CIX라는 이름의 청춘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/292e1aa1-33f7-47a2-83e4-deb745764663.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화려하게 만개하는 렌의 계절]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78498</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78498</guid>
+            <pubDate>Fri, 23 Jun 2023 02:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[솔로 아티스트로 우뚝 선 렌이 다시 만개하는 계절.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/32f8dc20-4ad0-409d-a1a4-09a4d95bc768.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20kg 벌크업했다가 -17kg? ‘개안남’ 이준혁 다이어트의 전말]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78492</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78492</guid>
+            <pubDate>Thu, 22 Jun 2023 04:14:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/9f40c772-88c3-4a1c-88a2-430ed1742bdc.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
