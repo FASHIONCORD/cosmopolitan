@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 15:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 16:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니∙장원영∙태연 등 셀럽 썸머 튜브탑 패션 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78655</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78655</guid>
+            <pubDate>Fri, 30 Jun 2023 16:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[힙하면서 시원하기까지한 튜브탑 패션 탐구.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/fd9d7626-31b2-4afe-8cd1-675292d84a8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[의외로 저렴템 많은 한소희의 힙한 올블랙 사복 패션 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78654</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78654</guid>
+            <pubDate>Fri, 30 Jun 2023 16:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 제대로 힙한 한소희 사복룩 파헤치기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/8a15f4d2-acbe-42d3-b1e6-96180730ed80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JUMP into Unknown Lands]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78568</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 22 Jun 2023 08:11:31 GMT</pubDate>
             <content:encoded><![CDATA[선글라스로 스타일에 강렬함과 파워를 더하라.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/34e03644-709f-407d-9830-d06fc7915b40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정수정∙슬기∙수영 등 셀럽 바캉스 룩 5!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78218</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78218</guid>
-            <pubDate>Tue, 20 Jun 2023 11:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[편하지만 센스 있는 바캉스 룩을 연출하고 싶다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/ff8e599e-c66e-4c89-b998-5d75d09f885e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바캉스 룩으로 참고할만한 셀럽 비키니 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78215</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78215</guid>
-            <pubDate>Mon, 19 Jun 2023 04:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[미미, 이나연, 장희령이 PICK한 휴양지 비키니 룩!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/4193366a-cc0b-4883-b5f0-e4231942ea6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
