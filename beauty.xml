@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 05:10:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<환승연애2> 나연이 디톡스하는 법은 따로 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78653</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78653</guid>
-            <pubDate>Fri, 30 Jun 2023 17:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[20kg 감량은 기본이고 유지까지 쌉가능한 운동, 식이, 관리법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/fc62a705-251f-4df8-9a02-58fefab0b3c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뽐뿌 가득! 코스모 인 마이 파우치]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78630</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78630</guid>
-            <pubDate>Tue, 27 Jun 2023 15:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 캐리어 급 파우치를 털어버린 코스모...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/c6d95777-0028-4c92-801c-8d11a69076d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I FEEL BLEU]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78563</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78563</guid>
-            <pubDate>Tue, 27 Jun 2023 09:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[나만의 신념, 가치, 자유 그리고 새로운 것에 대한 도전 정신까지. 자신만의 확고한 취향을 가...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/e02a7c61-0ac1-4d3e-93cb-dfefd721b662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 맨날 20대 같아? 뷰티 내공 만렙 소희의 뷰티 비법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78599</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78599</guid>
-            <pubDate>Mon, 26 Jun 2023 08:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[식단과 운동, 케어까지 다 공개했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/536c27af-a328-4847-8830-316b93468bd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랜트 파워 뿜뿜! 신세계 강남점에 문을 연 신상 핫플의 정체]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78582</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78582</guid>
-            <pubDate>Mon, 26 Jun 2023 07:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[현장 참여 이벤트는 덤~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/fd4c78c7-df5b-4668-bcbe-16e9a72fe3ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 피로, 가짜일지도? 가짜 피로 진단표]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78191</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78191</guid>
-            <pubDate>Mon, 26 Jun 2023 05:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[에브리데이 피로를 호소하는 K-직장인들. 그런데 매일 나를 침대로 끌어당기는 피곤함의 정체가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/c5378f8e-3987-49db-bf9d-5d96a8538b53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극강 동안! 2kg 이상 찐 적 없는 미나의 다이어트 꿀팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78520</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78520</guid>
-            <pubDate>Fri, 23 Jun 2023 08:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[먹는 것에 진심인 미나가 52세에 52kg을 유지하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/aff88c1b-282b-4903-9ca5-628e83d39957.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[38kg 감량한 풍자가 다시 다이어트를 시작한 이유?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78470</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78470</guid>
-            <pubDate>Fri, 23 Jun 2023 02:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[요요 현상으로 인해 체중이 다시 증가해 감량을 결심했다고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/bf7e8d1a-0464-426a-9c7b-73a79691bb05.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-07-01T06:12:55.073Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<환승연애2> 나연이 디톡스하는 법은 따로 있다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78653</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78653"/>
+        <updated>2023-06-30T17:09:29.301Z</updated>
+        <content type="html"><![CDATA[20kg 감량은 기본이고 유지까지 쌉가능한 운동, 식이, 관리법!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뽐뿌 가득! 코스모 인 마이 파우치]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78630</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78630"/>
+        <updated>2023-06-27T15:10:27.082Z</updated>
+        <content type="html"><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 캐리어 급 파우치를 털어버린 코스모...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I FEEL BLEU]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78563</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78563"/>
+        <updated>2023-06-27T09:10:52.876Z</updated>
+        <content type="html"><![CDATA[나만의 신념, 가치, 자유 그리고 새로운 것에 대한 도전 정신까지. 자신만의 확고한 취향을 가...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 맨날 20대 같아? 뷰티 내공 만렙 소희의 뷰티 비법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78599</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78599"/>
+        <updated>2023-06-26T08:20:51.108Z</updated>
+        <content type="html"><![CDATA[식단과 운동, 케어까지 다 공개했다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플랜트 파워 뿜뿜! 신세계 강남점에 문을 연 신상 핫플의 정체]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78582</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78582"/>
+        <updated>2023-06-26T07:10:24.770Z</updated>
+        <content type="html"><![CDATA[현장 참여 이벤트는 덤~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 피로, 가짜일지도? 가짜 피로 진단표]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78191</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78191"/>
+        <updated>2023-06-26T05:11:38.031Z</updated>
+        <content type="html"><![CDATA[에브리데이 피로를 호소하는 K-직장인들. 그런데 매일 나를 침대로 끌어당기는 피곤함의 정체가 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극강 동안! 2kg 이상 찐 적 없는 미나의 다이어트 꿀팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78520</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78520"/>
+        <updated>2023-06-23T08:13:04.694Z</updated>
+        <content type="html"><![CDATA[먹는 것에 진심인 미나가 52세에 52kg을 유지하는 법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38kg 감량한 풍자가 다시 다이어트를 시작한 이유?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78470</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78470"/>
+        <updated>2023-06-23T02:25:53.983Z</updated>
+        <content type="html"><![CDATA[요요 현상으로 인해 체중이 다시 증가해 감량을 결심했다고!]]></content>
+    </entry>
+</feed>
