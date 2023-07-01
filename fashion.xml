@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-07-01T15:10:45.207Z</updated>
+    <updated>2023-07-01T16:12:24.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울에서 열린 루이 비통의 첫 프리폴 패션쇼!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78696</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78696"/>
+        <updated>2023-07-01T16:11:20.273Z</updated>
+        <content type="html"><![CDATA[루이 비통의 비전과 미학으로 물든 서울의 밤.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어트 자극 200%! 켄달 제너의 0000 사진을 전부 모았다!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78661</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78336"/>
         <updated>2023-06-26T06:14:39.450Z</updated>
         <content type="html"><![CDATA[미미, 허윤진, 웬디의 편한데 귀엽기까지한 오버올 패션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 몰라보게 힙해진 서현 사복패션?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78334</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78334"/>
-        <updated>2023-06-26T05:11:27.017Z</updated>
-        <content type="html"><![CDATA[최근 과감해진 서현의 사복 LOOK 파헤치기]]></content>
     </entry>
 </feed>
