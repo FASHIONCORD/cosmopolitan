@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 14:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 15:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파격 of 파격! 스타들의 워터밤 패션 몰아보기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78717</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78717</guid>
+            <pubDate>Sun, 02 Jul 2023 15:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[권은비∙선미∙현아의 핫한 페스티벌 패션은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/af6ab8b3-cd96-47e3-8a44-68ff115940c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에서 열린 루이 비통의 첫 프리폴 패션쇼!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78696</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 26 Jun 2023 07:10:15 GMT</pubDate>
             <content:encoded><![CDATA[일상룩으로도 쌉가능! 레전더리 패션 아이콘의 룩 어떤데~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/5cadd9c0-030f-4f5d-8b0b-1e913f50011f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜빵의 시대가 왔다! 셀럽 오버올 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78336</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78336</guid>
-            <pubDate>Mon, 26 Jun 2023 06:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[미미, 허윤진, 웬디의 편한데 귀엽기까지한 오버올 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/04a81138-9f7c-42df-add3-9faa5528a801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
