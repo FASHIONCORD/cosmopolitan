@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-03T09:11:57.588Z</updated>
+    <updated>2023-07-03T10:11:53.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청순 여리한 크림 치크 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78829</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78829"/>
+        <updated>2023-07-03T10:11:09.235Z</updated>
+        <content type="html"><![CDATA[더울수록 빨갛게 물드는 볼. 초크초크한 크림 치크로 청순 여리 바이브 끌어올렷~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[댕기, 첩지까지? K뷰티를 알리고 있는 슈스들]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78828</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78653"/>
         <updated>2023-06-30T17:09:29.301Z</updated>
         <content type="html"><![CDATA[20kg 감량은 기본이고 유지까지 쌉가능한 운동, 식이, 관리법!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽐뿌 가득! 코스모 인 마이 파우치]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78630</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78630"/>
-        <updated>2023-06-27T15:10:27.082Z</updated>
-        <content type="html"><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 캐리어 급 파우치를 털어버린 코스모...]]></content>
     </entry>
 </feed>
