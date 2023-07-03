@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-07-02T23:09:54.279Z</updated>
+    <updated>2023-07-03T00:56:29.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 회부터 시청률 1위!
+<악귀> 관전 포인트]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36176385&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36176385&amp;memberNo=11800362"/>
+        <updated>2023-07-03T00:55:25.623Z</updated>
+        <content type="html"><![CDATA[너무 무서운데 못 멈추겠다! ▼ 클릭 ▼ 첫 회부터 시청률 1위! &lt;악귀&gt; 관전 포인트 너무 무서운데 못 멈추겠다! www.cosmopolitan.co.kr  관전 포인트 1. 김은희가 꽂힌민속학 기반 한국형 오컬트 〈알쓸인잡〉 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여행 경비 걱정은 놉! 
 ‘갓성비’ 국내 여행지 3]]></title>
@@ -150,13 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36036017&amp;memberNo=11800362"/>
         <updated>2023-07-02T16:10:42.909Z</updated>
         <content type="html"><![CDATA[오늘부터 내 꿈은 너야. ▼ 클릭 ▼ 여름 딱 기다려! 셀렙 중 최강 다이어트 유발자는 누구? 오늘부터 내 꿈은 너야. www.cosmopolitan.co.kr  소유 소유의 최근 SNS 게시물은 갑작스런 폭염과 함께 여름이 다가오고 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[느슨해진 빙수 씬에 긴장감을 줘! 
-색다른 호텔 빙수 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36016931&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36016931&amp;memberNo=11800362"/>
-        <updated>2023-07-02T16:10:42.910Z</updated>
-        <content type="html"><![CDATA[토마토 받고 크로아상까지~! ▼ 클릭 ▼ 느슨해진 빙수 씬에 긴장감을 줘! 색다른 호텔 빙수 3 토마토 받고 크로아상까지~! www.cosmopolitan.co.kr  조선 팰리스, 카라향 빙수 서울에서 맛보는 찐 제주스러운 맛! 1년···]]></content>
     </entry>
 </feed>
