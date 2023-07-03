@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-03T02:26:27.948Z</updated>
+    <updated>2023-07-03T03:22:37.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초여름의 싱그러움이 가득한 6월 뷰티 신상]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78213</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78213"/>
+        <updated>2023-07-03T03:21:58.208Z</updated>
+        <content type="html"><![CDATA[New, Need, Now! 초여름의 싱그러움이 가득한 6월의 뷰티 신상!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남극보다 2배 춥다는 -150도 냉각기계, 크라이오테라피 효과있을까?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78713</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78599"/>
         <updated>2023-06-26T08:20:51.108Z</updated>
         <content type="html"><![CDATA[식단과 운동, 케어까지 다 공개했다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플랜트 파워 뿜뿜! 신세계 강남점에 문을 연 신상 핫플의 정체]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78582</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78582"/>
-        <updated>2023-06-26T07:10:24.770Z</updated>
-        <content type="html"><![CDATA[현장 참여 이벤트는 덤~.]]></content>
     </entry>
 </feed>
