@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-07-04T12:20:22.496Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[제니부터 태연까지! 셀렙들이 선글라스 고르는 특급 비법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78869</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78869"/>
-        <updated>2023-07-04T10:11:46.688Z</updated>
-        <content type="html"><![CDATA[제니, 효연, 슈화는 이렇게 쓴다! 셀렙으로 보는 프레임별 선글라스 스타일링.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비 오는 날에도 패셔너블하게! 신상 장마템4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78866</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78866"/>
-        <updated>2023-07-04T10:11:46.693Z</updated>
-        <content type="html"><![CDATA[장마에 대처하는 가장 완벽한 방법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일리시한 아웃도어 스타일을 완성한 특별한 협업 컬렉션 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78833</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78833"/>
-        <updated>2023-07-04T09:10:34.761Z</updated>
-        <content type="html"><![CDATA[스타일리시한 아웃도어 스타일을 완성할 특별한 협업 컬렉션 4.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월에 오픈한 쏘~핫한 패션 팝업 스토어는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78795</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78795"/>
-        <updated>2023-07-03T16:12:18.579Z</updated>
-        <content type="html"><![CDATA[7월의 핫 이슈 리스트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일리시한 아웃도어 스타일을 완성한 특별한 협업 컬렉션 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78856</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78856"/>
-        <updated>2023-07-03T15:09:49.799Z</updated>
-        <content type="html"><![CDATA[7월의 핫 이슈 리스트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 픽 7월 아이템 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78527</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78527"/>
-        <updated>2023-07-03T02:25:38.913Z</updated>
-        <content type="html"><![CDATA[코스모가 픽한 7월의 아이템.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월의 핫 이슈 리스트는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78777</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78777"/>
-        <updated>2023-07-03T02:25:38.919Z</updated>
-        <content type="html"><![CDATA[7월의 핫 이슈 리스트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파격 of 파격! 스타들의 워터밤 패션 몰아보기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78717</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78717"/>
-        <updated>2023-07-02T15:09:28.843Z</updated>
-        <content type="html"><![CDATA[권은비∙선미∙현아의 핫한 페스티벌 패션은?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 04 Jul 2023 13:22:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니부터 태연까지! 셀렙들이 선글라스 고르는 특급 비법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78869</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78869</guid>
+            <pubDate>Tue, 04 Jul 2023 10:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[제니, 효연, 슈화는 이렇게 쓴다! 셀렙으로 보는 프레임별 선글라스 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ee3ec7d8-2cbb-439d-adef-c6c091bf3704.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비 오는 날에도 패셔너블하게! 신상 장마템4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78866</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78866</guid>
+            <pubDate>Tue, 04 Jul 2023 10:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[장마에 대처하는 가장 완벽한 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/1b7a3489-eb39-4064-b275-11bd2a5f4659.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일리시한 아웃도어 스타일을 완성한 특별한 협업 컬렉션 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78833</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78833</guid>
+            <pubDate>Tue, 04 Jul 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[스타일리시한 아웃도어 스타일을 완성할 특별한 협업 컬렉션 4.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/64819add-dd4b-43db-bf38-6d40c66ae835.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6월에 오픈한 쏘~핫한 패션 팝업 스토어는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78795</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78795</guid>
+            <pubDate>Mon, 03 Jul 2023 16:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[7월의 핫 이슈 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/3cfcf6e3-6acc-4cdb-a6a4-32358186c0fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일리시한 아웃도어 스타일을 완성한 특별한 협업 컬렉션 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78856</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78856</guid>
+            <pubDate>Mon, 03 Jul 2023 15:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[7월의 핫 이슈 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/8b01866e-0784-46ca-b607-53a25fb3dfea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 픽 7월 아이템 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78527</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78527</guid>
+            <pubDate>Mon, 03 Jul 2023 02:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 7월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/f499d16e-801e-45a6-bf8e-8e1c4935fd6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7월의 핫 이슈 리스트는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78777</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78777</guid>
+            <pubDate>Mon, 03 Jul 2023 02:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[7월의 핫 이슈 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/44df3a3e-c0ed-4f22-94d8-2ee0ae2173b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파격 of 파격! 스타들의 워터밤 패션 몰아보기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78717</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78717</guid>
+            <pubDate>Sun, 02 Jul 2023 15:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[권은비∙선미∙현아의 핫한 페스티벌 패션은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/af6ab8b3-cd96-47e3-8a44-68ff115940c6.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
