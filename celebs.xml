@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:12:46 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이거 실화야? 우리를 설레게 한 2세대 아이돌의 솔로 컴백 소식.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78873</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78873</guid>
-            <pubDate>Tue, 04 Jul 2023 10:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[효린, 산다라박, 김성규, 선예가 솔로로 찾아온다고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/4e3bb7e2-9ab0-44e2-acb7-aed4adf8eff9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이다해❤️세븐, 허니제이까지! 셀렙이 선택한 신행지는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78862</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78862</guid>
-            <pubDate>Tue, 04 Jul 2023 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[이 정도면 세계 일주 아닌가요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ab618f90-1a8f-46f2-aa9e-98f91adad3b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 에디터들의 비하인드 썰풀리!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78838</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78838</guid>
-            <pubDate>Tue, 04 Jul 2023 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[에디터가 뽑은 실물 갑 1위 셀렙은 뉴규?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/a0387b32-5929-499a-bfeb-bbb2b0f13323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀엽고 잘생기고 다~하는 이신영의 입덕 경로는 바로 여기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78799</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78799</guid>
-            <pubDate>Tue, 04 Jul 2023 06:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[입구는 있지만 출구는 없음!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/b65546ee-acd3-49b8-9d1e-801fcb9d56cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미모 철벽 이상무! 현업 복귀한 군필 남돌들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78796</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78796</guid>
-            <pubDate>Tue, 04 Jul 2023 02:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[시간이 그들만 피해 간 것 일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/a28ad2dc-3510-4997-b5c6-21e3847979c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조인성의 20년 전 첫사랑? 설렘주의 투샷 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78718</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78718</guid>
-            <pubDate>Mon, 03 Jul 2023 03:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[조인성과 박경림, 이효리와 라이머, 다시 봐도 설렌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/39ff917c-7157-4607-8cea-08aa2d8e278c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 스무살..? '찐'어른이 된 으른녕!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78704</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78704</guid>
-            <pubDate>Mon, 03 Jul 2023 02:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[녕이한테 반하지 말라고? 그거 어떻게 하는 건데…]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/e1375881-a262-4e5c-9982-75da160b5c72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[25kg 감량! 이장우의 신박한 다이어트 루틴]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78665</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78665</guid>
-            <pubDate>Fri, 30 Jun 2023 08:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[듀공 장우에서 배우 장우로 변신?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/cc4d5b2b-30a0-4ab2-814c-e47e53a41571.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-07-05T06:14:34.968Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핫 아이돌 총출동?! 샤넬 코드 컬러 팝업 최초공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78900</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78900"/>
+        <updated>2023-07-05T06:14:10.858Z</updated>
+        <content type="html"><![CDATA[세븐틴 호시부터 뉴진스 민지, 아이브 이서, 몬엑 주헌까지~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이거 실화야? 우리를 설레게 한 2세대 아이돌의 솔로 컴백 소식.]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78873</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78873"/>
+        <updated>2023-07-04T10:12:06.898Z</updated>
+        <content type="html"><![CDATA[효린, 산다라박, 김성규, 선예가 솔로로 찾아온다고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이다해❤️세븐, 허니제이까지! 셀렙이 선택한 신행지는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78862</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78862"/>
+        <updated>2023-07-04T09:10:51.155Z</updated>
+        <content type="html"><![CDATA[이 정도면 세계 일주 아닌가요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스모 에디터들의 비하인드 썰풀리!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78838</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78838"/>
+        <updated>2023-07-04T09:10:51.156Z</updated>
+        <content type="html"><![CDATA[에디터가 뽑은 실물 갑 1위 셀렙은 뉴규?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀엽고 잘생기고 다~하는 이신영의 입덕 경로는 바로 여기!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78799</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78799"/>
+        <updated>2023-07-04T06:13:57.805Z</updated>
+        <content type="html"><![CDATA[입구는 있지만 출구는 없음!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미모 철벽 이상무! 현업 복귀한 군필 남돌들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78796</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78796"/>
+        <updated>2023-07-04T02:27:19.912Z</updated>
+        <content type="html"><![CDATA[시간이 그들만 피해 간 것 일까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조인성의 20년 전 첫사랑? 설렘주의 투샷 모음]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78718</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78718"/>
+        <updated>2023-07-03T03:22:06.627Z</updated>
+        <content type="html"><![CDATA[조인성과 박경림, 이효리와 라이머, 다시 봐도 설렌다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벌써 스무살..? '찐'어른이 된 으른녕!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78704</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78704"/>
+        <updated>2023-07-03T02:25:57.298Z</updated>
+        <content type="html"><![CDATA[녕이한테 반하지 말라고? 그거 어떻게 하는 건데…]]></content>
+    </entry>
+</feed>
