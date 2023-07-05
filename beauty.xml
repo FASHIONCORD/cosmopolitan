@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 14:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 15:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫 아이돌 총출동?! 샤넬 코드 컬러 팝업 최초공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78900</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78900</guid>
+            <pubDate>Wed, 05 Jul 2023 15:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 호시부터 뉴진스 민지, 아이브 이서, 몬엑 주헌까지~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/8922a18d-888a-413c-9505-22d684e339df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱그러운 여름 향수 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78832</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Jul 2023 10:11:09 GMT</pubDate>
             <content:encoded><![CDATA[더울수록 빨갛게 물드는 볼. 초크초크한 크림 치크로 청순 여리 바이브 끌어올렷~.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/8a2821de-df0c-46ad-9e4f-b528f017b774.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댕기, 첩지까지? K뷰티를 알리고 있는 슈스들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78828</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78828</guid>
-            <pubDate>Mon, 03 Jul 2023 07:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 미를 세계로! 댕기, 첩지 등 한국 전통 장신구에서 모티브를 얻은 헤어스타일을 선보이며...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/3ed03c91-3315-41a0-b90a-67dad433a938.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
