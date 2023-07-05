@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-05T06:14:34.966Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[엔조이커플 임라라, 보조제없이 두달만에 9kg 감량했다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78878</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78878"/>
-        <updated>2023-07-04T15:10:47.531Z</updated>
-        <content type="html"><![CDATA[이렇게만 하면 60kg에서 51kg가 될 수 있다는데!?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필터 없이 예뻐지기 가능! 셀카력 올려주는 뷰티 유튜버 메이크업]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78877</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78877"/>
-        <updated>2023-07-04T10:11:56.215Z</updated>
-        <content type="html"><![CDATA[무보정으로 여신샷 가능한 현.실.적.인 메이크업 팁을 알려준다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연∙최준희∙주양. 그녀들의 다이어트 비법 속 숨은 간식 찾기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78871</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78871"/>
-        <updated>2023-07-04T02:27:08.589Z</updated>
-        <content type="html"><![CDATA[다이어트는 누구나 힘들고 괴롭다. 특히 간식 앞에서는 못참지! 몸매를 위해 끊임없이 노력하는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가성비 탑인데 효과도 굿? 이나연의 000 마사지 꿀팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78868</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78868"/>
-        <updated>2023-07-03T17:10:30.819Z</updated>
-        <content type="html"><![CDATA[머리부터 쇄골까지 셀카존 예뻐지는 방법!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청순 여리한 크림 치크 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78829</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78829"/>
-        <updated>2023-07-03T10:11:09.235Z</updated>
-        <content type="html"><![CDATA[더울수록 빨갛게 물드는 볼. 초크초크한 크림 치크로 청순 여리 바이브 끌어올렷~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댕기, 첩지까지? K뷰티를 알리고 있는 슈스들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78828</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78828"/>
-        <updated>2023-07-03T07:10:06.375Z</updated>
-        <content type="html"><![CDATA[한국의 미를 세계로! 댕기, 첩지 등 한국 전통 장신구에서 모티브를 얻은 헤어스타일을 선보이며...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 픽 7월 아이템 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78527</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78527"/>
-        <updated>2023-07-03T07:10:06.379Z</updated>
-        <content type="html"><![CDATA[코스모가 픽한 7월의 아이템.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초여름의 싱그러움이 가득한 6월 뷰티 신상]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78213</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78213"/>
-        <updated>2023-07-03T03:21:58.208Z</updated>
-        <content type="html"><![CDATA[New, Need, Now! 초여름의 싱그러움이 가득한 6월의 뷰티 신상!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Jul 2023 07:12:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문가영∙유이∙신세경의 복근 만들기 비법?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78892</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78892</guid>
+            <pubDate>Wed, 05 Jul 2023 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[말리지 마, 나 운동할 거야!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/f1d54d84-03e0-430a-ba26-acf339b447d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔조이커플 임라라, 보조제없이 두달만에 9kg 감량했다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78878</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78878</guid>
+            <pubDate>Tue, 04 Jul 2023 15:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게만 하면 60kg에서 51kg가 될 수 있다는데!?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ee508a84-b306-42dc-b894-03d48458b52d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필터 없이 예뻐지기 가능! 셀카력 올려주는 뷰티 유튜버 메이크업]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78877</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78877</guid>
+            <pubDate>Tue, 04 Jul 2023 10:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[무보정으로 여신샷 가능한 현.실.적.인 메이크업 팁을 알려준다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ea7fb7cf-10f0-4ae0-ae41-c7092ed95319.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임지연∙최준희∙주양. 그녀들의 다이어트 비법 속 숨은 간식 찾기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78871</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78871</guid>
+            <pubDate>Tue, 04 Jul 2023 02:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트는 누구나 힘들고 괴롭다. 특히 간식 앞에서는 못참지! 몸매를 위해 끊임없이 노력하는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/5736fcc1-66dc-4a17-b570-ccfccda6c8a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가성비 탑인데 효과도 굿? 이나연의 000 마사지 꿀팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78868</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78868</guid>
+            <pubDate>Mon, 03 Jul 2023 17:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[머리부터 쇄골까지 셀카존 예뻐지는 방법!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/98076536-124c-4ba5-8fff-43dbd545ff0b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청순 여리한 크림 치크 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78829</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78829</guid>
+            <pubDate>Mon, 03 Jul 2023 10:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[더울수록 빨갛게 물드는 볼. 초크초크한 크림 치크로 청순 여리 바이브 끌어올렷~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/8a2821de-df0c-46ad-9e4f-b528f017b774.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댕기, 첩지까지? K뷰티를 알리고 있는 슈스들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78828</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78828</guid>
+            <pubDate>Mon, 03 Jul 2023 07:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 미를 세계로! 댕기, 첩지 등 한국 전통 장신구에서 모티브를 얻은 헤어스타일을 선보이며...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/3ed03c91-3315-41a0-b90a-67dad433a938.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 픽 7월 아이템 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78527</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78527</guid>
+            <pubDate>Mon, 03 Jul 2023 07:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 7월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/f499d16e-801e-45a6-bf8e-8e1c4935fd6c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
