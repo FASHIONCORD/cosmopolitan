@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 00:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 02:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 생각하는 여름은 무엇인가요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78864</guid>
+            <pubDate>Wed, 05 Jul 2023 02:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[고이고이 접어 오래도록 담아두고 싶은 여름 내음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/2570e77a-b861-4474-a2f4-8569cc81f289.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트민녀 인증! 김나영이 방문한 제주 핫 스폿은 어디?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78872</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Jul 2023 02:26:18 GMT</pubDate>
             <content:encoded><![CDATA[소고기 수육은 때려야지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/352e92ca-d73e-42a5-a137-7f87bb3d2dbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폼 미쳤다! 물 폭탄 터지는 여름 워터 축제 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78722</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78722</guid>
-            <pubDate>Mon, 03 Jul 2023 02:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[워터밤부터 물 만난 놀이공원?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/34e97008-13b2-43de-9092-59d337ead6c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
