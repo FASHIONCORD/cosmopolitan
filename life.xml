@@ -4,16 +4,22 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 02:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 03:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 김연아가 방문한 이탈리아 명품 카페는 어디?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78922</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78922</guid>
+            <pubDate>Thu, 06 Jul 2023 03:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[이탈리아 휴양지에 자리 잡은 ‘디올 카페’의 아우라~.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인증샷 각! 수지가 직접 찾아간 런던 핫플 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78919</link>
             <guid>https://www.cosmopolitan.co.kr/article/78919</guid>
             <pubDate>Wed, 05 Jul 2023 15:11:37 GMT</pubDate>
             <content:encoded><![CDATA[영국 러버♥ 수지의 런던 여행 스폿은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/9dbdd273-3508-4202-95f9-cb38b662fa96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신이 생각하는 여름은 무엇인가요?]]></title>
@@ -62,14 +68,6 @@
             <pubDate>Mon, 03 Jul 2023 17:11:06 GMT</pubDate>
             <content:encoded><![CDATA[얼음을 꼭 장전할 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/6779a85c-7b0f-4fe0-b7ca-eeac55d07cd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 회부터 시청률 1위! <악귀> 관전 포인트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78782</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78782</guid>
-            <pubDate>Mon, 03 Jul 2023 03:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[너무 무서운데 못 멈추겠다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/34e32df2-9787-442c-9412-47e8e94e7638.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
