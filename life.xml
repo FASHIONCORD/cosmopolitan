@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-06T09:11:45.210Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[최근 김연아가 방문한 이탈리아 명품 카페는 어디?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78922</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78922"/>
-        <updated>2023-07-06T03:25:54.031Z</updated>
-        <content type="html"><![CDATA[이탈리아 휴양지에 자리 잡은 ‘디올 카페’의 아우라~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인증샷 각! 수지가 직접 찾아간 런던 핫플 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78919</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78919"/>
-        <updated>2023-07-05T15:11:37.879Z</updated>
-        <content type="html"><![CDATA[영국 러버♥ 수지의 런던 여행 스폿은 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 생각하는 여름은 무엇인가요?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78864</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78864"/>
-        <updated>2023-07-05T02:26:57.885Z</updated>
-        <content type="html"><![CDATA[고이고이 접어 오래도록 담아두고 싶은 여름 내음.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트민녀 인증! 김나영이 방문한 제주 핫 스폿은 어디?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78872</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78872"/>
-        <updated>2023-07-04T15:11:14.023Z</updated>
-        <content type="html"><![CDATA[숙소부터 식당, 관광지 다 알려DREAM.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 에디터가 뽑은 이 달의 신간3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78867</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78867"/>
-        <updated>2023-07-04T10:12:29.991Z</updated>
-        <content type="html"><![CDATA[각자의 방식으로 세상을 뚜벅뚜벅 걸어 나가는 여성들의 이야기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장마철에 딱! 센치해진 마음 달래는 전시3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78865</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78865"/>
-        <updated>2023-07-04T09:11:07.788Z</updated>
-        <content type="html"><![CDATA[장마로 센치해진 마음 달래는 3개의 전시.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이다해❤️세븐, 허니제이까지! 셀렙이 선택한 신행지는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78862</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78862"/>
-        <updated>2023-07-04T09:11:07.797Z</updated>
-        <content type="html"><![CDATA[이 정도면 세계 일주 아닌가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5분 컷 여름 찐 맛, ‘편의점 냉면’ 추천해DREAM]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78797</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78797"/>
-        <updated>2023-07-03T17:11:06.766Z</updated>
-        <content type="html"><![CDATA[얼음을 꼭 장전할 것!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Jul 2023 10:12:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 김연아가 방문한 이탈리아 명품 카페는 어디?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78922</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78922</guid>
+            <pubDate>Thu, 06 Jul 2023 03:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[이탈리아 휴양지에 자리 잡은 ‘디올 카페’의 아우라~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/cc9a5691-27b4-42fc-bd81-b4dc42f0dac1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인증샷 각! 수지가 직접 찾아간 런던 핫플 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78919</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78919</guid>
+            <pubDate>Wed, 05 Jul 2023 15:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[영국 러버♥ 수지의 런던 여행 스폿은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/9dbdd273-3508-4202-95f9-cb38b662fa96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 생각하는 여름은 무엇인가요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78864</guid>
+            <pubDate>Wed, 05 Jul 2023 02:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[고이고이 접어 오래도록 담아두고 싶은 여름 내음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/2570e77a-b861-4474-a2f4-8569cc81f289.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트민녀 인증! 김나영이 방문한 제주 핫 스폿은 어디?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78872</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78872</guid>
+            <pubDate>Tue, 04 Jul 2023 15:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[숙소부터 식당, 관광지 다 알려DREAM.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/1b361707-4c13-42fb-8d79-ad3e601e98cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 에디터가 뽑은 이 달의 신간3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78867</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78867</guid>
+            <pubDate>Tue, 04 Jul 2023 10:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[각자의 방식으로 세상을 뚜벅뚜벅 걸어 나가는 여성들의 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/9429e856-b870-488d-a0db-9bd714cb0d2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장마철에 딱! 센치해진 마음 달래는 전시3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78865</guid>
+            <pubDate>Tue, 04 Jul 2023 09:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[장마로 센치해진 마음 달래는 3개의 전시.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/036d70c6-5bd1-46db-a428-e8f8092d7054.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이다해❤️세븐, 허니제이까지! 셀렙이 선택한 신행지는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78862</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78862</guid>
+            <pubDate>Tue, 04 Jul 2023 09:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도면 세계 일주 아닌가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ab618f90-1a8f-46f2-aa9e-98f91adad3b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5분 컷 여름 찐 맛, ‘편의점 냉면’ 추천해DREAM]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78797</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78797</guid>
+            <pubDate>Mon, 03 Jul 2023 17:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[얼음을 꼭 장전할 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/6779a85c-7b0f-4fe0-b7ca-eeac55d07cd3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
