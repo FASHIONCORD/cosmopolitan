@@ -1,64 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-06T21:11:25.453Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[<범죄 도시 3> 초롱이가 00먹고 25kg를 뺐다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78925</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78925"/>
-        <updated>2023-07-06T15:11:13.935Z</updated>
-        <content type="html"><![CDATA[바나나의 위력은 실로 대단하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핫 아이돌 총출동?! 샤넬 코드 컬러 팝업 최초공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78900</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78900"/>
-        <updated>2023-07-05T15:10:58.587Z</updated>
-        <content type="html"><![CDATA[세븐틴 호시부터 뉴진스 민지, 아이브 이서, 몬엑 주헌까지~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱그러운 여름 향수 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78832</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78832"/>
-        <updated>2023-07-05T10:12:03.441Z</updated>
-        <content type="html"><![CDATA[코끝에서 싱그러운 여름을 떠오르게 하는 향기 모음.ZIP.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영∙유이∙신세경의 복근 만들기 비법?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78892</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78892"/>
-        <updated>2023-07-05T07:12:00.462Z</updated>
-        <content type="html"><![CDATA[말리지 마, 나 운동할 거야!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔조이커플 임라라, 보조제없이 두달만에 9kg 감량했다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78878</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78878"/>
-        <updated>2023-07-04T15:10:47.531Z</updated>
-        <content type="html"><![CDATA[이렇게만 하면 60kg에서 51kg가 될 수 있다는데!?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필터 없이 예뻐지기 가능! 셀카력 올려주는 뷰티 유튜버 메이크업]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78877</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78877"/>
-        <updated>2023-07-04T10:11:56.215Z</updated>
-        <content type="html"><![CDATA[무보정으로 여신샷 가능한 현.실.적.인 메이크업 팁을 알려준다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연∙최준희∙주양. 그녀들의 다이어트 비법 속 숨은 간식 찾기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78871</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78871"/>
-        <updated>2023-07-04T02:27:08.589Z</updated>
-        <content type="html"><![CDATA[다이어트는 누구나 힘들고 괴롭다. 특히 간식 앞에서는 못참지! 몸매를 위해 끊임없이 노력하는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가성비 탑인데 효과도 굿? 이나연의 000 마사지 꿀팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78868</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78868"/>
-        <updated>2023-07-03T17:10:30.819Z</updated>
-        <content type="html"><![CDATA[머리부터 쇄골까지 셀카존 예뻐지는 방법!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Jul 2023 22:10:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<범죄 도시 3> 초롱이가 00먹고 25kg를 뺐다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78925</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78925</guid>
+            <pubDate>Thu, 06 Jul 2023 15:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[바나나의 위력은 실로 대단하다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[핫 아이돌 총출동?! 샤넬 코드 컬러 팝업 최초공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78900</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78900</guid>
+            <pubDate>Wed, 05 Jul 2023 15:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 호시부터 뉴진스 민지, 아이브 이서, 몬엑 주헌까지~.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싱그러운 여름 향수 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78832</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78832</guid>
+            <pubDate>Wed, 05 Jul 2023 10:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[코끝에서 싱그러운 여름을 떠오르게 하는 향기 모음.ZIP.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문가영∙유이∙신세경의 복근 만들기 비법?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78892</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78892</guid>
+            <pubDate>Wed, 05 Jul 2023 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[말리지 마, 나 운동할 거야!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/f1d54d84-03e0-430a-ba26-acf339b447d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔조이커플 임라라, 보조제없이 두달만에 9kg 감량했다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78878</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78878</guid>
+            <pubDate>Tue, 04 Jul 2023 15:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게만 하면 60kg에서 51kg가 될 수 있다는데!?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ee508a84-b306-42dc-b894-03d48458b52d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필터 없이 예뻐지기 가능! 셀카력 올려주는 뷰티 유튜버 메이크업]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78877</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78877</guid>
+            <pubDate>Tue, 04 Jul 2023 10:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[무보정으로 여신샷 가능한 현.실.적.인 메이크업 팁을 알려준다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ea7fb7cf-10f0-4ae0-ae41-c7092ed95319.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임지연∙최준희∙주양. 그녀들의 다이어트 비법 속 숨은 간식 찾기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78871</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78871</guid>
+            <pubDate>Tue, 04 Jul 2023 02:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트는 누구나 힘들고 괴롭다. 특히 간식 앞에서는 못참지! 몸매를 위해 끊임없이 노력하는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/5736fcc1-66dc-4a17-b570-ccfccda6c8a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가성비 탑인데 효과도 굿? 이나연의 000 마사지 꿀팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78868</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78868</guid>
+            <pubDate>Mon, 03 Jul 2023 17:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[머리부터 쇄골까지 셀카존 예뻐지는 방법!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/98076536-124c-4ba5-8fff-43dbd545ff0b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
