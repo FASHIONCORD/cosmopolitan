@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-07T16:13:51.139Z</updated>
+    <updated>2023-07-07T17:10:13.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워터프루프 메이크업 순삭! 오일 클렌저 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78898</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78898"/>
+        <updated>2023-07-07T17:09:31.273Z</updated>
+        <content type="html"><![CDATA[물에도 땀에도 지워지지 않는 막강 지속력의 워터프루프 메이크업, 어떻게 지우냐고? 세정력 만...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<범죄 도시 3> 초롱이가 00먹고 25kg를 뺐다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78925</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78871"/>
         <updated>2023-07-04T02:27:08.589Z</updated>
         <content type="html"><![CDATA[다이어트는 누구나 힘들고 괴롭다. 특히 간식 앞에서는 못참지! 몸매를 위해 끊임없이 노력하는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가성비 탑인데 효과도 굿? 이나연의 000 마사지 꿀팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78868</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78868"/>
-        <updated>2023-07-03T17:10:30.819Z</updated>
-        <content type="html"><![CDATA[머리부터 쇄골까지 셀카존 예뻐지는 방법!]]></content>
     </entry>
 </feed>

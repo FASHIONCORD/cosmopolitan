@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 16:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 17:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,7 +167,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78680</guid>
             <pubDate>Wed, 05 Jul 2023 15:10:47 GMT</pubDate>
             <content:encoded><![CDATA[스윔웨어 룩을 스타일리시하게 완성해줄 7가지 스타일 메이트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/89c5c63d-e397-4817-81b2-3cd1a75deb97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니부터 태연까지! 셀렙들이 선글라스 고르는 특급 비법 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -175,7 +174,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78869</guid>
             <pubDate>Tue, 04 Jul 2023 10:11:46 GMT</pubDate>
             <content:encoded><![CDATA[제니, 효연, 슈화는 이렇게 쓴다! 셀렙으로 보는 프레임별 선글라스 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ee3ec7d8-2cbb-439d-adef-c6c091bf3704.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비 오는 날에도 패셔너블하게! 신상 장마템4 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -183,7 +181,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78866</guid>
             <pubDate>Tue, 04 Jul 2023 10:11:46 GMT</pubDate>
             <content:encoded><![CDATA[장마에 대처하는 가장 완벽한 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/1b7a3489-eb39-4064-b275-11bd2a5f4659.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타일리시한 아웃도어 스타일을 완성한 특별한 협업 컬렉션 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -191,7 +188,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78833</guid>
             <pubDate>Tue, 04 Jul 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[스타일리시한 아웃도어 스타일을 완성할 특별한 협업 컬렉션 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/64819add-dd4b-43db-bf38-6d40c66ae835.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월에 오픈한 쏘~핫한 패션 팝업 스토어는? (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -199,7 +195,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78795</guid>
             <pubDate>Mon, 03 Jul 2023 16:12:18 GMT</pubDate>
             <content:encoded><![CDATA[7월의 핫 이슈 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/3cfcf6e3-6acc-4cdb-a6a4-32358186c0fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타일리시한 아웃도어 스타일을 완성한 특별한 협업 컬렉션 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -207,7 +202,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78856</guid>
             <pubDate>Mon, 03 Jul 2023 15:09:49 GMT</pubDate>
             <content:encoded><![CDATA[7월의 핫 이슈 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/8b01866e-0784-46ca-b607-53a25fb3dfea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스모 픽 7월 아이템 3 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -215,7 +209,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78527</guid>
             <pubDate>Mon, 03 Jul 2023 02:25:38 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 7월의 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/f499d16e-801e-45a6-bf8e-8e1c4935fd6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7월의 핫 이슈 리스트는? (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -223,7 +216,13 @@
             <guid>https://www.cosmopolitan.co.kr/article/78777</guid>
             <pubDate>Mon, 03 Jul 2023 02:25:38 GMT</pubDate>
             <content:encoded><![CDATA[7월의 핫 이슈 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/44df3a3e-c0ed-4f22-94d8-2ee0ae2173b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워터프루프 메이크업 순삭! 오일 클렌저 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78898</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78898</guid>
+            <pubDate>Fri, 07 Jul 2023 17:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[물에도 땀에도 지워지지 않는 막강 지속력의 워터프루프 메이크업, 어떻게 지우냐고? 세정력 만...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<범죄 도시 3> 초롱이가 00먹고 25kg를 뺐다고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -273,13 +272,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78871</guid>
             <pubDate>Tue, 04 Jul 2023 02:27:08 GMT</pubDate>
             <content:encoded><![CDATA[다이어트는 누구나 힘들고 괴롭다. 특히 간식 앞에서는 못참지! 몸매를 위해 끊임없이 노력하는 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가성비 탑인데 효과도 굿? 이나연의 000 마사지 꿀팁 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78868</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78868</guid>
-            <pubDate>Mon, 03 Jul 2023 17:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[머리부터 쇄골까지 셀카존 예뻐지는 방법!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤아♥준호 <킹더랜드>에서 찾은 열애 모먼트? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -399,6 +391,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78924</guid>
             <pubDate>Thu, 06 Jul 2023 15:11:40 GMT</pubDate>
             <content:encoded><![CDATA[요알못도 주방에 서게 만드는 마성의 아이템들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/85fba2a2-0d2c-480d-bbdc-23f1afc87d9a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최근 김연아가 방문한 이탈리아 명품 카페는 어디? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -406,6 +399,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78922</guid>
             <pubDate>Thu, 06 Jul 2023 03:25:54 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 휴양지에 자리 잡은 ‘디올 카페’의 아우라~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/cc9a5691-27b4-42fc-bd81-b4dc42f0dac1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인증샷 각! 수지가 직접 찾아간 런던 핫플 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -413,6 +407,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78919</guid>
             <pubDate>Wed, 05 Jul 2023 15:11:37 GMT</pubDate>
             <content:encoded><![CDATA[영국 러버♥ 수지의 런던 여행 스폿은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/9dbdd273-3508-4202-95f9-cb38b662fa96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신이 생각하는 여름은 무엇인가요? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -420,6 +415,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78864</guid>
             <pubDate>Wed, 05 Jul 2023 02:26:57 GMT</pubDate>
             <content:encoded><![CDATA[고이고이 접어 오래도록 담아두고 싶은 여름 내음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/2570e77a-b861-4474-a2f4-8569cc81f289.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트민녀 인증! 김나영이 방문한 제주 핫 스폿은 어디? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -427,6 +423,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78872</guid>
             <pubDate>Tue, 04 Jul 2023 15:11:14 GMT</pubDate>
             <content:encoded><![CDATA[숙소부터 식당, 관광지 다 알려DREAM.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/1b361707-4c13-42fb-8d79-ad3e601e98cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스모 에디터가 뽑은 이 달의 신간3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -434,6 +431,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78867</guid>
             <pubDate>Tue, 04 Jul 2023 10:12:29 GMT</pubDate>
             <content:encoded><![CDATA[각자의 방식으로 세상을 뚜벅뚜벅 걸어 나가는 여성들의 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/9429e856-b870-488d-a0db-9bd714cb0d2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장마철에 딱! 센치해진 마음 달래는 전시3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -441,6 +439,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78865</guid>
             <pubDate>Tue, 04 Jul 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[장마로 센치해진 마음 달래는 3개의 전시.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/036d70c6-5bd1-46db-a428-e8f8092d7054.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이다해❤️세븐, 허니제이까지! 셀렙이 선택한 신행지는? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -448,6 +447,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78862</guid>
             <pubDate>Tue, 04 Jul 2023 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[이 정도면 세계 일주 아닌가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ab618f90-1a8f-46f2-aa9e-98f91adad3b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
