@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-09T23:10:25.774Z</updated>
+    <updated>2023-07-10T00:56:27.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워라벨 지키러 워케이션 떠나자]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78938</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78938"/>
+        <updated>2023-07-10T00:56:17.210Z</updated>
+        <content type="html"><![CDATA[일 집중력은 최고, 노는 열정도 최고! 전국 방방곡곡 워케이션 떠나기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아트 바젤 2023, 우리가 주목해야 할 키워드와 작가들]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78904</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78867"/>
         <updated>2023-07-04T10:12:29.991Z</updated>
         <content type="html"><![CDATA[각자의 방식으로 세상을 뚜벅뚜벅 걸어 나가는 여성들의 이야기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장마철에 딱! 센치해진 마음 달래는 전시3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78865</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78865"/>
-        <updated>2023-07-04T09:11:07.788Z</updated>
-        <content type="html"><![CDATA[장마로 센치해진 마음 달래는 3개의 전시.]]></content>
     </entry>
 </feed>
