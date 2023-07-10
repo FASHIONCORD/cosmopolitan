@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 09:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 10:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시즌 2 보기 전 정독각?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78979</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78979</guid>
+            <pubDate>Mon, 10 Jul 2023 10:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘D.P.’ 시즌 2의 각 잡힌 인물 포스터가 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/a23cb591-4d5c-4194-b69c-8c3c7793ccd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덕후 대략 생산?! 역대 최대 판매량을 세운 게임의 정체]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78905</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78905</guid>
+            <pubDate>Mon, 10 Jul 2023 10:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[출시 3일 만에 1000만 장을 돌파하며 역대 최대 게임 판매량을 갱신, 일본과 한국에선 연차 사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/1ffaa48f-2d2e-4fc5-8ecc-506bb17f050d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워라벨 지키러 워케이션 떠나자]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78938</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 05 Jul 2023 02:26:57 GMT</pubDate>
             <content:encoded><![CDATA[고이고이 접어 오래도록 담아두고 싶은 여름 내음.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/2570e77a-b861-4474-a2f4-8569cc81f289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트민녀 인증! 김나영이 방문한 제주 핫 스폿은 어디?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78872</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78872</guid>
-            <pubDate>Tue, 04 Jul 2023 15:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[숙소부터 식당, 관광지 다 알려DREAM.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/1b361707-4c13-42fb-8d79-ad3e601e98cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 에디터가 뽑은 이 달의 신간3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78867</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78867</guid>
-            <pubDate>Tue, 04 Jul 2023 10:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[각자의 방식으로 세상을 뚜벅뚜벅 걸어 나가는 여성들의 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/9429e856-b870-488d-a0db-9bd714cb0d2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
