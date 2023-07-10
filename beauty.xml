@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 10:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 11:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행갈 때 파우치에 쏙! 미니 사이즈 뷰티템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78899</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78899</guid>
+            <pubDate>Mon, 10 Jul 2023 11:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[파우치에 쏙~ 들어가는 세젤귀 미니 사이즈 뷰티템과 함께 어디든 떠나자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/65400aaf-6133-422d-a97a-e4a25a3c57be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이건 가야 해! 샤넬 코드 컬러 팝업 A to Z]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78945</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 05 Jul 2023 07:12:00 GMT</pubDate>
             <content:encoded><![CDATA[말리지 마, 나 운동할 거야!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/f1d54d84-03e0-430a-ba26-acf339b447d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔조이커플 임라라, 보조제없이 두달만에 9kg 감량했다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78878</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78878</guid>
-            <pubDate>Tue, 04 Jul 2023 15:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게만 하면 60kg에서 51kg가 될 수 있다는데!?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ee508a84-b306-42dc-b894-03d48458b52d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
