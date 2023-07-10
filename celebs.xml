@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-07-10T08:14:51.268Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[<하트시그널 4>, 역대 최고 반응이라는 메기녀 유이수 톺아보기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78917</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78917"/>
-        <updated>2023-07-10T06:14:09.243Z</updated>
-        <content type="html"><![CDATA[폭풍 후진으로 심쿵하게 한 그녀는 누구?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-떼창은 처음이지? 해외 셀렙의 한국 팬 사랑 모멘트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78916</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78916"/>
-        <updated>2023-07-10T03:25:15.224Z</updated>
-        <content type="html"><![CDATA[한국 팬을 사랑할 수밖에 없는 절대적 이유, 떼창.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤아♥준호 <킹더랜드>에서 찾은 열애 모먼트?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78910</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78910"/>
-        <updated>2023-07-06T03:25:38.268Z</updated>
-        <content type="html"><![CDATA[해산! 열애가 아니라 케미맛집으로 알려져…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핫 아이돌 총출동?! 샤넬 코드 컬러 팝업 최초공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78900</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78900"/>
-        <updated>2023-07-05T07:12:08.321Z</updated>
-        <content type="html"><![CDATA[세븐틴 호시부터 뉴진스 민지, 아이브 이서, 몬엑 주헌까지~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거 실화야? 우리를 설레게 한 2세대 아이돌의 솔로 컴백 소식.]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78873</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78873"/>
-        <updated>2023-07-04T10:12:06.898Z</updated>
-        <content type="html"><![CDATA[효린, 산다라박, 김성규, 선예가 솔로로 찾아온다고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이다해❤️세븐, 허니제이까지! 셀렙이 선택한 신행지는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78862</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78862"/>
-        <updated>2023-07-04T09:10:51.155Z</updated>
-        <content type="html"><![CDATA[이 정도면 세계 일주 아닌가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 에디터들의 비하인드 썰풀리!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78838</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78838"/>
-        <updated>2023-07-04T09:10:51.156Z</updated>
-        <content type="html"><![CDATA[에디터가 뽑은 실물 갑 1위 셀렙은 뉴규?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀엽고 잘생기고 다~하는 이신영의 입덕 경로는 바로 여기!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78799</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78799"/>
-        <updated>2023-07-04T06:13:57.805Z</updated>
-        <content type="html"><![CDATA[입구는 있지만 출구는 없음!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 10 Jul 2023 09:12:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<하트시그널 4>, 역대 최고 반응이라는 메기녀 유이수 톺아보기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78917</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78917</guid>
+            <pubDate>Mon, 10 Jul 2023 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[폭풍 후진으로 심쿵하게 한 그녀는 누구?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/0dab2235-ea20-4bd8-a458-597af408ef75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-떼창은 처음이지? 해외 셀렙의 한국 팬 사랑 모멘트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78916</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78916</guid>
+            <pubDate>Mon, 10 Jul 2023 03:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[한국 팬을 사랑할 수밖에 없는 절대적 이유, 떼창.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/fe04515f-6ad7-431b-b29a-6e6af2a8bcc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤아♥준호 <킹더랜드>에서 찾은 열애 모먼트?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78910</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78910</guid>
+            <pubDate>Thu, 06 Jul 2023 03:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[해산! 열애가 아니라 케미맛집으로 알려져…]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/26d8bb3c-951a-4871-b410-249107772b26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫 아이돌 총출동?! 샤넬 코드 컬러 팝업 최초공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78900</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78900</guid>
+            <pubDate>Wed, 05 Jul 2023 07:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 호시부터 뉴진스 민지, 아이브 이서, 몬엑 주헌까지~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/8922a18d-888a-413c-9505-22d684e339df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이거 실화야? 우리를 설레게 한 2세대 아이돌의 솔로 컴백 소식.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78873</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78873</guid>
+            <pubDate>Tue, 04 Jul 2023 10:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[효린, 산다라박, 김성규, 선예가 솔로로 찾아온다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/4e3bb7e2-9ab0-44e2-acb7-aed4adf8eff9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이다해❤️세븐, 허니제이까지! 셀렙이 선택한 신행지는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78862</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78862</guid>
+            <pubDate>Tue, 04 Jul 2023 09:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도면 세계 일주 아닌가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/ab618f90-1a8f-46f2-aa9e-98f91adad3b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 에디터들의 비하인드 썰풀리!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78838</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78838</guid>
+            <pubDate>Tue, 04 Jul 2023 09:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[에디터가 뽑은 실물 갑 1위 셀렙은 뉴규?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/a0387b32-5929-499a-bfeb-bbb2b0f13323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀엽고 잘생기고 다~하는 이신영의 입덕 경로는 바로 여기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78799</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78799</guid>
+            <pubDate>Tue, 04 Jul 2023 06:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[입구는 있지만 출구는 없음!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/b65546ee-acd3-49b8-9d1e-801fcb9d56cd.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
