@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-11T15:12:16.076Z</updated>
+    <updated>2023-07-11T16:13:22.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신차 모두 알려드DREAM! 피처 에디터의 차 토크]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79032</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79032"/>
+        <updated>2023-07-11T16:13:14.118Z</updated>
+        <content type="html"><![CDATA[승차감만큼이나 만족도를 좌우할 하차감! 차에서 내리는 순간, 시선을 한 몸에 받을 10대의 신차...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투자도 한다고? 주목해야 할 소장각 위스키 리스트]]></title>
         <id>https://www.cosmopolitan.co.kr/article/78912</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78922"/>
         <updated>2023-07-06T03:25:54.031Z</updated>
         <content type="html"><![CDATA[이탈리아 휴양지에 자리 잡은 ‘디올 카페’의 아우라~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인증샷 각! 수지가 직접 찾아간 런던 핫플 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78919</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78919"/>
-        <updated>2023-07-05T15:11:37.879Z</updated>
-        <content type="html"><![CDATA[영국 러버♥ 수지의 런던 여행 스폿은 어디?]]></content>
     </entry>
 </feed>
