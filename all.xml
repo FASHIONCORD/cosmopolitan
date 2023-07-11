@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 14:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 15:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임2> 여주인공? 배우 김시은 뛰어난 사복 패션 센스! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78926</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78926</guid>
+            <pubDate>Tue, 11 Jul 2023 15:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어 게임2&gt; 에서 대활약할 배우 김시은의 사복 룩은?]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[재벌 3세 패션?! <청담국제고> 예리의 하이틴 룩 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/78920</link>
@@ -57,11 +64,12 @@
             <content:encoded><![CDATA[7월의 핫 이슈 리스트.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스타일리시한 아웃도어 스타일을 완성한 특별한 협업 컬렉션 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78856</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78856</guid>
-            <pubDate>Mon, 03 Jul 2023 15:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[7월의 핫 이슈 리스트.]]></content:encoded>
+            <title><![CDATA[샤인 온 미! 눈부시게 빛나는 글리터 메이크업 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78935</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78935</guid>
+            <pubDate>Tue, 11 Jul 2023 15:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[일렁이는 파도의 반짝임처럼, 눈부시게 빛나는 태양처럼 얼굴 위로 스며든 여름의 흔적들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/db5bba39-ddaa-429d-a5b6-12f9ec5aa39a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 돌아온 공주머리! 히메 커트 트렌드 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -69,6 +77,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78907</guid>
             <pubDate>Mon, 10 Jul 2023 16:15:50 GMT</pubDate>
             <content:encoded><![CDATA[히메 커트는 죽지 않아! 다시 돌아온 히메 커트 트렌드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/7f4a9b6d-92e2-4797-981d-e663cb2f8373.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행갈 때 파우치에 쏙! 미니 사이즈 뷰티템 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -76,6 +85,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78899</guid>
             <pubDate>Mon, 10 Jul 2023 11:09:56 GMT</pubDate>
             <content:encoded><![CDATA[파우치에 쏙~ 들어가는 세젤귀 미니 사이즈 뷰티템과 함께 어디든 떠나자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/65400aaf-6133-422d-a97a-e4a25a3c57be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이건 가야 해! 샤넬 코드 컬러 팝업 A to Z (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -83,6 +93,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78945</guid>
             <pubDate>Sun, 09 Jul 2023 16:11:27 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말은 아.묻.따 성수동이야.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/cea3129a-49bf-489a-ba57-90d47c5163d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 각 잡는 줄리엔강♥제이제이, 이들의 운동 데이트는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -90,6 +101,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78950</guid>
             <pubDate>Sat, 08 Jul 2023 17:09:08 GMT</pubDate>
             <content:encoded><![CDATA[곧 결혼도 한다는데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/986b8b3c-ca88-435e-b87a-08e85d65d616.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워터프루프 메이크업 순삭! 오일 클렌저 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -97,6 +109,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78898</guid>
             <pubDate>Fri, 07 Jul 2023 17:09:31 GMT</pubDate>
             <content:encoded><![CDATA[물에도 땀에도 지워지지 않는 막강 지속력의 워터프루프 메이크업, 어떻게 지우냐고? 세정력 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/3e43fef0-4a5c-49be-84b1-5fcf8408593c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<범죄 도시 3> 초롱이가 00먹고 25kg를 뺐다고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -104,6 +117,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78925</guid>
             <pubDate>Thu, 06 Jul 2023 15:11:13 GMT</pubDate>
             <content:encoded><![CDATA[바나나의 위력은 실로 대단하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/7a4644f9-0144-4acd-82e1-df33e6014e93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핫 아이돌 총출동?! 샤넬 코드 컬러 팝업 최초공개 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -111,13 +125,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/78900</guid>
             <pubDate>Wed, 05 Jul 2023 07:12:08 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴 호시부터 뉴진스 민지, 아이브 이서, 몬엑 주헌까지~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싱그러운 여름 향수 4 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78832</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78832</guid>
-            <pubDate>Wed, 05 Jul 2023 10:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[코끝에서 싱그러운 여름을 떠오르게 하는 향기 모음.ZIP.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/8922a18d-888a-413c-9505-22d684e339df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<범죄 도시 3> 초롱이가 00먹고 25kg를 뺐다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
