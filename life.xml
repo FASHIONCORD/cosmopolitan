@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-12T03:21:17.540Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[김숙 추천! 찾았다, 믿먹숙의 밀키트 꿀조합!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79059</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79059"/>
-        <updated>2023-07-12T03:21:06.229Z</updated>
-        <content type="html"><![CDATA[된장찌개부터 모밀까지, 숙이 언니 추천으로 맛 보장 완료~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛잘알 박명수 PICK! 평냉 맛집은 모다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79058</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79058"/>
-        <updated>2023-07-12T03:21:06.237Z</updated>
-        <content type="html"><![CDATA[평양냉면에 딱 어울리는 사이드까지, 꿀맛 조합 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두 주목! 염정아 표 식혜 제조 비법 밝힙니다.]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79034</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79034"/>
-        <updated>2023-07-12T02:25:57.409Z</updated>
-        <content type="html"><![CDATA[최근 선물한 남자 배우의 정체는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신차 모두 알려드DREAM! 피처 에디터의 차 토크]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79032</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79032"/>
-        <updated>2023-07-11T16:13:14.118Z</updated>
-        <content type="html"><![CDATA[승차감만큼이나 만족도를 좌우할 하차감! 차에서 내리는 순간, 시선을 한 몸에 받을 10대의 신차...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자도 한다고? 주목해야 할 소장각 위스키 리스트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78912</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78912"/>
-        <updated>2023-07-10T15:11:27.508Z</updated>
-        <content type="html"><![CDATA[요즘 위스키를 둘러싼 흥미로운 투자 현상과 주목해야 할 ‘소장각’ 위스키 리스트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시즌 2 보기 전 정독각?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78979</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78979"/>
-        <updated>2023-07-10T10:12:41.267Z</updated>
-        <content type="html"><![CDATA[‘D.P.’ 시즌 2의 각 잡힌 인물 포스터가 공개됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덕후 대략 생산?! 역대 최대 판매량을 세운 게임의 정체]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78905</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78905"/>
-        <updated>2023-07-10T10:12:41.267Z</updated>
-        <content type="html"><![CDATA[출시 3일 만에 1000만 장을 돌파하며 역대 최대 게임 판매량을 갱신, 일본과 한국에선 연차 사...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워라벨 지키러 워케이션 떠나자]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78938</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78938"/>
-        <updated>2023-07-10T00:56:17.210Z</updated>
-        <content type="html"><![CDATA[일 집중력은 최고, 노는 열정도 최고! 전국 방방곡곡 워케이션 떠나기.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 12 Jul 2023 04:14:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김숙 추천! 찾았다, 믿먹숙의 밀키트 꿀조합!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79059</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79059</guid>
+            <pubDate>Wed, 12 Jul 2023 03:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[된장찌개부터 모밀까지, 숙이 언니 추천으로 맛 보장 완료~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/de4f4b66-8815-4db3-a3d5-9293bc4ad4a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛잘알 박명수 PICK! 평냉 맛집은 모다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79058</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79058</guid>
+            <pubDate>Wed, 12 Jul 2023 03:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[평양냉면에 딱 어울리는 사이드까지, 꿀맛 조합 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/4045c4b2-77fe-4e9f-93e1-19e375690224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모두 주목! 염정아 표 식혜 제조 비법 밝힙니다.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79034</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79034</guid>
+            <pubDate>Wed, 12 Jul 2023 02:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[최근 선물한 남자 배우의 정체는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/c6f5bf9b-677f-4079-924d-ded2d508951e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신차 모두 알려드DREAM! 피처 에디터의 차 토크]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79032</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79032</guid>
+            <pubDate>Tue, 11 Jul 2023 16:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[승차감만큼이나 만족도를 좌우할 하차감! 차에서 내리는 순간, 시선을 한 몸에 받을 10대의 신차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/4d2955cc-fc39-4f1f-bc50-587cb44f2fd9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투자도 한다고? 주목해야 할 소장각 위스키 리스트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78912</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78912</guid>
+            <pubDate>Mon, 10 Jul 2023 15:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 위스키를 둘러싼 흥미로운 투자 현상과 주목해야 할 ‘소장각’ 위스키 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/03646a57-cfd2-4ac5-9cbd-44cc40a0906c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시즌 2 보기 전 정독각?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78979</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78979</guid>
+            <pubDate>Mon, 10 Jul 2023 10:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘D.P.’ 시즌 2의 각 잡힌 인물 포스터가 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/a23cb591-4d5c-4194-b69c-8c3c7793ccd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덕후 대략 생산?! 역대 최대 판매량을 세운 게임의 정체]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78905</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78905</guid>
+            <pubDate>Mon, 10 Jul 2023 10:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[출시 3일 만에 1000만 장을 돌파하며 역대 최대 게임 판매량을 갱신, 일본과 한국에선 연차 사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/1ffaa48f-2d2e-4fc5-8ecc-506bb17f050d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워라벨 지키러 워케이션 떠나자]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78938</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78938</guid>
+            <pubDate>Mon, 10 Jul 2023 00:56:17 GMT</pubDate>
+            <content:encoded><![CDATA[일 집중력은 최고, 노는 열정도 최고! 전국 방방곡곡 워케이션 떠나기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/6bdbac91-8e7b-4fc7-b9c3-a2f2a2c68160.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
