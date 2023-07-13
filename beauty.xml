@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-13T09:11:01.972Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[종일 완벽 유지! 멀티프루트 만렙 메이크업]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78967</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78967"/>
-        <updated>2023-07-12T15:11:43.251Z</updated>
-        <content type="html"><![CDATA[강한 햇살에도 하루 종일 완벽하게 유지되는 멀티프루프 만렙 메이크업 팁.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[-20kg 체중감량한 환승연애 나연이 밝힌 뱃살타파 다이어트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79055</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79055"/>
-        <updated>2023-07-12T06:13:22.665Z</updated>
-        <content type="html"><![CDATA[뱃살은 술, 군것질에는 답이 없다는데!?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온몸이 시원해지는 뷰티 쿨팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78953</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78953"/>
-        <updated>2023-07-12T03:20:25.092Z</updated>
-        <content type="html"><![CDATA[폭염 속 당신의 불쾌지수를 한층 상승시킨 앗뜨 헤어&amp;보디 모멘트! 빠른 처치를 위한 슬기로운...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피부에도 생활에도 딱 맞는 NEW 스마트 자차]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78732</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78732"/>
-        <updated>2023-07-12T02:25:29.643Z</updated>
-        <content type="html"><![CDATA[내 피부에도, 생활 패턴에도 꼭 맞는 뉴 스마트 자차.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤인 온 미! 눈부시게 빛나는 글리터 메이크업]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78935</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78935"/>
-        <updated>2023-07-11T15:11:14.860Z</updated>
-        <content type="html"><![CDATA[일렁이는 파도의 반짝임처럼, 눈부시게 빛나는 태양처럼 얼굴 위로 스며든 여름의 흔적들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 돌아온 공주머리! 히메 커트 트렌드]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78907</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78907"/>
-        <updated>2023-07-10T16:15:50.100Z</updated>
-        <content type="html"><![CDATA[히메 커트는 죽지 않아! 다시 돌아온 히메 커트 트렌드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행갈 때 파우치에 쏙! 미니 사이즈 뷰티템]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78899</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78899"/>
-        <updated>2023-07-10T11:09:56.829Z</updated>
-        <content type="html"><![CDATA[파우치에 쏙~ 들어가는 세젤귀 미니 사이즈 뷰티템과 함께 어디든 떠나자!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이건 가야 해! 샤넬 코드 컬러 팝업 A to Z]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78945</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78945"/>
-        <updated>2023-07-09T16:11:27.175Z</updated>
-        <content type="html"><![CDATA[이번 주말은 아.묻.따 성수동이야.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Jul 2023 10:12:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종일 완벽 유지! 멀티프루트 만렙 메이크업]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78967</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78967</guid>
+            <pubDate>Wed, 12 Jul 2023 15:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[강한 햇살에도 하루 종일 완벽하게 유지되는 멀티프루프 만렙 메이크업 팁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/3387b8e5-1c83-4ed1-85ed-f6e2f4e03131.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[-20kg 체중감량한 환승연애 나연이 밝힌 뱃살타파 다이어트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79055</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79055</guid>
+            <pubDate>Wed, 12 Jul 2023 06:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[뱃살은 술, 군것질에는 답이 없다는데!?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/3e2475d9-1073-40cd-9d87-057e376eddeb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온몸이 시원해지는 뷰티 쿨팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78953</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78953</guid>
+            <pubDate>Wed, 12 Jul 2023 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[폭염 속 당신의 불쾌지수를 한층 상승시킨 앗뜨 헤어&amp;보디 모멘트! 빠른 처치를 위한 슬기로운...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/31fea0ac-a281-4689-b7a3-d77c1c0e4b77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피부에도 생활에도 딱 맞는 NEW 스마트 자차]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78732</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78732</guid>
+            <pubDate>Wed, 12 Jul 2023 02:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[내 피부에도, 생활 패턴에도 꼭 맞는 뉴 스마트 자차.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/09/06e91683-8064-496a-bb33-c79405e1a6a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤인 온 미! 눈부시게 빛나는 글리터 메이크업]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78935</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78935</guid>
+            <pubDate>Tue, 11 Jul 2023 15:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[일렁이는 파도의 반짝임처럼, 눈부시게 빛나는 태양처럼 얼굴 위로 스며든 여름의 흔적들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/db5bba39-ddaa-429d-a5b6-12f9ec5aa39a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 돌아온 공주머리! 히메 커트 트렌드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78907</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78907</guid>
+            <pubDate>Mon, 10 Jul 2023 16:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[히메 커트는 죽지 않아! 다시 돌아온 히메 커트 트렌드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/7f4a9b6d-92e2-4797-981d-e663cb2f8373.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여행갈 때 파우치에 쏙! 미니 사이즈 뷰티템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78899</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78899</guid>
+            <pubDate>Mon, 10 Jul 2023 11:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[파우치에 쏙~ 들어가는 세젤귀 미니 사이즈 뷰티템과 함께 어디든 떠나자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/65400aaf-6133-422d-a97a-e4a25a3c57be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이건 가야 해! 샤넬 코드 컬러 팝업 A to Z]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78945</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78945</guid>
+            <pubDate>Sun, 09 Jul 2023 16:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말은 아.묻.따 성수동이야.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/cea3129a-49bf-489a-ba57-90d47c5163d7.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
