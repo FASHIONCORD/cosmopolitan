@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-13T14:11:47.676Z</updated>
+    <updated>2023-07-13T15:11:09.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종이컵마저 예쁘다! 김태호 PD의 힙한 사무실]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79101</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79101"/>
+        <updated>2023-07-13T15:11:00.066Z</updated>
+        <content type="html"><![CDATA[김태호 PD 제작사 ‘TEO’, 어떻게 생겼을까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찐으로 갈아주는 수박주스 맛집 프랜차이즈 카페 5]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79098</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79032"/>
         <updated>2023-07-11T16:13:14.118Z</updated>
         <content type="html"><![CDATA[승차감만큼이나 만족도를 좌우할 하차감! 차에서 내리는 순간, 시선을 한 몸에 받을 10대의 신차...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자도 한다고? 주목해야 할 소장각 위스키 리스트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78912</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78912"/>
-        <updated>2023-07-10T15:11:27.508Z</updated>
-        <content type="html"><![CDATA[요즘 위스키를 둘러싼 흥미로운 투자 현상과 주목해야 할 ‘소장각’ 위스키 리스트.]]></content>
     </entry>
 </feed>
