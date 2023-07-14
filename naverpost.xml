@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-07-14T06:14:22.319Z</updated>
+    <updated>2023-07-14T07:10:47.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찐으로 갈아주는 수박주스 맛집 
+프랜차이즈 카페 5]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36249078&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36249078&amp;memberNo=11800362"/>
+        <updated>2023-07-14T07:09:53.496Z</updated>
+        <content type="html"><![CDATA[시럽은 가라! 찐으로 수박 갈아주는 곳만 모았다.▼ 클릭 ▼더운 여름, 시원한 수박 주스 한 잔이면 뼛속까지 시원함과 달콤함을 충전할 수 있죠. 오늘은 시럽맛 노노! 기분 좋게 마실 수 있는 프랜차이즈 리얼 수박 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추자현♥우효광∙김가연♥임요환. 
 별거설의 진실은?]]></title>
@@ -150,13 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36098628&amp;memberNo=11800362"/>
         <updated>2023-07-14T00:55:38.245Z</updated>
         <content type="html"><![CDATA[배우 신세경의 일상을 향기롭게 채우는 4가지 뷰티 제스처. ▼ 클릭 ▼ FULL BLOOM러블리하고 감미롭게! 핑크빛 퍼프 블라우스를 입은 신세경의 로맨틱한 모습과 더없이 잘 어울리는 여성스러운 플로럴 향을 찾고 있다···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뻔하지만 재밌다! 
-범죄 도시3 못 참게 만드는 미친 존재감들]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36080879&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36080879&amp;memberNo=11800362"/>
-        <updated>2023-07-14T00:55:38.246Z</updated>
-        <content type="html"><![CDATA[마동석과 존잘러들 그리고 초롱이. ▼ 클릭 ▼ 뻔하지만 재밌다! 범죄 도시3 못 참게 만드는 미친 존재감들 마동석과 존잘러들 그리고 초롱이. www.cosmopolitan.co.kr  마동석 6월 10일 기준 700만 관객 돌파하며 올···]]></content>
     </entry>
 </feed>
