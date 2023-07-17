@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-17T07:19:12.890Z</updated>
+    <updated>2023-07-17T08:14:30.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청담에서 소개팅 금물! 결정사 대표의 첫만남 꿀팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79108</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79108"/>
+        <updated>2023-07-17T08:14:21.868Z</updated>
+        <content type="html"><![CDATA[결혼정보회사 성지인 대표의 첫만남 장소 가이드.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가입자 1억 명! 스레드가 트위터에게 고소당한다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79104</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79058"/>
         <updated>2023-07-12T03:21:06.237Z</updated>
         <content type="html"><![CDATA[평양냉면에 딱 어울리는 사이드까지, 꿀맛 조합 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두 주목! 염정아 표 식혜 제조 비법 밝힙니다.]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79034</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79034"/>
-        <updated>2023-07-12T02:25:57.409Z</updated>
-        <content type="html"><![CDATA[최근 선물한 남자 배우의 정체는?]]></content>
     </entry>
 </feed>
