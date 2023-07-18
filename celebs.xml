@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 13:18:35 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[화보 장인 등극?! 김대호 아나 코스모 일일 체험기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79168</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79168</guid>
-            <pubDate>Tue, 18 Jul 2023 10:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 코스모 화보 데뷔한 김대호 아나운서...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/5882ab0b-1f1a-4996-a31b-9cbc1af4a6dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해의 요정들 등장! 킹랑스러운 뉴진스의 신곡 패션템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79163</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79163</guid>
-            <pubDate>Tue, 18 Jul 2023 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[예쁜 애 옆에 예쁜 애…뉴진스국 만세!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/f60f6de9-0fba-4196-b59e-2981ba670ff1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인업 실화야? 샤넬 코드 컬러 팝업 오프닝 행사 톺아보기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79124</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79124</guid>
-            <pubDate>Tue, 18 Jul 2023 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[못 가면 나만 손해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/d78c3db7-2182-4adc-a4a1-6a43250c1e91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인보다 K 문화에 진심인 대한 외국인들은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79137</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79137</guid>
-            <pubDate>Tue, 18 Jul 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[YOZM K-패치 모음.zip!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/27b37bed-3913-48c1-86fe-c924d97133ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀러브리티 다음은 오징어게임! 지금 가장 핫한 박규영]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79110</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79110</guid>
-            <pubDate>Mon, 17 Jul 2023 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[그의 모든 것을 파헤친다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/627f24b5-64f1-4359-b2e5-eafbdbb88e9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“공유랑 생일파티?” 손흥민의 배우 황금 인맥 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79102</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79102</guid>
-            <pubDate>Fri, 14 Jul 2023 08:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[손흥민과 찐~한 브로맨스 나누는 셀럽은 누구?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/2358a023-5ebd-4ef3-9e05-053c08d4b175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로제∙지수∙차은우보다 더 예쁘고 멋있다는 가족은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79094</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79094</guid>
-            <pubDate>Fri, 14 Jul 2023 07:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘연예인 왜 안하냐’는 소리를 기본값으로 달고 다녔다는 그들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/cb63371d-f20f-4fe6-9a4d-e6902da9b31c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 예리에게 직접 듣는 유럽 투어와 여행 비하인드!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79073</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79073</guid>
-            <pubDate>Fri, 14 Jul 2023 03:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운(?) 백제나 모먼트 가득!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/e809024a-33e8-4744-b116-47bbd9d5432b.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-07-18T14:09:53.475Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화보 장인 등극?! 김대호 아나 코스모 일일 체험기]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79168</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79168"/>
+        <updated>2023-07-18T10:10:40.146Z</updated>
+        <content type="html"><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 코스모 화보 데뷔한 김대호 아나운서...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해의 요정들 등장! 킹랑스러운 뉴진스의 신곡 패션템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79163</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79163"/>
+        <updated>2023-07-18T09:10:08.267Z</updated>
+        <content type="html"><![CDATA[예쁜 애 옆에 예쁜 애…뉴진스국 만세!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라인업 실화야? 샤넬 코드 컬러 팝업 오프닝 행사 톺아보기]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79124</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79124"/>
+        <updated>2023-07-18T09:10:08.268Z</updated>
+        <content type="html"><![CDATA[못 가면 나만 손해!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국인보다 K 문화에 진심인 대한 외국인들은 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79137</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79137"/>
+        <updated>2023-07-18T08:13:16.971Z</updated>
+        <content type="html"><![CDATA[YOZM K-패치 모음.zip!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀러브리티 다음은 오징어게임! 지금 가장 핫한 박규영]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79110</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79110"/>
+        <updated>2023-07-17T09:15:00.450Z</updated>
+        <content type="html"><![CDATA[그의 모든 것을 파헤친다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“공유랑 생일파티?” 손흥민의 배우 황금 인맥 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79102</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79102"/>
+        <updated>2023-07-14T08:13:00.906Z</updated>
+        <content type="html"><![CDATA[손흥민과 찐~한 브로맨스 나누는 셀럽은 누구?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로제∙지수∙차은우보다 더 예쁘고 멋있다는 가족은 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79094</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79094"/>
+        <updated>2023-07-14T07:10:20.543Z</updated>
+        <content type="html"><![CDATA[‘연예인 왜 안하냐’는 소리를 기본값으로 달고 다녔다는 그들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 예리에게 직접 듣는 유럽 투어와 여행 비하인드!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79073</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79073"/>
+        <updated>2023-07-14T03:23:05.916Z</updated>
+        <content type="html"><![CDATA[귀여운(?) 백제나 모먼트 가득!]]></content>
+    </entry>
+</feed>
