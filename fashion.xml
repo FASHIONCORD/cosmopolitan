@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-07-18T08:13:55.962Z</updated>
+    <updated>2023-07-18T09:10:55.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79090</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79090"/>
+        <updated>2023-07-18T09:09:48.185Z</updated>
+        <content type="html"><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHAT'S HOT! 7월 핫한 패션 NEWS]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79065</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/78693"/>
         <updated>2023-07-09T16:11:15.773Z</updated>
         <content type="html"><![CDATA[내가 사는 이곳이 패션계에서 가장 핫한 도시? 서울이 ‘현시점 세계관 최강자’가 된 사건에 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스윔웨어 룩을 스타일리시하게 완성해줄 7가지 스타일 메이트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78680</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78680"/>
-        <updated>2023-07-05T15:10:47.766Z</updated>
-        <content type="html"><![CDATA[스윔웨어 룩을 스타일리시하게 완성해줄 7가지 스타일 메이트.]]></content>
     </entry>
 </feed>
