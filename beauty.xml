@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 06:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ가 선택하는 필러는 따로 있다고? 필러 트렌드 톺아보기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79181</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79181</guid>
+            <pubDate>Tue, 18 Jul 2023 07:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[필터 말고 필러! 어려지는 필러 입문, 인위적인 필터보다는 자연스러운 변화를 추구하는 MZ세대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/0c3e31ee-dcaa-4044-9801-c81a02820ca8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호르몬 변화에도 끄떡없는 뷰티 처방전]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79071</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 14 Jul 2023 03:22:56 GMT</pubDate>
             <content:encoded><![CDATA[유전적으로 타고난 00를 줄여야 한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/0d2a8cf1-2db8-4e72-a31a-e49a752bd155.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티에디터가 직접 써본 SNS 이슈템 후기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78971</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78971</guid>
-            <pubDate>Thu, 13 Jul 2023 15:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[이게 레알 진짜라고? 마치 다른 사람으로 태어난 듯 언빌리버블한 비포&amp;애프터와 신들린 말발의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/67acf863-3f9c-4048-8527-c09f2122eb91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
