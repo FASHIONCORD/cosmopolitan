@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 01:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 03:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름을 책임질 쿨한 뷰티 신상]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78678</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78678</guid>
+            <pubDate>Wed, 19 Jul 2023 03:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[New, Need, Now! 여름을 책임질 쿨한 7월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/4817fb87-3365-487a-81fc-4082fd0a63b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로 다이어터 소유, 식단으로 8kg 감량했다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79201</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 16 Jul 2023 15:09:38 GMT</pubDate>
             <content:encoded><![CDATA[톤망진창 피부를 구원해줄 하이브리드 컨실러의 등판! 칙칙한 안색과 홍조, 밉상 잡티 스폿까지 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/d8773064-0f9e-43a7-bcf9-3ebd6009cac9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톤그로 없이 누구에게나 착붙! 여름 신상 립]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78999</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78999</guid>
-            <pubDate>Sat, 15 Jul 2023 15:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[바야흐로 서머 립 제2막! 톤그로 없이 어떤 피부 톤에도 착붙하는 신상 립들이 쏟아지는 중. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/22757c4f-b898-41f8-ba86-ae6d9ad0c29d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
