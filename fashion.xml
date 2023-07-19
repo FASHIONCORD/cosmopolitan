@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-07-19T07:10:16.533Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79090</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79090"/>
-        <updated>2023-07-18T09:09:48.185Z</updated>
-        <content type="html"><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHAT'S HOT! 7월 핫한 패션 NEWS]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79065</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79065"/>
-        <updated>2023-07-18T02:56:28.721Z</updated>
-        <content type="html"><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식&베이식 만능 아이템 '폴로 셔츠'에 대하여]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78731</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78731"/>
-        <updated>2023-07-18T02:56:28.722Z</updated>
-        <content type="html"><![CDATA[스쿨 룩부터 비즈니스 룩, 스포츠 룩, 리조트 룩까지 아우르는, 모든 이들이 즐길 수 있는 민...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 에디터들의 INSPIRATION BOARD가 궁금해?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78609</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78609"/>
-        <updated>2023-07-17T02:38:34.055Z</updated>
-        <content type="html"><![CDATA[매달 코스모를 만드는 에디터와 아트 디자이너의 인스피레이션 보드를 탈탈 털었다. 보는 것만으...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘뚜루 마뚜루 갑! 슬기∙수지∙오눅의 여름 백팩 패션 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78928</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78928"/>
-        <updated>2023-07-12T02:25:20.302Z</updated>
-        <content type="html"><![CDATA[한여름엔 백팩처럼 편한게 없지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오징어 게임2> 여주인공? 배우 김시은 뛰어난 사복 패션 센스!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78926</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78926"/>
-        <updated>2023-07-11T15:11:02.477Z</updated>
-        <content type="html"><![CDATA[&lt;오징어 게임2&gt; 에서 대활약할 배우 김시은의 사복 룩은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재벌 3세 패션?! <청담국제고> 예리의 하이틴 룩]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78920</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78920"/>
-        <updated>2023-07-10T15:10:47.956Z</updated>
-        <content type="html"><![CDATA[금수저 패션이란 바로 이런 것?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션계에서 가장 핫한 도시는? '현시점 세계관 최강자'인 서울!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78693</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78693"/>
-        <updated>2023-07-09T16:11:15.773Z</updated>
-        <content type="html"><![CDATA[내가 사는 이곳이 패션계에서 가장 핫한 도시? 서울이 ‘현시점 세계관 최강자’가 된 사건에 ...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 19 Jul 2023 08:12:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79090</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79090</guid>
+            <pubDate>Tue, 18 Jul 2023 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/a9198cb4-2b0d-4f55-910c-68c85c00e842.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WHAT'S HOT! 7월 핫한 패션 NEWS]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79065</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79065</guid>
+            <pubDate>Tue, 18 Jul 2023 02:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/ef488fe0-b477-451b-b76a-cde4ec1434f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래식&베이식 만능 아이템 '폴로 셔츠'에 대하여]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78731</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78731</guid>
+            <pubDate>Tue, 18 Jul 2023 02:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[스쿨 룩부터 비즈니스 룩, 스포츠 룩, 리조트 룩까지 아우르는, 모든 이들이 즐길 수 있는 민...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/648fe1b8-168b-499d-8d05-6b7eac246470.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 에디터들의 INSPIRATION BOARD가 궁금해?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78609</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78609</guid>
+            <pubDate>Mon, 17 Jul 2023 02:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[매달 코스모를 만드는 에디터와 아트 디자이너의 인스피레이션 보드를 탈탈 털었다. 보는 것만으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/5a0efa68-140f-4f33-b169-c82766d30a54.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휘뚜루 마뚜루 갑! 슬기∙수지∙오눅의 여름 백팩 패션 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78928</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78928</guid>
+            <pubDate>Wed, 12 Jul 2023 02:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[한여름엔 백팩처럼 편한게 없지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/a3dec149-8f59-439d-9f1d-13386416b932.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<오징어 게임2> 여주인공? 배우 김시은 뛰어난 사복 패션 센스!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78926</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78926</guid>
+            <pubDate>Tue, 11 Jul 2023 15:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어 게임2&gt; 에서 대활약할 배우 김시은의 사복 룩은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/efcb7fd8-c2e1-4a1f-a249-033d6f847f64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재벌 3세 패션?! <청담국제고> 예리의 하이틴 룩]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78920</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78920</guid>
+            <pubDate>Mon, 10 Jul 2023 15:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[금수저 패션이란 바로 이런 것?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/b4a59a2c-3fd8-4f72-8744-cc51d6903ac5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션계에서 가장 핫한 도시는? '현시점 세계관 최강자'인 서울!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78693</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78693</guid>
+            <pubDate>Sun, 09 Jul 2023 16:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[내가 사는 이곳이 패션계에서 가장 핫한 도시? 서울이 ‘현시점 세계관 최강자’가 된 사건에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/653b0d33-90a8-4a72-995b-aadb225da29b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
