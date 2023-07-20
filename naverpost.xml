@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-07-20T00:48:25.411Z</updated>
+    <updated>2023-07-20T02:04:11.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔믹스와 리파 하트브러시의 
+러블리한 만남, 디지털 커버로 공개!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36274407&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36274407&amp;memberNo=11800362"/>
+        <updated>2023-07-20T02:03:08.046Z</updated>
+        <content type="html"><![CDATA[리파 하트브러시의 뮤즈, 엔믹스의 소녀스러운 모습을 포착한 코스모폴리탄 디지털 커버와 무빙 커버를 공개합니다. ▼ 클릭 ▼ 엔믹스와 리파 하트브러시의 러블리한 만남, 디지털 커버로 공개! 리파 하트브러시의 뮤···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내일 수영복 입어? 
 한혜진의 19시간 공복 다이어트]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36130029&amp;memberNo=11800362"/>
         <updated>2023-07-19T17:08:25.717Z</updated>
         <content type="html"><![CDATA[행주산성 어탕국수부터 약수역 이북식 찜닭까지!▼ 클릭 ▼〈나혼자산다〉에서 자연인 라이프를 보여줘 큰 인기를 끌었던 MBC 아나운서 김대호! 인왕산 기슭에 자리한 집 한구석을 포장마차처럼 꾸며 “직장인의 로···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지♥김우빈∙윤아♥준호! 
-설렘 포텐 터지는 드라마 주연 조합]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36124680&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36124680&amp;memberNo=11800362"/>
-        <updated>2023-07-19T17:08:25.717Z</updated>
-        <content type="html"><![CDATA[N번째 호흡을 맞추니 최강 케미는 따놓은 당상!수지X김우빈내년 방영을 목표로 하는 판타지 로맨스 코미디 드라마 〈다 이루어질지니〉. 이 작품은 메가 히트작을 다수 보유한 김은숙 작가와 이병헌 감독의 합작이다. ···]]></content>
     </entry>
 </feed>
