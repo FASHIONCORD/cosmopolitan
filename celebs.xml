@@ -4,16 +4,22 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 23:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 00:47:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥주 내려놓고 이거 봐! 엄정화∙장원영∙미미의 식스팩]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79250</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79250</guid>
+            <pubDate>Fri, 21 Jul 2023 00:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[더우니까 맥주나 마실래? 이거 보면 생각이 달라질 텐데?]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“진짜 사귀어?” 소문 무성한 스타들의 열애설 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79247</link>
             <guid>https://www.cosmopolitan.co.kr/article/79247</guid>
             <pubDate>Thu, 20 Jul 2023 06:12:39 GMT</pubDate>
             <content:encoded><![CDATA[최근 잇달아 터진 열애설의 진실은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/9c0ba6a2-ab20-4240-b439-4375e042a736.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2023 아이스버킷 챌린지’로 밝혀진 셀럽들의 인맥]]></title>
@@ -62,14 +68,6 @@
             <pubDate>Tue, 18 Jul 2023 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[YOZM K-패치 모음.zip!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/27b37bed-3913-48c1-86fe-c924d97133ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀러브리티 다음은 오징어게임! 지금 가장 핫한 박규영]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79110</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79110</guid>
-            <pubDate>Mon, 17 Jul 2023 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[그의 모든 것을 파헤친다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/627f24b5-64f1-4359-b2e5-eafbdbb88e9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
