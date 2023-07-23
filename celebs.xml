@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 00:52:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[엔믹스와 리파 하트브러시의 러블리한 만남, 디지털 커버로 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79260</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79260</guid>
-            <pubDate>Sat, 22 Jul 2023 10:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[리파 하트브러시의 뮤즈, 엔믹스의 소녀스러운 모습을 포착한 코스모폴리탄 디지털 커버와 무빙 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/9ca6190c-6ea2-4135-bca0-47357fe3b3d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천사 커플 그 잡채! 기부도 같이 하는 김우빈♥신민아]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79254</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79254</guid>
-            <pubDate>Fri, 21 Jul 2023 07:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[함께 기부하며 사랑을 키우는 두 사람의 기부 타임라인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/3315f3c0-6786-4ecf-bd6d-11fbf283b00d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥주 내려놓고 이거 봐! 엄정화∙장원영∙미미의 식스팩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79250</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79250</guid>
-            <pubDate>Fri, 21 Jul 2023 00:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[더우니까 맥주나 마실래? 이거 보면 생각이 달라질 텐데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/fa3a922a-1dad-4eb1-8528-d309507992b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“진짜 사귀어?” 소문 무성한 스타들의 열애설 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79247</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79247</guid>
-            <pubDate>Thu, 20 Jul 2023 06:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[최근 잇달아 터진 열애설의 진실은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/9c0ba6a2-ab20-4240-b439-4375e042a736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2023 아이스버킷 챌린지’로 밝혀진 셀럽들의 인맥]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79243</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79243</guid>
-            <pubDate>Thu, 20 Jul 2023 00:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[9년 만에 부활한 아이스버킷 챌린지에 도전한 스타들?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/04d0dd56-c3e8-4717-9369-dd5849a2611d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 ‘광고 퀸’ 접수! 11년만에 광고 복귀한 이효리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79213</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79213</guid>
-            <pubDate>Wed, 19 Jul 2023 03:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[당신을 이 구역의 솔직좌로 임명합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/4adc692a-dfc6-49f0-aef0-55f8efa11f95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화보 장인 등극?! 김대호 아나 코스모 일일 체험기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79168</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79168</guid>
-            <pubDate>Tue, 18 Jul 2023 10:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 코스모 화보 데뷔한 김대호 아나운서...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/5882ab0b-1f1a-4996-a31b-9cbc1af4a6dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해의 요정들 등장! 킹랑스러운 뉴진스의 신곡 패션템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79163</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79163</guid>
-            <pubDate>Tue, 18 Jul 2023 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[예쁜 애 옆에 예쁜 애…뉴진스국 만세!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/f60f6de9-0fba-4196-b59e-2981ba670ff1.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-07-23T02:12:55.356Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔믹스와 리파 하트브러시의 러블리한 만남, 디지털 커버로 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79260</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79260"/>
+        <updated>2023-07-22T10:08:50.672Z</updated>
+        <content type="html"><![CDATA[리파 하트브러시의 뮤즈, 엔믹스의 소녀스러운 모습을 포착한 코스모폴리탄 디지털 커버와 무빙 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천사 커플 그 잡채! 기부도 같이 하는 김우빈♥신민아]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79254</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79254"/>
+        <updated>2023-07-21T07:09:15.741Z</updated>
+        <content type="html"><![CDATA[함께 기부하며 사랑을 키우는 두 사람의 기부 타임라인.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥주 내려놓고 이거 봐! 엄정화∙장원영∙미미의 식스팩]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79250</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79250"/>
+        <updated>2023-07-21T00:46:58.220Z</updated>
+        <content type="html"><![CDATA[더우니까 맥주나 마실래? 이거 보면 생각이 달라질 텐데?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“진짜 사귀어?” 소문 무성한 스타들의 열애설 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79247</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79247"/>
+        <updated>2023-07-20T06:12:39.443Z</updated>
+        <content type="html"><![CDATA[최근 잇달아 터진 열애설의 진실은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘2023 아이스버킷 챌린지’로 밝혀진 셀럽들의 인맥]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79243</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79243"/>
+        <updated>2023-07-20T00:47:36.662Z</updated>
+        <content type="html"><![CDATA[9년 만에 부활한 아이스버킷 챌린지에 도전한 스타들?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 ‘광고 퀸’ 접수! 11년만에 광고 복귀한 이효리]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79213</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79213"/>
+        <updated>2023-07-19T03:41:57.837Z</updated>
+        <content type="html"><![CDATA[당신을 이 구역의 솔직좌로 임명합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화보 장인 등극?! 김대호 아나 코스모 일일 체험기]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79168</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79168"/>
+        <updated>2023-07-18T10:10:40.146Z</updated>
+        <content type="html"><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 코스모 화보 데뷔한 김대호 아나운서...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해의 요정들 등장! 킹랑스러운 뉴진스의 신곡 패션템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79163</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79163"/>
+        <updated>2023-07-18T09:10:08.267Z</updated>
+        <content type="html"><![CDATA[예쁜 애 옆에 예쁜 애…뉴진스국 만세!]]></content>
+    </entry>
+</feed>
