@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-24T02:05:18.516Z</updated>
+    <updated>2023-07-24T03:10:56.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고기가 아니라고? 군침 돈 지락실 비건 메뉴의 정체]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79249</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79249"/>
+        <updated>2023-07-24T03:10:47.954Z</updated>
+        <content type="html"><![CDATA[세상에 이런 비건이?!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실패없지! 여름밤 낭만 루프탑]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79239</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79068"/>
         <updated>2023-07-17T10:11:53.447Z</updated>
         <content type="html"><![CDATA[요즘 젠지들은 시장으로 모인다. 금호동의 금남시장, 신당동의 서울중앙시장을 거점으로 새롭게 형...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청담에서 소개팅 금물! 결정사 대표의 첫만남 꿀팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79108</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79108"/>
-        <updated>2023-07-17T08:14:21.868Z</updated>
-        <content type="html"><![CDATA[결혼정보회사 성지인 대표의 첫만남 장소 가이드.]]></content>
     </entry>
 </feed>
