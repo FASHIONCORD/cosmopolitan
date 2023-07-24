@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 09:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 10:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니∙수지∙크리스탈∙김도연은 요즘 이 아이템에 빠졌다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79202</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79202</guid>
+            <pubDate>Mon, 24 Jul 2023 10:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[올드 머니 스타일링, 조끼 하나면 쌉가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/83d1887b-d9fb-476e-baac-a1660327477c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김나영∙차정원∙허윤진 등 셀럽 여름 주얼리 스타일 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79099</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79099</guid>
+            <pubDate>Mon, 24 Jul 2023 10:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[더운 여름 주얼리로 패션에 포인트 주기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/a70682fc-6d55-478c-9213-463844cc29c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79090</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 11 Jul 2023 15:11:02 GMT</pubDate>
             <content:encoded><![CDATA[&lt;오징어 게임2&gt; 에서 대활약할 배우 김시은의 사복 룩은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/efcb7fd8-c2e1-4a1f-a249-033d6f847f64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재벌 3세 패션?! <청담국제고> 예리의 하이틴 룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78920</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78920</guid>
-            <pubDate>Mon, 10 Jul 2023 15:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[금수저 패션이란 바로 이런 것?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/b4a59a2c-3fd8-4f72-8744-cc51d6903ac5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션계에서 가장 핫한 도시는? '현시점 세계관 최강자'인 서울!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78693</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78693</guid>
-            <pubDate>Sun, 09 Jul 2023 16:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[내가 사는 이곳이 패션계에서 가장 핫한 도시? 서울이 ‘현시점 세계관 최강자’가 된 사건에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/653b0d33-90a8-4a72-995b-aadb225da29b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
