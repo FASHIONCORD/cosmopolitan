@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-24T20:09:19.929Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[청량 미모 포텐 터지는 아이돌 pick! 여름 뷰티 팁은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79299</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79299"/>
-        <updated>2023-07-24T11:08:05.985Z</updated>
-        <content type="html"><![CDATA[절대 지켜, 서머 페이스!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chill in Your Air]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79199</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79199"/>
-        <updated>2023-07-24T11:08:05.987Z</updated>
-        <content type="html"><![CDATA[루이 비통 퍼퓸 드 콜로뉴 퍼시픽 칠과 함께하는 캘리포니아에서의 에너제틱한 아침.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스와 리파 하트브러시의 러블리한 만남, 디지털 커버로 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79260</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79260"/>
-        <updated>2023-07-24T05:09:49.025Z</updated>
-        <content type="html"><![CDATA[리파 하트브러시의 뮤즈, 엔믹스의 소녀스러운 모습을 포착한 코스모폴리탄 디지털 커버와 무빙 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촉촉산뜻 선크림]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79097</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79097"/>
-        <updated>2023-07-24T03:10:21.474Z</updated>
-        <content type="html"><![CDATA[24시간 지속되는 보습력과 산뜻한 발림성을 갖춘 유니레버 바세린 선크림과 함께라면 뜨거운 태양...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘헉’ 소리 나게 한 엄정화의 복근, 만들 수 있었던 비결은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79253</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79253"/>
-        <updated>2023-07-24T00:47:43.173Z</updated>
-        <content type="html"><![CDATA[인간미 넘치는 내 배 눈 감아~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주말마다 바꾸는 젤 네일? 매뉴큐리스트 A to Z]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79237</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79237"/>
-        <updated>2023-07-20T02:03:28.255Z</updated>
-        <content type="html"><![CDATA[매뉴큐리스트의 창립자, 가엘 르브라 페르소나즈를 만나다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이는 숫자일 뿐!! 엄정화가 공개한 식스팩, 실화야?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79238</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79238"/>
-        <updated>2023-07-20T02:03:28.272Z</updated>
-        <content type="html"><![CDATA[또렷하고, 선명하고, 아름답다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름을 책임질 쿨한 뷰티 신상]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/78678</id>
-        <link href="https://www.cosmopolitan.co.kr/article/78678"/>
-        <updated>2023-07-19T03:41:15.485Z</updated>
-        <content type="html"><![CDATA[New, Need, Now! 여름을 책임질 쿨한 7월의 뷰티 신상!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 24 Jul 2023 21:11:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청량 미모 포텐 터지는 아이돌 pick! 여름 뷰티 팁은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79299</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79299</guid>
+            <pubDate>Mon, 24 Jul 2023 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[절대 지켜, 서머 페이스!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/c63a11c5-819b-4ab8-815e-fdcd72ba3de2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chill in Your Air]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79199</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79199</guid>
+            <pubDate>Mon, 24 Jul 2023 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통 퍼퓸 드 콜로뉴 퍼시픽 칠과 함께하는 캘리포니아에서의 에너제틱한 아침.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/2983c517-0294-4bd9-893f-7cc19d7dc79f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔믹스와 리파 하트브러시의 러블리한 만남, 디지털 커버로 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79260</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79260</guid>
+            <pubDate>Mon, 24 Jul 2023 05:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[리파 하트브러시의 뮤즈, 엔믹스의 소녀스러운 모습을 포착한 코스모폴리탄 디지털 커버와 무빙 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/9ca6190c-6ea2-4135-bca0-47357fe3b3d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[촉촉산뜻 선크림]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79097</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79097</guid>
+            <pubDate>Mon, 24 Jul 2023 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[24시간 지속되는 보습력과 산뜻한 발림성을 갖춘 유니레버 바세린 선크림과 함께라면 뜨거운 태양...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/6c81cf56-c1bc-477e-bfa7-e3c0e3d65f76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘헉’ 소리 나게 한 엄정화의 복근, 만들 수 있었던 비결은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79253</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79253</guid>
+            <pubDate>Mon, 24 Jul 2023 00:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[인간미 넘치는 내 배 눈 감아~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/920345e9-63bc-4a83-9709-82a3ac5e6aca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말마다 바꾸는 젤 네일? 매뉴큐리스트 A to Z]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79237</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79237</guid>
+            <pubDate>Thu, 20 Jul 2023 02:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[매뉴큐리스트의 창립자, 가엘 르브라 페르소나즈를 만나다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/9022ca26-8bdf-472c-b067-bdf7659be283.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이는 숫자일 뿐!! 엄정화가 공개한 식스팩, 실화야?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79238</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79238</guid>
+            <pubDate>Thu, 20 Jul 2023 02:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[또렷하고, 선명하고, 아름답다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/f21876c3-7ef4-41a1-9033-22f2381052f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름을 책임질 쿨한 뷰티 신상]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78678</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78678</guid>
+            <pubDate>Wed, 19 Jul 2023 03:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[New, Need, Now! 여름을 책임질 쿨한 7월의 뷰티 신상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/4817fb87-3365-487a-81fc-4082fd0a63b2.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
