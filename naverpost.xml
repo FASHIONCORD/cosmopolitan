@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-07-23T23:10:08.814Z</updated>
+    <updated>2023-07-24T00:48:19.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손 나이는 못 속여! 손등 케어 팁]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36286808&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36286808&amp;memberNo=11800362"/>
+        <updated>2023-07-24T00:47:23.524Z</updated>
+        <content type="html"><![CDATA[얼굴과 달리 안물안궁 등한시했던 손! 세월의 풍파를 직격탄으로 맞으며 쭈글쭈글 거칠어진 몬생 늙은 손도 다시 주름리스의 뽀송한 컨디션으로 젊어질 수 있을까?▼ 클릭 ▼ 손 나이는 못 속여! 손등 케어 팁 얼굴과 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2023 아이스버킷 챌린지’로 밝혀진 
 셀럽들의 인맥]]></title>
@@ -153,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36135318&amp;memberNo=11800362"/>
         <updated>2023-07-23T14:07:50.255Z</updated>
         <content type="html"><![CDATA[제이에스티나와 함께 떠나는 아이유의 낯선 여행.▼ 클릭 ▼ JUMP into Unknown Lands 제이에스티나와 함께 떠나는 아이유의 낯선 여행. www.cosmopolitan.co.kr  목걸이 (위) 32만8천원, (아래) 62만8천원 제이에스티···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나만 안 갔어?’ 
-브루노마스 콘서트 속 스타들의 패션]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36130063&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36130063&amp;memberNo=11800362"/>
-        <updated>2023-07-23T14:07:50.257Z</updated>
-        <content type="html"><![CDATA[콘서트의 완성은 패션?! ▼ 클릭 ▼ ‘나만 안 갔어?’ 브루노마스 콘서트 속 스타들의 패션 콘서트의 완성은 패션?! www.cosmopolitan.co.kr  지난 17-18일 서울에서 열린 브루노마스 콘서트에 나타난 수많은 스타들. ···]]></content>
     </entry>
 </feed>
