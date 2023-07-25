@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-07-25T08:12:46.528Z</updated>
+    <updated>2023-07-25T09:11:33.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[믿보! 말복 더위 거뜬히 이겨낼 
+윤은혜표 누룽지 닭백숙]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36305710&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36305710&amp;memberNo=11800362"/>
+        <updated>2023-07-25T09:09:51.108Z</updated>
+        <content type="html"><![CDATA[그대로 만들었는데 뒷골목 노포 맛이 난다고? ▼ 클릭 ▼ ㅅ닭백숙 만들기1. 다시마, 한약재 주머니, 무, 대파, 통양파를 넣고 끓여 육수를 만든다. (다시마는 찬물에 먼저 넣어줄 것.) 2. 굵은 소금으로 닭을 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손 나이는 못 속여! 손등 케어 팁]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=36286808&amp;memberNo=11800362</id>
@@ -153,12 +161,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36153053&amp;memberNo=11800362"/>
         <updated>2023-07-25T03:09:38.552Z</updated>
         <content type="html"><![CDATA[알고 보니 #럽스타그램?!▼ 클릭 ▼하나뿐인 내편조혜원과 이장우는 KBS 2TV 주말드라마 〈하나뿐인 내편〉에 함께 출연하며 인연을 맺었다. 이장우는 극 중 남주인공인 왕대륙 역을 열연했으며, 조혜원은 단역을 맡아 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUMP into Unknown Lands]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36135318&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36135318&amp;memberNo=11800362"/>
-        <updated>2023-07-25T03:09:38.577Z</updated>
-        <content type="html"><![CDATA[제이에스티나와 함께 떠나는 아이유의 낯선 여행.▼ 클릭 ▼ JUMP into Unknown Lands 제이에스티나와 함께 떠나는 아이유의 낯선 여행. www.cosmopolitan.co.kr  목걸이 (위) 32만8천원, (아래) 62만8천원 제이에스티···]]></content>
     </entry>
 </feed>
