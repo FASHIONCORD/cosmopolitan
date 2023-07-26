@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-26T15:10:10.992Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[출산, 육아 극한 상황을 이겨낸 찐다이어트 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79392</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79392"/>
-        <updated>2023-07-26T08:11:52.740Z</updated>
-        <content type="html"><![CDATA[올해 출산 소식을 알린 최희, 지소연이 다이어트 성공 소식을 전했다. 육아, 출산으로 몇배 더...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줄리엔강♥제이제이, 4주에 허리 3인치 줄어드는 식단?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79382</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79382"/>
-        <updated>2023-07-26T02:07:44.891Z</updated>
-        <content type="html"><![CDATA[줄리엔강&amp;제이제이가 흡입하는 감량식 레서피 공개.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 해린 등판! 사랑스러운 아기 고양이 보고 가세요]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79381</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79381"/>
-        <updated>2023-07-25T02:18:56.087Z</updated>
-        <content type="html"><![CDATA[Super Shy~ 하지만 귀여워!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청량 미모 포텐 터지는 아이돌 pick! 여름 뷰티 팁은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79299</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79299"/>
-        <updated>2023-07-24T11:08:05.985Z</updated>
-        <content type="html"><![CDATA[절대 지켜, 서머 페이스!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chill in Your Air]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79199</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79199"/>
-        <updated>2023-07-24T11:08:05.987Z</updated>
-        <content type="html"><![CDATA[루이 비통 퍼퓸 드 콜로뉴 퍼시픽 칠과 함께하는 캘리포니아에서의 에너제틱한 아침.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스와 리파 하트브러시의 러블리한 만남, 디지털 커버로 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79260</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79260"/>
-        <updated>2023-07-24T05:09:49.025Z</updated>
-        <content type="html"><![CDATA[리파 하트브러시의 뮤즈, 엔믹스의 소녀스러운 모습을 포착한 코스모폴리탄 디지털 커버와 무빙 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촉촉산뜻 선크림]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79097</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79097"/>
-        <updated>2023-07-24T03:10:21.474Z</updated>
-        <content type="html"><![CDATA[24시간 지속되는 보습력과 산뜻한 발림성을 갖춘 유니레버 바세린 선크림과 함께라면 뜨거운 태양...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘헉’ 소리 나게 한 엄정화의 복근, 만들 수 있었던 비결은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79253</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79253"/>
-        <updated>2023-07-24T00:47:43.173Z</updated>
-        <content type="html"><![CDATA[인간미 넘치는 내 배 눈 감아~.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Jul 2023 17:08:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출산, 육아 극한 상황을 이겨낸 찐다이어트 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79392</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79392</guid>
+            <pubDate>Wed, 26 Jul 2023 08:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[올해 출산 소식을 알린 최희, 지소연이 다이어트 성공 소식을 전했다. 육아, 출산으로 몇배 더...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/2698f61a-09db-432b-98f9-27d70edb77f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줄리엔강♥제이제이, 4주에 허리 3인치 줄어드는 식단?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79382</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79382</guid>
+            <pubDate>Wed, 26 Jul 2023 02:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[줄리엔강&amp;제이제이가 흡입하는 감량식 레서피 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/c6b71d83-ea2a-43f8-a17a-54928b217eeb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 해린 등판! 사랑스러운 아기 고양이 보고 가세요]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79381</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79381</guid>
+            <pubDate>Tue, 25 Jul 2023 02:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[Super Shy~ 하지만 귀여워!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/c5aa0edf-1d93-469a-a9c0-f8e2d0e9e61a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청량 미모 포텐 터지는 아이돌 pick! 여름 뷰티 팁은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79299</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79299</guid>
+            <pubDate>Mon, 24 Jul 2023 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[절대 지켜, 서머 페이스!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/c63a11c5-819b-4ab8-815e-fdcd72ba3de2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chill in Your Air]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79199</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79199</guid>
+            <pubDate>Mon, 24 Jul 2023 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통 퍼퓸 드 콜로뉴 퍼시픽 칠과 함께하는 캘리포니아에서의 에너제틱한 아침.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/2983c517-0294-4bd9-893f-7cc19d7dc79f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔믹스와 리파 하트브러시의 러블리한 만남, 디지털 커버로 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79260</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79260</guid>
+            <pubDate>Mon, 24 Jul 2023 05:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[리파 하트브러시의 뮤즈, 엔믹스의 소녀스러운 모습을 포착한 코스모폴리탄 디지털 커버와 무빙 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/9ca6190c-6ea2-4135-bca0-47357fe3b3d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[촉촉산뜻 선크림]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79097</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79097</guid>
+            <pubDate>Mon, 24 Jul 2023 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[24시간 지속되는 보습력과 산뜻한 발림성을 갖춘 유니레버 바세린 선크림과 함께라면 뜨거운 태양...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/6c81cf56-c1bc-477e-bfa7-e3c0e3d65f76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘헉’ 소리 나게 한 엄정화의 복근, 만들 수 있었던 비결은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79253</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79253</guid>
+            <pubDate>Mon, 24 Jul 2023 00:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[인간미 넘치는 내 배 눈 감아~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/920345e9-63bc-4a83-9709-82a3ac5e6aca.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
