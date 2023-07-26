@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-07-25T23:08:43.246Z</updated>
+    <updated>2023-07-26T00:46:37.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 해린 등판! 사랑스러운 아기 고양이 보고 가세요]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79381</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79381"/>
+        <updated>2023-07-26T00:46:03.892Z</updated>
+        <content type="html"><![CDATA[Super Shy~ 하지만 귀여워!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웃참 실패 보장! 에이티즈의 저세상 텐션 실화?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79375</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79254"/>
         <updated>2023-07-21T07:09:15.741Z</updated>
         <content type="html"><![CDATA[함께 기부하며 사랑을 키우는 두 사람의 기부 타임라인.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥주 내려놓고 이거 봐! 엄정화∙장원영∙미미의 식스팩]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79250</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79250"/>
-        <updated>2023-07-21T00:46:58.220Z</updated>
-        <content type="html"><![CDATA[더우니까 맥주나 마실래? 이거 보면 생각이 달라질 텐데?]]></content>
     </entry>
 </feed>
