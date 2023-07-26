@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-07-26T13:14:16.872Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[장꾸미 가득! 김대호의 온앤오프 라이프]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79438</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79438"/>
-        <updated>2023-07-26T06:14:26.161Z</updated>
-        <content type="html"><![CDATA[취미 부자 모멘트부터 1n년차 차장님 본캐까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예쁜 애 옆에 예쁜애! 밍글밍글한 엔믹스의 맑눈광 모먼트 대.공.개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79428</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79428"/>
-        <updated>2023-07-26T04:10:36.994Z</updated>
-        <content type="html"><![CDATA[엔믹스의 본캐? 갓벽함에 맑눈광 한 스푼!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨거운 데뷔를 앞둔 브브걸 완전체 화보 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79309</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79309"/>
-        <updated>2023-07-26T03:11:02.287Z</updated>
-        <content type="html"><![CDATA[‘브브걸’이라는 새 이름으로 뜨거운 데뷔를 앞둔 민영, 유정, 은지, 유나를 만났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴가갈 땐 이렇게! 전직 승무원 해은이 알려주는 비행 꿀팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79413</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79413"/>
-        <updated>2023-07-26T03:11:02.293Z</updated>
-        <content type="html"><![CDATA[승무원 시절 직업병 나오는 건 덤!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 해린 등판! 사랑스러운 아기 고양이 보고 가세요]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79381</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79381"/>
-        <updated>2023-07-26T00:46:03.892Z</updated>
-        <content type="html"><![CDATA[Super Shy~ 하지만 귀여워!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃참 실패 보장! 에이티즈의 저세상 텐션 실화?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79375</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79375"/>
-        <updated>2023-07-25T13:16:26.532Z</updated>
-        <content type="html"><![CDATA[멤버 전원이 개그캐? 계~속 드립을 치는 에이티즈 폼 미쳐따이.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그레타 거윅이 나아갈 가장 먼 곳]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79328</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79328"/>
-        <updated>2023-07-25T03:10:10.432Z</updated>
-        <content type="html"><![CDATA[전 세계 핑크색 페인트를 동내며 클리셰를 비튼 야심 찬 영화, &lt;바비&gt;의 감독 그레타 거윅. &lt;...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마치 꿈속에서 본 오마이걸]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79274</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79274"/>
-        <updated>2023-07-25T00:52:34.764Z</updated>
-        <content type="html"><![CDATA[언제나 우리를 꿈꾸게 하는 오마이걸. 그들의 존재는 어쩌면 기적이다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Jul 2023 14:10:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장꾸미 가득! 김대호의 온앤오프 라이프]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79438</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79438</guid>
+            <pubDate>Wed, 26 Jul 2023 06:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[취미 부자 모멘트부터 1n년차 차장님 본캐까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/7aa2ff0c-0aee-4bed-af97-43cc8d78dbfc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예쁜 애 옆에 예쁜애! 밍글밍글한 엔믹스의 맑눈광 모먼트 대.공.개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79428</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79428</guid>
+            <pubDate>Wed, 26 Jul 2023 04:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[엔믹스의 본캐? 갓벽함에 맑눈광 한 스푼!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/5a9027e3-6068-4000-99c8-6916c423f7d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뜨거운 데뷔를 앞둔 브브걸 완전체 화보 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79309</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79309</guid>
+            <pubDate>Wed, 26 Jul 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘브브걸’이라는 새 이름으로 뜨거운 데뷔를 앞둔 민영, 유정, 은지, 유나를 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/e73824f6-b414-4d3e-83bb-c1ceca4e8e25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴가갈 땐 이렇게! 전직 승무원 해은이 알려주는 비행 꿀팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79413</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79413</guid>
+            <pubDate>Wed, 26 Jul 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[승무원 시절 직업병 나오는 건 덤!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/34105468-9d72-4fe3-9e83-4ea9aafd7982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 해린 등판! 사랑스러운 아기 고양이 보고 가세요]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79381</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79381</guid>
+            <pubDate>Wed, 26 Jul 2023 00:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[Super Shy~ 하지만 귀여워!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/c5aa0edf-1d93-469a-a9c0-f8e2d0e9e61a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웃참 실패 보장! 에이티즈의 저세상 텐션 실화?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79375</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79375</guid>
+            <pubDate>Tue, 25 Jul 2023 13:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[멤버 전원이 개그캐? 계~속 드립을 치는 에이티즈 폼 미쳐따이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/7ffcbf39-5ee5-42b0-a4e0-b24bfd7e6d56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그레타 거윅이 나아갈 가장 먼 곳]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79328</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79328</guid>
+            <pubDate>Tue, 25 Jul 2023 03:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 핑크색 페인트를 동내며 클리셰를 비튼 야심 찬 영화, &lt;바비&gt;의 감독 그레타 거윅. &lt;...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/34c1f75e-2ed0-40f0-8d83-c9b9eba38e9c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마치 꿈속에서 본 오마이걸]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79274</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79274</guid>
+            <pubDate>Tue, 25 Jul 2023 00:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[언제나 우리를 꿈꾸게 하는 오마이걸. 그들의 존재는 어쩌면 기적이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/e7b05580-822f-4165-8e78-a3626ec11a6a.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
