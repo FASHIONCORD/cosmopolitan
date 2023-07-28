@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-28T09:09:28.358Z</updated>
+    <updated>2023-07-28T10:10:11.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스모퀄리티어워즈 캐리어 부문 리모와]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79496</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79496"/>
+        <updated>2023-07-28T10:09:59.531Z</updated>
+        <content type="html"><![CDATA[공항 패션의 완성 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스모퀄리티어워즈 전기차 부문 미니]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79495</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79384"/>
         <updated>2023-07-27T03:11:16.559Z</updated>
         <content type="html"><![CDATA[그대로 만들었는데 뒷골목 노포 맛이 난다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직 안 가봤어? 코스모 핫플 잘알들의 추천 맛집 다 턴다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79350</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79350"/>
-        <updated>2023-07-27T03:11:16.560Z</updated>
-        <content type="html"><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 핫플 총정리! 코스모의 먹을텐데😜]]></content>
     </entry>
 </feed>
