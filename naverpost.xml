@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-07-28T04:11:14.339Z</updated>
+    <updated>2023-07-28T05:10:16.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[말복에 뭐 먹지? 성시경·대호84 PICK! 이북식 찜닭]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36321689&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36321689&amp;memberNo=11800362"/>
+        <updated>2023-07-28T05:08:33.164Z</updated>
+        <content type="html"><![CDATA[▼ 클릭 ▼  말복에 뭐 먹지? 성시경·대호84 PICK! 이북식 찜닭 일단 약수역에서 만나. www.cosmopolitan.co.kr 만포막국수 성시경의 〈먹을텐데〉, 김대호의 〈퇴근후N〉 등에 등장한 쪽파 이불 덮은 이북식 찜닭 전문점.···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키가 ‘8cm’나 자란다? 
 시우민도 반한 운동법의 정체]]></title>
@@ -155,13 +162,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36168857&amp;memberNo=11800362"/>
         <updated>2023-07-28T03:09:22.119Z</updated>
         <content type="html"><![CDATA[기안과 코쿤이 화면보고 체했다는 바로 그 세미나!▼ 클릭 ▼19첩반상 클래스, 백성식당KTX 종착역 목포역 바로 앞 오거리에 위치한 백반집이다. 1만1000원에 19첩 반상을 만날 수 있다고. 기본 찬으로 바지락이 너무 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준의 그녀? 제니의 친구? 
-154만 유튜버라는데?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36153119&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36153119&amp;memberNo=11800362"/>
-        <updated>2023-07-28T03:09:22.120Z</updated>
-        <content type="html"><![CDATA[유튜버 수스의 일상부터 과거까지 총정리. ▼ 클릭 ▼  박서준의 그녀? 제니의 친구? 154만 유튜버라는데? 유튜버 수스의 일상부터 과거까지 총정리. www.cosmopolitan.co.kr  수스가 누구냐고? 동영상  버튼을 누르면···]]></content>
     </entry>
 </feed>
