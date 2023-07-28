@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-07-28T03:10:39.034Z</updated>
+    <updated>2023-07-28T04:11:14.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스모퀄리티어워즈 전기차 부문 미니]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79495</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79495"/>
+        <updated>2023-07-28T04:11:03.180Z</updated>
+        <content type="html"><![CDATA[이름은 미니, 매력은 자이언트 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스모퀄리티어워즈 카메라 부문 인스탁스, 캐논]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79494</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79350"/>
         <updated>2023-07-27T03:11:16.560Z</updated>
         <content type="html"><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 핫플 총정리! 코스모의 먹을텐데😜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그레타 거윅이 나아갈 가장 먼 곳]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79328</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79328"/>
-        <updated>2023-07-27T03:11:16.560Z</updated>
-        <content type="html"><![CDATA[전 세계 핑크색 페인트를 동내며 클리셰를 비튼 야심 찬 영화, &lt;바비&gt;의 감독 그레타 거윅. &lt;...]]></content>
     </entry>
 </feed>
