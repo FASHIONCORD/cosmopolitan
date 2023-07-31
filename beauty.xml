@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-31T14:10:56.202Z</updated>
+    <updated>2023-07-31T15:10:50.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갓벽한 넘사 여돌, 권은비∙브브걸 민영이 밝힌 몸매 관리 팁은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79523</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79523"/>
+        <updated>2023-07-31T15:09:54.593Z</updated>
+        <content type="html"><![CDATA[다 가지면 반칙 아닌가요!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최근 컴백한 소유, 체중감량을 위해 OOO까지 해봤다?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79474</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79382"/>
         <updated>2023-07-26T02:07:44.891Z</updated>
         <content type="html"><![CDATA[줄리엔강&amp;제이제이가 흡입하는 감량식 레서피 공개.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 해린 등판! 사랑스러운 아기 고양이 보고 가세요]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79381</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79381"/>
-        <updated>2023-07-25T02:18:56.087Z</updated>
-        <content type="html"><![CDATA[Super Shy~ 하지만 귀여워!]]></content>
     </entry>
 </feed>
