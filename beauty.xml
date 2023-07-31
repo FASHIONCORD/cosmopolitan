@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-07-31T15:10:50.747Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[갓벽한 넘사 여돌, 권은비∙브브걸 민영이 밝힌 몸매 관리 팁은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79523</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79523"/>
-        <updated>2023-07-31T15:09:54.593Z</updated>
-        <content type="html"><![CDATA[다 가지면 반칙 아닌가요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 컴백한 소유, 체중감량을 위해 OOO까지 해봤다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79474</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79474"/>
-        <updated>2023-07-31T07:09:43.191Z</updated>
-        <content type="html"><![CDATA[극to the한 그 잡채…!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘신이 내린 몸매’라는 장윤주의 다이어트 방법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79442</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79442"/>
-        <updated>2023-07-31T03:10:00.662Z</updated>
-        <content type="html"><![CDATA[엄청난 비율과 볼륨감으로 다이어트 자극짤의 주인공이 되곤 하는 장윤주의 몸매 관리 비결.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스챤 디올 뷰티와 뉴진스 해린의 아름다운 순간들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79426</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79426"/>
-        <updated>2023-07-31T02:33:47.355Z</updated>
-        <content type="html"><![CDATA[따스한 컬러와 우아함이 더해진 텍스처가 완성한 크리스챤 디올 뷰티와 뉴진스 해린의 아름다운 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니부터 태연·부승관까지! 톱 아이돌들의 부기 관리 노하우]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79421</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79421"/>
-        <updated>2023-07-31T02:01:10.115Z</updated>
-        <content type="html"><![CDATA[얼음과 레몬 하나면 누구나 손쉽게 할 수 있다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키가 ‘8cm’나 자란다? 시우민도 반한 운동법의 정체]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79420</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79420"/>
-        <updated>2023-07-27T10:11:16.804Z</updated>
-        <content type="html"><![CDATA[운동하고 숨은 키 끌어올려~!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출산, 육아 극한 상황을 이겨낸 찐다이어트 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79392</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79392"/>
-        <updated>2023-07-26T08:11:52.740Z</updated>
-        <content type="html"><![CDATA[올해 출산 소식을 알린 최희, 지소연이 다이어트 성공 소식을 전했다. 육아, 출산으로 몇배 더...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줄리엔강♥제이제이, 4주에 허리 3인치 줄어드는 식단?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79382</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79382"/>
-        <updated>2023-07-26T02:07:44.891Z</updated>
-        <content type="html"><![CDATA[줄리엔강&amp;제이제이가 흡입하는 감량식 레서피 공개.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 31 Jul 2023 16:20:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갓벽한 넘사 여돌, 권은비∙브브걸 민영이 밝힌 몸매 관리 팁은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79523</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79523</guid>
+            <pubDate>Mon, 31 Jul 2023 15:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[다 가지면 반칙 아닌가요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/74d1989e-779b-4645-914e-e63f668e9de0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 컴백한 소유, 체중감량을 위해 OOO까지 해봤다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79474</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79474</guid>
+            <pubDate>Mon, 31 Jul 2023 07:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[극to the한 그 잡채…!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/b166954c-670b-4c85-ab1f-cf54179aff4d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘신이 내린 몸매’라는 장윤주의 다이어트 방법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79442</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79442</guid>
+            <pubDate>Mon, 31 Jul 2023 03:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[엄청난 비율과 볼륨감으로 다이어트 자극짤의 주인공이 되곤 하는 장윤주의 몸매 관리 비결.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/89e11d7f-6225-4ebe-81f7-3dc6955183e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스챤 디올 뷰티와 뉴진스 해린의 아름다운 순간들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79426</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79426</guid>
+            <pubDate>Mon, 31 Jul 2023 02:33:47 GMT</pubDate>
+            <content:encoded><![CDATA[따스한 컬러와 우아함이 더해진 텍스처가 완성한 크리스챤 디올 뷰티와 뉴진스 해린의 아름다운 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/6a992984-1a2b-44f7-87bd-02611a217fcf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니부터 태연·부승관까지! 톱 아이돌들의 부기 관리 노하우]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79421</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79421</guid>
+            <pubDate>Mon, 31 Jul 2023 02:01:10 GMT</pubDate>
+            <content:encoded><![CDATA[얼음과 레몬 하나면 누구나 손쉽게 할 수 있다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/006c4594-3306-44b4-9722-b7b1a2cdf397.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키가 ‘8cm’나 자란다? 시우민도 반한 운동법의 정체]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79420</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79420</guid>
+            <pubDate>Thu, 27 Jul 2023 10:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[운동하고 숨은 키 끌어올려~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/f0eadad5-78e6-4b79-91db-233907e61c42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출산, 육아 극한 상황을 이겨낸 찐다이어트 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79392</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79392</guid>
+            <pubDate>Wed, 26 Jul 2023 08:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[올해 출산 소식을 알린 최희, 지소연이 다이어트 성공 소식을 전했다. 육아, 출산으로 몇배 더...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/2698f61a-09db-432b-98f9-27d70edb77f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줄리엔강♥제이제이, 4주에 허리 3인치 줄어드는 식단?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79382</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79382</guid>
+            <pubDate>Wed, 26 Jul 2023 02:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[줄리엔강&amp;제이제이가 흡입하는 감량식 레서피 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/c6b71d83-ea2a-43f8-a17a-54928b217eeb.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
