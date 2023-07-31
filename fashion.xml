@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 02:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 03:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모태 부자 패션? ‘올드 머니 룩’ 입은 셀럽 패션 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79417</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79417</guid>
+            <pubDate>Mon, 31 Jul 2023 03:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[다가올 HOT 패션 트렌드 올드머니 룩 전격 분석!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/95399b09-7fc2-47e8-9720-e206b990293e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정국도 반했다?! ‘세븐’ MV 속 한소희의 여친룩]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79246</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79246</guid>
+            <pubDate>Mon, 31 Jul 2023 03:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[힙하다고 난리 난 한소희의 뮤비 룩을 살펴보자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/058a8a0b-b7f9-4f53-ace6-c70fff15c3c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장희령∙미미∙나나가 찾은 발리! 셀럽들의 발리 여행 룩 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79233</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 18 Jul 2023 02:56:28 GMT</pubDate>
             <content:encoded><![CDATA[무더운 날씨만큼 핫한 7월의 패션 뉴스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/ef488fe0-b477-451b-b76a-cde4ec1434f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식&베이식 만능 아이템 '폴로 셔츠'에 대하여]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78731</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78731</guid>
-            <pubDate>Tue, 18 Jul 2023 02:56:28 GMT</pubDate>
-            <content:encoded><![CDATA[스쿨 룩부터 비즈니스 룩, 스포츠 룩, 리조트 룩까지 아우르는, 모든 이들이 즐길 수 있는 민...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/648fe1b8-168b-499d-8d05-6b7eac246470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 에디터들의 INSPIRATION BOARD가 궁금해?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78609</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78609</guid>
-            <pubDate>Mon, 17 Jul 2023 02:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[매달 코스모를 만드는 에디터와 아트 디자이너의 인스피레이션 보드를 탈탈 털었다. 보는 것만으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/5a0efa68-140f-4f33-b169-c82766d30a54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
