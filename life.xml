@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 16:12:59 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[호텔 애프터눈 티 먹으러 부산 당일치기 행?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79601</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79601</guid>
-            <pubDate>Tue, 01 Aug 2023 15:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산은 출장 말고 여행으로 가세요 제발~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/56ac3b07-8d93-4f52-82b3-08cbaa0ff34d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉬운데 고급진 맛이라고? 김나영표 여름 국수 레서피]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79596</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79596</guid>
-            <pubDate>Tue, 01 Aug 2023 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[집 나간 입맛 돌아오는 비빔 국수와 김치 물국수!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b33ff7ab-129b-4428-bcc1-56032da79941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텐션 올려~! 성시경 먹텐부터 고전 맛집까지 매운맛 핫플 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79589</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79589</guid>
-            <pubDate>Tue, 01 Aug 2023 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[이 여름에 꼭 가야 할 매운 맛집 핫플 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/f3ed9a66-ddac-40c8-a202-cad8c1d77213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코퀄리티어워즈 숙취 해소 음료 부문 '헛개소주']]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79582</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79582</guid>
-            <pubDate>Tue, 01 Aug 2023 03:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[마실수록 술이 깨요, 환상의 컬래버 상]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/3a1f64a7-f555-405b-b289-8583aefad73f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 PICK! 주말에 힐링테라피 하기 좋은 에세이 추천해Dream]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79561</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79561</guid>
-            <pubDate>Mon, 31 Jul 2023 16:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[독서 한 권으로 소.확.행 힐링 해보자구요~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/d4ae7fcc-8b42-4e00-8663-364cae0475ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직 페스티벌 등판! 줄 서면 무조건 댕이득인 코스모 트레일러]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79540</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79540</guid>
-            <pubDate>Mon, 31 Jul 2023 08:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[선물요정 코스모 트레일러! 다음엔 어디서 만날 수 있죠?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/96eac52b-c3a1-4897-b4c7-30db72fe3b14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코퀄리티어워즈 맥주 부문  '한맥']]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79528</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79528</guid>
-            <pubDate>Mon, 31 Jul 2023 04:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 맥주 센터 상]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/9c90147a-744c-4fa9-ad0c-1411d98a7fbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모퀄리티어워즈 항공사 부문 진에어, 제주항공, 에어프레미아]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79498</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79498</guid>
-            <pubDate>Mon, 31 Jul 2023 03:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[편안함은 가격순이 아니잖아요 상]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/219931ec-f48a-49f5-9518-582fb55c1305.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-08-01T17:11:07.726Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호텔 애프터눈 티 먹으러 부산 당일치기 행?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79601</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79601"/>
+        <updated>2023-08-01T15:11:00.513Z</updated>
+        <content type="html"><![CDATA[부산은 출장 말고 여행으로 가세요 제발~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉬운데 고급진 맛이라고? 김나영표 여름 국수 레서피]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79596</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79596"/>
+        <updated>2023-08-01T09:14:46.440Z</updated>
+        <content type="html"><![CDATA[집 나간 입맛 돌아오는 비빔 국수와 김치 물국수!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텐션 올려~! 성시경 먹텐부터 고전 맛집까지 매운맛 핫플 모음]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79589</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79589"/>
+        <updated>2023-08-01T09:14:46.442Z</updated>
+        <content type="html"><![CDATA[이 여름에 꼭 가야 할 매운 맛집 핫플 리스트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코퀄리티어워즈 숙취 해소 음료 부문 '헛개소주']]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79582</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79582"/>
+        <updated>2023-08-01T03:14:34.624Z</updated>
+        <content type="html"><![CDATA[마실수록 술이 깨요, 환상의 컬래버 상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스모 PICK! 주말에 힐링테라피 하기 좋은 에세이 추천해Dream]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79561</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79561"/>
+        <updated>2023-07-31T16:20:33.295Z</updated>
+        <content type="html"><![CDATA[독서 한 권으로 소.확.행 힐링 해보자구요~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤직 페스티벌 등판! 줄 서면 무조건 댕이득인 코스모 트레일러]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79540</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79540"/>
+        <updated>2023-07-31T08:16:09.114Z</updated>
+        <content type="html"><![CDATA[선물요정 코스모 트레일러! 다음엔 어디서 만날 수 있죠?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코퀄리티어워즈 맥주 부문  '한맥']]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79528</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79528"/>
+        <updated>2023-07-31T04:12:03.958Z</updated>
+        <content type="html"><![CDATA[차세대 맥주 센터 상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스모퀄리티어워즈 항공사 부문 진에어, 제주항공, 에어프레미아]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79498</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79498"/>
+        <updated>2023-07-31T03:10:33.385Z</updated>
+        <content type="html"><![CDATA[편안함은 가격순이 아니잖아요 상]]></content>
+    </entry>
+</feed>
