@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 14:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 15:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단발병 퇴치 SSAP가능! 여돌들의 서머 레이어드 컷 모음]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79591</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79591</guid>
+            <pubDate>Tue, 01 Aug 2023 15:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[8월 컴백 여돌들 다 한다는 여름 헤어, 이건 못 참지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7bba0a6e-8e65-409b-8584-433a4f196808.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스챤 디올 뷰티와 뉴진스 해린이 만들어 낸 다채로운 뷰티룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79427</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 27 Jul 2023 10:11:16 GMT</pubDate>
             <content:encoded><![CDATA[운동하고 숨은 키 끌어올려~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/f0eadad5-78e6-4b79-91db-233907e61c42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출산, 육아 극한 상황을 이겨낸 찐다이어트 팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79392</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79392</guid>
-            <pubDate>Wed, 26 Jul 2023 08:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[올해 출산 소식을 알린 최희, 지소연이 다이어트 성공 소식을 전했다. 육아, 출산으로 몇배 더...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/2698f61a-09db-432b-98f9-27d70edb77f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
