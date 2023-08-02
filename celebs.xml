@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-02T22:08:53.716Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[유죄인간 플러팅 장인 이동욱]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79472</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79472"/>
-        <updated>2023-08-02T10:10:21.484Z</updated>
-        <content type="html"><![CDATA[츤데레의 바이블, 인급동 예비 유투버 이동욱의 플러팅에 설렜던 사람, 손!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름휴가도 함께? <아빠 어디 가> 아이들의 최신 근황]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79450</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79450"/>
-        <updated>2023-08-01T09:14:29.805Z</updated>
-        <content type="html"><![CDATA[훌쩍 자란 랜선 조카들!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 MV에 양조위가 노 개런티로 출연했다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79449</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79449"/>
-        <updated>2023-08-01T08:12:01.956Z</updated>
-        <content type="html"><![CDATA[영화인 줄? 어도어 민희진의 섭외 클라쓰!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스 와이프 허락 받고 출연? <돌싱글즈 4> 제롬]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79445</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79445"/>
-        <updated>2023-08-01T07:10:09.197Z</updated>
-        <content type="html"><![CDATA[미국편답게 할리우드 재질!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찾았다! 오마이걸이 말하는 8년차 오마이걸의 찐 가족 케미!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79441</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79441"/>
-        <updated>2023-08-01T06:16:34.548Z</updated>
-        <content type="html"><![CDATA[Golden Hourglass 많.관.부!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장꾸미 가득! 김대호의 온앤오프 라이프]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79438</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79438"/>
-        <updated>2023-07-26T06:14:26.161Z</updated>
-        <content type="html"><![CDATA[취미 부자 모멘트부터 1n년차 차장님 본캐까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예쁜 애 옆에 예쁜애! 밍글밍글한 엔믹스의 맑눈광 모먼트 대.공.개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79428</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79428"/>
-        <updated>2023-07-26T04:10:36.994Z</updated>
-        <content type="html"><![CDATA[엔믹스의 본캐? 갓벽함에 맑눈광 한 스푼!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨거운 데뷔를 앞둔 브브걸 완전체 화보 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79309</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79309"/>
-        <updated>2023-07-26T03:11:02.287Z</updated>
-        <content type="html"><![CDATA[‘브브걸’이라는 새 이름으로 뜨거운 데뷔를 앞둔 민영, 유정, 은지, 유나를 만났다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 02 Aug 2023 23:09:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유죄인간 플러팅 장인 이동욱]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79472</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79472</guid>
+            <pubDate>Wed, 02 Aug 2023 10:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[츤데레의 바이블, 인급동 예비 유투버 이동욱의 플러팅에 설렜던 사람, 손!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/a2725536-7d33-4834-8dc9-f71b131144a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름휴가도 함께? <아빠 어디 가> 아이들의 최신 근황]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79450</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79450</guid>
+            <pubDate>Tue, 01 Aug 2023 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[훌쩍 자란 랜선 조카들!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/82fcea5a-a4d6-4775-9d95-a54d975557cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 MV에 양조위가 노 개런티로 출연했다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79449</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79449</guid>
+            <pubDate>Tue, 01 Aug 2023 08:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[영화인 줄? 어도어 민희진의 섭외 클라쓰!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/4021fff4-b3ff-4058-8de5-68355a711e7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑스 와이프 허락 받고 출연? <돌싱글즈 4> 제롬]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79445</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79445</guid>
+            <pubDate>Tue, 01 Aug 2023 07:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[미국편답게 할리우드 재질!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/036f1b49-fbe8-4065-93a5-79d2e93c132e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찾았다! 오마이걸이 말하는 8년차 오마이걸의 찐 가족 케미!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79441</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79441</guid>
+            <pubDate>Tue, 01 Aug 2023 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[Golden Hourglass 많.관.부!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/3270313a-20f3-4dd1-ab79-569e8b3314e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장꾸미 가득! 김대호의 온앤오프 라이프]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79438</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79438</guid>
+            <pubDate>Wed, 26 Jul 2023 06:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[취미 부자 모멘트부터 1n년차 차장님 본캐까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/7aa2ff0c-0aee-4bed-af97-43cc8d78dbfc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예쁜 애 옆에 예쁜애! 밍글밍글한 엔믹스의 맑눈광 모먼트 대.공.개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79428</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79428</guid>
+            <pubDate>Wed, 26 Jul 2023 04:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[엔믹스의 본캐? 갓벽함에 맑눈광 한 스푼!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/5a9027e3-6068-4000-99c8-6916c423f7d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뜨거운 데뷔를 앞둔 브브걸 완전체 화보 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79309</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79309</guid>
+            <pubDate>Wed, 26 Jul 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘브브걸’이라는 새 이름으로 뜨거운 데뷔를 앞둔 민영, 유정, 은지, 유나를 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/e73824f6-b414-4d3e-83bb-c1ceca4e8e25.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
