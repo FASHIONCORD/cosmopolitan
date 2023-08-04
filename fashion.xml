@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 14:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 15:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모가 픽한 8월의 패션템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79506</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79506</guid>
+            <pubDate>Fri, 04 Aug 2023 15:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 8월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/7c58ba96-8703-4a0e-b71d-2727d920b8f1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코퀄리티어워즈 콘돔 부문 '이브']]></title>
             <link>https://www.cosmopolitan.co.kr/article/79598</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 31 Jul 2023 05:09:28 GMT</pubDate>
             <content:encoded><![CDATA[요즘 트렌드 메탈릭 패션 ITEM! 어떻게 스타일링 할까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/bee817fe-7771-49a9-a1ac-d0e2b4db8b71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모태 부자 패션? ‘올드 머니 룩’ 입은 셀럽 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79417</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79417</guid>
-            <pubDate>Mon, 31 Jul 2023 03:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[다가올 HOT 패션 트렌드 올드머니 룩 전격 분석!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/95399b09-7fc2-47e8-9720-e206b990293e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
