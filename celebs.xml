@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-04T09:10:18.790Z</updated>
+    <updated>2023-08-04T10:10:35.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이러니 안 반해? 김혜수∙조인성∙마고 로비의 특급 팬 서비스]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79635</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79635"/>
+        <updated>2023-08-04T10:10:07.465Z</updated>
+        <content type="html"><![CDATA[아직도 더 반할 일이 있다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의리 폼 미쳤다! 정국 무대에 깜짝 등장한 셀렙의 정체]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79633</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79441"/>
         <updated>2023-08-01T06:16:34.548Z</updated>
         <content type="html"><![CDATA[Golden Hourglass 많.관.부!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장꾸미 가득! 김대호의 온앤오프 라이프]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79438</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79438"/>
-        <updated>2023-07-26T06:14:26.161Z</updated>
-        <content type="html"><![CDATA[취미 부자 모멘트부터 1n년차 차장님 본캐까지.]]></content>
     </entry>
 </feed>
