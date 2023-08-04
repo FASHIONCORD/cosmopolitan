@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 11:09:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[코퀄리티어워즈 콘돔 부문 '이브']]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79598</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79598</guid>
-            <pubDate>Fri, 04 Aug 2023 01:57:48 GMT</pubDate>
-            <content:encoded><![CDATA[아담에겐 이브가 필요해 상]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/6180c205-dab4-4819-99b6-77af05c32fbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코퀄리티어워즈 폰꾸 부문  '케이스티파이']]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79302</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79302</guid>
-            <pubDate>Thu, 03 Aug 2023 16:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[뒷모습이 예뻐야 거울 셀카 완성이지 상]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/972c4756-d019-4c13-ba5a-1633ae556327.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장원영∙차정원의 최애 여름 패션? 셀럽 화이트 슬리브리스 룩 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79595</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79595</guid>
-            <pubDate>Wed, 02 Aug 2023 15:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[시원하면서 세련된 여름 스타일링을 찾고 있었다면 들어오시라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b7a2227c-1978-4559-929d-b40742e980a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스∙장원영∙허윤진 등 아이돌 ‘바비코어’ 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79594</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79594</guid>
-            <pubDate>Tue, 01 Aug 2023 16:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;바비&gt;를 타고 왔다! 바비코어 패션이란?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/fc3693d5-701d-49af-947d-3b9aeaf5ac82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지올팍과 골든구스의 아티스트 정신]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79557</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79557</guid>
-            <pubDate>Mon, 31 Jul 2023 16:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[NEW FAIRY TALE]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/c47e98f2-1c9d-4493-b9a6-1cb9d1710a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모폴리탄 퀄리티 어워즈 2023]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79266</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79266</guid>
-            <pubDate>Mon, 31 Jul 2023 05:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2030 MZ세대 3천 명을 대상으로 설문조사를 실시해 선정한 제3회 '코스모폴리탄 퀄리티 어워즈'...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/9a4c2dac-fa44-42ee-a700-a3cd10760d3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실버 가방이 대세! 차정원∙오눅 등 셀럽 실버백 코디 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79418</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79418</guid>
-            <pubDate>Mon, 31 Jul 2023 05:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 트렌드 메탈릭 패션 ITEM! 어떻게 스타일링 할까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/bee817fe-7771-49a9-a1ac-d0e2b4db8b71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모태 부자 패션? ‘올드 머니 룩’ 입은 셀럽 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79417</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79417</guid>
-            <pubDate>Mon, 31 Jul 2023 03:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[다가올 HOT 패션 트렌드 올드머니 룩 전격 분석!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/95399b09-7fc2-47e8-9720-e206b990293e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-08-04T12:17:33.490Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코퀄리티어워즈 콘돔 부문 '이브']]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79598</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79598"/>
+        <updated>2023-08-04T01:57:48.581Z</updated>
+        <content type="html"><![CDATA[아담에겐 이브가 필요해 상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코퀄리티어워즈 폰꾸 부문  '케이스티파이']]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79302</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79302"/>
+        <updated>2023-08-03T16:10:56.859Z</updated>
+        <content type="html"><![CDATA[뒷모습이 예뻐야 거울 셀카 완성이지 상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장원영∙차정원의 최애 여름 패션? 셀럽 화이트 슬리브리스 룩 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79595</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79595"/>
+        <updated>2023-08-02T15:08:42.378Z</updated>
+        <content type="html"><![CDATA[시원하면서 세련된 여름 스타일링을 찾고 있었다면 들어오시라.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스∙장원영∙허윤진 등 아이돌 ‘바비코어’ 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79594</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79594"/>
+        <updated>2023-08-01T16:11:32.882Z</updated>
+        <content type="html"><![CDATA[영화 &lt;바비&gt;를 타고 왔다! 바비코어 패션이란?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지올팍과 골든구스의 아티스트 정신]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79557</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79557"/>
+        <updated>2023-07-31T16:19:03.510Z</updated>
+        <content type="html"><![CDATA[NEW FAIRY TALE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스모폴리탄 퀄리티 어워즈 2023]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79266</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79266"/>
+        <updated>2023-07-31T05:09:28.197Z</updated>
+        <content type="html"><![CDATA[2030 MZ세대 3천 명을 대상으로 설문조사를 실시해 선정한 제3회 '코스모폴리탄 퀄리티 어워즈'...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실버 가방이 대세! 차정원∙오눅 등 셀럽 실버백 코디 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79418</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79418"/>
+        <updated>2023-07-31T05:09:28.201Z</updated>
+        <content type="html"><![CDATA[요즘 트렌드 메탈릭 패션 ITEM! 어떻게 스타일링 할까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모태 부자 패션? ‘올드 머니 룩’ 입은 셀럽 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79417</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79417"/>
+        <updated>2023-07-31T03:09:50.159Z</updated>
+        <content type="html"><![CDATA[다가올 HOT 패션 트렌드 올드머니 룩 전격 분석!]]></content>
+    </entry>
+</feed>
