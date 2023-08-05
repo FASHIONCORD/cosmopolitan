@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 14:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 15:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[COSMO LIKE! 지금 주목해야할 쏘~핫한 패션 이슈는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79508</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79508</guid>
+            <pubDate>Sat, 05 Aug 2023 15:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7월 3~6일 파리에서 열린 오트 쿠튀르 컬렉션의 최고의 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/3ebb877f-ccf0-4879-bac0-ad181359d175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스모가 픽한 8월의 패션템은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79506</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 31 Jul 2023 05:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2030 MZ세대 3천 명을 대상으로 설문조사를 실시해 선정한 제3회 '코스모폴리탄 퀄리티 어워즈'...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/9a4c2dac-fa44-42ee-a700-a3cd10760d3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실버 가방이 대세! 차정원∙오눅 등 셀럽 실버백 코디 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79418</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79418</guid>
-            <pubDate>Mon, 31 Jul 2023 05:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 트렌드 메탈릭 패션 ITEM! 어떻게 스타일링 할까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/bee817fe-7771-49a9-a1ac-d0e2b4db8b71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
