@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 13:10:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이게 가능? 팜유즈 배신감 느끼게 한 전현무의 -10kg 다이어트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79636</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79636</guid>
-            <pubDate>Sat, 05 Aug 2023 15:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[뺀 것 같긴 했는데 한 달만에 10kg를 뺐을 줄이야.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/0b457b5b-05f1-4718-8289-57bbde4b5891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 픽! 8월 뷰티템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79535</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79535</guid>
-            <pubDate>Fri, 04 Aug 2023 16:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 8월의 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/173f385a-d442-4f00-a306-46181eb9771b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고보니 노력파? 김나영이 48kg를 유지하는 비결!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79600</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79600</guid>
-            <pubDate>Thu, 03 Aug 2023 16:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[항상 궁금했는데 이렇게 보니 다 이유가 있네.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/74cc138c-a253-458e-9361-4433706349ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입술까지 잘생길 일? 뷰티 광고주 PICK 입술 천재 남돌들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79593</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79593</guid>
-            <pubDate>Wed, 02 Aug 2023 15:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[립 손민수는 이들에게 맡기세요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/f094bf5d-f0bb-4178-9c3a-a4960ae00f17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단발병 퇴치 SSAP가능! 여돌들의 서머 레이어드 컷 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79591</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79591</guid>
-            <pubDate>Tue, 01 Aug 2023 15:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[8월 컴백 여돌들 다 한다는 여름 헤어, 이건 못 참지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7bba0a6e-8e65-409b-8584-433a4f196808.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스챤 디올 뷰티와 뉴진스 해린이 만들어 낸 다채로운 뷰티룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79427</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79427</guid>
-            <pubDate>Tue, 01 Aug 2023 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[따스한 컬러와 우아함이 더해진 텍스처가 완성한 크리스챤 디올 뷰티와 뉴진스 해린의 아름다운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/641263d2-e38e-48f9-8aaa-f1b0965491f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓벽한 넘사 여돌, 권은비∙브브걸 민영이 밝힌 몸매 관리 팁은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79523</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79523</guid>
-            <pubDate>Mon, 31 Jul 2023 15:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[다 가지면 반칙 아닌가요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/74d1989e-779b-4645-914e-e63f668e9de0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 컴백한 소유, 체중감량을 위해 OOO까지 해봤다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79474</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79474</guid>
-            <pubDate>Mon, 31 Jul 2023 07:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[극to the한 그 잡채…!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/b166954c-670b-4c85-ab1f-cf54179aff4d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-08-06T14:08:29.883Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이게 가능? 팜유즈 배신감 느끼게 한 전현무의 -10kg 다이어트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79636</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79636"/>
+        <updated>2023-08-05T15:08:04.509Z</updated>
+        <content type="html"><![CDATA[뺀 것 같긴 했는데 한 달만에 10kg를 뺐을 줄이야.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스모 픽! 8월 뷰티템]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79535</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79535"/>
+        <updated>2023-08-04T16:20:31.583Z</updated>
+        <content type="html"><![CDATA[코스모가 픽한 8월의 아이템.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알고보니 노력파? 김나영이 48kg를 유지하는 비결!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79600</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79600"/>
+        <updated>2023-08-03T16:11:06.081Z</updated>
+        <content type="html"><![CDATA[항상 궁금했는데 이렇게 보니 다 이유가 있네.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[입술까지 잘생길 일? 뷰티 광고주 PICK 입술 천재 남돌들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79593</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79593"/>
+        <updated>2023-08-02T15:08:51.658Z</updated>
+        <content type="html"><![CDATA[립 손민수는 이들에게 맡기세요!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단발병 퇴치 SSAP가능! 여돌들의 서머 레이어드 컷 모음]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79591</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79591"/>
+        <updated>2023-08-01T15:09:51.615Z</updated>
+        <content type="html"><![CDATA[8월 컴백 여돌들 다 한다는 여름 헤어, 이건 못 참지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스챤 디올 뷰티와 뉴진스 해린이 만들어 낸 다채로운 뷰티룩]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79427</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79427"/>
+        <updated>2023-08-01T09:14:19.638Z</updated>
+        <content type="html"><![CDATA[따스한 컬러와 우아함이 더해진 텍스처가 완성한 크리스챤 디올 뷰티와 뉴진스 해린의 아름다운 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갓벽한 넘사 여돌, 권은비∙브브걸 민영이 밝힌 몸매 관리 팁은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79523</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79523"/>
+        <updated>2023-07-31T15:09:54.593Z</updated>
+        <content type="html"><![CDATA[다 가지면 반칙 아닌가요!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근 컴백한 소유, 체중감량을 위해 OOO까지 해봤다?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79474</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79474"/>
+        <updated>2023-07-31T07:09:43.191Z</updated>
+        <content type="html"><![CDATA[극to the한 그 잡채…!]]></content>
+    </entry>
+</feed>
