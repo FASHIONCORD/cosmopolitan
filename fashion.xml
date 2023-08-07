@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 00:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 02:00:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직장인 평균 집중 시간이 3분? 도파민 중독]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79685</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79685</guid>
+            <pubDate>Mon, 07 Aug 2023 01:59:57 GMT</pubDate>
+            <content:encoded><![CDATA[화제의 베스트셀러 &lt;도둑맞은 집중력&gt;은 말한다. 직장인의 평균 집중 시간은 단 3분에 불과하다고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/aefa78d2-7420-4c69-ac45-b2d9529fa54c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IT'S NOT JUST FOR SUMMER! 겨울에도 활용 SSAP가능한 여름백은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79505</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 01 Aug 2023 16:11:32 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;바비&gt;를 타고 왔다! 바비코어 패션이란?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/fc3693d5-701d-49af-947d-3b9aeaf5ac82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지올팍과 골든구스의 아티스트 정신]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79557</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79557</guid>
-            <pubDate>Mon, 31 Jul 2023 16:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[NEW FAIRY TALE]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/c47e98f2-1c9d-4493-b9a6-1cb9d1710a9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
