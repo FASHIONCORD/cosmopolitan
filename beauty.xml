@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 02:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 02:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이 데스크 메이트! 사무실 뷰티템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79534</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79534</guid>
+            <pubDate>Mon, 07 Aug 2023 02:30:21 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 확고한 취향과 뷰티 신념을 지닌 그녀들의 사무실 뷰티템은 뭘까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/f2415577-be24-4e96-9572-726707dfb3e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친구끼리, 자매끼리 추천! 트윈스 뷰티 룩]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79613</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 01 Aug 2023 15:09:51 GMT</pubDate>
             <content:encoded><![CDATA[8월 컴백 여돌들 다 한다는 여름 헤어, 이건 못 참지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7bba0a6e-8e65-409b-8584-433a4f196808.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스챤 디올 뷰티와 뉴진스 해린이 만들어 낸 다채로운 뷰티룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79427</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79427</guid>
-            <pubDate>Tue, 01 Aug 2023 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[따스한 컬러와 우아함이 더해진 텍스처가 완성한 크리스챤 디올 뷰티와 뉴진스 해린의 아름다운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/641263d2-e38e-48f9-8aaa-f1b0965491f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
