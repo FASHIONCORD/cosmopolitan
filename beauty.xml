@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 10:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 11:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상에 나쁜 화장품은 없다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79621</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79621</guid>
+            <pubDate>Mon, 07 Aug 2023 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[‘세안할 때는 무조건 약산성 클렌저만, EWG 등급은 필수, 파라벤은 절대 가까이해서는 안 되는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/e7e76423-20dd-46e5-830f-22c282c0acde.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이 데스크 메이트! 사무실 뷰티템]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79534</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 02 Aug 2023 15:08:51 GMT</pubDate>
             <content:encoded><![CDATA[립 손민수는 이들에게 맡기세요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/f094bf5d-f0bb-4178-9c3a-a4960ae00f17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단발병 퇴치 SSAP가능! 여돌들의 서머 레이어드 컷 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79591</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79591</guid>
-            <pubDate>Tue, 01 Aug 2023 15:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[8월 컴백 여돌들 다 한다는 여름 헤어, 이건 못 참지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7bba0a6e-8e65-409b-8584-433a4f196808.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
