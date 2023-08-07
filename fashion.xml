@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-08-07T04:20:15.453Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[7월에 주목해야 할 패션 이슈는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79510</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79510"/>
-        <updated>2023-08-07T02:29:43.223Z</updated>
-        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인 평균 집중 시간이 3분? 도파민 중독]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79685</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79685"/>
-        <updated>2023-08-07T01:59:57.730Z</updated>
-        <content type="html"><![CDATA[화제의 베스트셀러 &lt;도둑맞은 집중력&gt;은 말한다. 직장인의 평균 집중 시간은 단 3분에 불과하다고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT'S NOT JUST FOR SUMMER! 겨울에도 활용 SSAP가능한 여름백은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79505</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79505"/>
-        <updated>2023-08-06T15:08:08.549Z</updated>
-        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COSMO LIKE! 지금 주목해야할 쏘~핫한 패션 이슈는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79508</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79508"/>
-        <updated>2023-08-05T15:07:52.142Z</updated>
-        <content type="html"><![CDATA[지난 7월 3~6일 파리에서 열린 오트 쿠튀르 컬렉션의 최고의 순간들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모가 픽한 8월의 패션템은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79506</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79506"/>
-        <updated>2023-08-04T15:09:24.346Z</updated>
-        <content type="html"><![CDATA[코스모가 픽한 8월의 아이템.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코퀄리티어워즈 콘돔 부문 '이브']]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79598</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79598"/>
-        <updated>2023-08-04T01:57:48.581Z</updated>
-        <content type="html"><![CDATA[아담에겐 이브가 필요해 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코퀄리티어워즈 폰꾸 부문  '케이스티파이']]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79302</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79302"/>
-        <updated>2023-08-03T16:10:56.859Z</updated>
-        <content type="html"><![CDATA[뒷모습이 예뻐야 거울 셀카 완성이지 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장원영∙차정원의 최애 여름 패션? 셀럽 화이트 슬리브리스 룩 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79595</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79595"/>
-        <updated>2023-08-02T15:08:42.378Z</updated>
-        <content type="html"><![CDATA[시원하면서 세련된 여름 스타일링을 찾고 있었다면 들어오시라.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Aug 2023 05:10:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월에 주목해야 할 패션 이슈는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79510</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79510</guid>
+            <pubDate>Mon, 07 Aug 2023 02:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/8155f800-cdcf-42d5-9b22-2c437b267635.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직장인 평균 집중 시간이 3분? 도파민 중독]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79685</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79685</guid>
+            <pubDate>Mon, 07 Aug 2023 01:59:57 GMT</pubDate>
+            <content:encoded><![CDATA[화제의 베스트셀러 &lt;도둑맞은 집중력&gt;은 말한다. 직장인의 평균 집중 시간은 단 3분에 불과하다고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/aefa78d2-7420-4c69-ac45-b2d9529fa54c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT'S NOT JUST FOR SUMMER! 겨울에도 활용 SSAP가능한 여름백은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79505</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79505</guid>
+            <pubDate>Sun, 06 Aug 2023 15:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/82a7442e-e832-47ae-9954-a6e12b1fcb7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COSMO LIKE! 지금 주목해야할 쏘~핫한 패션 이슈는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79508</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79508</guid>
+            <pubDate>Sat, 05 Aug 2023 15:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7월 3~6일 파리에서 열린 오트 쿠튀르 컬렉션의 최고의 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/3ebb877f-ccf0-4879-bac0-ad181359d175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모가 픽한 8월의 패션템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79506</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79506</guid>
+            <pubDate>Fri, 04 Aug 2023 15:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 8월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/7c58ba96-8703-4a0e-b71d-2727d920b8f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코퀄리티어워즈 콘돔 부문 '이브']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79598</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79598</guid>
+            <pubDate>Fri, 04 Aug 2023 01:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[아담에겐 이브가 필요해 상]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/6180c205-dab4-4819-99b6-77af05c32fbd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코퀄리티어워즈 폰꾸 부문  '케이스티파이']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79302</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79302</guid>
+            <pubDate>Thu, 03 Aug 2023 16:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[뒷모습이 예뻐야 거울 셀카 완성이지 상]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/972c4756-d019-4c13-ba5a-1633ae556327.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장원영∙차정원의 최애 여름 패션? 셀럽 화이트 슬리브리스 룩 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79595</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79595</guid>
+            <pubDate>Wed, 02 Aug 2023 15:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[시원하면서 세련된 여름 스타일링을 찾고 있었다면 들어오시라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b7a2227c-1978-4559-929d-b40742e980a3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-08-07T04:20:15.458Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이건 가야 해! 여름의 피날레를 장식하는 페스티벌 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79537</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79537"/>
-        <updated>2023-08-05T15:08:34.098Z</updated>
-        <content type="html"><![CDATA[여름의 피날레를 장식할 4개의 공연.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무더위에 지친 당신! ‘냉면 맛집’으로 떠나라]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79639</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79639"/>
-        <updated>2023-08-04T15:10:37.751Z</updated>
-        <content type="html"><![CDATA[입맛 돋울 냉면 맛집 BEST 4~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실화야? 신박 그 잡채인 ‘콩나물 호텔’!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79638</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79638"/>
-        <updated>2023-08-04T08:19:37.432Z</updated>
-        <content type="html"><![CDATA[전주와 뉴트로가 만나 탄생한 이색 숙소!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코퀄리티어워즈 섹스토이 부문  '부르부르']]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79614</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79614"/>
-        <updated>2023-08-04T00:50:22.577Z</updated>
-        <content type="html"><![CDATA[외모는 순한 맛, 성능은 매운 맛 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복숭아 티켓팅 시작! 과즙 팡팡터지는 복숭아 6]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79533</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79533"/>
-        <updated>2023-08-02T15:09:17.599Z</updated>
-        <content type="html"><![CDATA[복숭아 티케팅이 시작됐습니다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호텔 애프터눈 티 먹으러 부산 당일치기 행?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79601</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79601"/>
-        <updated>2023-08-01T15:11:00.513Z</updated>
-        <content type="html"><![CDATA[부산은 출장 말고 여행으로 가세요 제발~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉬운데 고급진 맛이라고? 김나영표 여름 국수 레서피]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79596</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79596"/>
-        <updated>2023-08-01T09:14:46.440Z</updated>
-        <content type="html"><![CDATA[집 나간 입맛 돌아오는 비빔 국수와 김치 물국수!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텐션 올려~! 성시경 먹텐부터 고전 맛집까지 매운맛 핫플 모음]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79589</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79589"/>
-        <updated>2023-08-01T09:14:46.442Z</updated>
-        <content type="html"><![CDATA[이 여름에 꼭 가야 할 매운 맛집 핫플 리스트.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Aug 2023 05:10:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이건 가야 해! 여름의 피날레를 장식하는 페스티벌 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79537</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79537</guid>
+            <pubDate>Sat, 05 Aug 2023 15:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 피날레를 장식할 4개의 공연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/437b835c-b3e1-4211-ac11-04607195166c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무더위에 지친 당신! ‘냉면 맛집’으로 떠나라]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79639</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79639</guid>
+            <pubDate>Fri, 04 Aug 2023 15:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[입맛 돋울 냉면 맛집 BEST 4~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/d8f5ff3c-cbab-441f-9096-521504c27113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실화야? 신박 그 잡채인 ‘콩나물 호텔’!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79638</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79638</guid>
+            <pubDate>Fri, 04 Aug 2023 08:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[전주와 뉴트로가 만나 탄생한 이색 숙소!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/128872f7-4fa9-41c9-b492-c76b6449df84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코퀄리티어워즈 섹스토이 부문  '부르부르']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79614</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79614</guid>
+            <pubDate>Fri, 04 Aug 2023 00:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[외모는 순한 맛, 성능은 매운 맛 상]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/1508132c-3ec3-4b64-8d43-e93eba2cf99c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[복숭아 티켓팅 시작! 과즙 팡팡터지는 복숭아 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79533</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79533</guid>
+            <pubDate>Wed, 02 Aug 2023 15:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[복숭아 티케팅이 시작됐습니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/0638e6c3-8854-47fc-aa5f-ccde81491e9c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호텔 애프터눈 티 먹으러 부산 당일치기 행?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79601</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79601</guid>
+            <pubDate>Tue, 01 Aug 2023 15:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산은 출장 말고 여행으로 가세요 제발~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/56ac3b07-8d93-4f52-82b3-08cbaa0ff34d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쉬운데 고급진 맛이라고? 김나영표 여름 국수 레서피]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79596</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79596</guid>
+            <pubDate>Tue, 01 Aug 2023 09:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[집 나간 입맛 돌아오는 비빔 국수와 김치 물국수!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b33ff7ab-129b-4428-bcc1-56032da79941.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[텐션 올려~! 성시경 먹텐부터 고전 맛집까지 매운맛 핫플 모음]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79589</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79589</guid>
+            <pubDate>Tue, 01 Aug 2023 09:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[이 여름에 꼭 가야 할 매운 맛집 핫플 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/f3ed9a66-ddac-40c8-a202-cad8c1d77213.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
