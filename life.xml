@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 09:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모 에디터 PICK! 이 달의 신간 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79615</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79615</guid>
+            <pubDate>Tue, 08 Aug 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[삶의 지평을 넓혀나가는 이들의 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/ff70ee6d-e7de-4195-a99d-c787754abc86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이건 가야 해! 여름의 피날레를 장식하는 페스티벌 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79537</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 01 Aug 2023 09:14:46 GMT</pubDate>
             <content:encoded><![CDATA[집 나간 입맛 돌아오는 비빔 국수와 김치 물국수!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b33ff7ab-129b-4428-bcc1-56032da79941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텐션 올려~! 성시경 먹텐부터 고전 맛집까지 매운맛 핫플 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79589</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79589</guid>
-            <pubDate>Tue, 01 Aug 2023 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[이 여름에 꼭 가야 할 매운 맛집 핫플 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/f3ed9a66-ddac-40c8-a202-cad8c1d77213.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
