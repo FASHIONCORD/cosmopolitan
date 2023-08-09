@@ -4,15 +4,24 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 02:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 03:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WELCOME TO COSMO! 코스모폴리탄 뷰티팀에서 섭외하고 싶은 셀레브리티는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79654</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79654</guid>
+            <pubDate>Wed, 09 Aug 2023 03:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/11baa3e0-1d2e-44b4-b327-d96b7bd8187d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바비와 함께 돌아온 핑크 전성기!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79652</link>
             <guid>https://www.cosmopolitan.co.kr/article/79652</guid>
             <pubDate>Tue, 08 Aug 2023 15:09:26 GMT</pubDate>
             <content:encoded><![CDATA[‘모든 소녀의 베프’ 바비와 함께 돌아온, 다 큰 여자들을 위한 두 번째 핑크 전성기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/06/40530dbb-63a3-4942-9ff2-27e1c9014ca3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BEST VEST! 포멀함과 캐주얼함을 넘나드는 베스트 패션 모음ZIP]]></title>
@@ -20,6 +29,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79618</guid>
             <pubDate>Mon, 07 Aug 2023 16:11:03 GMT</pubDate>
             <content:encoded><![CDATA[포멀함과 캐주얼함을 넘나드는 베스트의 모든 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/f4ab1d52-f1cb-494f-a969-8b7aab22340c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7월에 주목해야 할 패션 이슈는?]]></title>
@@ -27,6 +37,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79510</guid>
             <pubDate>Mon, 07 Aug 2023 02:29:43 GMT</pubDate>
             <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/8155f800-cdcf-42d5-9b22-2c437b267635.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[직장인 평균 집중 시간이 3분? 도파민 중독]]></title>
@@ -34,6 +45,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79685</guid>
             <pubDate>Mon, 07 Aug 2023 01:59:57 GMT</pubDate>
             <content:encoded><![CDATA[화제의 베스트셀러 &lt;도둑맞은 집중력&gt;은 말한다. 직장인의 평균 집중 시간은 단 3분에 불과하다고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/aefa78d2-7420-4c69-ac45-b2d9529fa54c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IT'S NOT JUST FOR SUMMER! 겨울에도 활용 SSAP가능한 여름백은?]]></title>
@@ -58,14 +70,6 @@
             <pubDate>Fri, 04 Aug 2023 15:09:24 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 8월의 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/7c58ba96-8703-4a0e-b71d-2727d920b8f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코퀄리티어워즈 콘돔 부문 '이브']]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79598</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79598</guid>
-            <pubDate>Fri, 04 Aug 2023 01:57:48 GMT</pubDate>
-            <content:encoded><![CDATA[아담에겐 이브가 필요해 상]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/6180c205-dab4-4819-99b6-77af05c32fbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

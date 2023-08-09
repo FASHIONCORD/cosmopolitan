@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-09T02:36:18.611Z</updated>
+    <updated>2023-08-09T03:11:40.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이마르부터 GD까지! 프로 형 수집러 이강인의 찐친들은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79738</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79738"/>
+        <updated>2023-08-09T03:10:25.024Z</updated>
+        <content type="html"><![CDATA[생제르맹 이강인과 브로맨스 케미를 선보이는 스타 모음.zip]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빵꾸똥꾸 진지희, 이렇게 멋지게 자랐다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79728</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79637"/>
         <updated>2023-08-07T00:45:36.713Z</updated>
         <content type="html"><![CDATA[‘에브리씽 에브리웨어 올 앳 원스’ 양자경이 19년 연애 끝에 결혼한 사연.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이러니 안 반해? 김혜수∙조인성∙마고 로비의 특급 팬 서비스]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79635</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79635"/>
-        <updated>2023-08-04T10:10:07.465Z</updated>
-        <content type="html"><![CDATA[아직도 더 반할 일이 있다고?]]></content>
     </entry>
 </feed>
