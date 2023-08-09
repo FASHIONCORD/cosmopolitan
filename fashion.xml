@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-08-09T14:11:04.826Z</updated>
+    <updated>2023-08-09T15:13:29.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희 최애템? 힙한 셀럽들의 여름 홀터넥 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79727</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79727"/>
+        <updated>2023-08-09T15:12:32.476Z</updated>
+        <content type="html"><![CDATA[탑 하나로 힙해지고 싶다면 주목!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WELCOME TO COSMO! 코스모폴리탄 뷰티팀에서 섭외하고 싶은 셀레브리티는?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79654</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79508"/>
         <updated>2023-08-05T15:07:52.142Z</updated>
         <content type="html"><![CDATA[지난 7월 3~6일 파리에서 열린 오트 쿠튀르 컬렉션의 최고의 순간들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모가 픽한 8월의 패션템은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79506</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79506"/>
-        <updated>2023-08-04T15:09:24.346Z</updated>
-        <content type="html"><![CDATA[코스모가 픽한 8월의 아이템.]]></content>
     </entry>
 </feed>
