@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 04:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부러우면 지는거다! 갓벽한 뒤태 자랑하는 여돌은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79776</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79776</guid>
+            <pubDate>Fri, 11 Aug 2023 05:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[YOZM 제일 잘나가는 여돌들의 여신 뒤태 근황.zip]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/7211dc9f-1eec-45af-856e-730366f5f362.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조인성 · 차태현 · 손석구 · 김이나까지! 모두 <최강야구> 앓이 중]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79756</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Aug 2023 10:10:57 GMT</pubDate>
             <content:encoded><![CDATA[여윽~시 잉꼬 부부!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/e29171a3-3e62-41a6-9203-ede6dae2d899.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혹시 MBTI가 C.U.T.E? 잔망미 터지는 스테이씨 케미맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79669</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79669</guid>
-            <pubDate>Mon, 07 Aug 2023 08:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[윤, 재이, 세은! 윤심장이 떴다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/f16201b9-3880-4271-af38-a187968d4a4e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
