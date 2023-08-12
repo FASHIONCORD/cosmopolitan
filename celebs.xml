@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-12T07:08:57.572Z</updated>
+    <updated>2023-08-12T08:11:05.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난입 팬에 놀라고 태도 논란까지?! 박서준의 시끌시끌한 무대인사]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79778</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79778"/>
+        <updated>2023-08-12T08:10:31.308Z</updated>
+        <content type="html"><![CDATA[박서준이 직접 해명에 나섰다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부러우면 지는거다! 갓벽한 뒤태 자랑하는 여돌은 누구?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79776</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79725"/>
         <updated>2023-08-08T03:09:27.167Z</updated>
         <content type="html"><![CDATA[박스오피스 1위 주인공 등장이요~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겹경사 소식으로 놀라게 한 국민 부부! 이민정 ♥ 이병헌의 근황은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79706</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79706"/>
-        <updated>2023-08-07T10:10:57.136Z</updated>
-        <content type="html"><![CDATA[여윽~시 잉꼬 부부!]]></content>
     </entry>
 </feed>
