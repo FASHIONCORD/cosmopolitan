@@ -1,439 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 06:14:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[핫하다 핫해! 미주·화사·이효리의 비키니 모멘트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79779</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79779</guid>
-            <pubDate>Mon, 14 Aug 2023 03:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[핫한 언니들 보러 왔습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/35ac0a3a-617b-489a-8787-c9c24cff3c08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME TO COSMO! 코스모폴리탄 디지털 에디터가 섭외하고 싶은 셀레브리티는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79673</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79673</guid>
-            <pubDate>Sat, 12 Aug 2023 15:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/b0042f86-763a-4b4a-84c5-0a46412d9e98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME TO COSMO! 코스모폴리탄 패션 에디터가 섭외하고 싶은 셀레브리티는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79665</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79665</guid>
-            <pubDate>Fri, 11 Aug 2023 16:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/ba70b7a8-2aa5-474d-a098-95cef5ed918d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블핑 지수 남친 배우 안보현, 꾸안꾸 룩의 정석?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79729</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79729</guid>
-            <pubDate>Thu, 10 Aug 2023 16:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[편하게 입었는데 느낌 있는 그걸 해내네.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/742531f0-007a-4a3d-91f1-976c8060a17d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희 최애템? 힙한 셀럽들의 여름 홀터넥 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79727</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79727</guid>
-            <pubDate>Wed, 09 Aug 2023 15:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[탑 하나로 힙해지고 싶다면 주목!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/ad4e5a82-4884-4151-889d-44e77923636e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME TO COSMO! 코스모폴리탄 뷰티팀에서 섭외하고 싶은 셀레브리티는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79654</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79654</guid>
-            <pubDate>Wed, 09 Aug 2023 03:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/11baa3e0-1d2e-44b4-b327-d96b7bd8187d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바비와 함께 돌아온 핑크 전성기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79652</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79652</guid>
-            <pubDate>Tue, 08 Aug 2023 15:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘모든 소녀의 베프’ 바비와 함께 돌아온, 다 큰 여자들을 위한 두 번째 핑크 전성기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/06/40530dbb-63a3-4942-9ff2-27e1c9014ca3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEST VEST! 포멀함과 캐주얼함을 넘나드는 베스트 패션 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79618</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79618</guid>
-            <pubDate>Mon, 07 Aug 2023 16:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[포멀함과 캐주얼함을 넘나드는 베스트의 모든 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/f4ab1d52-f1cb-494f-a969-8b7aab22340c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월에 주목해야 할 패션 이슈는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79510</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79510</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/8155f800-cdcf-42d5-9b22-2c437b267635.jpg');">
-            <a href="/article/79510">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79510">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/79510">
-                    7월에 주목해야 할 패션 이슈는?                 </a>
-            </em>
-            <p class="excerpt">지금 주목해야 할 핫 이슈. </p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/8155f800-cdcf-42d5-9b22-2c437b267635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직장인 평균 집중 시간이 3분? 도파민 중독]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79685</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79685</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/aefa78d2-7420-4c69-ac45-b2d9529fa54c.jpg');">
-            <a href="/article/79685">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79685">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/79685">
-                    직장인 평균 집중 시간이 3분? 도파민 중독                </a>
-            </em>
-            <p class="excerpt">화제의 베스트셀러 &lt;도둑맞은 집중력&gt;은 말한다. 직장인의 평균 집중 시간은 단 3분에 불과하다고...</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/aefa78d2-7420-4c69-ac45-b2d9529fa54c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT'S NOT JUST FOR SUMMER! 겨울에도 활용 SSAP가능한 여름백은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79505</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79505</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/82a7442e-e832-47ae-9954-a6e12b1fcb7f.jpg');">
-            <a href="/article/79505">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79505">
-                                        Shopping                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/79505">
-                    IT'S NOT JUST FOR SUMMER! 겨울에도 활용 SSAP가능한 여름백은?                 </a>
-            </em>
-            <p class="excerpt">지금 주목해야 할 핫 이슈. </p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/82a7442e-e832-47ae-9954-a6e12b1fcb7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COSMO LIKE! 지금 주목해야할 쏘~핫한 패션 이슈는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79508</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79508</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/3ebb877f-ccf0-4879-bac0-ad181359d175.jpg');">
-            <a href="/article/79508">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79508">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/79508">
-                    COSMO LIKE! 지금 주목해야할 쏘~핫한 패션 이슈는?                </a>
-            </em>
-            <p class="excerpt">지난 7월 3~6일 파리에서 열린 오트 쿠튀르 컬렉션의 최고의 순간들.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/3ebb877f-ccf0-4879-bac0-ad181359d175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모가 픽한 8월의 패션템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79506</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79506</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/7c58ba96-8703-4a0e-b71d-2727d920b8f1.jpg');">
-            <a href="/article/79506">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79506">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/79506">
-                    코스모가 픽한 8월의 패션템은?                </a>
-            </em>
-            <p class="excerpt">코스모가 픽한 8월의 아이템.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/7c58ba96-8703-4a0e-b71d-2727d920b8f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코퀄리티어워즈 콘돔 부문 '이브']]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79598</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79598</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/6180c205-dab4-4819-99b6-77af05c32fbd.jpg');">
-            <a href="/article/79598">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79598">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/79598">
-                    코퀄리티어워즈 콘돔 부문 '이브'                </a>
-            </em>
-            <p class="excerpt">아담에겐 이브가 필요해 상</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/6180c205-dab4-4819-99b6-77af05c32fbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코퀄리티어워즈 폰꾸 부문  '케이스티파이']]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79302</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79302</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/972c4756-d019-4c13-ba5a-1633ae556327.jpg');">
-            <a href="/article/79302">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79302">
-                                        Accessories                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/79302">
-                    코퀄리티어워즈 폰꾸 부문  '케이스티파이'                </a>
-            </em>
-            <p class="excerpt">뒷모습이 예뻐야 거울 셀카 완성이지 상</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/972c4756-d019-4c13-ba5a-1633ae556327.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장원영∙차정원의 최애 여름 패션? 셀럽 화이트 슬리브리스 룩 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79595</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79595</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b7a2227c-1978-4559-929d-b40742e980a3.jpg');">
-                <a href="/article/79595">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79595">
-                                        Celebrity Style                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/79595">
-                        장원영∙차정원의 최애 여름 패션? 셀럽 화이트 슬리브리스 룩 5                    </a>
-                </em>
-                <p class="excerpt">시원하면서 세련된 여름 스타일링을 찾고 있었다면 들어오시라.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b7a2227c-1978-4559-929d-b40742e980a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스∙장원영∙허윤진 등 아이돌 ‘바비코어’ 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79594</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79594</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/fc3693d5-701d-49af-947d-3b9aeaf5ac82.jpg');">
-                <a href="/article/79594">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79594">
-                                        Celebrity Style                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/79594">
-                        뉴진스∙장원영∙허윤진 등 아이돌 ‘바비코어’ 패션 5                    </a>
-                </em>
-                <p class="excerpt">영화 &lt;바비&gt;를 타고 왔다! 바비코어 패션이란?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/fc3693d5-701d-49af-947d-3b9aeaf5ac82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지올팍과 골든구스의 아티스트 정신]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79557</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79557</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/c47e98f2-1c9d-4493-b9a6-1cb9d1710a9b.jpg');">
-                <a href="/article/79557">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79557">
-                                        Celebrity Style                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/79557">
-                        지올팍과 골든구스의 아티스트 정신                    </a>
-                </em>
-                <p class="excerpt">NEW FAIRY TALE</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/c47e98f2-1c9d-4493-b9a6-1cb9d1710a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모폴리탄 퀄리티 어워즈 2023]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79266</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79266</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/af7b1d30-19da-422f-bf80-008c54786015.jpg');">
-                <a href="/article/79266">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79266">
-                                        Trends                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/79266">
-                        코스모폴리탄 퀄리티 어워즈 2023                    </a>
-                </em>
-                <p class="excerpt">2030 MZ세대 3천 명을 대상으로 설문조사를 실시해 선정한 제3회 '코스모폴리탄 퀄리티 어워즈'...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/af7b1d30-19da-422f-bf80-008c54786015.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실버 가방이 대세! 차정원∙오눅 등 셀럽 실버백 코디 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79418</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79418</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/bee817fe-7771-49a9-a1ac-d0e2b4db8b71.jpg');">
-                <a href="/article/79418">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79418">
-                                        Accessories                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/79418">
-                        실버 가방이 대세! 차정원∙오눅 등 셀럽 실버백 코디 5                    </a>
-                </em>
-                <p class="excerpt">요즘 트렌드 메탈릭 패션 ITEM! 어떻게 스타일링 할까?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/bee817fe-7771-49a9-a1ac-d0e2b4db8b71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모태 부자 패션? ‘올드 머니 룩’ 입은 셀럽 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79417</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79417</guid>
-            <pubDate>Tue, 15 Aug 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/95399b09-7fc2-47e8-9720-e206b990293e.jpg');">
-                <a href="/article/79417">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/79417">
-                                        Celebrity Style                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/79417">
-                        모태 부자 패션? ‘올드 머니 룩’ 입은 셀럽 패션 5                    </a>
-                </em>
-                <p class="excerpt">다가올 HOT 패션 트렌드 올드머니 룩 전격 분석!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/95399b09-7fc2-47e8-9720-e206b990293e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-08-15T07:09:21.529Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핫하다 핫해! 미주·화사·이효리의 비키니 모멘트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79779</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79779"/>
+        <updated>2023-08-14T03:09:14.791Z</updated>
+        <content type="html"><![CDATA[핫한 언니들 보러 왔습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO COSMO! 코스모폴리탄 디지털 에디터가 섭외하고 싶은 셀레브리티는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79673</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79673"/>
+        <updated>2023-08-12T15:07:29.595Z</updated>
+        <content type="html"><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO COSMO! 코스모폴리탄 패션 에디터가 섭외하고 싶은 셀레브리티는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79665</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79665"/>
+        <updated>2023-08-11T16:12:06.655Z</updated>
+        <content type="html"><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블핑 지수 남친 배우 안보현, 꾸안꾸 룩의 정석?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79729</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79729"/>
+        <updated>2023-08-10T16:15:00.305Z</updated>
+        <content type="html"><![CDATA[편하게 입었는데 느낌 있는 그걸 해내네.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희 최애템? 힙한 셀럽들의 여름 홀터넥 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79727</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79727"/>
+        <updated>2023-08-09T15:12:32.476Z</updated>
+        <content type="html"><![CDATA[탑 하나로 힙해지고 싶다면 주목!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO COSMO! 코스모폴리탄 뷰티팀에서 섭외하고 싶은 셀레브리티는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79654</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79654"/>
+        <updated>2023-08-09T03:10:06.518Z</updated>
+        <content type="html"><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바비와 함께 돌아온 핑크 전성기!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79652</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79652"/>
+        <updated>2023-08-08T15:09:26.559Z</updated>
+        <content type="html"><![CDATA[‘모든 소녀의 베프’ 바비와 함께 돌아온, 다 큰 여자들을 위한 두 번째 핑크 전성기!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEST VEST! 포멀함과 캐주얼함을 넘나드는 베스트 패션 모음ZIP]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79618</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79618"/>
+        <updated>2023-08-07T16:11:03.014Z</updated>
+        <content type="html"><![CDATA[포멀함과 캐주얼함을 넘나드는 베스트의 모든 것.]]></content>
+    </entry>
+</feed>
