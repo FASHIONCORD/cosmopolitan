@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 23:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 00:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피부를 백옥처럼! 핫해하태! 글루타티온]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79846</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79846</guid>
+            <pubDate>Tue, 15 Aug 2023 00:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[a.k.a 백옥 성분으로 인기를 끌었던 ‘글루타티온’이 다시 떡상 중! 피부를 백옥처럼 하얗게 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/12/11dd3aed-913a-4053-9aa9-07aa15172fc6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모공 카더라' 뭐가 맞을까?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79758</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 09 Aug 2023 06:12:00 GMT</pubDate>
             <content:encoded><![CDATA[식단 노하우부터 운동법까지 다 알려준다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/118e3ca3-5504-48e2-89f3-545ac772f3ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘달걀 두알?’ 이렇게 일주일 하면 빠진다는 강민경 다이어트 비법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79726</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79726</guid>
-            <pubDate>Tue, 08 Aug 2023 15:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 하면 빠지지만, 배는 많이 고픈 식단.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/8c34b6a6-9253-4e5f-84ef-b4d2541b736a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
