@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-16T09:09:41.893Z</updated>
+    <updated>2023-08-16T10:09:56.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음원차트 힘겨루기 보는 재미가 쏠쏠할 8월 컴백 대전]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79887</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79887"/>
+        <updated>2023-08-16T10:09:25.200Z</updated>
+        <content type="html"><![CDATA[조심해! 큰 거 온다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬린이 주목! 해은이 알려주는 헬스장 고르는 법]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79879</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79792"/>
         <updated>2023-08-15T00:37:13.594Z</updated>
         <content type="html"><![CDATA[다시 한번 One more time~🎵으로 화려하게 컴백 완료.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 팬미팅에서 ‘댄스 실력’ 공개한 스타 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79789</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79789"/>
-        <updated>2023-08-14T09:09:27.904Z</updated>
-        <content type="html"><![CDATA[팬미팅 댄스 왕은 나야 나♥]]></content>
     </entry>
 </feed>
