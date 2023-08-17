@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-17T10:10:33.278Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[음원차트 힘겨루기 보는 재미가 쏠쏠할 8월 컴백 대전]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79887</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79887"/>
-        <updated>2023-08-16T10:09:25.200Z</updated>
-        <content type="html"><![CDATA[조심해! 큰 거 온다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬린이 주목! 해은이 알려주는 헬스장 고르는 법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79879</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79879"/>
-        <updated>2023-08-16T08:11:53.744Z</updated>
-        <content type="html"><![CDATA[요즘 다시 헬스걸이 되어 상체하체를 열심히 뿌시고 있다는 그녀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1천만 원 커플링? 연애 세포 자극하는 연프 속 현커]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79877</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79877"/>
-        <updated>2023-08-16T06:11:33.717Z</updated>
-        <content type="html"><![CDATA[부러우면 지는 거다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 뷔, 앨범 발매 앞두고 62kg인데 다이어트 한다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79868</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79868"/>
-        <updated>2023-08-16T06:11:33.718Z</updated>
-        <content type="html"><![CDATA[9월 발매를 앞둔 솔로앨범 선공개곡들도 승승장구 중!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋아하면 닮는다? 임지연·이도현 커플의 우당탕탕 댄스 실력!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79864</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79864"/>
-        <updated>2023-08-16T05:08:55.667Z</updated>
-        <content type="html"><![CDATA[예능에서 선보인 임지연과 이도현 커플의 댄스 실력은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예쁜 나이 스물셋! 리아가 말하는 서프라이즈 생일 축하의 비하인드는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79853</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79853"/>
-        <updated>2023-08-16T04:11:06.841Z</updated>
-        <content type="html"><![CDATA[있지 리아 생일 서프라이즈 썰 대.방.출!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 지올팍은 ‘이것’에 빠졌다고요?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79826</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79826"/>
-        <updated>2023-08-15T00:37:13.588Z</updated>
-        <content type="html"><![CDATA[골고루 덕질 중인 지올팍의 솔직큐트 인터뷰.ZIP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분, 오래 기다리셨죠? 쁘걸이 돌아왔다!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79792</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79792"/>
-        <updated>2023-08-15T00:37:13.594Z</updated>
-        <content type="html"><![CDATA[다시 한번 One more time~🎵으로 화려하게 컴백 완료.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Aug 2023 11:08:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음원차트 힘겨루기 보는 재미가 쏠쏠할 8월 컴백 대전]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79887</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79887</guid>
+            <pubDate>Wed, 16 Aug 2023 10:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[조심해! 큰 거 온다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/ac7b2a91-3d1b-4be3-bbae-67e5a9b90602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬린이 주목! 해은이 알려주는 헬스장 고르는 법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79879</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79879</guid>
+            <pubDate>Wed, 16 Aug 2023 08:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 다시 헬스걸이 되어 상체하체를 열심히 뿌시고 있다는 그녀]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/2ebf5e9d-ba17-40bd-858b-82359b1a78f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1천만 원 커플링? 연애 세포 자극하는 연프 속 현커]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79877</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79877</guid>
+            <pubDate>Wed, 16 Aug 2023 06:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[부러우면 지는 거다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/5c4ab5d7-b458-4fd5-854b-e7810179a57e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 뷔, 앨범 발매 앞두고 62kg인데 다이어트 한다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79868</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79868</guid>
+            <pubDate>Wed, 16 Aug 2023 06:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[9월 발매를 앞둔 솔로앨범 선공개곡들도 승승장구 중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/0adc59e3-bf6a-441a-8df4-9fb6f2b9ef4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좋아하면 닮는다? 임지연·이도현 커플의 우당탕탕 댄스 실력!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79864</guid>
+            <pubDate>Wed, 16 Aug 2023 05:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[예능에서 선보인 임지연과 이도현 커플의 댄스 실력은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/00eef51e-b7ae-4c07-9617-113610377c6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예쁜 나이 스물셋! 리아가 말하는 서프라이즈 생일 축하의 비하인드는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79853</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79853</guid>
+            <pubDate>Wed, 16 Aug 2023 04:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[있지 리아 생일 서프라이즈 썰 대.방.출!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/12/fd73353f-5e3b-476f-a429-edd7b18e1b0d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 지올팍은 ‘이것’에 빠졌다고요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79826</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79826</guid>
+            <pubDate>Tue, 15 Aug 2023 00:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[골고루 덕질 중인 지올팍의 솔직큐트 인터뷰.ZIP]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/726f572c-eb6d-45b9-bfbd-5289a980f5ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여러분, 오래 기다리셨죠? 쁘걸이 돌아왔다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79792</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79792</guid>
+            <pubDate>Tue, 15 Aug 2023 00:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[다시 한번 One more time~🎵으로 화려하게 컴백 완료.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/05bd634f-41d8-4a7d-b725-295cc60749d1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
