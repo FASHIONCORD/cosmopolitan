@@ -1,64 +1,439 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-08-20T02:14:23.817Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[넥스트 콜라는 바로 이것!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79820</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79820"/>
-        <updated>2023-08-16T04:11:33.493Z</updated>
-        <content type="html"><![CDATA[숨 참고 콤부차 다이브~. 발효 음료 특유의 쿰쿰한 향은 사라지고 새콤달콤 맛있어진 요즘 콤부...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말복엔 여기로! 땡볕 웨이팅도 쌉가능한 성수동 닭 맛집]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79767</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79767"/>
-        <updated>2023-08-15T00:37:39.371Z</updated>
-        <content type="html"><![CDATA[삼계탕 말고 닭핫플 리스트 좌표 드림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 안 가봤어? 마카오 여행 A to Z]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79719</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79719"/>
-        <updated>2023-08-14T05:09:35.608Z</updated>
-        <content type="html"><![CDATA[지금 당장 마카오로 떠나야 하는 999가지 이유 중 가장 구미가 당기는 한 가지, 바로 미식의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아날로그는 가라. 발칙하고 화끈한 서머 보드게임]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79713</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79713"/>
-        <updated>2023-08-14T05:09:35.612Z</updated>
-        <content type="html"><![CDATA[아날로그 술 게임이 지겹다고? 지금 당장 3명의 플레이어를 모으고 ‘주사위 앱’을 다운받자. ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마시자마자 갈증 순삭! 구수한 칵테일 레시피 알려드림]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79700</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79700"/>
-        <updated>2023-08-11T08:13:49.551Z</updated>
-        <content type="html"><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 헛개차로 만든 칵테일 레시피 &amp; 시...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코퀄리티어워즈 셀프케어 부문 '다이슨']]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79588</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79588"/>
-        <updated>2023-08-10T15:10:31.351Z</updated>
-        <content type="html"><![CDATA[내 손 안에 미용실 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 에디터 PICK! 이 달의 신간 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79615</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79615"/>
-        <updated>2023-08-08T09:09:49.347Z</updated>
-        <content type="html"><![CDATA[삶의 지평을 넓혀나가는 이들의 이야기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이건 가야 해! 여름의 피날레를 장식하는 페스티벌 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79537</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79537"/>
-        <updated>2023-08-05T15:08:34.098Z</updated>
-        <content type="html"><![CDATA[여름의 피날레를 장식할 4개의 공연.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 20 Aug 2023 03:10:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥스트 콜라는 바로 이것!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79820</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79820</guid>
+            <pubDate>Wed, 16 Aug 2023 04:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[숨 참고 콤부차 다이브~. 발효 음료 특유의 쿰쿰한 향은 사라지고 새콤달콤 맛있어진 요즘 콤부...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/9104e2b0-8e46-46a3-9e45-f2d4c6e6424d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말복엔 여기로! 땡볕 웨이팅도 쌉가능한 성수동 닭 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79767</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79767</guid>
+            <pubDate>Tue, 15 Aug 2023 00:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[삼계탕 말고 닭핫플 리스트 좌표 드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/92979951-2451-464f-b9be-ce3a794794fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 안 가봤어? 마카오 여행 A to Z]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79719</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79719</guid>
+            <pubDate>Mon, 14 Aug 2023 05:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[지금 당장 마카오로 떠나야 하는 999가지 이유 중 가장 구미가 당기는 한 가지, 바로 미식의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/06/dfdf3d9e-7d6e-4b44-82bc-314622995a6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아날로그는 가라. 발칙하고 화끈한 서머 보드게임]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79713</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79713</guid>
+            <pubDate>Mon, 14 Aug 2023 05:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[아날로그 술 게임이 지겹다고? 지금 당장 3명의 플레이어를 모으고 ‘주사위 앱’을 다운받자. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/6e3e2b44-f419-4c10-9d0c-7060a93140b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마시자마자 갈증 순삭! 구수한 칵테일 레시피 알려드림]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79700</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79700</guid>
+            <pubDate>Fri, 11 Aug 2023 08:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? 헛개차로 만든 칵테일 레시피 &amp; 시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/30d9daa2-26e2-4155-8fa6-265bbf588bb2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코퀄리티어워즈 셀프케어 부문 '다이슨']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79588</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79588</guid>
+            <pubDate>Thu, 10 Aug 2023 15:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[내 손 안에 미용실 상]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/e1cbeb9e-66e4-4278-b64f-11ebf1261015.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 에디터 PICK! 이 달의 신간 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79615</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79615</guid>
+            <pubDate>Tue, 08 Aug 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[삶의 지평을 넓혀나가는 이들의 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/ff70ee6d-e7de-4195-a99d-c787754abc86.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이건 가야 해! 여름의 피날레를 장식하는 페스티벌 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79537</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79537</guid>
+            <pubDate>Sat, 05 Aug 2023 15:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 피날레를 장식할 4개의 공연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/437b835c-b3e1-4211-ac11-04607195166c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무더위에 지친 당신! ‘냉면 맛집’으로 떠나라]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79639</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79639</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/d8f5ff3c-cbab-441f-9096-521504c27113.jpg');">
+            <a href="/article/79639">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79639">
+                                        Travel                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79639">
+                    무더위에 지친 당신! ‘냉면 맛집’으로 떠나라                </a>
+            </em>
+            <p class="excerpt">입맛 돋울 냉면 맛집 BEST 4~.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/d8f5ff3c-cbab-441f-9096-521504c27113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실화야? 신박 그 잡채인 ‘콩나물 호텔’!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79638</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79638</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/128872f7-4fa9-41c9-b492-c76b6449df84.jpg');">
+            <a href="/article/79638">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79638">
+                                        Travel                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79638">
+                    실화야? 신박 그 잡채인 ‘콩나물 호텔’!                </a>
+            </em>
+            <p class="excerpt">전주와 뉴트로가 만나 탄생한 이색 숙소!</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/128872f7-4fa9-41c9-b492-c76b6449df84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코퀄리티어워즈 섹스토이 부문  '부르부르']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79614</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79614</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/1508132c-3ec3-4b64-8d43-e93eba2cf99c.jpg');">
+            <a href="/article/79614">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79614">
+                                        Tech                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79614">
+                    코퀄리티어워즈 섹스토이 부문  '부르부르'                </a>
+            </em>
+            <p class="excerpt">외모는 순한 맛, 성능은 매운 맛 상</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/1508132c-3ec3-4b64-8d43-e93eba2cf99c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[복숭아 티켓팅 시작! 과즙 팡팡터지는 복숭아 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79533</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79533</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/0638e6c3-8854-47fc-aa5f-ccde81491e9c.jpg');">
+            <a href="/article/79533">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79533">
+                                        Food                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79533">
+                    복숭아 티켓팅 시작! 과즙 팡팡터지는 복숭아 6                </a>
+            </em>
+            <p class="excerpt">복숭아 티케팅이 시작됐습니다! </p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/0638e6c3-8854-47fc-aa5f-ccde81491e9c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호텔 애프터눈 티 먹으러 부산 당일치기 행?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79601</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79601</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/56ac3b07-8d93-4f52-82b3-08cbaa0ff34d.jpg');">
+            <a href="/article/79601">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79601">
+                                        Travel                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79601">
+                    호텔 애프터눈 티 먹으러 부산 당일치기 행?!                 </a>
+            </em>
+            <p class="excerpt">부산은 출장 말고 여행으로 가세요 제발~.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/56ac3b07-8d93-4f52-82b3-08cbaa0ff34d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쉬운데 고급진 맛이라고? 김나영표 여름 국수 레서피]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79596</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79596</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b33ff7ab-129b-4428-bcc1-56032da79941.jpg');">
+            <a href="/article/79596">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79596">
+                                        Place                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79596">
+                    쉬운데 고급진 맛이라고? 김나영표 여름 국수 레서피                </a>
+            </em>
+            <p class="excerpt">집 나간 입맛 돌아오는 비빔 국수와 김치 물국수!</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/b33ff7ab-129b-4428-bcc1-56032da79941.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[텐션 올려~! 성시경 먹텐부터 고전 맛집까지 매운맛 핫플 모음]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79589</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79589</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/f3ed9a66-ddac-40c8-a202-cad8c1d77213.jpg');">
+            <a href="/article/79589">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79589">
+                                        Place                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/79589">
+                    텐션 올려~! 성시경 먹텐부터 고전 맛집까지 매운맛 핫플 모음                </a>
+            </em>
+            <p class="excerpt">이 여름에 꼭 가야 할 매운 맛집 핫플 리스트.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/f3ed9a66-ddac-40c8-a202-cad8c1d77213.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코퀄리티어워즈 숙취 해소 음료 부문 '헛개소주']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79582</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79582</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/3a1f64a7-f555-405b-b289-8583aefad73f.jpg');">
+                <a href="/article/79582">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79582">
+                                        Food                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79582">
+                        코퀄리티어워즈 숙취 해소 음료 부문 '헛개소주'                    </a>
+                </em>
+                <p class="excerpt">마실수록 술이 깨요, 환상의 컬래버 상</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/3a1f64a7-f555-405b-b289-8583aefad73f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 PICK! 주말에 힐링테라피 하기 좋은 에세이 추천해Dream]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79561</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79561</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/d4ae7fcc-8b42-4e00-8663-364cae0475ba.jpg');">
+                <a href="/article/79561">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79561">
+                                        Culture                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79561">
+                        코스모 PICK! 주말에 힐링테라피 하기 좋은 에세이 추천해Dream                    </a>
+                </em>
+                <p class="excerpt">독서 한 권으로 소.확.행 힐링 해보자구요~.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/d4ae7fcc-8b42-4e00-8663-364cae0475ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직 페스티벌 등판! 줄 서면 무조건 댕이득인 코스모 트레일러]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79540</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79540</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/96eac52b-c3a1-4897-b4c7-30db72fe3b14.jpg');">
+                <a href="/article/79540">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79540">
+                                        Travel                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79540">
+                        뮤직 페스티벌 등판! 줄 서면 무조건 댕이득인 코스모 트레일러                    </a>
+                </em>
+                <p class="excerpt">선물요정 코스모 트레일러! 다음엔 어디서 만날 수 있죠?</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/96eac52b-c3a1-4897-b4c7-30db72fe3b14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코퀄리티어워즈 맥주 부문  '한맥']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79528</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79528</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/9c90147a-744c-4fa9-ad0c-1411d98a7fbf.jpg');">
+                <a href="/article/79528">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79528">
+                                        Food                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79528">
+                        코퀄리티어워즈 맥주 부문  '한맥'                    </a>
+                </em>
+                <p class="excerpt">차세대 맥주 센터 상</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/9c90147a-744c-4fa9-ad0c-1411d98a7fbf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모퀄리티어워즈 항공사 부문 진에어, 제주항공, 에어프레미아]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79498</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79498</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/219931ec-f48a-49f5-9518-582fb55c1305.jpg');">
+                <a href="/article/79498">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79498">
+                                        Travel                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79498">
+                        코스모퀄리티어워즈 항공사 부문 진에어, 제주항공, 에어프레미아                    </a>
+                </em>
+                <p class="excerpt">편안함은 가격순이 아니잖아요 상</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/219931ec-f48a-49f5-9518-582fb55c1305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모퀄리티어워즈 펫용품 부문 오펫, 바잇미, 마르디메크르디]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79497</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79497</guid>
+            <pubDate>Sun, 20 Aug 2023 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/591c6a96-ba7f-489f-b00b-f3c252c24e07.jpg');">
+                <a href="/article/79497">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/79497">
+                                        Culture                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/79497">
+                        코스모퀄리티어워즈 펫용품 부문 오펫, 바잇미, 마르디메크르디                    </a>
+                </em>
+                <p class="excerpt">사료값 벌려고 회사 다녀요 상</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/591c6a96-ba7f-489f-b00b-f3c252c24e07.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
