@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 12:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 13:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19금? 아니죠. 29금 넷플릭스 상영작 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79969</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79969</guid>
+            <pubDate>Mon, 21 Aug 2023 13:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[저.. 잠시 방 문 좀 닫을 게요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/533c4728-c94f-42ec-997d-10127a761267.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠지들 마음 사로잡는 신당동 달콤 맛집 지도]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79886</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Aug 2023 00:37:39 GMT</pubDate>
             <content:encoded><![CDATA[삼계탕 말고 닭핫플 리스트 좌표 드림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/92979951-2451-464f-b9be-ce3a794794fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 안 가봤어? 마카오 여행 A to Z]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79719</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79719</guid>
-            <pubDate>Mon, 14 Aug 2023 05:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[지금 당장 마카오로 떠나야 하는 999가지 이유 중 가장 구미가 당기는 한 가지, 바로 미식의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/06/dfdf3d9e-7d6e-4b44-82bc-314622995a6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
