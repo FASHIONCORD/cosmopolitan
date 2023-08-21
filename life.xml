@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 23:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 00:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 페스티벌 폼 미쳤다. HANT 랜선 체험 드루와!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79832</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79832</guid>
+            <pubDate>Mon, 21 Aug 2023 00:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[코스모 직장인 브이로그 &lt;넵! 알겠습니다&gt; 이번 에피소드는? HAVE A NICE TRIP 일일 리포...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/60b00a00-0f08-4f56-bd60-3829c8344e91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥스트 콜라는 바로 이것!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/79820</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Aug 2023 09:09:49 GMT</pubDate>
             <content:encoded><![CDATA[삶의 지평을 넓혀나가는 이들의 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/ff70ee6d-e7de-4195-a99d-c787754abc86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 가야 해! 여름의 피날레를 장식하는 페스티벌 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79537</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79537</guid>
-            <pubDate>Sat, 05 Aug 2023 15:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 피날레를 장식할 4개의 공연.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/437b835c-b3e1-4211-ac11-04607195166c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
