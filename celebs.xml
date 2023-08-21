@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-21T04:11:05.202Z</updated>
+    <updated>2023-08-21T05:09:39.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이렇게 빛나는 얼굴은 <밀수>가 처음? 조인성 망언 팩트체크]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79894</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79894"/>
+        <updated>2023-08-21T05:09:02.955Z</updated>
+        <content type="html"><![CDATA[이전 영화에서 빛나던 얼굴은, 자체 발광?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음원차트 힘겨루기 보는 재미가 쏠쏠할 8월 컴백 대전]]></title>
         <id>https://www.cosmopolitan.co.kr/article/79887</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79826"/>
         <updated>2023-08-15T00:37:13.588Z</updated>
         <content type="html"><![CDATA[골고루 덕질 중인 지올팍의 솔직큐트 인터뷰.ZIP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분, 오래 기다리셨죠? 쁘걸이 돌아왔다!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79792</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79792"/>
-        <updated>2023-08-15T00:37:13.594Z</updated>
-        <content type="html"><![CDATA[다시 한번 One more time~🎵으로 화려하게 컴백 완료.]]></content>
     </entry>
 </feed>
