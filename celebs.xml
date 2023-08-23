@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 23:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 00:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정규 앨범 컴백! 데이식스 영케이 화보 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79978</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79978</guid>
+            <pubDate>Wed, 23 Aug 2023 00:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[영케이가 흥얼거리는 음과 노랫말로 채워진 사사로운 한낮.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/be8cf417-d566-4472-9a7d-d5643d8f401c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플 마스크 걸 속 화제의 괴물 신인들]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80007</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 21 Aug 2023 05:09:02 GMT</pubDate>
             <content:encoded><![CDATA[이전 영화에서 빛나던 얼굴은, 자체 발광?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/6c905bec-555d-40bf-835a-7e2f15b55f4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음원차트 힘겨루기 보는 재미가 쏠쏠할 8월 컴백 대전]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79887</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79887</guid>
-            <pubDate>Wed, 16 Aug 2023 10:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[조심해! 큰 거 온다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/ac7b2a91-3d1b-4be3-bbae-67e5a9b90602.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
