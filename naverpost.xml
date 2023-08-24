@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 08:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 09:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플 마스크 걸 속 화제의 괴물 신인들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36459657&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36459657&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 24 Aug 2023 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[안재홍·고현정·나나·염혜란 옆에서도 빛을 발한 여배우들.▼ 클릭 ▼이한별1000:1의 경쟁률 뚫었다는 원작 싱크로율 100% 이한별. 그녀는 현실과 뉴미디어(?)를 넘나들며 실존할 듯 말 ···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[결혼만 N번째? 
 윤아의 웨딩드레스 변천사]]></title>
@@ -155,14 +162,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36305746&amp;memberNo=11800362</guid>
             <pubDate>Thu, 24 Aug 2023 07:08:11 GMT</pubDate>
             <content:encoded><![CDATA[‘연예인 왜 안하냐’는 소리를 기본값으로 달고 다녔다는 그들. ▼ 클릭 ▼ 로제∙지수∙차은우보다 더 예쁘고 멋있다는 가족은 누구? ‘연예인 왜 안하냐’는 소리를 기본값으로 달고 다녔다는 그들. www.cosmopolitan.co.···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[믿보! 말복 더위 거뜬히 이겨낼 
-윤은혜표 누룽지 닭백숙]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36305710&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36305710&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 24 Aug 2023 07:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[그대로 만들었는데 뒷골목 노포 맛이 난다고? ▼ 클릭 ▼ ㅅ닭백숙 만들기1. 다시마, 한약재 주머니, 무, 대파, 통양파를 넣고 끓여 육수를 만든다. (다시마는 찬물에 먼저 넣어줄 것.) 2. 굵은 소금으로 닭을 ···]]></content:encoded>
         </item>
     </channel>
 </rss>
