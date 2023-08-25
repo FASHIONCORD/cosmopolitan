@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 11:08:35 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[MUSIC IS IN THE AIR! 패션과 음악의 상호 관계에 대하여]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79759</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79759</guid>
-            <pubDate>Tue, 22 Aug 2023 10:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[패션과 음악, 그 긴밀하고도 완벽한 상호 관계에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/1ee0dc91-a3f0-476a-8e51-e0c49e36bc34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME TO COSMO! 코스모폴리탄 피처팀에서 섭외하고 싶은 셀레브리티는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79689</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79689</guid>
-            <pubDate>Wed, 16 Aug 2023 06:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/40519c9d-2951-470d-b397-206717dcd6eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫하다 핫해! 미주·화사·이효리의 비키니 모멘트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79779</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79779</guid>
-            <pubDate>Mon, 14 Aug 2023 03:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[핫한 언니들 보러 왔습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/35ac0a3a-617b-489a-8787-c9c24cff3c08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME TO COSMO! 코스모폴리탄 디지털 에디터가 섭외하고 싶은 셀레브리티는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79673</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79673</guid>
-            <pubDate>Sat, 12 Aug 2023 15:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/b0042f86-763a-4b4a-84c5-0a46412d9e98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME TO COSMO! 코스모폴리탄 패션 에디터가 섭외하고 싶은 셀레브리티는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79665</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79665</guid>
-            <pubDate>Fri, 11 Aug 2023 16:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/ba70b7a8-2aa5-474d-a098-95cef5ed918d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블핑 지수 남친 배우 안보현, 꾸안꾸 룩의 정석?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79729</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79729</guid>
-            <pubDate>Thu, 10 Aug 2023 16:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[편하게 입었는데 느낌 있는 그걸 해내네.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/742531f0-007a-4a3d-91f1-976c8060a17d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희 최애템? 힙한 셀럽들의 여름 홀터넥 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79727</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79727</guid>
-            <pubDate>Wed, 09 Aug 2023 15:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[탑 하나로 힙해지고 싶다면 주목!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/ad4e5a82-4884-4151-889d-44e77923636e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME TO COSMO! 코스모폴리탄 뷰티팀에서 섭외하고 싶은 셀레브리티는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79654</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79654</guid>
-            <pubDate>Wed, 09 Aug 2023 03:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/11baa3e0-1d2e-44b4-b327-d96b7bd8187d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-08-25T12:15:40.742Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MUSIC IS IN THE AIR! 패션과 음악의 상호 관계에 대하여]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79759</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79759"/>
+        <updated>2023-08-22T10:09:07.358Z</updated>
+        <content type="html"><![CDATA[패션과 음악, 그 긴밀하고도 완벽한 상호 관계에 대하여.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO COSMO! 코스모폴리탄 피처팀에서 섭외하고 싶은 셀레브리티는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79689</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79689"/>
+        <updated>2023-08-16T06:11:14.506Z</updated>
+        <content type="html"><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핫하다 핫해! 미주·화사·이효리의 비키니 모멘트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79779</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79779"/>
+        <updated>2023-08-14T03:09:14.791Z</updated>
+        <content type="html"><![CDATA[핫한 언니들 보러 왔습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO COSMO! 코스모폴리탄 디지털 에디터가 섭외하고 싶은 셀레브리티는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79673</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79673"/>
+        <updated>2023-08-12T15:07:29.595Z</updated>
+        <content type="html"><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO COSMO! 코스모폴리탄 패션 에디터가 섭외하고 싶은 셀레브리티는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79665</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79665"/>
+        <updated>2023-08-11T16:12:06.655Z</updated>
+        <content type="html"><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블핑 지수 남친 배우 안보현, 꾸안꾸 룩의 정석?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79729</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79729"/>
+        <updated>2023-08-10T16:15:00.305Z</updated>
+        <content type="html"><![CDATA[편하게 입었는데 느낌 있는 그걸 해내네.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희 최애템? 힙한 셀럽들의 여름 홀터넥 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79727</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79727"/>
+        <updated>2023-08-09T15:12:32.476Z</updated>
+        <content type="html"><![CDATA[탑 하나로 힙해지고 싶다면 주목!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO COSMO! 코스모폴리탄 뷰티팀에서 섭외하고 싶은 셀레브리티는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79654</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79654"/>
+        <updated>2023-08-09T03:10:06.518Z</updated>
+        <content type="html"><![CDATA[&lt;코스모폴리탄&gt;에 섭외하고 싶은 로망 속 그들!]]></content>
+    </entry>
+</feed>
