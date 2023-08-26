@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 러브</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 21:08:14 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[너밖에 안 보여! <19/20>에게 배우는 연애의 기술]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79906</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79906</guid>
-            <pubDate>Fri, 25 Aug 2023 08:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[서른아홉 마흔도 설레는 열아홉 스물의 연애.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/6185f058-3ba4-424a-a379-34d1ffc774cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1천만 원 커플링? 연애 세포 자극하는 연프 속 현커]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79877</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79877</guid>
-            <pubDate>Wed, 23 Aug 2023 03:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[부러우면 지는 거다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/5c4ab5d7-b458-4fd5-854b-e7810179a57e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜야? 마녀사냥 배 2023 섹스리스 극복 음식]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79641</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79641</guid>
-            <pubDate>Tue, 22 Aug 2023 10:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[남자들은 다 안다는 밤꽃 냄새가 대체 뭐냐고?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/f2098586-e9f7-4cd5-a1b8-bb5228af9c4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유교걸은 주의! 섹스 파티에서 동공 지진을 피하는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74951</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74951</guid>
-            <pubDate>Mon, 21 Aug 2023 12:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[K-파티 문화에선 상상조차 어려운 천조국의 ‘섹스 파티’에 우연히라도 입장하게 된다면? 이 글...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/11/41548de1-6efa-4c96-96b6-d1d816da603a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말도 많고 탈도 많은 이승기♥이다인 결혼 풀스토리!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/74886</link>
-            <guid>https://www.cosmopolitan.co.kr/article/74886</guid>
-            <pubDate>Mon, 21 Aug 2023 00:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[결혼…그런데 이제 논란을 곁들인~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/08/098db70a-db2c-4318-9138-6f257531cf33.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[티아라 지연VS황재균, 몰디브에서 댄스 배틀?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/73443</link>
-            <guid>https://www.cosmopolitan.co.kr/article/73443</guid>
-            <pubDate>Wed, 16 Aug 2023 10:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[모히또가서 몰디브 한잔~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/15/ac146c33-7278-47a1-9a92-196bb6c96cd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀 뚝뚝 주의! 션ㆍ최수종ㆍ홍현희는 기념일 어떻게 챙겨?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/72585</link>
-            <guid>https://www.cosmopolitan.co.kr/article/72585</guid>
-            <pubDate>Tue, 15 Aug 2023 00:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[안 부러워, 안 부럽다고. 근데 며칠 됐다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/23/016eb911-890a-4689-9b8b-450d58127306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서도 호텔인 것처럼 섹스해볼까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/71597</link>
-            <guid>https://www.cosmopolitan.co.kr/article/71597</guid>
-            <pubDate>Tue, 01 Aug 2023 09:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[호텔에서 하는 섹스가 특별하게 느껴지는 것은 착각이 아니다. 호텔 룸의 분위기를 조성하는 조...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/753c703e-1838-4dd3-a386-73603898b735.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/love</id>
+    <title>코스모폴리탄 코리아 ─ 러브</title>
+    <updated>2023-08-26T22:08:11.166Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너밖에 안 보여! <19/20>에게 배우는 연애의 기술]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79906</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79906"/>
+        <updated>2023-08-25T08:11:55.707Z</updated>
+        <content type="html"><![CDATA[서른아홉 마흔도 설레는 열아홉 스물의 연애.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1천만 원 커플링? 연애 세포 자극하는 연프 속 현커]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79877</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79877"/>
+        <updated>2023-08-23T03:10:18.207Z</updated>
+        <content type="html"><![CDATA[부러우면 지는 거다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜야? 마녀사냥 배 2023 섹스리스 극복 음식]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79641</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79641"/>
+        <updated>2023-08-22T10:09:46.597Z</updated>
+        <content type="html"><![CDATA[남자들은 다 안다는 밤꽃 냄새가 대체 뭐냐고?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유교걸은 주의! 섹스 파티에서 동공 지진을 피하는 법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/74951</id>
+        <link href="https://www.cosmopolitan.co.kr/article/74951"/>
+        <updated>2023-08-21T12:16:07.940Z</updated>
+        <content type="html"><![CDATA[K-파티 문화에선 상상조차 어려운 천조국의 ‘섹스 파티’에 우연히라도 입장하게 된다면? 이 글...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[말도 많고 탈도 많은 이승기♥이다인 결혼 풀스토리!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/74886</id>
+        <link href="https://www.cosmopolitan.co.kr/article/74886"/>
+        <updated>2023-08-21T00:37:19.926Z</updated>
+        <content type="html"><![CDATA[결혼…그런데 이제 논란을 곁들인~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티아라 지연VS황재균, 몰디브에서 댄스 배틀?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/73443</id>
+        <link href="https://www.cosmopolitan.co.kr/article/73443"/>
+        <updated>2023-08-16T10:09:35.431Z</updated>
+        <content type="html"><![CDATA[모히또가서 몰디브 한잔~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿀 뚝뚝 주의! 션ㆍ최수종ㆍ홍현희는 기념일 어떻게 챙겨?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/72585</id>
+        <link href="https://www.cosmopolitan.co.kr/article/72585"/>
+        <updated>2023-08-15T00:37:27.944Z</updated>
+        <content type="html"><![CDATA[안 부러워, 안 부럽다고. 근데 며칠 됐다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집에서도 호텔인 것처럼 섹스해볼까?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/71597</id>
+        <link href="https://www.cosmopolitan.co.kr/article/71597"/>
+        <updated>2023-08-01T09:14:37.371Z</updated>
+        <content type="html"><![CDATA[호텔에서 하는 섹스가 특별하게 느껴지는 것은 착각이 아니다. 호텔 룸의 분위기를 조성하는 조...]]></content>
+    </entry>
+</feed>
