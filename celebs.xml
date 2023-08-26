@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-25T23:09:50.082Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[배우로 나선 위너 김진우, 전성기는 지금부터]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80014</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80014"/>
-        <updated>2023-08-24T00:36:27.609Z</updated>
-        <content type="html"><![CDATA[하늘과 별을 자주 올려다본다. 어릴 적 살던 섬의 뱃소리를 종종 떠올린다. 여전히 슬픈 드라마...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손석구·강다니엘·나나가 구설수에 정면 돌파했다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80022</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80022"/>
-        <updated>2023-08-23T01:40:20.455Z</updated>
-        <content type="html"><![CDATA[도대체 어떤 논란이 있었길래!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비키니는 몸매가 필수? 놉. 비키니는 기세야!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80017</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80017"/>
-        <updated>2023-08-23T01:40:20.474Z</updated>
-        <content type="html"><![CDATA[보디 포지티브 그 자체 박나래. 나도 비키니 입을 기세!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정규 앨범 컴백! 데이식스 영케이 화보 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79978</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79978"/>
-        <updated>2023-08-23T00:36:55.714Z</updated>
-        <content type="html"><![CDATA[영케이가 흥얼거리는 음과 노랫말로 채워진 사사로운 한낮.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플 마스크 걸 속 화제의 괴물 신인들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80007</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80007"/>
-        <updated>2023-08-22T05:09:01.989Z</updated>
-        <content type="html"><![CDATA[안재홍·고현정·나나·염혜란 옆에서도 빛을 발한 여배우들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나혼산·14F·구해줘홈즈! 나올 때마다 매력터지는 대호84]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79974</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79974"/>
-        <updated>2023-08-22T04:10:45.568Z</updated>
-        <content type="html"><![CDATA[대호84, 대체 매력의 끝은 어디인가! 요즘 인기 난리난 김대호 아나운서 매력 짤 공개.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설현부터 솔라, 지효까지? 갓벽 복근 소유 스타들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79908</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79908"/>
-        <updated>2023-08-22T04:10:45.571Z</updated>
-        <content type="html"><![CDATA[우리 집 냉장고에 사진을 붙여 마땅하다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모가 해냈습니다. 황민현 '찐' 레어템 할인받아 GET?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79901</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79901"/>
-        <updated>2023-08-22T02:14:37.144Z</updated>
-        <content type="html"><![CDATA[지금까지 이런 혜택은 없었다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 26 Aug 2023 00:36:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우로 나선 위너 김진우, 전성기는 지금부터]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80014</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80014</guid>
+            <pubDate>Thu, 24 Aug 2023 00:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[하늘과 별을 자주 올려다본다. 어릴 적 살던 섬의 뱃소리를 종종 떠올린다. 여전히 슬픈 드라마...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/7340c1c2-b49a-410c-b18c-3b0004c83ec3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손석구·강다니엘·나나가 구설수에 정면 돌파했다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80022</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80022</guid>
+            <pubDate>Wed, 23 Aug 2023 01:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[도대체 어떤 논란이 있었길래!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/7b040b69-b6fa-4b61-90c5-880f1da8f3b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비키니는 몸매가 필수? 놉. 비키니는 기세야!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80017</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80017</guid>
+            <pubDate>Wed, 23 Aug 2023 01:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[보디 포지티브 그 자체 박나래. 나도 비키니 입을 기세!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ec653a95-849e-4a6a-8c36-de2688b2a168.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정규 앨범 컴백! 데이식스 영케이 화보 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79978</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79978</guid>
+            <pubDate>Wed, 23 Aug 2023 00:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[영케이가 흥얼거리는 음과 노랫말로 채워진 사사로운 한낮.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/be8cf417-d566-4472-9a7d-d5643d8f401c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플 마스크 걸 속 화제의 괴물 신인들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80007</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80007</guid>
+            <pubDate>Tue, 22 Aug 2023 05:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[안재홍·고현정·나나·염혜란 옆에서도 빛을 발한 여배우들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/fd5bd3f0-b50c-440d-b9eb-a364abed786a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나혼산·14F·구해줘홈즈! 나올 때마다 매력터지는 대호84]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79974</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79974</guid>
+            <pubDate>Tue, 22 Aug 2023 04:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[대호84, 대체 매력의 끝은 어디인가! 요즘 인기 난리난 김대호 아나운서 매력 짤 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/b2a7498b-3e8e-4b93-8d7f-c8733923b37d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설현부터 솔라, 지효까지? 갓벽 복근 소유 스타들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79908</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79908</guid>
+            <pubDate>Tue, 22 Aug 2023 04:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[우리 집 냉장고에 사진을 붙여 마땅하다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/94475820-4dec-4e6a-912a-9c0864444d29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모가 해냈습니다. 황민현 '찐' 레어템 할인받아 GET?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79901</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79901</guid>
+            <pubDate>Tue, 22 Aug 2023 02:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 이런 혜택은 없었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/448f069f-5d45-4e0a-9489-9c16b05ab0cd.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
