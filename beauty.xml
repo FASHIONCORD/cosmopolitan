@@ -1,74 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 18:11:04 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[유지어터 <환승연애2> 이나연이 추천하는 단 한 가지 최고의 운동은 00?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79865</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79865</guid>
-            <pubDate>Tue, 22 Aug 2023 08:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[너무 바빠 운동할 시간이 없다면 이것만 해보자.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미연·웬디·윈터 등 허쉬컷 단발 스타일링 레전드 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79858</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79858</guid>
-            <pubDate>Mon, 21 Aug 2023 09:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[본격 단발 뽐뿌오게 만드는 단발병 유발자 셀럽만 모았습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/0f3bc817-d928-431f-a7bc-7f7e7012a1f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐 써머템은 8월부터! 8월 뷰티 신상]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79672</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79672</guid>
-            <pubDate>Mon, 21 Aug 2023 05:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[New, Need, Now! 붐!붐!붐! 내 심장이 뛰는~ 서머템 가득한 8월의 뷰티 신상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/8c93dfdf-2737-4944-ad82-4377812e5224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에너제틱한 아침을 만드는 신상 퍼퓸 컬렉션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79761</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79761</guid>
-            <pubDate>Wed, 16 Aug 2023 09:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[퍼시픽 칠과 함께하는 캘리포니아에서의 에너제틱한 아침.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/13/45b3da25-7a27-46d8-b630-07d225f19902.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부를 백옥처럼! 핫해하태! 글루타티온]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79846</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79846</guid>
-            <pubDate>Tue, 15 Aug 2023 00:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[a.k.a 백옥 성분으로 인기를 끌었던 ‘글루타티온’이 다시 떡상 중! 피부를 백옥처럼 하얗게 만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/12/11dd3aed-913a-4053-9aa9-07aa15172fc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모공 카더라' 뭐가 맞을까?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79758</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79758</guid>
-            <pubDate>Mon, 14 Aug 2023 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼 샤이 모공러들 주목! ‘모공은 줄어들 수 있다?’, ‘뜨거운 곳에선 모공이 커진다?’ 등...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/4b2d1dc9-3ab3-4e91-ae09-8382a4493ae7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어딘가 남달라! 서인국의 다이어트 비법은 ‘000’ 이라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79783</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79783</guid>
-            <pubDate>Mon, 14 Aug 2023 03:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[배우는 이렇게 관리한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/9f3f1abb-be1b-46b4-a289-85cccdef67c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[습하고 땀나! 고온다습한 환경에서 버티는 뷰티 수칙]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79675</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79675</guid>
-            <pubDate>Sun, 13 Aug 2023 15:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[비가 내리고~ 땀이 흐르면~. 시든 상추처럼 팔랑거리고 부스스하게 부풀어 오르는 사자 머리와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/2b1db9a1-852c-4057-9d00-55ca5f0af8c0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-08-26T19:07:01.139Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유지어터 <환승연애2> 이나연이 추천하는 단 한 가지 최고의 운동은 00?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79865</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79865"/>
+        <updated>2023-08-22T08:12:59.691Z</updated>
+        <content type="html"><![CDATA[너무 바빠 운동할 시간이 없다면 이것만 해보자.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미연·웬디·윈터 등 허쉬컷 단발 스타일링 레전드 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79858</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79858"/>
+        <updated>2023-08-21T09:09:15.084Z</updated>
+        <content type="html"><![CDATA[본격 단발 뽐뿌오게 만드는 단발병 유발자 셀럽만 모았습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찐 써머템은 8월부터! 8월 뷰티 신상]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79672</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79672"/>
+        <updated>2023-08-21T05:08:53.868Z</updated>
+        <content type="html"><![CDATA[New, Need, Now! 붐!붐!붐! 내 심장이 뛰는~ 서머템 가득한 8월의 뷰티 신상!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에너제틱한 아침을 만드는 신상 퍼퓸 컬렉션]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79761</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79761"/>
+        <updated>2023-08-16T09:08:55.559Z</updated>
+        <content type="html"><![CDATA[퍼시픽 칠과 함께하는 캘리포니아에서의 에너제틱한 아침.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피부를 백옥처럼! 핫해하태! 글루타티온]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79846</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79846"/>
+        <updated>2023-08-15T00:37:01.371Z</updated>
+        <content type="html"><![CDATA[a.k.a 백옥 성분으로 인기를 끌었던 ‘글루타티온’이 다시 떡상 중! 피부를 백옥처럼 하얗게 만...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모공 카더라' 뭐가 맞을까?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79758</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79758"/>
+        <updated>2023-08-14T06:12:02.697Z</updated>
+        <content type="html"><![CDATA[슈퍼 샤이 모공러들 주목! ‘모공은 줄어들 수 있다?’, ‘뜨거운 곳에선 모공이 커진다?’ 등...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어딘가 남달라! 서인국의 다이어트 비법은 ‘000’ 이라고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79783</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79783"/>
+        <updated>2023-08-14T03:09:26.263Z</updated>
+        <content type="html"><![CDATA[배우는 이렇게 관리한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[습하고 땀나! 고온다습한 환경에서 버티는 뷰티 수칙]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/79675</id>
+        <link href="https://www.cosmopolitan.co.kr/article/79675"/>
+        <updated>2023-08-13T15:08:19.688Z</updated>
+        <content type="html"><![CDATA[비가 내리고~ 땀이 흐르면~. 시든 상추처럼 팔랑거리고 부스스하게 부풀어 오르는 사자 머리와 ...]]></content>
+    </entry>
+</feed>
