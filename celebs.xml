@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-08-28T07:09:58.083Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[있지 리아, "전 10년 뒤에도 노래하고 있을 거예요"]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80081</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80081"/>
-        <updated>2023-08-28T07:09:27.147Z</updated>
-        <content type="html"><![CDATA[사랑도 분노도 슬픔도 기쁨도 파도처럼, 스물셋 리아.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이건 몰랐을 걸? <마스크걸> TMI 총정리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80050</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80050"/>
-        <updated>2023-08-28T07:09:27.151Z</updated>
-        <content type="html"><![CDATA[안 본 사람이랑 겸상 안 합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일기장처럼 솔직하고 투명한 하니, 배우 안희연의 기록]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80048</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80048"/>
-        <updated>2023-08-28T06:11:53.885Z</updated>
-        <content type="html"><![CDATA[그 어느 때보다 견고하고 단단한 모습으로 무대 위에 서다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 히어로  김준수, 정선아, 서경수의 커튼 콜]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79984</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79984"/>
-        <updated>2023-08-28T05:09:05.038Z</updated>
-        <content type="html"><![CDATA[팜트리아일랜드의 두 번째 갈라 콘서트를 앞둔 세 명의 뮤지컬 배우 김준수, 정선아, 서경수의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유·그리·김우석이 ‘억’ 대의 금액을 쓴 이유는 가족 빚?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80028</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80028"/>
-        <updated>2023-08-28T00:37:46.499Z</updated>
-        <content type="html"><![CDATA[당신을 효자, 효녀로 임명합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우로 나선 위너 김진우, 전성기는 지금부터]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80014</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80014"/>
-        <updated>2023-08-24T00:36:27.609Z</updated>
-        <content type="html"><![CDATA[하늘과 별을 자주 올려다본다. 어릴 적 살던 섬의 뱃소리를 종종 떠올린다. 여전히 슬픈 드라마...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손석구·강다니엘·나나가 구설수에 정면 돌파했다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80022</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80022"/>
-        <updated>2023-08-23T01:40:20.455Z</updated>
-        <content type="html"><![CDATA[도대체 어떤 논란이 있었길래!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비키니는 몸매가 필수? 놉. 비키니는 기세야!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80017</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80017"/>
-        <updated>2023-08-23T01:40:20.474Z</updated>
-        <content type="html"><![CDATA[보디 포지티브 그 자체 박나래. 나도 비키니 입을 기세!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 28 Aug 2023 08:13:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[있지 리아, "전 10년 뒤에도 노래하고 있을 거예요"]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80081</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80081</guid>
+            <pubDate>Mon, 28 Aug 2023 07:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[사랑도 분노도 슬픔도 기쁨도 파도처럼, 스물셋 리아.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/2e07f086-cd27-4001-b854-753b993ea8eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이건 몰랐을 걸? <마스크걸> TMI 총정리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80050</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80050</guid>
+            <pubDate>Mon, 28 Aug 2023 07:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[안 본 사람이랑 겸상 안 합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/d19be1e7-2c93-4cdf-90fa-b382cf358b4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일기장처럼 솔직하고 투명한 하니, 배우 안희연의 기록]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80048</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80048</guid>
+            <pubDate>Mon, 28 Aug 2023 06:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[그 어느 때보다 견고하고 단단한 모습으로 무대 위에 서다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/7042e56e-f6b7-49f8-a355-43923b0f3be3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 히어로  김준수, 정선아, 서경수의 커튼 콜]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79984</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79984</guid>
+            <pubDate>Mon, 28 Aug 2023 05:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[팜트리아일랜드의 두 번째 갈라 콘서트를 앞둔 세 명의 뮤지컬 배우 김준수, 정선아, 서경수의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/24329229-1eed-4077-a9a3-8da7256e1e68.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유·그리·김우석이 ‘억’ 대의 금액을 쓴 이유는 가족 빚?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80028</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80028</guid>
+            <pubDate>Mon, 28 Aug 2023 00:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[당신을 효자, 효녀로 임명합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/cf501086-3f1e-462d-9275-fdc71f68d7ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우로 나선 위너 김진우, 전성기는 지금부터]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80014</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80014</guid>
+            <pubDate>Thu, 24 Aug 2023 00:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[하늘과 별을 자주 올려다본다. 어릴 적 살던 섬의 뱃소리를 종종 떠올린다. 여전히 슬픈 드라마...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/7340c1c2-b49a-410c-b18c-3b0004c83ec3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손석구·강다니엘·나나가 구설수에 정면 돌파했다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80022</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80022</guid>
+            <pubDate>Wed, 23 Aug 2023 01:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[도대체 어떤 논란이 있었길래!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/7b040b69-b6fa-4b61-90c5-880f1da8f3b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비키니는 몸매가 필수? 놉. 비키니는 기세야!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80017</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80017</guid>
+            <pubDate>Wed, 23 Aug 2023 01:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[보디 포지티브 그 자체 박나래. 나도 비키니 입을 기세!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ec653a95-849e-4a6a-8c36-de2688b2a168.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
