@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 01:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 02:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,6 +217,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79727</guid>
             <pubDate>Wed, 09 Aug 2023 15:12:32 GMT</pubDate>
             <content:encoded><![CDATA[탑 하나로 힙해지고 싶다면 주목!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/ad4e5a82-4884-4151-889d-44e77923636e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두달만에 -13kg? 배우 윤승아식 리얼 다이어트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -224,7 +225,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80040</guid>
             <pubDate>Tue, 29 Aug 2023 01:42:32 GMT</pubDate>
             <content:encoded><![CDATA[이렇게라면 왠지 할 수 있을 것만 같은 느낌적인 느낌!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/cf214dfb-6cd0-4ef0-8fc3-278a102cb718.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자신감 있는 이유? 우린 다 흡수할 자신 있거든요! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -232,7 +232,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/79993</guid>
             <pubDate>Mon, 28 Aug 2023 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[흡수는 자신감! 화이트처럼!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/9da5a227-f454-4ef4-a809-9dcbf93f0d32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤승아, 출산 후 찐 다이어트 도전 공개 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -240,7 +239,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/79975</guid>
             <pubDate>Mon, 28 Aug 2023 06:11:44 GMT</pubDate>
             <content:encoded><![CDATA[출산 후 2개월동안 꾸준하게 다이어트 성공, 화보 촬영에 등장한 윤승아 13kg 감량 비법 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/0cf25532-f94d-4c4d-b442-91fc846e6223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코스모가 해냈습니다. 황민현 '찐' 레어템 할인받아 GET? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -248,7 +246,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/79901</guid>
             <pubDate>Mon, 28 Aug 2023 02:16:09 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 이런 혜택은 없었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/448f069f-5d45-4e0a-9489-9c16b05ab0cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헬린이 주목! 해은이 알려주는 헬스장 고르는 법 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -256,7 +253,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/79879</guid>
             <pubDate>Mon, 28 Aug 2023 00:37:36 GMT</pubDate>
             <content:encoded><![CDATA[요즘 다시 헬스걸이 되어 상체하체를 열심히 뿌시고 있다는 그녀]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/2ebf5e9d-ba17-40bd-858b-82359b1a78f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유지어터 <환승연애2> 이나연이 추천하는 단 한 가지 최고의 운동은 00? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -264,7 +260,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/79865</guid>
             <pubDate>Tue, 22 Aug 2023 08:12:59 GMT</pubDate>
             <content:encoded><![CDATA[너무 바빠 운동할 시간이 없다면 이것만 해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/b1816769-a309-4d78-9e45-8d4b6847f867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미연·웬디·윈터 등 허쉬컷 단발 스타일링 레전드 5 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -272,7 +267,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/79858</guid>
             <pubDate>Mon, 21 Aug 2023 09:09:15 GMT</pubDate>
             <content:encoded><![CDATA[본격 단발 뽐뿌오게 만드는 단발병 유발자 셀럽만 모았습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/0f3bc817-d928-431f-a7bc-7f7e7012a1f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찐 써머템은 8월부터! 8월 뷰티 신상 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -280,7 +274,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/79672</guid>
             <pubDate>Mon, 21 Aug 2023 05:08:53 GMT</pubDate>
             <content:encoded><![CDATA[New, Need, Now! 붐!붐!붐! 내 심장이 뛰는~ 서머템 가득한 8월의 뷰티 신상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/8c93dfdf-2737-4944-ad82-4377812e5224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[있지 리아, "전 10년 뒤에도 노래하고 있을 거예요" (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -316,6 +309,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80028</guid>
             <pubDate>Mon, 28 Aug 2023 00:37:46 GMT</pubDate>
             <content:encoded><![CDATA[당신을 효자, 효녀로 임명합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/cf501086-3f1e-462d-9275-fdc71f68d7ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우로 나선 위너 김진우, 전성기는 지금부터 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -323,6 +317,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80014</guid>
             <pubDate>Thu, 24 Aug 2023 00:36:27 GMT</pubDate>
             <content:encoded><![CDATA[하늘과 별을 자주 올려다본다. 어릴 적 살던 섬의 뱃소리를 종종 떠올린다. 여전히 슬픈 드라마...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/7340c1c2-b49a-410c-b18c-3b0004c83ec3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손석구·강다니엘·나나가 구설수에 정면 돌파했다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -330,6 +325,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80022</guid>
             <pubDate>Wed, 23 Aug 2023 01:40:20 GMT</pubDate>
             <content:encoded><![CDATA[도대체 어떤 논란이 있었길래!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/7b040b69-b6fa-4b61-90c5-880f1da8f3b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비키니는 몸매가 필수? 놉. 비키니는 기세야! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -337,6 +333,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80017</guid>
             <pubDate>Wed, 23 Aug 2023 01:40:20 GMT</pubDate>
             <content:encoded><![CDATA[보디 포지티브 그 자체 박나래. 나도 비키니 입을 기세!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ec653a95-849e-4a6a-8c36-de2688b2a168.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너밖에 안 보여! <19/20>에게 배우는 연애의 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -400,6 +397,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80015</guid>
             <pubDate>Mon, 28 Aug 2023 04:12:23 GMT</pubDate>
             <content:encoded><![CDATA[이것이 바로 이영자 매직!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/2929644b-ea56-451f-8727-87848d5f9036.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한 번 빠지면 넋을 잃고 보게 되는 금손들의 릴스 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -407,6 +405,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80008</guid>
             <pubDate>Mon, 28 Aug 2023 00:38:05 GMT</pubDate>
             <content:encoded><![CDATA[마이크로한 팔로우 수지만, 한 번만 보게 될 수 없는 지구촌 능력자들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/f6ebb6ee-a2f6-4739-ac57-e001a540cede.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말차 덕후들 집합! 말차에 진심인 카페 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -414,6 +413,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80005</guid>
             <pubDate>Wed, 23 Aug 2023 02:14:10 GMT</pubDate>
             <content:encoded><![CDATA[말차, 어디까지 변신 가능?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/16722eb6-0cf5-4abb-b875-23bd64676f62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[따라하면 -3kg 가능한 제이제이표 요리 공개~ (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -421,6 +421,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80004</guid>
             <pubDate>Wed, 23 Aug 2023 01:40:47 GMT</pubDate>
             <content:encoded><![CDATA[맛 검증 완료! 인체 검증 완료!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/9dead446-82c3-443e-b864-6ccf88a9030c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정우성도 반한 맛? 정재형 추천 집밥 메뉴 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -428,6 +429,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80002</guid>
             <pubDate>Tue, 22 Aug 2023 10:09:57 GMT</pubDate>
             <content:encoded><![CDATA[프랑스가 집으로 오는 매직~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/035272f2-d341-4f38-b098-6a4f8f76bc3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피치피치해! 여름맛 복숭아 디저트 서울 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -435,6 +437,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79976</guid>
             <pubDate>Tue, 22 Aug 2023 02:14:54 GMT</pubDate>
             <content:encoded><![CDATA[이 맛 모르고 여름 보낼 수 없지~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/7f4115f2-00ae-453c-b9c1-5648e4146811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19금? 아니죠. 29금 넷플릭스 상영작 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -442,6 +445,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79969</guid>
             <pubDate>Mon, 21 Aug 2023 13:13:00 GMT</pubDate>
             <content:encoded><![CDATA[저.. 잠시 방 문 좀 닫을 게요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/533c4728-c94f-42ec-997d-10127a761267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠지들 마음 사로잡는 신당동 달콤 맛집 지도 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -449,6 +453,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79886</guid>
             <pubDate>Mon, 21 Aug 2023 12:16:17 GMT</pubDate>
             <content:encoded><![CDATA[떡볶이 아닌 디저트 극락으로 변한 신당동 다시 보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/900e9b7d-95f6-49a3-9528-817b665f32d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
