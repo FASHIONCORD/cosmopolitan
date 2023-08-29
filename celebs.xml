@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 08:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 09:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔하이픈 제이크와 성훈의 빛나는 지금]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80185</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80185</guid>
+            <pubDate>Tue, 29 Aug 2023 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[도쿄 돔과 미국 스타디움 입성. 무서운 기세로 커리어를 키워가는 엔하이픈의 소년들. 스물하나 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/741a9eef-7397-48c7-b3c8-5ae9c8db6455.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그때 그 아기 맞아? 추사랑·갈소원·띠예의 폭풍 성장기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80199</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80199</guid>
+            <pubDate>Tue, 29 Aug 2023 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[엄마 미소 짓게 만든 그때 그 시절 아기들의 근황은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/26fb8793-3c47-41ab-a147-2f81d134ceac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOZM 핫한 닝닝·크리스탈·허윤진의 플리는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80198</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 28 Aug 2023 07:09:27 GMT</pubDate>
             <content:encoded><![CDATA[안 본 사람이랑 겸상 안 합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/d19be1e7-2c93-4cdf-90fa-b382cf358b4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일기장처럼 솔직하고 투명한 하니, 배우 안희연의 기록]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80048</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80048</guid>
-            <pubDate>Mon, 28 Aug 2023 06:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 때보다 견고하고 단단한 모습으로 무대 위에 서다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/7042e56e-f6b7-49f8-a355-43923b0f3be3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 히어로  김준수, 정선아, 서경수의 커튼 콜]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/79984</link>
-            <guid>https://www.cosmopolitan.co.kr/article/79984</guid>
-            <pubDate>Mon, 28 Aug 2023 05:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[팜트리아일랜드의 두 번째 갈라 콘서트를 앞둔 세 명의 뮤지컬 배우 김준수, 정선아, 서경수의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/24329229-1eed-4077-a9a3-8da7256e1e68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
