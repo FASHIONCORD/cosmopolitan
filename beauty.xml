@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-08-30T03:10:02.006Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[뒤태 여신 등극! 트와이스 지효가 쩍 갈라진 등 만든 비법?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80197</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80197"/>
-        <updated>2023-08-30T03:09:21.676Z</updated>
-        <content type="html"><![CDATA[등 운동 루틴, 순서부터 팁까지 다 담았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혜리, 부지런히 미모 관리 중!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80186</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80186"/>
-        <updated>2023-08-29T06:11:35.324Z</updated>
-        <content type="html"><![CDATA[여행, 먹방을 즐기며 휴식 중인 혜리, 그녀가 푹 빠진 미모 관리 비법 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이국주가 ‘000’으로 17kg를 감량했다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80183</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80183"/>
-        <updated>2023-08-29T06:11:35.350Z</updated>
-        <content type="html"><![CDATA[풍자, 신기루, 홍윤화가 부러워할 만 하네!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두달만에 -13kg? 배우 윤승아식 리얼 다이어트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80040</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80040"/>
-        <updated>2023-08-29T01:42:32.478Z</updated>
-        <content type="html"><![CDATA[이렇게라면 왠지 할 수 있을 것만 같은 느낌적인 느낌!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신감 있는 이유? 우린 다 흡수할 자신 있거든요!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79993</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79993"/>
-        <updated>2023-08-28T10:10:29.595Z</updated>
-        <content type="html"><![CDATA[흡수는 자신감! 화이트처럼!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤승아, 출산 후 찐 다이어트 도전 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79975</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79975"/>
-        <updated>2023-08-28T06:11:44.741Z</updated>
-        <content type="html"><![CDATA[출산 후 2개월동안 꾸준하게 다이어트 성공, 화보 촬영에 등장한 윤승아 13kg 감량 비법 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모가 해냈습니다. 황민현 '찐' 레어템 할인받아 GET?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79901</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79901"/>
-        <updated>2023-08-28T02:16:09.596Z</updated>
-        <content type="html"><![CDATA[지금까지 이런 혜택은 없었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬린이 주목! 해은이 알려주는 헬스장 고르는 법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79879</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79879"/>
-        <updated>2023-08-28T00:37:36.748Z</updated>
-        <content type="html"><![CDATA[요즘 다시 헬스걸이 되어 상체하체를 열심히 뿌시고 있다는 그녀]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Aug 2023 04:11:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뒤태 여신 등극! 트와이스 지효가 쩍 갈라진 등 만든 비법?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80197</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80197</guid>
+            <pubDate>Wed, 30 Aug 2023 03:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[등 운동 루틴, 순서부터 팁까지 다 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/d9ffff78-7cb4-4baf-aad1-9769be80920d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혜리, 부지런히 미모 관리 중!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80186</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80186</guid>
+            <pubDate>Tue, 29 Aug 2023 06:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[여행, 먹방을 즐기며 휴식 중인 혜리, 그녀가 푹 빠진 미모 관리 비법 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/9a0ce554-13e2-412d-b2dd-8ebc73661f70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이국주가 ‘000’으로 17kg를 감량했다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80183</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80183</guid>
+            <pubDate>Tue, 29 Aug 2023 06:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[풍자, 신기루, 홍윤화가 부러워할 만 하네!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/38873726-74e0-42fe-b0f1-b37a11e032a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두달만에 -13kg? 배우 윤승아식 리얼 다이어트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80040</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80040</guid>
+            <pubDate>Tue, 29 Aug 2023 01:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게라면 왠지 할 수 있을 것만 같은 느낌적인 느낌!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/cf214dfb-6cd0-4ef0-8fc3-278a102cb718.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자신감 있는 이유? 우린 다 흡수할 자신 있거든요!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79993</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79993</guid>
+            <pubDate>Mon, 28 Aug 2023 10:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[흡수는 자신감! 화이트처럼!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/9da5a227-f454-4ef4-a809-9dcbf93f0d32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤승아, 출산 후 찐 다이어트 도전 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79975</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79975</guid>
+            <pubDate>Mon, 28 Aug 2023 06:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[출산 후 2개월동안 꾸준하게 다이어트 성공, 화보 촬영에 등장한 윤승아 13kg 감량 비법 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/0cf25532-f94d-4c4d-b442-91fc846e6223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모가 해냈습니다. 황민현 '찐' 레어템 할인받아 GET?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79901</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79901</guid>
+            <pubDate>Mon, 28 Aug 2023 02:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 이런 혜택은 없었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/448f069f-5d45-4e0a-9489-9c16b05ab0cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬린이 주목! 해은이 알려주는 헬스장 고르는 법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79879</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79879</guid>
+            <pubDate>Mon, 28 Aug 2023 00:37:36 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 다시 헬스걸이 되어 상체하체를 열심히 뿌시고 있다는 그녀]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/2ebf5e9d-ba17-40bd-858b-82359b1a78f9.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
