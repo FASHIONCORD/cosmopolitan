@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-08-30T02:16:18.246Z</updated>
+    <updated>2023-08-30T03:10:02.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뒤태 여신 등극! 트와이스 지효가 쩍 갈라진 등 만든 비법?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80197</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80197"/>
+        <updated>2023-08-30T03:09:21.676Z</updated>
+        <content type="html"><![CDATA[등 운동 루틴, 순서부터 팁까지 다 담았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혜리, 부지런히 미모 관리 중!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80186</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/79879"/>
         <updated>2023-08-28T00:37:36.748Z</updated>
         <content type="html"><![CDATA[요즘 다시 헬스걸이 되어 상체하체를 열심히 뿌시고 있다는 그녀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유지어터 <환승연애2> 이나연이 추천하는 단 한 가지 최고의 운동은 00?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79865</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79865"/>
-        <updated>2023-08-22T08:12:59.691Z</updated>
-        <content type="html"><![CDATA[너무 바빠 운동할 시간이 없다면 이것만 해보자.]]></content>
     </entry>
 </feed>
