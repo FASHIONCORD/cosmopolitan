@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-08-30T23:08:59.684Z</updated>
+    <updated>2023-08-31T00:38:44.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미리 예매 안 하면 못 가요. 
+궁궐 야간 관람 3]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36485941&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36485941&amp;memberNo=11800362"/>
+        <updated>2023-08-31T00:37:21.332Z</updated>
+        <content type="html"><![CDATA[너 나랑.. 궁궐에서 데이트할래? ▼ 클릭 ▼  미리 예매 안 하면 못 가요. 궁궐 야간 관람 3 너 나랑.. 궁궐에서 데이트할래? www.cosmopolitan.co.kr  창덕궁 달빛기행 은은한 달빛 아래에서 창덕궁의 아름다움을 온···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이국주가 ‘000’으로 
 17kg를 감량했다고?]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36353025&amp;memberNo=11800362"/>
         <updated>2023-08-30T20:09:41.295Z</updated>
         <content type="html"><![CDATA[혹시… 안보현도…T야?▼ 클릭 ▼지수 ♥ 안보현바로 오늘, 블랙핑크 지수와 배우 안보현이 열애를 인정했다. YG 소속 가수들 중에서 ‘최초’로 인정을 한 셀럽이기에 매우 이례적인 일!···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉬운데 고급진 맛이라고? 
-김나영표 여름 국수 레서피]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36340391&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36340391&amp;memberNo=11800362"/>
-        <updated>2023-08-30T20:09:41.298Z</updated>
-        <content type="html"><![CDATA[집 나간 입맛 돌아오는 비빔 국수와 김치 물국수! ▼ 클릭 ▼  쉬운데 고급진 맛이라고? 김나영표 여름 국수 레서피 집 나간 입맛 돌아오는 비빔 국수와 김치 물국수! www.cosmopolitan.co.kr  면 삶기 면은 적당히 덜···]]></content>
     </entry>
 </feed>
