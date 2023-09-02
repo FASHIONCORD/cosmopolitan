@@ -1,64 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-09-02T07:09:02.027Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[나 빼고 다 갔니? 슈프림 도산 TMI 총정리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80043</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80043"/>
-        <updated>2023-08-30T01:42:23.938Z</updated>
-        <content type="html"><![CDATA[공유도 탐낼 정도면 말 다 했지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[-10kg 전현무의 위장을 봉인 해제한 이영자의 추천 메뉴는 무엇?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80015</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80015"/>
-        <updated>2023-08-28T04:12:23.856Z</updated>
-        <content type="html"><![CDATA[이것이 바로 이영자 매직!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 번 빠지면 넋을 잃고 보게 되는 금손들의 릴스]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80008</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80008"/>
-        <updated>2023-08-28T00:38:05.243Z</updated>
-        <content type="html"><![CDATA[마이크로한 팔로우 수지만, 한 번만 보게 될 수 없는 지구촌 능력자들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말차 덕후들 집합! 말차에 진심인 카페 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80005</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80005"/>
-        <updated>2023-08-23T02:14:10.172Z</updated>
-        <content type="html"><![CDATA[말차, 어디까지 변신 가능?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따라하면 -3kg 가능한 제이제이표 요리 공개~]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80004</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80004"/>
-        <updated>2023-08-23T01:40:47.848Z</updated>
-        <content type="html"><![CDATA[맛 검증 완료! 인체 검증 완료!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성도 반한 맛? 정재형 추천 집밥 메뉴 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80002</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80002"/>
-        <updated>2023-08-22T10:09:57.922Z</updated>
-        <content type="html"><![CDATA[프랑스가 집으로 오는 매직~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피치피치해! 여름맛 복숭아 디저트 서울 맛집]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79976</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79976"/>
-        <updated>2023-08-22T02:14:54.600Z</updated>
-        <content type="html"><![CDATA[이 맛 모르고 여름 보낼 수 없지~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[19금? 아니죠. 29금 넷플릭스 상영작 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79969</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79969"/>
-        <updated>2023-08-30T02:16:09.361Z</updated>
-        <content type="html"><![CDATA[저.. 잠시 방 문 좀 닫을 게요.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 02 Sep 2023 08:11:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 빼고 다 갔니? 슈프림 도산 TMI 총정리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80043</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80043</guid>
+            <pubDate>Wed, 30 Aug 2023 01:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[공유도 탐낼 정도면 말 다 했지..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[-10kg 전현무의 위장을 봉인 해제한 이영자의 추천 메뉴는 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80015</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80015</guid>
+            <pubDate>Mon, 28 Aug 2023 04:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[이것이 바로 이영자 매직!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한 번 빠지면 넋을 잃고 보게 되는 금손들의 릴스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80008</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80008</guid>
+            <pubDate>Mon, 28 Aug 2023 00:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로한 팔로우 수지만, 한 번만 보게 될 수 없는 지구촌 능력자들.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[말차 덕후들 집합! 말차에 진심인 카페 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80005</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80005</guid>
+            <pubDate>Wed, 23 Aug 2023 02:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[말차, 어디까지 변신 가능?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[따라하면 -3kg 가능한 제이제이표 요리 공개~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80004</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80004</guid>
+            <pubDate>Wed, 23 Aug 2023 01:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[맛 검증 완료! 인체 검증 완료!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정우성도 반한 맛? 정재형 추천 집밥 메뉴 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80002</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80002</guid>
+            <pubDate>Tue, 22 Aug 2023 10:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스가 집으로 오는 매직~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/035272f2-d341-4f38-b098-6a4f8f76bc3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피치피치해! 여름맛 복숭아 디저트 서울 맛집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79976</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79976</guid>
+            <pubDate>Tue, 22 Aug 2023 02:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[이 맛 모르고 여름 보낼 수 없지~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/7f4115f2-00ae-453c-b9c1-5648e4146811.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19금? 아니죠. 29금 넷플릭스 상영작 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/79969</link>
+            <guid>https://www.cosmopolitan.co.kr/article/79969</guid>
+            <pubDate>Wed, 30 Aug 2023 02:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[저.. 잠시 방 문 좀 닫을 게요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/533c4728-c94f-42ec-997d-10127a761267.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
