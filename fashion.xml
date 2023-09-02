@@ -4,7 +4,7 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 17:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 18:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80215</guid>
             <pubDate>Sat, 02 Sep 2023 15:08:11 GMT</pubDate>
             <content:encoded><![CDATA[수트 베스트 단독으로 입는 패션이 대세.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/7a76bb67-078c-4f2f-8885-033a38ca64ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나 빼고 다 갔니? 슈프림 도산 TMI 총정리]]></title>
@@ -20,6 +21,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80043</guid>
             <pubDate>Fri, 01 Sep 2023 15:09:13 GMT</pubDate>
             <content:encoded><![CDATA[공유도 탐낼 정도면 말 다 했지..]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/21047981-4147-4610-bd3a-8df57f3e49ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조용한 럭셔리? 셀럽들의 올드머니 룩 3]]></title>
