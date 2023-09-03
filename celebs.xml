@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-09-03T12:16:08.825Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[사랑이는 모델, 지온이는 뮤지컬 배우? <슈돌> 아이돌의 근황 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80252</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80252"/>
-        <updated>2023-08-31T00:37:50.525Z</updated>
-        <content type="html"><![CDATA[훌쩍 커버린 K-랜선 조카들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대인 줄! 고현정·김성령·김희애의 특급 관리법은 무엇?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80251</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80251"/>
-        <updated>2023-08-30T01:41:56.331Z</updated>
-        <content type="html"><![CDATA[나이는 저만 먹나요..?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타 스토리 좋아요❤️, 플러팅이다 VS 아니다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80246</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80246"/>
-        <updated>2023-08-30T01:41:56.333Z</updated>
-        <content type="html"><![CDATA[MBTI 과몰입러는 다 드루와.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이크와 성훈의 빛나는 지금]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80185</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80185"/>
-        <updated>2023-08-29T09:09:58.840Z</updated>
-        <content type="html"><![CDATA[도쿄 돔과 미국 스타디움 입성. 무서운 기세로 커리어를 키워가는 엔하이픈의 소년들. 스물하나 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그때 그 아기 맞아? 추사랑·갈소원·띠예의 폭풍 성장기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80199</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80199"/>
-        <updated>2023-08-29T09:09:58.842Z</updated>
-        <content type="html"><![CDATA[엄마 미소 짓게 만든 그때 그 시절 아기들의 근황은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOZM 핫한 닝닝·크리스탈·허윤진의 플리는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80198</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80198"/>
-        <updated>2023-08-29T08:12:27.543Z</updated>
-        <content type="html"><![CDATA[숨은 팝송 추천 받고 싶다면 여기로!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본방 사수 전, 필독! 도파민 폭발하는 <스우파2> 갈등캐 정리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80196</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80196"/>
-        <updated>2023-08-29T08:12:27.559Z</updated>
-        <content type="html"><![CDATA[잘 봐~ 언니들 싸움 돌아왔다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<밀수><스위트홈2>, 필모그래피를 단단히 쌓아가는 고민시의 다음 행보]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80194</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80194"/>
-        <updated>2023-08-29T08:12:27.564Z</updated>
-        <content type="html"><![CDATA[애정을 넘어 애증을 품고 배역에 몰입하는 이 배우. 스스로를 불태우듯 연기하는 고민시는 뜨겁...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 03 Sep 2023 13:09:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑이는 모델, 지온이는 뮤지컬 배우? <슈돌> 아이돌의 근황 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80252</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80252</guid>
+            <pubDate>Thu, 31 Aug 2023 00:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[훌쩍 커버린 K-랜선 조카들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/dcced0e5-24dc-4f4b-a53a-977b602e80fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30대인 줄! 고현정·김성령·김희애의 특급 관리법은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80251</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80251</guid>
+            <pubDate>Wed, 30 Aug 2023 01:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[나이는 저만 먹나요..?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/46d1c227-ddf5-4e07-8ec4-6151c3183282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타 스토리 좋아요❤️, 플러팅이다 VS 아니다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80246</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80246</guid>
+            <pubDate>Wed, 30 Aug 2023 01:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[MBTI 과몰입러는 다 드루와.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/b26e7c23-2208-4b34-ac61-4e87c81200ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔하이픈 제이크와 성훈의 빛나는 지금]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80185</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80185</guid>
+            <pubDate>Tue, 29 Aug 2023 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[도쿄 돔과 미국 스타디움 입성. 무서운 기세로 커리어를 키워가는 엔하이픈의 소년들. 스물하나 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/741a9eef-7397-48c7-b3c8-5ae9c8db6455.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그때 그 아기 맞아? 추사랑·갈소원·띠예의 폭풍 성장기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80199</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80199</guid>
+            <pubDate>Tue, 29 Aug 2023 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[엄마 미소 짓게 만든 그때 그 시절 아기들의 근황은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/26fb8793-3c47-41ab-a147-2f81d134ceac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOZM 핫한 닝닝·크리스탈·허윤진의 플리는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80198</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80198</guid>
+            <pubDate>Tue, 29 Aug 2023 08:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[숨은 팝송 추천 받고 싶다면 여기로!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/1ca7924f-a0f7-4ebd-a6d5-af2416f1ec64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본방 사수 전, 필독! 도파민 폭발하는 <스우파2> 갈등캐 정리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80196</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80196</guid>
+            <pubDate>Tue, 29 Aug 2023 08:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[잘 봐~ 언니들 싸움 돌아왔다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/2ca0a2f6-efde-4e1a-b6aa-938409d18f31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<밀수><스위트홈2>, 필모그래피를 단단히 쌓아가는 고민시의 다음 행보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80194</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80194</guid>
+            <pubDate>Tue, 29 Aug 2023 08:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[애정을 넘어 애증을 품고 배역에 몰입하는 이 배우. 스스로를 불태우듯 연기하는 고민시는 뜨겁...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/67f98b12-ac46-491c-a830-b9274a358bb4.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
