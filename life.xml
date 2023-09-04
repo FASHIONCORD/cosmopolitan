@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-09-04T01:44:41.327Z</updated>
+    <updated>2023-09-04T02:16:57.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천우희도 팔로우한 인스타 요리 계정의 정체]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80051</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80051"/>
+        <updated>2023-09-04T02:16:47.785Z</updated>
+        <content type="html"><![CDATA[건강하게 먹고 싶다면 팔로우 각!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찐 부산인들도 인정? 오픈 런 각 풍자 맛집 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80049</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80002"/>
         <updated>2023-08-22T10:09:57.922Z</updated>
         <content type="html"><![CDATA[프랑스가 집으로 오는 매직~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피치피치해! 여름맛 복숭아 디저트 서울 맛집]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/79976</id>
-        <link href="https://www.cosmopolitan.co.kr/article/79976"/>
-        <updated>2023-08-22T02:14:54.600Z</updated>
-        <content type="html"><![CDATA[이 맛 모르고 여름 보낼 수 없지~]]></content>
     </entry>
 </feed>
