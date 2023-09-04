@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-09-04T09:10:54.208Z</updated>
+    <updated>2023-09-04T10:11:39.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미리 예매 안 하면 못 가요. 궁궐 야간 관람 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80182</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80182"/>
+        <updated>2023-09-04T10:10:59.288Z</updated>
+        <content type="html"><![CDATA[너 나랑.. 궁궐에서 데이트할래?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천우희도 팔로우한 인스타 요리 계정의 정체]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80051</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80004"/>
         <updated>2023-08-23T01:40:47.848Z</updated>
         <content type="html"><![CDATA[맛 검증 완료! 인체 검증 완료!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성도 반한 맛? 정재형 추천 집밥 메뉴 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80002</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80002"/>
-        <updated>2023-08-22T10:09:57.922Z</updated>
-        <content type="html"><![CDATA[프랑스가 집으로 오는 매직~]]></content>
     </entry>
 </feed>
