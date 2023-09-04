@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-09-04T08:12:57.360Z</updated>
+    <updated>2023-09-04T09:10:54.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 트렌드 메이크업은 바로! 
+라떼메이크업]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36519154&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36519154&amp;memberNo=11800362"/>
+        <updated>2023-09-04T09:09:42.213Z</updated>
+        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.▼ 클릭 ▼Do you want some Latte? 전 세계 유행을 이끌고 있다고 해도 과언이 아닌 켄달 제너, 헤일리 비버 등 할리우드 스타들이 올가을 유행할 컬러로 선택한 것은 브라운. ‘#라떼···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이게 되네? 
 장영란의 닭가슴살 다이어트 레시피]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36368742&amp;memberNo=11800362"/>
         <updated>2023-09-03T20:12:18.800Z</updated>
         <content type="html"><![CDATA[여윽~시 잉꼬 부부!▼ 클릭 ▼우리나라 대표 비주얼 부부인 이병헌 이민정 부부가 최근 겹경사 소식을 알렸다. 바로 이민정이 2세를 임신했다는 것! 아직 성별이나 출산 시기와 같은 자세한 정보는 공개되지 않았지만 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무더위에 지친 당신! 
-‘냉면 맛집’으로 떠나라]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36353049&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36353049&amp;memberNo=11800362"/>
-        <updated>2023-09-03T20:12:18.804Z</updated>
-        <content type="html"><![CDATA[입맛 돋울 냉면 맛집 BEST 4~. ▼ 클릭 ▼  무더위에 지친 당신! ‘냉면 맛집’으로 떠나라 입맛 돋울 냉면 맛집 BEST 4~. www.cosmopolitan.co.kr  능라도 Instagram의 능라도 명동님 : " 몸속까지 시원해지는 평···]]></content>
     </entry>
 </feed>
