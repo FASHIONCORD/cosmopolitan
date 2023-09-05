@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 06:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 김진우 VS 위너 진우! 당신의 PICK은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80304</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80304</guid>
+            <pubDate>Tue, 05 Sep 2023 06:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[난 둘 다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/552c776f-e4c3-41b9-9289-efa8bea6b981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“엄마가 연예인이라 미안해” 고충 겪는 스타의 자녀들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80267</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80267</guid>
+            <pubDate>Tue, 05 Sep 2023 06:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[연예인 아들·딸로 살기 쉽지 않네~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f142c9a3-b936-4363-b523-b2d4c7474235.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 조합 칭찬해! 슈가와 이강인이 최초로 밝힌 TMI]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80261</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 30 Aug 2023 01:41:56 GMT</pubDate>
             <content:encoded><![CDATA[MBTI 과몰입러는 다 드루와.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/b26e7c23-2208-4b34-ac61-4e87c81200ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈 제이크와 성훈의 빛나는 지금]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80185</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80185</guid>
-            <pubDate>Tue, 29 Aug 2023 09:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[도쿄 돔과 미국 스타디움 입성. 무서운 기세로 커리어를 키워가는 엔하이픈의 소년들. 스물하나 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/741a9eef-7397-48c7-b3c8-5ae9c8db6455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그때 그 아기 맞아? 추사랑·갈소원·띠예의 폭풍 성장기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80199</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80199</guid>
-            <pubDate>Tue, 29 Aug 2023 09:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[엄마 미소 짓게 만든 그때 그 시절 아기들의 근황은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/26fb8793-3c47-41ab-a147-2f81d134ceac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
