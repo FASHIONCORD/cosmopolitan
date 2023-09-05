@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-09-05T14:09:35.413Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[고막 힐링 주의! 팜트리즈 즉흥 라이브 갑니다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80362</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80362"/>
-        <updated>2023-09-05T09:09:47.746Z</updated>
-        <content type="html"><![CDATA[웃음 데시벨 최대치 찍었습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 김진우 VS 위너 진우! 당신의 PICK은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80304</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80304"/>
-        <updated>2023-09-05T06:11:38.625Z</updated>
-        <content type="html"><![CDATA[난 둘 다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“엄마가 연예인이라 미안해” 고충 겪는 스타의 자녀들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80267</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80267"/>
-        <updated>2023-09-05T06:11:38.627Z</updated>
-        <content type="html"><![CDATA[연예인 아들·딸로 살기 쉽지 않네~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 조합 칭찬해! 슈가와 이강인이 최초로 밝힌 TMI]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80261</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80261"/>
-        <updated>2023-09-04T10:10:32.132Z</updated>
-        <content type="html"><![CDATA[&lt;슈취타&gt; 출연한 스타들의 말말말!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존재 자체가 주얼리! 냉미남 댕댕즈의 케미 모음!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80256</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80256"/>
-        <updated>2023-09-04T00:38:16.418Z</updated>
-        <content type="html"><![CDATA[올타임 큐트! 엔하이픈 제이크와 성훈 등.장.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종국도 탐내는 운동돌, 지효의 태릉인 모먼트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80255</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80255"/>
-        <updated>2023-09-04T00:38:16.421Z</updated>
-        <content type="html"><![CDATA[너무 잘해서 자세에 손댈게 없다는 그녀의 운동법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑이는 모델, 지온이는 뮤지컬 배우? <슈돌> 아이돌의 근황 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80252</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80252"/>
-        <updated>2023-08-31T00:37:50.525Z</updated>
-        <content type="html"><![CDATA[훌쩍 커버린 K-랜선 조카들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대인 줄! 고현정·김성령·김희애의 특급 관리법은 무엇?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80251</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80251"/>
-        <updated>2023-08-30T01:41:56.331Z</updated>
-        <content type="html"><![CDATA[나이는 저만 먹나요..?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Sep 2023 15:10:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고막 힐링 주의! 팜트리즈 즉흥 라이브 갑니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80362</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80362</guid>
+            <pubDate>Tue, 05 Sep 2023 09:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[웃음 데시벨 최대치 찍었습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/d94ec959-8097-4810-a890-f3af95425adb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 김진우 VS 위너 진우! 당신의 PICK은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80304</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80304</guid>
+            <pubDate>Tue, 05 Sep 2023 06:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[난 둘 다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/552c776f-e4c3-41b9-9289-efa8bea6b981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“엄마가 연예인이라 미안해” 고충 겪는 스타의 자녀들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80267</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80267</guid>
+            <pubDate>Tue, 05 Sep 2023 06:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[연예인 아들·딸로 살기 쉽지 않네~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f142c9a3-b936-4363-b523-b2d4c7474235.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 조합 칭찬해! 슈가와 이강인이 최초로 밝힌 TMI]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80261</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80261</guid>
+            <pubDate>Mon, 04 Sep 2023 10:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;슈취타&gt; 출연한 스타들의 말말말!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/0b131574-a17e-4ce9-aa42-e78c772f7dbb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존재 자체가 주얼리! 냉미남 댕댕즈의 케미 모음!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80256</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80256</guid>
+            <pubDate>Mon, 04 Sep 2023 00:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[올타임 큐트! 엔하이픈 제이크와 성훈 등.장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f284c538-8986-408b-8a70-188f602b2aaa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종국도 탐내는 운동돌, 지효의 태릉인 모먼트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80255</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80255</guid>
+            <pubDate>Mon, 04 Sep 2023 00:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[너무 잘해서 자세에 손댈게 없다는 그녀의 운동법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/a500cfb0-444f-465d-a52a-48c3b20521bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑이는 모델, 지온이는 뮤지컬 배우? <슈돌> 아이돌의 근황 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80252</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80252</guid>
+            <pubDate>Thu, 31 Aug 2023 00:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[훌쩍 커버린 K-랜선 조카들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/dcced0e5-24dc-4f4b-a53a-977b602e80fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30대인 줄! 고현정·김성령·김희애의 특급 관리법은 무엇?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80251</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80251</guid>
+            <pubDate>Wed, 30 Aug 2023 01:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[나이는 저만 먹나요..?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/46d1c227-ddf5-4e07-8ec4-6151c3183282.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
