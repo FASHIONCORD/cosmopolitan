@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 00:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 01:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[속광 피부 만드는 소유의 스킨케어 꿀팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80363</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80363</guid>
+            <pubDate>Tue, 05 Sep 2023 01:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[다 따라 사고 ‘텅장’되었습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/d39b4cb7-f27a-44fd-aaa1-1e5fcd9cd84d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새 살이 솔솔~ 마데카솔]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80311</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80311</guid>
+            <pubDate>Tue, 05 Sep 2023 01:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/790a4b06-fec4-4410-8d31-dced5490ac50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 트렌드 메이크업은 바로! 라떼메이크업]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80269</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Sep 2023 15:09:22 GMT</pubDate>
             <content:encoded><![CDATA[닭가슴살이 주식인 다이어터들을 위한 초간단 레시피 3]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/ea0a1c97-627d-4871-be04-6cf9886ba0a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤태 여신 등극! 트와이스 지효가 쩍 갈라진 등 만든 비법?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80197</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80197</guid>
-            <pubDate>Wed, 30 Aug 2023 03:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[등 운동 루틴, 순서부터 팁까지 다 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/d9ffff78-7cb4-4baf-aad1-9769be80920d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혜리, 부지런히 미모 관리 중!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80186</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80186</guid>
-            <pubDate>Tue, 29 Aug 2023 06:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[여행, 먹방을 즐기며 휴식 중인 혜리, 그녀가 푹 빠진 미모 관리 비법 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/9a0ce554-13e2-412d-b2dd-8ebc73661f70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
