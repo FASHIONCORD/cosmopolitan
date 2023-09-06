@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-09-06T02:16:05.448Z</updated>
+    <updated>2023-09-06T03:10:33.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빛이 나는 솔로! 9월에 돌아오는 아이돌 언니 오빠는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80387</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80387"/>
+        <updated>2023-09-06T03:10:02.910Z</updated>
+        <content type="html"><![CDATA[가을의 문을 여는 솔로 아티스트들의 9월 컴백 소식.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[속광 피부 만드는 소유의 스킨케어 꿀팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80363</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80363"/>
+        <updated>2023-09-06T03:10:02.913Z</updated>
+        <content type="html"><![CDATA[다 따라 사고 ‘텅장’되었습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고막 힐링 주의! 팜트리즈 즉흥 라이브 갑니다]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80362</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80255"/>
         <updated>2023-09-04T00:38:16.421Z</updated>
         <content type="html"><![CDATA[너무 잘해서 자세에 손댈게 없다는 그녀의 운동법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑이는 모델, 지온이는 뮤지컬 배우? <슈돌> 아이돌의 근황 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80252</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80252"/>
-        <updated>2023-08-31T00:37:50.525Z</updated>
-        <content type="html"><![CDATA[훌쩍 커버린 K-랜선 조카들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대인 줄! 고현정·김성령·김희애의 특급 관리법은 무엇?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80251</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80251"/>
-        <updated>2023-08-30T01:41:56.331Z</updated>
-        <content type="html"><![CDATA[나이는 저만 먹나요..?]]></content>
     </entry>
 </feed>
