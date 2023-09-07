@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 11:08:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뷰티 업계로 진출한 패션 하우스 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80395</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80395</guid>
-            <pubDate>Thu, 07 Sep 2023 01:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[패션 하우스의 뷰티 진출, 제2라운드!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/483da519-6ef6-441d-90d6-4cfa728a1d77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두피 나이를 젊게! 뉴 스칼프 브러시 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80306</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80306</guid>
-            <pubDate>Tue, 05 Sep 2023 16:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/31280c51-8492-4311-a47f-048e5892b2ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이슨 에어랩 멀티 스타일러로 초 스피드 출근 준비하기 가능?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80374</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80374</guid>
-            <pubDate>Tue, 05 Sep 2023 07:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[헤어 길이별로 다 보여드립니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/e7e0b4a5-5758-4b1a-8195-8885da5b6a72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7년째 식단 유지 중이라는 관리 왕 이준기, 비법은 ‘000’?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80373</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80373</guid>
-            <pubDate>Tue, 05 Sep 2023 06:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[쌀과 밀가루, 그만 헤어지자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/132ad6fd-6962-4ec5-80b0-1fca8ec087d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이나연의 다이어트 비법 총집합~ 식단, 운동, 꿀팁까지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80366</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80366</guid>
-            <pubDate>Tue, 05 Sep 2023 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[건강하고 쉬운데 효과는 만점?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/a43e57ae-52af-4a13-8c06-0274faba48b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속광 피부 만드는 소유의 스킨케어 꿀팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80363</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80363</guid>
-            <pubDate>Tue, 05 Sep 2023 01:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[다 따라 사고 ‘텅장’되었습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/d39b4cb7-f27a-44fd-aaa1-1e5fcd9cd84d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 살이 솔솔~ 마데카솔]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80311</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80311</guid>
-            <pubDate>Tue, 05 Sep 2023 01:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/790a4b06-fec4-4410-8d31-dced5490ac50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 트렌드 메이크업은 바로! 라떼메이크업]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80269</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80269</guid>
-            <pubDate>Mon, 04 Sep 2023 07:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/8c67384b-c1cc-4da7-ba2e-4349f99474d1.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-09-07T12:17:13.176Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뷰티 업계로 진출한 패션 하우스 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80395</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80395"/>
+        <updated>2023-09-07T01:42:09.622Z</updated>
+        <content type="html"><![CDATA[패션 하우스의 뷰티 진출, 제2라운드!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두피 나이를 젊게! 뉴 스칼프 브러시 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80306</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80306"/>
+        <updated>2023-09-05T16:11:21.967Z</updated>
+        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이슨 에어랩 멀티 스타일러로 초 스피드 출근 준비하기 가능?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80374</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80374"/>
+        <updated>2023-09-05T07:08:26.019Z</updated>
+        <content type="html"><![CDATA[헤어 길이별로 다 보여드립니다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7년째 식단 유지 중이라는 관리 왕 이준기, 비법은 ‘000’?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80373</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80373"/>
+        <updated>2023-09-05T06:11:28.142Z</updated>
+        <content type="html"><![CDATA[쌀과 밀가루, 그만 헤어지자!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이나연의 다이어트 비법 총집합~ 식단, 운동, 꿀팁까지!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80366</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80366"/>
+        <updated>2023-09-05T05:08:55.623Z</updated>
+        <content type="html"><![CDATA[건강하고 쉬운데 효과는 만점?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[속광 피부 만드는 소유의 스킨케어 꿀팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80363</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80363"/>
+        <updated>2023-09-05T01:40:24.254Z</updated>
+        <content type="html"><![CDATA[다 따라 사고 ‘텅장’되었습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새 살이 솔솔~ 마데카솔]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80311</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80311"/>
+        <updated>2023-09-05T01:40:24.259Z</updated>
+        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 트렌드 메이크업은 바로! 라떼메이크업]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80269</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80269"/>
+        <updated>2023-09-04T07:09:15.804Z</updated>
+        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
+    </entry>
+</feed>
