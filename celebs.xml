@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 04:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니·설윤·안유진 등 요즘 MZ 셀카 트렌드 최신 Ver.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80404</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80404</guid>
+            <pubDate>Fri, 08 Sep 2023 05:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[젠Z 셀카 최신판을 가져왔어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e39df020-226c-4588-be31-dd0d44377f53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛이 나는 솔로! 9월에 돌아오는 아이돌 언니 오빠는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80387</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Sep 2023 00:38:16 GMT</pubDate>
             <content:encoded><![CDATA[올타임 큐트! 엔하이픈 제이크와 성훈 등.장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f284c538-8986-408b-8a70-188f602b2aaa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종국도 탐내는 운동돌, 지효의 태릉인 모먼트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80255</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80255</guid>
-            <pubDate>Mon, 04 Sep 2023 00:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[너무 잘해서 자세에 손댈게 없다는 그녀의 운동법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/a500cfb0-444f-465d-a52a-48c3b20521bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
