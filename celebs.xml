@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 02:14:40 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다이어트 때문에 ‘00’을 끊었다? 갓벽 몸매 셀렙 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80406</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80406</guid>
-            <pubDate>Fri, 08 Sep 2023 08:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[따라할 테면 따라해 봐!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/13cf9585-52e0-494f-b1d7-0a20b75cb2ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니·설윤·안유진 등 요즘 MZ 셀카 트렌드 최신 Ver.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80404</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80404</guid>
-            <pubDate>Fri, 08 Sep 2023 05:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[젠Z 셀카 최신판을 가져왔어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e39df020-226c-4588-be31-dd0d44377f53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛이 나는 솔로! 9월에 돌아오는 아이돌 언니 오빠는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80387</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80387</guid>
-            <pubDate>Wed, 06 Sep 2023 03:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[가을의 문을 여는 솔로 아티스트들의 9월 컴백 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/c2af3913-95a2-40f2-a7e5-6e4d3b63101d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속광 피부 만드는 소유의 스킨케어 꿀팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80363</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80363</guid>
-            <pubDate>Wed, 06 Sep 2023 03:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[다 따라 사고 ‘텅장’되었습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/d39b4cb7-f27a-44fd-aaa1-1e5fcd9cd84d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고막 힐링 주의! 팜트리즈 즉흥 라이브 갑니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80362</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80362</guid>
-            <pubDate>Tue, 05 Sep 2023 09:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[웃음 데시벨 최대치 찍었습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/d94ec959-8097-4810-a890-f3af95425adb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김진우 VS 위너 진우! 당신의 PICK은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80304</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80304</guid>
-            <pubDate>Tue, 05 Sep 2023 06:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[난 둘 다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/552c776f-e4c3-41b9-9289-efa8bea6b981.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“엄마가 연예인이라 미안해” 고충 겪는 스타의 자녀들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80267</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80267</guid>
-            <pubDate>Tue, 05 Sep 2023 06:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[연예인 아들·딸로 살기 쉽지 않네~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f142c9a3-b936-4363-b523-b2d4c7474235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 조합 칭찬해! 슈가와 이강인이 최초로 밝힌 TMI]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80261</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80261</guid>
-            <pubDate>Mon, 04 Sep 2023 10:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슈취타&gt; 출연한 스타들의 말말말!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/0b131574-a17e-4ce9-aa42-e78c772f7dbb.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-09-09T03:10:07.960Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이어트 때문에 ‘00’을 끊었다? 갓벽 몸매 셀렙 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80406</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80406"/>
+        <updated>2023-09-08T08:11:47.437Z</updated>
+        <content type="html"><![CDATA[따라할 테면 따라해 봐!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니·설윤·안유진 등 요즘 MZ 셀카 트렌드 최신 Ver.]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80404</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80404"/>
+        <updated>2023-09-08T05:08:58.888Z</updated>
+        <content type="html"><![CDATA[젠Z 셀카 최신판을 가져왔어요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛이 나는 솔로! 9월에 돌아오는 아이돌 언니 오빠는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80387</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80387"/>
+        <updated>2023-09-06T03:10:02.910Z</updated>
+        <content type="html"><![CDATA[가을의 문을 여는 솔로 아티스트들의 9월 컴백 소식.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[속광 피부 만드는 소유의 스킨케어 꿀팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80363</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80363"/>
+        <updated>2023-09-06T03:10:02.913Z</updated>
+        <content type="html"><![CDATA[다 따라 사고 ‘텅장’되었습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고막 힐링 주의! 팜트리즈 즉흥 라이브 갑니다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80362</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80362"/>
+        <updated>2023-09-05T09:09:47.746Z</updated>
+        <content type="html"><![CDATA[웃음 데시벨 최대치 찍었습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 김진우 VS 위너 진우! 당신의 PICK은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80304</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80304"/>
+        <updated>2023-09-05T06:11:38.625Z</updated>
+        <content type="html"><![CDATA[난 둘 다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“엄마가 연예인이라 미안해” 고충 겪는 스타의 자녀들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80267</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80267"/>
+        <updated>2023-09-05T06:11:38.627Z</updated>
+        <content type="html"><![CDATA[연예인 아들·딸로 살기 쉽지 않네~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 조합 칭찬해! 슈가와 이강인이 최초로 밝힌 TMI]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80261</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80261"/>
+        <updated>2023-09-04T10:10:32.132Z</updated>
+        <content type="html"><![CDATA[&lt;슈취타&gt; 출연한 스타들의 말말말!]]></content>
+    </entry>
+</feed>
