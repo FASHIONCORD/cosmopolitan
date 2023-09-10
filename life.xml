@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 08:12:25 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[드르륵 탁! 맥주 생각 절실해지는 편의점 별 신상 과자]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80385</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80385</guid>
-            <pubDate>Fri, 08 Sep 2023 08:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[나의 최애를 위협하는 YOZM K-과자들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/394fbbb7-2ce8-41fc-85db-48930a1d4647.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임금님 수라상에도 올라간 귀한 과일? 무화과 디저트 카페 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80367</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80367</guid>
-            <pubDate>Fri, 08 Sep 2023 00:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[서늘해진 가을철에는 무화과 앞으로!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/32087662-c1c9-4de6-8db6-0c02745371f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛잘알 김숙 언니 하드 털었다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80365</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80365</guid>
-            <pubDate>Thu, 07 Sep 2023 01:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[김포부터 청담까지 맛집 지도 공개~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/f6f2c40e-3dc3-4a8e-b451-5dd3d78a3f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피는 거들 뿐! 나만 알고 싶은 음악 맛집 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80265</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80265</guid>
-            <pubDate>Wed, 06 Sep 2023 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[중요한 건 끊기지 않는 음악!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/53ce4be1-6c7a-43d1-8e70-0ec12502dc64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EAT, DRINK, CELEBRATE!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80190</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80190</guid>
-            <pubDate>Tue, 05 Sep 2023 01:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[스물셋 생일을 맞은 코스모를 위해 준비한 4잔의 코스모폴리탄 칵테일과 9개의 디저트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/2b4a94a4-4e3a-45e5-91ea-41493add1ea2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 예매 안 하면 못 가요. 궁궐 야간 관람 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80182</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80182</guid>
-            <pubDate>Mon, 04 Sep 2023 10:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[너 나랑.. 궁궐에서 데이트할래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/7021faf6-82ee-48f1-988e-739e75301784.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천우희도 팔로우한 인스타 요리 계정의 정체]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80051</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80051</guid>
-            <pubDate>Mon, 04 Sep 2023 02:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[건강하게 먹고 싶다면 팔로우 각!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/0510adec-392a-45ef-ba92-a7f8edc0e4d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐 부산인들도 인정? 오픈 런 각 풍자 맛집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80049</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80049</guid>
-            <pubDate>Mon, 04 Sep 2023 01:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[부산행 티켓 예매 각.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/8bc65255-f50d-4463-8dac-679a96cac134.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-09-10T09:09:47.421Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드르륵 탁! 맥주 생각 절실해지는 편의점 별 신상 과자]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80385</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80385"/>
+        <updated>2023-09-08T08:12:06.418Z</updated>
+        <content type="html"><![CDATA[나의 최애를 위협하는 YOZM K-과자들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임금님 수라상에도 올라간 귀한 과일? 무화과 디저트 카페 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80367</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80367"/>
+        <updated>2023-09-08T00:37:59.035Z</updated>
+        <content type="html"><![CDATA[서늘해진 가을철에는 무화과 앞으로!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맛잘알 김숙 언니 하드 털었다!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80365</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80365"/>
+        <updated>2023-09-07T01:42:39.988Z</updated>
+        <content type="html"><![CDATA[김포부터 청담까지 맛집 지도 공개~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커피는 거들 뿐! 나만 알고 싶은 음악 맛집 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80265</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80265"/>
+        <updated>2023-09-06T03:10:23.875Z</updated>
+        <content type="html"><![CDATA[중요한 건 끊기지 않는 음악!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EAT, DRINK, CELEBRATE!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80190</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80190"/>
+        <updated>2023-09-05T01:40:58.236Z</updated>
+        <content type="html"><![CDATA[스물셋 생일을 맞은 코스모를 위해 준비한 4잔의 코스모폴리탄 칵테일과 9개의 디저트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미리 예매 안 하면 못 가요. 궁궐 야간 관람 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80182</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80182"/>
+        <updated>2023-09-04T10:10:59.288Z</updated>
+        <content type="html"><![CDATA[너 나랑.. 궁궐에서 데이트할래?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천우희도 팔로우한 인스타 요리 계정의 정체]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80051</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80051"/>
+        <updated>2023-09-04T02:16:47.785Z</updated>
+        <content type="html"><![CDATA[건강하게 먹고 싶다면 팔로우 각!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찐 부산인들도 인정? 오픈 런 각 풍자 맛집 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80049</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80049"/>
+        <updated>2023-09-04T01:44:31.466Z</updated>
+        <content type="html"><![CDATA[부산행 티켓 예매 각.]]></content>
+    </entry>
+</feed>
