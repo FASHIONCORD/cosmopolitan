@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-09-10T16:10:25.161Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[올가을, 겨울 눈여겨봐야할 뷰티템]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80416</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80416"/>
-        <updated>2023-09-10T16:09:44.432Z</updated>
-        <content type="html"><![CDATA[새로운 시즌의 서막을 알리는 흥미진진한 2023 F/W 뷰티 여정이 지금부터 시작된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화의 복근 유지 비법은 ‘000’?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80411</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80411"/>
-        <updated>2023-09-09T15:08:21.324Z</updated>
-        <content type="html"><![CDATA[비밀 루틴 공개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 <연인> 엔딩의 주역, 배우 이청아의 7 days 아침식사]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80405</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80405"/>
-        <updated>2023-09-08T15:08:19.472Z</updated>
-        <content type="html"><![CDATA[운동을 좋아하지 않는 그녀가 알려주는 지속가능한 다이어터로서의 삶.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 블러셔 존은 여기! 아이돌 눈밑 블러셔 메이크업 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80402</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80402"/>
-        <updated>2023-09-08T00:37:24.237Z</updated>
-        <content type="html"><![CDATA[윈터, 지수, 카리나 등 요즘 아이돌은 블러셔를 눈 밑에!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티 업계로 진출한 패션 하우스 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80395</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80395"/>
-        <updated>2023-09-07T01:42:09.622Z</updated>
-        <content type="html"><![CDATA[패션 하우스의 뷰티 진출, 제2라운드!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두피 나이를 젊게! 뉴 스칼프 브러시 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80306</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80306"/>
-        <updated>2023-09-05T16:11:21.967Z</updated>
-        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이슨 에어랩 멀티 스타일러로 초 스피드 출근 준비하기 가능?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80374</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80374"/>
-        <updated>2023-09-05T07:08:26.019Z</updated>
-        <content type="html"><![CDATA[헤어 길이별로 다 보여드립니다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7년째 식단 유지 중이라는 관리 왕 이준기, 비법은 ‘000’?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80373</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80373"/>
-        <updated>2023-09-05T06:11:28.142Z</updated>
-        <content type="html"><![CDATA[쌀과 밀가루, 그만 헤어지자!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 10 Sep 2023 17:08:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올가을, 겨울 눈여겨봐야할 뷰티템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80416</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80416</guid>
+            <pubDate>Sun, 10 Sep 2023 16:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 시즌의 서막을 알리는 흥미진진한 2023 F/W 뷰티 여정이 지금부터 시작된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/54ef6194-dd99-476c-a958-2f00a17d7e22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엄정화의 복근 유지 비법은 ‘000’?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80411</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80411</guid>
+            <pubDate>Sat, 09 Sep 2023 15:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[비밀 루틴 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e2b66e6e-10e5-4ee4-99f6-1e7679c41da4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마 <연인> 엔딩의 주역, 배우 이청아의 7 days 아침식사]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80405</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80405</guid>
+            <pubDate>Fri, 08 Sep 2023 15:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[운동을 좋아하지 않는 그녀가 알려주는 지속가능한 다이어터로서의 삶.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/b78b97d2-32c7-4a5e-a037-1598815d8d6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 블러셔 존은 여기! 아이돌 눈밑 블러셔 메이크업 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80402</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80402</guid>
+            <pubDate>Fri, 08 Sep 2023 00:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[윈터, 지수, 카리나 등 요즘 아이돌은 블러셔를 눈 밑에!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/8fd64e55-bb9f-4c4e-b056-3089ec28c63f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티 업계로 진출한 패션 하우스 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80395</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80395</guid>
+            <pubDate>Thu, 07 Sep 2023 01:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[패션 하우스의 뷰티 진출, 제2라운드!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/483da519-6ef6-441d-90d6-4cfa728a1d77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두피 나이를 젊게! 뉴 스칼프 브러시 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80306</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80306</guid>
+            <pubDate>Tue, 05 Sep 2023 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/31280c51-8492-4311-a47f-048e5892b2ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이슨 에어랩 멀티 스타일러로 초 스피드 출근 준비하기 가능?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80374</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80374</guid>
+            <pubDate>Tue, 05 Sep 2023 07:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[헤어 길이별로 다 보여드립니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/e7e0b4a5-5758-4b1a-8195-8885da5b6a72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7년째 식단 유지 중이라는 관리 왕 이준기, 비법은 ‘000’?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80373</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80373</guid>
+            <pubDate>Tue, 05 Sep 2023 06:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[쌀과 밀가루, 그만 헤어지자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/132ad6fd-6962-4ec5-80b0-1fca8ec087d7.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
