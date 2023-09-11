@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 01:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 02:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여심 쓸어담는 김연경 재질 멋진언니, <스우파2> 바다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80415</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80415</guid>
+            <pubDate>Mon, 11 Sep 2023 02:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[K-코레오 씬에서 가장 핫한 안무가이자 &lt;스우파2&gt; 리더계급 챌린지의 주인공!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/b53c0ed6-1931-4806-b19d-8ec153a88f40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 때문에 ‘00’을 끊었다? 갓벽 몸매 셀렙 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80406</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Sep 2023 06:11:38 GMT</pubDate>
             <content:encoded><![CDATA[연예인 아들·딸로 살기 쉽지 않네~]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f142c9a3-b936-4363-b523-b2d4c7474235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 조합 칭찬해! 슈가와 이강인이 최초로 밝힌 TMI]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80261</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80261</guid>
-            <pubDate>Mon, 04 Sep 2023 10:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슈취타&gt; 출연한 스타들의 말말말!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/0b131574-a17e-4ce9-aa42-e78c772f7dbb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
