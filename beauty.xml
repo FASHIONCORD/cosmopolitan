@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-09-11T06:13:07.618Z</updated>
+    <updated>2023-09-11T07:10:30.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레드 립에 대한 모든 것]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80504</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80504"/>
+        <updated>2023-09-11T07:09:44.635Z</updated>
+        <content type="html"><![CDATA[레드 립은 그 존재만으로 여성들의 심장을 뛰게 한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원하는 피부 표현은 베이스로부터! 신상 베이스 14]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80497</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80402"/>
         <updated>2023-09-08T00:37:24.237Z</updated>
         <content type="html"><![CDATA[윈터, 지수, 카리나 등 요즘 아이돌은 블러셔를 눈 밑에!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티 업계로 진출한 패션 하우스 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80395</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80395"/>
-        <updated>2023-09-07T01:42:09.622Z</updated>
-        <content type="html"><![CDATA[패션 하우스의 뷰티 진출, 제2라운드!]]></content>
     </entry>
 </feed>
