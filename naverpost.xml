@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-09-11T09:10:54.973Z</updated>
+    <updated>2023-09-11T10:10:32.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<무빙> 배우들의 놀라운 과거?!
+ (feat. 도전 골든벨)]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36559754&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36559754&amp;memberNo=11800362"/>
+        <updated>2023-09-11T10:09:35.451Z</updated>
+        <content type="html"><![CDATA[역시 될놈될인가?▼ 클릭 ▼고윤정고윤정은 ‘대학 내일’ 표지 모델 출신이다? 〈환혼2〉에 이어 이번 작품 〈무빙〉까지! 나날이 주가 상승 중인 배우 고윤정은 한 잡지 덕분에 데뷔에 성공했다. 같은 학교 사···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드르륵 탁! 맥주 생각 절실해지는 
 편의점 별 신상 과자]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36386940&amp;memberNo=11800362"/>
         <updated>2023-09-10T18:10:21.740Z</updated>
         <content type="html"><![CDATA[생제르맹 이강인과 브로맨스 케미를 선보이는 스타 모음.zip ▼ 클릭 ▼ 네이마르부터 GD까지! 프로 형 수집러 이강인의 찐친들은? 생제르맹 이강인과 브로맨스 케미를 선보이는 스타 모음.zip www.cosmopolitan.co.kr···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난입 팬에 놀라고 태도 논란까지?! 
-박서준의 시끌시끌한 무대인사]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36386910&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36386910&amp;memberNo=11800362"/>
-        <updated>2023-09-10T18:10:21.740Z</updated>
-        <content type="html"><![CDATA[박서준이 직접 해명에 나섰다. ▼ 클릭 ▼  난입 팬에 놀라고 태도 논란까지?! 박서준의 시끌시끌한 무대인사 박서준이 직접 해명에 나섰다. www.cosmopolitan.co.kr  &nbsp; “혹시나 상처받은 분들이 있을까 봐 고민 끝에 ···]]></content>
     </entry>
 </feed>
