@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-09-12T02:15:24.011Z</updated>
+    <updated>2023-09-12T03:10:32.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여행의 미학이 담긴 루이 비통 메종의 'GO-14' 백]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80496</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80496"/>
+        <updated>2023-09-12T03:09:40.498Z</updated>
+        <content type="html"><![CDATA[루이 비통 메종의 오랜 철학인 여행의 미학과 장인 정신이 깃든 ‘GO-14’ 백이 새롭게 공개됐...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLASSIC OF CLASSIC! 일상을 다채롭게 만들어줄 클래식 워치의 시간]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80466</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80279"/>
         <updated>2023-09-07T02:15:04.971Z</updated>
         <content type="html"><![CDATA[새로운 시즌, 새로운 트렌드와 함께 당신의 스타일을 업데이트하라.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COSMO LIKE! 지금 주목해야할 쏘~핫한 패션 이슈는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80250</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80250"/>
-        <updated>2023-09-07T01:41:57.061Z</updated>
-        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
     </entry>
 </feed>

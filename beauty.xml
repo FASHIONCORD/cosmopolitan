@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-09-12T02:15:24.027Z</updated>
+    <updated>2023-09-12T03:10:32.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4kg 감량? 촬영 전 장영란의 10일 다이어트 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80529</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80529"/>
+        <updated>2023-09-12T03:09:51.651Z</updated>
+        <content type="html"><![CDATA[이보다 Before &amp; After가 확실한 다이어트 방법은 없다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짬바가 드러난다~ 모델 한혜진의 광고 촬영 전 살 빼는 법!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80524</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80467"/>
         <updated>2023-09-11T04:11:01.107Z</updated>
         <content type="html"><![CDATA[단순히 내 피부에 맞는 화장품만 바른다고 다가 아니다? 바르는 순서와 제형까지 고려해야 더 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 가을에 꼭 사야할 7가지 뷰티템]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80430</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80430"/>
-        <updated>2023-09-11T02:16:57.705Z</updated>
-        <content type="html"><![CDATA[피부는 물론 눈가, 입술, 손끝까지, 닿는 곳마다 우아함이 더해지는 F/W 필수 뷰티 아이템 7가...]]></content>
     </entry>
 </feed>
