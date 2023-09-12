@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 13:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 14:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장원영부터 사쿠라까지! 초가을 자외선에 철벽 치는 아이돌 PICK 자차]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80535</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80535</guid>
+            <pubDate>Tue, 12 Sep 2023 14:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[피부 보습과 개선까지 해주는 자차들, 어디까지 스마트해질 거에요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/7588f491-5350-41e8-94cc-97d3eaf4d276.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭉친 근육 풀어주는 꿀팁! 강민경의 괄사 마사지법은?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80533</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Sep 2023 07:09:44 GMT</pubDate>
             <content:encoded><![CDATA[레드 립은 그 존재만으로 여성들의 심장을 뛰게 한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/b2640ac2-49fa-452a-8952-fe287ee640fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원하는 피부 표현은 베이스로부터! 신상 베이스 14]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80497</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80497</guid>
-            <pubDate>Mon, 11 Sep 2023 04:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[반들반들 윤이 나는 피부냐, 솜털처럼 뽀송한 새틴 피부냐? 톤그로 걱정 없이 원하는 피부 질...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/08b3987a-6a30-414a-b9ae-a8a38a6c58cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 13:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 14:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무려 40kg 감량? 홍현희 매니저 매뚱의 다이어트 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80541</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80541</guid>
+            <pubDate>Tue, 12 Sep 2023 14:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[전직 트레이너는 달라도 달라!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/20cf29f0-234a-443f-aaad-644fb9989f3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 슈스 제니∙두아 리파∙카일리 제너가 선택한 미국 휴양지는?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80537</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Sep 2023 08:12:15 GMT</pubDate>
             <content:encoded><![CDATA[역시 될놈될인가?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/b1caf56f-749c-4d0a-90f6-0489fba01632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여심 쓸어담는 김연경 재질 멋진언니, <스우파2> 바다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80415</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80415</guid>
-            <pubDate>Mon, 11 Sep 2023 02:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[K-코레오 씬에서 가장 핫한 안무가이자 &lt;스우파2&gt; 리더계급 챌린지의 주인공!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/b53c0ed6-1931-4806-b19d-8ec153a88f40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
