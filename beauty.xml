@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 14:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 15:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무려 40kg 감량? 홍현희 매니저 매뚱의 다이어트 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80541</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80541</guid>
+            <pubDate>Tue, 12 Sep 2023 15:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[전직 트레이너는 달라도 달라!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/20cf29f0-234a-443f-aaad-644fb9989f3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장원영부터 사쿠라까지! 초가을 자외선에 철벽 치는 아이돌 PICK 자차]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80535</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Sep 2023 08:12:06 GMT</pubDate>
             <content:encoded><![CDATA[아찔하게 올라간 속눈썹 폼 미쳤다! 숨어 있던 짧은 속눈썹까지 영끌해줄 뉴 띵작 마스카라.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/7f73a2ba-e947-4541-a66b-9714c8eeeee8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드 립에 대한 모든 것]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80504</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80504</guid>
-            <pubDate>Mon, 11 Sep 2023 07:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[레드 립은 그 존재만으로 여성들의 심장을 뛰게 한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/b2640ac2-49fa-452a-8952-fe287ee640fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
