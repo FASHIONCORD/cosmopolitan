@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 07:10:19 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[취향 가득! 적재 집에 초대받은 SSUL 푼다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80481</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80481</guid>
-            <pubDate>Tue, 12 Sep 2023 02:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[브레빌의 일일 바리스타가 된 적재?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/d738a8b1-be02-47ee-95d2-995002ff21a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Young K에게 무반주 한 소절 요청을 하면? 바~로 Ok!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80477</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80477</guid>
-            <pubDate>Mon, 11 Sep 2023 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[본업 잘하는 Young K 어떤데.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/c5dd061f-13e5-40fb-8a66-333d7772a39c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것도 했다고? <스우파2> 댄서들의 K-POP 안무]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80427</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80427</guid>
-            <pubDate>Mon, 11 Sep 2023 08:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[내가 원하던 춤이 이거잖아~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/e4438fdd-e810-4e96-bc2c-f92ccac7ee5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<무빙> 배우들의 놀라운 과거?! (feat. 도전 골든벨)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80426</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80426</guid>
-            <pubDate>Mon, 11 Sep 2023 08:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[역시 될놈될인가?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/b1caf56f-749c-4d0a-90f6-0489fba01632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여심 쓸어담는 김연경 재질 멋진언니, <스우파2> 바다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80415</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80415</guid>
-            <pubDate>Mon, 11 Sep 2023 02:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[K-코레오 씬에서 가장 핫한 안무가이자 &lt;스우파2&gt; 리더계급 챌린지의 주인공!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/b53c0ed6-1931-4806-b19d-8ec153a88f40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 때문에 ‘00’을 끊었다? 갓벽 몸매 셀렙 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80406</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80406</guid>
-            <pubDate>Fri, 08 Sep 2023 08:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[따라할 테면 따라해 봐!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/13cf9585-52e0-494f-b1d7-0a20b75cb2ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니·설윤·안유진 등 요즘 MZ 셀카 트렌드 최신 Ver.]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80404</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80404</guid>
-            <pubDate>Fri, 08 Sep 2023 05:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[젠Z 셀카 최신판을 가져왔어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e39df020-226c-4588-be31-dd0d44377f53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛이 나는 솔로! 9월에 돌아오는 아이돌 언니 오빠는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80387</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80387</guid>
-            <pubDate>Wed, 06 Sep 2023 03:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[가을의 문을 여는 솔로 아티스트들의 9월 컴백 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/c2af3913-95a2-40f2-a7e5-6e4d3b63101d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-09-12T08:13:05.087Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[취향 가득! 적재 집에 초대받은 SSUL 푼다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80481</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80481"/>
+        <updated>2023-09-12T02:14:47.653Z</updated>
+        <content type="html"><![CDATA[브레빌의 일일 바리스타가 된 적재?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young K에게 무반주 한 소절 요청을 하면? 바~로 Ok!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80477</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80477"/>
+        <updated>2023-09-11T12:16:09.233Z</updated>
+        <content type="html"><![CDATA[본업 잘하는 Young K 어떤데.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것도 했다고? <스우파2> 댄서들의 K-POP 안무]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80427</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80427"/>
+        <updated>2023-09-11T08:12:15.865Z</updated>
+        <content type="html"><![CDATA[내가 원하던 춤이 이거잖아~!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<무빙> 배우들의 놀라운 과거?! (feat. 도전 골든벨)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80426</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80426"/>
+        <updated>2023-09-11T08:12:15.870Z</updated>
+        <content type="html"><![CDATA[역시 될놈될인가?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여심 쓸어담는 김연경 재질 멋진언니, <스우파2> 바다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80415</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80415"/>
+        <updated>2023-09-11T02:17:07.232Z</updated>
+        <content type="html"><![CDATA[K-코레오 씬에서 가장 핫한 안무가이자 &lt;스우파2&gt; 리더계급 챌린지의 주인공!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이어트 때문에 ‘00’을 끊었다? 갓벽 몸매 셀렙 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80406</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80406"/>
+        <updated>2023-09-08T08:11:47.437Z</updated>
+        <content type="html"><![CDATA[따라할 테면 따라해 봐!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니·설윤·안유진 등 요즘 MZ 셀카 트렌드 최신 Ver.]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80404</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80404"/>
+        <updated>2023-09-08T05:08:58.888Z</updated>
+        <content type="html"><![CDATA[젠Z 셀카 최신판을 가져왔어요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛이 나는 솔로! 9월에 돌아오는 아이돌 언니 오빠는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80387</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80387"/>
+        <updated>2023-09-06T03:10:02.910Z</updated>
+        <content type="html"><![CDATA[가을의 문을 여는 솔로 아티스트들의 9월 컴백 소식.]]></content>
+    </entry>
+</feed>
