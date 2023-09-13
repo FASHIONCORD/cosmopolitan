@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-09-13T17:08:57.422Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[N망상러들 모여라, MBTI가 N임을 고백 한 셀럽은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80567</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80567"/>
-        <updated>2023-09-13T01:43:38.690Z</updated>
-        <content type="html"><![CDATA[S는 절대 이해 못할 N, 즈그들만의 세상 속으로.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[000이 아기엄마? 우리가 몰랐던 <스우파 2> TMI 8가지!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80547</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80547"/>
-        <updated>2023-09-13T01:43:38.691Z</updated>
-        <content type="html"><![CDATA[알면 알수록 더 재밌는 &lt;스트리트 우먼 파이터 2&gt;!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무려 40kg 감량? 홍현희 매니저 매뚱의 다이어트 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80541</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80541"/>
-        <updated>2023-09-12T14:09:20.412Z</updated>
-        <content type="html"><![CDATA[전직 트레이너는 달라도 달라!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 슈스 제니∙두아 리파∙카일리 제너가 선택한 미국 휴양지는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80537</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80537"/>
-        <updated>2023-09-12T13:12:54.428Z</updated>
-        <content type="html"><![CDATA[대자연에 매료되는 미국 서부 여행 필수 코스 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춤부터 패션까지 쏙 닮은 <스우파2> 바다의 럽스타그램🖤]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80531</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80531"/>
-        <updated>2023-09-12T09:10:36.174Z</updated>
-        <content type="html"><![CDATA[바다❤️하울, 그림체마저 완벽한 이들의 럽스타를 파헤쳐보자.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이마마 잊어! 이젠 스모크 챌린지다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80520</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80520"/>
-        <updated>2023-09-12T09:10:36.176Z</updated>
-        <content type="html"><![CDATA[&lt;스우파2&gt; 인기 심상치 않다. 베베 바다의 스모크 챌린지에 셀럽들의 도전 등장!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취향 가득! 적재 집에 초대받은 SSUL 푼다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80481</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80481"/>
-        <updated>2023-09-12T02:14:47.653Z</updated>
-        <content type="html"><![CDATA[브레빌의 일일 바리스타가 된 적재?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young K에게 무반주 한 소절 요청을 하면? 바~로 Ok!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80477</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80477"/>
-        <updated>2023-09-11T12:16:09.233Z</updated>
-        <content type="html"><![CDATA[본업 잘하는 Young K 어떤데.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 13 Sep 2023 18:12:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[N망상러들 모여라, MBTI가 N임을 고백 한 셀럽은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80567</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80567</guid>
+            <pubDate>Wed, 13 Sep 2023 01:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[S는 절대 이해 못할 N, 즈그들만의 세상 속으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/1e2cf442-fd9b-4ada-b347-1e2b3d39620c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[000이 아기엄마? 우리가 몰랐던 <스우파 2> TMI 8가지!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80547</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80547</guid>
+            <pubDate>Wed, 13 Sep 2023 01:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[알면 알수록 더 재밌는 &lt;스트리트 우먼 파이터 2&gt;!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/00a1dcf7-a389-45b2-a28e-69beddad9f5f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무려 40kg 감량? 홍현희 매니저 매뚱의 다이어트 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80541</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80541</guid>
+            <pubDate>Tue, 12 Sep 2023 14:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[전직 트레이너는 달라도 달라!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/20cf29f0-234a-443f-aaad-644fb9989f3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 슈스 제니∙두아 리파∙카일리 제너가 선택한 미국 휴양지는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80537</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80537</guid>
+            <pubDate>Tue, 12 Sep 2023 13:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[대자연에 매료되는 미국 서부 여행 필수 코스 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a04235d3-247b-4555-b17c-1151cfed496a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춤부터 패션까지 쏙 닮은 <스우파2> 바다의 럽스타그램🖤]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80531</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80531</guid>
+            <pubDate>Tue, 12 Sep 2023 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[바다❤️하울, 그림체마저 완벽한 이들의 럽스타를 파헤쳐보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/3e2e522f-a739-4b39-a83c-9b678fbc4126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤이마마 잊어! 이젠 스모크 챌린지다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80520</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80520</guid>
+            <pubDate>Tue, 12 Sep 2023 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;스우파2&gt; 인기 심상치 않다. 베베 바다의 스모크 챌린지에 셀럽들의 도전 등장!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/b51e9c5f-440b-4284-8ad7-e3308bc0aec3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취향 가득! 적재 집에 초대받은 SSUL 푼다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80481</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80481</guid>
+            <pubDate>Tue, 12 Sep 2023 02:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[브레빌의 일일 바리스타가 된 적재?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/d738a8b1-be02-47ee-95d2-995002ff21a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Young K에게 무반주 한 소절 요청을 하면? 바~로 Ok!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80477</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80477</guid>
+            <pubDate>Mon, 11 Sep 2023 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[본업 잘하는 Young K 어떤데.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/c5dd061f-13e5-40fb-8a66-333d7772a39c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
