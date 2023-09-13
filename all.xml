@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 14:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 15:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,6 +164,13 @@
             <content:encoded><![CDATA[부러우면 지는 거다.▼ 클릭 ▼이규빈〈하트 시그널 2〉 속 ‘내게 와 영주’의 주인공. 규빈이의 짠내나던 시절은 끝이다. 얼마 전 인스타그램을 통해 여자친구와의 영화 같은 순간을 공개한 규빈. 아름다운 ···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모두가 잠든 도시, 밤을 배회하는 그녀 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80513</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80513</guid>
+            <pubDate>Wed, 13 Sep 2023 15:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 잠든 도시. 밤을 배회하는 그녀.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[고요한 호텔 안, 그 적막함을 즐기는 한 여자 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80503</link>
             <guid>https://www.cosmopolitan.co.kr/article/80503</guid>
@@ -220,20 +227,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/0011bfa6-1501-4f4f-a8c5-71dbbe154103.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 F/W RUNWAY REPORT #2 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80364</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80364</guid>
-            <pubDate>Fri, 08 Sep 2023 00:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 시즌, 새로운 트렌드와 함께 당신의 스타일을 업데이트하라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/135b25da-d395-4765-a571-092328ba1da4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[피부 타입별 맞춤 딥클렌징 템 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80544</link>
             <guid>https://www.cosmopolitan.co.kr/article/80544</guid>
             <pubDate>Wed, 13 Sep 2023 01:43:26 GMT</pubDate>
             <content:encoded><![CDATA[클렌징은 템빨! 지금까지의 세안은 잊어라! 뽀드득 소리 날 때까지 문지르는 비누 세수 대신 피...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/fff1fd56-04f7-4016-bc8d-d81d6481769f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 40kg 감량? 홍현희 매니저 매뚱의 다이어트 팁 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -241,7 +239,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80541</guid>
             <pubDate>Tue, 12 Sep 2023 14:09:20 GMT</pubDate>
             <content:encoded><![CDATA[전직 트레이너는 달라도 달라!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/20cf29f0-234a-443f-aaad-644fb9989f3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장원영부터 사쿠라까지! 초가을 자외선에 철벽 치는 아이돌 PICK 자차 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -249,7 +246,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80535</guid>
             <pubDate>Tue, 12 Sep 2023 14:09:10 GMT</pubDate>
             <content:encoded><![CDATA[피부 보습과 개선까지 해주는 자차들, 어디까지 스마트해질 거에요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/7588f491-5350-41e8-94cc-97d3eaf4d276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭉친 근육 풀어주는 꿀팁! 강민경의 괄사 마사지법은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -257,7 +253,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80533</guid>
             <pubDate>Tue, 12 Sep 2023 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[인간 아로마티카 강민경의 노폐물 제거 팁 대방출!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6d2e21d1-fd1e-4c29-bd25-2b698cbabab6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4kg 감량? 촬영 전 장영란의 10일 다이어트 루틴 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -265,7 +260,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80529</guid>
             <pubDate>Tue, 12 Sep 2023 03:09:51 GMT</pubDate>
             <content:encoded><![CDATA[이보다 Before &amp; After가 확실한 다이어트 방법은 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/f591125a-a42b-488c-9f41-d14c7d54600c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짬바가 드러난다~ 모델 한혜진의 광고 촬영 전 살 빼는 법! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -273,7 +267,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80524</guid>
             <pubDate>Mon, 11 Sep 2023 15:09:23 GMT</pubDate>
             <content:encoded><![CDATA[야무지게 체지방만 감량 가능.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/e6d3e9dc-29f7-4027-a5bc-303d1d80e717.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장영란 검증! 10일 만에 00kg 감량 가능하다고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -281,7 +274,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80522</guid>
             <pubDate>Mon, 11 Sep 2023 12:16:00 GMT</pubDate>
             <content:encoded><![CDATA[기적의 다이어트, 장영란의 급찐급빼 식단 정리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6982796c-013c-400e-85fd-afef327aeed1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌써 결혼 15년차 손태영, 변함없는 셀럽 몸매 유지 비법은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -289,7 +281,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80519</guid>
             <pubDate>Mon, 11 Sep 2023 08:12:06 GMT</pubDate>
             <content:encoded><![CDATA[새싹 유튜버로 돌아온 Mrs.뉴저지, 배우 손태영! 결혼15년차에도 여전한 동안 미모, 탄탄한 몸매...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/609ea1a2-7af2-413e-8799-553c0c792121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[N망상러들 모여라, MBTI가 N임을 고백 한 셀럽은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -353,6 +344,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80054</guid>
             <pubDate>Tue, 12 Sep 2023 03:10:11 GMT</pubDate>
             <content:encoded><![CDATA[최악의 헌팅 멘트 날리는 남자, 어떻게 거절하지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/2c9ebbdf-4e07-4e43-aba4-68710916aec7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한혜진도 가고 장근석도 갔다고? 결정사 가입 A to Z (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -360,6 +352,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80042</guid>
             <pubDate>Tue, 05 Sep 2023 06:11:46 GMT</pubDate>
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/9f31eabc-10fb-4dff-b94f-c9c97ab1de41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극현실주의인 ISTP 주우재가 알려주는 연애 하는 법 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -367,6 +360,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80006</guid>
             <pubDate>Mon, 04 Sep 2023 02:16:30 GMT</pubDate>
             <content:encoded><![CDATA[연애, 어렵다 어려워.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/90c59201-96ad-4af2-aa21-9df376560038.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19금? 아니죠. 29금 넷플릭스 상영작 4 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -374,6 +368,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79969</guid>
             <pubDate>Mon, 21 Aug 2023 13:13:00 GMT</pubDate>
             <content:encoded><![CDATA[저.. 잠시 방 문 좀 닫을 게요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/533c4728-c94f-42ec-997d-10127a761267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너밖에 안 보여! <19/20>에게 배우는 연애의 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -381,6 +376,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79906</guid>
             <pubDate>Fri, 25 Aug 2023 08:11:55 GMT</pubDate>
             <content:encoded><![CDATA[서른아홉 마흔도 설레는 열아홉 스물의 연애.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/6185f058-3ba4-424a-a379-34d1ffc774cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1천만 원 커플링? 연애 세포 자극하는 연프 속 현커 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -388,6 +384,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79877</guid>
             <pubDate>Wed, 23 Aug 2023 03:10:18 GMT</pubDate>
             <content:encoded><![CDATA[부러우면 지는 거다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/5c4ab5d7-b458-4fd5-854b-e7810179a57e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜야? 마녀사냥 배 2023 섹스리스 극복 음식 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -395,6 +392,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/79641</guid>
             <pubDate>Tue, 22 Aug 2023 10:09:46 GMT</pubDate>
             <content:encoded><![CDATA[남자들은 다 안다는 밤꽃 냄새가 대체 뭐냐고?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/f2098586-e9f7-4cd5-a1b8-bb5228af9c4c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유교걸은 주의! 섹스 파티에서 동공 지진을 피하는 법 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -402,6 +400,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/74951</guid>
             <pubDate>Mon, 21 Aug 2023 12:16:07 GMT</pubDate>
             <content:encoded><![CDATA[K-파티 문화에선 상상조차 어려운 천조국의 ‘섹스 파티’에 우연히라도 입장하게 된다면? 이 글...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/11/41548de1-6efa-4c96-96b6-d1d816da603a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말랑콩떡 몰티즈가 케이크로? 귀여움에 치이는 디저트 모음 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
