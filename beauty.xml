@@ -1,72 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 23:09:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[피부 타입별 맞춤 딥클렌징 템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80544</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80544</guid>
-            <pubDate>Wed, 13 Sep 2023 01:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[클렌징은 템빨! 지금까지의 세안은 잊어라! 뽀드득 소리 날 때까지 문지르는 비누 세수 대신 피...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무려 40kg 감량? 홍현희 매니저 매뚱의 다이어트 팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80541</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80541</guid>
-            <pubDate>Tue, 12 Sep 2023 15:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[전직 트레이너는 달라도 달라!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장원영부터 사쿠라까지! 초가을 자외선에 철벽 치는 아이돌 PICK 자차]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80535</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80535</guid>
-            <pubDate>Tue, 12 Sep 2023 14:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[피부 보습과 개선까지 해주는 자차들, 어디까지 스마트해질 거에요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뭉친 근육 풀어주는 꿀팁! 강민경의 괄사 마사지법은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80533</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80533</guid>
-            <pubDate>Tue, 12 Sep 2023 09:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[인간 아로마티카 강민경의 노폐물 제거 팁 대방출!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6d2e21d1-fd1e-4c29-bd25-2b698cbabab6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4kg 감량? 촬영 전 장영란의 10일 다이어트 루틴]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80529</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80529</guid>
-            <pubDate>Tue, 12 Sep 2023 03:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[이보다 Before &amp; After가 확실한 다이어트 방법은 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/f591125a-a42b-488c-9f41-d14c7d54600c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짬바가 드러난다~ 모델 한혜진의 광고 촬영 전 살 빼는 법!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80524</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80524</guid>
-            <pubDate>Mon, 11 Sep 2023 15:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[야무지게 체지방만 감량 가능.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/e6d3e9dc-29f7-4027-a5bc-303d1d80e717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장영란 검증! 10일 만에 00kg 감량 가능하다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80522</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80522</guid>
-            <pubDate>Mon, 11 Sep 2023 12:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[기적의 다이어트, 장영란의 급찐급빼 식단 정리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6982796c-013c-400e-85fd-afef327aeed1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 결혼 15년차 손태영, 변함없는 셀럽 몸매 유지 비법은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80519</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80519</guid>
-            <pubDate>Mon, 11 Sep 2023 08:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[새싹 유튜버로 돌아온 Mrs.뉴저지, 배우 손태영! 결혼15년차에도 여전한 동안 미모, 탄탄한 몸매...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/609ea1a2-7af2-413e-8799-553c0c792121.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-09-14T00:38:07.510Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피부 타입별 맞춤 딥클렌징 템]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80544</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80544"/>
+        <updated>2023-09-13T01:43:26.310Z</updated>
+        <content type="html"><![CDATA[클렌징은 템빨! 지금까지의 세안은 잊어라! 뽀드득 소리 날 때까지 문지르는 비누 세수 대신 피...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무려 40kg 감량? 홍현희 매니저 매뚱의 다이어트 팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80541</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80541"/>
+        <updated>2023-09-12T15:09:56.962Z</updated>
+        <content type="html"><![CDATA[전직 트레이너는 달라도 달라!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장원영부터 사쿠라까지! 초가을 자외선에 철벽 치는 아이돌 PICK 자차]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80535</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80535"/>
+        <updated>2023-09-12T14:09:10.804Z</updated>
+        <content type="html"><![CDATA[피부 보습과 개선까지 해주는 자차들, 어디까지 스마트해질 거에요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뭉친 근육 풀어주는 꿀팁! 강민경의 괄사 마사지법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80533</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80533"/>
+        <updated>2023-09-12T09:09:54.839Z</updated>
+        <content type="html"><![CDATA[인간 아로마티카 강민경의 노폐물 제거 팁 대방출!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4kg 감량? 촬영 전 장영란의 10일 다이어트 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80529</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80529"/>
+        <updated>2023-09-12T03:09:51.651Z</updated>
+        <content type="html"><![CDATA[이보다 Before &amp; After가 확실한 다이어트 방법은 없다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[짬바가 드러난다~ 모델 한혜진의 광고 촬영 전 살 빼는 법!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80524</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80524"/>
+        <updated>2023-09-11T15:09:23.284Z</updated>
+        <content type="html"><![CDATA[야무지게 체지방만 감량 가능.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장영란 검증! 10일 만에 00kg 감량 가능하다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80522</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80522"/>
+        <updated>2023-09-11T12:16:00.119Z</updated>
+        <content type="html"><![CDATA[기적의 다이어트, 장영란의 급찐급빼 식단 정리.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벌써 결혼 15년차 손태영, 변함없는 셀럽 몸매 유지 비법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80519</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80519"/>
+        <updated>2023-09-11T08:12:06.745Z</updated>
+        <content type="html"><![CDATA[새싹 유튜버로 돌아온 Mrs.뉴저지, 배우 손태영! 결혼15년차에도 여전한 동안 미모, 탄탄한 몸매...]]></content>
+    </entry>
+</feed>
