@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 05:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 06:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 감성 어떤데. 90년대 젠지 패션 다 알려드림]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80621</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80621</guid>
+            <pubDate>Tue, 19 Sep 2023 06:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아온 미니멀리즘, 해지고 찢겨진 데님, 톡톡 튀는 Y2K, 퇴폐적이고 불온한 헤로인 시크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/baa5885a-fbea-4578-80ae-fba5261c513f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동묘에 불시착한 루이 비통 'GO-14' 백]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80556</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Sep 2023 15:09:46 GMT</pubDate>
             <content:encoded><![CDATA[고요한 호텔 안. 그 적막함을 즐기는 한 여자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/7b253e43-5da2-4b25-9d83-8492e9073c45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행의 미학이 담긴 루이 비통 메종의 'GO-14' 백]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80496</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80496</guid>
-            <pubDate>Tue, 12 Sep 2023 03:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[루이 비통 메종의 오랜 철학인 여행의 미학과 장인 정신이 깃든 ‘GO-14’ 백이 새롭게 공개됐...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/fae60bc5-be9a-4932-afa5-2afdad063bc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
