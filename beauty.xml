@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 07:10:19 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[저탄고지 식단의 달인, 소유는 000을 먹는다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80685</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80685</guid>
-            <pubDate>Wed, 20 Sep 2023 03:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[‘여자 김종국’ 소유의 저탄고지 식단부터 힙 운동까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/0fe843be-a71a-4177-80e4-d3ce18978afe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 무드 끌어올려! 무더위 순삭 9월 뷰티 신상]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80322</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80322</guid>
-            <pubDate>Wed, 20 Sep 2023 03:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[New, Need, Now! 가을 무드 끌어올려~. 무더위 순삭시킬 9월의 뷰티 신상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/92ac1c69-3024-44be-8d3f-520aaeeaab3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따끈따끈! 소시 멤버들의 다이어트 팁 업데이트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80583</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80583</guid>
-            <pubDate>Tue, 19 Sep 2023 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[어머 얘 좀 봐라 얘! 점점 더 예뻐지네~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/38b30412-feac-4afd-aeac-19473ea7b1e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티 인사이더 8명 추천! 내돈내산 꾸준템 리스트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80555</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80555</guid>
-            <pubDate>Tue, 19 Sep 2023 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[단종 금지! 뷰티 인싸들이 광고나 협찬 없이 찐으로 내돈내산하는 제품은 과연 무엇일까? 8인의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/ddba65c7-a3d2-43e5-acff-6cd132633e61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 번만 해도 라인이 산다? 손태영 군살 관리 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80574</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80574</guid>
-            <pubDate>Tue, 19 Sep 2023 07:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[헬스장 안 가도 SSAP 가능!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/c4085dbd-a8b1-4cf6-9c46-552ea1ed8665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2주면 끝! 집 나간 복근 찾는 한혜진 다이어트 팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80568</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80568</guid>
-            <pubDate>Tue, 19 Sep 2023 02:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[2주 만에 체지방 8kg!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/2d024e0d-115f-4164-b50c-1562568cc0da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허윤진·윈터·민니 등 여돌 세미 스모키 메이크업 룩 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80550</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80550</guid>
-            <pubDate>Thu, 14 Sep 2023 15:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[시꺼먼 스모키 말고! 세미 스모키가 대세.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/4688bc5d-9873-4a9b-ab6a-96ce246e9a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 타입별 맞춤 딥클렌징 템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80544</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80544</guid>
-            <pubDate>Wed, 13 Sep 2023 01:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[클렌징은 템빨! 지금까지의 세안은 잊어라! 뽀드득 소리 날 때까지 문지르는 비누 세수 대신 피...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/fff1fd56-04f7-4016-bc8d-d81d6481769f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-09-20T08:12:31.998Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저탄고지 식단의 달인, 소유는 000을 먹는다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80685</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80685"/>
+        <updated>2023-09-20T03:09:56.979Z</updated>
+        <content type="html"><![CDATA[‘여자 김종국’ 소유의 저탄고지 식단부터 힙 운동까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을 무드 끌어올려! 무더위 순삭 9월 뷰티 신상]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80322</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80322"/>
+        <updated>2023-09-20T03:09:56.983Z</updated>
+        <content type="html"><![CDATA[New, Need, Now! 가을 무드 끌어올려~. 무더위 순삭시킬 9월의 뷰티 신상!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[따끈따끈! 소시 멤버들의 다이어트 팁 업데이트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80583</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80583"/>
+        <updated>2023-09-19T10:10:17.454Z</updated>
+        <content type="html"><![CDATA[어머 얘 좀 봐라 얘! 점점 더 예뻐지네~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰티 인사이더 8명 추천! 내돈내산 꾸준템 리스트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80555</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80555"/>
+        <updated>2023-09-19T10:10:17.456Z</updated>
+        <content type="html"><![CDATA[단종 금지! 뷰티 인싸들이 광고나 협찬 없이 찐으로 내돈내산하는 제품은 과연 무엇일까? 8인의...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 번만 해도 라인이 산다? 손태영 군살 관리 법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80574</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80574"/>
+        <updated>2023-09-19T07:09:53.125Z</updated>
+        <content type="html"><![CDATA[헬스장 안 가도 SSAP 가능!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2주면 끝! 집 나간 복근 찾는 한혜진 다이어트 팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80568</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80568"/>
+        <updated>2023-09-19T02:17:28.381Z</updated>
+        <content type="html"><![CDATA[2주 만에 체지방 8kg!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허윤진·윈터·민니 등 여돌 세미 스모키 메이크업 룩 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80550</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80550"/>
+        <updated>2023-09-14T15:09:39.245Z</updated>
+        <content type="html"><![CDATA[시꺼먼 스모키 말고! 세미 스모키가 대세.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피부 타입별 맞춤 딥클렌징 템]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80544</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80544"/>
+        <updated>2023-09-13T01:43:26.310Z</updated>
+        <content type="html"><![CDATA[클렌징은 템빨! 지금까지의 세안은 잊어라! 뽀드득 소리 날 때까지 문지르는 비누 세수 대신 피...]]></content>
+    </entry>
+</feed>
