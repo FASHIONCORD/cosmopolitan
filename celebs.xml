@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 03:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 04:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월클은 다 갔다? 블핑 콘서트 참석한 셀렙 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80680</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80680</guid>
+            <pubDate>Fri, 22 Sep 2023 04:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[영화제 레드카펫인 줄!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/a9ec05e9-9dc0-4fa1-8bd3-5f935e054b1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월 2억에 5000평 규모? 사업으로 성공한 셀렙 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80673</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Sep 2023 01:43:34 GMT</pubDate>
             <content:encoded><![CDATA[허벅지 두껍단 말에 효연이 선택한 다이어트, 절대 따라 하지 말자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/4cf5db98-2340-445a-84f9-9dc775356b60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[N망상러들 모여라, MBTI가 N임을 고백 한 셀럽은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80567</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80567</guid>
-            <pubDate>Wed, 13 Sep 2023 01:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[S는 절대 이해 못할 N, 즈그들만의 세상 속으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/1e2cf442-fd9b-4ada-b347-1e2b3d39620c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
