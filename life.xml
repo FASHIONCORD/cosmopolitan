@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 01:41:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연휴 때 제대로 쉬고 싶다면? 전국 곳곳에 숨어있는 힐링 카페 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80686</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80686</guid>
-            <pubDate>Wed, 20 Sep 2023 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[일상 속 쉼이 필요한 사람들을 위한 좌표.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/e7470b70-8346-4f4e-8d4b-99bf766e7e47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파삭한 탕후루를 감싸는 부드러운 크림! 탕후루 케이크 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80682</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80682</guid>
-            <pubDate>Tue, 19 Sep 2023 10:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 대세라는 탕후루 케이크 맛집 모음.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/f965ddfd-6506-4e1f-9e36-5fd5d58e7802.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트민남 전현무도 반해버린 서해 노을 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80681</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80681</guid>
-            <pubDate>Tue, 19 Sep 2023 09:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[서해 바다에 펼쳐진 노을 맛집으로 즉흥 여행 떠나보는 거 어때?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/140665f9-3f4f-4046-b344-5a24e6476b4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한혜진 식단 관리템은 모두 ‘000’ 에서 산다?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80672</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80672</guid>
-            <pubDate>Tue, 19 Sep 2023 09:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[먹기만 해도 살이 쏙 빠진다는 음식은 무엇?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/99485911-1487-43f2-9b4e-ebdb2745a7af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숍 취재를 가장한 전통 디저트 먹부림!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80633</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80633</guid>
-            <pubDate>Tue, 19 Sep 2023 04:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[MINI 일렉트릭을 타고 전통 디저트 맛집 탐방]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/ab15e0e0-a48b-4b42-a791-2861fccd5b9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 새꾸와 동반 입장! 반려동물과 함께 갈 수 있는 성수 맛집은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80536</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80536</guid>
-            <pubDate>Tue, 19 Sep 2023 04:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[힙하기까지 한 건 안 비밀!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a932d9d5-067f-4736-a8ac-dbeb364db7fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취향 가득! 적재 집에 초대받은 SSUL 푼다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80481</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80481</guid>
-            <pubDate>Tue, 19 Sep 2023 02:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[브레빌의 일일 바리스타가 된 적재?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/d738a8b1-be02-47ee-95d2-995002ff21a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책에 푹 빠지고 싶다면? 주말 데이트로 딱인 서점 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80468</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80468</guid>
-            <pubDate>Tue, 19 Sep 2023 02:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[책에 푹 빠지고 싶을 때 가기 좋은 장소.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/a87b3ca0-a3ce-42a5-8797-3c656c64395f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-09-23T02:14:55.252Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연휴 때 제대로 쉬고 싶다면? 전국 곳곳에 숨어있는 힐링 카페 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80686</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80686"/>
+        <updated>2023-09-20T03:10:32.769Z</updated>
+        <content type="html"><![CDATA[일상 속 쉼이 필요한 사람들을 위한 좌표.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파삭한 탕후루를 감싸는 부드러운 크림! 탕후루 케이크 맛집 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80682</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80682"/>
+        <updated>2023-09-19T10:10:59.065Z</updated>
+        <content type="html"><![CDATA[요즘 대세라는 탕후루 케이크 맛집 모음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트민남 전현무도 반해버린 서해 노을 맛집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80681</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80681"/>
+        <updated>2023-09-19T09:09:52.689Z</updated>
+        <content type="html"><![CDATA[서해 바다에 펼쳐진 노을 맛집으로 즉흥 여행 떠나보는 거 어때?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진 식단 관리템은 모두 ‘000’ 에서 산다?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80672</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80672"/>
+        <updated>2023-09-19T09:09:52.691Z</updated>
+        <content type="html"><![CDATA[먹기만 해도 살이 쏙 빠진다는 음식은 무엇?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숍 취재를 가장한 전통 디저트 먹부림!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80633</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80633"/>
+        <updated>2023-09-19T04:11:01.748Z</updated>
+        <content type="html"><![CDATA[MINI 일렉트릭을 타고 전통 디저트 맛집 탐방]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 새꾸와 동반 입장! 반려동물과 함께 갈 수 있는 성수 맛집은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80536</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80536"/>
+        <updated>2023-09-19T04:11:01.751Z</updated>
+        <content type="html"><![CDATA[힙하기까지 한 건 안 비밀!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[취향 가득! 적재 집에 초대받은 SSUL 푼다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80481</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80481"/>
+        <updated>2023-09-19T02:19:02.990Z</updated>
+        <content type="html"><![CDATA[브레빌의 일일 바리스타가 된 적재?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책에 푹 빠지고 싶다면? 주말 데이트로 딱인 서점 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80468</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80468"/>
+        <updated>2023-09-19T02:19:03.024Z</updated>
+        <content type="html"><![CDATA[책에 푹 빠지고 싶을 때 가기 좋은 장소.]]></content>
+    </entry>
+</feed>
