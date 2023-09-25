@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 05:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 06:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시상식 D-100, 풍자는 동시에 세 가지 다이어트 중?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80706</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80706</guid>
+            <pubDate>Mon, 25 Sep 2023 06:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[안해본 다이어트가 없다는 풍자, 이번엔 과연 성공할 수 있을지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/65b61aed-8897-4105-979d-890db5265955.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 만렙, 한혜진은 컬리에서 000을 산다고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80696</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Sep 2023 02:17:28 GMT</pubDate>
             <content:encoded><![CDATA[2주 만에 체지방 8kg!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/2d024e0d-115f-4164-b50c-1562568cc0da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허윤진·윈터·민니 등 여돌 세미 스모키 메이크업 룩 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80550</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80550</guid>
-            <pubDate>Thu, 14 Sep 2023 15:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[시꺼먼 스모키 말고! 세미 스모키가 대세.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/4688bc5d-9873-4a9b-ab6a-96ce246e9a47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
