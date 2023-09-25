@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80708</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80708</guid>
+            <pubDate>Mon, 25 Sep 2023 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/9c8603e0-ef89-4f6d-9312-39bfe15d0872.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여운게 최고야! 큐티뽀짝함으로 무장한 애니 캐릭터 협업]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80705</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80705</guid>
+            <pubDate>Mon, 25 Sep 2023 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[오픈런 하고 싶은 깜찍함 실존!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/b3b1847d-7a5e-44e4-bfcd-0e56adec1e4b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작지만 큰 행복! 보는 재미가 쏠쏠한 망원역 독립 서점 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80703</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Sep 2023 09:09:52 GMT</pubDate>
             <content:encoded><![CDATA[먹기만 해도 살이 쏙 빠진다는 음식은 무엇?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/99485911-1487-43f2-9b4e-ebdb2745a7af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숍 취재를 가장한 전통 디저트 먹부림!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80633</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80633</guid>
-            <pubDate>Tue, 19 Sep 2023 04:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[MINI 일렉트릭을 타고 전통 디저트 맛집 탐방]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/ab15e0e0-a48b-4b42-a791-2861fccd5b9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 새꾸와 동반 입장! 반려동물과 함께 갈 수 있는 성수 맛집은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80536</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80536</guid>
-            <pubDate>Tue, 19 Sep 2023 04:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[힙하기까지 한 건 안 비밀!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a932d9d5-067f-4736-a8ac-dbeb364db7fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

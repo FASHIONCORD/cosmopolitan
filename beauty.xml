@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-09-25T02:18:20.804Z</updated>
+    <updated>2023-09-25T03:10:53.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이어트 만렙, 한혜진은 컬리에서 000을 산다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80696</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80696"/>
+        <updated>2023-09-25T03:10:16.924Z</updated>
+        <content type="html"><![CDATA[식사 받고 간식까지 다 추천해준다~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저탄고지 식단의 달인, 소유는 000을 먹는다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80685</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80550"/>
         <updated>2023-09-14T15:09:39.245Z</updated>
         <content type="html"><![CDATA[시꺼먼 스모키 말고! 세미 스모키가 대세.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피부 타입별 맞춤 딥클렌징 템]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80544</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80544"/>
-        <updated>2023-09-13T01:43:26.310Z</updated>
-        <content type="html"><![CDATA[클렌징은 템빨! 지금까지의 세안은 잊어라! 뽀드득 소리 날 때까지 문지르는 비누 세수 대신 피...]]></content>
     </entry>
 </feed>
