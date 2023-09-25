@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-09-25T16:12:21.243Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[찐 셀러브리티 한재인 등장! 내가 누군지 몰라?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80789</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80789"/>
-        <updated>2023-09-25T08:12:33.296Z</updated>
-        <content type="html"><![CDATA[사람이 이렇게 예쁘고 털털할 수 있나요? YES!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마가 한효주, 아빠가 조인성? 무빙 아역 파헤치기!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80709</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80709"/>
-        <updated>2023-09-25T06:13:17.975Z</updated>
-        <content type="html"><![CDATA[하늘을 날고 괴력을 쓰는(?) 아들에 대해 알아봤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80708</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80708"/>
-        <updated>2023-09-25T04:12:04.625Z</updated>
-        <content type="html"><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스 이런 모습 처음이야, 사나 vs 권은비 그의 선택은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80687</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80687"/>
-        <updated>2023-09-25T01:44:24.548Z</updated>
-        <content type="html"><![CDATA[요즘 가장 핫한 남자 덱스와 떼놓을 수 없는 여자 연예인 둘의 관계성.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월클은 다 갔다? 블핑 콘서트 참석한 셀렙 7]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80680</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80680"/>
-        <updated>2023-09-22T04:11:28.372Z</updated>
-        <content type="html"><![CDATA[영화제 레드카펫인 줄!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월 2억에 5000평 규모? 사업으로 성공한 셀렙 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80673</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80673"/>
-        <updated>2023-09-22T02:17:02.704Z</updated>
-        <content type="html"><![CDATA[유이·지드래곤·박재범·빽가까지 능력 천재 셀럽들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지·왁씨·하리무! <스우파2> 떡잎부터 달랐다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80666</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80666"/>
-        <updated>2023-09-19T11:08:13.454Z</updated>
-        <content type="html"><![CDATA[&lt;스우파2&gt; 출연자 중 윤지, 왁씨, 하리무의 얼굴이 익숙하다. 어디서 봤더라?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 둘이 사귄다고? <스우파2> 댄서들의 남친유무]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80582</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80582"/>
-        <updated>2023-09-19T10:10:26.211Z</updated>
-        <content type="html"><![CDATA[혹시 여자친구 자리는 남았나요?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Sep 2023 17:09:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찐 셀러브리티 한재인 등장! 내가 누군지 몰라?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80789</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80789</guid>
+            <pubDate>Mon, 25 Sep 2023 08:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[사람이 이렇게 예쁘고 털털할 수 있나요? YES!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8d31bfb0-64fc-4611-bb13-67de06b63091.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마가 한효주, 아빠가 조인성? 무빙 아역 파헤치기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80709</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80709</guid>
+            <pubDate>Mon, 25 Sep 2023 06:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[하늘을 날고 괴력을 쓰는(?) 아들에 대해 알아봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/e998f72b-26e3-46fd-9158-52e7874162d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80708</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80708</guid>
+            <pubDate>Mon, 25 Sep 2023 04:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/9c8603e0-ef89-4f6d-9312-39bfe15d0872.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덱스 이런 모습 처음이야, 사나 vs 권은비 그의 선택은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80687</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80687</guid>
+            <pubDate>Mon, 25 Sep 2023 01:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 가장 핫한 남자 덱스와 떼놓을 수 없는 여자 연예인 둘의 관계성.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/7ac87c8c-0b40-4639-be37-6e07cc23d4e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월클은 다 갔다? 블핑 콘서트 참석한 셀렙 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80680</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80680</guid>
+            <pubDate>Fri, 22 Sep 2023 04:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[영화제 레드카펫인 줄!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/a9ec05e9-9dc0-4fa1-8bd3-5f935e054b1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월 2억에 5000평 규모? 사업으로 성공한 셀렙 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80673</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80673</guid>
+            <pubDate>Fri, 22 Sep 2023 02:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[유이·지드래곤·박재범·빽가까지 능력 천재 셀럽들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/655d4f3d-16be-4012-9820-994f4d67ed0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤지·왁씨·하리무! <스우파2> 떡잎부터 달랐다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80666</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80666</guid>
+            <pubDate>Tue, 19 Sep 2023 11:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;스우파2&gt; 출연자 중 윤지, 왁씨, 하리무의 얼굴이 익숙하다. 어디서 봤더라?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/249a254f-2a69-4bc1-ae94-62ba5e39d38e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 둘이 사귄다고? <스우파2> 댄서들의 남친유무]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80582</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80582</guid>
+            <pubDate>Tue, 19 Sep 2023 10:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[혹시 여자친구 자리는 남았나요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/44f3c70f-8ab3-4f32-9ccf-f35cc2a5c57b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
