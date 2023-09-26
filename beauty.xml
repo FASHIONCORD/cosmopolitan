@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-09-26T00:38:41.187Z</updated>
+    <updated>2023-09-26T01:44:46.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80708</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80708"/>
+        <updated>2023-09-26T01:44:05.890Z</updated>
+        <content type="html"><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시상식 D-100, 풍자는 동시에 세 가지 다이어트 중?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80706</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80574"/>
         <updated>2023-09-19T07:09:53.125Z</updated>
         <content type="html"><![CDATA[헬스장 안 가도 SSAP 가능!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2주면 끝! 집 나간 복근 찾는 한혜진 다이어트 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80568</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80568"/>
-        <updated>2023-09-19T02:17:28.381Z</updated>
-        <content type="html"><![CDATA[2주 만에 체지방 8kg!]]></content>
     </entry>
 </feed>
