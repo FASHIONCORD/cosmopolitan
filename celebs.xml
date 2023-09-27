@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 06:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 07:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다채로운 배우 김무준의 또 다른 도약]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80865</guid>
+            <pubDate>Wed, 27 Sep 2023 07:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;알고있지만&gt; &lt;너에게 가는 속도 493km&gt; &lt;연인&gt; 속 화제 인물 김무준의 새로운 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/2759a38d-7762-4de9-b2e4-f9e547205b45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<하트시그널2> 임현주 남친 곽시양! 어디서 봤더라?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80887</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Sep 2023 01:44:14 GMT</pubDate>
             <content:encoded><![CDATA[“지금 무슨 생각해요?” 물끄러미 카메라 너머를 보는 전종서에게 묻고 싶은 것. 그녀는 고개...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/75d3bc84-8c0d-482a-98eb-711903772d67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장꾸력 폭발하는 밴드 루시 완전체 화보 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80766</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80766</guid>
-            <pubDate>Tue, 26 Sep 2023 00:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[때로는 뜨거운 태양처럼, 때로는 은은히 피어오르는 아지랑이처럼 청춘을 노래하는 밴드, 루시라는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/638826ea-f3fd-42be-972a-fddb2f853a30.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
