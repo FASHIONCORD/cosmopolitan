@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 23:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 00:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<하트시그널2> 임현주 남친 곽시양! 어디서 봤더라?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80887</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80887</guid>
+            <pubDate>Wed, 27 Sep 2023 00:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[알고 보니 흥행 보증 수표?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/f8922198-2110-4f90-9e85-aba09306d058.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지수와 카리나가 친했어? 의외의 연예계 찐친 리스트 3]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80886</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Sep 2023 00:38:17 GMT</pubDate>
             <content:encoded><![CDATA[때로는 뜨거운 태양처럼, 때로는 은은히 피어오르는 아지랑이처럼 청춘을 노래하는 밴드, 루시라는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/638826ea-f3fd-42be-972a-fddb2f853a30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐 셀러브리티 한재인 등장! 내가 누군지 몰라?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80789</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80789</guid>
-            <pubDate>Mon, 25 Sep 2023 08:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[사람이 이렇게 예쁘고 털털할 수 있나요? YES!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8d31bfb0-64fc-4611-bb13-67de06b63091.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
