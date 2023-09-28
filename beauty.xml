@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 07:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 08:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석 대비 급찐 방지! 절대 살 안 찌는 제이제이 추천템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80858</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80858</guid>
+            <pubDate>Thu, 28 Sep 2023 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[과자부터 면까지, 다이어터도 쌉가능~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/2f972bd6-beee-41aa-b58a-b4b2e1b96e5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기 관리 끝판왕! <무빙> 배우들의 다이어트법]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80723</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Sep 2023 03:09:56 GMT</pubDate>
             <content:encoded><![CDATA[New, Need, Now! 가을 무드 끌어올려~. 무더위 순삭시킬 9월의 뷰티 신상!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/92ac1c69-3024-44be-8d3f-520aaeeaab3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따끈따끈! 소시 멤버들의 다이어트 팁 업데이트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80583</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80583</guid>
-            <pubDate>Tue, 19 Sep 2023 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[어머 얘 좀 봐라 얘! 점점 더 예뻐지네~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/38b30412-feac-4afd-aeac-19473ea7b1e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
