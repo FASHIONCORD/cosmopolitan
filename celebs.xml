@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-09-28T01:44:30.326Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[안혜경 결혼식 사회를 송중기가 봤다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80947</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80947"/>
-        <updated>2023-09-28T00:38:09.754Z</updated>
-        <content type="html"><![CDATA[세상 어디에도 없는 의리남!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽시양♥임현주부터 이규한♥유정까지! 럽스타그램 시작한 셀럽들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80932</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80932"/>
-        <updated>2023-09-27T09:10:10.577Z</updated>
-        <content type="html"><![CDATA[알면 알수록 더 보이는 SNS 속 그들만의 세상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다채로운 배우 김무준의 또 다른 도약]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80865</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80865"/>
-        <updated>2023-09-27T07:10:06.070Z</updated>
-        <content type="html"><![CDATA[드라마 &lt;알고있지만&gt; &lt;너에게 가는 속도 493km&gt; &lt;연인&gt; 속 화제 인물 김무준의 새로운 얼굴.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<하트시그널2> 임현주 남친 곽시양! 어디서 봤더라?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80887</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80887"/>
-        <updated>2023-09-27T00:38:35.132Z</updated>
-        <content type="html"><![CDATA[알고 보니 흥행 보증 수표?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지수와 카리나가 친했어? 의외의 연예계 찐친 리스트 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80886</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80886"/>
-        <updated>2023-09-26T11:08:51.783Z</updated>
-        <content type="html"><![CDATA[친구 자리 하나 비었을까요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재홍의 연기 변신은 유죄!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80864</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80864"/>
-        <updated>2023-09-26T11:08:51.792Z</updated>
-        <content type="html"><![CDATA[한 치 앞을 모르는 배우 안재홍의 작품 행보. 캐릭터를 통째로 집어삼키는 그의 변신은 유죄다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연애는 이렇게? 열애 중♥ 팍팍 티 내는 셀럽들 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80875</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80875"/>
-        <updated>2023-09-26T08:12:17.258Z</updated>
-        <content type="html"><![CDATA[허파 디비지게 부럽다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무조건 살이 빠진다? 슈스스 한혜연의 12kg 감량 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80866</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80866"/>
-        <updated>2023-09-26T04:10:57.160Z</updated>
-        <content type="html"><![CDATA[세상의 모든 다이어트는 다 해본 이 언니!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 28 Sep 2023 02:17:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안혜경 결혼식 사회를 송중기가 봤다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80947</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80947</guid>
+            <pubDate>Thu, 28 Sep 2023 00:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[세상 어디에도 없는 의리남!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/595a0520-1b28-4f49-a506-d6d97561a8ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽시양♥임현주부터 이규한♥유정까지! 럽스타그램 시작한 셀럽들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80932</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80932</guid>
+            <pubDate>Wed, 27 Sep 2023 09:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[알면 알수록 더 보이는 SNS 속 그들만의 세상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/b4e1c93c-3589-4e8b-b211-ab8ef11da8a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다채로운 배우 김무준의 또 다른 도약]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80865</guid>
+            <pubDate>Wed, 27 Sep 2023 07:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;알고있지만&gt; &lt;너에게 가는 속도 493km&gt; &lt;연인&gt; 속 화제 인물 김무준의 새로운 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/2759a38d-7762-4de9-b2e4-f9e547205b45.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<하트시그널2> 임현주 남친 곽시양! 어디서 봤더라?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80887</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80887</guid>
+            <pubDate>Wed, 27 Sep 2023 00:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[알고 보니 흥행 보증 수표?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/f8922198-2110-4f90-9e85-aba09306d058.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지수와 카리나가 친했어? 의외의 연예계 찐친 리스트 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80886</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80886</guid>
+            <pubDate>Tue, 26 Sep 2023 11:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[친구 자리 하나 비었을까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/5eed40d3-3419-4a12-9b87-740c63ab9af2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안재홍의 연기 변신은 유죄!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80864</guid>
+            <pubDate>Tue, 26 Sep 2023 11:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[한 치 앞을 모르는 배우 안재홍의 작품 행보. 캐릭터를 통째로 집어삼키는 그의 변신은 유죄다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/8ae53c95-5af2-4cca-8121-eb117ca2542c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연애는 이렇게? 열애 중♥ 팍팍 티 내는 셀럽들 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80875</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80875</guid>
+            <pubDate>Tue, 26 Sep 2023 08:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[허파 디비지게 부럽다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/8a51dcf8-e62d-450c-910d-8302b4496ec1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무조건 살이 빠진다? 슈스스 한혜연의 12kg 감량 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80866</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80866</guid>
+            <pubDate>Tue, 26 Sep 2023 04:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[세상의 모든 다이어트는 다 해본 이 언니!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/f8304d03-d327-437a-95a8-84555b4938a6.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
