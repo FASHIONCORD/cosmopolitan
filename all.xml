@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 17:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 18:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -172,6 +172,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80560</guid>
             <pubDate>Sun, 01 Oct 2023 15:08:21 GMT</pubDate>
             <content:encoded><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/338d8cc6-48c2-4406-9a11-3f90bc68ea95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WHAT'S HOT! 9월에 핫한 패션 뉴스 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -179,6 +180,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80559</guid>
             <pubDate>Sat, 30 Sep 2023 15:07:53 GMT</pubDate>
             <content:encoded><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/17/bbc69205-b183-45e1-aa31-b8b3715b2f35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[COSMO FOCUS! 가을빛에 스며든 칼 라거펠트 화보 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -186,6 +188,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80558</guid>
             <pubDate>Tue, 26 Sep 2023 09:09:26 GMT</pubDate>
             <content:encoded><![CDATA[빛과 모던한 애티튜드가 스며든 칼 라거펠트의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/16/9b0b0021-bdb9-4ec6-91f6-6ad4feb55eee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 감성 어떤데. 90년대 젠지 패션 다 알려드림 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -193,6 +196,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80621</guid>
             <pubDate>Tue, 19 Sep 2023 06:12:28 GMT</pubDate>
             <content:encoded><![CDATA[다시 돌아온 미니멀리즘, 해지고 찢겨진 데님, 톡톡 튀는 Y2K, 퇴폐적이고 불온한 헤로인 시크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/baa5885a-fbea-4578-80ae-fba5261c513f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동묘에 불시착한 루이 비통 'GO-14' 백 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -200,6 +204,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80556</guid>
             <pubDate>Tue, 19 Sep 2023 02:17:18 GMT</pubDate>
             <content:encoded><![CDATA[동묘에 불시착한 미래, 루이 비통 GO-14.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/d86c4744-6d94-4f03-9ff2-dec798ada8b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DAY & NIGHT 불가리의 낮과 밤 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -207,6 +212,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80577</guid>
             <pubDate>Sun, 17 Sep 2023 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[불가리의 낮과 밤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/0da8045d-ecd1-4d31-8f4a-fdc8b5ceea0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멋쁨 제대로! <스우파 2> 바다 사복패션 파헤치기 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -214,6 +220,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80552</guid>
             <pubDate>Sat, 16 Sep 2023 15:08:14 GMT</pubDate>
             <content:encoded><![CDATA[언니들의 심장에 불을 지핀 그녀의 사복룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/2efce290-de34-4c04-906b-de2545071b70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하나의 아트 피스와도 같은, 로에베의 뉴룩을 대하는 새로운 애티튜드 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -221,6 +228,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80545</guid>
             <pubDate>Fri, 15 Sep 2023 15:09:06 GMT</pubDate>
             <content:encoded><![CDATA[하나의 아트 피스와도 같은, 로에베의 뉴룩을 대하는 새로운 애티튜드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/836f7ba8-7644-4536-942f-7944dc7219ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 몸무게에 볼륨감 실화? 권은비식 다이어트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -348,6 +356,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80407</guid>
             <pubDate>Tue, 26 Sep 2023 11:09:03 GMT</pubDate>
             <content:encoded><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/c6f55eef-72a8-47ba-831d-752dad47ac86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑보다 무서운 건 정? <환연2> 해은의 장기 연애 꿀팁 대방출! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -355,6 +364,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80369</guid>
             <pubDate>Mon, 25 Sep 2023 02:17:59 GMT</pubDate>
             <content:encoded><![CDATA[그놈의 정이 뭐라고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a400fcec-3ae9-4dfc-a989-404b14aeab61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘은 어플보다 데이트 문서가 대세? 애인 구합니다 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -362,6 +372,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80248</guid>
             <pubDate>Wed, 20 Sep 2023 02:16:40 GMT</pubDate>
             <content:encoded><![CDATA[구인광고와 100문100답의 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/66df1898-ff07-4998-a8b4-7dc75761c86f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이들 어서오고. 반려 토이, 부르부르의 모든 것을 알려드림 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -369,6 +380,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80149</guid>
             <pubDate>Wed, 20 Sep 2023 02:16:40 GMT</pubDate>
             <content:encoded><![CDATA[애들은 가! 애들은 가!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/023591f4-c6ea-4b86-8d1f-6b9aa0017cce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게임에 져서 왔어요. 최악의 헌팅 멘트 톱 오브 톱 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -376,6 +388,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80054</guid>
             <pubDate>Tue, 12 Sep 2023 03:10:11 GMT</pubDate>
             <content:encoded><![CDATA[최악의 헌팅 멘트 날리는 남자, 어떻게 거절하지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/2c9ebbdf-4e07-4e43-aba4-68710916aec7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한혜진도 가고 장근석도 갔다고? 결정사 가입 A to Z (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -383,6 +396,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80042</guid>
             <pubDate>Tue, 05 Sep 2023 06:11:46 GMT</pubDate>
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/9f31eabc-10fb-4dff-b94f-c9c97ab1de41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극현실주의인 ISTP 주우재가 알려주는 연애 하는 법 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -390,6 +404,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/80006</guid>
             <pubDate>Mon, 04 Sep 2023 02:16:30 GMT</pubDate>
             <content:encoded><![CDATA[연애, 어렵다 어려워.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/90c59201-96ad-4af2-aa21-9df376560038.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19금? 아니죠. 29금 넷플릭스 상영작 4 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -397,6 +412,7 @@ MBTI보다 핫한 <나는 SOLO> 테스트 (네이버 포스트 ─ 코스모폴�
             <guid>https://www.cosmopolitan.co.kr/article/79969</guid>
             <pubDate>Mon, 21 Aug 2023 13:13:00 GMT</pubDate>
             <content:encoded><![CDATA[저.. 잠시 방 문 좀 닫을 게요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/533c4728-c94f-42ec-997d-10127a761267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추석용 가능! 전여빈도 극찬한 요정 재형의 겁나 쉬운 요리 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
