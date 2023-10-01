@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 14:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 15:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패.알.못 드루와. 9월 패션은 '000'만 기억하면 된다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80560</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80560</guid>
+            <pubDate>Sun, 01 Oct 2023 15:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/338d8cc6-48c2-4406-9a11-3f90bc68ea95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WHAT'S HOT! 9월에 핫한 패션 뉴스]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80559</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Sep 2023 15:09:06 GMT</pubDate>
             <content:encoded><![CDATA[하나의 아트 피스와도 같은, 로에베의 뉴룩을 대하는 새로운 애티튜드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/836f7ba8-7644-4536-942f-7944dc7219ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시선 집중! 배우 한재인이 선택한 항공 재킷의 정체는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80527</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80527</guid>
-            <pubDate>Thu, 14 Sep 2023 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[뭘 입어도 셀러브리티! 팬암과 한재인의 특별한 여정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/c07471d2-31ad-45fe-9350-58f7cc050475.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
