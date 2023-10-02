@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-10-02T17:09:17.391Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[일상에 침투한 유니폼! 요즘 트렌드 블록 코어 패션 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80683</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80683"/>
-        <updated>2023-10-02T15:09:24.639Z</updated>
-        <content type="html"><![CDATA[뉴진스·르세라핌 등 아이돌이 사랑하는 유니폼 패션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패.알.못 드루와. 9월 패션은 '000'만 기억하면 된다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80560</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80560"/>
-        <updated>2023-10-01T15:08:21.491Z</updated>
-        <content type="html"><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHAT'S HOT! 9월에 핫한 패션 뉴스]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80559</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80559"/>
-        <updated>2023-09-30T15:07:53.260Z</updated>
-        <content type="html"><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COSMO FOCUS! 가을빛에 스며든 칼 라거펠트 화보]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80558</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80558"/>
-        <updated>2023-09-26T09:09:26.624Z</updated>
-        <content type="html"><![CDATA[빛과 모던한 애티튜드가 스며든 칼 라거펠트의 시간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 감성 어떤데. 90년대 젠지 패션 다 알려드림]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80621</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80621"/>
-        <updated>2023-09-19T06:12:28.872Z</updated>
-        <content type="html"><![CDATA[다시 돌아온 미니멀리즘, 해지고 찢겨진 데님, 톡톡 튀는 Y2K, 퇴폐적이고 불온한 헤로인 시크...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동묘에 불시착한 루이 비통 'GO-14' 백]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80556</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80556"/>
-        <updated>2023-09-19T02:17:18.685Z</updated>
-        <content type="html"><![CDATA[동묘에 불시착한 미래, 루이 비통 GO-14.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY & NIGHT 불가리의 낮과 밤]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80577</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80577"/>
-        <updated>2023-09-17T15:08:10.055Z</updated>
-        <content type="html"><![CDATA[불가리의 낮과 밤.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멋쁨 제대로! <스우파 2> 바다 사복패션 파헤치기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80552</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80552"/>
-        <updated>2023-09-16T15:08:14.254Z</updated>
-        <content type="html"><![CDATA[언니들의 심장에 불을 지핀 그녀의 사복룩.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 02 Oct 2023 18:12:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상에 침투한 유니폼! 요즘 트렌드 블록 코어 패션 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80683</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80683</guid>
+            <pubDate>Mon, 02 Oct 2023 15:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스·르세라핌 등 아이돌이 사랑하는 유니폼 패션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/bddc68f9-6d64-4ab8-87e6-dbe06b4caa2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패.알.못 드루와. 9월 패션은 '000'만 기억하면 된다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80560</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80560</guid>
+            <pubDate>Sun, 01 Oct 2023 15:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/338d8cc6-48c2-4406-9a11-3f90bc68ea95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WHAT'S HOT! 9월에 핫한 패션 뉴스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80559</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80559</guid>
+            <pubDate>Sat, 30 Sep 2023 15:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/17/bbc69205-b183-45e1-aa31-b8b3715b2f35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COSMO FOCUS! 가을빛에 스며든 칼 라거펠트 화보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80558</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80558</guid>
+            <pubDate>Tue, 26 Sep 2023 09:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[빛과 모던한 애티튜드가 스며든 칼 라거펠트의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/16/9b0b0021-bdb9-4ec6-91f6-6ad4feb55eee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 감성 어떤데. 90년대 젠지 패션 다 알려드림]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80621</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80621</guid>
+            <pubDate>Tue, 19 Sep 2023 06:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아온 미니멀리즘, 해지고 찢겨진 데님, 톡톡 튀는 Y2K, 퇴폐적이고 불온한 헤로인 시크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/baa5885a-fbea-4578-80ae-fba5261c513f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동묘에 불시착한 루이 비통 'GO-14' 백]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80556</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80556</guid>
+            <pubDate>Tue, 19 Sep 2023 02:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[동묘에 불시착한 미래, 루이 비통 GO-14.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/d86c4744-6d94-4f03-9ff2-dec798ada8b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DAY & NIGHT 불가리의 낮과 밤]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80577</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80577</guid>
+            <pubDate>Sun, 17 Sep 2023 15:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[불가리의 낮과 밤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/0da8045d-ecd1-4d31-8f4a-fdc8b5ceea0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멋쁨 제대로! <스우파 2> 바다 사복패션 파헤치기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80552</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80552</guid>
+            <pubDate>Sat, 16 Sep 2023 15:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[언니들의 심장에 불을 지핀 그녀의 사복룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/2efce290-de34-4c04-906b-de2545071b70.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
