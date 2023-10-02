@@ -1,64 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-10-02T19:08:16.749Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[추석이 제철! 할매니얼 입맛 사로잡는 구황작물 메뉴 모음]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80859</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80859"/>
-        <updated>2023-10-02T15:10:07.546Z</updated>
-        <content type="html"><![CDATA[반박 불가 제철 고구마·옥수수·밤 달달구리들 알려 드림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석용 가능! 전여빈도 극찬한 요정 재형의 겁나 쉬운 요리 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80857</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80857"/>
-        <updated>2023-10-01T16:10:40.885Z</updated>
-        <content type="html"><![CDATA[추석 음식에 질린 사람, 혼 추석 보내는 사람 추천!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 바이브와 꼭 어울리는 K- 디저트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80853</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80853"/>
-        <updated>2023-09-30T15:08:31.684Z</updated>
-        <content type="html"><![CDATA[가족, 친척들에게 선물하면 인기 폭발! 모든 입맛 사로잡을 K-디저트 모음.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<코스모 트레일러>가 상명대학교에 떴다! 이번에도 시선 집중!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80842</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80842"/>
-        <updated>2023-09-27T06:13:23.367Z</updated>
-        <content type="html"><![CDATA[상명대학교에 &lt;코스모 트레일러&gt;의 등장이라!?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 ‘런던 베이글’만 먹어? 숨은 베이글 맛집 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80724</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80724"/>
-        <updated>2023-09-25T05:09:56.231Z</updated>
-        <content type="html"><![CDATA[빵돌이, 빵순이들 다 모여!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80708</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80708"/>
-        <updated>2023-09-25T03:10:42.677Z</updated>
-        <content type="html"><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀여운게 최고야! 큐티뽀짝함으로 무장한 애니 캐릭터 협업]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80705</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80705"/>
-        <updated>2023-09-25T03:10:42.680Z</updated>
-        <content type="html"><![CDATA[오픈런 하고 싶은 깜찍함 실존!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작지만 큰 행복! 보는 재미가 쏠쏠한 망원역 독립 서점 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80703</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80703"/>
-        <updated>2023-09-25T01:44:39.303Z</updated>
-        <content type="html"><![CDATA[쁘띠하지만 올곧은 세계관 가진 서점들이 즐비해졌다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 02 Oct 2023 20:11:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석이 제철! 할매니얼 입맛 사로잡는 구황작물 메뉴 모음]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80859</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80859</guid>
+            <pubDate>Mon, 02 Oct 2023 15:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[반박 불가 제철 고구마·옥수수·밤 달달구리들 알려 드림.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추석용 가능! 전여빈도 극찬한 요정 재형의 겁나 쉬운 요리 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80857</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80857</guid>
+            <pubDate>Sun, 01 Oct 2023 16:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[추석 음식에 질린 사람, 혼 추석 보내는 사람 추천!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/126fde38-8522-44b3-9685-020cb7b78676.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석 바이브와 꼭 어울리는 K- 디저트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80853</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80853</guid>
+            <pubDate>Sat, 30 Sep 2023 15:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[가족, 친척들에게 선물하면 인기 폭발! 모든 입맛 사로잡을 K-디저트 모음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/8e60adc7-0346-4f99-9ceb-38aeef0febc7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<코스모 트레일러>가 상명대학교에 떴다! 이번에도 시선 집중!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80842</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80842</guid>
+            <pubDate>Wed, 27 Sep 2023 06:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[상명대학교에 &lt;코스모 트레일러&gt;의 등장이라!?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/b2e4d44d-958b-453d-8abb-abaaf42e8be2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 ‘런던 베이글’만 먹어? 숨은 베이글 맛집 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80724</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80724</guid>
+            <pubDate>Mon, 25 Sep 2023 05:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[빵돌이, 빵순이들 다 모여!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/ea40d3ee-fc9e-4b44-aa33-11c08731b341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80708</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80708</guid>
+            <pubDate>Mon, 25 Sep 2023 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/9c8603e0-ef89-4f6d-9312-39bfe15d0872.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여운게 최고야! 큐티뽀짝함으로 무장한 애니 캐릭터 협업]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80705</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80705</guid>
+            <pubDate>Mon, 25 Sep 2023 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[오픈런 하고 싶은 깜찍함 실존!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/b3b1847d-7a5e-44e4-bfcd-0e56adec1e4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작지만 큰 행복! 보는 재미가 쏠쏠한 망원역 독립 서점 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80703</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80703</guid>
+            <pubDate>Mon, 25 Sep 2023 01:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[쁘띠하지만 올곧은 세계관 가진 서점들이 즐비해졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/c7af48a3-e696-4e68-a5dd-81ecabf006c2.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
