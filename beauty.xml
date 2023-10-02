@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-10-02T16:12:11.593Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이제는 유지어터! 한혜연이 '00'로 8kg 뺐다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80944</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80944"/>
-        <updated>2023-10-02T16:11:24.082Z</updated>
-        <content type="html"><![CDATA[살이 계단식으로 쭉쭉 빠진다고?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 몸무게에 볼륨감 실화? 권은비식 다이어트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80888</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80888"/>
-        <updated>2023-10-01T16:10:12.587Z</updated>
-        <content type="html"><![CDATA[워터밤 여신은 이렇게 다이어트 한다는데?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무조건 살이 빠진다? 슈스스 한혜연의 12kg 감량 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80866</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80866"/>
-        <updated>2023-09-30T15:08:04.482Z</updated>
-        <content type="html"><![CDATA[세상의 모든 다이어트는 다 해본 이 언니!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 대비 급찐 방지! 절대 살 안 찌는 제이제이 추천템]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80858</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80858"/>
-        <updated>2023-09-28T08:12:52.803Z</updated>
-        <content type="html"><![CDATA[과자부터 면까지, 다이어터도 쌉가능~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자기 관리 끝판왕! <무빙> 배우들의 다이어트법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80723</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80723"/>
-        <updated>2023-09-26T11:08:40.217Z</updated>
-        <content type="html"><![CDATA[돈가스는 아웃!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 달 만에 10kg 감량? 스타들의 바프 도전기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80722</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80722"/>
-        <updated>2023-09-26T11:08:40.223Z</updated>
-        <content type="html"><![CDATA[바프 준비 중이라면 참고해 볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80708</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80708"/>
-        <updated>2023-09-26T01:44:05.890Z</updated>
-        <content type="html"><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시상식 D-100, 풍자는 동시에 세 가지 다이어트 중?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80706</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80706"/>
-        <updated>2023-09-25T06:13:09.369Z</updated>
-        <content type="html"><![CDATA[안해본 다이어트가 없다는 풍자, 이번엔 과연 성공할 수 있을지?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 02 Oct 2023 17:09:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제는 유지어터! 한혜연이 '00'로 8kg 뺐다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80944</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80944</guid>
+            <pubDate>Mon, 02 Oct 2023 16:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[살이 계단식으로 쭉쭉 빠진다고?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/55dce350-acde-4520-adb4-2d7a49576ce4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 몸무게에 볼륨감 실화? 권은비식 다이어트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80888</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80888</guid>
+            <pubDate>Sun, 01 Oct 2023 16:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[워터밤 여신은 이렇게 다이어트 한다는데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/98339372-10f1-43a2-ab93-9f79a7d1b67b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무조건 살이 빠진다? 슈스스 한혜연의 12kg 감량 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80866</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80866</guid>
+            <pubDate>Sat, 30 Sep 2023 15:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[세상의 모든 다이어트는 다 해본 이 언니!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/f8304d03-d327-437a-95a8-84555b4938a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석 대비 급찐 방지! 절대 살 안 찌는 제이제이 추천템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80858</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80858</guid>
+            <pubDate>Thu, 28 Sep 2023 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[과자부터 면까지, 다이어터도 쌉가능~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/2f972bd6-beee-41aa-b58a-b4b2e1b96e5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기 관리 끝판왕! <무빙> 배우들의 다이어트법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80723</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80723</guid>
+            <pubDate>Tue, 26 Sep 2023 11:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[돈가스는 아웃!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/b8b229b5-e1d5-40a5-a5a9-a343864a0b17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 달 만에 10kg 감량? 스타들의 바프 도전기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80722</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80722</guid>
+            <pubDate>Tue, 26 Sep 2023 11:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[바프 준비 중이라면 참고해 볼까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/4c294027-7aaa-4497-9919-2687dfae28ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80708</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80708</guid>
+            <pubDate>Tue, 26 Sep 2023 01:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/9c8603e0-ef89-4f6d-9312-39bfe15d0872.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시상식 D-100, 풍자는 동시에 세 가지 다이어트 중?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80706</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80706</guid>
+            <pubDate>Mon, 25 Sep 2023 06:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[안해본 다이어트가 없다는 풍자, 이번엔 과연 성공할 수 있을지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/65b61aed-8897-4105-979d-890db5265955.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
