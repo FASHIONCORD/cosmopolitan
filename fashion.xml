@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-10-03T15:18:54.518Z</updated>
+    <updated>2023-10-03T16:12:05.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커스틴부터 이바다까지, <스우파2> 댄서들의 데일리 룩은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80694</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80694"/>
+        <updated>2023-10-03T16:11:15.324Z</updated>
+        <content type="html"><![CDATA[춤만큼 본새나네~]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일상에 침투한 유니폼! 요즘 트렌드 블록 코어 패션 5]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80683</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80577"/>
         <updated>2023-09-17T15:08:10.055Z</updated>
         <content type="html"><![CDATA[불가리의 낮과 밤.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멋쁨 제대로! <스우파 2> 바다 사복패션 파헤치기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80552</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80552"/>
-        <updated>2023-09-16T15:08:14.254Z</updated>
-        <content type="html"><![CDATA[언니들의 심장에 불을 지핀 그녀의 사복룩.]]></content>
     </entry>
 </feed>
