@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 09:10:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[코스모가 픽한 10월의 아이템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80927</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80927</guid>
-            <pubDate>Wed, 04 Oct 2023 09:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[코스모가 픽한 10월의 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/7bffeb88-a5ec-45f8-a05f-09c3519ae2be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 밤 10시, 2024 S/S DIOR 컬렉션 LIVE ON!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80940</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80940</guid>
-            <pubDate>Wed, 04 Oct 2023 06:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[DIOR SPRING-SUMMER 2024 READY-TO-WEAR 컬렉션 라이브 좌표는 여기야, 여기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/23948cd7-5315-4f27-8521-85f1eed89545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커스틴부터 이바다까지, <스우파2> 댄서들의 데일리 룩은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80694</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80694</guid>
-            <pubDate>Tue, 03 Oct 2023 16:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[춤만큼 본새나네~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/5d7a2f78-6a04-47cb-9ee9-00be88255180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상에 침투한 유니폼! 요즘 트렌드 블록 코어 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80683</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80683</guid>
-            <pubDate>Mon, 02 Oct 2023 15:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스·르세라핌 등 아이돌이 사랑하는 유니폼 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/bddc68f9-6d64-4ab8-87e6-dbe06b4caa2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패.알.못 드루와. 9월 패션은 '000'만 기억하면 된다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80560</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80560</guid>
-            <pubDate>Sun, 01 Oct 2023 15:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/338d8cc6-48c2-4406-9a11-3f90bc68ea95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHAT'S HOT! 9월에 핫한 패션 뉴스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80559</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80559</guid>
-            <pubDate>Sat, 30 Sep 2023 15:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/17/bbc69205-b183-45e1-aa31-b8b3715b2f35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COSMO FOCUS! 가을빛에 스며든 칼 라거펠트 화보]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80558</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80558</guid>
-            <pubDate>Tue, 26 Sep 2023 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[빛과 모던한 애티튜드가 스며든 칼 라거펠트의 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/16/9b0b0021-bdb9-4ec6-91f6-6ad4feb55eee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 감성 어떤데. 90년대 젠지 패션 다 알려드림]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80621</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80621</guid>
-            <pubDate>Tue, 19 Sep 2023 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[다시 돌아온 미니멀리즘, 해지고 찢겨진 데님, 톡톡 튀는 Y2K, 퇴폐적이고 불온한 헤로인 시크...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/baa5885a-fbea-4578-80ae-fba5261c513f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-10-04T10:11:20.037Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스모가 픽한 10월의 아이템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80927</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80927"/>
+        <updated>2023-10-04T09:09:32.637Z</updated>
+        <content type="html"><![CDATA[코스모가 픽한 10월의 아이템.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 밤 10시, 2024 S/S DIOR 컬렉션 LIVE ON!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80940</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80940"/>
+        <updated>2023-10-04T06:12:34.683Z</updated>
+        <content type="html"><![CDATA[DIOR SPRING-SUMMER 2024 READY-TO-WEAR 컬렉션 라이브 좌표는 여기야, 여기!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커스틴부터 이바다까지, <스우파2> 댄서들의 데일리 룩은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80694</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80694"/>
+        <updated>2023-10-03T16:11:15.324Z</updated>
+        <content type="html"><![CDATA[춤만큼 본새나네~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일상에 침투한 유니폼! 요즘 트렌드 블록 코어 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80683</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80683"/>
+        <updated>2023-10-02T15:09:24.639Z</updated>
+        <content type="html"><![CDATA[뉴진스·르세라핌 등 아이돌이 사랑하는 유니폼 패션.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패.알.못 드루와. 9월 패션은 '000'만 기억하면 된다?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80560</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80560"/>
+        <updated>2023-10-01T15:08:21.491Z</updated>
+        <content type="html"><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHAT'S HOT! 9월에 핫한 패션 뉴스]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80559</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80559"/>
+        <updated>2023-09-30T15:07:53.260Z</updated>
+        <content type="html"><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COSMO FOCUS! 가을빛에 스며든 칼 라거펠트 화보]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80558</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80558"/>
+        <updated>2023-09-26T09:09:26.624Z</updated>
+        <content type="html"><![CDATA[빛과 모던한 애티튜드가 스며든 칼 라거펠트의 시간.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 감성 어떤데. 90년대 젠지 패션 다 알려드림]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80621</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80621"/>
+        <updated>2023-09-19T06:12:28.872Z</updated>
+        <content type="html"><![CDATA[다시 돌아온 미니멀리즘, 해지고 찢겨진 데님, 톡톡 튀는 Y2K, 퇴폐적이고 불온한 헤로인 시크...]]></content>
+    </entry>
+</feed>
