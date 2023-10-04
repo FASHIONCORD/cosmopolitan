@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 20:10:42 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[정원 딸린 럭셔리 하우스? 레이디 제인♥임현태 신혼집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81082</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81082</guid>
-            <pubDate>Wed, 04 Oct 2023 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[저도 입주 가능할까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/1b761831-f5a0-40fa-9342-3d6c81bd297e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 여행은 억새가 등장해줘야 찐이지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81063</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81063</guid>
-            <pubDate>Wed, 04 Oct 2023 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[가을 여행엔 억새와 갈대밭 배경은 필수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/99a4b815-8d71-4c40-8a16-b2ba9ae395ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교토 여행 고민이라면? 지금 가야 할 도쿄 핫 스폿 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80929</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80929</guid>
-            <pubDate>Wed, 04 Oct 2023 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[고대 수도인 일본 교토와 태국 아유타야의 풍부한 문화유산에서 영감을 받아 설계된 모던 호텔,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/e3c8a0c2-1063-425f-a63f-14634e06300a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 가을에는 독학 각? 혼자 배우기 쉬운 이색 악기 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81046</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81046</guid>
-            <pubDate>Wed, 04 Oct 2023 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[독학하기 쉬운 작은 이색 악기들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/d6ff5098-d3ba-4e80-bf64-1f56e004d1ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 가을에 여기 모르면 손해! 몽블랑 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81036</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81036</guid>
-            <pubDate>Wed, 04 Oct 2023 06:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 밤 시즌을 더 달콤한 시간으로 채워줄 5가지 몽블랑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/9258b397-77a4-494d-8417-e6b890e08028.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석에 여기 어때! 가을축제 놀이공원]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80980</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80980</guid>
-            <pubDate>Wed, 04 Oct 2023 06:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[내일부터 연휴 스타트! 가을가을 축제가 열리는 여기 어때?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/9378726d-c96b-4dff-9176-c1f6fc9fd737.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무빙 다음은 여기! 추석 연휴용 정주행각 K-드라마는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80863</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80863</guid>
-            <pubDate>Wed, 04 Oct 2023 01:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[OTT 브랜드별 시리즈 코스 안내해 드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/bab1a485-74f6-48cb-9c90-7b47863fb554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석이 제철! 할매니얼 입맛 사로잡는 구황작물 메뉴 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80859</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80859</guid>
-            <pubDate>Mon, 02 Oct 2023 15:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[반박 불가 제철 고구마·옥수수·밤 달달구리들 알려 드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/97842ed6-13ee-4d35-ae9a-384827462cd2.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-10-04T21:10:18.071Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정원 딸린 럭셔리 하우스? 레이디 제인♥임현태 신혼집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81082</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81082"/>
+        <updated>2023-10-04T10:11:11.074Z</updated>
+        <content type="html"><![CDATA[저도 입주 가능할까요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을 여행은 억새가 등장해줘야 찐이지!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81063</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81063"/>
+        <updated>2023-10-04T09:10:15.723Z</updated>
+        <content type="html"><![CDATA[가을 여행엔 억새와 갈대밭 배경은 필수.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교토 여행 고민이라면? 지금 가야 할 도쿄 핫 스폿 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80929</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80929"/>
+        <updated>2023-10-04T09:10:15.725Z</updated>
+        <content type="html"><![CDATA[고대 수도인 일본 교토와 태국 아유타야의 풍부한 문화유산에서 영감을 받아 설계된 모던 호텔,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 가을에는 독학 각? 혼자 배우기 쉬운 이색 악기 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81046</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81046"/>
+        <updated>2023-10-04T09:10:15.728Z</updated>
+        <content type="html"><![CDATA[독학하기 쉬운 작은 이색 악기들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 가을에 여기 모르면 손해! 몽블랑 맛집 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81036</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81036"/>
+        <updated>2023-10-04T06:13:50.085Z</updated>
+        <content type="html"><![CDATA[다가오는 밤 시즌을 더 달콤한 시간으로 채워줄 5가지 몽블랑.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석에 여기 어때! 가을축제 놀이공원]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80980</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80980"/>
+        <updated>2023-10-04T06:13:50.090Z</updated>
+        <content type="html"><![CDATA[내일부터 연휴 스타트! 가을가을 축제가 열리는 여기 어때?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무빙 다음은 여기! 추석 연휴용 정주행각 K-드라마는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80863</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80863"/>
+        <updated>2023-10-04T01:46:02.113Z</updated>
+        <content type="html"><![CDATA[OTT 브랜드별 시리즈 코스 안내해 드림.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석이 제철! 할매니얼 입맛 사로잡는 구황작물 메뉴 모음]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80859</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80859"/>
+        <updated>2023-10-02T15:10:07.546Z</updated>
+        <content type="html"><![CDATA[반박 불가 제철 고구마·옥수수·밤 달달구리들 알려 드림.]]></content>
+    </entry>
+</feed>
