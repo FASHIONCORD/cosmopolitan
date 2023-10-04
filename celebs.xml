@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-04T07:09:34.916Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[사내뷰공업, 황은정이 되어 Y2K 화보 도전!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80891</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80891"/>
-        <updated>2023-10-04T06:12:57.947Z</updated>
-        <content type="html"><![CDATA[초코송이 머리에 노스페이스 패딩을 입은 고딩 황은정을 아는가? 질끈 묶은 머리에 뿔테 안경을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이시떼루! 고백 어택하고 싶은 안재홍의 일상은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80997</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80997"/>
-        <updated>2023-10-04T06:12:57.948Z</updated>
-        <content type="html"><![CDATA[은은하게 웃김 주의! 안재홍 줌터뷰 준비 완료]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오디오가 안 비어요! ㄷㄷ LUCY가 말아주는 극강의 티키타카]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80981</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80981"/>
-        <updated>2023-10-04T06:12:57.950Z</updated>
-        <content type="html"><![CDATA[엔딩까지 우당탕탕 난리법석🤪 찐 댕댕미 보여주는 루시(LUCY)의 리얼 케미 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강렬하게 시작된 배우 윤계상의 후반전]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80889</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80889"/>
-        <updated>2023-09-29T03:09:38.633Z</updated>
-        <content type="html"><![CDATA[“이 길의 끝이 어디일지는 모르겠지만, 계속 가야죠. 죽을 때까지.” 조용히, 그러나 강렬히 시...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 이혼했어요! 충격 결별 소식 전한 스타 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80948</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80948"/>
-        <updated>2023-09-28T08:13:30.984Z</updated>
-        <content type="html"><![CDATA[이미 두 집 살림 중이었다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안혜경 결혼식 사회를 송중기가 봤다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80947</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80947"/>
-        <updated>2023-09-28T00:38:09.754Z</updated>
-        <content type="html"><![CDATA[세상 어디에도 없는 의리남!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽시양♥임현주부터 이규한♥유정까지! 럽스타그램 시작한 셀럽들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80932</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80932"/>
-        <updated>2023-09-27T09:10:10.577Z</updated>
-        <content type="html"><![CDATA[알면 알수록 더 보이는 SNS 속 그들만의 세상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다채로운 배우 김무준의 또 다른 도약]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80865</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80865"/>
-        <updated>2023-09-27T07:10:06.070Z</updated>
-        <content type="html"><![CDATA[드라마 &lt;알고있지만&gt; &lt;너에게 가는 속도 493km&gt; &lt;연인&gt; 속 화제 인물 김무준의 새로운 얼굴.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Oct 2023 08:13:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사내뷰공업, 황은정이 되어 Y2K 화보 도전!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80891</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80891</guid>
+            <pubDate>Wed, 04 Oct 2023 06:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[초코송이 머리에 노스페이스 패딩을 입은 고딩 황은정을 아는가? 질끈 묶은 머리에 뿔테 안경을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/6734a0f4-92c7-4430-9d36-cd74db82728d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이시떼루! 고백 어택하고 싶은 안재홍의 일상은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80997</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80997</guid>
+            <pubDate>Wed, 04 Oct 2023 06:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[은은하게 웃김 주의! 안재홍 줌터뷰 준비 완료]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/d13321d9-d5dd-435e-9565-60e1bacb8d7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오디오가 안 비어요! ㄷㄷ LUCY가 말아주는 극강의 티키타카]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80981</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80981</guid>
+            <pubDate>Wed, 04 Oct 2023 06:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[엔딩까지 우당탕탕 난리법석🤪 찐 댕댕미 보여주는 루시(LUCY)의 리얼 케미 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/6726b948-1ebc-4bb0-86cd-7dac5c318edb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강렬하게 시작된 배우 윤계상의 후반전]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80889</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80889</guid>
+            <pubDate>Fri, 29 Sep 2023 03:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[“이 길의 끝이 어디일지는 모르겠지만, 계속 가야죠. 죽을 때까지.” 조용히, 그러나 강렬히 시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/ff146723-ea3f-4de2-936e-bb15984931db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 이혼했어요! 충격 결별 소식 전한 스타 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80948</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80948</guid>
+            <pubDate>Thu, 28 Sep 2023 08:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[이미 두 집 살림 중이었다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/9563ea62-6b13-4e9d-8ba7-1579b596b0db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안혜경 결혼식 사회를 송중기가 봤다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80947</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80947</guid>
+            <pubDate>Thu, 28 Sep 2023 00:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[세상 어디에도 없는 의리남!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/595a0520-1b28-4f49-a506-d6d97561a8ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽시양♥임현주부터 이규한♥유정까지! 럽스타그램 시작한 셀럽들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80932</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80932</guid>
+            <pubDate>Wed, 27 Sep 2023 09:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[알면 알수록 더 보이는 SNS 속 그들만의 세상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/b4e1c93c-3589-4e8b-b211-ab8ef11da8a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다채로운 배우 김무준의 또 다른 도약]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80865</guid>
+            <pubDate>Wed, 27 Sep 2023 07:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;알고있지만&gt; &lt;너에게 가는 속도 493km&gt; &lt;연인&gt; 속 화제 인물 김무준의 새로운 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/2759a38d-7762-4de9-b2e4-f9e547205b45.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
