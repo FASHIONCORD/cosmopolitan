@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 08:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 09:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰티 핫이슈! 과즙상으로 만들어주는 신상 립 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81035</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81035</guid>
+            <pubDate>Wed, 04 Oct 2023 09:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[결실의 계절, 가을에도 여전히 물먹 립은 유효하다! 잘 익은 과일을 한 입 베어 문 듯 달콤하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/f46c5ddb-8685-4e9a-8ab8-1e08cf5de7a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[90년대생 동년배 공감 100% 도전합니다 (feat.사내뷰공업)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81013</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81013</guid>
+            <pubDate>Wed, 04 Oct 2023 09:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[라떼~는 컴싸 '아라'가 최고였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/b5329b84-19db-4142-8a1b-51a03c1f06ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["썸도 타고, 운동도 하고?" 권은비·덱스의 관리 팁]]></title>
             <link>https://www.cosmopolitan.co.kr/article/80949</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 26 Sep 2023 11:08:40 GMT</pubDate>
             <content:encoded><![CDATA[돈가스는 아웃!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/b8b229b5-e1d5-40a5-a5a9-a343864a0b17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 달 만에 10kg 감량? 스타들의 바프 도전기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80722</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80722</guid>
-            <pubDate>Tue, 26 Sep 2023 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[바프 준비 중이라면 참고해 볼까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/4c294027-7aaa-4497-9919-2687dfae28ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작품을 위해 ‘00kg’ 감량? 프로 다이어터 셀렙 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80708</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80708</guid>
-            <pubDate>Tue, 26 Sep 2023 01:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[입금 전, 입금 후. 어딘가 다르죠?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/9c8603e0-ef89-4f6d-9312-39bfe15d0872.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
