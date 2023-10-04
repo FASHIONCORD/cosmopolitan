@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-10-04T10:11:20.034Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[뷰티 핫이슈! 과즙상으로 만들어주는 신상 립 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81035</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81035"/>
-        <updated>2023-10-04T09:09:42.224Z</updated>
-        <content type="html"><![CDATA[결실의 계절, 가을에도 여전히 물먹 립은 유효하다! 잘 익은 과일을 한 입 베어 문 듯 달콤하...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90년대생 동년배 공감 100% 도전합니다 (feat.사내뷰공업)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81013</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81013"/>
-        <updated>2023-10-04T09:09:42.230Z</updated>
-        <content type="html"><![CDATA[라떼~는 컴싸 '아라'가 최고였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["썸도 타고, 운동도 하고?" 권은비·덱스의 관리 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80949</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80949"/>
-        <updated>2023-10-03T17:08:36.844Z</updated>
-        <content type="html"><![CDATA[UDT 유산소 운동 3종 세트가 공개됐다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제는 유지어터! 한혜연이 '00'로 8kg 뺐다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80944</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80944"/>
-        <updated>2023-10-02T16:11:24.082Z</updated>
-        <content type="html"><![CDATA[살이 계단식으로 쭉쭉 빠진다고?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 몸무게에 볼륨감 실화? 권은비식 다이어트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80888</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80888"/>
-        <updated>2023-10-01T16:10:12.587Z</updated>
-        <content type="html"><![CDATA[워터밤 여신은 이렇게 다이어트 한다는데?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무조건 살이 빠진다? 슈스스 한혜연의 12kg 감량 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80866</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80866"/>
-        <updated>2023-09-30T15:08:04.482Z</updated>
-        <content type="html"><![CDATA[세상의 모든 다이어트는 다 해본 이 언니!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 대비 급찐 방지! 절대 살 안 찌는 제이제이 추천템]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80858</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80858"/>
-        <updated>2023-09-28T08:12:52.803Z</updated>
-        <content type="html"><![CDATA[과자부터 면까지, 다이어터도 쌉가능~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자기 관리 끝판왕! <무빙> 배우들의 다이어트법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80723</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80723"/>
-        <updated>2023-09-26T11:08:40.217Z</updated>
-        <content type="html"><![CDATA[돈가스는 아웃!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Oct 2023 11:09:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰티 핫이슈! 과즙상으로 만들어주는 신상 립 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81035</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81035</guid>
+            <pubDate>Wed, 04 Oct 2023 09:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[결실의 계절, 가을에도 여전히 물먹 립은 유효하다! 잘 익은 과일을 한 입 베어 문 듯 달콤하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/f46c5ddb-8685-4e9a-8ab8-1e08cf5de7a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[90년대생 동년배 공감 100% 도전합니다 (feat.사내뷰공업)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81013</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81013</guid>
+            <pubDate>Wed, 04 Oct 2023 09:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[라떼~는 컴싸 '아라'가 최고였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/b5329b84-19db-4142-8a1b-51a03c1f06ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["썸도 타고, 운동도 하고?" 권은비·덱스의 관리 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80949</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80949</guid>
+            <pubDate>Tue, 03 Oct 2023 17:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[UDT 유산소 운동 3종 세트가 공개됐다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/74b531c5-1f9a-4eef-9a9d-0dd27056daf2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제는 유지어터! 한혜연이 '00'로 8kg 뺐다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80944</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80944</guid>
+            <pubDate>Mon, 02 Oct 2023 16:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[살이 계단식으로 쭉쭉 빠진다고?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/55dce350-acde-4520-adb4-2d7a49576ce4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 몸무게에 볼륨감 실화? 권은비식 다이어트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80888</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80888</guid>
+            <pubDate>Sun, 01 Oct 2023 16:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[워터밤 여신은 이렇게 다이어트 한다는데?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/98339372-10f1-43a2-ab93-9f79a7d1b67b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무조건 살이 빠진다? 슈스스 한혜연의 12kg 감량 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80866</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80866</guid>
+            <pubDate>Sat, 30 Sep 2023 15:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[세상의 모든 다이어트는 다 해본 이 언니!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/f8304d03-d327-437a-95a8-84555b4938a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석 대비 급찐 방지! 절대 살 안 찌는 제이제이 추천템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80858</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80858</guid>
+            <pubDate>Thu, 28 Sep 2023 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[과자부터 면까지, 다이어터도 쌉가능~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/2f972bd6-beee-41aa-b58a-b4b2e1b96e5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기 관리 끝판왕! <무빙> 배우들의 다이어트법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80723</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80723</guid>
+            <pubDate>Tue, 26 Sep 2023 11:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[돈가스는 아웃!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/b8b229b5-e1d5-40a5-a5a9-a343864a0b17.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
