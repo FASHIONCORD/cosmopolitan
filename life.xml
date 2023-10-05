@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 15:11:09 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가을 정취에 딱! 전통주와 한식의 마리아주~]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81099</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81099</guid>
-            <pubDate>Thu, 05 Oct 2023 15:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[짝짝 달라붙는 한식의 맛 오졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/4bc74dbc-2cc0-440b-903e-8283433f3925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이글 가고 파이 왔다! 서울 파이 맛집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81096</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81096</guid>
-            <pubDate>Thu, 05 Oct 2023 02:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[가을이니까 바삭한 파이에 라떼 한 잔?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/446a16fd-928c-422c-9f44-5e4ff7030315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을엔 아묻따 단풍이지! 전국 단세권 스폿 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81089</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81089</guid>
-            <pubDate>Thu, 05 Oct 2023 02:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[주말 데이트 고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/a061975f-73cd-47e7-8b4a-fa325d4d8ce9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원 딸린 럭셔리 하우스? 레이디 제인♥임현태 신혼집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81082</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81082</guid>
-            <pubDate>Wed, 04 Oct 2023 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[저도 입주 가능할까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/1b761831-f5a0-40fa-9342-3d6c81bd297e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 여행은 억새가 등장해줘야 찐이지!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81063</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81063</guid>
-            <pubDate>Wed, 04 Oct 2023 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[가을 여행엔 억새와 갈대밭 배경은 필수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/99a4b815-8d71-4c40-8a16-b2ba9ae395ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교토 여행 고민이라면? 지금 가야 할 도쿄 핫 스폿 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80929</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80929</guid>
-            <pubDate>Wed, 04 Oct 2023 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[고대 수도인 일본 교토와 태국 아유타야의 풍부한 문화유산에서 영감을 받아 설계된 모던 호텔,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/e3c8a0c2-1063-425f-a63f-14634e06300a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 가을에는 독학 각? 혼자 배우기 쉬운 이색 악기 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81046</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81046</guid>
-            <pubDate>Wed, 04 Oct 2023 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[독학하기 쉬운 작은 이색 악기들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/d6ff5098-d3ba-4e80-bf64-1f56e004d1ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 가을에 여기 모르면 손해! 몽블랑 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81036</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81036</guid>
-            <pubDate>Wed, 04 Oct 2023 06:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 밤 시즌을 더 달콤한 시간으로 채워줄 5가지 몽블랑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/9258b397-77a4-494d-8417-e6b890e08028.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-10-05T16:12:12.818Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을 정취에 딱! 전통주와 한식의 마리아주~]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81099</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81099"/>
+        <updated>2023-10-05T15:10:58.808Z</updated>
+        <content type="html"><![CDATA[짝짝 달라붙는 한식의 맛 오졌다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베이글 가고 파이 왔다! 서울 파이 맛집 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81096</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81096"/>
+        <updated>2023-10-05T02:20:46.116Z</updated>
+        <content type="html"><![CDATA[가을이니까 바삭한 파이에 라떼 한 잔?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을엔 아묻따 단풍이지! 전국 단세권 스폿 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81089</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81089"/>
+        <updated>2023-10-05T02:20:46.125Z</updated>
+        <content type="html"><![CDATA[주말 데이트 고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정원 딸린 럭셔리 하우스? 레이디 제인♥임현태 신혼집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81082</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81082"/>
+        <updated>2023-10-04T10:11:11.074Z</updated>
+        <content type="html"><![CDATA[저도 입주 가능할까요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을 여행은 억새가 등장해줘야 찐이지!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81063</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81063"/>
+        <updated>2023-10-04T09:10:15.723Z</updated>
+        <content type="html"><![CDATA[가을 여행엔 억새와 갈대밭 배경은 필수.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교토 여행 고민이라면? 지금 가야 할 도쿄 핫 스폿 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80929</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80929"/>
+        <updated>2023-10-04T09:10:15.725Z</updated>
+        <content type="html"><![CDATA[고대 수도인 일본 교토와 태국 아유타야의 풍부한 문화유산에서 영감을 받아 설계된 모던 호텔,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 가을에는 독학 각? 혼자 배우기 쉬운 이색 악기 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81046</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81046"/>
+        <updated>2023-10-04T09:10:15.728Z</updated>
+        <content type="html"><![CDATA[독학하기 쉬운 작은 이색 악기들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 가을에 여기 모르면 손해! 몽블랑 맛집 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81036</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81036"/>
+        <updated>2023-10-04T06:13:50.085Z</updated>
+        <content type="html"><![CDATA[다가오는 밤 시즌을 더 달콤한 시간으로 채워줄 5가지 몽블랑.]]></content>
+    </entry>
+</feed>
