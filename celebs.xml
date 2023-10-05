@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-05T07:09:45.278Z</updated>
+    <updated>2023-10-05T08:13:36.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 인사를 전한 스타들의 붕어빵 2세]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81085</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81085"/>
+        <updated>2023-10-05T08:13:07.968Z</updated>
+        <content type="html"><![CDATA[벌써부터 완성형 비주얼인데..?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리사가 19금 공연을? 크레이지 호스 출연 논란]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81080</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80889"/>
         <updated>2023-09-29T03:09:38.633Z</updated>
         <content type="html"><![CDATA[“이 길의 끝이 어디일지는 모르겠지만, 계속 가야죠. 죽을 때까지.” 조용히, 그러나 강렬히 시...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 이혼했어요! 충격 결별 소식 전한 스타 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80948</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80948"/>
-        <updated>2023-09-28T08:13:30.984Z</updated>
-        <content type="html"><![CDATA[이미 두 집 살림 중이었다고?]]></content>
     </entry>
 </feed>
