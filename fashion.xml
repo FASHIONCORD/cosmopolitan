@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 10:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 11:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을엔 이거지! 스타들의 베레모 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81084</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81084</guid>
+            <pubDate>Fri, 06 Oct 2023 11:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[거, 베레모 쓰기 딱 좋은 날씨네~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/c76c0a15-6261-4229-84ca-ebbc861d8813.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 시즌 기억해야 할 액세서리 트렌드는 00?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81060</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 Oct 2023 15:09:24 GMT</pubDate>
             <content:encoded><![CDATA[뉴진스·르세라핌 등 아이돌이 사랑하는 유니폼 패션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/bddc68f9-6d64-4ab8-87e6-dbe06b4caa2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패.알.못 드루와. 9월 패션은 '000'만 기억하면 된다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80560</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80560</guid>
-            <pubDate>Sun, 01 Oct 2023 15:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 계절을 맞이하는 9월의 패션 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/338d8cc6-48c2-4406-9a11-3f90bc68ea95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
