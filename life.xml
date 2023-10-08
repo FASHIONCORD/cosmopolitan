@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 14:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 15:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 선수 미모 무엇? 아시안게임 아이돌 비주얼 자랑하는 스포츠스타 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81107</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81107</guid>
+            <pubDate>Sun, 08 Oct 2023 15:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴천재에 피지컬·실력까지 모두 갖춘 아시아 국가대표들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/7515a08d-30c6-44dd-bb4f-df432fb70b0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김우민·황선우 등 박태환을 잇는 뉴 마린보이들은 누구?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81101</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 04 Oct 2023 09:10:15 GMT</pubDate>
             <content:encoded><![CDATA[고대 수도인 일본 교토와 태국 아유타야의 풍부한 문화유산에서 영감을 받아 설계된 모던 호텔,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/e3c8a0c2-1063-425f-a63f-14634e06300a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 가을에는 독학 각? 혼자 배우기 쉬운 이색 악기 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81046</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81046</guid>
-            <pubDate>Wed, 04 Oct 2023 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[독학하기 쉬운 작은 이색 악기들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/d6ff5098-d3ba-4e80-bf64-1f56e004d1ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

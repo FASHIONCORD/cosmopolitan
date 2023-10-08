@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 14:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 15:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50대에도 NO 셀룰라이트! 미나의 피부 케어 TIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81103</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81103</guid>
+            <pubDate>Sun, 08 Oct 2023 15:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[안녕살이여 안녕, 괄사도 안녕!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/336db468-49d6-42c1-a809-756e69cdaf40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹은 건 빼야지? 한혜진의 급찐급빠 10분 운동]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81100</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 03 Oct 2023 17:08:36 GMT</pubDate>
             <content:encoded><![CDATA[UDT 유산소 운동 3종 세트가 공개됐다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/74b531c5-1f9a-4eef-9a9d-0dd27056daf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 유지어터! 한혜연이 '00'로 8kg 뺐다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80944</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80944</guid>
-            <pubDate>Mon, 02 Oct 2023 16:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[살이 계단식으로 쭉쭉 빠진다고?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/55dce350-acde-4520-adb4-2d7a49576ce4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
