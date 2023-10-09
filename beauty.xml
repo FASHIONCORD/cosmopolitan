@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 01:45:54 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[50대에도 NO 셀룰라이트! 미나의 피부 케어 TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81103</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81103</guid>
-            <pubDate>Sun, 08 Oct 2023 15:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[안녕살이여 안녕, 괄사도 안녕!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/336db468-49d6-42c1-a809-756e69cdaf40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹은 건 빼야지? 한혜진의 급찐급빠 10분 운동]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81100</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81100</guid>
-            <pubDate>Sat, 07 Oct 2023 16:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[추석 때 행복했지? 이제는 빼자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/84b1fc93-5f31-4463-828e-6abf93506ec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환절기에 딱 맞는 토너 패드가 있다? 환절기 토너 패드 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80930</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80930</guid>
-            <pubDate>Fri, 06 Oct 2023 15:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[환절기 필수템 원톱은 아.묻.따 토너 패드! 모양도, 질감도 뻔하지 않은 요즘 패드 모음.zip.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/75aae2cb-dcda-4a42-a2c0-9e6d8f7be5e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생얼 순삭! 대신 화장해주는 AR 필터 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81056</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81056</guid>
-            <pubDate>Thu, 05 Oct 2023 15:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[야, 너두 할 수 있어! 생얼 순삭! 화장까지 대신해주는 인스타그램 AR 필터.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/7b204442-16b7-4e6e-ad67-d5f63b850502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MNBB? 원래 내 손톱 같은 내추럴 네일이 유행!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81044</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81044</guid>
-            <pubDate>Wed, 04 Oct 2023 15:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[MNBB? NAKED NAILS? NO-MANICURE?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/1c7ba89b-84d5-4d6f-916c-744cc8e9cb6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티 핫이슈! 과즙상으로 만들어주는 신상 립 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81035</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81035</guid>
-            <pubDate>Wed, 04 Oct 2023 09:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[결실의 계절, 가을에도 여전히 물먹 립은 유효하다! 잘 익은 과일을 한 입 베어 문 듯 달콤하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/f46c5ddb-8685-4e9a-8ab8-1e08cf5de7a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90년대생 동년배 공감 100% 도전합니다 (feat.사내뷰공업)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81013</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81013</guid>
-            <pubDate>Wed, 04 Oct 2023 09:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[라떼~는 컴싸 '아라'가 최고였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/b5329b84-19db-4142-8a1b-51a03c1f06ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["썸도 타고, 운동도 하고?" 권은비·덱스의 관리 팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80949</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80949</guid>
-            <pubDate>Tue, 03 Oct 2023 17:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[UDT 유산소 운동 3종 세트가 공개됐다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/74b531c5-1f9a-4eef-9a9d-0dd27056daf2.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-10-09T02:18:33.470Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[50대에도 NO 셀룰라이트! 미나의 피부 케어 TIP]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81103</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81103"/>
+        <updated>2023-10-08T15:08:35.264Z</updated>
+        <content type="html"><![CDATA[안녕살이여 안녕, 괄사도 안녕!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먹은 건 빼야지? 한혜진의 급찐급빠 10분 운동]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81100</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81100"/>
+        <updated>2023-10-07T16:10:16.143Z</updated>
+        <content type="html"><![CDATA[추석 때 행복했지? 이제는 빼자.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환절기에 딱 맞는 토너 패드가 있다? 환절기 토너 패드 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80930</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80930"/>
+        <updated>2023-10-06T15:09:46.903Z</updated>
+        <content type="html"><![CDATA[환절기 필수템 원톱은 아.묻.따 토너 패드! 모양도, 질감도 뻔하지 않은 요즘 패드 모음.zip.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생얼 순삭! 대신 화장해주는 AR 필터 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81056</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81056"/>
+        <updated>2023-10-05T15:10:13.595Z</updated>
+        <content type="html"><![CDATA[야, 너두 할 수 있어! 생얼 순삭! 화장까지 대신해주는 인스타그램 AR 필터.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MNBB? 원래 내 손톱 같은 내추럴 네일이 유행!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81044</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81044"/>
+        <updated>2023-10-04T15:10:22.483Z</updated>
+        <content type="html"><![CDATA[MNBB? NAKED NAILS? NO-MANICURE?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰티 핫이슈! 과즙상으로 만들어주는 신상 립 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81035</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81035"/>
+        <updated>2023-10-04T09:09:42.224Z</updated>
+        <content type="html"><![CDATA[결실의 계절, 가을에도 여전히 물먹 립은 유효하다! 잘 익은 과일을 한 입 베어 문 듯 달콤하...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90년대생 동년배 공감 100% 도전합니다 (feat.사내뷰공업)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81013</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81013"/>
+        <updated>2023-10-04T09:09:42.230Z</updated>
+        <content type="html"><![CDATA[라떼~는 컴싸 '아라'가 최고였다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["썸도 타고, 운동도 하고?" 권은비·덱스의 관리 팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80949</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80949"/>
+        <updated>2023-10-03T17:08:36.844Z</updated>
+        <content type="html"><![CDATA[UDT 유산소 운동 3종 세트가 공개됐다!]]></content>
+    </entry>
+</feed>
