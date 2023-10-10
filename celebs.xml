@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 16:13:13 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전종서 PICK!❤‍🔥 <발레리나> 촬영 중 가장 기억에 남는 에피소드는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81201</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81201</guid>
-            <pubDate>Tue, 10 Oct 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[예쁘고 귀엽고 사랑스럽고 다~하는 전종서에게 주목!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/4bb08c30-cba6-4b6c-9d2d-c70bb99b6e08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유빈, 권순우 커플 결국 결별했다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81149</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81149</guid>
-            <pubDate>Tue, 10 Oct 2023 08:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[권순우 선수와 원더걸스 유빈이 결국 헤어졌다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/0f3bf9a9-9d99-4002-8003-29e3442fbddd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잇몸 마름 주의!유정&산하 찐친 케미 실화냐?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81129</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81129</guid>
-            <pubDate>Tue, 10 Oct 2023 02:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[근데.. 이렇게 솔직해도 돼?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/35c978ab-9430-4ef4-a732-29e2ee39ba02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리와 선미·츄까지? 센 언니들이 온다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81105</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81105</guid>
-            <pubDate>Tue, 10 Oct 2023 02:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[블록버스터 여자 솔로들이 차트 점령 예고한 10월.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/160dbb7c-ee3a-4177-b185-0f91c9c98075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대형 핫이슈 몰고 올 K-POP 아이돌 컴백 풍년]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81104</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81104</guid>
-            <pubDate>Mon, 09 Oct 2023 16:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[10월, 차트는 치열해지고 내 플리는 행복해질 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/1e632b4d-d321-4d22-bf7e-bfddb2bb071d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐 고등학생인 줄! 미국 졸업사진 열풍에 합류한 셀럽은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81087</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81087</guid>
-            <pubDate>Sat, 07 Oct 2023 04:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[단돈 8천 8백 원만 있으면 유행 합류 걱정 의정부고 뺨치는 졸업사진이 완성되는 매직!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/963013b7-3101-4a68-87d9-daba20316efe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 인사를 전한 스타들의 붕어빵 2세]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81085</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81085</guid>
-            <pubDate>Thu, 05 Oct 2023 08:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[벌써부터 완성형 비주얼인데..?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/75a36c59-04f9-4835-9cf3-c9f74e5012c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사가 19금 공연을? 크레이지 호스 출연 논란]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81080</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81080</guid>
-            <pubDate>Thu, 05 Oct 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[지수·로제·제니는 모두 응원했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/aff24f06-6274-48a6-a657-796ce6b8ed39.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-10-10T17:09:54.279Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전종서 PICK!❤‍🔥 <발레리나> 촬영 중 가장 기억에 남는 에피소드는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81201</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81201"/>
+        <updated>2023-10-10T09:10:38.661Z</updated>
+        <content type="html"><![CDATA[예쁘고 귀엽고 사랑스럽고 다~하는 전종서에게 주목!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유빈, 권순우 커플 결국 결별했다?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81149</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81149"/>
+        <updated>2023-10-10T08:12:43.933Z</updated>
+        <content type="html"><![CDATA[권순우 선수와 원더걸스 유빈이 결국 헤어졌다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잇몸 마름 주의!유정&산하 찐친 케미 실화냐?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81129</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81129"/>
+        <updated>2023-10-10T02:16:46.179Z</updated>
+        <content type="html"><![CDATA[근데.. 이렇게 솔직해도 돼?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이효리와 선미·츄까지? 센 언니들이 온다!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81105</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81105"/>
+        <updated>2023-10-10T02:16:46.180Z</updated>
+        <content type="html"><![CDATA[블록버스터 여자 솔로들이 차트 점령 예고한 10월.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대형 핫이슈 몰고 올 K-POP 아이돌 컴백 풍년]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81104</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81104"/>
+        <updated>2023-10-09T16:12:28.687Z</updated>
+        <content type="html"><![CDATA[10월, 차트는 치열해지고 내 플리는 행복해질 예정.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찐 고등학생인 줄! 미국 졸업사진 열풍에 합류한 셀럽은 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81087</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81087"/>
+        <updated>2023-10-07T04:10:27.990Z</updated>
+        <content type="html"><![CDATA[단돈 8천 8백 원만 있으면 유행 합류 걱정 의정부고 뺨치는 졸업사진이 완성되는 매직!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석 인사를 전한 스타들의 붕어빵 2세]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81085</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81085"/>
+        <updated>2023-10-05T08:13:07.968Z</updated>
+        <content type="html"><![CDATA[벌써부터 완성형 비주얼인데..?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리사가 19금 공연을? 크레이지 호스 출연 논란]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81080</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81080"/>
+        <updated>2023-10-05T03:10:09.652Z</updated>
+        <content type="html"><![CDATA[지수·로제·제니는 모두 응원했다.]]></content>
+    </entry>
+</feed>
