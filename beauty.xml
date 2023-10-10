@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-10-10T07:09:53.178Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[따끔! 하면 예뻐진다? 주사 시술 비교 해봄!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81191</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81191"/>
-        <updated>2023-10-10T05:08:56.489Z</updated>
-        <content type="html"><![CDATA[반짝반짝 빛나는 윤기, 결점 없이 탱탱한 피부를 위한 따끔한 한 방! 갓벽 피부를 위한 주사 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런웨이 백스테이지가 쏘아올린 2023 뷰티 트렌드]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81128</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81128"/>
-        <updated>2023-10-10T05:08:56.491Z</updated>
-        <content type="html"><![CDATA[흥미진진한 트렌드가 가장 먼저 발화되는 그곳, 런웨이와 백스테이지에서 건져 올린 2023 F/W ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘은 콧등을 꾸미는 코꾸가 유행이라고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81065</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81065"/>
-        <updated>2023-10-09T15:09:48.790Z</updated>
-        <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50대에도 NO 셀룰라이트! 미나의 피부 케어 TIP]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81103</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81103"/>
-        <updated>2023-10-08T15:08:35.264Z</updated>
-        <content type="html"><![CDATA[안녕살이여 안녕, 괄사도 안녕!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹은 건 빼야지? 한혜진의 급찐급빠 10분 운동]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81100</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81100"/>
-        <updated>2023-10-07T16:10:16.143Z</updated>
-        <content type="html"><![CDATA[추석 때 행복했지? 이제는 빼자.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환절기에 딱 맞는 토너 패드가 있다? 환절기 토너 패드 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80930</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80930"/>
-        <updated>2023-10-06T15:09:46.903Z</updated>
-        <content type="html"><![CDATA[환절기 필수템 원톱은 아.묻.따 토너 패드! 모양도, 질감도 뻔하지 않은 요즘 패드 모음.zip.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생얼 순삭! 대신 화장해주는 AR 필터 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81056</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81056"/>
-        <updated>2023-10-05T15:10:13.595Z</updated>
-        <content type="html"><![CDATA[야, 너두 할 수 있어! 생얼 순삭! 화장까지 대신해주는 인스타그램 AR 필터.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MNBB? 원래 내 손톱 같은 내추럴 네일이 유행!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81044</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81044"/>
-        <updated>2023-10-04T15:10:22.483Z</updated>
-        <content type="html"><![CDATA[MNBB? NAKED NAILS? NO-MANICURE?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 10 Oct 2023 08:13:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고스펙부터 스낵형까지? NEW 안티에이징 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81209</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81209</guid>
+            <pubDate>Tue, 10 Oct 2023 08:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[이건 몰랐지? 피부에 관심 많은 뷰티 만렙이라면 알아야 할 안티에이징 트렌드 이야기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/871a0fa5-fa00-40cf-b6aa-e9963a9161da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[따끔! 하면 예뻐진다? 주사 시술 비교 해봄!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81191</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81191</guid>
+            <pubDate>Tue, 10 Oct 2023 05:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[반짝반짝 빛나는 윤기, 결점 없이 탱탱한 피부를 위한 따끔한 한 방! 갓벽 피부를 위한 주사 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/1dc1f2a1-790f-4483-b77f-121d248fc142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[런웨이 백스테이지가 쏘아올린 2023 뷰티 트렌드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81128</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81128</guid>
+            <pubDate>Tue, 10 Oct 2023 05:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진한 트렌드가 가장 먼저 발화되는 그곳, 런웨이와 백스테이지에서 건져 올린 2023 F/W ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/64b1db01-f7aa-4ece-80bc-85f917957320.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘은 콧등을 꾸미는 코꾸가 유행이라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81065</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81065</guid>
+            <pubDate>Mon, 09 Oct 2023 15:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/6b3d1049-43da-4771-a127-81840d4cfbbc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50대에도 NO 셀룰라이트! 미나의 피부 케어 TIP]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81103</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81103</guid>
+            <pubDate>Sun, 08 Oct 2023 15:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[안녕살이여 안녕, 괄사도 안녕!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/336db468-49d6-42c1-a809-756e69cdaf40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹은 건 빼야지? 한혜진의 급찐급빠 10분 운동]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81100</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81100</guid>
+            <pubDate>Sat, 07 Oct 2023 16:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[추석 때 행복했지? 이제는 빼자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/84b1fc93-5f31-4463-828e-6abf93506ec2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환절기에 딱 맞는 토너 패드가 있다? 환절기 토너 패드 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80930</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80930</guid>
+            <pubDate>Fri, 06 Oct 2023 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[환절기 필수템 원톱은 아.묻.따 토너 패드! 모양도, 질감도 뻔하지 않은 요즘 패드 모음.zip.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/75aae2cb-dcda-4a42-a2c0-9e6d8f7be5e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생얼 순삭! 대신 화장해주는 AR 필터 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81056</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81056</guid>
+            <pubDate>Thu, 05 Oct 2023 15:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[야, 너두 할 수 있어! 생얼 순삭! 화장까지 대신해주는 인스타그램 AR 필터.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/7b204442-16b7-4e6e-ad67-d5f63b850502.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
