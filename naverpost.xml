@@ -1,8 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my.naver?memberNo=11800362</id>
-    <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-10-11T05:10:24.312Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 11 Oct 2023 06:14:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을엔 아묻따 단풍이지! 
+전국 단세권 스폿 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36697039&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36697039&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[서울 하늘공원 하늘공원 계단에서 난지 순환길을 따라 걷다 보면 나오는 산책길. 이곳엔 하늘을 찌를 듯 길게 자란 메타세쿼이아 나무가 가득 심겨 있다. 하늘공원 메타세쿼이아 길은 1km 정도의 거리라 부담 없이 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<하트시그널2> 임현주 남친 곽시양!
+ 어디서 봤더라?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36697016&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36697016&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[알고&nbsp;보니&nbsp;흥행&nbsp;보증&nbsp;수표? ▼ 클릭 ▼ &lt;하트시그널2&gt; 임현주 남친 곽시양! 어디서 봤더라? 알고 보니 흥행 보증 수표? www.cosmopolitan.co.kr  데뷔 전부터 화려한 이력을가지고 있다? 어렸을 때부터 연예인이···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정원 딸린 럭셔리 하우스? 
+레이디 제인♥임현태 신혼집]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36696997&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36696997&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[저도 입주 가능할까요?▼ 클릭 ▼레이디 제인♥임현태 부부 신혼집 공개!최근 예능 프로그램 〈동상이몽 2- 너는 내 운명〉을 통해 60평대 고급 신혼집을 공개한 레이디 제인♥임현태 부부. 정원이 딸린 럭···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유빈, 권순우 커플 결국 결별했다?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36686735&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36686735&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[권순우 선수와 원더걸스 유빈이 결국 헤어졌다▼ 클릭 ▼아홉 살 차이 연상 연하 커플로 화제를 모았던 테니스 선수 권순우와 원더걸스 유빈이 5개월 연애 끝에 결국 결별했다. 발단은 2023 항저우 아시안게임. 금메달···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리 이혼했어요! 
+충격 결별 소식 전한 스타 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36650594&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36650594&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[이미 두 집 살림 중이었다고? ▼ 클릭 ▼ 우리 이혼했어요! 충격 결별 소식 전한 스타 4 이미 두 집 살림 중이었다고? www.cosmopolitan.co.kr  기은세 2012년, 12살 연상의 재미교포 사업가와 결혼해 SNS에 행복한 일···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["썸도 타고, 운동도 하고?" 
+권은비·덱스의 관리 팁]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36650548&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36650548&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[UDT 유산소 운동 3종 세트가 공개됐다! ▼ 클릭 ▼ "썸도 타고, 운동도 하고?" 권은비·덱스의 관리 팁 UDT 유산소 운동 3종 세트가 공개됐다! www.cosmopolitan.co.kr  예능 프로그램 〈전지적 참견 시점〉에 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지수와 카리나가 친했어? 
+의외의 연예계 찐친 리스트 3]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36650495&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36650495&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[친구 자리 하나 비었을까요? ▼ 클릭 ▼ 지수와 카리나가 친했어? 의외의 연예계 찐친 리스트 3 친구 자리 하나 비었을까요? www.cosmopolitan.co.kr  고민시 X 보나 배우 안세호가 〈천박사 퇴마 연구소: 설경의 비밀〉···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연휴 때 제대로 쉬고 싶다면? 
+전국 곳곳에 숨어있는 힐링 카페 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36650470&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36650470&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[일상 속 쉼이 필요한 사람들을 위한 좌표. ▼ 클릭 ▼ 연휴 때 제대로 쉬고 싶다면? 전국 곳곳에 숨어있는 힐링 카페 4 일상 속 쉼이 필요한 사람들을 위한 좌표. www.cosmopolitan.co.kr  카페 산아래 북한산 뷰를 볼···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무조건 살이 빠진다? 
+슈스스 한혜연의 12kg 감량 팁]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36650441&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36650441&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[세상의 모든 다이어트는 다 해본 이 언니!▼ 클릭 ▼다이어트를 시작하자마자, 평소 일주일 동안 무엇을 먹었는지 체크하기 시작했다는 한혜연. 이는 평소의 생활 패턴을 파악하기 위함인데, 이 기록을 시작한 이후 본···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연애는 이렇게? 열애 중♥ 
+팍팍 티 내는 셀럽들 3]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36637951&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36637951&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[허파 디비지게 부럽다. ▼ 클릭 ▼ 연애는 이렇게? 열애 중♥ 팍팍 티 내는 셀럽들 3 허파 디비지게 부럽다. www.cosmopolitan.co.kr 카일리 제너 ♥티모시 샬레메 최근 밀라노 프라다 컬렉션에 참석한 카일리 제너. 이···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추석용 가능! 전여빈도 극찬한 
+요정 재형의 겁나 쉬운 요리 3]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36637937&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36637937&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[추석 음식에 질린 사람, 혼 추석 보내는 사람 추천!▼ 클릭 ▼니수아즈 샐러드프랑스 니스에서 즐겨먹는 니수아즈 샐러드. 감자, 줄기 콩, 아티초크, 계란을 순서대로 삶아 익히고 방울 토마토, 로메인, 올리브도 적당···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영숙 or 상철? 
+MBTI보다 핫한 <나는 SOLO> 테스트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36612651&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36612651&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면? ▼ 클릭 ▼ 영숙 or 상철? MBTI보다 핫한 &lt;나는 SOLO&gt; 테스트 내가 만약 &lt;나는 SOLO&gt;에 출연한다면? www.cosmopolitan.co.kr  내가 만약 〈나는 솔로〉에출연한···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엄마가 한효주, 아빠가 조인성? 
+무빙 아역 파헤치기!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36612631&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36612631&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[하늘을 날고 괴력을 쓰는(?) 아들에 대해 알아봤다. ▼ 클릭 ▼ 엄마가 한효주, 아빠가 조인성? 무빙 아역 파헤치기! 하늘을 날고 괴력을 쓰는(?) 아들에 대해 알아봤다. www.cosmopolitan.co.kr  〈무빙〉 속 화제의 아···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[월클은 다 갔다? 
+블핑 콘서트 참석한 셀렙 7]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36612615&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36612615&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[영화제 레드카펫인 줄!▼ 클릭 ▼배두나이 언니를 여기에서 보게 될 줄이야! 배두나가 SNS 스토리로 블랙핑크 월드투어 서울 피날레 참석을 인증했다. 블랙핑크 후디에 응원봉 들고 ‘Am Ready!”. 혜리&amp;ldq···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한혜진 식단 관리템은 
+모두 ‘000’ 에서 산다?!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36598848&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36598848&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[먹기만 해도 살이 쏙 빠진다는 음식은 무엇? ▼ 클릭 ▼  한혜진 식단 관리템은 모두 ‘000’ 에서 산다?! 먹기만 해도 살이 쏙 빠진다는 음식은 무엇? www.cosmopolitan.co.kr  콩가루 식물성과 동물성 단백질을 골고루···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[멋쁨 제대로! <스우파 2> 
+바다 사복패션 파헤치기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36598821&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36598821&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[언니들의 심장에 불을 지핀 그녀의 사복룩.▼ 클릭 ▼이번 시즌 스우파에서 가장 화제인 인물. 바로 베베의 리더 바다리입니다. 그녀는 176cm의 큰 키와 압도적인 실력으로 많은 여성팬을 보유하고 있죠. 오늘은 멋쁨 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[000이 아기엄마? 
+우리가 몰랐던 <스우파 2> TMI 8가지!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36579765&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36579765&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[알면 알수록 더 재밌는 &lt;스트리트 우먼 파이터 2&gt;! ▼ 클릭 ▼  000이 아기엄마? 우리가 몰랐던 &lt;스우파 2&gt; TMI 8가지! 알면 알수록 더 재밌는 &lt;스트리트 우먼 파이터 2&gt;! www.cosmopolitan.co.kr  ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내 새꾸와 동반 입장! 반려동물과 
+함께 갈 수 있는 성수 맛집은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36579708&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36579708&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[힙하기까지 한 건 안 비밀! ▼ 클릭 ▼ 내 새꾸와 동반 입장! 반려동물과 함께 갈 수 있는 성수 맛집은? 힙하기까지 한 건 안 비밀! www.cosmopolitan.co.kr 아르고보니 크로플 샌드위치? 아는 맛일 것 같지만 이렇게 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4kg 감량? 촬영 전 장영란의 
+10일 다이어트 루틴]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36572277&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36572277&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[이보다 Before &amp; After가 확실한 다이어트 방법은 없다.▼ 클릭 ▼살을 빼게 된 계기?데뷔 후 처음으로 잡지 커버를 찍게 된 장영란. 하지만, 매일 밤 남편과 야식을 먹어 전체적으로 살이 많이 쪘다고 한다. 그녀···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탕후루 빙수, 오이 탕후루, 탕후루 하이볼까지?!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36565136&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36565136&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 11 Oct 2023 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[탕후루의 변신은 무죄! 탕후루 이색 맛집 3 ▼ 클릭 ▼요즘 남녀노소, 어른, 아이 할 것 없이 모두가 좋아한다는 탕후루! 그래서 준비했다. 네가 뭘 좋아할지 몰라 엄선한 탕후루 이색 맛집들~탕후루 카페〈워크맨〉을 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTJfMTky/MDAxNjk0NTAxNzcwMTIz.uDwIxpNfFOtkxllC14dOcSI0RRrLtlisgg3iLVhqtIUg.fycSODFDPqgQGsYQnMqLKI-AhKW9NY4wwDPU1qKyfmEg.JPEG/IFzf06d0ZDZVPfhzGCYpulJMEi64.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
