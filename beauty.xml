@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 19:08:45 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[홍진경이 살 안찌는 이유가 No 안주라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81265</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81265</guid>
-            <pubDate>Thu, 12 Oct 2023 15:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[현역 모델 시절부터 지금까지 한결같은 모습을 유지해온 그녀.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1bf5a628-0c35-4729-addc-56842d95b597.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 피부에 딱 맞는 톤다운 헤어 컬러 추천!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81260</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81260</guid>
-            <pubDate>Thu, 12 Oct 2023 10:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[하늘 아래 같은 컬러가 존재하지 않듯 어둡게 다운된 헤어 컬러 역시 톤차만별! 미묘한 한 끗...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1c257afe-104a-4d47-b019-d19119996adb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리, ‘비거너리 바이 달바’와 함께한 코스모 디지털 커버 대.공.개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81254</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81254</guid>
-            <pubDate>Thu, 12 Oct 2023 01:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[환경을 보호하는 4세대 식물성 비건 콜라겐이 있다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/ef76c7a2-1d5b-4590-8c5e-a50151d9c17a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 플랭크?! <스우파> 댄서들의 다이어트 스토리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81247</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81247</guid>
-            <pubDate>Wed, 11 Oct 2023 15:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[모태 마름 아닙니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/bd3b9a9c-2357-406f-9fb1-d9b72eba6e20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴급 속보?! 아이키 드디어 자수합니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81244</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81244</guid>
-            <pubDate>Wed, 11 Oct 2023 07:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[너무 열심히 해서 죄송합니다..]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/ed1697a3-0345-4bb9-8006-08dd021820f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이나연 추천! 환절기 피부, 2주 만에 꿀피부 된다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81241</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81241</guid>
-            <pubDate>Wed, 11 Oct 2023 03:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[이나연이 알려주는 기초 루틴과 제품 추천!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/09c9f549-1744-47fd-a279-dc254bd805d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이제이, 이런 사람은 간헐적 단식 하면 안된다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81240</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81240</guid>
-            <pubDate>Wed, 11 Oct 2023 03:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[반드시 제이제이의 조언을 참고할 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/1e16a7a5-1dd7-4fb6-998a-58483dca6fd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 속 그녀들과 똑닮은 향수는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81227</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81227</guid>
-            <pubDate>Tue, 10 Oct 2023 10:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[낯설지만 익숙한 향기. 영화 속에서 마주한 그녀를 닮았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/ca21c05a-eedd-4a03-9cef-cd830fefc5b1.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-10-12T20:10:41.667Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍진경이 살 안찌는 이유가 No 안주라고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81265</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81265"/>
+        <updated>2023-10-12T15:09:38.201Z</updated>
+        <content type="html"><![CDATA[현역 모델 시절부터 지금까지 한결같은 모습을 유지해온 그녀.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 피부에 딱 맞는 톤다운 헤어 컬러 추천!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81260</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81260"/>
+        <updated>2023-10-12T10:10:03.498Z</updated>
+        <content type="html"><![CDATA[하늘 아래 같은 컬러가 존재하지 않듯 어둡게 다운된 헤어 컬러 역시 톤차만별! 미묘한 한 끗...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이효리, ‘비거너리 바이 달바’와 함께한 코스모 디지털 커버 대.공.개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81254</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81254"/>
+        <updated>2023-10-12T01:41:50.787Z</updated>
+        <content type="html"><![CDATA[환경을 보호하는 4세대 식물성 비건 콜라겐이 있다는데?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매일 플랭크?! <스우파> 댄서들의 다이어트 스토리]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81247</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81247"/>
+        <updated>2023-10-11T15:09:18.986Z</updated>
+        <content type="html"><![CDATA[모태 마름 아닙니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[긴급 속보?! 아이키 드디어 자수합니다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81244</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81244"/>
+        <updated>2023-10-11T07:09:30.004Z</updated>
+        <content type="html"><![CDATA[너무 열심히 해서 죄송합니다..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이나연 추천! 환절기 피부, 2주 만에 꿀피부 된다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81241</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81241"/>
+        <updated>2023-10-11T03:10:05.394Z</updated>
+        <content type="html"><![CDATA[이나연이 알려주는 기초 루틴과 제품 추천!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이제이, 이런 사람은 간헐적 단식 하면 안된다?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81240</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81240"/>
+        <updated>2023-10-11T03:10:05.395Z</updated>
+        <content type="html"><![CDATA[반드시 제이제이의 조언을 참고할 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 속 그녀들과 똑닮은 향수는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81227</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81227"/>
+        <updated>2023-10-10T10:10:57.165Z</updated>
+        <content type="html"><![CDATA[낯설지만 익숙한 향기. 영화 속에서 마주한 그녀를 닮았다.]]></content>
+    </entry>
+</feed>
