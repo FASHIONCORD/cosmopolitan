@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-10-12T09:10:17.385Z</updated>
+    <updated>2023-10-12T10:10:42.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내 피부에 딱 맞는 톤다운 헤어 컬러 추천!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81260</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81260"/>
+        <updated>2023-10-12T10:10:03.498Z</updated>
+        <content type="html"><![CDATA[하늘 아래 같은 컬러가 존재하지 않듯 어둡게 다운된 헤어 컬러 역시 톤차만별! 미묘한 한 끗...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이효리, ‘비거너리 바이 달바’와 함께한 코스모 디지털 커버 대.공.개!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81254</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81217"/>
         <updated>2023-10-10T09:10:30.021Z</updated>
         <content type="html"><![CDATA[밀고, 문지르고, 비비면 예뻐진다? 머리부터 발끝까지, 괄사 타임!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고스펙부터 스낵형까지? NEW 안티에이징 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81209</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81209"/>
-        <updated>2023-10-10T08:12:34.369Z</updated>
-        <content type="html"><![CDATA[이건 몰랐지? 피부에 관심 많은 뷰티 만렙이라면 알아야 할 안티에이징 트렌드 이야기!]]></content>
     </entry>
 </feed>
