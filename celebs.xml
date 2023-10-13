@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-13T09:11:00.719Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[김민국 뉴욕대 합격? 폭풍 성장한 <아빠! 어디가?> 아이들 근황]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81234</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81234"/>
-        <updated>2023-10-12T10:10:12.554Z</updated>
-        <content type="html"><![CDATA[이모 마음 뿌듯해진다~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과거 방송 출연?! 아시안 게임 국가대표 속 의외의 인물 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81233</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81233"/>
-        <updated>2023-10-11T07:09:38.510Z</updated>
-        <content type="html"><![CDATA[&lt;효리네 민박&gt; 속 유도부 손님, 기억나시죠?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예상치 못한 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81225</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81225"/>
-        <updated>2023-10-11T03:10:46.572Z</updated>
-        <content type="html"><![CDATA[키린에 스며든 비비라는 존재감.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서 PICK!❤‍🔥 <발레리나> 촬영 중 가장 기억에 남는 에피소드는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81201</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81201"/>
-        <updated>2023-10-10T09:10:38.661Z</updated>
-        <content type="html"><![CDATA[예쁘고 귀엽고 사랑스럽고 다~하는 전종서에게 주목!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유빈, 권순우 커플 결국 결별했다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81149</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81149"/>
-        <updated>2023-10-10T08:12:43.933Z</updated>
-        <content type="html"><![CDATA[권순우 선수와 원더걸스 유빈이 결국 헤어졌다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잇몸 마름 주의!유정&산하 찐친 케미 실화냐?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81129</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81129"/>
-        <updated>2023-10-10T02:16:46.179Z</updated>
-        <content type="html"><![CDATA[근데.. 이렇게 솔직해도 돼?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리와 선미·츄까지? 센 언니들이 온다!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81105</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81105"/>
-        <updated>2023-10-10T02:16:46.180Z</updated>
-        <content type="html"><![CDATA[블록버스터 여자 솔로들이 차트 점령 예고한 10월.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형 핫이슈 몰고 올 K-POP 아이돌 컴백 풍년]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81104</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81104"/>
-        <updated>2023-10-09T16:12:28.687Z</updated>
-        <content type="html"><![CDATA[10월, 차트는 치열해지고 내 플리는 행복해질 예정.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 13 Oct 2023 10:10:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민국 뉴욕대 합격? 폭풍 성장한 <아빠! 어디가?> 아이들 근황]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81234</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81234</guid>
+            <pubDate>Thu, 12 Oct 2023 10:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[이모 마음 뿌듯해진다~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c8e61fd3-5df1-4a90-880c-7ac2d0d16e8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과거 방송 출연?! 아시안 게임 국가대표 속 의외의 인물 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81233</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81233</guid>
+            <pubDate>Wed, 11 Oct 2023 07:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;효리네 민박&gt; 속 유도부 손님, 기억나시죠?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/aabdb78f-d264-4365-8c1f-5edfd9643a4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예상치 못한 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81225</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81225</guid>
+            <pubDate>Wed, 11 Oct 2023 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[키린에 스며든 비비라는 존재감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/e7d2c5f3-35a5-4d47-9f91-2ef8b949df1e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서 PICK!❤‍🔥 <발레리나> 촬영 중 가장 기억에 남는 에피소드는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81201</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81201</guid>
+            <pubDate>Tue, 10 Oct 2023 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[예쁘고 귀엽고 사랑스럽고 다~하는 전종서에게 주목!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/4bb08c30-cba6-4b6c-9d2d-c70bb99b6e08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유빈, 권순우 커플 결국 결별했다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81149</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81149</guid>
+            <pubDate>Tue, 10 Oct 2023 08:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[권순우 선수와 원더걸스 유빈이 결국 헤어졌다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/0f3bf9a9-9d99-4002-8003-29e3442fbddd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잇몸 마름 주의!유정&산하 찐친 케미 실화냐?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81129</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81129</guid>
+            <pubDate>Tue, 10 Oct 2023 02:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[근데.. 이렇게 솔직해도 돼?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/35c978ab-9430-4ef4-a732-29e2ee39ba02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리와 선미·츄까지? 센 언니들이 온다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81105</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81105</guid>
+            <pubDate>Tue, 10 Oct 2023 02:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[블록버스터 여자 솔로들이 차트 점령 예고한 10월.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/160dbb7c-ee3a-4177-b185-0f91c9c98075.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대형 핫이슈 몰고 올 K-POP 아이돌 컴백 풍년]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81104</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81104</guid>
+            <pubDate>Mon, 09 Oct 2023 16:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[10월, 차트는 치열해지고 내 플리는 행복해질 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/1e632b4d-d321-4d22-bf7e-bfddb2bb071d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
