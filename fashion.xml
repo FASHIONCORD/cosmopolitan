@@ -1,69 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 15:08:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[에밀리 뒤 샤틀레, 막스마라의 뮤즈로 환생하다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81256</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81256</guid>
-            <pubDate>Sun, 15 Oct 2023 15:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[18세기 프랑스 여성 철학자 에밀리 뒤 샤틀레, 막스마라의 뮤즈가 되어 환생하다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TIMELESS BEAUTY 랄프 로렌의 뮤즈, 신현지]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81228</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81228</guid>
-            <pubDate>Sat, 14 Oct 2023 15:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[랄프 로렌 컬렉션의뮤즈로 카메라 앞에 선 신현지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[감성 한스푼 가득 담은 제이든 초의 공간]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81171</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81171</guid>
-            <pubDate>Fri, 13 Oct 2023 16:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[개인 레이블 제이든 초와 엄버 포스트파스트를 이끌고 있는 디자이너 겸 크리에이티브 디렉터 조...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LVMH 선정 TOP 50 디자이너! 레지나 표와의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81152</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81152</guid>
-            <pubDate>Thu, 12 Oct 2023 15:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[“진심은 언젠가는 통해요.” 세상을 향해 진심으로 자신이 표현하고 싶은 것을 외치는 패션 디...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가을은 트렌치코트의 계절! 트렌치코트의 A to Z]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81147</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81147</guid>
-            <pubDate>Wed, 11 Oct 2023 15:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[역사상 가장 낭만적인 아우터, 트렌치코트에 대한 모든 것.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크록스 오프 코트 클로그와 함께한 산하&유정의 가을맞이]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81189</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81189</guid>
-            <pubDate>Tue, 10 Oct 2023 15:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[산하와 유정이 선택한 바로 그 신발! 위트있는 지비츠™ 참으로 꾸민 크록스 오프 코트 클로그...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUIT YOURSELF! 매니시한 슈트를 즐기는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81164</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81164</guid>
-            <pubDate>Mon, 09 Oct 2023 16:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌 런웨이를 점령한 슈트. 여자들의 슈트를 향한 욕망에 불을 지필 디자이너들의 마스터...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/064b5a02-e8c8-4ebf-a1b5-436244467fa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레어웨이트켈러 인터뷰하러 도쿄행!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81148</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81148</guid>
-            <pubDate>Sun, 08 Oct 2023 15:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[패션 에디터 쉽지 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/6a916f6a-1091-417d-a628-ba9b063fd018.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-10-15T16:10:45.236Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에밀리 뒤 샤틀레, 막스마라의 뮤즈로 환생하다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81256</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81256"/>
+        <updated>2023-10-15T15:08:04.194Z</updated>
+        <content type="html"><![CDATA[18세기 프랑스 여성 철학자 에밀리 뒤 샤틀레, 막스마라의 뮤즈가 되어 환생하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIMELESS BEAUTY 랄프 로렌의 뮤즈, 신현지]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81228</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81228"/>
+        <updated>2023-10-14T15:08:10.487Z</updated>
+        <content type="html"><![CDATA[랄프 로렌 컬렉션의뮤즈로 카메라 앞에 선 신현지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감성 한스푼 가득 담은 제이든 초의 공간]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81171</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81171"/>
+        <updated>2023-10-13T16:11:00.091Z</updated>
+        <content type="html"><![CDATA[개인 레이블 제이든 초와 엄버 포스트파스트를 이끌고 있는 디자이너 겸 크리에이티브 디렉터 조...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LVMH 선정 TOP 50 디자이너! 레지나 표와의 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81152</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81152"/>
+        <updated>2023-10-12T15:09:29.138Z</updated>
+        <content type="html"><![CDATA[“진심은 언젠가는 통해요.” 세상을 향해 진심으로 자신이 표현하고 싶은 것을 외치는 패션 디...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을은 트렌치코트의 계절! 트렌치코트의 A to Z]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81147</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81147"/>
+        <updated>2023-10-11T15:09:08.242Z</updated>
+        <content type="html"><![CDATA[역사상 가장 낭만적인 아우터, 트렌치코트에 대한 모든 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크록스 오프 코트 클로그와 함께한 산하&유정의 가을맞이]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81189</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81189"/>
+        <updated>2023-10-10T15:09:34.030Z</updated>
+        <content type="html"><![CDATA[산하와 유정이 선택한 바로 그 신발! 위트있는 지비츠™ 참으로 꾸민 크록스 오프 코트 클로그...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUIT YOURSELF! 매니시한 슈트를 즐기는 법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81164</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81164"/>
+        <updated>2023-10-09T16:12:10.929Z</updated>
+        <content type="html"><![CDATA[이번 시즌 런웨이를 점령한 슈트. 여자들의 슈트를 향한 욕망에 불을 지필 디자이너들의 마스터...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클레어웨이트켈러 인터뷰하러 도쿄행!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81148</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81148"/>
+        <updated>2023-10-08T15:08:26.538Z</updated>
+        <content type="html"><![CDATA[패션 에디터 쉽지 않다.]]></content>
+    </entry>
+</feed>
