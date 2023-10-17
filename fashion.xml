@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 02:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 03:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MORE AND MORE! 더하면 더할수록 좋은 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81333</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81333</guid>
+            <pubDate>Tue, 17 Oct 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[더하면 더할수록 좋다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/58c22d12-654f-412e-a12b-bbca84ed710b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어둠 속을 질주하는 그녀]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81268</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81268</guid>
+            <pubDate>Tue, 17 Oct 2023 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[어둠 속의 빛을 따라가.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/65f8cbe7-40ca-414e-98f6-058eeadb55e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에밀리 뒤 샤틀레, 막스마라의 뮤즈로 환생하다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81256</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 10 Oct 2023 15:09:34 GMT</pubDate>
             <content:encoded><![CDATA[산하와 유정이 선택한 바로 그 신발! 위트있는 지비츠™ 참으로 꾸민 크록스 오프 코트 클로그...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/af6b6b77-63af-4d12-843c-f0a8ff078c70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUIT YOURSELF! 매니시한 슈트를 즐기는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81164</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81164</guid>
-            <pubDate>Mon, 09 Oct 2023 16:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌 런웨이를 점령한 슈트. 여자들의 슈트를 향한 욕망에 불을 지필 디자이너들의 마스터...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/064b5a02-e8c8-4ebf-a1b5-436244467fa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레어웨이트켈러 인터뷰하러 도쿄행!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81148</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81148</guid>
-            <pubDate>Sun, 08 Oct 2023 15:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[패션 에디터 쉽지 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/6a916f6a-1091-417d-a628-ba9b063fd018.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
