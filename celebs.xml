@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 07:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 08:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김계란의 걸그룹이 데뷔한다고? QWER은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81263</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81263</guid>
+            <pubDate>Tue, 17 Oct 2023 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[HYBE, JYP, SM, 김계란 LET’S GO.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1d0af3e8-3ad4-4dcc-a8af-9daa3df91e97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2세대 걸그룹 출신 언니들의 결혼 소식 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81246</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81246</guid>
+            <pubDate>Tue, 17 Oct 2023 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[어서 와! 핑크빛 가을은 처음이지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/9c83acfb-cbe7-4387-b7ce-db22eb06203d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긴급 속보?! 아이키 드디어 자수합니다]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81244</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 10 Oct 2023 08:12:43 GMT</pubDate>
             <content:encoded><![CDATA[권순우 선수와 원더걸스 유빈이 결국 헤어졌다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/0f3bf9a9-9d99-4002-8003-29e3442fbddd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잇몸 마름 주의!유정&산하 찐친 케미 실화냐?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81129</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81129</guid>
-            <pubDate>Tue, 10 Oct 2023 02:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[근데.. 이렇게 솔직해도 돼?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/35c978ab-9430-4ef4-a732-29e2ee39ba02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리와 선미·츄까지? 센 언니들이 온다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81105</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81105</guid>
-            <pubDate>Tue, 10 Oct 2023 02:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[블록버스터 여자 솔로들이 차트 점령 예고한 10월.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/160dbb7c-ee3a-4177-b185-0f91c9c98075.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
