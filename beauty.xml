@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 00:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 01:45:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰티 남신 매력 가득, 황민현의 빛나는 뷰티 화보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81312</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81312</guid>
+            <pubDate>Wed, 18 Oct 2023 01:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[클라랑스 No.1 더블 세럼과 함께한 배우 황민현]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/4056ed08-b586-438d-a8a0-286636a47fac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피부 컨디션에 따라 골라쓰는 크림 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81307</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 11 Oct 2023 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[너무 열심히 해서 죄송합니다..]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/ed1697a3-0345-4bb9-8006-08dd021820f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이나연 추천! 환절기 피부, 2주 만에 꿀피부 된다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81241</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81241</guid>
-            <pubDate>Wed, 11 Oct 2023 03:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[이나연이 알려주는 기초 루틴과 제품 추천!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/09c9f549-1744-47fd-a279-dc254bd805d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
