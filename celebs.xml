@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-19T02:17:50.669Z</updated>
+    <updated>2023-10-19T03:10:19.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류준열·기안84·임시완의 마음을 빼앗아버린 마라톤]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81421</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81421"/>
+        <updated>2023-10-19T03:09:38.024Z</updated>
+        <content type="html"><![CDATA[마라톤 대회까지 도전하는 열정 넘치는 러닝 셀럽은 누가 있을까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 대세 배우 고윤정, 운동 다해도 못 잃는게 약과라고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81411</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81263"/>
         <updated>2023-10-17T08:12:36.294Z</updated>
         <content type="html"><![CDATA[HYBE, JYP, SM, 김계란 LET’S GO.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2세대 걸그룹 출신 언니들의 결혼 소식 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81246</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81246"/>
-        <updated>2023-10-17T08:12:36.294Z</updated>
-        <content type="html"><![CDATA[어서 와! 핑크빛 가을은 처음이지?]]></content>
     </entry>
 </feed>
