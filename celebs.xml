@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-18T23:10:13.797Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이효리의 가방 속에서 발견된 의외의 물건?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81331</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81331"/>
-        <updated>2023-10-18T04:11:28.881Z</updated>
-        <content type="html"><![CDATA[ZZIN 언니가 돌아왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<유괴의 날> 윤계상, 최근 플렉스한 00의 정체!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81284</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81284"/>
-        <updated>2023-10-17T10:10:29.934Z</updated>
-        <content type="html"><![CDATA[배우 유나와 친해지기 위한 윤계상의 눈물겨운 노력.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김계란의 걸그룹이 데뷔한다고? QWER은 누구?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81263</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81263"/>
-        <updated>2023-10-17T08:12:36.294Z</updated>
-        <content type="html"><![CDATA[HYBE, JYP, SM, 김계란 LET’S GO.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2세대 걸그룹 출신 언니들의 결혼 소식 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81246</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81246"/>
-        <updated>2023-10-17T08:12:36.294Z</updated>
-        <content type="html"><![CDATA[어서 와! 핑크빛 가을은 처음이지?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴급 속보?! 아이키 드디어 자수합니다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81244</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81244"/>
-        <updated>2023-10-14T03:09:52.449Z</updated>
-        <content type="html"><![CDATA[너무 열심히 해서 죄송합니다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민국 뉴욕대 합격? 폭풍 성장한 <아빠! 어디가?> 아이들 근황]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81234</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81234"/>
-        <updated>2023-10-12T10:10:12.554Z</updated>
-        <content type="html"><![CDATA[이모 마음 뿌듯해진다~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과거 방송 출연?! 아시안 게임 국가대표 속 의외의 인물 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81233</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81233"/>
-        <updated>2023-10-11T07:09:38.510Z</updated>
-        <content type="html"><![CDATA[&lt;효리네 민박&gt; 속 유도부 손님, 기억나시죠?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예상치 못한 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81225</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81225"/>
-        <updated>2023-10-11T03:10:46.572Z</updated>
-        <content type="html"><![CDATA[키린에 스며든 비비라는 존재감.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 19 Oct 2023 00:39:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 대세 배우 고윤정, 운동 다해도 못 잃는게 약과라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81411</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81411</guid>
+            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[PPL도 아닌데 먹방을 부르는 그녀의 약과사랑.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/f6069ca3-22c0-471b-a0f9-b3d5f705f38a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 피처팀은 부국제를 찢어!!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81402</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81402</guid>
+            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/20455fbe-c2e1-4fc1-ad37-f1ef17d468f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여기서 포착?! 송중기♥케이티 부부의 투샷 히스토리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81400</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81400</guid>
+            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[부부 비주얼 폼 미쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/04ba1d0b-3ddb-4762-9d68-77f0ffc73b42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본투비 쿨~하게 태어난 비비가 YOZM 빠진 것은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81359</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81359</guid>
+            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[댕 솔직한 비비 폼 미쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/42b7369f-82fc-4213-aad6-89b0d8af64c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리의 가방 속에서 발견된 의외의 물건?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81331</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81331</guid>
+            <pubDate>Wed, 18 Oct 2023 04:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[ZZIN 언니가 돌아왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/a03f3ea1-cac2-490f-843e-cd44512d1c9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유괴의 날> 윤계상, 최근 플렉스한 00의 정체!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81284</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81284</guid>
+            <pubDate>Tue, 17 Oct 2023 10:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유나와 친해지기 위한 윤계상의 눈물겨운 노력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/5db8d001-25b7-4b74-9234-76504d6d0a1f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김계란의 걸그룹이 데뷔한다고? QWER은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81263</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81263</guid>
+            <pubDate>Tue, 17 Oct 2023 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[HYBE, JYP, SM, 김계란 LET’S GO.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1d0af3e8-3ad4-4dcc-a8af-9daa3df91e97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2세대 걸그룹 출신 언니들의 결혼 소식 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81246</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81246</guid>
+            <pubDate>Tue, 17 Oct 2023 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[어서 와! 핑크빛 가을은 처음이지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/9c83acfb-cbe7-4387-b7ce-db22eb06203d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
