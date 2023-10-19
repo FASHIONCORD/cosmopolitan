@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 11:09:32 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[설영우·이강인·손흥민 등 국대 축구선수 사복패션 TOP 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81396</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81396</guid>
-            <pubDate>Thu, 19 Oct 2023 06:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[국대 선수들 중 가장 옷 잘입는 사람은 누구?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/932e9427-f596-4c37-ae5f-78324826312f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHAT'S HOT! 10월에 핫한 패션 뉴스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81272</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81272</guid>
-            <pubDate>Wed, 18 Oct 2023 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 컬렉션의 향연! 눈이 즐거운 10월의 패션 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/206a97be-6040-4b57-ad57-2b9a77ffe53e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WE'RE ODD PLAYERS! 프리지아 x 오드삭스의 콜라보!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81336</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81336</guid>
-            <pubDate>Wed, 18 Oct 2023 07:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[매치 포인트를 외치는 순간! 승패는 정해지겠지만, 우리 오드 플레이어들에겐 중요하지 않아요. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/99dd7206-6599-4a76-919d-cc854cba5c41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COSMO FOCUS! 누오보 컬렉션과 함께한 가을날의 외출]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81270</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81270</guid>
-            <pubDate>Tue, 17 Oct 2023 09:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[자꾸만 걷고 싶은 이 계절! 누오보 f/w 컬렉션과 함께한 가을날의 외출.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/2cfb818e-8193-44ca-82bc-d06b27f49160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MORE AND MORE! 더하면 더할수록 좋은 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81333</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81333</guid>
-            <pubDate>Tue, 17 Oct 2023 03:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[더하면 더할수록 좋다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/58c22d12-654f-412e-a12b-bbca84ed710b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어둠 속을 질주하는 그녀]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81268</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81268</guid>
-            <pubDate>Tue, 17 Oct 2023 03:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[어둠 속의 빛을 따라가.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/65f8cbe7-40ca-414e-98f6-058eeadb55e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에밀리 뒤 샤틀레, 막스마라의 뮤즈로 환생하다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81256</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81256</guid>
-            <pubDate>Sun, 15 Oct 2023 15:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[18세기 프랑스 여성 철학자 에밀리 뒤 샤틀레, 막스마라의 뮤즈가 되어 환생하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/f6992fac-bb66-4b0c-bc9e-083cfa6b7a95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TIMELESS BEAUTY 랄프 로렌의 뮤즈, 신현지]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81228</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81228</guid>
-            <pubDate>Sat, 14 Oct 2023 15:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[랄프 로렌 컬렉션의뮤즈로 카메라 앞에 선 신현지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c1521e84-7394-4ca6-850c-41766da71174.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-10-19T12:17:35.734Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설영우·이강인·손흥민 등 국대 축구선수 사복패션 TOP 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81396</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81396"/>
+        <updated>2023-10-19T06:12:37.512Z</updated>
+        <content type="html"><![CDATA[국대 선수들 중 가장 옷 잘입는 사람은 누구?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHAT'S HOT! 10월에 핫한 패션 뉴스]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81272</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81272"/>
+        <updated>2023-10-18T09:09:37.082Z</updated>
+        <content type="html"><![CDATA[새로운 컬렉션의 향연! 눈이 즐거운 10월의 패션 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WE'RE ODD PLAYERS! 프리지아 x 오드삭스의 콜라보!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81336</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81336"/>
+        <updated>2023-10-18T07:08:51.224Z</updated>
+        <content type="html"><![CDATA[매치 포인트를 외치는 순간! 승패는 정해지겠지만, 우리 오드 플레이어들에겐 중요하지 않아요. ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COSMO FOCUS! 누오보 컬렉션과 함께한 가을날의 외출]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81270</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81270"/>
+        <updated>2023-10-17T09:09:36.812Z</updated>
+        <content type="html"><![CDATA[자꾸만 걷고 싶은 이 계절! 누오보 f/w 컬렉션과 함께한 가을날의 외출.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MORE AND MORE! 더하면 더할수록 좋은 패션]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81333</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81333"/>
+        <updated>2023-10-17T03:09:34.757Z</updated>
+        <content type="html"><![CDATA[더하면 더할수록 좋다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어둠 속을 질주하는 그녀]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81268</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81268"/>
+        <updated>2023-10-17T03:09:34.759Z</updated>
+        <content type="html"><![CDATA[어둠 속의 빛을 따라가.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에밀리 뒤 샤틀레, 막스마라의 뮤즈로 환생하다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81256</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81256"/>
+        <updated>2023-10-15T15:08:04.194Z</updated>
+        <content type="html"><![CDATA[18세기 프랑스 여성 철학자 에밀리 뒤 샤틀레, 막스마라의 뮤즈가 되어 환생하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIMELESS BEAUTY 랄프 로렌의 뮤즈, 신현지]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81228</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81228"/>
+        <updated>2023-10-14T15:08:10.487Z</updated>
+        <content type="html"><![CDATA[랄프 로렌 컬렉션의뮤즈로 카메라 앞에 선 신현지.]]></content>
+    </entry>
+</feed>
