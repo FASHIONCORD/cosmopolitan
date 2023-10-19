@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-19T07:09:51.405Z</updated>
+    <updated>2023-10-19T08:13:26.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GMF 출연 예고한 밴드 SURL(설) 화보 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81443</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81443"/>
+        <updated>2023-10-19T08:12:48.239Z</updated>
+        <content type="html"><![CDATA[이제 막 시작된 설의 이야기가 새로운 장르가 되는 그날까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류준열·기안84·임시완의 마음을 빼앗아버린 마라톤]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81421</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81284"/>
         <updated>2023-10-17T10:10:29.934Z</updated>
         <content type="html"><![CDATA[배우 유나와 친해지기 위한 윤계상의 눈물겨운 노력.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김계란의 걸그룹이 데뷔한다고? QWER은 누구?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81263</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81263"/>
-        <updated>2023-10-17T08:12:36.294Z</updated>
-        <content type="html"><![CDATA[HYBE, JYP, SM, 김계란 LET’S GO.]]></content>
     </entry>
 </feed>
