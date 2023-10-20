@@ -1,64 +1,439 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-20T10:18:54.575Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[GMF 출연 예고한 터치드 화보 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81444</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81444"/>
-        <updated>2023-10-20T09:10:06.266Z</updated>
-        <content type="html"><![CDATA[감동을 주는 밴드, 터치드의 비상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GMF 출연 예고한 림킴 화보 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81437</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81437"/>
-        <updated>2023-10-20T00:38:40.736Z</updated>
-        <content type="html"><![CDATA[“어린 소녀는 강력한 여성이 되어 너의 세계를 파괴하러 돌아온다.” 여성, 아티스트, 아웃사이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GMF 출연 예고한 밴드 SURL(설) 화보 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81443</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81443"/>
-        <updated>2023-10-19T08:12:48.239Z</updated>
-        <content type="html"><![CDATA[이제 막 시작된 설의 이야기가 새로운 장르가 되는 그날까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류준열·기안84·임시완의 마음을 빼앗아버린 마라톤]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81421</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81421"/>
-        <updated>2023-10-19T03:09:38.024Z</updated>
-        <content type="html"><![CDATA[마라톤 대회까지 도전하는 열정 넘치는 러닝 셀럽은 누가 있을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 대세 배우 고윤정, 운동 다해도 못 잃는게 약과라고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81411</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81411"/>
-        <updated>2023-10-19T00:38:32.186Z</updated>
-        <content type="html"><![CDATA[PPL도 아닌데 먹방을 부르는 그녀의 약과사랑.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 피처팀은 부국제를 찢어!!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81402</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81402"/>
-        <updated>2023-10-19T00:38:32.187Z</updated>
-        <content type="html"><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기서 포착?! 송중기♥케이티 부부의 투샷 히스토리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81400</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81400"/>
-        <updated>2023-10-19T00:38:32.189Z</updated>
-        <content type="html"><![CDATA[부부 비주얼 폼 미쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본투비 쿨~하게 태어난 비비가 YOZM 빠진 것은?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81359</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81359"/>
-        <updated>2023-10-19T00:38:32.192Z</updated>
-        <content type="html"><![CDATA[댕 솔직한 비비 폼 미쳤다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 20 Oct 2023 11:09:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GMF 출연 예고한 터치드 화보 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81444</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81444</guid>
+            <pubDate>Fri, 20 Oct 2023 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[감동을 주는 밴드, 터치드의 비상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/bc9689c6-8934-47c6-aaaf-e2ffd66d6f72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GMF 출연 예고한 림킴 화보 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81437</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81437</guid>
+            <pubDate>Fri, 20 Oct 2023 00:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[“어린 소녀는 강력한 여성이 되어 너의 세계를 파괴하러 돌아온다.” 여성, 아티스트, 아웃사이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/68567452-832d-49df-98fb-7389d09449c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GMF 출연 예고한 밴드 SURL(설) 화보 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81443</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81443</guid>
+            <pubDate>Thu, 19 Oct 2023 08:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[이제 막 시작된 설의 이야기가 새로운 장르가 되는 그날까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/755a3210-642a-4415-8b33-9c515a22fe98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류준열·기안84·임시완의 마음을 빼앗아버린 마라톤]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81421</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81421</guid>
+            <pubDate>Thu, 19 Oct 2023 03:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[마라톤 대회까지 도전하는 열정 넘치는 러닝 셀럽은 누가 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/367f3dc1-8e47-46a9-ae3b-904e37bd1389.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 대세 배우 고윤정, 운동 다해도 못 잃는게 약과라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81411</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81411</guid>
+            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[PPL도 아닌데 먹방을 부르는 그녀의 약과사랑.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/f6069ca3-22c0-471b-a0f9-b3d5f705f38a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 피처팀은 부국제를 찢어!!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81402</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81402</guid>
+            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/20455fbe-c2e1-4fc1-ad37-f1ef17d468f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여기서 포착?! 송중기♥케이티 부부의 투샷 히스토리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81400</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81400</guid>
+            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[부부 비주얼 폼 미쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/04ba1d0b-3ddb-4762-9d68-77f0ffc73b42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본투비 쿨~하게 태어난 비비가 YOZM 빠진 것은?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81359</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81359</guid>
+            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[댕 솔직한 비비 폼 미쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/42b7369f-82fc-4213-aad6-89b0d8af64c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리의 가방 속에서 발견된 의외의 물건?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81331</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81331</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/a03f3ea1-cac2-490f-843e-cd44512d1c9f.jpg');">
+            <a href="/article/81331">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81331">
+                                        Beauty Item                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/81331">
+                    이효리의 가방 속에서 발견된 의외의 물건?!                </a>
+            </em>
+            <p class="excerpt">ZZIN 언니가 돌아왔다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/a03f3ea1-cac2-490f-843e-cd44512d1c9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유괴의 날> 윤계상, 최근 플렉스한 00의 정체!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81284</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81284</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/5db8d001-25b7-4b74-9234-76504d6d0a1f.jpg');">
+            <a href="/article/81284">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81284">
+                                        Interview                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/81284">
+                    &lt;유괴의 날&gt; 윤계상, 최근 플렉스한 00의 정체!                </a>
+            </em>
+            <p class="excerpt">배우 유나와 친해지기 위한 윤계상의 눈물겨운 노력.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/5db8d001-25b7-4b74-9234-76504d6d0a1f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김계란의 걸그룹이 데뷔한다고? QWER은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81263</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81263</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1d0af3e8-3ad4-4dcc-a8af-9daa3df91e97.jpg');">
+            <a href="/article/81263">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81263">
+                                        Celeb News                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/81263">
+                    김계란의 걸그룹이 데뷔한다고? QWER은 누구?                </a>
+            </em>
+            <p class="excerpt">HYBE, JYP, SM, 김계란 LET’S GO.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1d0af3e8-3ad4-4dcc-a8af-9daa3df91e97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2세대 걸그룹 출신 언니들의 결혼 소식 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81246</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81246</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/9c83acfb-cbe7-4387-b7ce-db22eb06203d.jpg');">
+            <a href="/article/81246">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81246">
+                                        Celeb News                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/81246">
+                     2세대 걸그룹 출신 언니들의 결혼 소식 3                </a>
+            </em>
+            <p class="excerpt">어서 와! 핑크빛 가을은 처음이지?</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/9c83acfb-cbe7-4387-b7ce-db22eb06203d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[긴급 속보?! 아이키 드디어 자수합니다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81244</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81244</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/ed1697a3-0345-4bb9-8006-08dd021820f4.jpg');">
+            <a href="/article/81244">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81244">
+                                        Beauty Item                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/81244">
+                    긴급 속보?! 아이키 드디어 자수합니다                </a>
+            </em>
+            <p class="excerpt">너무 열심히 해서 죄송합니다..</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/ed1697a3-0345-4bb9-8006-08dd021820f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김민국 뉴욕대 합격? 폭풍 성장한 <아빠! 어디가?> 아이들 근황]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81234</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81234</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c8e61fd3-5df1-4a90-880c-7ac2d0d16e8e.jpg');">
+            <a href="/article/81234">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81234">
+                                        Celeb News                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/81234">
+                    김민국 뉴욕대 합격? 폭풍 성장한 &lt;아빠! 어디가?&gt; 아이들 근황                </a>
+            </em>
+            <p class="excerpt">이모 마음 뿌듯해진다~.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c8e61fd3-5df1-4a90-880c-7ac2d0d16e8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과거 방송 출연?! 아시안 게임 국가대표 속 의외의 인물 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81233</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81233</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/aabdb78f-d264-4365-8c1f-5edfd9643a4f.jpg');">
+            <a href="/article/81233">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81233">
+                                        Celeb News                                    </a>
+                                </span>
+            <em class="title">
+                <a href="/article/81233">
+                    과거 방송 출연?! 아시안 게임 국가대표 속 의외의 인물 3                </a>
+            </em>
+            <p class="excerpt">&lt;효리네 민박&gt; 속 유도부 손님, 기억나시죠?</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/aabdb78f-d264-4365-8c1f-5edfd9643a4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예상치 못한 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81225</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81225</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/e7d2c5f3-35a5-4d47-9f91-2ef8b949df1e.jpg');">
+                <a href="/article/81225">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81225">
+                                        Celeb News                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/81225">
+                        예상치 못한 만남                    </a>
+                </em>
+                <p class="excerpt">키린에 스며든 비비라는 존재감.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/e7d2c5f3-35a5-4d47-9f91-2ef8b949df1e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서 PICK!❤‍🔥 <발레리나> 촬영 중 가장 기억에 남는 에피소드는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81201</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81201</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/4bb08c30-cba6-4b6c-9d2d-c70bb99b6e08.jpg');">
+                <a href="/article/81201">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81201">
+                                        Interview                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/81201">
+                        전종서 PICK!❤‍🔥 &lt;발레리나&gt; 촬영 중 가장 기억에 남는 에피소드는?                    </a>
+                </em>
+                <p class="excerpt">예쁘고 귀엽고 사랑스럽고 다~하는 전종서에게 주목!</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/4bb08c30-cba6-4b6c-9d2d-c70bb99b6e08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유빈, 권순우 커플 결국 결별했다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81149</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81149</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/0f3bf9a9-9d99-4002-8003-29e3442fbddd.jpg');">
+                <a href="/article/81149">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81149">
+                                        Celeb News                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/81149">
+                        유빈, 권순우 커플 결국 결별했다?                    </a>
+                </em>
+                <p class="excerpt">권순우 선수와 원더걸스 유빈이 결국 헤어졌다</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/0f3bf9a9-9d99-4002-8003-29e3442fbddd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잇몸 마름 주의!유정&산하 찐친 케미 실화냐?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81129</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81129</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/35c978ab-9430-4ef4-a732-29e2ee39ba02.jpg');">
+                <a href="/article/81129">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81129">
+                                        Interview                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/81129">
+                        잇몸 마름 주의!유정&amp;산하 찐친 케미 실화냐?                    </a>
+                </em>
+                <p class="excerpt">근데.. 이렇게 솔직해도 돼?</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/35c978ab-9430-4ef4-a732-29e2ee39ba02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리와 선미·츄까지? 센 언니들이 온다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81105</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81105</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/160dbb7c-ee3a-4177-b185-0f91c9c98075.jpg');">
+                <a href="/article/81105">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81105">
+                                        Celeb News                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/81105">
+                        이효리와 선미·츄까지? 센 언니들이 온다!                    </a>
+                </em>
+                <p class="excerpt">블록버스터 여자 솔로들이 차트 점령 예고한 10월.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/160dbb7c-ee3a-4177-b185-0f91c9c98075.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대형 핫이슈 몰고 올 K-POP 아이돌 컴백 풍년]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81104</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81104</guid>
+            <pubDate>Fri, 20 Oct 2023 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/1e632b4d-d321-4d22-bf7e-bfddb2bb071d.jpg');">
+                <a href="/article/81104">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                                <span class="menu">
+                                    <a href="/article/81104">
+                                        Celeb News                                    </a>
+                                </span>
+                <em class="title">
+                    <a href="/article/81104">
+                        대형 핫이슈 몰고 올 K-POP 아이돌 컴백 풍년                    </a>
+                </em>
+                <p class="excerpt">10월, 차트는 치열해지고 내 플리는 행복해질 예정.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/1e632b4d-d321-4d22-bf7e-bfddb2bb071d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
