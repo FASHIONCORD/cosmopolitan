@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 13:12:56 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[GMF 출연 예고한 터치드 화보 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81444</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81444</guid>
-            <pubDate>Fri, 20 Oct 2023 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[감동을 주는 밴드, 터치드의 비상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/bc9689c6-8934-47c6-aaaf-e2ffd66d6f72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GMF 출연 예고한 림킴 화보 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81437</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81437</guid>
-            <pubDate>Fri, 20 Oct 2023 00:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[“어린 소녀는 강력한 여성이 되어 너의 세계를 파괴하러 돌아온다.” 여성, 아티스트, 아웃사이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/68567452-832d-49df-98fb-7389d09449c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GMF 출연 예고한 밴드 SURL(설) 화보 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81443</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81443</guid>
-            <pubDate>Thu, 19 Oct 2023 08:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[이제 막 시작된 설의 이야기가 새로운 장르가 되는 그날까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/755a3210-642a-4415-8b33-9c515a22fe98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류준열·기안84·임시완의 마음을 빼앗아버린 마라톤]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81421</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81421</guid>
-            <pubDate>Thu, 19 Oct 2023 03:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[마라톤 대회까지 도전하는 열정 넘치는 러닝 셀럽은 누가 있을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/367f3dc1-8e47-46a9-ae3b-904e37bd1389.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 배우 고윤정, 운동 다해도 못 잃는게 약과라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81411</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81411</guid>
-            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[PPL도 아닌데 먹방을 부르는 그녀의 약과사랑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/f6069ca3-22c0-471b-a0f9-b3d5f705f38a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 피처팀은 부국제를 찢어!!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81402</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81402</guid>
-            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/20455fbe-c2e1-4fc1-ad37-f1ef17d468f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기서 포착?! 송중기♥케이티 부부의 투샷 히스토리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81400</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81400</guid>
-            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[부부 비주얼 폼 미쳤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/04ba1d0b-3ddb-4762-9d68-77f0ffc73b42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본투비 쿨~하게 태어난 비비가 YOZM 빠진 것은?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81359</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81359</guid>
-            <pubDate>Thu, 19 Oct 2023 00:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[댕 솔직한 비비 폼 미쳤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/42b7369f-82fc-4213-aad6-89b0d8af64c7.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-10-20T14:09:34.571Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GMF 출연 예고한 터치드 화보 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81444</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81444"/>
+        <updated>2023-10-20T09:10:06.266Z</updated>
+        <content type="html"><![CDATA[감동을 주는 밴드, 터치드의 비상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GMF 출연 예고한 림킴 화보 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81437</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81437"/>
+        <updated>2023-10-20T00:38:40.736Z</updated>
+        <content type="html"><![CDATA[“어린 소녀는 강력한 여성이 되어 너의 세계를 파괴하러 돌아온다.” 여성, 아티스트, 아웃사이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GMF 출연 예고한 밴드 SURL(설) 화보 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81443</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81443"/>
+        <updated>2023-10-19T08:12:48.239Z</updated>
+        <content type="html"><![CDATA[이제 막 시작된 설의 이야기가 새로운 장르가 되는 그날까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류준열·기안84·임시완의 마음을 빼앗아버린 마라톤]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81421</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81421"/>
+        <updated>2023-10-19T03:09:38.024Z</updated>
+        <content type="html"><![CDATA[마라톤 대회까지 도전하는 열정 넘치는 러닝 셀럽은 누가 있을까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 대세 배우 고윤정, 운동 다해도 못 잃는게 약과라고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81411</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81411"/>
+        <updated>2023-10-19T00:38:32.186Z</updated>
+        <content type="html"><![CDATA[PPL도 아닌데 먹방을 부르는 그녀의 약과사랑.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스모 피처팀은 부국제를 찢어!!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81402</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81402"/>
+        <updated>2023-10-19T00:38:32.187Z</updated>
+        <content type="html"><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여기서 포착?! 송중기♥케이티 부부의 투샷 히스토리]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81400</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81400"/>
+        <updated>2023-10-19T00:38:32.189Z</updated>
+        <content type="html"><![CDATA[부부 비주얼 폼 미쳤다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[본투비 쿨~하게 태어난 비비가 YOZM 빠진 것은?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81359</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81359"/>
+        <updated>2023-10-19T00:38:32.192Z</updated>
+        <content type="html"><![CDATA[댕 솔직한 비비 폼 미쳤다.]]></content>
+    </entry>
+</feed>
