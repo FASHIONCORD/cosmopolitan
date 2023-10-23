@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-10-23T08:13:23.934Z</updated>
+    <updated>2023-10-23T09:10:48.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이런 게 있어? 셀렙들이 선택한 의외의 다이어트법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81403</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81403"/>
+        <updated>2023-10-23T09:10:04.898Z</updated>
+        <content type="html"><![CDATA[다이어터들이여, 메모하라!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텅장 주의! 가을맞이 플렉스 뷰티템]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81354</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81354"/>
+        <updated>2023-10-23T09:10:04.900Z</updated>
+        <content type="html"><![CDATA[New, Need, Now! 텅장 주의! 가을맞이 플렉스를 부르는 10월의 뷰티 신상!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뒤돌아 보게 되는 향기의 정체! 욕실템 6]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81269</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81265"/>
         <updated>2023-10-12T15:09:38.201Z</updated>
         <content type="html"><![CDATA[현역 모델 시절부터 지금까지 한결같은 모습을 유지해온 그녀.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 피부에 딱 맞는 톤다운 헤어 컬러 추천!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81260</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81260"/>
-        <updated>2023-10-12T10:10:03.498Z</updated>
-        <content type="html"><![CDATA[하늘 아래 같은 컬러가 존재하지 않듯 어둡게 다운된 헤어 컬러 역시 톤차만별! 미묘한 한 끗...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리, ‘비거너리 바이 달바’와 함께한 코스모 디지털 커버 대.공.개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81254</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81254"/>
-        <updated>2023-10-12T01:41:50.787Z</updated>
-        <content type="html"><![CDATA[환경을 보호하는 4세대 식물성 비건 콜라겐이 있다는데?]]></content>
     </entry>
 </feed>
