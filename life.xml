@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-10-23T14:10:24.778Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[슈퍼카가 아니라고? 강동원은 ‘0000’를 탄다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81404</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81404"/>
-        <updated>2023-10-23T08:13:11.941Z</updated>
-        <content type="html"><![CDATA[어딘가 의외인 강동원·안소희·신혜선의 차.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 피처팀은 부국제를 찢어!!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81402</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81402"/>
-        <updated>2023-10-23T05:09:42.909Z</updated>
-        <content type="html"><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타 각인데? 비주얼 깡패인 밤 디저트 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81401</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81401"/>
-        <updated>2023-10-19T09:10:45.991Z</updated>
-        <content type="html"><![CDATA[가을에 놓칠 수 없지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍진경 그릇·티셔츠 다 여기서 샀다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81381</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81381"/>
-        <updated>2023-10-18T07:09:41.359Z</updated>
-        <content type="html"><![CDATA[놀랍도록 감각적인 진경픽 쇼핑 플레이스 대 공개.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금은 단풍 즐길 때, 전국구 단풍 명소 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81380</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81380"/>
-        <updated>2023-10-18T04:12:03.366Z</updated>
-        <content type="html"><![CDATA[물들면 물들수록 좋다~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<나 혼자 산다> 자동차 극장 어디야? 나도 갈래!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81301</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81301"/>
-        <updated>2023-10-17T09:11:04.556Z</updated>
-        <content type="html"><![CDATA[냄새 걱정없이 마음껏 먹으며 영화를 볼 수 있는 자동차 극장들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 당 섭취 초과! 주우재가 출몰한 연남 디저트 카페 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81274</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81274"/>
-        <updated>2023-10-17T08:12:58.693Z</updated>
-        <content type="html"><![CDATA[연남 핫플 좌표 모두 알려드림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을엔 무해한 연애 리얼리티지]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81271</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81271"/>
-        <updated>2023-10-17T08:12:58.696Z</updated>
-        <content type="html"><![CDATA[매운 연애 리얼리티에 지쳤나요?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 23 Oct 2023 15:11:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼카가 아니라고? 강동원은 ‘0000’를 탄다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81404</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81404</guid>
+            <pubDate>Mon, 23 Oct 2023 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[어딘가 의외인 강동원·안소희·신혜선의 차.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/f2698ca7-8e9a-4fd8-ba3b-b7c5f7e4a025.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 피처팀은 부국제를 찢어!!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81402</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81402</guid>
+            <pubDate>Mon, 23 Oct 2023 05:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/20455fbe-c2e1-4fc1-ad37-f1ef17d468f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타 각인데? 비주얼 깡패인 밤 디저트 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81401</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81401</guid>
+            <pubDate>Thu, 19 Oct 2023 09:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[가을에 놓칠 수 없지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/5044ac25-65b8-400b-a186-3c617a1a6281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍진경 그릇·티셔츠 다 여기서 샀다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81381</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81381</guid>
+            <pubDate>Wed, 18 Oct 2023 07:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[놀랍도록 감각적인 진경픽 쇼핑 플레이스 대 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/7c9e55a0-9be9-4564-a5e4-661696f7023c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금은 단풍 즐길 때, 전국구 단풍 명소 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81380</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81380</guid>
+            <pubDate>Wed, 18 Oct 2023 04:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[물들면 물들수록 좋다~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/fabdc66f-a4b8-4448-bd9a-63cf20b4b0ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나 혼자 산다> 자동차 극장 어디야? 나도 갈래!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81301</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81301</guid>
+            <pubDate>Tue, 17 Oct 2023 09:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[냄새 걱정없이 마음껏 먹으며 영화를 볼 수 있는 자동차 극장들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/dbdbcfde-e7b5-4723-b260-bb2add8fdb0d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하루 당 섭취 초과! 주우재가 출몰한 연남 디저트 카페 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81274</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81274</guid>
+            <pubDate>Tue, 17 Oct 2023 08:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[연남 핫플 좌표 모두 알려드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/6d48bbc3-5330-432a-ad5b-c4f6c4d5c134.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을엔 무해한 연애 리얼리티지]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81271</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81271</guid>
+            <pubDate>Tue, 17 Oct 2023 08:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[매운 연애 리얼리티에 지쳤나요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/eb8b130a-b532-447a-aef5-de18f61b4704.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
