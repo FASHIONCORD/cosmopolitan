@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 10:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 11:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘000’ 향수는 필수? 정유미의 뉴욕뉴욕 쇼핑 아이템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81406</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81406</guid>
+            <pubDate>Mon, 23 Oct 2023 11:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[내 텅장 눈 감아.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/315fb4c7-a139-482b-a07a-0b17fb49f1b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차정원·장희령·오눅 등 셀럽 가을 레더 재킷 패션 5]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81397</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 17 Oct 2023 03:09:34 GMT</pubDate>
             <content:encoded><![CDATA[어둠 속의 빛을 따라가.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/65f8cbe7-40ca-414e-98f6-058eeadb55e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에밀리 뒤 샤틀레, 막스마라의 뮤즈로 환생하다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81256</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81256</guid>
-            <pubDate>Sun, 15 Oct 2023 15:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[18세기 프랑스 여성 철학자 에밀리 뒤 샤틀레, 막스마라의 뮤즈가 되어 환생하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/f6992fac-bb66-4b0c-bc9e-083cfa6b7a95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
