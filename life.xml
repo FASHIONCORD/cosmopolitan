@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-10-23T04:11:49.163Z</updated>
+    <updated>2023-10-23T05:09:54.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스모 피처팀은 부국제를 찢어!!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81402</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81402"/>
+        <updated>2023-10-23T05:09:42.909Z</updated>
+        <content type="html"><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인스타 각인데? 비주얼 깡패인 밤 디저트 4]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81401</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81243"/>
         <updated>2023-10-16T04:12:38.398Z</updated>
         <content type="html"><![CDATA[예약은 필수다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을에 꼭 봐야 할 매운맛 누아르 작품들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81232</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81232"/>
-        <updated>2023-10-16T04:12:38.400Z</updated>
-        <content type="html"><![CDATA[멋짐, 쾌감, 여운까지… 실화면 안 되는 실화 같은 가을 작품들.]]></content>
     </entry>
 </feed>
