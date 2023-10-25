@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 00:39:51 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이런 게 있어? 셀렙들이 선택한 의외의 다이어트법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81403</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81403</guid>
-            <pubDate>Mon, 23 Oct 2023 09:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터들이여, 메모하라!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/9bf5417b-4769-4277-b59d-17447546c18e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텅장 주의! 가을맞이 플렉스 뷰티템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81354</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81354</guid>
-            <pubDate>Mon, 23 Oct 2023 09:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[New, Need, Now! 텅장 주의! 가을맞이 플렉스를 부르는 10월의 뷰티 신상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/db5a414c-ac6d-4a5a-9992-948ee9db908d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤돌아 보게 되는 향기의 정체! 욕실템 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81269</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81269</guid>
-            <pubDate>Mon, 23 Oct 2023 08:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[머리부터 발끝까지 킁킁! 쌀쌀한 바람이 불어오기 시작하는 요즘, 스치는 순간 누구든 뒤돌아보게...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/316d8bba-6485-4e24-87fd-aa2b284a1845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리의 가방 속에서 발견된 의외의 물건?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81331</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81331</guid>
-            <pubDate>Mon, 23 Oct 2023 03:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[ZZIN 언니가 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/a03f3ea1-cac2-490f-843e-cd44512d1c9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티 남신 매력 가득, 황민현의 빛나는 뷰티 화보]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81312</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81312</guid>
-            <pubDate>Wed, 18 Oct 2023 01:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[클라랑스 No.1 더블 세럼과 함께한 배우 황민현]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/4056ed08-b586-438d-a8a0-286636a47fac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 컨디션에 따라 골라쓰는 크림 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81307</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81307</guid>
-            <pubDate>Tue, 17 Oct 2023 09:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[도톰한 크림이 피부를 감싸 안는 녹진한 감각이 생각나는 계절. 오늘 나의 피부 컨디션에 따라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/5825fb92-aab6-42e3-899f-c9395011f345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 유산소만 해? 신봉선이 알려주는 헬스장 기구 뽕 뽑는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81275</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81275</guid>
-            <pubDate>Fri, 13 Oct 2023 17:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[상체·하체·복부 다 드루와.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/0e9634d2-754e-4d31-8c46-19c026392d81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍진경이 살 안찌는 이유가 No 안주라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81265</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81265</guid>
-            <pubDate>Thu, 12 Oct 2023 15:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[현역 모델 시절부터 지금까지 한결같은 모습을 유지해온 그녀.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1bf5a628-0c35-4729-addc-56842d95b597.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-10-25T01:45:24.775Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이런 게 있어? 셀렙들이 선택한 의외의 다이어트법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81403</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81403"/>
+        <updated>2023-10-23T09:10:04.898Z</updated>
+        <content type="html"><![CDATA[다이어터들이여, 메모하라!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텅장 주의! 가을맞이 플렉스 뷰티템]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81354</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81354"/>
+        <updated>2023-10-23T09:10:04.900Z</updated>
+        <content type="html"><![CDATA[New, Need, Now! 텅장 주의! 가을맞이 플렉스를 부르는 10월의 뷰티 신상!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뒤돌아 보게 되는 향기의 정체! 욕실템 6]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81269</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81269"/>
+        <updated>2023-10-23T08:12:45.465Z</updated>
+        <content type="html"><![CDATA[머리부터 발끝까지 킁킁! 쌀쌀한 바람이 불어오기 시작하는 요즘, 스치는 순간 누구든 뒤돌아보게...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이효리의 가방 속에서 발견된 의외의 물건?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81331</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81331"/>
+        <updated>2023-10-23T03:10:03.256Z</updated>
+        <content type="html"><![CDATA[ZZIN 언니가 돌아왔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰티 남신 매력 가득, 황민현의 빛나는 뷰티 화보]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81312</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81312"/>
+        <updated>2023-10-18T01:44:40.498Z</updated>
+        <content type="html"><![CDATA[클라랑스 No.1 더블 세럼과 함께한 배우 황민현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피부 컨디션에 따라 골라쓰는 크림 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81307</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81307"/>
+        <updated>2023-10-17T09:10:18.305Z</updated>
+        <content type="html"><![CDATA[도톰한 크림이 피부를 감싸 안는 녹진한 감각이 생각나는 계절. 오늘 나의 피부 컨디션에 따라...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 유산소만 해? 신봉선이 알려주는 헬스장 기구 뽕 뽑는 법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81275</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81275"/>
+        <updated>2023-10-13T17:08:23.327Z</updated>
+        <content type="html"><![CDATA[상체·하체·복부 다 드루와.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍진경이 살 안찌는 이유가 No 안주라고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81265</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81265"/>
+        <updated>2023-10-12T15:09:38.201Z</updated>
+        <content type="html"><![CDATA[현역 모델 시절부터 지금까지 한결같은 모습을 유지해온 그녀.]]></content>
+    </entry>
+</feed>
