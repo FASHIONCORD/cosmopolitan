@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 10:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 11:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[분위기도 맛도 깡패! 성동구 송정 MZ 카페]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81544</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81544</guid>
+            <pubDate>Wed, 25 Oct 2023 11:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[성수·건대 갈 때나 왕숙천 걷다가 보면 좋은 핫플들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/3ff7540f-2db4-456f-b85e-b57cb274e3b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산 C'MON 셀럽, 먹방, 핫플까지 다 즐겨줄게!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81470</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 18 Oct 2023 07:09:41 GMT</pubDate>
             <content:encoded><![CDATA[놀랍도록 감각적인 진경픽 쇼핑 플레이스 대 공개.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/7c9e55a0-9be9-4564-a5e4-661696f7023c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 단풍 즐길 때, 전국구 단풍 명소 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81380</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81380</guid>
-            <pubDate>Wed, 18 Oct 2023 04:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[물들면 물들수록 좋다~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/fabdc66f-a4b8-4448-bd9a-63cf20b4b0ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
