@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-26T06:12:43.351Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[알고 보니 20년 지기? 셀렙들의 의외의 친목]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81610</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81610"/>
-        <updated>2023-10-25T08:12:34.044Z</updated>
-        <content type="html"><![CDATA[20년이라 가능한 독한 토크!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열심히 살고 싶다고? <유퀴즈> 속 관리 만렙 자기들♥]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81609</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81609"/>
-        <updated>2023-10-25T06:12:39.316Z</updated>
-        <content type="html"><![CDATA[열쩡! 열쩡! 열쩡!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXO 첸의 초호화 결혼식이 논란인 이유]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81607</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81607"/>
-        <updated>2023-10-25T06:12:39.322Z</updated>
-        <content type="html"><![CDATA[뒤늦은 웨딩 마치, EXO 멤버들이 총출동했다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실물깡패, 차은우는 이런것까지 관리한다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81596</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81596"/>
-        <updated>2023-10-25T04:11:42.121Z</updated>
-        <content type="html"><![CDATA[얼굴도 말이 안되는데 피지컬·미모·우정까지 관리하는 차은우.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벌써 이별? 블핑 지수와 안보현의 초고속 결별 소식]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81595</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81595"/>
-        <updated>2023-10-25T02:18:00.234Z</updated>
-        <content type="html"><![CDATA[공개 열애 2개월만에 연인에서 동료로 돌아간 둘.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정재형과 이효리, 콘택트렌즈도 빼주는 사이라고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81570</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81570"/>
-        <updated>2023-10-25T02:18:00.255Z</updated>
-        <content type="html"><![CDATA[친구 렌즈 빼줄 수 있는 사람 손?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앙큼미 폭발! 폭스클럽 김지유, 한지원, 허미진이 만들어가는 세상]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81547</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81547"/>
-        <updated>2023-10-25T02:18:00.267Z</updated>
-        <content type="html"><![CDATA[가식 없이 리얼한 세 친구의 일상과 ‘헌팅’ 에피소드로 단숨에 구독자 34만 명을 보유한 유튜...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려견이 힌트? 열애설이 이어준 다니엘헤니💜루쿠마가이]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81564</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81564"/>
-        <updated>2023-10-25T01:44:24.167Z</updated>
-        <content type="html"><![CDATA[열애설을 계기로 사귀게 되었다고요?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 26 Oct 2023 07:11:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알고 보니 20년 지기? 셀렙들의 의외의 친목]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81610</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81610</guid>
+            <pubDate>Wed, 25 Oct 2023 08:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[20년이라 가능한 독한 토크!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/2dd62eb1-0934-440e-b6e8-978746e29deb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열심히 살고 싶다고? <유퀴즈> 속 관리 만렙 자기들♥]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81609</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81609</guid>
+            <pubDate>Wed, 25 Oct 2023 06:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[열쩡! 열쩡! 열쩡!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/1098fa77-b015-4089-ab25-a0d76540a9c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EXO 첸의 초호화 결혼식이 논란인 이유]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81607</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81607</guid>
+            <pubDate>Wed, 25 Oct 2023 06:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[뒤늦은 웨딩 마치, EXO 멤버들이 총출동했다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e0ba403b-9fd4-46dd-ae0e-1e062d6db59e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실물깡패, 차은우는 이런것까지 관리한다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81596</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81596</guid>
+            <pubDate>Wed, 25 Oct 2023 04:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴도 말이 안되는데 피지컬·미모·우정까지 관리하는 차은우.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/4b0c866b-f904-449f-985c-0f172e47fdca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌써 이별? 블핑 지수와 안보현의 초고속 결별 소식]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81595</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81595</guid>
+            <pubDate>Wed, 25 Oct 2023 02:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[공개 열애 2개월만에 연인에서 동료로 돌아간 둘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/4f6373da-d4ff-4422-873e-ec5ba3fe3c0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정재형과 이효리, 콘택트렌즈도 빼주는 사이라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81570</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81570</guid>
+            <pubDate>Wed, 25 Oct 2023 02:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[친구 렌즈 빼줄 수 있는 사람 손?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/56e97d84-3217-4d37-bc87-395023dd868d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앙큼미 폭발! 폭스클럽 김지유, 한지원, 허미진이 만들어가는 세상]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81547</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81547</guid>
+            <pubDate>Wed, 25 Oct 2023 02:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[가식 없이 리얼한 세 친구의 일상과 ‘헌팅’ 에피소드로 단숨에 구독자 34만 명을 보유한 유튜...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/50954f25-34d7-44f3-965a-73f282d7f127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반려견이 힌트? 열애설이 이어준 다니엘헤니💜루쿠마가이]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81564</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81564</guid>
+            <pubDate>Wed, 25 Oct 2023 01:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[열애설을 계기로 사귀게 되었다고요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/26150661-09f0-4ef1-9306-b8291f942fb3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
