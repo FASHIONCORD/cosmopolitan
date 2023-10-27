@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 06:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 07:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런던 패션 디자이너들의 역사를 한눈에 볼 수 있는 전시!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81565</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81565</guid>
+            <pubDate>Fri, 27 Oct 2023 07:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[영국 패션 협회가 후원한 런던 디자이너들의 패션 세계를 만날 수 있는 전시 'REBEL : 30 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/a0fab5ea-f8b8-4271-afe9-c3640e1d63ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블핑 로제 스타일 가능! 블랙 재킷 하나로 가을 나기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81539</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 19 Oct 2023 06:12:37 GMT</pubDate>
             <content:encoded><![CDATA[국대 선수들 중 가장 옷 잘입는 사람은 누구?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/932e9427-f596-4c37-ae5f-78324826312f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHAT'S HOT! 10월에 핫한 패션 뉴스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81272</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81272</guid>
-            <pubDate>Wed, 18 Oct 2023 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 컬렉션의 향연! 눈이 즐거운 10월의 패션 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/206a97be-6040-4b57-ad57-2b9a77ffe53e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
