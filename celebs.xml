@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-26T23:10:08.880Z</updated>
+    <updated>2023-10-27T00:38:17.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[훈훈 그 잡채! 주윤발과 수영이 마라톤을 하는 의외의 이유]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81612</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81612"/>
+        <updated>2023-10-27T00:37:51.570Z</updated>
+        <content type="html"><![CDATA[따듯하다 따듯해.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알고 보니 20년 지기? 셀렙들의 의외의 친목]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81610</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81547"/>
         <updated>2023-10-25T02:18:00.267Z</updated>
         <content type="html"><![CDATA[가식 없이 리얼한 세 친구의 일상과 ‘헌팅’ 에피소드로 단숨에 구독자 34만 명을 보유한 유튜...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려견이 힌트? 열애설이 이어준 다니엘헤니💜루쿠마가이]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81564</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81564"/>
-        <updated>2023-10-25T01:44:24.167Z</updated>
-        <content type="html"><![CDATA[열애설을 계기로 사귀게 되었다고요?]]></content>
     </entry>
 </feed>
