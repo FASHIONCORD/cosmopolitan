@@ -1,439 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 19:08:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[런던 패션 디자이너들의 역사를 한눈에 볼 수 있는 전시!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81565</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81565</guid>
-            <pubDate>Fri, 27 Oct 2023 07:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[영국 패션 협회가 후원한 런던 디자이너들의 패션 세계를 만날 수 있는 전시 'REBEL : 30 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/a0fab5ea-f8b8-4271-afe9-c3640e1d63ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블핑 로제 스타일 가능! 블랙 재킷 하나로 가을 나기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81539</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81539</guid>
-            <pubDate>Thu, 26 Oct 2023 14:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[클래식템 블랙 재킷, 잘 나가는 셀렙들은 이렇게 입는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/e4e8fa91-14e8-4818-a3ba-267679e638d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TIMELESS, EFFORTLESS 디자이너 클레어 웨이트 켈러와의 대화]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81373</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81373</guid>
-            <pubDate>Wed, 25 Oct 2023 01:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[끌로에와 지방시의 크리에이티브 디렉터를 역임한 세계적 디자이너 클레어 웨이트 켈러가 유니클로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/f6e4fca7-d8ae-41e3-b852-39158c637186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이 비통의 빛나는 밤!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81439</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81439</guid>
-            <pubDate>Tue, 24 Oct 2023 09:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[코리아 익스클루시브 캡슐 컬렉션 런칭 행사장에서 만난 셀렙들!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/87115268-c327-44b8-b1c9-d688ca1bc6e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을에도 포인트 주는 법? 스타들의 컬러 볼캡 스타일링 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81435</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81435</guid>
-            <pubDate>Tue, 24 Oct 2023 01:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[심플한 코디에도 컬러 캡으로 분위기 UP!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/4a1d2d11-f806-42c6-9f06-6b5bc8e0d981.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘000’ 향수는 필수? 정유미의 뉴욕뉴욕 쇼핑 아이템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81406</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81406</guid>
-            <pubDate>Mon, 23 Oct 2023 11:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[내 텅장 눈 감아.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/315fb4c7-a139-482b-a07a-0b17fb49f1b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차정원·장희령·오눅 등 셀럽 가을 레더 재킷 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81397</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81397</guid>
-            <pubDate>Mon, 23 Oct 2023 03:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[레더 봄버 재킷이 대세! 셀럽들의 스타일링은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/98a07cf1-ab32-49b3-8724-f51ac8a5d0f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설영우·이강인·손흥민 등 국대 축구선수 사복패션 TOP 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81396</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81396</guid>
-            <pubDate>Thu, 19 Oct 2023 06:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[국대 선수들 중 가장 옷 잘입는 사람은 누구?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/932e9427-f596-4c37-ae5f-78324826312f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHAT'S HOT! 10월에 핫한 패션 뉴스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81272</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81272</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/206a97be-6040-4b57-ad57-2b9a77ffe53e.jpg');">
-            <a href="/article/81272">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81272">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81272">
-                    WHAT'S HOT! 10월에 핫한 패션 뉴스                </a>
-            </em>
-            <p class="excerpt">새로운 컬렉션의 향연! 눈이 즐거운 10월의 패션 뉴스.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/206a97be-6040-4b57-ad57-2b9a77ffe53e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WE'RE ODD PLAYERS! 프리지아 x 오드삭스의 콜라보!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81336</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81336</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/99dd7206-6599-4a76-919d-cc854cba5c41.jpg');">
-            <a href="/article/81336">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81336">
-                                        Celebrity Style                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81336">
-                    WE'RE ODD PLAYERS! 프리지아 x 오드삭스의 콜라보!                </a>
-            </em>
-            <p class="excerpt">매치 포인트를 외치는 순간! 승패는 정해지겠지만, 우리 오드 플레이어들에겐 중요하지 않아요. ...</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/99dd7206-6599-4a76-919d-cc854cba5c41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COSMO FOCUS! 누오보 컬렉션과 함께한 가을날의 외출]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81270</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81270</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/2cfb818e-8193-44ca-82bc-d06b27f49160.jpg');">
-            <a href="/article/81270">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81270">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81270">
-                    COSMO FOCUS! 누오보 컬렉션과 함께한 가을날의 외출                </a>
-            </em>
-            <p class="excerpt">자꾸만 걷고 싶은 이 계절! 누오보 f/w 컬렉션과 함께한 가을날의 외출.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/2cfb818e-8193-44ca-82bc-d06b27f49160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MORE AND MORE! 더하면 더할수록 좋은 패션]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81333</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81333</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/58c22d12-654f-412e-a12b-bbca84ed710b.jpg');">
-            <a href="/article/81333">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81333">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81333">
-                    MORE AND MORE! 더하면 더할수록 좋은 패션                </a>
-            </em>
-            <p class="excerpt">더하면 더할수록 좋다.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/58c22d12-654f-412e-a12b-bbca84ed710b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어둠 속을 질주하는 그녀]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81268</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81268</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/65f8cbe7-40ca-414e-98f6-058eeadb55e5.jpg');">
-            <a href="/article/81268">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81268">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81268">
-                    어둠 속을 질주하는 그녀                </a>
-            </em>
-            <p class="excerpt">어둠 속의 빛을 따라가.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/65f8cbe7-40ca-414e-98f6-058eeadb55e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에밀리 뒤 샤틀레, 막스마라의 뮤즈로 환생하다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81256</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81256</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/f6992fac-bb66-4b0c-bc9e-083cfa6b7a95.jpg');">
-            <a href="/article/81256">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81256">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81256">
-                    에밀리 뒤 샤틀레, 막스마라의 뮤즈로 환생하다                </a>
-            </em>
-            <p class="excerpt">18세기 프랑스 여성 철학자 에밀리 뒤 샤틀레, 막스마라의 뮤즈가 되어 환생하다.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/f6992fac-bb66-4b0c-bc9e-083cfa6b7a95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TIMELESS BEAUTY 랄프 로렌의 뮤즈, 신현지]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81228</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81228</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c1521e84-7394-4ca6-850c-41766da71174.jpg');">
-            <a href="/article/81228">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81228">
-                                        Trends                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81228">
-                    TIMELESS BEAUTY 랄프 로렌의 뮤즈, 신현지                </a>
-            </em>
-            <p class="excerpt">랄프 로렌 컬렉션의뮤즈로 카메라 앞에 선 신현지.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c1521e84-7394-4ca6-850c-41766da71174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성 한스푼 가득 담은 제이든 초의 공간]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81171</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81171</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/24c6908f-6cab-4e6f-951f-a80fdb9f3709.jpg');">
-                <a href="/article/81171">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81171">
-                                        Designers                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81171">
-                        감성 한스푼 가득 담은 제이든 초의 공간                    </a>
-                </em>
-                <p class="excerpt">개인 레이블 제이든 초와 엄버 포스트파스트를 이끌고 있는 디자이너 겸 크리에이티브 디렉터 조...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/24c6908f-6cab-4e6f-951f-a80fdb9f3709.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LVMH 선정 TOP 50 디자이너! 레지나 표와의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81152</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81152</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/756e2543-ba4a-4a5e-8658-a40362040a5f.jpg');">
-                <a href="/article/81152">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81152">
-                                        Designers                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81152">
-                        LVMH 선정 TOP 50 디자이너! 레지나 표와의 만남                    </a>
-                </em>
-                <p class="excerpt">“진심은 언젠가는 통해요.” 세상을 향해 진심으로 자신이 표현하고 싶은 것을 외치는 패션 디...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/756e2543-ba4a-4a5e-8658-a40362040a5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을은 트렌치코트의 계절! 트렌치코트의 A to Z]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81147</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81147</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/c936fad4-dc13-4d8b-af4d-9ee154ba5a3a.jpg');">
-                <a href="/article/81147">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81147">
-                                        Trends                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81147">
-                        가을은 트렌치코트의 계절! 트렌치코트의 A to Z                    </a>
-                </em>
-                <p class="excerpt">역사상 가장 낭만적인 아우터, 트렌치코트에 대한 모든 것. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/c936fad4-dc13-4d8b-af4d-9ee154ba5a3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크록스 오프 코트 클로그와 함께한 산하&유정의 가을맞이]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81189</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81189</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/af6b6b77-63af-4d12-843c-f0a8ff078c70.jpg');">
-                <a href="/article/81189">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81189">
-                                        How To                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81189">
-                        크록스 오프 코트 클로그와 함께한 산하&amp;유정의 가을맞이                    </a>
-                </em>
-                <p class="excerpt">산하와 유정이 선택한 바로 그 신발! 위트있는 지비츠™ 참으로 꾸민 크록스 오프 코트 클로그...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/af6b6b77-63af-4d12-843c-f0a8ff078c70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUIT YOURSELF! 매니시한 슈트를 즐기는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81164</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81164</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/064b5a02-e8c8-4ebf-a1b5-436244467fa2.jpg');">
-                <a href="/article/81164">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81164">
-                                        Trends                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81164">
-                        SUIT YOURSELF! 매니시한 슈트를 즐기는 법                    </a>
-                </em>
-                <p class="excerpt">이번 시즌 런웨이를 점령한 슈트. 여자들의 슈트를 향한 욕망에 불을 지필 디자이너들의 마스터...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/064b5a02-e8c8-4ebf-a1b5-436244467fa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레어웨이트켈러 인터뷰하러 도쿄행!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81148</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81148</guid>
-            <pubDate>Sun, 29 Oct 2023 19:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/6a916f6a-1091-417d-a628-ba9b063fd018.jpg');">
-                <a href="/article/81148">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81148">
-                                        Designers                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81148">
-                        클레어웨이트켈러 인터뷰하러 도쿄행!                    </a>
-                </em>
-                <p class="excerpt">패션 에디터 쉽지 않다. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/6a916f6a-1091-417d-a628-ba9b063fd018.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-10-29T20:09:33.571Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[런던 패션 디자이너들의 역사를 한눈에 볼 수 있는 전시!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81565</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81565"/>
+        <updated>2023-10-27T07:09:05.471Z</updated>
+        <content type="html"><![CDATA[영국 패션 협회가 후원한 런던 디자이너들의 패션 세계를 만날 수 있는 전시 'REBEL : 30 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블핑 로제 스타일 가능! 블랙 재킷 하나로 가을 나기]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81539</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81539"/>
+        <updated>2023-10-26T14:09:47.867Z</updated>
+        <content type="html"><![CDATA[클래식템 블랙 재킷, 잘 나가는 셀렙들은 이렇게 입는다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIMELESS, EFFORTLESS 디자이너 클레어 웨이트 켈러와의 대화]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81373</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81373"/>
+        <updated>2023-10-25T01:43:51.711Z</updated>
+        <content type="html"><![CDATA[끌로에와 지방시의 크리에이티브 디렉터를 역임한 세계적 디자이너 클레어 웨이트 켈러가 유니클로...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루이 비통의 빛나는 밤!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81439</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81439"/>
+        <updated>2023-10-24T09:10:02.028Z</updated>
+        <content type="html"><![CDATA[코리아 익스클루시브 캡슐 컬렉션 런칭 행사장에서 만난 셀렙들!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을에도 포인트 주는 법? 스타들의 컬러 볼캡 스타일링 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81435</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81435"/>
+        <updated>2023-10-24T01:43:43.069Z</updated>
+        <content type="html"><![CDATA[심플한 코디에도 컬러 캡으로 분위기 UP!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘000’ 향수는 필수? 정유미의 뉴욕뉴욕 쇼핑 아이템]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81406</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81406"/>
+        <updated>2023-10-23T11:08:18.551Z</updated>
+        <content type="html"><![CDATA[내 텅장 눈 감아.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차정원·장희령·오눅 등 셀럽 가을 레더 재킷 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81397</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81397"/>
+        <updated>2023-10-23T03:09:53.429Z</updated>
+        <content type="html"><![CDATA[레더 봄버 재킷이 대세! 셀럽들의 스타일링은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설영우·이강인·손흥민 등 국대 축구선수 사복패션 TOP 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81396</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81396"/>
+        <updated>2023-10-19T06:12:37.512Z</updated>
+        <content type="html"><![CDATA[국대 선수들 중 가장 옷 잘입는 사람은 누구?]]></content>
+    </entry>
+</feed>
