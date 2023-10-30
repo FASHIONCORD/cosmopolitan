@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 01:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 02:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회사원 A, 약과 먹고 살 뺐다고? 찐 다이어트 비법 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81540</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81540</guid>
+            <pubDate>Mon, 30 Oct 2023 02:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[10개월간 10키로 뺀 썰 푼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/fe68bdd5-c588-4629-b800-9ec654b0d2d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깐달걀 피부 남돌들이 추천하는 가을 보습 케어템]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81419</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 17 Oct 2023 09:10:18 GMT</pubDate>
             <content:encoded><![CDATA[도톰한 크림이 피부를 감싸 안는 녹진한 감각이 생각나는 계절. 오늘 나의 피부 컨디션에 따라...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/5825fb92-aab6-42e3-899f-c9395011f345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 유산소만 해? 신봉선이 알려주는 헬스장 기구 뽕 뽑는 법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81275</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81275</guid>
-            <pubDate>Fri, 13 Oct 2023 17:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[상체·하체·복부 다 드루와.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/0e9634d2-754e-4d31-8c46-19c026392d81.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
