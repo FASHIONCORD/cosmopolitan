@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 02:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 03:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단풍 보면서 커피 한 입. 서울·경기 단풍 맛집 카페 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81604</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81604</guid>
+            <pubDate>Mon, 30 Oct 2023 03:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[단풍 제대로 즐기고 싶다면 이번 주말에 어때요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/90669e82-eb8b-4ace-8c69-e0e071019a71.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피로에 쌓인 직장인들 메모! 애주가 강민경 추천 술안주 꿀조합 4]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81555</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 23 Oct 2023 05:09:42 GMT</pubDate>
             <content:encoded><![CDATA[피처 에디터의 좌충우돌 부산국제영화제 출장기 1편!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/20455fbe-c2e1-4fc1-ad37-f1ef17d468f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타 각인데? 비주얼 깡패인 밤 디저트 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81401</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81401</guid>
-            <pubDate>Thu, 19 Oct 2023 09:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[가을에 놓칠 수 없지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/5044ac25-65b8-400b-a186-3c617a1a6281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

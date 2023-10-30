@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 02:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 03:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀 피부 각? 한혜진의 나이트 루틴 최초 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81554</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81554</guid>
+            <pubDate>Mon, 30 Oct 2023 03:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[주름·탄력·보습 싹 다 잡는 피부 비결 알려드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/8fe3fc9e-e711-4eda-9461-ec8699edc0be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회사원 A, 약과 먹고 살 뺐다고? 찐 다이어트 비법 공개!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81540</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 18 Oct 2023 01:44:40 GMT</pubDate>
             <content:encoded><![CDATA[클라랑스 No.1 더블 세럼과 함께한 배우 황민현]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/4056ed08-b586-438d-a8a0-286636a47fac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 컨디션에 따라 골라쓰는 크림 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81307</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81307</guid>
-            <pubDate>Tue, 17 Oct 2023 09:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[도톰한 크림이 피부를 감싸 안는 녹진한 감각이 생각나는 계절. 오늘 나의 피부 컨디션에 따라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/5825fb92-aab6-42e3-899f-c9395011f345.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
