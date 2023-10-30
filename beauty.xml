@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 05:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 06:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성수동 상륙! 샤넬 조향 마스터클래스 @성수]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81490</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81490</guid>
+            <pubDate>Mon, 30 Oct 2023 06:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬이 초대하는 향수 여정, 새롭게 돌아온 샤넬 조향 마스터클래스]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/6dbd6c79-e017-4824-aea3-b7badd32ae16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀 피부 각? 한혜진의 나이트 루틴 최초 공개!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81554</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 23 Oct 2023 03:10:03 GMT</pubDate>
             <content:encoded><![CDATA[ZZIN 언니가 돌아왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/a03f3ea1-cac2-490f-843e-cd44512d1c9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티 남신 매력 가득, 황민현의 빛나는 뷰티 화보]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81312</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81312</guid>
-            <pubDate>Wed, 18 Oct 2023 01:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[클라랑스 No.1 더블 세럼과 함께한 배우 황민현]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/4056ed08-b586-438d-a8a0-286636a47fac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
