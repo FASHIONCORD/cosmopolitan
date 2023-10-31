@@ -1,72 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 22:17:14 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[몽~환 매력 림킴의 음악 취향 털이🎵]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81695</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81695</guid>
-            <pubDate>Tue, 31 Oct 2023 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[림킴 추천 가을 노래가 궁금하다면 CLICK!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하루 4시간 운동은 기본? 진서연 모닝 루틴]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81650</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81650</guid>
-            <pubDate>Tue, 31 Oct 2023 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[명상, 조깅.. 그리고 음양탕?!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한혜진의 실버타운? 홍천 별장 한눈에 보기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81631</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81631</guid>
-            <pubDate>Tue, 31 Oct 2023 06:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[이것이 바로 한혜진이 2년 걸려 완성한 대형 프로젝트의 정체!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[결혼을 부르는 N년차 셀럽 커플]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81629</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81629</guid>
-            <pubDate>Mon, 30 Oct 2023 11:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[결혼 10주년을 훌쩍 넘기고도 여전히 달콤살벌한 셀럽 커플들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/54e62acd-e611-4313-968e-6a0fd7a9e659.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지가 최초 공개하는 2024년 활동 계획은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81623</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81623</guid>
-            <pubDate>Mon, 30 Oct 2023 01:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[4분 동안 미모 공격 몰아칩니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e861f834-cd82-4797-a423-7a141e05a836.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[훈훈 그 잡채! 주윤발과 수영이 마라톤을 하는 의외의 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81612</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81612</guid>
-            <pubDate>Fri, 27 Oct 2023 00:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[따듯하다 따듯해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/916c5d72-39f1-4166-8b9b-121ce26611e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고 보니 20년 지기? 셀렙들의 의외의 친목]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81610</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81610</guid>
-            <pubDate>Wed, 25 Oct 2023 08:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[20년이라 가능한 독한 토크!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/2dd62eb1-0934-440e-b6e8-978746e29deb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열심히 살고 싶다고? <유퀴즈> 속 관리 만렙 자기들♥]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81609</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81609</guid>
-            <pubDate>Wed, 25 Oct 2023 06:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[열쩡! 열쩡! 열쩡!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/1098fa77-b015-4089-ab25-a0d76540a9c3.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-10-31T23:09:40.231Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몽~환 매력 림킴의 음악 취향 털이🎵]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81695</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81695"/>
+        <updated>2023-10-31T10:11:11.073Z</updated>
+        <content type="html"><![CDATA[림킴 추천 가을 노래가 궁금하다면 CLICK!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루 4시간 운동은 기본? 진서연 모닝 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81650</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81650"/>
+        <updated>2023-10-31T10:11:11.075Z</updated>
+        <content type="html"><![CDATA[명상, 조깅.. 그리고 음양탕?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진의 실버타운? 홍천 별장 한눈에 보기]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81631</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81631"/>
+        <updated>2023-10-31T06:13:03.969Z</updated>
+        <content type="html"><![CDATA[이것이 바로 한혜진이 2년 걸려 완성한 대형 프로젝트의 정체!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼을 부르는 N년차 셀럽 커플]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81629</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81629"/>
+        <updated>2023-10-30T11:08:23.291Z</updated>
+        <content type="html"><![CDATA[결혼 10주년을 훌쩍 넘기고도 여전히 달콤살벌한 셀럽 커플들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지가 최초 공개하는 2024년 활동 계획은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81623</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81623"/>
+        <updated>2023-10-30T01:45:13.802Z</updated>
+        <content type="html"><![CDATA[4분 동안 미모 공격 몰아칩니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[훈훈 그 잡채! 주윤발과 수영이 마라톤을 하는 의외의 이유]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81612</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81612"/>
+        <updated>2023-10-27T00:37:51.570Z</updated>
+        <content type="html"><![CDATA[따듯하다 따듯해.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알고 보니 20년 지기? 셀렙들의 의외의 친목]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81610</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81610"/>
+        <updated>2023-10-25T08:12:34.044Z</updated>
+        <content type="html"><![CDATA[20년이라 가능한 독한 토크!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열심히 살고 싶다고? <유퀴즈> 속 관리 만렙 자기들♥]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81609</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81609"/>
+        <updated>2023-10-25T06:12:39.316Z</updated>
+        <content type="html"><![CDATA[열쩡! 열쩡! 열쩡!]]></content>
+    </entry>
+</feed>
