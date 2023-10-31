@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 10:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오눅·차정원·수사샤는 어떤 안경 써? 셀럽 안경 트렌드 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81603</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81603</guid>
+            <pubDate>Tue, 31 Oct 2023 10:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[미우미우 안경·무테 안경 등 요즘 안경 트렌드 정리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/529d69ee-0039-467f-9969-1d61d5112e72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블핑 로제 영접💗 코스모 에디터들이 뿌수고 온 파리 패션 위크 출장기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81597</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 Oct 2023 01:43:43 GMT</pubDate>
             <content:encoded><![CDATA[심플한 코디에도 컬러 캡으로 분위기 UP!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/4a1d2d11-f806-42c6-9f06-6b5bc8e0d981.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘000’ 향수는 필수? 정유미의 뉴욕뉴욕 쇼핑 아이템]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81406</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81406</guid>
-            <pubDate>Mon, 23 Oct 2023 11:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[내 텅장 눈 감아.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/315fb4c7-a139-482b-a07a-0b17fb49f1b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

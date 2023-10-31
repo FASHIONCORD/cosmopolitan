@@ -4,9 +4,25 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 10:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽~환 매력 림킴의 음악 취향 털이🎵]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81695</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81695</guid>
+            <pubDate>Tue, 31 Oct 2023 10:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[림킴 추천 가을 노래가 궁금하다면 CLICK!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/e82bd0b2-e473-4802-98d5-7c1b839f2214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하루 4시간 운동은 기본? 진서연 모닝 루틴]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81650</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81650</guid>
+            <pubDate>Tue, 31 Oct 2023 10:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[명상, 조깅.. 그리고 음양탕?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/321c6ac8-79f8-43e2-994a-9d11aef15e3d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한혜진의 실버타운? 홍천 별장 한눈에 보기]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81631</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 25 Oct 2023 06:12:39 GMT</pubDate>
             <content:encoded><![CDATA[열쩡! 열쩡! 열쩡!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/1098fa77-b015-4089-ab25-a0d76540a9c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXO 첸의 초호화 결혼식이 논란인 이유]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81607</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81607</guid>
-            <pubDate>Wed, 25 Oct 2023 06:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[뒤늦은 웨딩 마치, EXO 멤버들이 총출동했다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e0ba403b-9fd4-46dd-ae0e-1e062d6db59e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실물깡패, 차은우는 이런것까지 관리한다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81596</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81596</guid>
-            <pubDate>Wed, 25 Oct 2023 04:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴도 말이 안되는데 피지컬·미모·우정까지 관리하는 차은우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/4b0c866b-f904-449f-985c-0f172e47fdca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
