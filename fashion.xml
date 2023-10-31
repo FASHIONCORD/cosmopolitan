@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 00:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 01:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블핑 로제 영접💗 코스모 에디터들이 뿌수고 온 파리 패션 위크 출장기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81597</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81597</guid>
+            <pubDate>Tue, 31 Oct 2023 01:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[추석 연휴 반납하고 다녀온 파리 출장의 전말!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/cb4dd83c-aca0-4bd7-a3dc-731953110b1f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀린느의 뉴 컬렉션!]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81568</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 23 Oct 2023 11:08:18 GMT</pubDate>
             <content:encoded><![CDATA[내 텅장 눈 감아.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/315fb4c7-a139-482b-a07a-0b17fb49f1b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차정원·장희령·오눅 등 셀럽 가을 레더 재킷 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81397</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81397</guid>
-            <pubDate>Mon, 23 Oct 2023 03:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[레더 봄버 재킷이 대세! 셀럽들의 스타일링은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/98a07cf1-ab32-49b3-8724-f51ac8a5d0f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
