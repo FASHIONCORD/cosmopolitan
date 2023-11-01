@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-01T15:18:22.842Z</updated>
+    <updated>2023-11-01T16:12:40.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브라이언이 청소에 1억 가까이 썼다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81625</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81625"/>
+        <updated>2023-11-01T16:12:26.173Z</updated>
+        <content type="html"><![CDATA[청소광 브라이언이 선택한 청소 아이템 공개!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오로지 휴식! 일본 소도시 온천 여행]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81605</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81420"/>
         <updated>2023-10-25T01:44:58.440Z</updated>
         <content type="html"><![CDATA[달콤·짭짤·고소 삼박자 고루 갖춘 할미 입맛 전용 간식들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼카가 아니라고? 강동원은 ‘0000’를 탄다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81404</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81404"/>
-        <updated>2023-10-23T08:13:11.941Z</updated>
-        <content type="html"><![CDATA[어딘가 의외인 강동원·안소희·신혜선의 차.]]></content>
     </entry>
 </feed>
