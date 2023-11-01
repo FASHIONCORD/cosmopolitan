@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 21:09:48 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가을 건조에 쉽게 박살나는 내 피부를 위한 미스트 4대장]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81752</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81752</guid>
-            <pubDate>Wed, 01 Nov 2023 16:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[가방·화장대·욕실에 쟁여 두어야 하는 못잃어 피부 수분템]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/2703d821-c966-4ef7-8e78-dc3bad36a1f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주름 순삭! 이효리·미미·임수향이 했다는 시술은 무엇?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81743</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81743</guid>
-            <pubDate>Tue, 31 Oct 2023 15:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[이들이 한 시술이라면, I am 신뢰에요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/56563ce0-1b3d-452c-b70f-6861d9fcbdab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40일 만에 28kg 감량한 진서연의 모닝 루틴 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81742</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81742</guid>
-            <pubDate>Tue, 31 Oct 2023 10:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[루틴이 인생을 바꾼다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/ac218900-f77d-4ef7-b02d-103dc84fb673.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 4시간 운동은 기본? 진서연 모닝 루틴]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81650</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81650</guid>
-            <pubDate>Tue, 31 Oct 2023 07:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[명상, 조깅.. 그리고 음양탕?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/321c6ac8-79f8-43e2-994a-9d11aef15e3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5분의 기적! 윤혜진의 부기 케어 루틴은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81559</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81559</guid>
-            <pubDate>Tue, 31 Oct 2023 03:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 식단은 묻고 더블로 가!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/f3d784c7-5f45-4ce0-9d14-0f986fbabd03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성수동 상륙! 샤넬 조향 마스터클래스 @성수]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81490</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81490</guid>
-            <pubDate>Mon, 30 Oct 2023 06:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬이 초대하는 향수 여정, 새롭게 돌아온 샤넬 조향 마스터클래스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/6dbd6c79-e017-4824-aea3-b7badd32ae16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀 피부 각? 한혜진의 나이트 루틴 최초 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81554</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81554</guid>
-            <pubDate>Mon, 30 Oct 2023 03:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[주름·탄력·보습 싹 다 잡는 피부 비결 알려드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/8fe3fc9e-e711-4eda-9461-ec8699edc0be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회사원 A, 약과 먹고 살 뺐다고? 찐 다이어트 비법 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81540</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81540</guid>
-            <pubDate>Mon, 30 Oct 2023 02:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[10개월간 10키로 뺀 썰 푼다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/fe68bdd5-c588-4629-b800-9ec654b0d2d5.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-11-01T22:10:28.758Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을 건조에 쉽게 박살나는 내 피부를 위한 미스트 4대장]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81752</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81752"/>
+        <updated>2023-11-01T16:11:54.002Z</updated>
+        <content type="html"><![CDATA[가방·화장대·욕실에 쟁여 두어야 하는 못잃어 피부 수분템]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주름 순삭! 이효리·미미·임수향이 했다는 시술은 무엇?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81743</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81743"/>
+        <updated>2023-10-31T15:10:08.850Z</updated>
+        <content type="html"><![CDATA[이들이 한 시술이라면, I am 신뢰에요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40일 만에 28kg 감량한 진서연의 모닝 루틴 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81742</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81742"/>
+        <updated>2023-10-31T10:10:28.347Z</updated>
+        <content type="html"><![CDATA[루틴이 인생을 바꾼다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루 4시간 운동은 기본? 진서연 모닝 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81650</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81650"/>
+        <updated>2023-10-31T07:09:06.878Z</updated>
+        <content type="html"><![CDATA[명상, 조깅.. 그리고 음양탕?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5분의 기적! 윤혜진의 부기 케어 루틴은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81559</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81559"/>
+        <updated>2023-10-31T03:10:03.514Z</updated>
+        <content type="html"><![CDATA[다이어트 식단은 묻고 더블로 가!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성수동 상륙! 샤넬 조향 마스터클래스 @성수]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81490</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81490"/>
+        <updated>2023-10-30T06:12:49.075Z</updated>
+        <content type="html"><![CDATA[샤넬이 초대하는 향수 여정, 새롭게 돌아온 샤넬 조향 마스터클래스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿀 피부 각? 한혜진의 나이트 루틴 최초 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81554</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81554"/>
+        <updated>2023-10-30T03:10:15.011Z</updated>
+        <content type="html"><![CDATA[주름·탄력·보습 싹 다 잡는 피부 비결 알려드림.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회사원 A, 약과 먹고 살 뺐다고? 찐 다이어트 비법 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81540</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81540"/>
+        <updated>2023-10-30T02:19:08.130Z</updated>
+        <content type="html"><![CDATA[10개월간 10키로 뺀 썰 푼다.]]></content>
+    </entry>
+</feed>
