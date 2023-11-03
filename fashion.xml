@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-11-03T05:09:01.131Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[코스모가 픽한 11월 아이템은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81624</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81624"/>
-        <updated>2023-11-02T15:09:30.227Z</updated>
-        <content type="html"><![CDATA[코스모가 픽한 11월의 아이템.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 풀뱅 열풍! 수지·장원영 등 스타들의 앞머리 스타일링 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81812</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81812"/>
-        <updated>2023-11-02T05:09:08.112Z</updated>
-        <content type="html"><![CDATA[덮머 vs 깐머, 여러분의 선택은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 시즌 대세는 RED! 헤일리비버·제니 등 셀럽 RED 패션]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81770</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81770"/>
-        <updated>2023-11-02T01:44:14.257Z</updated>
-        <content type="html"><![CDATA[23 F/W 패션 트렌드는 레드가 포인트!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙력 세포 자극! <이두나!> 속 수지 패션]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81740</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81740"/>
-        <updated>2023-11-01T16:11:42.814Z</updated>
-        <content type="html"><![CDATA[아이돌은 사복 이렇게 입나?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니 온라인 플래그십 스토어 오픈!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81708</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81708"/>
-        <updated>2023-11-01T16:11:42.818Z</updated>
-        <content type="html"><![CDATA[186년 역사의 주얼리 하우스 티파니가 온라인 플래그십 스토어를 오픈한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀라노 출장 생존기! 세상 이상한(?) 코스모 팀이 뭉쳤다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81689</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81689"/>
-        <updated>2023-10-31T15:09:58.231Z</updated>
-        <content type="html"><![CDATA[패션 위크에서 바닥에 주저 앉은 썰 푼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오눅·차정원·수사샤는 어떤 안경 써? 셀럽 안경 트렌드 6]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81603</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81603"/>
-        <updated>2023-10-31T10:09:51.408Z</updated>
-        <content type="html"><![CDATA[미우미우 안경·무테 안경 등 요즘 안경 트렌드 정리!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블핑 로제 영접💗 코스모 에디터들이 뿌수고 온 파리 패션 위크 출장기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81597</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81597"/>
-        <updated>2023-10-31T01:44:21.674Z</updated>
-        <content type="html"><![CDATA[추석 연휴 반납하고 다녀온 파리 출장의 전말!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 03 Nov 2023 06:12:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스모가 픽한 11월 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81624</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81624</guid>
+            <pubDate>Thu, 02 Nov 2023 15:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[코스모가 픽한 11월의 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/6bab6f2c-611f-4114-ac63-33bbebc83338.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 풀뱅 열풍! 수지·장원영 등 스타들의 앞머리 스타일링 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81812</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81812</guid>
+            <pubDate>Thu, 02 Nov 2023 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[덮머 vs 깐머, 여러분의 선택은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/ea780cdb-6a10-459c-9f0a-1d0f98497c90.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 시즌 대세는 RED! 헤일리비버·제니 등 셀럽 RED 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81770</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81770</guid>
+            <pubDate>Thu, 02 Nov 2023 01:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[23 F/W 패션 트렌드는 레드가 포인트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/ffa7f267-02af-4b95-adc6-f90d4bf855dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙력 세포 자극! <이두나!> 속 수지 패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81740</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81740</guid>
+            <pubDate>Wed, 01 Nov 2023 16:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌은 사복 이렇게 입나?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/1746714a-3b94-40d1-b483-0a71d68edd6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티파니 온라인 플래그십 스토어 오픈!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81708</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81708</guid>
+            <pubDate>Wed, 01 Nov 2023 16:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[186년 역사의 주얼리 하우스 티파니가 온라인 플래그십 스토어를 오픈한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/14f50f5e-9412-4e50-a341-36a4b8c37ab7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀라노 출장 생존기! 세상 이상한(?) 코스모 팀이 뭉쳤다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81689</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81689</guid>
+            <pubDate>Tue, 31 Oct 2023 15:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[패션 위크에서 바닥에 주저 앉은 썰 푼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/b1984d34-002a-4343-9e0e-88fa587d48d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오눅·차정원·수사샤는 어떤 안경 써? 셀럽 안경 트렌드 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81603</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81603</guid>
+            <pubDate>Tue, 31 Oct 2023 10:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[미우미우 안경·무테 안경 등 요즘 안경 트렌드 정리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/529d69ee-0039-467f-9969-1d61d5112e72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블핑 로제 영접💗 코스모 에디터들이 뿌수고 온 파리 패션 위크 출장기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81597</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81597</guid>
+            <pubDate>Tue, 31 Oct 2023 01:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[추석 연휴 반납하고 다녀온 파리 출장의 전말!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/cb4dd83c-aca0-4bd7-a3dc-731953110b1f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
