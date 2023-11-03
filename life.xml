@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 12:17:40 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[자취러 주목! 조명처럼 아름다운 캔들 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81746</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81746</guid>
-            <pubDate>Thu, 02 Nov 2023 15:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[떨어지는 해를 응시하듯 가만히 바라보기 좋은 캔들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/8f23043f-f70e-48c8-82ce-338056128286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너로 정했다! 지금 딱 좋은 K-드라마들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81754</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81754</guid>
-            <pubDate>Thu, 02 Nov 2023 05:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[재미와 감동, 아껴 쓰고 다시 쓰고 빨아 쓸 준비시키는 드라마들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/948bdd16-0724-42f6-b66d-2b3b99d28307.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폼 미쳤다! 요즘 핫한 서울 팝업스토어 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81745</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81745</guid>
-            <pubDate>Thu, 02 Nov 2023 03:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[당장 좌표 안 찍고 뭐해!?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/ad29728e-5c0d-4a86-9b34-b97a07c32a9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허쉬 초코바이츠 싣고 성수 찾아간 ‘코스모 트레일러’ 2,500명 방문!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81736</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81736</guid>
-            <pubDate>Thu, 02 Nov 2023 01:44:59 GMT</pubDate>
-            <content:encoded><![CDATA[코스모 트레일러 허쉬와 연세대 찍고, 성신여대 찍고, 쎈느까지! 4일 동안 달달함을 전파하다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/b1a62412-c030-4ad0-8288-0bd1288faa73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달달함 한도 초과! 최고급 호텔 디저트로 변신한 가을 제철 과일들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81662</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81662</guid>
-            <pubDate>Thu, 02 Nov 2023 00:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[샤인 머스캣부터 무화과까지! 달다 달아~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/fdacf5a8-187c-4546-8137-e400d9449457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브라이언이 청소에 1억 가까이 썼다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81625</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81625</guid>
-            <pubDate>Wed, 01 Nov 2023 16:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[청소광 브라이언이 선택한 청소 아이템 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/f5c831d2-c3dc-404c-84b2-168564be5da0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오로지 휴식! 일본 소도시 온천 여행]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81605</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81605</guid>
-            <pubDate>Mon, 30 Oct 2023 06:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[직항으로 훌쩍 다녀올 수 있는 힐링 코스! 일본 소도시 온천 여행.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/1fe1ddfb-99a3-4fd6-874f-22f49fa0ae85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단풍 보면서 커피 한 입. 서울·경기 단풍 맛집 카페 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81604</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81604</guid>
-            <pubDate>Mon, 30 Oct 2023 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[단풍 제대로 즐기고 싶다면 이번 주말에 어때요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/90669e82-eb8b-4ace-8c69-e0e071019a71.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-11-03T13:12:42.820Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자취러 주목! 조명처럼 아름다운 캔들 6]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81746</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81746"/>
+        <updated>2023-11-02T15:10:13.396Z</updated>
+        <content type="html"><![CDATA[떨어지는 해를 응시하듯 가만히 바라보기 좋은 캔들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너로 정했다! 지금 딱 좋은 K-드라마들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81754</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81754"/>
+        <updated>2023-11-02T05:09:44.178Z</updated>
+        <content type="html"><![CDATA[재미와 감동, 아껴 쓰고 다시 쓰고 빨아 쓸 준비시키는 드라마들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폼 미쳤다! 요즘 핫한 서울 팝업스토어 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81745</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81745"/>
+        <updated>2023-11-02T03:11:24.754Z</updated>
+        <content type="html"><![CDATA[당장 좌표 안 찍고 뭐해!?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허쉬 초코바이츠 싣고 성수 찾아간 ‘코스모 트레일러’ 2,500명 방문!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81736</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81736"/>
+        <updated>2023-11-02T01:44:59.615Z</updated>
+        <content type="html"><![CDATA[코스모 트레일러 허쉬와 연세대 찍고, 성신여대 찍고, 쎈느까지! 4일 동안 달달함을 전파하다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달달함 한도 초과! 최고급 호텔 디저트로 변신한 가을 제철 과일들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81662</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81662"/>
+        <updated>2023-11-02T00:39:23.017Z</updated>
+        <content type="html"><![CDATA[샤인 머스캣부터 무화과까지! 달다 달아~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라이언이 청소에 1억 가까이 썼다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81625</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81625"/>
+        <updated>2023-11-01T16:12:26.173Z</updated>
+        <content type="html"><![CDATA[청소광 브라이언이 선택한 청소 아이템 공개!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오로지 휴식! 일본 소도시 온천 여행]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81605</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81605"/>
+        <updated>2023-10-30T06:13:39.938Z</updated>
+        <content type="html"><![CDATA[직항으로 훌쩍 다녀올 수 있는 힐링 코스! 일본 소도시 온천 여행.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단풍 보면서 커피 한 입. 서울·경기 단풍 맛집 카페 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81604</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81604"/>
+        <updated>2023-10-30T03:11:21.249Z</updated>
+        <content type="html"><![CDATA[단풍 제대로 즐기고 싶다면 이번 주말에 어때요?]]></content>
+    </entry>
+</feed>
