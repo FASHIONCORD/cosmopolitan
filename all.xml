@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 23:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 00:39:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,13 @@
             <content:encoded><![CDATA[샤넬이 초대하는 향수 여정, 새롭게 돌아온 샤넬 조향 마스터클래스]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[딸·아들바보 인증한 스타들은 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81814</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81814</guid>
+            <pubDate>Fri, 03 Nov 2023 00:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[엄마 미소 유발하는 스타들과 자녀 모멘트.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[엄정화 옆에 누구? 故 최진실 딸 최준희 데뷔 임박?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81807</link>
             <guid>https://www.cosmopolitan.co.kr/article/81807</guid>
@@ -325,13 +332,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81631</guid>
             <pubDate>Tue, 31 Oct 2023 06:13:03 GMT</pubDate>
             <content:encoded><![CDATA[이것이 바로 한혜진이 2년 걸려 완성한 대형 프로젝트의 정체!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[결혼을 부르는 N년차 셀럽 커플 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81629</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81629</guid>
-            <pubDate>Mon, 30 Oct 2023 11:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[결혼 10주년을 훌쩍 넘기고도 여전히 달콤살벌한 셀럽 커플들.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
