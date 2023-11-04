@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 08:11:09 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[딸·아들바보 인증한 스타들은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81814</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81814</guid>
-            <pubDate>Fri, 03 Nov 2023 00:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[엄마 미소 유발하는 스타들과 자녀 모멘트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/be9b6930-f3de-45bb-b8ed-75b9149c0c7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄정화 옆에 누구? 故 최진실 딸 최준희 데뷔 임박?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81807</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81807</guid>
-            <pubDate>Thu, 02 Nov 2023 03:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[이모들은 응원하지만 우려의 목소리도 크다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/26e5f366-f5a2-433a-969d-19f503bfdef9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청하X박재범, 화사X싸이, 우린 제법 잘 어울려요♥️]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81791</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81791</guid>
-            <pubDate>Thu, 02 Nov 2023 01:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[대표님 믿고 옮겼어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/b1fe141a-33e3-47bb-889d-039960e55533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김영대, 잘생긴 외모에 미친 비율·브레인까지 갖춘 뇌섹남이라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81768</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81768</guid>
-            <pubDate>Thu, 02 Nov 2023 00:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[예능에 나와 필모 하나 추가하는 남자 여기요~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/30be2466-1e09-4b51-bead-e00e36a6a3d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ever After 배우 김영대와 표예진이 다시 쓰는 <낮에 뜨는 달>의 엔딩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81551</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81551</guid>
-            <pubDate>Wed, 01 Nov 2023 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[쏟아지는 햇살 아래 그들은 그 후로 쭉 행복하게 살았습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/beb5aa99-5daf-476e-87d8-86f3d71ebf1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽~환 매력 림킴의 음악 취향 털이🎵]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81695</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81695</guid>
-            <pubDate>Tue, 31 Oct 2023 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[림킴 추천 가을 노래가 궁금하다면 CLICK!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/e82bd0b2-e473-4802-98d5-7c1b839f2214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 4시간 운동은 기본? 진서연 모닝 루틴]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81650</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81650</guid>
-            <pubDate>Tue, 31 Oct 2023 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[명상, 조깅.. 그리고 음양탕?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/321c6ac8-79f8-43e2-994a-9d11aef15e3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한혜진의 실버타운? 홍천 별장 한눈에 보기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81631</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81631</guid>
-            <pubDate>Tue, 31 Oct 2023 06:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[이것이 바로 한혜진이 2년 걸려 완성한 대형 프로젝트의 정체!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/ed99c5c5-5d15-41a9-a950-da133ad6ed6e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-11-04T09:08:45.523Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딸·아들바보 인증한 스타들은 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81814</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81814"/>
+        <updated>2023-11-03T00:38:34.005Z</updated>
+        <content type="html"><![CDATA[엄마 미소 유발하는 스타들과 자녀 모멘트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄정화 옆에 누구? 故 최진실 딸 최준희 데뷔 임박?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81807</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81807"/>
+        <updated>2023-11-02T03:11:04.728Z</updated>
+        <content type="html"><![CDATA[이모들은 응원하지만 우려의 목소리도 크다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청하X박재범, 화사X싸이, 우린 제법 잘 어울려요♥️]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81791</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81791"/>
+        <updated>2023-11-02T01:44:34.403Z</updated>
+        <content type="html"><![CDATA[대표님 믿고 옮겼어요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 김영대, 잘생긴 외모에 미친 비율·브레인까지 갖춘 뇌섹남이라고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81768</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81768"/>
+        <updated>2023-11-02T00:38:48.037Z</updated>
+        <content type="html"><![CDATA[예능에 나와 필모 하나 추가하는 남자 여기요~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ever After 배우 김영대와 표예진이 다시 쓰는 <낮에 뜨는 달>의 엔딩]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81551</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81551"/>
+        <updated>2023-11-01T08:12:27.261Z</updated>
+        <content type="html"><![CDATA[쏟아지는 햇살 아래 그들은 그 후로 쭉 행복하게 살았습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몽~환 매력 림킴의 음악 취향 털이🎵]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81695</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81695"/>
+        <updated>2023-10-31T10:11:11.073Z</updated>
+        <content type="html"><![CDATA[림킴 추천 가을 노래가 궁금하다면 CLICK!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루 4시간 운동은 기본? 진서연 모닝 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81650</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81650"/>
+        <updated>2023-10-31T10:11:11.075Z</updated>
+        <content type="html"><![CDATA[명상, 조깅.. 그리고 음양탕?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진의 실버타운? 홍천 별장 한눈에 보기]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81631</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81631"/>
+        <updated>2023-10-31T06:13:03.969Z</updated>
+        <content type="html"><![CDATA[이것이 바로 한혜진이 2년 걸려 완성한 대형 프로젝트의 정체!]]></content>
+    </entry>
+</feed>
