@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-11-06T02:22:01.606Z</updated>
+    <updated>2023-11-06T03:11:17.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여자 아이돌 속눈썹의 비밀이 궁금해?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81633</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81633"/>
+        <updated>2023-11-06T03:10:36.569Z</updated>
+        <content type="html"><![CDATA[요즘 대세, 가닥가닥 살아 있는 인형 같은 여돌 속눈썹 따라잡기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[62년생 실환가요? 박준금의 피부 관리 노하우]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81836</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81752"/>
         <updated>2023-11-01T16:11:54.002Z</updated>
         <content type="html"><![CDATA[가방·화장대·욕실에 쟁여 두어야 하는 못잃어 피부 수분템]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주름 순삭! 이효리·미미·임수향이 했다는 시술은 무엇?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81743</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81743"/>
-        <updated>2023-10-31T15:10:08.850Z</updated>
-        <content type="html"><![CDATA[이들이 한 시술이라면, I am 신뢰에요.]]></content>
     </entry>
 </feed>

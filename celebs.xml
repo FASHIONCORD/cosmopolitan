@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-11-06T02:22:01.609Z</updated>
+    <updated>2023-11-06T03:11:17.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꿀 뚝뚝!🍯 영대&예진의 릴레이 하트가 궁금해?🩷]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81822</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81822"/>
+        <updated>2023-11-06T03:10:45.941Z</updated>
+        <content type="html"><![CDATA[눈만 마주쳐도 웃음 팡팡 터지는 김영대 &amp; 표예진의 극강 케미!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[딸·아들바보 인증한 스타들은 누구?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81814</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81650"/>
         <updated>2023-10-31T10:11:11.075Z</updated>
         <content type="html"><![CDATA[명상, 조깅.. 그리고 음양탕?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진의 실버타운? 홍천 별장 한눈에 보기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81631</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81631"/>
-        <updated>2023-10-31T06:13:03.969Z</updated>
-        <content type="html"><![CDATA[이것이 바로 한혜진이 2년 걸려 완성한 대형 프로젝트의 정체!]]></content>
     </entry>
 </feed>
