@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 00:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 01:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워터밤 여신에서 겨울 여신으로!
+권은비가 제안하는 겨울 스타일링]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36837937&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36837937&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 06 Nov 2023 01:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;과 함께한 디지털 커버 공개!▼ 클릭 ▼ Fashion Editor 김소연 Photographer 배준선 Film 배준선 Set stylist 권도형 Hair 이보람(위위 아뜰리에) Makeup 장아영(위위 아뜰리에)···]]></content:encoded>
+            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fphinf.pstatic.net%2Fimage.nmv%2Fpost_2023_11_06_0%2Fac1161ec-7c42-11ee-ba6d-80615f0bcdae_01.jpg%22&type=fb500_195" length="0" type="image//"/>
+        </item>
         <item>
             <title><![CDATA[가을엔 등산~ 
 등산로 입구 찐 맛집 추천 3]]></title>
@@ -157,13 +166,6 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36696997&amp;memberNo=11800362</guid>
             <pubDate>Thu, 02 Nov 2023 21:08:36 GMT</pubDate>
             <content:encoded><![CDATA[저도 입주 가능할까요?▼ 클릭 ▼레이디 제인♥임현태 부부 신혼집 공개!최근 예능 프로그램 〈동상이몽 2- 너는 내 운명〉을 통해 60평대 고급 신혼집을 공개한 레이디 제인♥임현태 부부. 정원이 딸린 럭···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유빈, 권순우 커플 결국 결별했다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36686735&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36686735&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 02 Nov 2023 21:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[권순우 선수와 원더걸스 유빈이 결국 헤어졌다▼ 클릭 ▼아홉 살 차이 연상 연하 커플로 화제를 모았던 테니스 선수 권순우와 원더걸스 유빈이 5개월 연애 끝에 결국 결별했다. 발단은 2023 항저우 아시안게임. 금메달···]]></content:encoded>
         </item>
     </channel>
 </rss>

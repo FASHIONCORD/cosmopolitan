@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-11-06T00:41:10.673Z</updated>
+    <updated>2023-11-06T01:51:16.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐시미어 니트 맛집, 배리와 소피아 코폴라의 우아한 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81842</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81842"/>
+        <updated>2023-11-06T01:49:59.393Z</updated>
+        <content type="html"><![CDATA[이번 시즌 절대 놓치면 안 되는 컬래버레이션, 배리 X 소피아 코폴라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힙하다 힙해! 피어싱 한소희부터 전신 타투 나나까지?!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81833</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81740"/>
         <updated>2023-11-01T16:11:42.814Z</updated>
         <content type="html"><![CDATA[아이돌은 사복 이렇게 입나?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니 온라인 플래그십 스토어 오픈!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81708</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81708"/>
-        <updated>2023-11-01T16:11:42.818Z</updated>
-        <content type="html"><![CDATA[186년 역사의 주얼리 하우스 티파니가 온라인 플래그십 스토어를 오픈한다.]]></content>
     </entry>
 </feed>
