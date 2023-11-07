@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-11-07T14:09:29.736Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이서진 후배? 연예인 자녀들의 뉴욕대 입학 열풍!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81835</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81835"/>
-        <updated>2023-11-07T01:47:05.703Z</updated>
-        <content type="html"><![CDATA[자식 농사 성공했네~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸크🔥 비행기 조종사 윤희준 기장님에게 듣는 요즘 항공사✈️]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81831</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81831"/>
-        <updated>2023-11-07T01:47:05.706Z</updated>
-        <content type="html"><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿀 뚝뚝!🍯 영대&예진의 릴레이 하트가 궁금해?🩷]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81822</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81822"/>
-        <updated>2023-11-06T03:10:45.941Z</updated>
-        <content type="html"><![CDATA[눈만 마주쳐도 웃음 팡팡 터지는 김영대 &amp; 표예진의 극강 케미!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딸·아들바보 인증한 스타들은 누구?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81814</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81814"/>
-        <updated>2023-11-03T00:38:34.005Z</updated>
-        <content type="html"><![CDATA[엄마 미소 유발하는 스타들과 자녀 모멘트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화 옆에 누구? 故 최진실 딸 최준희 데뷔 임박?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81807</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81807"/>
-        <updated>2023-11-02T03:11:04.728Z</updated>
-        <content type="html"><![CDATA[이모들은 응원하지만 우려의 목소리도 크다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하X박재범, 화사X싸이, 우린 제법 잘 어울려요♥️]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81791</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81791"/>
-        <updated>2023-11-02T01:44:34.403Z</updated>
-        <content type="html"><![CDATA[대표님 믿고 옮겼어요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 김영대, 잘생긴 외모에 미친 비율·브레인까지 갖춘 뇌섹남이라고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81768</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81768"/>
-        <updated>2023-11-02T00:38:48.037Z</updated>
-        <content type="html"><![CDATA[예능에 나와 필모 하나 추가하는 남자 여기요~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ever After 배우 김영대와 표예진이 다시 쓰는 <낮에 뜨는 달>의 엔딩]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81551</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81551"/>
-        <updated>2023-11-01T08:12:27.261Z</updated>
-        <content type="html"><![CDATA[쏟아지는 햇살 아래 그들은 그 후로 쭉 행복하게 살았습니다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 07 Nov 2023 15:10:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤이니 태민, 세븐틴 정한의 동안 비법이 00이라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81838</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81838</guid>
+            <pubDate>Tue, 07 Nov 2023 15:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[피부 관리부터 다이어트까지, 남자 아이돌 동안 플랜 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/731e74c6-a713-4937-b459-21c5a780827c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이서진 후배? 연예인 자녀들의 뉴욕대 입학 열풍!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81835</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81835</guid>
+            <pubDate>Tue, 07 Nov 2023 01:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[자식 농사 성공했네~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/9d6ec492-091c-4052-b324-990922304bc5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸크🔥 비행기 조종사 윤희준 기장님에게 듣는 요즘 항공사✈️]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81831</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81831</guid>
+            <pubDate>Tue, 07 Nov 2023 01:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/f864b357-2f3e-4c6a-b0b4-8831a6cc12d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿀 뚝뚝!🍯 영대&예진의 릴레이 하트가 궁금해?🩷]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81822</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81822</guid>
+            <pubDate>Mon, 06 Nov 2023 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[눈만 마주쳐도 웃음 팡팡 터지는 김영대 &amp; 표예진의 극강 케미!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/060831db-7bae-4197-b47b-e21a995248be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딸·아들바보 인증한 스타들은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81814</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81814</guid>
+            <pubDate>Fri, 03 Nov 2023 00:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[엄마 미소 유발하는 스타들과 자녀 모멘트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/be9b6930-f3de-45bb-b8ed-75b9149c0c7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엄정화 옆에 누구? 故 최진실 딸 최준희 데뷔 임박?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81807</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81807</guid>
+            <pubDate>Thu, 02 Nov 2023 03:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[이모들은 응원하지만 우려의 목소리도 크다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/26e5f366-f5a2-433a-969d-19f503bfdef9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청하X박재범, 화사X싸이, 우린 제법 잘 어울려요♥️]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81791</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81791</guid>
+            <pubDate>Thu, 02 Nov 2023 01:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[대표님 믿고 옮겼어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/b1fe141a-33e3-47bb-889d-039960e55533.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 김영대, 잘생긴 외모에 미친 비율·브레인까지 갖춘 뇌섹남이라고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81768</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81768</guid>
+            <pubDate>Thu, 02 Nov 2023 00:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[예능에 나와 필모 하나 추가하는 남자 여기요~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/30be2466-1e09-4b51-bead-e00e36a6a3d3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
