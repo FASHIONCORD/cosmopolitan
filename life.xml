@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 04:11:52 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이건 읽어야 해! 신간의 바다 속 에디터가 엄선한 4권의 책]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81749</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81749</guid>
-            <pubDate>Mon, 06 Nov 2023 15:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[넘쳐나는 신간의 바다에서 진흙 속 진주 같은 4권을 엄선했다. 뭐부터 읽어야 할지 모르겠다고?...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/ad0802a4-7a49-4635-ab91-a4c23a46f7a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수능 D-DAY 시작! 센스터지는 수험 선물 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81748</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81748</guid>
-            <pubDate>Mon, 06 Nov 2023 05:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[중요한 시험을 앞둔 수험생들에게, 응원하는 마음을 담아.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/b218a4c4-e880-4f1e-9b71-395803a657c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을엔 등산~ 등산로 입구 찐 맛집 추천 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81843</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81843</guid>
-            <pubDate>Mon, 06 Nov 2023 02:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[에디터가 직접 다녀온 맛집만을 엄선했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/e2480ef8-e283-40db-a5c9-1c815d96b4cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불 때, 오뎅바! 서울 오뎅 맛집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81839</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81839</guid>
-            <pubDate>Mon, 06 Nov 2023 01:50:35 GMT</pubDate>
-            <content:encoded><![CDATA[술 한 잔에 따뜻한 오뎅 한입, 느낌 아니까~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/f36c5ff4-23f0-447a-ba90-c53dc7d71787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인증샷 필수! 빅 사이즈 디저트 맛집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81834</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81834</guid>
-            <pubDate>Sat, 04 Nov 2023 15:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[뚱뚱해서 오히려 좋아~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/c4426a9a-5f19-4536-944e-46613db01b91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸크🔥 비행기 조종사 윤희준 기장님에게 듣는 요즘 항공사✈️]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81831</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81831</guid>
-            <pubDate>Fri, 03 Nov 2023 15:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/f864b357-2f3e-4c6a-b0b4-8831a6cc12d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자취러 주목! 조명처럼 아름다운 캔들 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81746</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81746</guid>
-            <pubDate>Thu, 02 Nov 2023 15:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[떨어지는 해를 응시하듯 가만히 바라보기 좋은 캔들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/8f23043f-f70e-48c8-82ce-338056128286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너로 정했다! 지금 딱 좋은 K-드라마들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81754</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81754</guid>
-            <pubDate>Thu, 02 Nov 2023 05:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[재미와 감동, 아껴 쓰고 다시 쓰고 빨아 쓸 준비시키는 드라마들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/948bdd16-0724-42f6-b66d-2b3b99d28307.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-11-07T05:09:40.385Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이건 읽어야 해! 신간의 바다 속 에디터가 엄선한 4권의 책]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81749</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81749"/>
+        <updated>2023-11-06T15:11:27.066Z</updated>
+        <content type="html"><![CDATA[넘쳐나는 신간의 바다에서 진흙 속 진주 같은 4권을 엄선했다. 뭐부터 읽어야 할지 모르겠다고?...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수능 D-DAY 시작! 센스터지는 수험 선물 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81748</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81748"/>
+        <updated>2023-11-06T05:11:07.037Z</updated>
+        <content type="html"><![CDATA[중요한 시험을 앞둔 수험생들에게, 응원하는 마음을 담아.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을엔 등산~ 등산로 입구 찐 맛집 추천 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81843</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81843"/>
+        <updated>2023-11-06T02:21:53.685Z</updated>
+        <content type="html"><![CDATA[에디터가 직접 다녀온 맛집만을 엄선했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬바람 불 때, 오뎅바! 서울 오뎅 맛집 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81839</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81839"/>
+        <updated>2023-11-06T01:50:35.099Z</updated>
+        <content type="html"><![CDATA[술 한 잔에 따뜻한 오뎅 한입, 느낌 아니까~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인증샷 필수! 빅 사이즈 디저트 맛집 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81834</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81834"/>
+        <updated>2023-11-04T15:09:41.099Z</updated>
+        <content type="html"><![CDATA[뚱뚱해서 오히려 좋아~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[걸크🔥 비행기 조종사 윤희준 기장님에게 듣는 요즘 항공사✈️]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81831</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81831"/>
+        <updated>2023-11-03T15:10:16.256Z</updated>
+        <content type="html"><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자취러 주목! 조명처럼 아름다운 캔들 6]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81746</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81746"/>
+        <updated>2023-11-02T15:10:13.396Z</updated>
+        <content type="html"><![CDATA[떨어지는 해를 응시하듯 가만히 바라보기 좋은 캔들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너로 정했다! 지금 딱 좋은 K-드라마들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81754</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81754"/>
+        <updated>2023-11-02T05:09:44.178Z</updated>
+        <content type="html"><![CDATA[재미와 감동, 아껴 쓰고 다시 쓰고 빨아 쓸 준비시키는 드라마들.]]></content>
+    </entry>
+</feed>
