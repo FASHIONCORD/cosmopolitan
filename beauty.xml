@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-11-07T10:10:48.205Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이 제품만 있으면 정전기 걱정은 NO!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81638</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81638"/>
-        <updated>2023-11-06T15:10:53.212Z</updated>
-        <content type="html"><![CDATA[정전기 이제 그만! 머리가 부스스하게 일어나고 온몸에 찌릿함이 느껴지는 정전기 공격으로부터 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자 보다 예쁜 남자 아이돌의 뷰티 시크릿!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81636</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81636"/>
-        <updated>2023-11-06T05:10:22.753Z</updated>
-        <content type="html"><![CDATA[여자보다 예쁜 남돌의 뷰티 시크릿.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자 아이돌 속눈썹의 비밀이 궁금해?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81633</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81633"/>
-        <updated>2023-11-06T03:10:36.569Z</updated>
-        <content type="html"><![CDATA[요즘 대세, 가닥가닥 살아 있는 인형 같은 여돌 속눈썹 따라잡기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[62년생 실환가요? 박준금의 피부 관리 노하우]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81836</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81836"/>
-        <updated>2023-11-06T02:21:28.920Z</updated>
-        <content type="html"><![CDATA[무려 1일 3팩을 한다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버섯을 바른다고? 버섯 성분이 들어간 코스메틱!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81627</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81627"/>
-        <updated>2023-11-05T15:08:01.844Z</updated>
-        <content type="html"><![CDATA[버섯을 바른다고? 화이트 트러플, 흰목이버섯, 차가버섯 등 효과 만점으로 구매 욕구 뿜뿜한 버...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼퓸 프레데릭 말 서울 플래그십 스토어 오픈!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81626</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81626"/>
-        <updated>2023-11-04T15:09:13.271Z</updated>
-        <content type="html"><![CDATA[이제 막 문을 연 에디션 드 퍼퓸 프레데릭 말 서울 플래그십 스토어의 특별함에 대하여.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리, 굴욕샷 메이크업이 이효리의 요청이었다고? (feat. 피부 시술 고백)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81811</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81811"/>
-        <updated>2023-11-03T15:09:47.465Z</updated>
-        <content type="html"><![CDATA[문제의 그날, 대체 무슨 일이 있었던 걸까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉬는 건 놉! 힙으뜸의 생리 전 운동 ‘똑똑하게’ 하는 방법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81797</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81797"/>
-        <updated>2023-11-02T15:09:40.210Z</updated>
-        <content type="html"><![CDATA[으뜸 언니의 가르침이면 킹정이지.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 07 Nov 2023 11:09:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 제품만 있으면 정전기 걱정은 NO!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81638</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81638</guid>
+            <pubDate>Mon, 06 Nov 2023 15:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[정전기 이제 그만! 머리가 부스스하게 일어나고 온몸에 찌릿함이 느껴지는 정전기 공격으로부터 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/05/8e768557-42a7-412a-9e19-56646909ddc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여자 보다 예쁜 남자 아이돌의 뷰티 시크릿!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81636</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81636</guid>
+            <pubDate>Mon, 06 Nov 2023 05:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[여자보다 예쁜 남돌의 뷰티 시크릿.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/5f56c099-9234-471a-91fb-a69567a4d607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여자 아이돌 속눈썹의 비밀이 궁금해?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81633</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81633</guid>
+            <pubDate>Mon, 06 Nov 2023 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 대세, 가닥가닥 살아 있는 인형 같은 여돌 속눈썹 따라잡기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/f05a3ead-17a3-432a-b17d-64a8543bca4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[62년생 실환가요? 박준금의 피부 관리 노하우]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81836</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81836</guid>
+            <pubDate>Mon, 06 Nov 2023 02:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[무려 1일 3팩을 한다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/5096679d-3f3c-4f95-aef3-452165289f5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버섯을 바른다고? 버섯 성분이 들어간 코스메틱!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81627</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81627</guid>
+            <pubDate>Sun, 05 Nov 2023 15:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[버섯을 바른다고? 화이트 트러플, 흰목이버섯, 차가버섯 등 효과 만점으로 구매 욕구 뿜뿜한 버...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/9e4c5455-5247-4b61-8562-fc501b34a51b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼퓸 프레데릭 말 서울 플래그십 스토어 오픈!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81626</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81626</guid>
+            <pubDate>Sat, 04 Nov 2023 15:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[이제 막 문을 연 에디션 드 퍼퓸 프레데릭 말 서울 플래그십 스토어의 특별함에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/2ec35d4e-1708-4343-8b26-7874f7d8062e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리, 굴욕샷 메이크업이 이효리의 요청이었다고? (feat. 피부 시술 고백)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81811</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81811</guid>
+            <pubDate>Fri, 03 Nov 2023 15:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[문제의 그날, 대체 무슨 일이 있었던 걸까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/197126ff-515c-476a-84d4-3f8e79e20d10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쉬는 건 놉! 힙으뜸의 생리 전 운동 ‘똑똑하게’ 하는 방법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81797</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81797</guid>
+            <pubDate>Thu, 02 Nov 2023 15:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[으뜸 언니의 가르침이면 킹정이지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/4703bfa8-6382-4ec2-94de-d0724914bbbb.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
