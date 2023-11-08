@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 14:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 15:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[사서 고생 아니고 자기 만족.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제니·장원영의 촉촉 피부 비밀 병기, 가을 파운데이션 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81926</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81926</guid>
+            <pubDate>Wed, 08 Nov 2023 15:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[얇고 촉촉한데 커버까지 다 잘해서 화장할 맛 나게 하는 여돌 PICK 파데.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[약국에서 구할 수 있는 뷰티꿀팁 대방출! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81924</link>
             <guid>https://www.cosmopolitan.co.kr/article/81924</guid>
@@ -271,13 +278,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81836</guid>
             <pubDate>Mon, 06 Nov 2023 02:21:28 GMT</pubDate>
             <content:encoded><![CDATA[무려 1일 3팩을 한다고?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버섯을 바른다고? 버섯 성분이 들어간 코스메틱! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81627</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81627</guid>
-            <pubDate>Sun, 05 Nov 2023 15:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[버섯을 바른다고? 화이트 트러플, 흰목이버섯, 차가버섯 등 효과 만점으로 구매 욕구 뿜뿜한 버...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[실물 영접에 번호까지 받았다고? 샘 스미스와 킹 스미스의 만남 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -392,6 +392,13 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[필독 각! 6인의 창작자에게 물어본 단 한 권의 책 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81935</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81935</guid>
+            <pubDate>Wed, 08 Nov 2023 15:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[일과 삶, 모든 순간에 책을 펴두는 6인의 창작자 서가에 찾아가 청했다. 책장에서 고이 꺼내 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[지금 당장 내 방을 붕세권으로 만드는 막강 붕어빵들 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81925</link>
             <guid>https://www.cosmopolitan.co.kr/article/81925</guid>
@@ -439,13 +446,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81843</guid>
             <pubDate>Mon, 06 Nov 2023 02:21:53 GMT</pubDate>
             <content:encoded><![CDATA[에디터가 직접 다녀온 맛집만을 엄선했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불 때, 오뎅바! 서울 오뎅 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81839</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81839</guid>
-            <pubDate>Mon, 06 Nov 2023 01:50:35 GMT</pubDate>
-            <content:encoded><![CDATA[술 한 잔에 따뜻한 오뎅 한입, 느낌 아니까~]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

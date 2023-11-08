@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-11-08T14:10:03.953Z</updated>
+    <updated>2023-11-08T15:10:02.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니·장원영의 촉촉 피부 비밀 병기, 가을 파운데이션]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81926</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81926"/>
+        <updated>2023-11-08T15:09:19.366Z</updated>
+        <content type="html"><![CDATA[얇고 촉촉한데 커버까지 다 잘해서 화장할 맛 나게 하는 여돌 PICK 파데.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약국에서 구할 수 있는 뷰티꿀팁 대방출!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81924</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81836"/>
         <updated>2023-11-06T02:21:28.920Z</updated>
         <content type="html"><![CDATA[무려 1일 3팩을 한다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버섯을 바른다고? 버섯 성분이 들어간 코스메틱!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81627</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81627"/>
-        <updated>2023-11-05T15:08:01.844Z</updated>
-        <content type="html"><![CDATA[버섯을 바른다고? 화이트 트러플, 흰목이버섯, 차가버섯 등 효과 만점으로 구매 욕구 뿜뿜한 버...]]></content>
     </entry>
 </feed>
