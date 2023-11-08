@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 10:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 11:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,20 @@
             <content:encoded><![CDATA[버섯을 바른다고? 화이트 트러플, 흰목이버섯, 차가버섯 등 효과 만점으로 구매 욕구 뿜뿜한 버...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[실물 영접에 번호까지 받았다고? 샘 스미스와 킹 스미스의 만남 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81941</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81941</guid>
+            <pubDate>Wed, 08 Nov 2023 11:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[이제 킹 스미스도 월드클래스 반열에 오르는 건가?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/7d96cf0b-e17d-4ad1-8eed-6d74391250d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안 한 셀렙 찾기가 더 힘들다는 ‘챌린지’의 정체는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81940</link>
             <guid>https://www.cosmopolitan.co.kr/article/81940</guid>
             <pubDate>Wed, 08 Nov 2023 10:10:09 GMT</pubDate>
             <content:encoded><![CDATA[슬릭백 도전 고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/ec96aaa4-53c0-40fa-81b6-ccb99c4affb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이던 소환? 현아·유빈·김대호가 전애인을 언급한 사연 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -300,6 +309,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81921</guid>
             <pubDate>Wed, 08 Nov 2023 09:09:13 GMT</pubDate>
             <content:encoded><![CDATA[이렇게 쿨할 수가!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/7496182f-f51c-4ea3-b667-8d0a41d29696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[얼굴 천재 등장! 더보이즈 영훈의 파리 탐방기✨ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -307,6 +317,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81875</guid>
             <pubDate>Wed, 08 Nov 2023 03:10:52 GMT</pubDate>
             <content:encoded><![CDATA[파리에서 영훈의 최애빵 발견?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/82598ae0-ab2d-458f-86a4-524d4f7c2bcc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤이니 태민, 세븐틴 정한의 동안 비법이 00이라고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -314,6 +325,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81838</guid>
             <pubDate>Tue, 07 Nov 2023 15:10:07 GMT</pubDate>
             <content:encoded><![CDATA[피부 관리부터 다이어트까지, 남자 아이돌 동안 플랜 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/731e74c6-a713-4937-b459-21c5a780827c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이서진 후배? 연예인 자녀들의 뉴욕대 입학 열풍! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -321,6 +333,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81835</guid>
             <pubDate>Tue, 07 Nov 2023 01:47:05 GMT</pubDate>
             <content:encoded><![CDATA[자식 농사 성공했네~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/9d6ec492-091c-4052-b324-990922304bc5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[걸크🔥 비행기 조종사 윤희준 기장님에게 듣는 요즘 항공사✈️ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -328,6 +341,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81831</guid>
             <pubDate>Fri, 03 Nov 2023 15:10:16 GMT</pubDate>
             <content:encoded><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/f864b357-2f3e-4c6a-b0b4-8831a6cc12d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꿀 뚝뚝!🍯 영대&예진의 릴레이 하트가 궁금해?🩷 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -335,13 +349,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81822</guid>
             <pubDate>Mon, 06 Nov 2023 03:10:45 GMT</pubDate>
             <content:encoded><![CDATA[눈만 마주쳐도 웃음 팡팡 터지는 김영대 &amp; 표예진의 극강 케미!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[딸·아들바보 인증한 스타들은 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81814</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81814</guid>
-            <pubDate>Fri, 03 Nov 2023 00:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[엄마 미소 유발하는 스타들과 자녀 모멘트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/060831db-7bae-4197-b47b-e21a995248be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -413,6 +421,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81925</guid>
             <pubDate>Wed, 08 Nov 2023 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[팥붕, 슈붕 따지지 않고 제철에 먹어야 꿀맛입니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/caca24d5-88f7-4228-9000-b68375f88fa8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이것만 먹으면 무조건 빠진다. 톱 여배우들의 식단 레시피 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -420,6 +429,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81920</guid>
             <pubDate>Wed, 08 Nov 2023 08:13:06 GMT</pubDate>
             <content:encoded><![CDATA[탄수화물 대신 셀럽들이 픽한 식재료는 과연?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/a3aad05e-3ca4-43ba-8557-f15aa69549b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울 간식 간판템, 붕어빵! 태세 전환 시도? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -427,6 +437,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81918</guid>
             <pubDate>Tue, 07 Nov 2023 14:09:20 GMT</pubDate>
             <content:encoded><![CDATA[뉴비 붕어빵 만날 수 있는 서울 카페 세 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/b0055978-a687-413d-b6ec-23e8ca70929a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이건 봐야 해! 부국제 화제작 개봉 시기 총정리 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -434,6 +445,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81911</guid>
             <pubDate>Tue, 07 Nov 2023 14:09:20 GMT</pubDate>
             <content:encoded><![CDATA[여기가 칸이야, 부산이야? 어느 때보다 화려한 라인업에 티켓은 매진, 매진, 매진! 부산국제영화...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/05/836bae33-0247-49ed-b8cf-16d1ca03bde1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이건 읽어야 해! 신간의 바다 속 에디터가 엄선한 4권의 책 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -441,6 +453,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81749</guid>
             <pubDate>Mon, 06 Nov 2023 15:11:27 GMT</pubDate>
             <content:encoded><![CDATA[넘쳐나는 신간의 바다에서 진흙 속 진주 같은 4권을 엄선했다. 뭐부터 읽어야 할지 모르겠다고?...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/ad0802a4-7a49-4635-ab91-a4c23a46f7a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수능 D-DAY 시작! 센스터지는 수험 선물 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -448,6 +461,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81748</guid>
             <pubDate>Mon, 06 Nov 2023 05:11:07 GMT</pubDate>
             <content:encoded><![CDATA[중요한 시험을 앞둔 수험생들에게, 응원하는 마음을 담아.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/b218a4c4-e880-4f1e-9b71-395803a657c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을엔 등산~ 등산로 입구 찐 맛집 추천 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -455,6 +469,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81843</guid>
             <pubDate>Mon, 06 Nov 2023 02:21:53 GMT</pubDate>
             <content:encoded><![CDATA[에디터가 직접 다녀온 맛집만을 엄선했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/e2480ef8-e283-40db-a5c9-1c815d96b4cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬바람 불 때, 오뎅바! 서울 오뎅 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -462,6 +477,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81839</guid>
             <pubDate>Mon, 06 Nov 2023 01:50:35 GMT</pubDate>
             <content:encoded><![CDATA[술 한 잔에 따뜻한 오뎅 한입, 느낌 아니까~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/f36c5ff4-23f0-447a-ba90-c53dc7d71787.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
