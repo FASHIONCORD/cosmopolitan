@@ -1,68 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 12:15:59 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[실물 영접에 번호까지 받았다고? 샘 스미스와 킹 스미스의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81941</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81941</guid>
-            <pubDate>Wed, 08 Nov 2023 11:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[이제 킹 스미스도 월드클래스 반열에 오르는 건가?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안 한 셀렙 찾기가 더 힘들다는 ‘챌린지’의 정체는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81940</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81940</guid>
-            <pubDate>Wed, 08 Nov 2023 10:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[슬릭백 도전 고?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이던 소환? 현아·유빈·김대호가 전애인을 언급한 사연]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81921</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81921</guid>
-            <pubDate>Wed, 08 Nov 2023 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 쿨할 수가!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[얼굴 천재 등장! 더보이즈 영훈의 파리 탐방기✨]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81875</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81875</guid>
-            <pubDate>Wed, 08 Nov 2023 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[파리에서 영훈의 최애빵 발견?!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 태민, 세븐틴 정한의 동안 비법이 00이라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81838</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81838</guid>
-            <pubDate>Tue, 07 Nov 2023 15:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[피부 관리부터 다이어트까지, 남자 아이돌 동안 플랜 공개!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이서진 후배? 연예인 자녀들의 뉴욕대 입학 열풍!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81835</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81835</guid>
-            <pubDate>Tue, 07 Nov 2023 01:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[자식 농사 성공했네~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[걸크🔥 비행기 조종사 윤희준 기장님에게 듣는 요즘 항공사✈️]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81831</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81831</guid>
-            <pubDate>Tue, 07 Nov 2023 01:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[꿀 뚝뚝!🍯 영대&예진의 릴레이 하트가 궁금해?🩷]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81822</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81822</guid>
-            <pubDate>Mon, 06 Nov 2023 03:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[눈만 마주쳐도 웃음 팡팡 터지는 김영대 &amp; 표예진의 극강 케미!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/060831db-7bae-4197-b47b-e21a995248be.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-11-08T13:11:57.252Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실물 영접에 번호까지 받았다고? 샘 스미스와 킹 스미스의 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81941</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81941"/>
+        <updated>2023-11-08T11:08:29.242Z</updated>
+        <content type="html"><![CDATA[이제 킹 스미스도 월드클래스 반열에 오르는 건가?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안 한 셀렙 찾기가 더 힘들다는 ‘챌린지’의 정체는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81940</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81940"/>
+        <updated>2023-11-08T10:10:09.791Z</updated>
+        <content type="html"><![CDATA[슬릭백 도전 고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이던 소환? 현아·유빈·김대호가 전애인을 언급한 사연]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81921</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81921"/>
+        <updated>2023-11-08T09:09:13.265Z</updated>
+        <content type="html"><![CDATA[이렇게 쿨할 수가!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼굴 천재 등장! 더보이즈 영훈의 파리 탐방기✨]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81875</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81875"/>
+        <updated>2023-11-08T03:10:52.152Z</updated>
+        <content type="html"><![CDATA[파리에서 영훈의 최애빵 발견?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤이니 태민, 세븐틴 정한의 동안 비법이 00이라고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81838</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81838"/>
+        <updated>2023-11-07T15:10:07.381Z</updated>
+        <content type="html"><![CDATA[피부 관리부터 다이어트까지, 남자 아이돌 동안 플랜 공개!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이서진 후배? 연예인 자녀들의 뉴욕대 입학 열풍!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81835</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81835"/>
+        <updated>2023-11-07T01:47:05.703Z</updated>
+        <content type="html"><![CDATA[자식 농사 성공했네~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[걸크🔥 비행기 조종사 윤희준 기장님에게 듣는 요즘 항공사✈️]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81831</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81831"/>
+        <updated>2023-11-07T01:47:05.706Z</updated>
+        <content type="html"><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿀 뚝뚝!🍯 영대&예진의 릴레이 하트가 궁금해?🩷]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81822</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81822"/>
+        <updated>2023-11-06T03:10:45.941Z</updated>
+        <content type="html"><![CDATA[눈만 마주쳐도 웃음 팡팡 터지는 김영대 &amp; 표예진의 극강 케미!]]></content>
+    </entry>
+</feed>
