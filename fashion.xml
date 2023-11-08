@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-11-08T15:10:02.026Z</updated>
+    <updated>2023-11-08T16:11:46.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿨해진 글로 메이크업의 변신]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81795</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81795"/>
+        <updated>2023-11-08T16:11:10.411Z</updated>
+        <content type="html"><![CDATA[우아함의 상징이었던 글로 메이크업이 쿨해졌다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옷보다 중요한 건 애티튜드! 코스모가 주목한 런웨이 무대들]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81760</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81842"/>
         <updated>2023-11-06T01:49:59.393Z</updated>
         <content type="html"><![CDATA[이번 시즌 절대 놓치면 안 되는 컬래버레이션, 배리 X 소피아 코폴라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙하다 힙해! 피어싱 한소희부터 전신 타투 나나까지?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81833</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81833"/>
-        <updated>2023-11-05T15:07:54.449Z</updated>
-        <content type="html"><![CDATA[사서 고생 아니고 자기 만족.]]></content>
     </entry>
 </feed>
