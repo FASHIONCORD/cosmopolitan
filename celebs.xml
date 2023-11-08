@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 02:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 03:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼굴 천재 등장! 더보이즈 영훈의 파리 탐방기✨]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81875</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81875</guid>
+            <pubDate>Wed, 08 Nov 2023 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[파리에서 영훈의 최애빵 발견?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/82598ae0-ab2d-458f-86a4-524d4f7c2bcc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤이니 태민, 세븐틴 정한의 동안 비법이 00이라고?]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81838</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Nov 2023 01:44:34 GMT</pubDate>
             <content:encoded><![CDATA[대표님 믿고 옮겼어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/b1fe141a-33e3-47bb-889d-039960e55533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김영대, 잘생긴 외모에 미친 비율·브레인까지 갖춘 뇌섹남이라고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81768</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81768</guid>
-            <pubDate>Thu, 02 Nov 2023 00:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[예능에 나와 필모 하나 추가하는 남자 여기요~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/30be2466-1e09-4b51-bead-e00e36a6a3d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

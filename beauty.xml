@@ -4,9 +4,17 @@
         <title>코스모폴리탄 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 02:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 03:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일주일에 -2kg 가능! 환연 이나연의 감량 비결 공개~]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81919</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81919</guid>
+            <pubDate>Wed, 08 Nov 2023 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[운동 많이 안 하는 게 포인트라고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/b101e03f-96f0-4b17-a80e-09af0162bc69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완전히 새로워진 11월의 BEAUTY]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81756</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 04 Nov 2023 15:09:13 GMT</pubDate>
             <content:encoded><![CDATA[이제 막 문을 연 에디션 드 퍼퓸 프레데릭 말 서울 플래그십 스토어의 특별함에 대하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/2ec35d4e-1708-4343-8b26-7874f7d8062e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리, 굴욕샷 메이크업이 이효리의 요청이었다고? (feat. 피부 시술 고백)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81811</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81811</guid>
-            <pubDate>Fri, 03 Nov 2023 15:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[문제의 그날, 대체 무슨 일이 있었던 걸까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/197126ff-515c-476a-84d4-3f8e79e20d10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
