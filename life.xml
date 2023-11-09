@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-09T03:10:05.939Z</updated>
+    <updated>2023-11-09T04:11:22.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[붕어빵의 변신은 무죄? 디저트로 변신한 붕어빵!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81960</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81960"/>
+        <updated>2023-11-09T04:11:12.898Z</updated>
+        <content type="html"><![CDATA[크로와상부터 크로플까지~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[품절 되기 전 미리 구매 필수! 2023 어드벤트 캘린더]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81959</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81959"/>
+        <updated>2023-11-09T04:11:12.899Z</updated>
+        <content type="html"><![CDATA[매일 하나씩 뜯어보는 재미, 오늘은 어떤 선물이?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[필독 각! 6인의 창작자에게 물어본 단 한 권의 책]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81935</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81749"/>
         <updated>2023-11-06T15:11:27.066Z</updated>
         <content type="html"><![CDATA[넘쳐나는 신간의 바다에서 진흙 속 진주 같은 4권을 엄선했다. 뭐부터 읽어야 할지 모르겠다고?...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능 D-DAY 시작! 센스터지는 수험 선물 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81748</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81748"/>
-        <updated>2023-11-06T05:11:07.037Z</updated>
-        <content type="html"><![CDATA[중요한 시험을 앞둔 수험생들에게, 응원하는 마음을 담아.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을엔 등산~ 등산로 입구 찐 맛집 추천 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81843</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81843"/>
-        <updated>2023-11-06T02:21:53.685Z</updated>
-        <content type="html"><![CDATA[에디터가 직접 다녀온 맛집만을 엄선했다.]]></content>
     </entry>
 </feed>
