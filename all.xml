@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 14:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 15:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[이번 시즌 절대 놓치면 안 되는 컬래버레이션, 배리 X 소피아 코폴라]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쿨해진 글로 메이크업의 변신 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81795</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81795</guid>
+            <pubDate>Wed, 08 Nov 2023 16:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[우아함의 상징이었던 글로 메이크업이 쿨해졌다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제니·장원영의 촉촉 피부 비밀 병기, 가을 파운데이션 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81926</link>
             <guid>https://www.cosmopolitan.co.kr/article/81926</guid>
@@ -271,13 +278,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81633</guid>
             <pubDate>Mon, 06 Nov 2023 03:10:36 GMT</pubDate>
             <content:encoded><![CDATA[요즘 대세, 가닥가닥 살아 있는 인형 같은 여돌 속눈썹 따라잡기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[62년생 실환가요? 박준금의 피부 관리 노하우 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81836</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81836</guid>
-            <pubDate>Mon, 06 Nov 2023 02:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[무려 1일 3팩을 한다고?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['소설, 잇다' 시리즈의 세 번째 책 <백룸>의 작가를 만나다 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -392,6 +392,13 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[샤이니 키와 NCT 런쥔도 반한 포토 스폿은 어디? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81981</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81981</guid>
+            <pubDate>Thu, 09 Nov 2023 15:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[다리야 떨리지 마, 나 인생샷 찍어야 돼.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미리 크리스마스! 성탄절 분위기 물씬 나는 숍 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81977</link>
             <guid>https://www.cosmopolitan.co.kr/article/81977</guid>
@@ -439,13 +446,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81918</guid>
             <pubDate>Tue, 07 Nov 2023 14:09:20 GMT</pubDate>
             <content:encoded><![CDATA[뉴비 붕어빵 만날 수 있는 서울 카페 세 곳.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이건 봐야 해! 부국제 화제작 개봉 시기 총정리 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81911</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81911</guid>
-            <pubDate>Tue, 07 Nov 2023 14:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[여기가 칸이야, 부산이야? 어느 때보다 화려한 라인업에 티켓은 매진, 매진, 매진! 부산국제영화...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
