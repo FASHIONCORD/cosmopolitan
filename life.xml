@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-09T07:09:09.703Z</updated>
+    <updated>2023-11-09T08:15:31.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미리 크리스마스! 성탄절 분위기 물씬 나는 숍 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81977</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81977"/>
+        <updated>2023-11-09T08:15:24.775Z</updated>
+        <content type="html"><![CDATA[추운 요즘, 포근한 크리스마스 감성 카페 어때요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[붕어빵의 변신은 무죄? 디저트로 변신한 붕어빵!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81960</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81911"/>
         <updated>2023-11-07T14:09:20.597Z</updated>
         <content type="html"><![CDATA[여기가 칸이야, 부산이야? 어느 때보다 화려한 라인업에 티켓은 매진, 매진, 매진! 부산국제영화...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이건 읽어야 해! 신간의 바다 속 에디터가 엄선한 4권의 책]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81749</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81749"/>
-        <updated>2023-11-06T15:11:27.066Z</updated>
-        <content type="html"><![CDATA[넘쳐나는 신간의 바다에서 진흙 속 진주 같은 4권을 엄선했다. 뭐부터 읽어야 할지 모르겠다고?...]]></content>
     </entry>
 </feed>

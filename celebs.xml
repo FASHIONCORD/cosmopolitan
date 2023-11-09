@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-11-09T07:09:09.701Z</updated>
+    <updated>2023-11-09T08:15:31.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소설, 잇다' 시리즈의 세 번째 책 <백룸>의 작가를 만나다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81961</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81961"/>
+        <updated>2023-11-09T08:15:09.945Z</updated>
+        <content type="html"><![CDATA[우리 문학사에 충분히 기록되지 못한 근대 여성 작가와 현대 여성 작가의 소설을 한 권에 담아...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실물 영접에 번호까지 받았다고? 샘 스미스와 킹 스미스의 만남]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81941</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81831"/>
         <updated>2023-11-07T01:47:05.706Z</updated>
         <content type="html"><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿀 뚝뚝!🍯 영대&예진의 릴레이 하트가 궁금해?🩷]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81822</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81822"/>
-        <updated>2023-11-06T03:10:45.941Z</updated>
-        <content type="html"><![CDATA[눈만 마주쳐도 웃음 팡팡 터지는 김영대 &amp; 표예진의 극강 케미!]]></content>
     </entry>
 </feed>
