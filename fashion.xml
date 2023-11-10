@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-11-10T15:10:28.562Z</updated>
+    <updated>2023-11-10T16:12:29.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을 필수템! 카디건에 대한 모든 것]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81771</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81771"/>
+        <updated>2023-11-10T16:10:55.892Z</updated>
+        <content type="html"><![CDATA[카디건의 계절이 드디어 왔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿨해진 글로 메이크업의 변신]]></title>
         <id>https://www.cosmopolitan.co.kr/article/81795</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81641"/>
         <updated>2023-11-06T15:10:42.702Z</updated>
         <content type="html"><![CDATA[지금 주목해야 할 핫 이슈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐시미어 니트 맛집, 배리와 소피아 코폴라의 우아한 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81842</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81842"/>
-        <updated>2023-11-06T01:49:59.393Z</updated>
-        <content type="html"><![CDATA[이번 시즌 절대 놓치면 안 되는 컬래버레이션, 배리 X 소피아 코폴라]]></content>
     </entry>
 </feed>
