@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 02:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 03:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,13 @@
             <content:encoded><![CDATA[요즘 대세, 가닥가닥 살아 있는 인형 같은 여돌 속눈썹 따라잡기.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연예인 중의 연예인, 장원영 평판 모음zip (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81975</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81975</guid>
+            <pubDate>Fri, 10 Nov 2023 03:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[최소 데뷔 20년차부터 최대 36년차 연예인이 말하는 장원영.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['소설, 잇다' 시리즈의 세 번째 책 <백룸>의 작가를 만나다 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81961</link>
             <guid>https://www.cosmopolitan.co.kr/article/81961</guid>
@@ -327,13 +334,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81835</guid>
             <pubDate>Tue, 07 Nov 2023 01:47:05 GMT</pubDate>
             <content:encoded><![CDATA[자식 농사 성공했네~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[걸크🔥 비행기 조종사 윤희준 기장님에게 듣는 요즘 항공사✈️ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81831</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81831</guid>
-            <pubDate>Fri, 03 Nov 2023 15:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[가장 위험한 구름은 00 구름이라고요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
