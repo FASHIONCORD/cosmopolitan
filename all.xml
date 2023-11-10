@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 06:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 07:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -439,6 +439,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81920</guid>
             <pubDate>Wed, 08 Nov 2023 08:13:06 GMT</pubDate>
             <content:encoded><![CDATA[탄수화물 대신 셀럽들이 픽한 식재료는 과연?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/a3aad05e-3ca4-43ba-8557-f15aa69549b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울 간식 간판템, 붕어빵! 태세 전환 시도? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -446,6 +447,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81918</guid>
             <pubDate>Tue, 07 Nov 2023 14:09:20 GMT</pubDate>
             <content:encoded><![CDATA[뉴비 붕어빵 만날 수 있는 서울 카페 세 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/b0055978-a687-413d-b6ec-23e8ca70929a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
