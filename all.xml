@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 21:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 22:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81644</guid>
             <pubDate>Mon, 06 Nov 2023 15:10:42 GMT</pubDate>
             <content:encoded><![CDATA[지금 주목해야 할 핫 이슈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/feb29bcc-8b46-4d05-9e49-a2f523956dcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바이탈뷰티 메타그린과 포차코의 특별한 만남 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -271,7 +272,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81756</guid>
             <pubDate>Tue, 07 Nov 2023 15:09:57 GMT</pubDate>
             <content:encoded><![CDATA[보다 섬세해진 크림 텍스처, 얼굴을 물들인 톤 다운 컬러와 코끝을 찌르는 톡 쏘는 향기까지. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/ac8c4a8b-c84b-4fe5-949c-5eb4cb57995e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 제품만 있으면 정전기 걱정은 NO! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -279,7 +279,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81638</guid>
             <pubDate>Mon, 06 Nov 2023 15:10:53 GMT</pubDate>
             <content:encoded><![CDATA[정전기 이제 그만! 머리가 부스스하게 일어나고 온몸에 찌릿함이 느껴지는 정전기 공격으로부터 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/05/8e768557-42a7-412a-9e19-56646909ddc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게이 같다고? 팬의 지적에 소신 발언한 남돌의 정체 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -287,7 +286,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81984</guid>
             <pubDate>Sat, 11 Nov 2023 15:08:16 GMT</pubDate>
             <content:encoded><![CDATA[헤어 메이크업 맘에 안 든다고 차별 발언? 안 되지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/d99a644b-c7a7-4172-b7c5-c3e64e8766ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연예인 중의 연예인, 장원영 평판 모음zip (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -295,7 +293,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81975</guid>
             <pubDate>Fri, 10 Nov 2023 03:09:45 GMT</pubDate>
             <content:encoded><![CDATA[최소 데뷔 20년차부터 최대 36년차 연예인이 말하는 장원영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/a6e98e74-d7b3-4258-99da-51c7f2ad6b48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['소설, 잇다' 시리즈의 세 번째 책 <백룸>의 작가를 만나다 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -303,7 +300,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81961</guid>
             <pubDate>Thu, 09 Nov 2023 08:15:09 GMT</pubDate>
             <content:encoded><![CDATA[우리 문학사에 충분히 기록되지 못한 근대 여성 작가와 현대 여성 작가의 소설을 한 권에 담아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/4ec30cf8-b803-4fe7-968a-2ebf96ce91a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실물 영접에 번호까지 받았다고? 샘 스미스와 킹 스미스의 만남 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -311,7 +307,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81941</guid>
             <pubDate>Wed, 08 Nov 2023 11:08:29 GMT</pubDate>
             <content:encoded><![CDATA[이제 킹 스미스도 월드클래스 반열에 오르는 건가?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/7d96cf0b-e17d-4ad1-8eed-6d74391250d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안 한 셀렙 찾기가 더 힘들다는 ‘챌린지’의 정체는? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -319,7 +314,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81940</guid>
             <pubDate>Wed, 08 Nov 2023 10:10:09 GMT</pubDate>
             <content:encoded><![CDATA[슬릭백 도전 고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/ec96aaa4-53c0-40fa-81b6-ccb99c4affb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이던 소환? 현아·유빈·김대호가 전애인을 언급한 사연 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -327,7 +321,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81921</guid>
             <pubDate>Wed, 08 Nov 2023 09:09:13 GMT</pubDate>
             <content:encoded><![CDATA[이렇게 쿨할 수가!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/7496182f-f51c-4ea3-b667-8d0a41d29696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[얼굴 천재 등장! 더보이즈 영훈의 파리 탐방기✨ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -335,7 +328,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81875</guid>
             <pubDate>Wed, 08 Nov 2023 03:10:52 GMT</pubDate>
             <content:encoded><![CDATA[파리에서 영훈의 최애빵 발견?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/82598ae0-ab2d-458f-86a4-524d4f7c2bcc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤이니 태민, 세븐틴 정한의 동안 비법이 00이라고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -343,7 +335,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81838</guid>
             <pubDate>Tue, 07 Nov 2023 15:10:07 GMT</pubDate>
             <content:encoded><![CDATA[피부 관리부터 다이어트까지, 남자 아이돌 동안 플랜 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/731e74c6-a713-4937-b459-21c5a780827c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
