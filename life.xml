@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 13:10:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[요리책 맞아? 특이한 예술가들의 기상천외한 레시피 북]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81992</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81992</guid>
-            <pubDate>Fri, 10 Nov 2023 16:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[“음식은 사람들이 살아가는 방식과 그들이 누구인지에 대한 모든 것을 말해준다.” 이 문장을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/f9a86f87-f42a-4d31-98cf-7a78f81c0d90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 키와 NCT 런쥔도 반한 포토 스폿은 어디?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81981</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81981</guid>
-            <pubDate>Thu, 09 Nov 2023 15:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[다리야 떨리지 마, 나 인생샷 찍어야 돼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/caf55437-f065-4a8b-b5e4-9e71cdcc0de9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 크리스마스! 성탄절 분위기 물씬 나는 숍 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81977</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81977</guid>
-            <pubDate>Thu, 09 Nov 2023 08:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[추운 요즘, 포근한 크리스마스 감성 카페 어때요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/48247531-8c90-4b28-abab-2f5f1c36c84a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[붕어빵의 변신은 무죄? 디저트로 변신한 붕어빵!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81960</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81960</guid>
-            <pubDate>Thu, 09 Nov 2023 04:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[크로와상부터 크로플까지~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/3729a929-b839-4b3d-8e8b-4aa18155147c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[품절 되기 전 미리 구매 필수! 2023 어드벤트 캘린더]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81959</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81959</guid>
-            <pubDate>Thu, 09 Nov 2023 04:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[매일 하나씩 뜯어보는 재미, 오늘은 어떤 선물이?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/e32478ce-264d-46d9-9f89-8cbf318254f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필독 각! 6인의 창작자에게 물어본 단 한 권의 책]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81935</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81935</guid>
-            <pubDate>Wed, 08 Nov 2023 15:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[일과 삶, 모든 순간에 책을 펴두는 6인의 창작자 서가에 찾아가 청했다. 책장에서 고이 꺼내 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/12d6723a-0dc0-473f-a8cf-aae0f4c07d79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 당장 내 방을 붕세권으로 만드는 막강 붕어빵들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81925</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81925</guid>
-            <pubDate>Wed, 08 Nov 2023 09:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[팥붕, 슈붕 따지지 않고 제철에 먹어야 꿀맛입니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/caca24d5-88f7-4228-9000-b68375f88fa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것만 먹으면 무조건 빠진다. 톱 여배우들의 식단 레시피 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81920</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81920</guid>
-            <pubDate>Wed, 08 Nov 2023 08:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[탄수화물 대신 셀럽들이 픽한 식재료는 과연?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/a3aad05e-3ca4-43ba-8557-f15aa69549b8.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-11-11T14:09:18.913Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요리책 맞아? 특이한 예술가들의 기상천외한 레시피 북]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81992</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81992"/>
+        <updated>2023-11-10T16:12:04.870Z</updated>
+        <content type="html"><![CDATA[“음식은 사람들이 살아가는 방식과 그들이 누구인지에 대한 모든 것을 말해준다.” 이 문장을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤이니 키와 NCT 런쥔도 반한 포토 스폿은 어디?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81981</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81981"/>
+        <updated>2023-11-09T15:10:00.256Z</updated>
+        <content type="html"><![CDATA[다리야 떨리지 마, 나 인생샷 찍어야 돼.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미리 크리스마스! 성탄절 분위기 물씬 나는 숍 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81977</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81977"/>
+        <updated>2023-11-09T08:15:24.775Z</updated>
+        <content type="html"><![CDATA[추운 요즘, 포근한 크리스마스 감성 카페 어때요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[붕어빵의 변신은 무죄? 디저트로 변신한 붕어빵!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81960</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81960"/>
+        <updated>2023-11-09T04:11:12.898Z</updated>
+        <content type="html"><![CDATA[크로와상부터 크로플까지~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[품절 되기 전 미리 구매 필수! 2023 어드벤트 캘린더]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81959</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81959"/>
+        <updated>2023-11-09T04:11:12.899Z</updated>
+        <content type="html"><![CDATA[매일 하나씩 뜯어보는 재미, 오늘은 어떤 선물이?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필독 각! 6인의 창작자에게 물어본 단 한 권의 책]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81935</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81935"/>
+        <updated>2023-11-08T15:09:54.960Z</updated>
+        <content type="html"><![CDATA[일과 삶, 모든 순간에 책을 펴두는 6인의 창작자 서가에 찾아가 청했다. 책장에서 고이 꺼내 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 당장 내 방을 붕세권으로 만드는 막강 붕어빵들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81925</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81925"/>
+        <updated>2023-11-08T09:09:34.282Z</updated>
+        <content type="html"><![CDATA[팥붕, 슈붕 따지지 않고 제철에 먹어야 꿀맛입니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것만 먹으면 무조건 빠진다. 톱 여배우들의 식단 레시피 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81920</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81920"/>
+        <updated>2023-11-08T08:13:06.528Z</updated>
+        <content type="html"><![CDATA[탄수화물 대신 셀럽들이 픽한 식재료는 과연?]]></content>
+    </entry>
+</feed>
