@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 14:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 15:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,6 +223,13 @@
             <content:encoded><![CDATA[&lt;코스모폴리탄&gt;과 함께한 디지털 커버 공개!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[손민수 각! 신흥 뷰티 아이콘은 누구? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81947</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81947</guid>
+            <pubDate>Mon, 13 Nov 2023 15:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[너, 손민수! 자기만의 확고한 취향과 개성으로 수많은 추종자를 거느린, 떠오르는 신흥 뷰티 아...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[환절기 피부 관리, 31℃ 플래닝만 기억해! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81943</link>
             <guid>https://www.cosmopolitan.co.kr/article/81943</guid>
@@ -270,13 +277,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81924</guid>
             <pubDate>Wed, 08 Nov 2023 10:10:01 GMT</pubDate>
             <content:encoded><![CDATA[약사·의사가 추천하는 가성비 좋은 약국 뷰티꿀팁 모음zip.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일주일에 -2kg 가능! 환연 이나연의 감량 비결 공개~ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81919</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81919</guid>
-            <pubDate>Wed, 08 Nov 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[운동 많이 안 하는 게 포인트라고?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성시경부터 크러쉬까지! 피켓팅 각 나오는 연말 콘서트 모음 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
