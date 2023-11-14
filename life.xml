@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 00:40:14 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[정국부터 사나까지! 내 '최애'의 스페셜 레시피]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81951</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81951</guid>
-            <pubDate>Mon, 13 Nov 2023 10:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘최애’를 널리 알리기 위해 팬들이 레시피를 만드는 시대는 끝났다. 내 ‘최애’가 말아주는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/725e1e27-2188-4297-8f4b-c4cc66305215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차의 최종 보스는? 신상 전기차 총정리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82016</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82016</guid>
-            <pubDate>Mon, 13 Nov 2023 03:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[도로 위를 질주하는 전기차의 최종 보스! 지금 주목해야 할 전기차 4대의 주행거리와 민첩성, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/96a83ee8-d595-4b65-b6fd-a808bf997678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82007</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82007</guid>
-            <pubDate>Mon, 13 Nov 2023 02:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[이 라인업 실화냐?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/0cab070a-6251-4472-a8bd-c91f08c453d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 카리나·지젤이 알려주는 카이막 먹는 법?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81997</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81997</guid>
-            <pubDate>Mon, 13 Nov 2023 02:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[feat. 뉴욕 vs 서울 카이막 전격 비교!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/d1ecb7b5-99a2-45b1-a0ab-e697ea58f2ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀가루 NO! 일말의 양심을 덜어줄 글루텐프리 카페 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81996</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81996</guid>
-            <pubDate>Mon, 13 Nov 2023 01:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 중 단 것이 당긴다면 여기로!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/53fe4a86-33eb-4872-b815-aadf19786983.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요리책 맞아? 특이한 예술가들의 기상천외한 레시피 북]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81992</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81992</guid>
-            <pubDate>Fri, 10 Nov 2023 16:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[“음식은 사람들이 살아가는 방식과 그들이 누구인지에 대한 모든 것을 말해준다.” 이 문장을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/f9a86f87-f42a-4d31-98cf-7a78f81c0d90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 키와 NCT 런쥔도 반한 포토 스폿은 어디?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81981</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81981</guid>
-            <pubDate>Thu, 09 Nov 2023 15:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[다리야 떨리지 마, 나 인생샷 찍어야 돼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/caf55437-f065-4a8b-b5e4-9e71cdcc0de9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 크리스마스! 성탄절 분위기 물씬 나는 숍 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81977</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81977</guid>
-            <pubDate>Thu, 09 Nov 2023 08:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[추운 요즘, 포근한 크리스마스 감성 카페 어때요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/48247531-8c90-4b28-abab-2f5f1c36c84a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-11-14T01:46:30.001Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성시경 찐픽! 회식 땡기는 맛집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82067</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82067"/>
+        <updated>2023-11-14T01:46:07.142Z</updated>
+        <content type="html"><![CDATA[슬슬 송년회 준비 스타트! 맛잘알 성시경 먹텐 리스트 중 술을 부르는 맛집만 모았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정국부터 사나까지! 내 '최애'의 스페셜 레시피]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81951</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81951"/>
+        <updated>2023-11-13T10:10:43.604Z</updated>
+        <content type="html"><![CDATA[‘최애’를 널리 알리기 위해 팬들이 레시피를 만드는 시대는 끝났다. 내 ‘최애’가 말아주는 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차의 최종 보스는? 신상 전기차 총정리]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82016</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82016"/>
+        <updated>2023-11-13T03:10:43.232Z</updated>
+        <content type="html"><![CDATA[도로 위를 질주하는 전기차의 최종 보스! 지금 주목해야 할 전기차 4대의 주행거리와 민첩성, ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82007</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82007"/>
+        <updated>2023-11-13T02:22:30.021Z</updated>
+        <content type="html"><![CDATA[이 라인업 실화냐?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스파 카리나·지젤이 알려주는 카이막 먹는 법?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81997</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81997"/>
+        <updated>2023-11-13T02:22:30.022Z</updated>
+        <content type="html"><![CDATA[feat. 뉴욕 vs 서울 카이막 전격 비교!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밀가루 NO! 일말의 양심을 덜어줄 글루텐프리 카페 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81996</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81996"/>
+        <updated>2023-11-13T01:51:02.147Z</updated>
+        <content type="html"><![CDATA[다이어트 중 단 것이 당긴다면 여기로!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요리책 맞아? 특이한 예술가들의 기상천외한 레시피 북]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81992</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81992"/>
+        <updated>2023-11-10T16:12:04.870Z</updated>
+        <content type="html"><![CDATA[“음식은 사람들이 살아가는 방식과 그들이 누구인지에 대한 모든 것을 말해준다.” 이 문장을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤이니 키와 NCT 런쥔도 반한 포토 스폿은 어디?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81981</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81981"/>
+        <updated>2023-11-09T15:10:00.256Z</updated>
+        <content type="html"><![CDATA[다리야 떨리지 마, 나 인생샷 찍어야 돼.]]></content>
+    </entry>
+</feed>
