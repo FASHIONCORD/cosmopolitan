@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 09:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 10:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,11 +225,20 @@
             <content:encoded><![CDATA[&lt;코스모폴리탄&gt;과 함께한 디지털 커버 공개!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[올겨울 품어야할 아이섀도 리스트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82051</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82051</guid>
+            <pubDate>Tue, 14 Nov 2023 10:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[올겨울에 꼭 장만해야 하는 아이섀도 구매 가이드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/ede3d581-3e2e-4819-990a-390add54cbd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[손민수 각! 신흥 뷰티 아이콘은 누구? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81947</link>
             <guid>https://www.cosmopolitan.co.kr/article/81947</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
             <content:encoded><![CDATA[너, 손민수! 자기만의 확고한 취향과 개성으로 수많은 추종자를 거느린, 떠오르는 신흥 뷰티 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/4874e294-8181-4c7a-b8af-e4dcd1dd4d3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환절기 피부 관리, 31℃ 플래닝만 기억해! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -237,6 +246,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81943</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
             <content:encoded><![CDATA[오르락내리락, 피부 온도에 적신호가 켜졌다. 최적의 피부 온도를 유지시켜줄 31℃ 플래닝이 절실...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/4de51a21-1c52-4356-a2c9-4c1e9ef701dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수건도 따로 쓴다고? 윤은혜 피부 관리 TIP (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -244,6 +254,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81986</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
             <content:encoded><![CDATA[동안 비결이 이거였어?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/ada8fab7-f0da-40f8-aa55-edd62fe078ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바이탈뷰티 메타그린과 포차코의 특별한 만남 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -251,6 +262,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81973</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
             <content:encoded><![CDATA[메타그린×포차코 협업 에디션 한정판 출시.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/aef83302-ca62-4066-a18e-a6adb95847ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑 전 필독, 뷰티 플랫폼 전격분석! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -258,6 +270,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81962</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
             <content:encoded><![CDATA[‘화장품 어디서 사지?’ 고민된다면, 코스모가 정리한 뷰티 플랫폼의 강점과 톱티어 랭크를 확...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/d88c55e9-220b-45a6-920c-9073e85cef18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿨해진 글로 메이크업의 변신 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -265,6 +278,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81795</guid>
             <pubDate>Mon, 13 Nov 2023 19:07:48 GMT</pubDate>
             <content:encoded><![CDATA[우아함의 상징이었던 글로 메이크업이 쿨해졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/bb61d42f-02c9-4eb4-b704-1e60f0fcb236.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니·장원영의 촉촉 피부 비밀 병기, 가을 파운데이션 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -272,13 +286,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81926</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
             <content:encoded><![CDATA[얇고 촉촉한데 커버까지 다 잘해서 화장할 맛 나게 하는 여돌 PICK 파데.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[약국에서 구할 수 있는 뷰티꿀팁 대방출! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81924</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81924</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[약사·의사가 추천하는 가성비 좋은 약국 뷰티꿀팁 모음zip.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/c33d7b8c-4d10-4c98-8bbe-67e252a8acb6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -398,6 +406,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/82081</guid>
             <pubDate>Tue, 14 Nov 2023 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[스프카레·라멘·규카츠까지 맛집 좌표 싹 짚어드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/421981e4-588e-4483-9061-07827fd20dc1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥주 뿌실 때, 잊지 마요! 멈추지 마요! 청양 마요! (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -405,6 +414,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/82072</guid>
             <pubDate>Tue, 14 Nov 2023 07:09:02 GMT</pubDate>
             <content:encoded><![CDATA[비가 옵니다. 청양 마요 과자들에 사로잡힐 준’비’.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/1d46933c-696d-47ab-bfe1-d63bb972522e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬바람 불 땐, 달콤한 핫초코 한 잔! 비주얼 갑 초콜릿 음료 맛집은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -412,6 +422,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/82070</guid>
             <pubDate>Tue, 14 Nov 2023 06:12:37 GMT</pubDate>
             <content:encoded><![CDATA[추위와 스트레스까지 한 방에 해결.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/7e7a568d-feed-4de8-8642-ff35344079c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뜨끈한 국물 한 입! 몸을 따뜻하게 만들어주는 곰탕 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -419,6 +430,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/82069</guid>
             <pubDate>Tue, 14 Nov 2023 06:12:37 GMT</pubDate>
             <content:encoded><![CDATA[목으로 넘어가는 순간 다 풀리네~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/bd9a6cc7-115d-4f77-8ca8-9d0ca7bb003c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성시경 찐픽! 회식 땡기는 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -426,6 +438,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/82067</guid>
             <pubDate>Tue, 14 Nov 2023 01:46:07 GMT</pubDate>
             <content:encoded><![CDATA[슬슬 송년회 준비 스타트! 맛잘알 성시경 먹텐 리스트 중 술을 부르는 맛집만 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/f01c6fc0-0e55-4f00-9b3f-f32f20ee96d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정국부터 사나까지! 내 '최애'의 스페셜 레시피 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -433,6 +446,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81951</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:41 GMT</pubDate>
             <content:encoded><![CDATA[‘최애’를 널리 알리기 위해 팬들이 레시피를 만드는 시대는 끝났다. 내 ‘최애’가 말아주는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/725e1e27-2188-4297-8f4b-c4cc66305215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기차의 최종 보스는? 신상 전기차 총정리 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -440,6 +454,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/82016</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:41 GMT</pubDate>
             <content:encoded><![CDATA[도로 위를 질주하는 전기차의 최종 보스! 지금 주목해야 할 전기차 4대의 주행거리와 민첩성, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/96a83ee8-d595-4b65-b6fd-a808bf997678.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -447,6 +462,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/82007</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:41 GMT</pubDate>
             <content:encoded><![CDATA[이 라인업 실화냐?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/0cab070a-6251-4472-a8bd-c91f08c453d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
