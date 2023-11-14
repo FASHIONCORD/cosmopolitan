@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-11-14T20:09:47.093Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[일상 속 사물과 주얼리의 특별한 만남 7]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82050</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82050"/>
-        <updated>2023-11-14T15:09:22.974Z</updated>
-        <content type="html"><![CDATA[일상의 사물과 주얼리, 가깝고도 특별한 만남.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘, 테디베어 코트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81939</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81939"/>
-        <updated>2023-11-13T08:12:03.562Z</updated>
-        <content type="html"><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘 테디베어 코트에 대한 모든 것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옷잘알 셀렙들의 유니크한 스타킹 스타일링 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81987</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81987"/>
-        <updated>2023-11-13T08:12:03.563Z</updated>
-        <content type="html"><![CDATA[스타킹이 신의 한 수!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈터·장희령이 즐겨입는 겨울 시어링 코트 스타일링 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81978</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81978"/>
-        <updated>2023-11-12T15:08:33.457Z</updated>
-        <content type="html"><![CDATA[뽀글이 만큼 손이 자주 가는 아이템도 없지~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뚝 기온이 떨어졌을 때 생각나는 보송보송 포근한 털신]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81969</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81969"/>
-        <updated>2023-11-11T15:07:55.867Z</updated>
-        <content type="html"><![CDATA[귀여운 털신 장만에 나섰다면 보기에도 따뜻하고 신으면 더 훈훈한 ABC마트의 퍼 슈즈 ‘앨리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을 필수템! 카디건에 대한 모든 것]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81771</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81771"/>
-        <updated>2023-11-10T16:10:55.892Z</updated>
-        <content type="html"><![CDATA[카디건의 계절이 드디어 왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿨해진 글로 메이크업의 변신]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81795</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81795"/>
-        <updated>2023-11-08T16:11:10.411Z</updated>
-        <content type="html"><![CDATA[우아함의 상징이었던 글로 메이크업이 쿨해졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옷보다 중요한 건 애티튜드! 코스모가 주목한 런웨이 무대들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81760</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81760"/>
-        <updated>2023-11-08T10:09:52.825Z</updated>
-        <content type="html"><![CDATA[옷을 입는 ‘애티튜드’가 컬렉션을 구성하는 핵심 요소로 작동하기도 한다. 그런 의미에서 주목...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 14 Nov 2023 21:08:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상 속 사물과 주얼리의 특별한 만남 7]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82050</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82050</guid>
+            <pubDate>Tue, 14 Nov 2023 15:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[일상의 사물과 주얼리, 가깝고도 특별한 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/dd76d321-d4d7-45b4-a273-a75706a57eac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘, 테디베어 코트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81939</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81939</guid>
+            <pubDate>Mon, 13 Nov 2023 08:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘 테디베어 코트에 대한 모든 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/a902457a-a916-4af8-9d80-f18d46bbe6e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옷잘알 셀렙들의 유니크한 스타킹 스타일링 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81987</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81987</guid>
+            <pubDate>Mon, 13 Nov 2023 08:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[스타킹이 신의 한 수!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/f8f48b1e-c7f4-4216-9403-30da88e8a136.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈터·장희령이 즐겨입는 겨울 시어링 코트 스타일링 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81978</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81978</guid>
+            <pubDate>Sun, 12 Nov 2023 15:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[뽀글이 만큼 손이 자주 가는 아이템도 없지~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/cc18bc68-4a94-4ebe-ac87-3f6a30520d45.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뚝 기온이 떨어졌을 때 생각나는 보송보송 포근한 털신]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81969</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81969</guid>
+            <pubDate>Sat, 11 Nov 2023 15:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운 털신 장만에 나섰다면 보기에도 따뜻하고 신으면 더 훈훈한 ABC마트의 퍼 슈즈 ‘앨리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/43627c4a-33a1-44b6-b763-da69f847a51d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 필수템! 카디건에 대한 모든 것]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81771</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81771</guid>
+            <pubDate>Fri, 10 Nov 2023 16:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[카디건의 계절이 드디어 왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/a2c02a47-9095-4f16-a73e-0538886398e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿨해진 글로 메이크업의 변신]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81795</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81795</guid>
+            <pubDate>Wed, 08 Nov 2023 16:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[우아함의 상징이었던 글로 메이크업이 쿨해졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/bb61d42f-02c9-4eb4-b704-1e60f0fcb236.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옷보다 중요한 건 애티튜드! 코스모가 주목한 런웨이 무대들]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81760</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81760</guid>
+            <pubDate>Wed, 08 Nov 2023 10:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[옷을 입는 ‘애티튜드’가 컬렉션을 구성하는 핵심 요소로 작동하기도 한다. 그런 의미에서 주목...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/45f2b788-be84-4e51-bfd0-24b94af210dc.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
