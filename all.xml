@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 05:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 06:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -391,6 +391,20 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[찬바람 불 땐, 달콤한 핫초코 한 잔! 비주얼 갑 초콜릿 음료 맛집은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82070</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82070</guid>
+            <pubDate>Tue, 14 Nov 2023 06:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[추위와 스트레스까지 한 방에 해결.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뜨끈한 국물 한 입! 몸을 따뜻하게 만들어주는 곰탕 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82069</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82069</guid>
+            <pubDate>Tue, 14 Nov 2023 06:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[목으로 넘어가는 순간 다 풀리네~!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[성시경 찐픽! 회식 땡기는 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82067</link>
             <guid>https://www.cosmopolitan.co.kr/article/82067</guid>
@@ -431,20 +445,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81996</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:41 GMT</pubDate>
             <content:encoded><![CDATA[다이어트 중 단 것이 당긴다면 여기로!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요리책 맞아? 특이한 예술가들의 기상천외한 레시피 북 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81992</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81992</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[“음식은 사람들이 살아가는 방식과 그들이 누구인지에 대한 모든 것을 말해준다.” 이 문장을 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 키와 NCT 런쥔도 반한 포토 스폿은 어디? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81981</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81981</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[다리야 떨리지 마, 나 인생샷 찍어야 돼.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
