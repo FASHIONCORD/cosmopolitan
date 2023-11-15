@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-11-15T08:13:49.251Z</updated>
+    <updated>2023-11-15T09:11:13.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사계절 퀸을 접수하러 온 권은비 등판! ✨👸]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82020</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82020"/>
+        <updated>2023-11-15T09:10:19.209Z</updated>
+        <content type="html"><![CDATA[서머퀸 은비의 가을 추천템이 궁금하다면? CLICK!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82007</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81941"/>
         <updated>2023-11-08T11:08:29.242Z</updated>
         <content type="html"><![CDATA[이제 킹 스미스도 월드클래스 반열에 오르는 건가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안 한 셀렙 찾기가 더 힘들다는 ‘챌린지’의 정체는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81940</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81940"/>
-        <updated>2023-11-08T10:10:09.791Z</updated>
-        <content type="html"><![CDATA[슬릭백 도전 고?]]></content>
     </entry>
 </feed>
