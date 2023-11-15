@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-11-15T14:09:44.659Z</updated>
+    <updated>2023-11-15T15:11:27.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펑크 낫 데드! 다시 돌아온 펑크룩]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81968</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81968"/>
+        <updated>2023-11-15T15:09:50.511Z</updated>
+        <content type="html"><![CDATA[펑크가 돌아왔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올 시즌 키 컬러 '레드'로 완성한 룩]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82057</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82057"/>
+        <updated>2023-11-15T15:09:50.512Z</updated>
+        <content type="html"><![CDATA[이번 시즌 키 컬러인 ‘레드’와의 숨바꼭질.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일상 속 사물과 주얼리의 특별한 만남 7]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82050</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81771"/>
         <updated>2023-11-10T16:10:55.892Z</updated>
         <content type="html"><![CDATA[카디건의 계절이 드디어 왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿨해진 글로 메이크업의 변신]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81795</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81795"/>
-        <updated>2023-11-08T16:11:10.411Z</updated>
-        <content type="html"><![CDATA[우아함의 상징이었던 글로 메이크업이 쿨해졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옷보다 중요한 건 애티튜드! 코스모가 주목한 런웨이 무대들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81760</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81760"/>
-        <updated>2023-11-08T10:09:52.825Z</updated>
-        <content type="html"><![CDATA[옷을 입는 ‘애티튜드’가 컬렉션을 구성하는 핵심 요소로 작동하기도 한다. 그런 의미에서 주목...]]></content>
     </entry>
 </feed>
