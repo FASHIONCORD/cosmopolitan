@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 03:11:42 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[일본 여행 전 필수 시청! 혜리·소진의 삿포로 먹방 투어]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82081</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82081</guid>
-            <pubDate>Tue, 14 Nov 2023 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[스프카레·라멘·규카츠까지 맛집 좌표 싹 짚어드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/421981e4-588e-4483-9061-07827fd20dc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥주 뿌실 때, 잊지 마요! 멈추지 마요! 청양 마요!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82072</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82072</guid>
-            <pubDate>Tue, 14 Nov 2023 07:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[비가 옵니다. 청양 마요 과자들에 사로잡힐 준’비’.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/1d46933c-696d-47ab-bfe1-d63bb972522e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불 땐, 달콤한 핫초코 한 잔! 비주얼 갑 초콜릿 음료 맛집은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82070</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82070</guid>
-            <pubDate>Tue, 14 Nov 2023 06:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[추위와 스트레스까지 한 방에 해결.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/7e7a568d-feed-4de8-8642-ff35344079c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨끈한 국물 한 입! 몸을 따뜻하게 만들어주는 곰탕 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82069</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82069</guid>
-            <pubDate>Tue, 14 Nov 2023 06:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[목으로 넘어가는 순간 다 풀리네~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/bd9a6cc7-115d-4f77-8ca8-9d0ca7bb003c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경 찐픽! 회식 땡기는 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82067</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82067</guid>
-            <pubDate>Tue, 14 Nov 2023 01:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[슬슬 송년회 준비 스타트! 맛잘알 성시경 먹텐 리스트 중 술을 부르는 맛집만 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/f01c6fc0-0e55-4f00-9b3f-f32f20ee96d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정국부터 사나까지! 내 '최애'의 스페셜 레시피]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81951</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81951</guid>
-            <pubDate>Mon, 13 Nov 2023 10:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘최애’를 널리 알리기 위해 팬들이 레시피를 만드는 시대는 끝났다. 내 ‘최애’가 말아주는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/725e1e27-2188-4297-8f4b-c4cc66305215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차의 최종 보스는? 신상 전기차 총정리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82016</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82016</guid>
-            <pubDate>Mon, 13 Nov 2023 03:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[도로 위를 질주하는 전기차의 최종 보스! 지금 주목해야 할 전기차 4대의 주행거리와 민첩성, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/96a83ee8-d595-4b65-b6fd-a808bf997678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82007</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82007</guid>
-            <pubDate>Mon, 13 Nov 2023 02:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[이 라인업 실화냐?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/0cab070a-6251-4472-a8bd-c91f08c453d2.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-11-15T04:12:31.671Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 여행 전 필수 시청! 혜리·소진의 삿포로 먹방 투어]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82081</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82081"/>
+        <updated>2023-11-14T09:09:44.879Z</updated>
+        <content type="html"><![CDATA[스프카레·라멘·규카츠까지 맛집 좌표 싹 짚어드림.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥주 뿌실 때, 잊지 마요! 멈추지 마요! 청양 마요!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82072</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82072"/>
+        <updated>2023-11-14T07:09:02.158Z</updated>
+        <content type="html"><![CDATA[비가 옵니다. 청양 마요 과자들에 사로잡힐 준’비’.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬바람 불 땐, 달콤한 핫초코 한 잔! 비주얼 갑 초콜릿 음료 맛집은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82070</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82070"/>
+        <updated>2023-11-14T06:12:37.223Z</updated>
+        <content type="html"><![CDATA[추위와 스트레스까지 한 방에 해결.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뜨끈한 국물 한 입! 몸을 따뜻하게 만들어주는 곰탕 맛집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82069</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82069"/>
+        <updated>2023-11-14T06:12:37.226Z</updated>
+        <content type="html"><![CDATA[목으로 넘어가는 순간 다 풀리네~!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성시경 찐픽! 회식 땡기는 맛집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82067</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82067"/>
+        <updated>2023-11-14T01:46:07.142Z</updated>
+        <content type="html"><![CDATA[슬슬 송년회 준비 스타트! 맛잘알 성시경 먹텐 리스트 중 술을 부르는 맛집만 모았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정국부터 사나까지! 내 '최애'의 스페셜 레시피]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81951</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81951"/>
+        <updated>2023-11-13T10:10:43.604Z</updated>
+        <content type="html"><![CDATA[‘최애’를 널리 알리기 위해 팬들이 레시피를 만드는 시대는 끝났다. 내 ‘최애’가 말아주는 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차의 최종 보스는? 신상 전기차 총정리]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82016</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82016"/>
+        <updated>2023-11-13T03:10:43.232Z</updated>
+        <content type="html"><![CDATA[도로 위를 질주하는 전기차의 최종 보스! 지금 주목해야 할 전기차 4대의 주행거리와 민첩성, ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82007</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82007"/>
+        <updated>2023-11-13T02:22:30.021Z</updated>
+        <content type="html"><![CDATA[이 라인업 실화냐?]]></content>
+    </entry>
+</feed>
