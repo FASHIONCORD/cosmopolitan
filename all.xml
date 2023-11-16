@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 01:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 02:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,13 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[라멘 먹고 갈래요? 라친자 하석진의 단골집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82110</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82110</guid>
+            <pubDate>Thu, 16 Nov 2023 02:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[라멘만 먹으러 군산까지 간다고?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[겨울 여행 숙소 찾는 중이라면? 올 겨울 에어비앤비를 주목해야 하는 이유! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82107</link>
             <guid>https://www.cosmopolitan.co.kr/article/82107</guid>
@@ -439,13 +446,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82069</guid>
             <pubDate>Tue, 14 Nov 2023 06:12:37 GMT</pubDate>
             <content:encoded><![CDATA[목으로 넘어가는 순간 다 풀리네~!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성시경 찐픽! 회식 땡기는 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82067</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82067</guid>
-            <pubDate>Tue, 14 Nov 2023 01:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[슬슬 송년회 준비 스타트! 맛잘알 성시경 먹텐 리스트 중 술을 부르는 맛집만 모았다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
