@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 00:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 01:52:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,7 +195,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82050</guid>
             <pubDate>Tue, 14 Nov 2023 15:09:22 GMT</pubDate>
             <content:encoded><![CDATA[일상의 사물과 주얼리, 가깝고도 특별한 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/dd76d321-d4d7-45b4-a273-a75706a57eac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘, 테디베어 코트 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -203,7 +202,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81939</guid>
             <pubDate>Mon, 13 Nov 2023 19:07:48 GMT</pubDate>
             <content:encoded><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘 테디베어 코트에 대한 모든 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/a902457a-a916-4af8-9d80-f18d46bbe6e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옷잘알 셀렙들의 유니크한 스타킹 스타일링 3 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -211,7 +209,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81987</guid>
             <pubDate>Mon, 13 Nov 2023 19:07:48 GMT</pubDate>
             <content:encoded><![CDATA[스타킹이 신의 한 수!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/f8f48b1e-c7f4-4216-9403-30da88e8a136.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윈터·장희령이 즐겨입는 겨울 시어링 코트 스타일링 5 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -219,7 +216,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81978</guid>
             <pubDate>Mon, 13 Nov 2023 19:07:48 GMT</pubDate>
             <content:encoded><![CDATA[뽀글이 만큼 손이 자주 가는 아이템도 없지~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/cc18bc68-4a94-4ebe-ac87-3f6a30520d45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뚝 기온이 떨어졌을 때 생각나는 보송보송 포근한 털신 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -227,7 +223,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81969</guid>
             <pubDate>Mon, 13 Nov 2023 19:07:48 GMT</pubDate>
             <content:encoded><![CDATA[귀여운 털신 장만에 나섰다면 보기에도 따뜻하고 신으면 더 훈훈한 ABC마트의 퍼 슈즈 ‘앨리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/43627c4a-33a1-44b6-b763-da69f847a51d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수십 년째 롱런하는 뷰티템은 달라도 너무 달라~ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -354,6 +349,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80548</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[&lt;성+인물 대만편&gt;에서 귀가 달아오른 ‘썸’ 이야기들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/1472a68f-30bf-41be-b5bb-6dc2f46818f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[30대 연애 시 ‘000’만은 하지 말자? 전현무의 조언 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -361,6 +357,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80407</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/c6f55eef-72a8-47ba-831d-752dad47ac86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑보다 무서운 건 정? <환연2> 해은의 장기 연애 꿀팁 대방출! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -368,6 +365,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80369</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[그놈의 정이 뭐라고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a400fcec-3ae9-4dfc-a989-404b14aeab61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘은 어플보다 데이트 문서가 대세? 애인 구합니다 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -375,6 +373,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80248</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[구인광고와 100문100답의 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/66df1898-ff07-4998-a8b4-7dc75761c86f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른이들 어서오고. 반려 토이, 부르부르의 모든 것을 알려드림 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -382,6 +381,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80149</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[애들은 가! 애들은 가!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/023591f4-c6ea-4b86-8d1f-6b9aa0017cce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게임에 져서 왔어요. 최악의 헌팅 멘트 톱 오브 톱 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -389,6 +389,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80054</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[최악의 헌팅 멘트 날리는 남자, 어떻게 거절하지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/2c9ebbdf-4e07-4e43-aba4-68710916aec7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한혜진도 가고 장근석도 갔다고? 결정사 가입 A to Z (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -396,6 +397,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80042</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/9f31eabc-10fb-4dff-b94f-c9c97ab1de41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라멘 먹고 갈래요? 라친자 하석진의 단골집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
