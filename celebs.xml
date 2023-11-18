@@ -1,73 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 02:22:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[겔랑의 마스터 퍼퓨머, 티에리 바세가 한국에 방문했다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81967</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81967</guid>
-            <pubDate>Thu, 16 Nov 2023 04:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[티에리 바세는 겔랑의 마스터 퍼퓨머 그리고 향기의 창조자다. 14년 만에 방한한 소감부터 그의...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사계절 퀸을 접수하러 온 권은비 등판! ✨👸]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82020</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82020</guid>
-            <pubDate>Wed, 15 Nov 2023 09:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[서머퀸 은비의 가을 추천템이 궁금하다면? CLICK!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82007</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82007</guid>
-            <pubDate>Tue, 14 Nov 2023 01:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[이 라인업 실화냐?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/0cab070a-6251-4472-a8bd-c91f08c453d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경부터 크러쉬까지! 피켓팅 각 나오는 연말 콘서트 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81989</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81989</guid>
-            <pubDate>Mon, 13 Nov 2023 09:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[지금 놓치면 1년 기다려야 하는 귀~한 공연만 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/de1cf8ba-a0c7-4d3e-8797-ca03c8f4980a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷔랑 찐친이라고? 셀렙&댄서 의외의 친분]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81985</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81985</guid>
-            <pubDate>Mon, 13 Nov 2023 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[월클도 반했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/726aa5f9-e9b1-4e3b-85d8-9f203ed64620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게이 같다고? 팬의 지적에 소신 발언한 남돌의 정체]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81984</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81984</guid>
-            <pubDate>Sat, 11 Nov 2023 15:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[헤어 메이크업 맘에 안 든다고 차별 발언? 안 되지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/d99a644b-c7a7-4172-b7c5-c3e64e8766ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연예인 중의 연예인, 장원영 평판 모음zip]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81975</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81975</guid>
-            <pubDate>Fri, 10 Nov 2023 03:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[최소 데뷔 20년차부터 최대 36년차 연예인이 말하는 장원영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/a6e98e74-d7b3-4258-99da-51c7f2ad6b48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소설, 잇다' 시리즈의 세 번째 책 <백룸>의 작가를 만나다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81961</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81961</guid>
-            <pubDate>Thu, 09 Nov 2023 08:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[우리 문학사에 충분히 기록되지 못한 근대 여성 작가와 현대 여성 작가의 소설을 한 권에 담아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/4ec30cf8-b803-4fe7-968a-2ebf96ce91a5.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2023-11-18T03:10:39.933Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겔랑의 마스터 퍼퓨머, 티에리 바세가 한국에 방문했다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81967</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81967"/>
+        <updated>2023-11-16T04:11:18.721Z</updated>
+        <content type="html"><![CDATA[티에리 바세는 겔랑의 마스터 퍼퓨머 그리고 향기의 창조자다. 14년 만에 방한한 소감부터 그의...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사계절 퀸을 접수하러 온 권은비 등판! ✨👸]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82020</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82020"/>
+        <updated>2023-11-15T09:10:19.209Z</updated>
+        <content type="html"><![CDATA[서머퀸 은비의 가을 추천템이 궁금하다면? CLICK!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 페스티벌 1티어 GMF 랜선 투어 다녀왔습니다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82007</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82007"/>
+        <updated>2023-11-14T01:45:50.386Z</updated>
+        <content type="html"><![CDATA[이 라인업 실화냐?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성시경부터 크러쉬까지! 피켓팅 각 나오는 연말 콘서트 모음]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81989</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81989"/>
+        <updated>2023-11-13T09:10:23.931Z</updated>
+        <content type="html"><![CDATA[지금 놓치면 1년 기다려야 하는 귀~한 공연만 모았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷔랑 찐친이라고? 셀렙&댄서 의외의 친분]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81985</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81985"/>
+        <updated>2023-11-13T03:10:24.329Z</updated>
+        <content type="html"><![CDATA[월클도 반했다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게이 같다고? 팬의 지적에 소신 발언한 남돌의 정체]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81984</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81984"/>
+        <updated>2023-11-11T15:08:16.207Z</updated>
+        <content type="html"><![CDATA[헤어 메이크업 맘에 안 든다고 차별 발언? 안 되지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연예인 중의 연예인, 장원영 평판 모음zip]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81975</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81975"/>
+        <updated>2023-11-10T03:09:45.157Z</updated>
+        <content type="html"><![CDATA[최소 데뷔 20년차부터 최대 36년차 연예인이 말하는 장원영.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소설, 잇다' 시리즈의 세 번째 책 <백룸>의 작가를 만나다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81961</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81961"/>
+        <updated>2023-11-09T08:15:09.945Z</updated>
+        <content type="html"><![CDATA[우리 문학사에 충분히 기록되지 못한 근대 여성 작가와 현대 여성 작가의 소설을 한 권에 담아...]]></content>
+    </entry>
+</feed>
