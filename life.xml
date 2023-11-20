@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-20T02:24:58.228Z</updated>
+    <updated>2023-11-20T03:11:17.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서촌 핫플레이스부터 맛잘알 에디터의 찐 맛집 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82150</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82150"/>
+        <updated>2023-11-20T03:11:09.683Z</updated>
+        <content type="html"><![CDATA[디지털 팀이 n개월만에 함께한 가을맞이 소풍🍁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콜드브루·레몬 맥주 등 이색 술안주 꿀 조합은?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82149</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82091"/>
         <updated>2023-11-15T09:11:04.257Z</updated>
         <content type="html"><![CDATA[입벌려, 신메뉴 들어간다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 여행 전 필수 시청! 혜리·소진의 삿포로 먹방 투어]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82081</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82081"/>
-        <updated>2023-11-14T09:09:44.879Z</updated>
-        <content type="html"><![CDATA[스프카레·라멘·규카츠까지 맛집 좌표 싹 짚어드림.]]></content>
     </entry>
 </feed>
