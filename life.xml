@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-20T04:12:47.771Z</updated>
+    <updated>2023-11-20T05:09:54.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍진경·한혜진·박나래까지! 내돈내산 쇼핑 리스트 무엇!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82223</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82223"/>
+        <updated>2023-11-20T05:09:43.153Z</updated>
+        <content type="html"><![CDATA[리치 언니들의 진정한 플렉스 쇼핑 리스트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교토만 N번째! 일본잘알 에디터의 교토 숨은 구석구석 탐방기!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82151</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82151"/>
+        <updated>2023-11-20T05:09:43.158Z</updated>
+        <content type="html"><![CDATA[대표 교토 명소부터 구석구석 숨은 사찰들까지 모두 공개!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서촌 핫플레이스부터 맛잘알 에디터의 찐 맛집 공개!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82150</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82107"/>
         <updated>2023-11-16T01:52:52.321Z</updated>
         <content type="html"><![CDATA[“우리 에어비앤비가 조금 달라졌어요!” 미디어 라운드 테이블에서 확인한 겨울 업데이트 사항.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1톤 트럭에 베스파까지? 한혜진의 차량 리스트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82105</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82105"/>
-        <updated>2023-11-16T01:52:52.323Z</updated>
-        <content type="html"><![CDATA[세컨카로 1톤 트럭 사고, 자전거 대신 바이크를 사버리는 스케일!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악’소리나는 신메뉴 대결, 박나래 김치버터 vs 이영자 리코타치즈 트러플 스프레드]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82091</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82091"/>
-        <updated>2023-11-15T09:11:04.257Z</updated>
-        <content type="html"><![CDATA[입벌려, 신메뉴 들어간다!]]></content>
     </entry>
 </feed>

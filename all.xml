@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 04:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,20 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[홍진경·한혜진·박나래까지! 내돈내산 쇼핑 리스트 무엇! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82223</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82223</guid>
+            <pubDate>Mon, 20 Nov 2023 05:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[리치 언니들의 진정한 플렉스 쇼핑 리스트.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[교토만 N번째! 일본잘알 에디터의 교토 숨은 구석구석 탐방기! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82151</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82151</guid>
+            <pubDate>Mon, 20 Nov 2023 05:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[대표 교토 명소부터 구석구석 숨은 사찰들까지 모두 공개!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서촌 핫플레이스부터 맛잘알 에디터의 찐 맛집 공개! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82150</link>
             <guid>https://www.cosmopolitan.co.kr/article/82150</guid>
@@ -433,20 +447,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82107</guid>
             <pubDate>Thu, 16 Nov 2023 01:52:52 GMT</pubDate>
             <content:encoded><![CDATA[“우리 에어비앤비가 조금 달라졌어요!” 미디어 라운드 테이블에서 확인한 겨울 업데이트 사항.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1톤 트럭에 베스파까지? 한혜진의 차량 리스트 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82105</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82105</guid>
-            <pubDate>Thu, 16 Nov 2023 01:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[세컨카로 1톤 트럭 사고, 자전거 대신 바이크를 사버리는 스케일!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘악’소리나는 신메뉴 대결, 박나래 김치버터 vs 이영자 리코타치즈 트러플 스프레드 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82091</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82091</guid>
-            <pubDate>Wed, 15 Nov 2023 09:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[입벌려, 신메뉴 들어간다!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
