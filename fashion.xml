@@ -1,68 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 21:09:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[패딩도 패셔너블하게! 한소희·홍은채 등 셀럽 패딩 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82076</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82076</guid>
-            <pubDate>Mon, 20 Nov 2023 06:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[패딩 입고도 멋스럽게 스타일링하는 비법?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[얼죽코 모여랏! 셀럽 겨울 롱코트 패션 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82075</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82075</guid>
-            <pubDate>Thu, 16 Nov 2023 10:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[차정원·강민경·이해리의 코트 룩 살펴보기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[펑크 낫 데드! 다시 돌아온 펑크룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81968</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81968</guid>
-            <pubDate>Wed, 15 Nov 2023 15:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[펑크가 돌아왔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올 시즌 키 컬러 '레드'로 완성한 룩]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82057</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82057</guid>
-            <pubDate>Wed, 15 Nov 2023 15:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌 키 컬러인 ‘레드’와의 숨바꼭질.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일상 속 사물과 주얼리의 특별한 만남 7]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82050</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82050</guid>
-            <pubDate>Tue, 14 Nov 2023 15:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[일상의 사물과 주얼리, 가깝고도 특별한 만남.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘, 테디베어 코트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81939</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81939</guid>
-            <pubDate>Mon, 13 Nov 2023 08:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘 테디베어 코트에 대한 모든 것.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[옷잘알 셀렙들의 유니크한 스타킹 스타일링 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81987</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81987</guid>
-            <pubDate>Mon, 13 Nov 2023 08:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[스타킹이 신의 한 수!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윈터·장희령이 즐겨입는 겨울 시어링 코트 스타일링 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81978</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81978</guid>
-            <pubDate>Sun, 12 Nov 2023 15:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[뽀글이 만큼 손이 자주 가는 아이템도 없지~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/cc18bc68-4a94-4ebe-ac87-3f6a30520d45.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2023-11-20T22:10:50.061Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패딩도 패셔너블하게! 한소희·홍은채 등 셀럽 패딩 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82076</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82076"/>
+        <updated>2023-11-20T06:12:33.996Z</updated>
+        <content type="html"><![CDATA[패딩 입고도 멋스럽게 스타일링하는 비법?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼죽코 모여랏! 셀럽 겨울 롱코트 패션 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82075</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82075"/>
+        <updated>2023-11-16T10:09:52.805Z</updated>
+        <content type="html"><![CDATA[차정원·강민경·이해리의 코트 룩 살펴보기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펑크 낫 데드! 다시 돌아온 펑크룩]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81968</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81968"/>
+        <updated>2023-11-15T15:09:50.511Z</updated>
+        <content type="html"><![CDATA[펑크가 돌아왔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올 시즌 키 컬러 '레드'로 완성한 룩]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82057</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82057"/>
+        <updated>2023-11-15T15:09:50.512Z</updated>
+        <content type="html"><![CDATA[이번 시즌 키 컬러인 ‘레드’와의 숨바꼭질.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일상 속 사물과 주얼리의 특별한 만남 7]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82050</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82050"/>
+        <updated>2023-11-14T15:09:22.974Z</updated>
+        <content type="html"><![CDATA[일상의 사물과 주얼리, 가깝고도 특별한 만남.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘, 테디베어 코트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81939</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81939"/>
+        <updated>2023-11-13T08:12:03.562Z</updated>
+        <content type="html"><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘 테디베어 코트에 대한 모든 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옷잘알 셀렙들의 유니크한 스타킹 스타일링 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81987</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81987"/>
+        <updated>2023-11-13T08:12:03.563Z</updated>
+        <content type="html"><![CDATA[스타킹이 신의 한 수!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윈터·장희령이 즐겨입는 겨울 시어링 코트 스타일링 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81978</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81978"/>
+        <updated>2023-11-12T15:08:33.457Z</updated>
+        <content type="html"><![CDATA[뽀글이 만큼 손이 자주 가는 아이템도 없지~.]]></content>
+    </entry>
+</feed>
