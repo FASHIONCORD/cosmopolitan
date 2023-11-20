@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 01:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 02:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,13 @@
             <content:encoded><![CDATA[귀여운 털신 장만에 나섰다면 보기에도 따뜻하고 신으면 더 훈훈한 ABC마트의 퍼 슈즈 ‘앨리...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[다이슨으로 가을 헤어 케어 정복하기! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81970</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81970</guid>
+            <pubDate>Mon, 20 Nov 2023 02:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[가을바람에도 찰랑거리는 헤어를 연출하고 싶다면? 다이슨 헤어 케어 라인업의 네 번째 신제품 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[무려 10kg 감량? 성해은이 알려주는 부기 관리 팁! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82080</link>
             <guid>https://www.cosmopolitan.co.kr/article/82080</guid>
@@ -272,13 +279,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81986</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
             <content:encoded><![CDATA[동안 비결이 이거였어?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바이탈뷰티 메타그린과 포차코의 특별한 만남 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81973</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81973</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타그린×포차코 협업 에디션 한정판 출시.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[겔랑의 마스터 퍼퓨머, 티에리 바세가 한국에 방문했다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -393,6 +393,20 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[콜드브루·레몬 맥주 등 이색 술안주 꿀 조합은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82149</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82149</guid>
+            <pubDate>Mon, 20 Nov 2023 02:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[막내들의 하이텐션으로 리뷰해드림!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인증샷 성지 예감! 크리스마스 트리뷰 카페 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82134</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82134</guid>
+            <pubDate>Mon, 20 Nov 2023 02:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[미리 메리 크리스마스~.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[D-2! 수험생을 위한 이색 찹쌀떡 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82117</link>
             <guid>https://www.cosmopolitan.co.kr/article/82117</guid>
@@ -433,20 +447,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82081</guid>
             <pubDate>Tue, 14 Nov 2023 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[스프카레·라멘·규카츠까지 맛집 좌표 싹 짚어드림.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맥주 뿌실 때, 잊지 마요! 멈추지 마요! 청양 마요! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82072</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82072</guid>
-            <pubDate>Tue, 14 Nov 2023 07:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[비가 옵니다. 청양 마요 과자들에 사로잡힐 준’비’.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불 땐, 달콤한 핫초코 한 잔! 비주얼 갑 초콜릿 음료 맛집은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82070</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82070</guid>
-            <pubDate>Tue, 14 Nov 2023 06:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[추위와 스트레스까지 한 방에 해결.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

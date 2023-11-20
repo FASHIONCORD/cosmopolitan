@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-11-20T01:53:53.924Z</updated>
+    <updated>2023-11-20T02:24:58.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이슨으로 가을 헤어 케어 정복하기!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81970</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81970"/>
+        <updated>2023-11-20T02:24:25.608Z</updated>
+        <content type="html"><![CDATA[가을바람에도 찰랑거리는 헤어를 연출하고 싶다면? 다이슨 헤어 케어 라인업의 네 번째 신제품 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무려 10kg 감량? 성해은이 알려주는 부기 관리 팁!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82080</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81986"/>
         <updated>2023-11-12T16:09:52.228Z</updated>
         <content type="html"><![CDATA[동안 비결이 이거였어?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이탈뷰티 메타그린과 포차코의 특별한 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81973</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81973"/>
-        <updated>2023-11-11T15:08:04.897Z</updated>
-        <content type="html"><![CDATA[메타그린×포차코 협업 에디션 한정판 출시.]]></content>
     </entry>
 </feed>
