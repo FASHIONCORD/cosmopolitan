@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 01:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 02:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjRfMTc0/MDAxNjk4MTM4OTYzNTU4.MR6U8tzwwt1yra4PXxo_HrH-iIPtR-J3QxJKg56sadcg.8JIbCDDTIveCXE3BZxfDdNivn0bjo_NU7FzgDW2Wzfgg.JPEG/IoYVF56EG3ZNiE__WyG3mGWq_zYQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보송한 것이 좋아! 보기만 해도 따뜻한 퍼 부츠 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81971</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81971</guid>
+            <pubDate>Tue, 21 Nov 2023 02:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[보송한 것이 좋아! 올겨울 발끝까지 포근한 온기를 더해줄 퍼 슈즈를 찾는다면? 보기에도 따뜻하...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[패딩도 패셔너블하게! 한소희·홍은채 등 셀럽 패딩 패션 5 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82076</link>
             <guid>https://www.cosmopolitan.co.kr/article/82076</guid>
@@ -218,11 +225,11 @@
             <content:encoded><![CDATA[스타킹이 신의 한 수!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윈터·장희령이 즐겨입는 겨울 시어링 코트 스타일링 5 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81978</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81978</guid>
-            <pubDate>Mon, 13 Nov 2023 19:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[뽀글이 만큼 손이 자주 가는 아이템도 없지~.]]></content:encoded>
+            <title><![CDATA[여배우는 다 ‘00’ 영양제? 채정안의 건강 루틴 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82138</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82138</guid>
+            <pubDate>Tue, 21 Nov 2023 02:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[아침, 저녁으로 소금물을 마신다고?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11월 뷰티 소식 여기 다 모였네? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -272,13 +279,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82051</guid>
             <pubDate>Tue, 14 Nov 2023 10:11:03 GMT</pubDate>
             <content:encoded><![CDATA[올겨울에 꼭 장만해야 하는 아이섀도 구매 가이드.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[손민수 각! 신흥 뷰티 아이콘은 누구? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81947</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81947</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[너, 손민수! 자기만의 확고한 취향과 개성으로 수많은 추종자를 거느린, 떠오르는 신흥 뷰티 아...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[태연·크러쉬·박봄·비오 유니크 음색 왕들의 11월 컴백 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -393,6 +393,13 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한 모금하고 몸 녹이세요~ 서울에서 ‘따뜻한 술’ 파는 곳은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82225</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82225</guid>
+            <pubDate>Tue, 21 Nov 2023 02:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 따뜻한 술 마실 때!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[겨울 랜선 여행, 유럽 크리스마스 마켓! (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82224</link>
             <guid>https://www.cosmopolitan.co.kr/article/82224</guid>
@@ -440,13 +447,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82117</guid>
             <pubDate>Mon, 20 Nov 2023 01:53:45 GMT</pubDate>
             <content:encoded><![CDATA[이런 떡이라면 매일 먹을 수 있어요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[라멘 먹고 갈래요? 라친자 하석진의 단골집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82110</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82110</guid>
-            <pubDate>Thu, 16 Nov 2023 02:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[라멘만 먹으러 군산까지 간다고?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

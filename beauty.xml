@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-11-21T01:56:28.856Z</updated>
+    <updated>2023-11-21T02:27:07.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여배우는 다 ‘00’ 영양제? 채정안의 건강 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82138</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82138"/>
+        <updated>2023-11-21T02:26:38.815Z</updated>
+        <content type="html"><![CDATA[아침, 저녁으로 소금물을 마신다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 뷰티 소식 여기 다 모였네?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82124</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82051"/>
         <updated>2023-11-14T10:11:03.275Z</updated>
         <content type="html"><![CDATA[올겨울에 꼭 장만해야 하는 아이섀도 구매 가이드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손민수 각! 신흥 뷰티 아이콘은 누구?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81947</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81947"/>
-        <updated>2023-11-13T15:10:00.308Z</updated>
-        <content type="html"><![CDATA[너, 손민수! 자기만의 확고한 취향과 개성으로 수많은 추종자를 거느린, 떠오르는 신흥 뷰티 아...]]></content>
     </entry>
 </feed>
