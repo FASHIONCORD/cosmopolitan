@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 07:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 08:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,13 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[남주·여주 이름만 봐도 설레는 K-드라마 5편 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82229</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82229</guid>
+            <pubDate>Tue, 21 Nov 2023 08:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[공포·판타지·로맨스·스릴러까지 정주행각 장전시키는 2023년 겨울 시리즈들.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한 모금하고 몸 녹이세요~ 서울에서 ‘따뜻한 술’ 파는 곳은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82225</link>
             <guid>https://www.cosmopolitan.co.kr/article/82225</guid>
@@ -440,13 +447,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82134</guid>
             <pubDate>Mon, 20 Nov 2023 02:24:49 GMT</pubDate>
             <content:encoded><![CDATA[미리 메리 크리스마스~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[D-2! 수험생을 위한 이색 찹쌀떡 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82117</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82117</guid>
-            <pubDate>Mon, 20 Nov 2023 01:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[이런 떡이라면 매일 먹을 수 있어요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
