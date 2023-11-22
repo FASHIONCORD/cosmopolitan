@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 01:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 02:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,13 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연말 분위기 업! 2023 어드밴트 캘린더 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82232</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82232</guid>
+            <pubDate>Wed, 22 Nov 2023 02:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[선물하기에도 제격!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[눈 내릴 때 자리 잡으면 후회 없는 서울 근교 뷰멍 스팟 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82231</link>
             <guid>https://www.cosmopolitan.co.kr/article/82231</guid>
@@ -440,13 +447,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82150</guid>
             <pubDate>Mon, 20 Nov 2023 03:11:09 GMT</pubDate>
             <content:encoded><![CDATA[디지털 팀이 n개월만에 함께한 가을맞이 소풍🍁]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콜드브루·레몬 맥주 등 이색 술안주 꿀 조합은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82149</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82149</guid>
-            <pubDate>Mon, 20 Nov 2023 02:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[막내들의 하이텐션으로 리뷰해드림!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-22T01:54:55.627Z</updated>
+    <updated>2023-11-22T02:27:14.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 분위기 업! 2023 어드밴트 캘린더 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82232</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82232"/>
+        <updated>2023-11-22T02:26:36.628Z</updated>
+        <content type="html"><![CDATA[선물하기에도 제격!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈 내릴 때 자리 잡으면 후회 없는 서울 근교 뷰멍 스팟]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82231</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82150"/>
         <updated>2023-11-20T03:11:09.683Z</updated>
         <content type="html"><![CDATA[디지털 팀이 n개월만에 함께한 가을맞이 소풍🍁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콜드브루·레몬 맥주 등 이색 술안주 꿀 조합은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82149</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82149"/>
-        <updated>2023-11-20T02:24:49.921Z</updated>
-        <content type="html"><![CDATA[막내들의 하이텐션으로 리뷰해드림!]]></content>
     </entry>
 </feed>
