@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 02:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 03:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjVfMjA3/MDAxNjk4MTk3NTIxMDE5.9QIZHGUghcNBjVsO2DV5O3g2TdA5NXLsvvaaeXFAxlwg.fgV9CSHYc6rd-ygICn0Ll-nDCWEr5oxkfMC5WAjqN_kg.JPEG/IFdJ53QpdRggl-LF6Gvod3PT3RNM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이번 시즌 키컬러 '레드'를 주목해~ (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81972</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81972</guid>
+            <pubDate>Wed, 22 Nov 2023 03:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[이번 시즌 키 컬러인 ‘레드’와의 숨바꼭질.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[보송한 것이 좋아! 보기만 해도 따뜻한 퍼 부츠 (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81971</link>
             <guid>https://www.cosmopolitan.co.kr/article/81971</guid>
@@ -216,13 +223,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81939</guid>
             <pubDate>Mon, 13 Nov 2023 19:07:48 GMT</pubDate>
             <content:encoded><![CDATA[탄생 10주년을 맞은 막스마라의 아이콘 테디베어 코트에 대한 모든 것.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[옷잘알 셀렙들의 유니크한 스타킹 스타일링 3 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81987</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81987</guid>
-            <pubDate>Mon, 13 Nov 2023 19:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[스타킹이 신의 한 수!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피부와 환경을 생각한 비건 콜라겐 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
