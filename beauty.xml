@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-11-22T00:42:30.129Z</updated>
+    <updated>2023-11-22T01:54:55.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피부와 환경을 생각한 비건 콜라겐]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82111</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82111"/>
+        <updated>2023-11-22T01:54:05.719Z</updated>
+        <content type="html"><![CDATA[바르는 것만으로는 부족하다고 느껴진다면 피부는 물론 환경까지 생각한 비거너리 바이 달바의 ‘...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여배우는 다 ‘00’ 영양제? 채정안의 건강 루틴]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82138</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81967"/>
         <updated>2023-11-14T15:09:29.931Z</updated>
         <content type="html"><![CDATA[티에리 바세는 겔랑의 마스터 퍼퓨머 그리고 향기의 창조자다. 14년 만에 방한한 소감부터 그의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올겨울 품어야할 아이섀도 리스트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82051</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82051"/>
-        <updated>2023-11-14T10:11:03.275Z</updated>
-        <content type="html"><![CDATA[올겨울에 꼭 장만해야 하는 아이섀도 구매 가이드.]]></content>
     </entry>
 </feed>
