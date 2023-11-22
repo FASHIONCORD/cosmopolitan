@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 08:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 09:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 모금하고 몸 녹이세요~ 
+서울에서 ‘따뜻한 술’ 파는 곳은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36925682&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36925682&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 22 Nov 2023 09:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 따뜻한 술 마실 때!▼ 클릭 ▼가로수길 르 카페향긋한 커피와 달큰한 뱅쇼를 모두 즐길 수 있는 르 카페. 오렌지, 레몬, 계피 등 여러 과일의 향이 조화롭게 어우러져 자꾸만 마시게 된다. 겨울에 단연 매력적···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연말 분위기 업! 
 2023 어드밴트 캘린더 5]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 15 Nov 2023 04:10:47 GMT</pubDate>
             <content:encoded><![CDATA[(위부터 시계 방향으로) 지방시 뷰티 르 루즈 앵떼르디 크림 벨벳 N27 루즈 앙퓨제, N37 루즈 그레네, N15 누드 암브레 각각 5만3천원대. 홀터넥 니트 드레스 리볼브. 귀고리 스타일리스트 소장품. LIP ARTISTRY지방···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjRfNTcg/MDAxNjk4MTQwMDQwMjIx.GNeT0XDjpsHW82D_8BY548r3zkKSr3BvItDn6W6toGAg.mNR9t5ksrCPWZgz0J8rB1jzuXmqb3oTExpWMwr1bJcwg.JPEG/ICyHjlpMfjNKS9RJhb7Usn9j1XCQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우아함의 절정 #퍼퓸드말리]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36777825&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36777825&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 15 Nov 2023 04:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[WE’RE LUXURIOUS 관능적인 앰버 바닐라 우디 향이 돋보이는 알테어의 향은 18세기 향기로운 궁전으로부터 영감받은 만큼 우아함의 절정을 보여준다. 고전과 현대를 매혹적으로 재해석한 독특한 향은 앞서 말한···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjVfMjA3/MDAxNjk4MTk3NTIxMDE5.9QIZHGUghcNBjVsO2DV5O3g2TdA5NXLsvvaaeXFAxlwg.fgV9CSHYc6rd-ygICn0Ll-nDCWEr5oxkfMC5WAjqN_kg.JPEG/IFdJ53QpdRggl-LF6Gvod3PT3RNM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
