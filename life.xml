@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-23T07:10:00.910Z</updated>
+    <updated>2023-11-23T08:12:45.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실내 데이트로 딱! 전국 이색 찜질방 리스트 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82234</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82234"/>
+        <updated>2023-11-23T08:12:36.442Z</updated>
+        <content type="html"><![CDATA[1인 사우나부터 가족 단위 사우나까지 다 알려드림!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말 분위기 업! 2023 어드밴트 캘린더 5]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82232</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82151"/>
         <updated>2023-11-20T05:09:43.158Z</updated>
         <content type="html"><![CDATA[대표 교토 명소부터 구석구석 숨은 사찰들까지 모두 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서촌 핫플레이스부터 맛잘알 에디터의 찐 맛집 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82150</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82150"/>
-        <updated>2023-11-20T03:11:09.683Z</updated>
-        <content type="html"><![CDATA[디지털 팀이 n개월만에 함께한 가을맞이 소풍🍁]]></content>
     </entry>
 </feed>

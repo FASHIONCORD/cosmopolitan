@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 07:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 08:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,13 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[실내 데이트로 딱! 전국 이색 찜질방 리스트 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82234</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82234</guid>
+            <pubDate>Thu, 23 Nov 2023 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[1인 사우나부터 가족 단위 사우나까지 다 알려드림!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연말 분위기 업! 2023 어드밴트 캘린더 5 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82232</link>
             <guid>https://www.cosmopolitan.co.kr/article/82232</guid>
@@ -440,13 +447,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82151</guid>
             <pubDate>Mon, 20 Nov 2023 05:09:43 GMT</pubDate>
             <content:encoded><![CDATA[대표 교토 명소부터 구석구석 숨은 사찰들까지 모두 공개!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서촌 핫플레이스부터 맛잘알 에디터의 찐 맛집 공개! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82150</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82150</guid>
-            <pubDate>Mon, 20 Nov 2023 03:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 팀이 n개월만에 함께한 가을맞이 소풍🍁]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
