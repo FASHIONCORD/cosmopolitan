@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-11-24T00:39:44.908Z</updated>
+    <updated>2023-11-24T01:47:29.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연느는 곰신, 공블리는 럽스타? 1주년 맞은 셀렙 커플]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82092</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82092"/>
+        <updated>2023-11-24T01:46:50.347Z</updated>
+        <content type="html"><![CDATA[결혼 1주년을 축하해요!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류준열♥️혜리, 7년 만의 결별 후 의외의 근황?!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82078</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81985"/>
         <updated>2023-11-13T03:10:24.329Z</updated>
         <content type="html"><![CDATA[월클도 반했다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게이 같다고? 팬의 지적에 소신 발언한 남돌의 정체]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81984</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81984"/>
-        <updated>2023-11-11T15:08:16.207Z</updated>
-        <content type="html"><![CDATA[헤어 메이크업 맘에 안 든다고 차별 발언? 안 되지!]]></content>
     </entry>
 </feed>
