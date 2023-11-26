@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-26T06:12:09.854Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[실내 데이트로 딱! 전국 이색 찜질방 리스트 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82234</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82234"/>
-        <updated>2023-11-23T08:12:36.442Z</updated>
-        <content type="html"><![CDATA[1인 사우나부터 가족 단위 사우나까지 다 알려드림!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 분위기 업! 2023 어드밴트 캘린더 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82232</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82232"/>
-        <updated>2023-11-22T02:26:36.628Z</updated>
-        <content type="html"><![CDATA[선물하기에도 제격!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈 내릴 때 자리 잡으면 후회 없는 서울 근교 뷰멍 스팟]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82231</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82231"/>
-        <updated>2023-11-22T01:54:47.042Z</updated>
-        <content type="html"><![CDATA[멍 때리다 보면 로판 분위기 빌드업 시키는 강·호수·저수지 옆 카페들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남주·여주 이름만 봐도 설레는 K-드라마 5편]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82229</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82229"/>
-        <updated>2023-11-21T08:13:20.845Z</updated>
-        <content type="html"><![CDATA[공포·판타지·로맨스·스릴러까지 정주행각 장전시키는 2023년 겨울 시리즈들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 모금하고 몸 녹이세요~ 서울에서 ‘따뜻한 술’ 파는 곳은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82225</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82225"/>
-        <updated>2023-11-21T02:27:00.497Z</updated>
-        <content type="html"><![CDATA[지금은 따뜻한 술 마실 때!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 랜선 여행, 유럽 크리스마스 마켓!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82224</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82224"/>
-        <updated>2023-11-20T06:13:34.392Z</updated>
-        <content type="html"><![CDATA[크리스마스에 찐심, 동화 같은 유럽의 크리스마스 마켓으로 랜선 여행 어때!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍진경·한혜진·박나래까지! 내돈내산 쇼핑 리스트 무엇!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82223</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82223"/>
-        <updated>2023-11-20T05:09:43.153Z</updated>
-        <content type="html"><![CDATA[리치 언니들의 진정한 플렉스 쇼핑 리스트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교토만 N번째! 일본잘알 에디터의 교토 숨은 구석구석 탐방기!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82151</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82151"/>
-        <updated>2023-11-20T05:09:43.158Z</updated>
-        <content type="html"><![CDATA[대표 교토 명소부터 구석구석 숨은 사찰들까지 모두 공개!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 26 Nov 2023 07:09:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실내 데이트로 딱! 전국 이색 찜질방 리스트 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82234</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82234</guid>
+            <pubDate>Thu, 23 Nov 2023 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[1인 사우나부터 가족 단위 사우나까지 다 알려드림!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/9a1e6c38-532f-4382-b9d3-1d055b5e7b2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연말 분위기 업! 2023 어드밴트 캘린더 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82232</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82232</guid>
+            <pubDate>Wed, 22 Nov 2023 02:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[선물하기에도 제격!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/1d1fbe46-fe32-4c78-a766-266ecab84487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈 내릴 때 자리 잡으면 후회 없는 서울 근교 뷰멍 스팟]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82231</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82231</guid>
+            <pubDate>Wed, 22 Nov 2023 01:54:47 GMT</pubDate>
+            <content:encoded><![CDATA[멍 때리다 보면 로판 분위기 빌드업 시키는 강·호수·저수지 옆 카페들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/0720ad4b-98de-4c74-aa7b-ba15678acca1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남주·여주 이름만 봐도 설레는 K-드라마 5편]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82229</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82229</guid>
+            <pubDate>Tue, 21 Nov 2023 08:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[공포·판타지·로맨스·스릴러까지 정주행각 장전시키는 2023년 겨울 시리즈들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/4003f5dc-3075-493c-9920-7a480f8df973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 모금하고 몸 녹이세요~ 서울에서 ‘따뜻한 술’ 파는 곳은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82225</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82225</guid>
+            <pubDate>Tue, 21 Nov 2023 02:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 따뜻한 술 마실 때!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/2747f49a-8006-4317-9c0b-0767147fc4c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 랜선 여행, 유럽 크리스마스 마켓!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82224</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82224</guid>
+            <pubDate>Mon, 20 Nov 2023 06:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스에 찐심, 동화 같은 유럽의 크리스마스 마켓으로 랜선 여행 어때!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/962b86d3-3f0d-406b-85a6-ea3db9ab491c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍진경·한혜진·박나래까지! 내돈내산 쇼핑 리스트 무엇!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82223</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82223</guid>
+            <pubDate>Mon, 20 Nov 2023 05:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[리치 언니들의 진정한 플렉스 쇼핑 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/c346343b-a522-47e8-bd5c-323a8d84fb44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교토만 N번째! 일본잘알 에디터의 교토 숨은 구석구석 탐방기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82151</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82151</guid>
+            <pubDate>Mon, 20 Nov 2023 05:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[대표 교토 명소부터 구석구석 숨은 사찰들까지 모두 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/8b7d5b2f-def7-4030-b7ce-f1998f71cd10.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
