@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 07:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 08:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -394,6 +394,20 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[웨이팅은 필수? <콩콩팥팥> 역대급 맛집3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82305</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82305</guid>
+            <pubDate>Mon, 27 Nov 2023 08:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[경고! 키워서 만들어 먹는 것보다 매장 방문 성공이 더 어려울 수 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[분위기 대박적! 여심 사로잡는 크리스마스 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82303</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82303</guid>
+            <pubDate>Mon, 27 Nov 2023 08:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[기분 내기 딱 좋은 걸♥]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[12월, 큰거온다! <솔로지옥> 3 VS <환승연애> 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82283</link>
             <guid>https://www.cosmopolitan.co.kr/article/82283</guid>
@@ -434,20 +448,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82229</guid>
             <pubDate>Tue, 21 Nov 2023 08:13:20 GMT</pubDate>
             <content:encoded><![CDATA[공포·판타지·로맨스·스릴러까지 정주행각 장전시키는 2023년 겨울 시리즈들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한 모금하고 몸 녹이세요~ 서울에서 ‘따뜻한 술’ 파는 곳은? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82225</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82225</guid>
-            <pubDate>Tue, 21 Nov 2023 02:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 따뜻한 술 마실 때!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울 랜선 여행, 유럽 크리스마스 마켓! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82224</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82224</guid>
-            <pubDate>Mon, 20 Nov 2023 06:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스에 찐심, 동화 같은 유럽의 크리스마스 마켓으로 랜선 여행 어때!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
