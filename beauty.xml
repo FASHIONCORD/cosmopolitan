@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-11-27T04:12:18.638Z</updated>
+    <updated>2023-11-27T05:11:08.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[귀티 나는 사람의 특징은 ‘00’? 이나연이 모두 알려준다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82236</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82236"/>
+        <updated>2023-11-27T05:09:39.130Z</updated>
+        <content type="html"><![CDATA[한 끗 차이로 고급스러워지는 법!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저탄고지 다이어트의 핵심, 소유가 알려준다!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82226</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82080"/>
         <updated>2023-11-20T01:52:51.644Z</updated>
         <content type="html"><![CDATA[퉁퉁 부은 얼굴, 얼른 관리하자!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수십 년째 롱런하는 뷰티템은 달라도 너무 달라~]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82063</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82063"/>
-        <updated>2023-11-15T09:10:11.530Z</updated>
-        <content type="html"><![CDATA[변화에 변화를 거듭하며 엄마부터 딸까지 세대를 아우르는 역작의 오라. 수십 년째 롱런하는 스...]]></content>
     </entry>
 </feed>

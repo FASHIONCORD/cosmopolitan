@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-11-27T04:12:18.643Z</updated>
+    <updated>2023-11-27T05:11:08.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[본격 크리스마스 간식! 슈톨렌 대표 베이커리 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82258</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82258"/>
+        <updated>2023-11-27T05:10:30.415Z</updated>
+        <content type="html"><![CDATA[아직도 슈톨렌 안 먹어봤다면? 슈톨렌 찐맛집을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실내 데이트로 딱! 전국 이색 찜질방 리스트 5]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82234</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82223"/>
         <updated>2023-11-20T05:09:43.153Z</updated>
         <content type="html"><![CDATA[리치 언니들의 진정한 플렉스 쇼핑 리스트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교토만 N번째! 일본잘알 에디터의 교토 숨은 구석구석 탐방기!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82151</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82151"/>
-        <updated>2023-11-20T05:09:43.158Z</updated>
-        <content type="html"><![CDATA[대표 교토 명소부터 구석구석 숨은 사찰들까지 모두 공개!]]></content>
     </entry>
 </feed>
