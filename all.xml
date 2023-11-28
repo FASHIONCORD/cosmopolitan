@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 07:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 08:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -394,6 +394,13 @@
             <content:encoded><![CDATA[결정사 가입은 어떻게 할까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[성수 옆 한양대역 MZ 사로잡는 맛집 로드맵 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82438</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82438</guid>
+            <pubDate>Tue, 28 Nov 2023 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[나만 알고 싶은데 소문이 너무 빨라서 줄 설 수 있음 주의!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[비행기에 침대가? 비즈니스타고 하와이 오션뷰 호텔 간 SSUL푼다 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82362</link>
             <guid>https://www.cosmopolitan.co.kr/article/82362</guid>
@@ -441,13 +448,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82232</guid>
             <pubDate>Wed, 22 Nov 2023 02:26:36 GMT</pubDate>
             <content:encoded><![CDATA[선물하기에도 제격!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[눈 내릴 때 자리 잡으면 후회 없는 서울 근교 뷰멍 스팟 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82231</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82231</guid>
-            <pubDate>Wed, 22 Nov 2023 01:54:47 GMT</pubDate>
-            <content:encoded><![CDATA[멍 때리다 보면 로판 분위기 빌드업 시키는 강·호수·저수지 옆 카페들.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
