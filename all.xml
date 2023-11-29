@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 02:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 03:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,13 @@
             <content:encoded><![CDATA[일상의 사물과 주얼리, 가깝고도 특별한 만남.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대문자 ‘I’, 신민아가 하는 운동이 스텝퍼라고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82257</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82257</guid>
+            <pubDate>Wed, 29 Nov 2023 03:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[돌고 돌아 스텝퍼에 정착했다는데.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[겨울 피부는 이렇게! 안소희·이청아가 듬뿍 바르는 ‘00’ (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82240</link>
             <guid>https://www.cosmopolitan.co.kr/article/82240</guid>
@@ -272,13 +279,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/82118</guid>
             <pubDate>Mon, 20 Nov 2023 06:12:41 GMT</pubDate>
             <content:encoded><![CDATA[주 7회 웨이트하는 해은이 급할 때 사용한다는 강력한 한방!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다이슨으로 가을 헤어 케어 정복하기! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81970</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81970</guid>
-            <pubDate>Mon, 20 Nov 2023 02:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[가을바람에도 찰랑거리는 헤어를 연출하고 싶다면? 다이슨 헤어 케어 라인업의 네 번째 신제품 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Come and Taste Me, 영재가 만든 새로운 앨범, 새로운 자태 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
