@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-11-29T04:12:08.033Z</updated>
+    <updated>2023-11-29T05:09:53.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패션 에디터의 짧고 굵은 도쿄 1박2일 출장을 즐기는 방법!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82174</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82174"/>
+        <updated>2023-11-29T05:09:08.462Z</updated>
+        <content type="html"><![CDATA[셀린느 리씨부터 프라다 전시까지 눈이 즐겁다~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHAT'S HOT! 11월 핫한 패션 뉴스]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82145</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82057"/>
         <updated>2023-11-15T15:09:50.512Z</updated>
         <content type="html"><![CDATA[이번 시즌 키 컬러인 ‘레드’와의 숨바꼭질.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상 속 사물과 주얼리의 특별한 만남 7]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82050</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82050"/>
-        <updated>2023-11-14T15:09:22.974Z</updated>
-        <content type="html"><![CDATA[일상의 사물과 주얼리, 가깝고도 특별한 만남.]]></content>
     </entry>
 </feed>
