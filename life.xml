@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 08:13:15 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[블링 블링~ 크리스마스 소품이 가득한 편집숍 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82513</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82513</guid>
-            <pubDate>Wed, 29 Nov 2023 04:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[하나 둘 담다 보면 금세 텅장 각~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/29/43270b4b-9b96-4c7a-b5a8-d0af058a27cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초호화! 하와이 럭셔리 호텔 도장 깨러 왔습니다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82497</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82497</guid>
-            <pubDate>Wed, 29 Nov 2023 04:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[포시즌스 오아후에서 10일만 살고 싶다..]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/28/30ed4ba7-ea59-429a-9bed-c933a34a9637.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 분위기 물씬! 크리스마스 쿠키 맛집 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82491</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82491</guid>
-            <pubDate>Wed, 29 Nov 2023 02:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 기분이 좋아지는 성탄절 쿠키 모음.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/28/fb2581c7-9670-44f2-93f9-8d98d6adb634.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 예약은 필수! 연말 파티 즐기기 좋은 호텔 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82447</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82447</guid>
-            <pubDate>Wed, 29 Nov 2023 01:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[겨울 시즌 한정 패키지를 선보인다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/7e7e25dd-22b7-4c88-bc9a-598778f2d653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영 픽 서촌 핫플은 어디?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82444</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82444</guid>
-            <pubDate>Tue, 28 Nov 2023 11:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[카페·맛집·편집숍까지 싹 털어보았다~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/a9438ddb-d53d-4470-bb04-0c7c8928e054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방어회의 계절! 꼭 먹어야 할 전국구 방어 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82440</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82440</guid>
-            <pubDate>Tue, 28 Nov 2023 11:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[고소하고 부드러운 방어 먹을 시간~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/7d7c77e5-b623-4bad-a4d8-e16b78e7ea86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성수 옆 한양대역 MZ 사로잡는 맛집 로드맵]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82438</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82438</guid>
-            <pubDate>Tue, 28 Nov 2023 08:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[나만 알고 싶은데 소문이 너무 빨라서 줄 설 수 있음 주의!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/77072b47-5c78-4fa2-8a49-ccc49708d0f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비행기에 침대가? 비즈니스타고 하와이 오션뷰 호텔 간 SSUL푼다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82362</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82362</guid>
-            <pubDate>Tue, 28 Nov 2023 07:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[엄마 나 성공했어.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/8bc7ab37-3aa0-45ce-8979-2c9803d9f39d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-11-29T09:10:40.294Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블링 블링~ 크리스마스 소품이 가득한 편집숍 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82513</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82513"/>
+        <updated>2023-11-29T04:11:55.942Z</updated>
+        <content type="html"><![CDATA[하나 둘 담다 보면 금세 텅장 각~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초호화! 하와이 럭셔리 호텔 도장 깨러 왔습니다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82497</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82497"/>
+        <updated>2023-11-29T04:11:55.943Z</updated>
+        <content type="html"><![CDATA[포시즌스 오아후에서 10일만 살고 싶다..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 분위기 물씬! 크리스마스 쿠키 맛집 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82491</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82491"/>
+        <updated>2023-11-29T02:24:01.865Z</updated>
+        <content type="html"><![CDATA[보기만 해도 기분이 좋아지는 성탄절 쿠키 모음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미리 예약은 필수! 연말 파티 즐기기 좋은 호텔 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82447</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82447"/>
+        <updated>2023-11-29T01:52:46.316Z</updated>
+        <content type="html"><![CDATA[겨울 시즌 한정 패키지를 선보인다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김나영 픽 서촌 핫플은 어디?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82444</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82444"/>
+        <updated>2023-11-28T11:09:10.024Z</updated>
+        <content type="html"><![CDATA[카페·맛집·편집숍까지 싹 털어보았다~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방어회의 계절! 꼭 먹어야 할 전국구 방어 맛집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82440</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82440"/>
+        <updated>2023-11-28T11:09:10.027Z</updated>
+        <content type="html"><![CDATA[고소하고 부드러운 방어 먹을 시간~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성수 옆 한양대역 MZ 사로잡는 맛집 로드맵]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82438</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82438"/>
+        <updated>2023-11-28T08:12:36.762Z</updated>
+        <content type="html"><![CDATA[나만 알고 싶은데 소문이 너무 빨라서 줄 설 수 있음 주의!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비행기에 침대가? 비즈니스타고 하와이 오션뷰 호텔 간 SSUL푼다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82362</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82362"/>
+        <updated>2023-11-28T07:09:55.612Z</updated>
+        <content type="html"><![CDATA[엄마 나 성공했어.]]></content>
+    </entry>
+</feed>
