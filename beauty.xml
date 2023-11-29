@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-11-29T03:10:23.274Z</updated>
+    <updated>2023-11-29T04:12:08.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남자 연예인들 사이 열풍이라는 다이어트 비법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82302</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82302"/>
+        <updated>2023-11-29T04:11:31.852Z</updated>
+        <content type="html"><![CDATA[7년째 쌀과 밀가루를 끊었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대문자 ‘I’, 신민아가 하는 운동이 스텝퍼라고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82257</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82124"/>
         <updated>2023-11-20T06:12:41.447Z</updated>
         <content type="html"><![CDATA[New, Need, Now! 어? 예쁘다. 제대로 농협은행인 11월의 뷰티 신상!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뺄 데가 어딨나 싶은 <환연2> 해은이 한다는 다이어트 킥]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82118</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82118"/>
-        <updated>2023-11-20T06:12:41.450Z</updated>
-        <content type="html"><![CDATA[주 7회 웨이트하는 해은이 급할 때 사용한다는 강력한 한방!]]></content>
     </entry>
 </feed>
