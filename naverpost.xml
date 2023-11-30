@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 01:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 02:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조 말론 런던이 선사하는 
+달콤한 홀리데이의 향기?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36965187&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36965187&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 30 Nov 2023 02:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[진저비스킷과 오렌지 비터 칵테일, 조 말론 런던이 코끝을 스치는 설레는 순간.▼ 클릭 ▼겨울 시즌 칵테일을 모티프로 경쾌한 시트러스 노트에 비터 오렌지의 쌉쌀함을 더한 오렌지 비터스 코롱 100ml 23만원 JO MALO···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김나영 픽 서촌 핫플은 어디?!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36956132&amp;memberNo=11800362</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 15 Nov 2023 04:10:47 GMT</pubDate>
             <content:encoded><![CDATA[&lt;코스모폴리탄&gt;과 함께한 디지털 커버 공개!▼ 클릭 ▼ Fashion Editor 김소연 Photographer 배준선 Film 배준선 Set stylist 권도형 Hair 이보람(위위 아뜰리에) Makeup 장아영(위위 아뜰리에)···]]></content:encoded>
             <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fphinf.pstatic.net%2Fimage.nmv%2Fpost_2023_11_06_0%2Fac1161ec-7c42-11ee-ba6d-80615f0bcdae_01.jpg%22&type=fb500_195" length="0" type="image//"/>
-        </item>
-        <item>
-            <title><![CDATA[가을엔 등산~ 
-등산로 입구 찐 맛집 추천 3]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36823626&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36823626&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 15 Nov 2023 04:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[에디터가 직접 다녀온 맛집만을 엄선했다. ▼ 클릭 ▼ 가을엔 등산~ 등산로 입구 찐 맛집 추천 3 에디터가 직접 다녀온 맛집만을 엄선했다. www.cosmopolitan.co.kr  관악산 봉이전 관악산 하산 후, 전과 막걸리 조합···]]></content:encoded>
         </item>
     </channel>
 </rss>
