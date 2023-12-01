@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 09:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 10:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글렌모렌지가 선보이는 
+도쿄의 오렌지빛 홀리데이]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36971563&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36971563&amp;memberNo=11800362</guid>
+            <pubDate>Fri, 01 Dec 2023 10:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[때로는 강렬하게 때로는 달콤하게, 빠져들 수 밖에 없는 싱글 몰트 위스키의 매력. ▼ 클릭 ▼https://www.cosmopolitan.co.kr/article/82580?utm_source=naverpost&amp;utm_medium=referral&amp;utm_campaign···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[아크리스와 함께하는 행운 가득한 연말]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36971535&amp;memberNo=11800362</link>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 15 Nov 2023 04:10:47 GMT</pubDate>
             <content:encoded><![CDATA[주대복 주얼리를 만나 반짝이는 순간.말간 얼굴에 갈색 눈동자를 가진 김지영! 그녀가 주대복의 주얼리를 만나 반짝이는 순간을 포착했습니다. ‘주대복 로드스타’ 컬렉션 네크리스와 브레이슬릿, &amp;lsquo···]]></content:encoded>
             <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fphinf.pstatic.net%2Fimage.nmv%2Fpost_2023_11_14_0%2F8911ff48-82ba-11ee-9178-505dacfba98a_01.jpg%22&type=fb500_195" length="0" type="image//"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경부터 크러쉬까지! 
-피켓팅 각 나오는 연말 콘서트 모음]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36876274&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36876274&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 15 Nov 2023 04:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[지금 놓치면 1년 기다려야 하는 귀~한 공연만 모았다.아직 연말 계획이 없다면? 화려한 라인업의 연말 콘서트를 눈여겨 보자. 피켓팅이 예상되지만 입성만 한다면 유잼 보장! 에디터 추천 연말 콘서트만 모았다.크러···]]></content:encoded>
         </item>
     </channel>
 </rss>
