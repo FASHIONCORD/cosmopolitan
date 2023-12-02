@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 22:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 23:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -487,7 +487,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/63642</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/aa057e16-327b-41d8-b659-a5b643d33cce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -495,7 +494,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/63099</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/765a3322-7839-4aec-bbe0-4eab080760a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[질투하는 남친이 위험한 이유 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -503,7 +501,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/62775</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
