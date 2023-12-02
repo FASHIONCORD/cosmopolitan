@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 02:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 03:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,13 @@
             <content:encoded><![CDATA[괜히 아기 피부, 꿀 피부가 아니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[ITZY 예지의 선명한 자부심 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82185</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82185</guid>
+            <pubDate>Sat, 02 Dec 2023 03:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[뭐든 잘하는 예지에게 물었다. 팀에 대한 자부심, 무수히 흘린 땀과 노력, 치열하게 단련된 I...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Come and Taste Me, 영재가 만든 새로운 앨범, 새로운 자태 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/82188</link>
             <guid>https://www.cosmopolitan.co.kr/article/82188</guid>
@@ -326,13 +333,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81967</guid>
             <pubDate>Tue, 14 Nov 2023 15:09:29 GMT</pubDate>
             <content:encoded><![CDATA[티에리 바세는 겔랑의 마스터 퍼퓨머 그리고 향기의 창조자다. 14년 만에 방한한 소감부터 그의...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사계절 퀸을 접수하러 온 권은비 등판! ✨👸 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82020</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82020</guid>
-            <pubDate>Wed, 15 Nov 2023 09:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[서머퀸 은비의 가을 추천템이 궁금하다면? CLICK!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>

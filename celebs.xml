@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-02T02:19:15.889Z</updated>
+    <updated>2023-12-02T03:10:32.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ITZY 예지의 선명한 자부심]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82185</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82185"/>
+        <updated>2023-12-02T03:10:02.922Z</updated>
+        <content type="html"><![CDATA[뭐든 잘하는 예지에게 물었다. 팀에 대한 자부심, 무수히 흘린 땀과 노력, 치열하게 단련된 I...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come and Taste Me, 영재가 만든 새로운 앨범, 새로운 자태]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82188</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/81967"/>
         <updated>2023-11-16T04:11:18.721Z</updated>
         <content type="html"><![CDATA[티에리 바세는 겔랑의 마스터 퍼퓨머 그리고 향기의 창조자다. 14년 만에 방한한 소감부터 그의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사계절 퀸을 접수하러 온 권은비 등판! ✨👸]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82020</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82020"/>
-        <updated>2023-11-15T09:10:19.209Z</updated>
-        <content type="html"><![CDATA[서머퀸 은비의 가을 추천템이 궁금하다면? CLICK!]]></content>
     </entry>
 </feed>
