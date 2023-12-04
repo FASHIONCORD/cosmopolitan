@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-04T00:41:12.068Z</updated>
+    <updated>2023-12-04T01:54:09.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이걸 써야 업무 능률이 올라갑니다? 오피스 꿀템 대공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82607</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82607"/>
+        <updated>2023-12-04T01:53:43.453Z</updated>
+        <content type="html"><![CDATA[기상천외한 꿀템 와르르~]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알고 보면 더 재밌는 <서울의 봄> 비하인드 TMI]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82528</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82497"/>
         <updated>2023-11-29T04:11:55.943Z</updated>
         <content type="html"><![CDATA[포시즌스 오아후에서 10일만 살고 싶다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 분위기 물씬! 크리스마스 쿠키 맛집 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82491</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82491"/>
-        <updated>2023-11-29T02:24:01.865Z</updated>
-        <content type="html"><![CDATA[보기만 해도 기분이 좋아지는 성탄절 쿠키 모음.]]></content>
     </entry>
 </feed>
