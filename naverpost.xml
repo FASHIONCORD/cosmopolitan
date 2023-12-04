@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 01:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 02:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두의 로망으로 기억될 랑방의 향기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36983221&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36983221&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 04 Dec 2023 02:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[세 가지 향으로 특별해지는 당신의 홀리데이, 레 플레르 드 랑방.▼ 클릭 ▼이슬 맺힌 이른 아침의 촉촉함을 그대로 담아낸 듯 맑고 순수한 향. 섬세하게 퍼지는 워터 재스민과 릴리 오브 더 밸리의 풍부한 플로럴 향···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[글렌모렌지가 선보이는 
 도쿄의 오렌지빛 홀리데이]]></title>
@@ -157,14 +164,6 @@
             <pubDate>Wed, 15 Nov 2023 04:10:47 GMT</pubDate>
             <content:encoded><![CDATA[맑고 고운 주얼리와 김지영주대복의 북극성에서 영감받은 ‘주대복 ‘로드스타’ 네크리스와 브레이슬릿, 은방울 꽃 꽃말의 ‘행복, 순결’을 디자인 요소로 반영한 링으로 반짝이는 황홀···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTRfMjI4/MDAxNjk5OTQ1MDIzMTgx.vS4LeiKIuIdMiM-QL0x8HdZoaWpXRFKHUa2LSiGgc3og.CSLh_2-XKLiiw596Penuca7ZRe9jgEaoMFVh3j4aepUg.JPEG/Iw59PlZOqXf28M1mAV_pNvtI52d0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지영의 원픽 주얼리 엿보기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36882795&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36882795&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 15 Nov 2023 04:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[주대복 주얼리를 만나 반짝이는 순간.말간 얼굴에 갈색 눈동자를 가진 김지영! 그녀가 주대복의 주얼리를 만나 반짝이는 순간을 포착했습니다. ‘주대복 로드스타’ 컬렉션 네크리스와 브레이슬릿, &amp;lsquo···]]></content:encoded>
-            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fphinf.pstatic.net%2Fimage.nmv%2Fpost_2023_11_14_0%2F8911ff48-82ba-11ee-9178-505dacfba98a_01.jpg%22&type=fb500_195" length="0" type="image//"/>
         </item>
     </channel>
 </rss>
