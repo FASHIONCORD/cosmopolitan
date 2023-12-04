@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-12-04T14:09:39.968Z</updated>
+    <updated>2023-12-04T15:10:39.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캔들 덕후 주목! 홀리데이 신상 캔들 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82531</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82531"/>
+        <updated>2023-12-04T15:09:58.371Z</updated>
+        <content type="html"><![CDATA[타닥타닥, 어디서 좋은 냄새 안 나요? 차가워진 공간을 따스한 향으로 가득 채워줄 12월의 신...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스모 뷰티 어워즈 2023,  영광의 1위를 차지한 베스트 오브 베스트 뷰티템 1]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82590</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82442"/>
         <updated>2023-11-30T15:08:29.619Z</updated>
         <content type="html"><![CDATA[홈트로 몸매 라인 개조 가능?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 클렌저 고민 삭제! 아이돌픽 클렌저 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82437</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82437"/>
-        <updated>2023-11-30T15:08:29.620Z</updated>
-        <content type="html"><![CDATA[스킨케어·메이크업에 따라 클렌저 선택도 달라야 하는 게 킬포!]]></content>
     </entry>
 </feed>
