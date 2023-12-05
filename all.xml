@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/cosmopolitan/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-05T15:10:47.060Z</updated>
+    <updated>2023-12-05T16:12:45.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[당신의 눈빛을 한 층 더 매력적으로 
@@ -218,6 +218,13 @@
         <content type="html"><![CDATA[셀린느 리씨부터 프라다 전시까지 눈이 즐겁다~.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023,  영광의 1위를 차지한 베스트 오브 베스트 뷰티템 2 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82591</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82591"/>
+        <updated>2023-12-05T16:12:15.066Z</updated>
+        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[올해 뷰티 이슈 총망라, 2023 뷰티 연말 결산! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82662</id>
         <link href="https://www.cosmopolitan.co.kr/article/82662"/>
@@ -265,13 +272,6 @@
         <link href="https://www.cosmopolitan.co.kr/article/82529"/>
         <updated>2023-12-02T15:08:21.056Z</updated>
         <content type="html"><![CDATA[열정 불타오르네~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2주 다이어트 성공! 엄지원의 몸매 비결은 ‘000’? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82526</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82526"/>
-        <updated>2023-12-01T15:09:33.084Z</updated>
-        <content type="html"><![CDATA[필요한 건 의지뿐!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박수칠 때 떠난 청룡영화상 MC 김혜수, 그녀를 위한 후배들의 찬사 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
