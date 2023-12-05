@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-05T18:12:12.218Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[박수칠 때 떠난 청룡영화상 MC 김혜수, 그녀를 위한 후배들의 찬사]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82493</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82493"/>
-        <updated>2023-12-05T10:10:44.887Z</updated>
-        <content type="html"><![CDATA[청룡의 여인이여 영원하라!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 민규가 예상한 이번 줌터뷰 조회수는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82399</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82399"/>
-        <updated>2023-12-05T09:09:52.201Z</updated>
-        <content type="html"><![CDATA[민규의 TMI가 궁금하다면 컴온~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<스우파2>의 강렬한 존재감, 유일무이 힙합 크루 울플러의 완전체 화보!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82191</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82191"/>
-        <updated>2023-12-05T08:12:43.818Z</updated>
-        <content type="html"><![CDATA[&lt;스트릿 우먼 파이터2&gt;는 시작일 뿐. 울플러는 포효한다. 꺼지지 않고 맹렬히 타오르는 불처럼!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY 예지의 선명한 자부심]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82185</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82185"/>
-        <updated>2023-12-02T03:10:02.922Z</updated>
-        <content type="html"><![CDATA[뭐든 잘하는 예지에게 물었다. 팀에 대한 자부심, 무수히 흘린 땀과 노력, 치열하게 단련된 I...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come and Taste Me, 영재가 만든 새로운 앨범, 새로운 자태]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82188</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82188"/>
-        <updated>2023-11-29T01:52:24.442Z</updated>
-        <content type="html"><![CDATA[뭐든 '끝장나게' 잘하고 싶다는 영재에게서 발견한 새로운 얼굴.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓세븐 영재와 함께 DO IT할 사람~?✨]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82157</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82157"/>
-        <updated>2023-11-28T07:09:08.674Z</updated>
-        <content type="html"><![CDATA[올해의 라디오 DJ로 선정된 영재가 알려주는 스몰토크 비법 푼다~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톱스타들 총출동! '초롱이' 고규필 결혼식 모아보기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82136</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82136"/>
-        <updated>2023-11-24T08:11:59.953Z</updated>
-        <content type="html"><![CDATA[결혼식 사회는 김남길, 축가는 조현아?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연느는 곰신, 공블리는 럽스타? 1주년 맞은 셀렙 커플]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82092</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82092"/>
-        <updated>2023-11-24T01:46:50.347Z</updated>
-        <content type="html"><![CDATA[결혼 1주년을 축하해요!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Dec 2023 19:08:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박수칠 때 떠난 청룡영화상 MC 김혜수, 그녀를 위한 후배들의 찬사]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82493</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82493</guid>
+            <pubDate>Tue, 05 Dec 2023 10:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[청룡의 여인이여 영원하라!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/0fb1597e-bb41-4b7e-8dfe-772e25f6da10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴 민규가 예상한 이번 줌터뷰 조회수는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82399</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82399</guid>
+            <pubDate>Tue, 05 Dec 2023 09:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[민규의 TMI가 궁금하다면 컴온~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/24/4bbf0ed8-e483-4cc5-80c0-c9aaca109347.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스우파2>의 강렬한 존재감, 유일무이 힙합 크루 울플러의 완전체 화보!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82191</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82191</guid>
+            <pubDate>Tue, 05 Dec 2023 08:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;스트릿 우먼 파이터2&gt;는 시작일 뿐. 울플러는 포효한다. 꺼지지 않고 맹렬히 타오르는 불처럼!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/24/d1e38645-3345-4c2f-a77b-049e72eed2be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY 예지의 선명한 자부심]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82185</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82185</guid>
+            <pubDate>Sat, 02 Dec 2023 03:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[뭐든 잘하는 예지에게 물었다. 팀에 대한 자부심, 무수히 흘린 땀과 노력, 치열하게 단련된 I...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/dc1c15f5-42bc-4edf-b1de-b6243145cb46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Come and Taste Me, 영재가 만든 새로운 앨범, 새로운 자태]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82188</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82188</guid>
+            <pubDate>Wed, 29 Nov 2023 01:52:24 GMT</pubDate>
+            <content:encoded><![CDATA[뭐든 '끝장나게' 잘하고 싶다는 영재에게서 발견한 새로운 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/21/c7985871-380c-4c67-a694-954c0e980511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갓세븐 영재와 함께 DO IT할 사람~?✨]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82157</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82157</guid>
+            <pubDate>Tue, 28 Nov 2023 07:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[올해의 라디오 DJ로 선정된 영재가 알려주는 스몰토크 비법 푼다~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/3209be8b-73cd-4647-84ea-b1a77275c0b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톱스타들 총출동! '초롱이' 고규필 결혼식 모아보기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82136</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82136</guid>
+            <pubDate>Fri, 24 Nov 2023 08:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[결혼식 사회는 김남길, 축가는 조현아?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/15/6bcac7c9-cd0e-4799-b522-65f7bc95e4bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연느는 곰신, 공블리는 럽스타? 1주년 맞은 셀렙 커플]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82092</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82092</guid>
+            <pubDate>Fri, 24 Nov 2023 01:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[결혼 1주년을 축하해요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/b6fd6682-c84d-4fcc-865e-0b3297b3fda5.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
