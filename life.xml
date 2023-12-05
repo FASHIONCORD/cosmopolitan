@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-05T00:41:48.366Z</updated>
+    <updated>2023-12-05T01:53:27.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캔들 덕후 주목! 홀리데이 신상 캔들 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82531</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82531"/>
+        <updated>2023-12-05T01:53:19.190Z</updated>
+        <content type="html"><![CDATA[타닥타닥, 어디서 좋은 냄새 안 나요? 차가워진 공간을 따스한 향으로 가득 채워줄 12월의 신...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연말 파티에서 인싸 각! 알록달록 국내 전통주 7]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82487</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82487"/>
+        <updated>2023-12-05T01:53:19.192Z</updated>
+        <content type="html"><![CDATA[연말 파티 테이블을 화려하게 채워줄 알록달록 국내 전통주.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세팅하는 데 단 2분! 간편하게 꺼내 먹는 안주 4]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82486</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82518"/>
         <updated>2023-11-30T15:08:54.522Z</updated>
         <content type="html"><![CDATA[겨울은 아.묻.따 딸기지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽁꽁 언 몸을 녹여줄 도심 속 감성 가득 재즈 바 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82514</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82514"/>
-        <updated>2023-11-30T08:12:22.706Z</updated>
-        <content type="html"><![CDATA[혼자서도 좋고, 연인과도 좋고~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블링 블링~ 크리스마스 소품이 가득한 편집숍 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82513</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82513"/>
-        <updated>2023-11-29T04:11:55.942Z</updated>
-        <content type="html"><![CDATA[하나 둘 담다 보면 금세 텅장 각~]]></content>
     </entry>
 </feed>
