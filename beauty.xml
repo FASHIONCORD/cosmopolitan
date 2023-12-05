@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-12-05T01:53:27.525Z</updated>
+    <updated>2023-12-05T02:25:32.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대세는 립세린? 올겨울 립 케어는 이거로!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82535</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82535"/>
+        <updated>2023-12-05T02:24:37.611Z</updated>
+        <content type="html"><![CDATA[대세는 립세린! LG생활건강을 대표하는 16개 브랜드에서 다양한 기능, 콘셉트, 향을 적용한 뉴 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캔들 덕후 주목! 홀리데이 신상 캔들 4]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82531</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82523"/>
         <updated>2023-12-01T02:30:21.163Z</updated>
         <content type="html"><![CDATA[데뷔 25주년 비, 아침에 눈 뜨면 달걀을 삶는다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜버 제이제이의 지방 재배치 운동법 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82442</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82442"/>
-        <updated>2023-11-30T15:08:29.619Z</updated>
-        <content type="html"><![CDATA[홈트로 몸매 라인 개조 가능?]]></content>
     </entry>
 </feed>
