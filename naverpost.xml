@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-06T04:11:55.533Z</updated>
+    <updated>2023-12-06T05:10:15.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘리케이의 마법같은 타임 리버스 크림]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36996510&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36996510&amp;memberNo=11800362"/>
+        <updated>2023-12-06T05:08:52.290Z</updated>
+        <content type="html"><![CDATA[해가 지날수록 깊어져만 가는 탄력 고민 해결을 위한 안티에이징 성분의 타임 리버스 크림과 타임 리버스 머드 크림 마스크 트라이얼.▼ 클릭 ▼탄력과 주름 개선에 효과적인 안티에이징 성분이 피부 깊숙한 곳까지 쫀···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신의 눈빛을 한 층 더 매력적으로 
 만들어줄 린드버그 아이웨어]]></title>
@@ -153,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36925682&amp;memberNo=11800362"/>
         <updated>2023-11-22T09:09:30.655Z</updated>
         <content type="html"><![CDATA[지금은 따뜻한 술 마실 때!▼ 클릭 ▼가로수길 르 카페향긋한 커피와 달큰한 뱅쇼를 모두 즐길 수 있는 르 카페. 오렌지, 레몬, 계피 등 여러 과일의 향이 조화롭게 어우러져 자꾸만 마시게 된다. 겨울에 단연 매력적···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 분위기 업! 
-2023 어드밴트 캘린더 5]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36919750&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36919750&amp;memberNo=11800362"/>
-        <updated>2023-11-21T09:09:33.600Z</updated>
-        <content type="html"><![CDATA[선물하기에도 제격!▼ 클릭 ▼스와로브스키디즈니의 100주년을 기념하여 탄생한 스와로브스키의 어드밴트 캘린더. 디즈니 캐릭터와 크리스마스 소품을 모티브로 한 22종의 오너먼트와 2개의 감각적인 목걸이, 스티커 ···]]></content>
     </entry>
 </feed>
