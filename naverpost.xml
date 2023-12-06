@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-06T05:10:15.345Z</updated>
+    <updated>2023-12-06T06:12:57.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어딜 가나 시선 집중! 
+로에베가 수놓은 한 폭의 그림]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36996533&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36996533&amp;memberNo=11800362"/>
+        <updated>2023-12-06T06:12:10.595Z</updated>
+        <content type="html"><![CDATA[눈을 뗄 수 없는 앙증맞은 디테일의 향연, 스물 퍼즐 엣지 백 맨드레이크와 해먹 컴팩트 백 판다. ▼ 클릭 ▼ 어딜 가나 시선 집중! 로에베가 수놓은 한 폭의 그림 눈을 뗄 수 없는 앙증맞은 디테일의 향연, 스물 퍼즐···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘리케이의 마법같은 타임 리버스 크림]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=36996510&amp;memberNo=11800362</id>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36931680&amp;memberNo=11800362"/>
         <updated>2023-11-23T10:09:21.415Z</updated>
         <content type="html"><![CDATA[단발로 자르고 리즈 등극한 연예인은 누구?아이브 가을단발로 자르고 리즈 찍었다는 아이브 가을. 중단발 길이의 단발이 그녀에게 찰떡이에요. 칼단발보다 윗부분에 볼륨을 준 중단발 헤어를 주로 하죠. 가을처럼 둥···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 모금하고 몸 녹이세요~ 
-서울에서 ‘따뜻한 술’ 파는 곳은?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36925682&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36925682&amp;memberNo=11800362"/>
-        <updated>2023-11-22T09:09:30.655Z</updated>
-        <content type="html"><![CDATA[지금은 따뜻한 술 마실 때!▼ 클릭 ▼가로수길 르 카페향긋한 커피와 달큰한 뱅쇼를 모두 즐길 수 있는 르 카페. 오렌지, 레몬, 계피 등 여러 과일의 향이 조화롭게 어우러져 자꾸만 마시게 된다. 겨울에 단연 매력적···]]></content>
     </entry>
 </feed>
