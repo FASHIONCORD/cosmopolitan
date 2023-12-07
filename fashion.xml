@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-12-07T14:09:23.279Z</updated>
+    <updated>2023-12-07T15:10:55.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울이 좋은 이유는? 신상 윈터 액세서리 덕분!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82741</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82741"/>
+        <updated>2023-12-07T15:10:00.375Z</updated>
+        <content type="html"><![CDATA[매서운 추위도 즐기고 싶게 만드는 윈터 액세서리들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20주년을 맞이한 톰 브라운 비하인드]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82533</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82530"/>
         <updated>2023-12-04T08:12:22.472Z</updated>
         <content type="html"><![CDATA[이것만 알아도 득템 성공?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가디건은 두르는 게 요즘 트렌드! 겨울 가디건 활용법 총정리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82489</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82489"/>
-        <updated>2023-12-03T15:07:56.723Z</updated>
-        <content type="html"><![CDATA[차정원·오눅 등 패피들은 가디건을 허리에 묶지.]]></content>
     </entry>
 </feed>
