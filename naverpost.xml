@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-07T07:10:22.959Z</updated>
+    <updated>2023-12-07T08:13:21.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찰랑이는 머릿결을 위한 마지막 터치]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37003666&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37003666&amp;memberNo=11800362"/>
+        <updated>2023-12-07T08:12:23.429Z</updated>
+        <content type="html"><![CDATA[미쟝센 세럼의 격이 다른 부드러움과 찰랑임으로 모두의 시선을 사로잡는 시간. ▼ 클릭 ▼ 찰랑이는 머릿결을 위한 마지막 터치 미쟝센 세럼의 격이 다른 부드러움과 찰랑임으로 모두의 시선을 사로잡는 시간. www.co···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다니엘웰링턴과 함께하는 
 반짝이는 연말]]></title>
@@ -152,13 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36956101&amp;memberNo=11800362"/>
         <updated>2023-11-28T09:09:46.796Z</updated>
         <content type="html"><![CDATA[고소하고 부드러운 방어 먹을 시간~.▼ 클릭 ▼부산 – 까치놀부산에서 까치놀을 빼고 방어회를 얘기하면 섭섭하다. 등살, 갈비살, 배꼽살 등 방어의 매력을 제대로 느낄 수 있는 여러 부위가 골고루 나오는데다,···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨이팅은 필수? 
-<콩콩팥팥> 역대급 맛집3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36935377&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36935377&amp;memberNo=11800362"/>
-        <updated>2023-11-27T01:51:55.112Z</updated>
-        <content type="html"><![CDATA[경고! 키워서 만들어 먹는 것보다 매장 방문 성공이 더 어려울 수 있다. ▼ 클릭 ▼ 웨이팅은 필수? &lt;콩콩팥팥&gt; 역대급 맛집3 경고! 키워서 만들어 먹는 것보다 매장 방문 성공이 더 어려울 수 있다. www.cosmop···]]></content>
     </entry>
 </feed>
