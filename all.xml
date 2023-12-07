@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/cosmopolitan/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-07T00:40:53.806Z</updated>
+    <updated>2023-12-07T01:52:26.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[크리스마스엔 
@@ -217,6 +217,13 @@
         <content type="html"><![CDATA[술은 무조건 두 병이야!]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비건 8년차 임수정, 회식은 어떡해요? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82763</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82763"/>
+        <updated>2023-12-07T01:51:53.481Z</updated>
+        <content type="html"><![CDATA[임수정이 &lt;유퀴즈&gt;, SNS에서 공개! 비건도 회식에서 맛있게 먹을 수 있는 방법은?]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[코스모 뷰티 어워즈 2023,  영광의 1위를 차지한 베스트 오브 베스트 뷰티템 5 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82627</id>
         <link href="https://www.cosmopolitan.co.kr/article/82627"/>
@@ -264,13 +271,6 @@
         <link href="https://www.cosmopolitan.co.kr/article/82597"/>
         <updated>2023-12-06T03:10:31.545Z</updated>
         <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션&뷰티 업계 6인의 러기지 뷰티 아이템은 무엇? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82695</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82695"/>
-        <updated>2023-12-06T03:10:31.554Z</updated>
-        <content type="html"><![CDATA[좋은 건 같이 써요. 패션&amp;뷰티 업계 6인의 진짜 여행 메이트, 러기지 뷰티 아이템.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[치인다 치여, 악기 연주하는 남자 아이돌 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
