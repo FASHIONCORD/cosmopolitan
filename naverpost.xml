@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-08T07:09:33.706Z</updated>
+    <updated>2023-12-08T08:13:08.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말룩에 정점을 찍어줄 
+티파니 주얼리 컬렉션]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37009624&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37009624&amp;memberNo=11800362"/>
+        <updated>2023-12-08T08:11:58.423Z</updated>
+        <content type="html"><![CDATA[연말이면 유독 더 빛나고 싶은 당신을 위해 티파니가 선물하는 환상적인 홀리데이.▼ 클릭 ▼T 모티브가 특징인 로즈 골드 T1 힌지드 뱅글, 파베 다이아몬드가 아름답게 빛나는 로즈 골드 T1 와이드 링 모두 가격 미정···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타임리스 아이콘, 페라가모 워치]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37008666&amp;memberNo=11800362</id>
@@ -151,13 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36966956&amp;memberNo=11800362"/>
         <updated>2023-11-30T07:08:58.238Z</updated>
         <content type="html"><![CDATA[지금이 아니면 가질 수 없는 오쏘몰X해리스트위드의 특별한 패키지와 함께 즐기는 연말 파티.▼ 클릭 ▼ 1991 년부터 연구한 미량영양소 설계 원칙을 담은 독일 프리미엄 브랜드 오쏘몰과 1830 년에 탄생한 영국 정통 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조 말론 런던이 선사하는 
-달콤한 홀리데이의 향기?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36965187&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36965187&amp;memberNo=11800362"/>
-        <updated>2023-11-30T02:23:09.799Z</updated>
-        <content type="html"><![CDATA[진저비스킷과 오렌지 비터 칵테일, 조 말론 런던이 코끝을 스치는 설레는 순간.▼ 클릭 ▼겨울 시즌 칵테일을 모티프로 경쾌한 시트러스 노트에 비터 오렌지의 쌉쌀함을 더한 오렌지 비터스 코롱 100ml 23만원 JO MALO···]]></content>
     </entry>
 </feed>
