@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-08T00:41:35.755Z</updated>
+    <updated>2023-12-08T01:53:53.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에코로 완성하는 
+따뜻한 홀리데이 파티룩]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37007163&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37007163&amp;memberNo=11800362"/>
+        <updated>2023-12-08T01:52:43.553Z</updated>
+        <content type="html"><![CDATA[스타일리시함과 따뜻함을 모두 챙겨줄, 올겨울 당신의 패션 위시리스트를 가득 채울 에코.▼ 클릭 ▼나타샤 램지 레비가 디자인한 리미티드 에디션으로 윈터 룩에 패셔너블한 포인트가 되어줄 화이트 롱부츠. 에코 자···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찰랑이는 머릿결을 위한 마지막 터치]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37003666&amp;memberNo=11800362</id>
@@ -151,13 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36956132&amp;memberNo=11800362"/>
         <updated>2023-11-29T00:39:54.202Z</updated>
         <content type="html"><![CDATA[카페·맛집·편집숍까지 싹 털어보았다~. ▼ 클릭 ▼ 김나영 픽 서촌 핫플은 어디?! 카페·맛집·편집숍까지 싹 털어보았다~. www.cosmopolitan.co.kr  서촌 맛집 ‘안덕’ &nbsp; &nbsp;김나영 픽&nbsp;서촌&nbsp;맛집은? 진한 만둣국을 파는 한···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방어회의 계절! 
-꼭 먹어야 할 전국구 방어 맛집]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36956101&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36956101&amp;memberNo=11800362"/>
-        <updated>2023-11-28T09:09:46.796Z</updated>
-        <content type="html"><![CDATA[고소하고 부드러운 방어 먹을 시간~.▼ 클릭 ▼부산 – 까치놀부산에서 까치놀을 빼고 방어회를 얘기하면 섭섭하다. 등살, 갈비살, 배꼽살 등 방어의 매력을 제대로 느낄 수 있는 여러 부위가 골고루 나오는데다,···]]></content>
     </entry>
 </feed>
