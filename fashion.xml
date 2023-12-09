@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-12-09T14:08:34.894Z</updated>
+    <updated>2023-12-09T15:08:38.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년아 가지마! 4개의 도시가 담은 올해의 마지막]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82787</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82787"/>
+        <updated>2023-12-09T15:07:58.940Z</updated>
+        <content type="html"><![CDATA[12월이 되면 한 해 중 가장 빛나는 광경이 펼쳐진다. 서울, 뉴욕, 베를린, 골드코스트 4개의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이즈·오눅·차정원 등 셀럽 도쿄 여행 패션 5]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82765</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82524"/>
         <updated>2023-12-05T15:10:00.432Z</updated>
         <content type="html"><![CDATA[뜨거운 연말을 맞이할 준비 완료! 지금 주목해야 할 패션 이슈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 픽! 12월 아이템은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82516</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82516"/>
-        <updated>2023-12-04T15:09:50.255Z</updated>
-        <content type="html"><![CDATA[코스모가 픽한 12월의 아이템.]]></content>
     </entry>
 </feed>
