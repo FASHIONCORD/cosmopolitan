@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 21:08:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이 계절에 꼭 가야 할 서울 오뎅 바 리스트 업]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82727</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82727</guid>
-            <pubDate>Fri, 08 Dec 2023 15:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[쫀득한 어묵과 시원한 국물 조합, 계속 당기네?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/1c0a0c38-4874-4e23-8af1-048be94f0cbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘은 이게 대세! 조승우·기안84·이시언의 신상 바이크]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82716</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82716</guid>
-            <pubDate>Thu, 07 Dec 2023 15:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[엄마한테 등짝 스매싱 맞겠지만, 갖고 싶은 걸?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/d37cd248-7d4e-489e-a7f3-7383e3c26209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리 끝판왕! 한정판 크리스마스 호텔 케이크 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82703</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82703</guid>
-            <pubDate>Thu, 07 Dec 2023 15:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[늦으면 못 먹어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/58ebf0e4-87da-4bba-8b14-64b123f91b39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원부터 경상까지! 전국 스키장 개장일 총정리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82702</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82702</guid>
-            <pubDate>Wed, 06 Dec 2023 10:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[한파도 ‘순삭’시키는 스키의 매력! 주말 데이트 고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/787e4432-c0d0-44c1-b866-08f6dd6ed0f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가슴이 웅장해지는 산더미 딸기 퍼포먼스 카페 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82673</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82673</guid>
-            <pubDate>Tue, 05 Dec 2023 08:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[겨울과 딸기 조합 제대로 즐길 줄 아는 서울 곳곳 딸기 맛집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/5de8aa0b-715b-4f2b-a722-b9ac30c9911a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장 가서 봐야 하는 12월 연말 띵작]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82670</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82670</guid>
-            <pubDate>Tue, 05 Dec 2023 08:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 띵작들이 떠먹여주는 12월 연말 감성.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/607588e6-9bd8-4116-824d-069b9b575025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 페스티벌 1티어! 그랜드 민트 페스티벌 A to Z]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82488</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82488</guid>
-            <pubDate>Tue, 05 Dec 2023 06:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코스모폴리탄&gt;과 &lt;그랜드 민트 페스티벌&gt;의 이유 있는 만남! 가을날의 정취를 더 짙게 물들인 &lt;...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/03/e00915a5-8165-4316-92c9-00cba670e643.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캔들 덕후 주목! 홀리데이 신상 캔들 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82531</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82531</guid>
-            <pubDate>Tue, 05 Dec 2023 01:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[타닥타닥, 어디서 좋은 냄새 안 나요? 차가워진 공간을 따스한 향으로 가득 채워줄 12월의 신...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/02/558ccc09-6c6f-48b8-a2ae-cb7443b90c92.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2023-12-09T22:09:13.108Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 계절에 꼭 가야 할 서울 오뎅 바 리스트 업]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82727</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82727"/>
+        <updated>2023-12-08T15:10:04.009Z</updated>
+        <content type="html"><![CDATA[쫀득한 어묵과 시원한 국물 조합, 계속 당기네?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘은 이게 대세! 조승우·기안84·이시언의 신상 바이크]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82716</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82716"/>
+        <updated>2023-12-07T15:10:48.666Z</updated>
+        <content type="html"><![CDATA[엄마한테 등짝 스매싱 맞겠지만, 갖고 싶은 걸?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[럭셔리 끝판왕! 한정판 크리스마스 호텔 케이크 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82703</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82703"/>
+        <updated>2023-12-07T15:10:48.667Z</updated>
+        <content type="html"><![CDATA[늦으면 못 먹어요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강원부터 경상까지! 전국 스키장 개장일 총정리]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82702</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82702"/>
+        <updated>2023-12-06T10:10:14.297Z</updated>
+        <content type="html"><![CDATA[한파도 ‘순삭’시키는 스키의 매력! 주말 데이트 고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가슴이 웅장해지는 산더미 딸기 퍼포먼스 카페 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82673</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82673"/>
+        <updated>2023-12-05T08:13:06.774Z</updated>
+        <content type="html"><![CDATA[겨울과 딸기 조합 제대로 즐길 줄 아는 서울 곳곳 딸기 맛집들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극장 가서 봐야 하는 12월 연말 띵작]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82670</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82670"/>
+        <updated>2023-12-05T08:13:06.776Z</updated>
+        <content type="html"><![CDATA[믿고 보는 띵작들이 떠먹여주는 12월 연말 감성.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 페스티벌 1티어! 그랜드 민트 페스티벌 A to Z]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82488</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82488"/>
+        <updated>2023-12-05T06:13:06.891Z</updated>
+        <content type="html"><![CDATA[&lt;코스모폴리탄&gt;과 &lt;그랜드 민트 페스티벌&gt;의 이유 있는 만남! 가을날의 정취를 더 짙게 물들인 &lt;...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캔들 덕후 주목! 홀리데이 신상 캔들 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82531</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82531"/>
+        <updated>2023-12-05T01:53:19.190Z</updated>
+        <content type="html"><![CDATA[타닥타닥, 어디서 좋은 냄새 안 나요? 차가워진 공간을 따스한 향으로 가득 채워줄 12월의 신...]]></content>
+    </entry>
+</feed>
