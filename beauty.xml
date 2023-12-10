@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-12-09T23:09:23.076Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이 조합 칭찬해! 함께 쓰면 시너지 UP 뷰티템 조합]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82788</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82788"/>
-        <updated>2023-12-09T15:08:06.294Z</updated>
-        <content type="html"><![CDATA[문제적 피부에 브레이크를 걸어줄 환상의 혹한기 듀오템.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 차지한 베스트 오브 베스트 뷰티템 6]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82628</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82628"/>
-        <updated>2023-12-08T15:09:22.072Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 편의점은 다이어트 천국! #저비용다이어트가 뭐야?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82767</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82767"/>
-        <updated>2023-12-08T08:12:15.692Z</updated>
-        <content type="html"><![CDATA[2달러로 다이어트 한 끼 가능할까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈밑, 볼에 콕! 장원영·허윤진 등 아이돌 매력점 포인트 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82764</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82764"/>
-        <updated>2023-12-08T01:52:59.793Z</updated>
-        <content type="html"><![CDATA[‘점’ 이제 가리지 마세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비건 8년차 임수정, 회식은 어떡해요?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82763</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82763"/>
-        <updated>2023-12-07T01:51:53.481Z</updated>
-        <content type="html"><![CDATA[임수정이 &lt;유퀴즈&gt;, SNS에서 공개! 비건도 회식에서 맛있게 먹을 수 있는 방법은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023,  영광의 1위를 차지한 베스트 오브 베스트 뷰티템 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82627</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82627"/>
-        <updated>2023-12-06T15:10:11.987Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘임산부 요가’에 도전? 만삭 강소라의 관리 비법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82755</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82755"/>
-        <updated>2023-12-06T07:08:56.993Z</updated>
-        <content type="html"><![CDATA[D라인에도 요가 척척이네~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 한 달 살이 중 소희가 꽂혔다는 운동의 정체?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82754</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82754"/>
-        <updated>2023-12-06T07:08:56.994Z</updated>
-        <content type="html"><![CDATA[중요한 건 여행 중에도 꺾이지 않는 운동~.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 10 Dec 2023 00:44:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 조합 칭찬해! 함께 쓰면 시너지 UP 뷰티템 조합]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82788</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82788</guid>
+            <pubDate>Sat, 09 Dec 2023 15:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[문제적 피부에 브레이크를 걸어줄 환상의 혹한기 듀오템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/07/5bcda169-da5f-48a5-8296-9bb86e3db7ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 차지한 베스트 오브 베스트 뷰티템 6]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82628</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82628</guid>
+            <pubDate>Fri, 08 Dec 2023 15:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/295c29ff-b977-431e-bf62-ab3c798e0cdd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 편의점은 다이어트 천국! #저비용다이어트가 뭐야?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82767</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82767</guid>
+            <pubDate>Fri, 08 Dec 2023 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[2달러로 다이어트 한 끼 가능할까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/9aaf34e1-55e7-4e05-bc6c-7aab7d3c5499.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈밑, 볼에 콕! 장원영·허윤진 등 아이돌 매력점 포인트 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82764</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82764</guid>
+            <pubDate>Fri, 08 Dec 2023 01:52:59 GMT</pubDate>
+            <content:encoded><![CDATA[‘점’ 이제 가리지 마세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/5725ed74-ffc0-4597-8cfd-8ca36ad6dcb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비건 8년차 임수정, 회식은 어떡해요?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82763</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82763</guid>
+            <pubDate>Thu, 07 Dec 2023 01:51:53 GMT</pubDate>
+            <content:encoded><![CDATA[임수정이 &lt;유퀴즈&gt;, SNS에서 공개! 비건도 회식에서 맛있게 먹을 수 있는 방법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/5f0c60f8-30e7-4bb1-a342-82a9d796e72c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023,  영광의 1위를 차지한 베스트 오브 베스트 뷰티템 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82627</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82627</guid>
+            <pubDate>Wed, 06 Dec 2023 15:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/2df5ab64-a905-485b-ba7a-ee74742cff46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘임산부 요가’에 도전? 만삭 강소라의 관리 비법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82755</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82755</guid>
+            <pubDate>Wed, 06 Dec 2023 07:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[D라인에도 요가 척척이네~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/3c27c98c-8ae5-4bb6-b614-d5e455241f8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 한 달 살이 중 소희가 꽂혔다는 운동의 정체?!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82754</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82754</guid>
+            <pubDate>Wed, 06 Dec 2023 07:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[중요한 건 여행 중에도 꺾이지 않는 운동~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/0613fbd5-b5d2-4bfb-9e41-e927a3721bf1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
