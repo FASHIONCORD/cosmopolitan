@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-11T07:09:58.845Z</updated>
+    <updated>2023-12-11T08:13:26.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[있지 예지는 밥 잘 사주는 쿨한 선배?!🎓]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82758</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82758"/>
+        <updated>2023-12-11T08:13:04.628Z</updated>
+        <content type="html"><![CDATA[상상력 만렙 예지와 ‘만약에 게임’ START!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혜리가 소진을 울렸다고? 셀렙들의 스페셜한 브라이덜 샤워]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82753</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82493"/>
         <updated>2023-12-05T10:10:44.887Z</updated>
         <content type="html"><![CDATA[청룡의 여인이여 영원하라!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 민규가 예상한 이번 줌터뷰 조회수는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82399</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82399"/>
-        <updated>2023-12-05T09:09:52.201Z</updated>
-        <content type="html"><![CDATA[민규의 TMI가 궁금하다면 컴온~]]></content>
     </entry>
 </feed>

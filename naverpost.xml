@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-11T07:09:58.851Z</updated>
+    <updated>2023-12-11T08:13:26.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새하얀 눈밭 위에 피워낸 
+마르게리타의 반짝임]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37021229&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37021229&amp;memberNo=11800362"/>
+        <updated>2023-12-11T08:12:42.408Z</updated>
+        <content type="html"><![CDATA[새하얀 세상, 우아하게 존재감을 피워낸 다미아니 마르게리타의 꽃망울.▼ 클릭 ▼ 엔리코 그라시 다미아니가 1900년대 초 마르게리타 여왕에게 헌정한 링에서 영감받아 만든 컬렉션으로, 데이지꽃 형태와 볼륨을 정교···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한겨울에도 끄덕없는 
 라부르켓 뷰티 리추얼]]></title>
@@ -150,13 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36971503&amp;memberNo=11800362"/>
         <updated>2023-12-01T06:12:40.084Z</updated>
         <content type="html"><![CDATA[화려한 조명 아래에서도 끄덕 없는 무결점 피부를 선물해줄 설화수 퍼펙팅 쿠션 &amp; 퍼펙팅 쿠션 에어리.▼ 클릭 ▼ 업그레이드된 슬림핏커버TM 포뮬러로 소량으로도 얼굴 전체에 펴 바를 수 있다. 24시간 유지되는 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목욕 그 이상의 즐거움, 
-더바디샵과 함께하는 배쓰타임.]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36971478&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36971478&amp;memberNo=11800362"/>
-        <updated>2023-12-01T02:30:05.332Z</updated>
-        <content type="html"><![CDATA[크리스마스에는 달콤함을! 더바디샵과 함께 샤르르 녹아드는 즐거운 샤워 타임.▼ 클릭 ▼ 홀리데이 한정 ‘페어 앤 쉐어’ 라인의 샤워젤. 달달한 배와 은은한 모란, 상큼한 베리 향이 어우러져 샤워의 즐···]]></content>
     </entry>
 </feed>

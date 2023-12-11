@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-11T07:09:58.849Z</updated>
+    <updated>2023-12-11T08:13:26.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[색다른 교토 여행을 즐기고 싶다면? 두짓 타니 교토]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82822</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82822"/>
+        <updated>2023-12-11T08:13:19.253Z</updated>
+        <content type="html"><![CDATA[일본의 오모테나시와 태국의 호스피탈리티가 만났다. 2023년 교토에 오픈한 따끈따끈한 신상 호텔...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알코올 러버 주목! 연말 숙취 해소 솔루션]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82799</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82702"/>
         <updated>2023-12-06T10:10:14.297Z</updated>
         <content type="html"><![CDATA[한파도 ‘순삭’시키는 스키의 매력! 주말 데이트 고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가슴이 웅장해지는 산더미 딸기 퍼포먼스 카페 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82673</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82673"/>
-        <updated>2023-12-05T08:13:06.774Z</updated>
-        <content type="html"><![CDATA[겨울과 딸기 조합 제대로 즐길 줄 아는 서울 곳곳 딸기 맛집들.]]></content>
     </entry>
 </feed>
