@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2023-12-11T14:10:46.379Z</updated>
+    <updated>2023-12-11T15:11:17.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해는 블랙이 다시 유행? 블랙 코트의 귀환!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82774</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82774"/>
+        <updated>2023-12-11T15:10:11.670Z</updated>
+        <content type="html"><![CDATA[완전무결의 색, 고아한 아름다움을 품은 블랙 코트의 귀환.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리지아&김진경의 '찐' 옷장 털기]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82812</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82686"/>
         <updated>2023-12-06T15:10:03.427Z</updated>
         <content type="html"><![CDATA[바라클라바 하나로 힙한 무드 UP!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하우스 브랜드들의 스키 컬렉션 모음 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82534</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82534"/>
-        <updated>2023-12-06T15:10:03.429Z</updated>
-        <content type="html"><![CDATA[뜨거운 연말을 맞이할 준비 완료! 지금 주목해야 할 패션 이슈.]]></content>
     </entry>
 </feed>
