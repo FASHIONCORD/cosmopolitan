@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-11T01:53:45.926Z</updated>
+    <updated>2023-12-11T02:25:11.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[챠밍함으로 완전 무장한 마르니의 겨울]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37018966&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37018966&amp;memberNo=11800362"/>
+        <updated>2023-12-11T02:24:03.847Z</updated>
+        <content type="html"><![CDATA[폭닥폭닥 귀여운 눈사람을 연상시키는 마르니의 뮤제오 시어링 백&amp;빅풋 2.0 스니커즈▼ 클릭 ▼맥시멀리즘의 미학을 담은 제품으로 청키한 밑창이 통통 튀는 매력을 선사하는 빅풋 2.0 스니커즈, 전면의 포근한 시···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말룩에 정점을 찍어줄 
 티파니 주얼리 컬렉션]]></title>
@@ -151,13 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36967563&amp;memberNo=11800362"/>
         <updated>2023-11-30T08:11:32.893Z</updated>
         <content type="html"><![CDATA[포근하고 세련된 디자인의 ABC마트 겨울 슈즈를 신고, 하얀 눈밭을 뛰놀며 남기는 너와 나의 발자국.▼ 클릭 ▼ 신고 벗기 편한 블로퍼 스타일로 폭신폭신한 퍼 안감과 고급스러운 스웨이드 소재가 만나 멋스러운 윈터···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오쏘몰X해리스트위드 
-패키지로 즐기는 홀리데이 시즌]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36966956&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36966956&amp;memberNo=11800362"/>
-        <updated>2023-11-30T07:08:58.238Z</updated>
-        <content type="html"><![CDATA[지금이 아니면 가질 수 없는 오쏘몰X해리스트위드의 특별한 패키지와 함께 즐기는 연말 파티.▼ 클릭 ▼ 1991 년부터 연구한 미량영양소 설계 원칙을 담은 독일 프리미엄 브랜드 오쏘몰과 1830 년에 탄생한 영국 정통 ···]]></content>
     </entry>
 </feed>
