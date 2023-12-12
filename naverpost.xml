@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-12T01:54:22.451Z</updated>
+    <updated>2023-12-12T02:25:30.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루 한 포, 생기 가득한 하루의 시작!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37024691&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37024691&amp;memberNo=11800362"/>
+        <updated>2023-12-12T02:24:31.506Z</updated>
+        <content type="html"><![CDATA[하루 한 포로 피부 속부터 탄탄하게 채우는 생기 넘치는 피부 자신감, 바이탈뷰티 슈퍼 레티놀 C.▼ 클릭 ▼아모레퍼시픽의 29년간 레티놀 연구 기술을 바탕으로 피부과 전문의와 공동 개발한 먹는 레티놀.주요 성분인···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새하얀 눈밭 위에 피워낸 
 마르게리타의 반짝임]]></title>
@@ -150,13 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36971535&amp;memberNo=11800362"/>
         <updated>2023-12-01T08:11:39.434Z</updated>
         <content type="html"><![CDATA[들고 다니는 것만으로도 행운이 함께할 것 같은 기분, 복주머니를 닮은 아크리스의 밤부 안나 호보백.▼ 클릭 ▼ 호보백 또는 사다리꼴 주머니 모양으로 다양하게 연출할 수 있다. 군더더기 없는 디자인과 히든 마그네···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완벽한 홀리데이를 위한 
-가장 완벽한 쿠션.]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36971503&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36971503&amp;memberNo=11800362"/>
-        <updated>2023-12-01T06:12:40.084Z</updated>
-        <content type="html"><![CDATA[화려한 조명 아래에서도 끄덕 없는 무결점 피부를 선물해줄 설화수 퍼펙팅 쿠션 &amp; 퍼펙팅 쿠션 에어리.▼ 클릭 ▼ 업그레이드된 슬림핏커버TM 포뮬러로 소량으로도 얼굴 전체에 펴 바를 수 있다. 24시간 유지되는 ···]]></content>
     </entry>
 </feed>

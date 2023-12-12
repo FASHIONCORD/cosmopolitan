@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-12T01:54:22.447Z</updated>
+    <updated>2023-12-12T02:25:30.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주류 기업은 술 잘 마셔야 한다고? 디아지오의 모든 것]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82862</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82862"/>
+        <updated>2023-12-12T02:25:23.312Z</updated>
+        <content type="html"><![CDATA[조니워커, 기네스, 싱글톤, 탈리스커, 돈 훌리오, 스미노프, 베일리스…. 라인업만 들어도 화려하...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[색다른 교토 여행을 즐기고 싶다면? 두짓 타니 교토]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82822</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82703"/>
         <updated>2023-12-07T15:10:48.667Z</updated>
         <content type="html"><![CDATA[늦으면 못 먹어요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원부터 경상까지! 전국 스키장 개장일 총정리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82702</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82702"/>
-        <updated>2023-12-06T10:10:14.297Z</updated>
-        <content type="html"><![CDATA[한파도 ‘순삭’시키는 스키의 매력! 주말 데이트 고?]]></content>
     </entry>
 </feed>
