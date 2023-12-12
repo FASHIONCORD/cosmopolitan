@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/cosmopolitan/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-12T14:10:00.212Z</updated>
+    <updated>2023-12-12T15:10:32.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[매끈한 내일을 위한 마법같은 한 방울 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
@@ -157,6 +157,13 @@
         <content type="html"><![CDATA[세 가지 향으로 특별해지는 당신의 홀리데이, 레 플레르 드 랑방.▼ 클릭 ▼이슬 맺힌 이른 아침의 촉촉함을 그대로 담아낸 듯 맑고 순수한 향. 섬세하게 퍼지는 워터 재스민과 릴리 오브 더 밸리의 풍부한 플로럴 향···]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[자유분방한 로큰롤 감성이 느껴지는 셀린느의 톰보이 (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82810</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82810"/>
+        <updated>2023-12-12T15:09:36.229Z</updated>
+        <content type="html"><![CDATA[자유분방한 로큰롤 감성과 조우한 셀린느의 톰보이.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[화제의 아톰 부츠를 만든 예술집단! '미스치프'를 만나다 (코스모폴리탄 코리아 ─ 패션)]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82793</id>
         <link href="https://www.cosmopolitan.co.kr/article/82793"/>
@@ -204,13 +211,6 @@
         <link href="https://www.cosmopolitan.co.kr/article/82741"/>
         <updated>2023-12-07T15:10:00.375Z</updated>
         <content type="html"><![CDATA[매서운 추위도 즐기고 싶게 만드는 윈터 액세서리들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20주년을 맞이한 톰 브라운 비하인드 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82533</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82533"/>
-        <updated>2023-12-07T08:12:30.641Z</updated>
-        <content type="html"><![CDATA[뜨거운 연말을 맞이할 준비 완료! 지금 주목해야 할 패션 이슈.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 스킨케어템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
