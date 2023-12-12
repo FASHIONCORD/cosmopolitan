@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-12T05:10:00.834Z</updated>
+    <updated>2023-12-12T06:13:54.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온종일 향기로움이 가득하도록]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37026031&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37026031&amp;memberNo=11800362"/>
+        <updated>2023-12-12T06:12:39.947Z</updated>
+        <content type="html"><![CDATA[모임이 많은 연말에도 은은한 향기를 잃고 싶지 않은 당신을 위해! 가볍게 뽑아 쓰는 향기로운 드라이시트, 캐스터네츠.▼ 클릭 ▼캐스터네츠 드라이시트는 세탁물에 따라 한 장씩 간편하게 뽑아 건조기에 넣어 사용할···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루 한 포, 생기 가득한 하루의 시작!]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37024691&amp;memberNo=11800362</id>
@@ -150,12 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36971563&amp;memberNo=11800362"/>
         <updated>2023-12-01T10:10:02.031Z</updated>
         <content type="html"><![CDATA[때로는 강렬하게 때로는 달콤하게, 빠져들 수 밖에 없는 싱글 몰트 위스키의 매력.▼ 클릭 ▼ 빌 럼스덴 박사가 도쿄 방문 때 느낀 기억, 정취, 그리고 처음으로 미즈나라 캐스크를 실험하고자한 열정에서 비롯되어 탄···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아크리스와 함께하는 행운 가득한 연말]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36971535&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36971535&amp;memberNo=11800362"/>
-        <updated>2023-12-01T08:11:39.434Z</updated>
-        <content type="html"><![CDATA[들고 다니는 것만으로도 행운이 함께할 것 같은 기분, 복주머니를 닮은 아크리스의 밤부 안나 호보백.▼ 클릭 ▼ 호보백 또는 사다리꼴 주머니 모양으로 다양하게 연출할 수 있다. 군더더기 없는 디자인과 히든 마그네···]]></content>
     </entry>
 </feed>
