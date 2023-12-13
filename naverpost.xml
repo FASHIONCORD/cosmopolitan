@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-13T00:41:12.701Z</updated>
+    <updated>2023-12-13T01:53:46.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오래도록 함께할 선물을 전하고 싶다면]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37030282&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37030282&amp;memberNo=11800362"/>
+        <updated>2023-12-13T01:52:28.995Z</updated>
+        <content type="html"><![CDATA[한겨울의 고요한 푸른 밤을 닮은 몽블랑의 클래식 에센셜 아이템.▼ 클릭 ▼ https://www.cosmopolitan.co.kr/article/82944몽블랑의 시그너처인 마이스터트튁 필기구에서 영감받았다. 만년필 닙 모양의 레더 디테일과···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매끈한 내일을 위한 마법같은 한 방울]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37026858&amp;memberNo=11800362</id>
@@ -149,12 +156,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36985880&amp;memberNo=11800362"/>
         <updated>2023-12-04T09:10:12.202Z</updated>
         <content type="html"><![CDATA[심플하지만 세련된 포인트가 필요한 당신을 위해. 로제도르 주얼리로 완성하는 연말의 설레임.▼ 클릭 ▼심플한 실루엣과 세련된 조형미를 강조한 모던 이터니티 엣지 팔찌 2백56만9천원 ROSÉED’OR.사선 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두의 로망으로 기억될 랑방의 향기]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=36983221&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=36983221&amp;memberNo=11800362"/>
-        <updated>2023-12-04T02:23:59.726Z</updated>
-        <content type="html"><![CDATA[세 가지 향으로 특별해지는 당신의 홀리데이, 레 플레르 드 랑방.▼ 클릭 ▼이슬 맺힌 이른 아침의 촉촉함을 그대로 담아낸 듯 맑고 순수한 향. 섬세하게 퍼지는 워터 재스민과 릴리 오브 더 밸리의 풍부한 플로럴 향···]]></content>
     </entry>
 </feed>
