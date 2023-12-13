@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-12-13T02:25:12.377Z</updated>
+    <updated>2023-12-13T03:11:19.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한혜진은 셀룰라이트 없는 이유, 따로 있다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82902</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82902"/>
+        <updated>2023-12-13T03:10:50.713Z</updated>
+        <content type="html"><![CDATA[셀룰 파괴는 기본, 보습은 덤인 뷰티 루틴 공개.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스·아이브·르세라핌의 겨울 헤어 트렌드]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82900</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82853"/>
         <updated>2023-12-11T01:52:58.520Z</updated>
         <content type="html"><![CDATA[이효리가 지닌 건강한 피부 비밀이 궁금하다면?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국과 중국 양국 뷰티 에디터들의 마음을 모두 사로잡은 아시아 톱 10 뷰티템은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82833</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82833"/>
-        <updated>2023-12-11T01:52:58.522Z</updated>
-        <content type="html"><![CDATA[아시아 뷰티 강국 한국을 넘어 14억 인구의 중국에서도 공감과 사랑을 받은 검증된 아시아 톱 ...]]></content>
     </entry>
 </feed>

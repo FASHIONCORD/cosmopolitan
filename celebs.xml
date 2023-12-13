@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-13T02:25:12.380Z</updated>
+    <updated>2023-12-13T03:11:19.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전 애인과 친구 가능? 23년 만에 재회한 이소라·신동엽!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82801</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82801"/>
+        <updated>2023-12-13T03:10:56.841Z</updated>
+        <content type="html"><![CDATA[이 둘을 한 화면에서 다시 보게 될 줄이야!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YG가 블랙핑크 전원 재계약에 성공했다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82781</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82654"/>
         <updated>2023-12-06T03:10:39.161Z</updated>
         <content type="html"><![CDATA[배틀 중 '찐'으로 화난 순간이 있다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권상우·이범수·장혁이 아내와 별거중인 이유는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82517</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82517"/>
-        <updated>2023-12-06T02:24:01.813Z</updated>
-        <content type="html"><![CDATA[부부 사이 이상 무. 온전히 아이를 위한 선택이었다.]]></content>
     </entry>
 </feed>
