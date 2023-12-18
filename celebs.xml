@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-18T09:11:25.617Z</updated>
+    <updated>2023-12-18T10:11:48.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전혀 몰랐네? 암을 극복하고 돌아온 셀렙 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82955</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82955"/>
+        <updated>2023-12-18T10:11:19.066Z</updated>
+        <content type="html"><![CDATA[우리 곁에 돌아와 줘서 고마워~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘환승연애3’ 커밍순! 현재도 연애 중인 환승연애 커플은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82928</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82928"/>
+        <updated>2023-12-18T10:11:19.067Z</updated>
+        <content type="html"><![CDATA[희두 나연 결혼식은 당연 고척돔이겠죠?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주드로 딸은 먹잘알? 아이리스로가 한국에서 먹고 간 디저트 4]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82906</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82758"/>
         <updated>2023-12-11T08:13:04.628Z</updated>
         <content type="html"><![CDATA[상상력 만렙 예지와 ‘만약에 게임’ START!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혜리가 소진을 울렸다고? 셀렙들의 스페셜한 브라이덜 샤워]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82753</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82753"/>
-        <updated>2023-12-08T08:12:24.987Z</updated>
-        <content type="html"><![CDATA[브라이덜 샤워는 울어야 제맛이지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우야 감독이야? 배우인데 연출도 하는 그녀들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82732</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82732"/>
-        <updated>2023-12-07T08:12:45.977Z</updated>
-        <content type="html"><![CDATA[믓찌다~ 내 배우!]]></content>
     </entry>
 </feed>
