@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-12-18T01:53:20.039Z</updated>
+    <updated>2023-12-18T02:24:58.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허벅지에 울퉁불퉁 계곡이 생겼다고? 셀룰라이트 경고신호가 켜졌다!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82907</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82907"/>
+        <updated>2023-12-18T02:23:55.243Z</updated>
+        <content type="html"><![CDATA[바디 관리에 철저한 한혜진·미나도 늘 경계한다는 셀룰라이트. 내 몸에 울퉁불퉁 계곡이 생겼다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한혜진은 셀룰라이트 없는 이유, 따로 있다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82902</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82863"/>
         <updated>2023-12-11T06:13:16.164Z</updated>
         <content type="html"><![CDATA[까다로운 비건 인증은 물론 동시대 여성들의 취향과 감성, 가치관까지 꿰뚫은 K-비건 뷰티가 바...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비건 뷰티 그 이상, 이효리와 달바의 아름다운 만남!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82853</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82853"/>
-        <updated>2023-12-11T01:52:58.520Z</updated>
-        <content type="html"><![CDATA[이효리가 지닌 건강한 피부 비밀이 궁금하다면?]]></content>
     </entry>
 </feed>
