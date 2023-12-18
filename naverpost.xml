@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-18T02:24:58.144Z</updated>
+    <updated>2023-12-18T03:11:33.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올겨울 키 아이템, 케이스티파이]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37053791&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37053791&amp;memberNo=11800362"/>
+        <updated>2023-12-18T03:10:30.202Z</updated>
+        <content type="html"><![CDATA[두근두근 설레는 12월, 스마트폰도 화려한 의상으로 갈아입을 타이밍이다.▼ 클릭 ▼ 케이스티파이만의 독자적인 설계로 슬림하지만 강력한 충격 흡수력을 갖췄다. (위부터 시계 방향으로) 임팩트 링 스탠드 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국과 중국 양국 뷰티 에디터들의 마음을 
 모두 사로잡은 아시아 톱 10 뷰티템은?]]></title>
@@ -147,13 +154,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37021229&amp;memberNo=11800362"/>
         <updated>2023-12-11T08:12:42.408Z</updated>
         <content type="html"><![CDATA[새하얀 세상, 우아하게 존재감을 피워낸 다미아니 마르게리타의 꽃망울.▼ 클릭 ▼ 엔리코 그라시 다미아니가 1900년대 초 마르게리타 여왕에게 헌정한 링에서 영감받아 만든 컬렉션으로, 데이지꽃 형태와 볼륨을 정교···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한겨울에도 끄덕없는 
-라부르켓 뷰티 리추얼]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37020845&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37020845&amp;memberNo=11800362"/>
-        <updated>2023-12-11T07:08:49.049Z</updated>
-        <content type="html"><![CDATA[언제 어디서나 촉촉하고 향기롭게, 라부르켓과 함께하는 긴급 보습 처방!▼ 클릭 ▼ 겨울철 건조하기 쉬운 손과 입술에 수분을 공급하고 보호해주는 핸드크림과 립밤으로 구성한 기프트 박스. 윈터 데이 키트 세이지&amp;m···]]></content>
     </entry>
 </feed>
