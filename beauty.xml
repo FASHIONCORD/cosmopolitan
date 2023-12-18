@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-12-18T06:13:43.550Z</updated>
+    <updated>2023-12-18T07:10:23.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 해의 대미를 장식할 12월의 뷰티 소식]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82889</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82889"/>
+        <updated>2023-12-18T07:09:46.872Z</updated>
+        <content type="html"><![CDATA[연말을 찬란하게 빛내줄 12월의 패션 뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허벅지에 울퉁불퉁 계곡이 생겼다고? 셀룰라이트 경고신호가 켜졌다!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82907</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82850"/>
         <updated>2023-12-11T06:13:16.162Z</updated>
         <content type="html"><![CDATA[New, Need, Now! 연말을 더욱 화려하게 장식할 12월의 뷰티 신상!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구를 위해 노력하는 착한 뷰티 브랜드]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82863</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82863"/>
-        <updated>2023-12-11T06:13:16.164Z</updated>
-        <content type="html"><![CDATA[까다로운 비건 인증은 물론 동시대 여성들의 취향과 감성, 가치관까지 꿰뚫은 K-비건 뷰티가 바...]]></content>
     </entry>
 </feed>

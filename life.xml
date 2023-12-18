@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-18T06:13:43.547Z</updated>
+    <updated>2023-12-18T07:10:23.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하와이 감성 가득! 하와이안항공의 A to Z]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83061</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83061"/>
+        <updated>2023-12-18T07:10:15.772Z</updated>
+        <content type="html"><![CDATA[비행기만 탔는데, 여기가 하와이?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여기가 지상낙원? 하와이 끝판왕 호텔 2]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83062</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83062"/>
+        <updated>2023-12-18T07:10:15.774Z</updated>
+        <content type="html"><![CDATA[저 집 안가도 될까요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연말 휴가로 핫한 신상 호캉스 어때?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82991</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82991"/>
+        <updated>2023-12-18T07:10:15.774Z</updated>
+        <content type="html"><![CDATA[더블트리 바이 힐튼 판교 대신 가드림!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 대세 여행지 대만! 아늑한 여행을 위한 호텔 추천 리스트 5]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82984</id>
@@ -39,26 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82949"/>
         <updated>2023-12-14T06:12:35.209Z</updated>
         <content type="html"><![CDATA[이번 크리스마스엔 권은비처럼 어때?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[석화만 먹어봤다고? 지금은 굴찜이 대세!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82934</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82934"/>
-        <updated>2023-12-14T04:12:51.815Z</updated>
-        <content type="html"><![CDATA[겨울에 굴을 먹지 않는 자 모두 유죄.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음 브런치 모임은 여기! 이색 프렌치토스트 맛집 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82919</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82919"/>
-        <updated>2023-12-13T08:13:27.592Z</updated>
-        <content type="html"><![CDATA[크림브륄레부터 홍콩식 프렌치토스트까지 침샘 자극 극강 비주얼!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주드로 딸은 먹잘알? 아이리스로가 한국에서 먹고 간 디저트 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82906</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82906"/>
-        <updated>2023-12-13T03:11:10.886Z</updated>
-        <content type="html"><![CDATA[지금은 당충전이 필요해.]]></content>
     </entry>
 </feed>
