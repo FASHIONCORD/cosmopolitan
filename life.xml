@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-19T09:10:06.855Z</updated>
+    <updated>2023-12-19T10:11:20.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홈파티에 제격! 정재형의 JMT 레시피 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83078</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83078"/>
+        <updated>2023-12-19T10:10:56.729Z</updated>
+        <content type="html"><![CDATA[“요리 좀 하는데?” 소리가 절로 나온다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[닭가슴살이 지겨울 땐? 다이어트 제철 음식 4]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83077</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82984"/>
         <updated>2023-12-18T04:13:12.434Z</updated>
         <content type="html"><![CDATA[볼거리, 먹거리로 가득한 대만 속 또 하나의 여행지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조니워커와 기네스까지! 🥃 No.1 주류회사 디아지오의 모든 것]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82965</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82965"/>
-        <updated>2023-12-18T03:11:24.908Z</updated>
-        <content type="html"><![CDATA[커머셜팀, 마케팅팀, R&amp;CG팀, HR팀 사원들과 함께 했습니다!]]></content>
     </entry>
 </feed>

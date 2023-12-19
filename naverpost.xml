@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-19T09:10:06.856Z</updated>
+    <updated>2023-12-19T10:11:20.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말에 딱! 좋은 럭셔리 한식 다이닝 4]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37062435&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37062435&amp;memberNo=11800362"/>
+        <updated>2023-12-19T10:09:48.938Z</updated>
+        <content type="html"><![CDATA[한 해 동안 지친 나를 위한 몸보신에도 좋은 고급 식당들.▼ 클릭 ▼비채나 잠실 롯데월드 타워 81층, 웅장한 시티뷰를 자랑하는 미슐랭 식당 비채나. 단아함 끝판 왕 한식과 보기만 해도 정성이 느껴지는 진중한 음식···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[든든한 수분장벽, 차앤맘으로 
 지키는 촉촉한 연말]]></title>
@@ -148,12 +155,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37026858&amp;memberNo=11800362"/>
         <updated>2023-12-12T08:12:15.396Z</updated>
         <content type="html"><![CDATA[클라랑스 더블세럼과 엑스트라 퍼밍 넥크림의 넘치는 플랜트 파워로 얼굴부터 목 라인까지 매끈하고 탄력 있게.▼ 클릭 ▼오일과 워터, 두 가지 세럼을 한 병에 담은 파워풀 안티에이징 세럼. 440개 이상의 어워드를 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온종일 향기로움이 가득하도록]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37026031&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37026031&amp;memberNo=11800362"/>
-        <updated>2023-12-12T06:12:39.947Z</updated>
-        <content type="html"><![CDATA[모임이 많은 연말에도 은은한 향기를 잃고 싶지 않은 당신을 위해! 가볍게 뽑아 쓰는 향기로운 드라이시트, 캐스터네츠.▼ 클릭 ▼캐스터네츠 드라이시트는 세탁물에 따라 한 장씩 간편하게 뽑아 건조기에 넣어 사용할···]]></content>
     </entry>
 </feed>
