@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-19T07:09:28.140Z</updated>
+    <updated>2023-12-19T08:12:36.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말에 딱! 좋은 럭셔리 한식 다이닝 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83069</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83069"/>
+        <updated>2023-12-19T08:12:29.170Z</updated>
+        <content type="html"><![CDATA[한 해 동안 지친 나를 위한 몸보신에도 좋은 고급 식당들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내향인도 즐길 수 있다! 연말 문화 힐링 코스 4]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83067</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82953"/>
         <updated>2023-12-18T01:53:12.457Z</updated>
         <content type="html"><![CDATA[분위기 대박적인데~?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소름 돋는 자이언티의 그녀, ‘자기야’는 누구?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82952</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82952"/>
-        <updated>2023-12-18T01:53:12.458Z</updated>
-        <content type="html"><![CDATA[공감력은 뛰어나지만 눈치는 좀 없다는데…]]></content>
     </entry>
 </feed>
