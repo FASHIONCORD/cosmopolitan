@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/love</id>
     <title>코스모폴리탄 코리아 ─ 러브</title>
-    <updated>2023-12-19T08:12:36.759Z</updated>
+    <updated>2023-12-19T09:10:06.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80720</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80720"/>
+        <updated>2023-12-19T09:09:48.013Z</updated>
+        <content type="html"><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80719</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80054"/>
         <updated>2023-09-12T03:10:11.322Z</updated>
         <content type="html"><![CDATA[최악의 헌팅 멘트 날리는 남자, 어떻게 거절하지?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진도 가고 장근석도 갔다고? 결정사 가입 A to Z]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80042</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80042"/>
-        <updated>2023-09-05T06:11:46.563Z</updated>
-        <content type="html"><![CDATA[결정사 가입은 어떻게 할까?]]></content>
     </entry>
 </feed>
