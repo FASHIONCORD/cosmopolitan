@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-19T01:52:41.275Z</updated>
+    <updated>2023-12-19T02:23:39.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조니워커와 기네스까지! 🥃 No.1 주류회사 디아지오의 모든 것]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82965</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82965"/>
+        <updated>2023-12-19T02:23:11.967Z</updated>
+        <content type="html"><![CDATA[커머셜팀, 마케팅팀, R&amp;CG팀, HR팀 사원들과 함께 했습니다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전혀 몰랐네? 암을 극복하고 돌아온 셀렙 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/82955</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82781"/>
         <updated>2023-12-12T06:13:31.816Z</updated>
         <content type="html"><![CDATA[경사 났네. 경사 났어!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지 예지는 밥 잘 사주는 쿨한 선배?!🎓]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82758</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82758"/>
-        <updated>2023-12-11T08:13:04.628Z</updated>
-        <content type="html"><![CDATA[상상력 만렙 예지와 ‘만약에 게임’ START!]]></content>
     </entry>
 </feed>
