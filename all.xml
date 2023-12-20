@@ -1,494 +1,506 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://FASHIONCORD.github.io/cosmopolitan/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-12-20T08:11:01.699Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[홈파티에 제격! 정재형의 JMT 레시피 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37063718&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37063718&amp;memberNo=11800362"/>
-        <updated>2023-12-20T03:08:02.292Z</updated>
-        <content type="html"><![CDATA[“요리 좀 하는데?” 소리가 절로 나온다.▼ 클릭 ▼ 홈파티에 제격! 정재형의 JMT 레시피 4 “요리 좀 하는데?” 소리가 절로 나온다. www.cosmopolitan.co.kr 비프 부르기뇽 프랑스식 스튜인&nbsp;비프&nbsp;부르기뇽은 원래 하루 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말에 딱! 좋은 럭셔리 한식 다이닝 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37062435&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37062435&amp;memberNo=11800362"/>
-        <updated>2023-12-19T10:09:48.938Z</updated>
-        <content type="html"><![CDATA[한 해 동안 지친 나를 위한 몸보신에도 좋은 고급 식당들.▼ 클릭 ▼비채나 잠실 롯데월드 타워 81층, 웅장한 시티뷰를 자랑하는 미슐랭 식당 비채나. 단아함 끝판 왕 한식과 보기만 해도 정성이 느껴지는 진중한 음식···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[든든한 수분장벽, 차앤맘으로 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 20 Dec 2023 09:09:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홈파티에 제격! 정재형의 JMT 레시피 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37063718&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37063718&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 20 Dec 2023 03:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[“요리 좀 하는데?” 소리가 절로 나온다.▼ 클릭 ▼ 홈파티에 제격! 정재형의 JMT 레시피 4 “요리 좀 하는데?” 소리가 절로 나온다. www.cosmopolitan.co.kr 비프 부르기뇽 프랑스식 스튜인&nbsp;비프&nbsp;부르기뇽은 원래 하루 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연말에 딱! 좋은 럭셔리 한식 다이닝 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37062435&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37062435&amp;memberNo=11800362</guid>
+            <pubDate>Tue, 19 Dec 2023 10:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[한 해 동안 지친 나를 위한 몸보신에도 좋은 고급 식당들.▼ 클릭 ▼비채나 잠실 롯데월드 타워 81층, 웅장한 시티뷰를 자랑하는 미슐랭 식당 비채나. 단아함 끝판 왕 한식과 보기만 해도 정성이 느껴지는 진중한 음식···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[든든한 수분장벽, 차앤맘으로 
 지키는 촉촉한 연말 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37055790&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37055790&amp;memberNo=11800362"/>
-        <updated>2023-12-18T08:12:33.039Z</updated>
-        <content type="html"><![CDATA[어떤 선물보다 값진, 내 아이의 일상을 위한 선물. 차앤맘 피토세린 모이스처 로션과 피토세린 인텐스 크림으로 지키는 촉촉하고 건강한 피부.▼ 클릭 ▼차바이오그룹의 노하우로 개발한 식물 유래 진정 성분과 보습 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아한 연말을 완성시켜줄 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37055790&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37055790&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 18 Dec 2023 08:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 선물보다 값진, 내 아이의 일상을 위한 선물. 차앤맘 피토세린 모이스처 로션과 피토세린 인텐스 크림으로 지키는 촉촉하고 건강한 피부.▼ 클릭 ▼차바이오그룹의 노하우로 개발한 식물 유래 진정 성분과 보습 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우아한 연말을 완성시켜줄 
 불가리의 곡선미 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37055766&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37055766&amp;memberNo=11800362"/>
-        <updated>2023-12-18T08:12:33.042Z</updated>
-        <content type="html"><![CDATA[홀리데이 시즌, 모두의 시선을 사로잡을 매력적인 불가리의 곡선미.▼ 클릭 ▼영원한 사랑의 징표이자 행복을 기원하는 마음이 담긴 불가리의 카보숑 컬렉션. 금이 한 방울 떨어진 듯 둥글게 커팅해 우아함을 자아내고···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올겨울 키 아이템, 케이스티파이 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37053791&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37053791&amp;memberNo=11800362"/>
-        <updated>2023-12-18T03:10:30.202Z</updated>
-        <content type="html"><![CDATA[두근두근 설레는 12월, 스마트폰도 화려한 의상으로 갈아입을 타이밍이다.▼ 클릭 ▼ 케이스티파이만의 독자적인 설계로 슬림하지만 강력한 충격 흡수력을 갖췄다. (위부터 시계 방향으로) 임팩트 링 스탠드 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국과 중국 양국 뷰티 에디터들의 마음을 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37055766&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37055766&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 18 Dec 2023 08:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[홀리데이 시즌, 모두의 시선을 사로잡을 매력적인 불가리의 곡선미.▼ 클릭 ▼영원한 사랑의 징표이자 행복을 기원하는 마음이 담긴 불가리의 카보숑 컬렉션. 금이 한 방울 떨어진 듯 둥글게 커팅해 우아함을 자아내고···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올겨울 키 아이템, 케이스티파이 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37053791&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37053791&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 18 Dec 2023 03:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[두근두근 설레는 12월, 스마트폰도 화려한 의상으로 갈아입을 타이밍이다.▼ 클릭 ▼ 케이스티파이만의 독자적인 설계로 슬림하지만 강력한 충격 흡수력을 갖췄다. (위부터 시계 방향으로) 임팩트 링 스탠드 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국과 중국 양국 뷰티 에디터들의 마음을 
 모두 사로잡은 아시아 톱 10 뷰티템은? (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37050907&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37050907&amp;memberNo=11800362"/>
-        <updated>2023-12-17T10:08:54.578Z</updated>
-        <content type="html"><![CDATA[▼ 클릭 ▼KOREA Editor-in-Chief Se Young Jeong Deputy Editor-in-Chief YUN JIN HA Beauty Director Eu Gene Jeong Beauty Editor Min Ji Kim Beauty Editor Hae Ri Jo CHINA Editor-in-Chief Shirley Zhang Deputy···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37050907&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37050907&amp;memberNo=11800362</guid>
+            <pubDate>Sun, 17 Dec 2023 10:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[▼ 클릭 ▼KOREA Editor-in-Chief Se Young Jeong Deputy Editor-in-Chief YUN JIN HA Beauty Director Eu Gene Jeong Beauty Editor Min Ji Kim Beauty Editor Hae Ri Jo CHINA Editor-in-Chief Shirley Zhang Deputy···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 
 차지한 베스트 오브 베스트 뷰티템 6 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37050886&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37050886&amp;memberNo=11800362"/>
-        <updated>2023-12-17T09:08:47.622Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37050886&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37050886&amp;memberNo=11800362</guid>
+            <pubDate>Sun, 17 Dec 2023 09:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 
 차지한 베스트 오브 베스트 뷰티템 5 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37050877&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37050877&amp;memberNo=11800362"/>
-        <updated>2023-12-17T09:08:47.624Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취향을 넘어 장르가 된 코치의 블랙 백 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37043795&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37043795&amp;memberNo=11800362"/>
-        <updated>2023-12-15T07:09:00.548Z</updated>
-        <content type="html"><![CDATA[때로는 화려하게, 때론 시크하게! 스타일에 사기를 불어넣어줄 코치의 잇 백.▼ 클릭 ▼별 모양을 직관적인 형태로 표현했다 . 유니크한 디자인이지만 블랙 컬러라 다양한 룩에 쉽게 활용 가능하다 . 앙증맞은 사이즈···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구찌가 제안하는 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37050877&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37050877&amp;memberNo=11800362</guid>
+            <pubDate>Sun, 17 Dec 2023 09:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[취향을 넘어 장르가 된 코치의 블랙 백 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37043795&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37043795&amp;memberNo=11800362</guid>
+            <pubDate>Fri, 15 Dec 2023 07:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[때로는 화려하게, 때론 시크하게! 스타일에 사기를 불어넣어줄 코치의 잇 백.▼ 클릭 ▼별 모양을 직관적인 형태로 표현했다 . 유니크한 디자인이지만 블랙 컬러라 다양한 룩에 쉽게 활용 가능하다 . 앙증맞은 사이즈···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구찌가 제안하는 
 트렌디한 홀리데이 기프트 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37041602&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37041602&amp;memberNo=11800362"/>
-        <updated>2023-12-15T01:52:49.406Z</updated>
-        <content type="html"><![CDATA[클래식과 동시대적 코드의 조합이란 바로 이런 것. 구찌와 함께 즐기는 홀리데이 파티.▼ 클릭 ▼홀스빗 모티프와 로퍼 탄생 70주년을 맞이해 새로운 컬러로 선보인 홀스빗 1953 블랙-아이보리 레더 로퍼 1백39만원 GU···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 차지한 베스트 오브 베스트 뷰티템 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37037964&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37037964&amp;memberNo=11800362"/>
-        <updated>2023-12-14T06:11:57.048Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 차지한 베스트 오브 베스트 뷰티템 3 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37037957&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37037957&amp;memberNo=11800362"/>
-        <updated>2023-12-14T06:11:57.049Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 차지한 베스트 오브 베스트 뷰티템 2 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37037942&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37037942&amp;memberNo=11800362"/>
-        <updated>2023-12-14T06:11:57.050Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 시작을 응원해! 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37041602&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37041602&amp;memberNo=11800362</guid>
+            <pubDate>Fri, 15 Dec 2023 01:52:49 GMT</pubDate>
+            <content:encoded><![CDATA[클래식과 동시대적 코드의 조합이란 바로 이런 것. 구찌와 함께 즐기는 홀리데이 파티.▼ 클릭 ▼홀스빗 모티프와 로퍼 탄생 70주년을 맞이해 새로운 컬러로 선보인 홀스빗 1953 블랙-아이보리 레더 로퍼 1백39만원 GU···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 차지한 베스트 오브 베스트 뷰티템 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37037964&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37037964&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 14 Dec 2023 06:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 차지한 베스트 오브 베스트 뷰티템 3 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37037957&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37037957&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 14 Dec 2023 06:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023, 영광의 1위를 차지한 베스트 오브 베스트 뷰티템 2 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37037942&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37037942&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 14 Dec 2023 06:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새로운 시작을 응원해! 
 당신만을 위한 연말 부스터 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37037765&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37037765&amp;memberNo=11800362"/>
-        <updated>2023-12-14T06:11:57.056Z</updated>
-        <content type="html"><![CDATA[약속이 많은 연말, 피로 개선은 물론 체지방 걱정까지 덜어줄 맥스컷.▼ 클릭 ▼아무리 운동을 해도 쉽게 빠지지 않는 두툼한 체지방을 감소시키는 데 효과적인 부스터 제품이다. 체지방 분해와 지방 축적 억제 기능을···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잃어버린 생기를 선물하는 폴라의 B.A 아이존 크림 크리스마스 컬렉션 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37036530&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37036530&amp;memberNo=11800362"/>
-        <updated>2023-12-14T02:22:28.497Z</updated>
-        <content type="html"><![CDATA[탄력과 볼륨을 잃어가는 피부에 탁! 젊음의 스위치를 켜는 법, 폴라의 크리스마스 컬렉션.▼ 클릭 ▼ 비교 불가한 효능의 눈가 고민 해결사, B.A 아이존 크림을 고급스러운 패키지의 크리스마스 컬렉션으로 출시했다. ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023, 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37037765&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37037765&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 14 Dec 2023 06:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[약속이 많은 연말, 피로 개선은 물론 체지방 걱정까지 덜어줄 맥스컷.▼ 클릭 ▼아무리 운동을 해도 쉽게 빠지지 않는 두툼한 체지방을 감소시키는 데 효과적인 부스터 제품이다. 체지방 분해와 지방 축적 억제 기능을···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잃어버린 생기를 선물하는 폴라의 B.A 아이존 크림 크리스마스 컬렉션 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37036530&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37036530&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 14 Dec 2023 02:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[탄력과 볼륨을 잃어가는 피부에 탁! 젊음의 스위치를 켜는 법, 폴라의 크리스마스 컬렉션.▼ 클릭 ▼ 비교 불가한 효능의 눈가 고민 해결사, B.A 아이존 크림을 고급스러운 패키지의 크리스마스 컬렉션으로 출시했다. ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023, 
 영광의 1위를 차지한 베스트 오브 
 베스트 뷰티템 1 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37032678&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37032678&amp;memberNo=11800362"/>
-        <updated>2023-12-13T08:12:20.298Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023! 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37032678&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37032678&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 13 Dec 2023 08:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023! 
 명불허전, 올해의 뷰티 브랜드 6 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37032664&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37032664&amp;memberNo=11800362"/>
-        <updated>2023-12-13T08:12:20.303Z</updated>
-        <content type="html"><![CDATA[수많은 뷰티 브랜드의 치열한 경쟁은 올해 역시 마찬가지였다. 대규모 서베이를 통해 소비자 집단의 설문조사로 공정하게 집계해 2023년 가장 두각을 드러낸 베스트 브랜드 6개 부문을 최종 선정했다. 명불허전 빅 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 컬러 & 베이스 메이크업템은? (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37032631&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37032631&amp;memberNo=11800362"/>
-        <updated>2023-12-13T08:12:20.305Z</updated>
-        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를 얻은 SNS 위너까지! 수준 높은 뷰티 소비자들의 안목과 취향이 반영된 &lt;코스모 뷰티 어워즈 2023&amp;g···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추운 겨울에도 포기할 수 없는 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37032664&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37032664&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 13 Dec 2023 08:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 뷰티 브랜드의 치열한 경쟁은 올해 역시 마찬가지였다. 대규모 서베이를 통해 소비자 집단의 설문조사로 공정하게 집계해 2023년 가장 두각을 드러낸 베스트 브랜드 6개 부문을 최종 선정했다. 명불허전 빅 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어워즈 2023! 베스트 오브 베스트 컬러 & 베이스 메이크업템은? (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37032631&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37032631&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 13 Dec 2023 08:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를 얻은 SNS 위너까지! 수준 높은 뷰티 소비자들의 안목과 취향이 반영된 &lt;코스모 뷰티 어워즈 2023&amp;g···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추운 겨울에도 포기할 수 없는 
 데님의 매력 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37032494&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37032494&amp;memberNo=11800362"/>
-        <updated>2023-12-13T08:12:20.306Z</updated>
-        <content type="html"><![CDATA[눈이 내려도, 칼바람이 불어도 유효한 배리의 데님 홀리데이 룩▼ 클릭 ▼ 초현실주의 패션 기법인 트롱프뢰유를 사용해 금속 단추, 포켓 디테일, 오버스티칭까지 완벽하게 데님 베스트 형태를 구현했다. 뻔한 캐시미···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오래도록 함께할 선물을 전하고 싶다면 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37030282&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37030282&amp;memberNo=11800362"/>
-        <updated>2023-12-13T01:52:28.995Z</updated>
-        <content type="html"><![CDATA[한겨울의 고요한 푸른 밤을 닮은 몽블랑의 클래식 에센셜 아이템.▼ 클릭 ▼몽블랑의 시그너처인 마이스터트튁 필기구에서 영감받았다. 만년필 닙 모양의 레더 디테일과 탈부착 가능한 숄더 스트랩이 특징인 잉크 블루···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달콤한 룩으로 가득 채운 겨울 이야기 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82890</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82890"/>
-        <updated>2023-12-19T08:11:59.763Z</updated>
-        <content type="html"><![CDATA[어느 몽상가의 달콤쌉싸래한 겨울 이야기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마 미소 장착! 패피 셀렙과 자녀 커플 스타일링 3 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82921</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82921"/>
-        <updated>2023-12-18T11:08:28.504Z</updated>
-        <content type="html"><![CDATA[남녀 커플 부럽지 않다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아름다운 실루엣을 완성하는 윈터 아우터 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82909</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82909"/>
-        <updated>2023-12-18T03:10:39.258Z</updated>
-        <content type="html"><![CDATA[몸을 타고 흐르는 윈터 실루엣.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니·안유진·차정원까지 입었다! 올 겨울 확신의 아우터는? (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82901</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82901"/>
-        <updated>2023-12-14T06:12:05.342Z</updated>
-        <content type="html"><![CDATA[코트도 패딩도 아닌 시어링 코트라고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영원한 우아함의 상징! 트위드 재킷의 모든 것 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82845</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82845"/>
-        <updated>2023-12-13T15:10:14.664Z</updated>
-        <content type="html"><![CDATA[영원한 우아함의 상징, 트위드 재킷에 대한 모든 것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유분방한 로큰롤 감성이 느껴지는 셀린느의 톰보이 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82810</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82810"/>
-        <updated>2023-12-12T15:09:36.229Z</updated>
-        <content type="html"><![CDATA[자유분방한 로큰롤 감성과 조우한 셀린느의 톰보이.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화제의 아톰 부츠를 만든 예술집단! '미스치프'를 만나다 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82793</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82793"/>
-        <updated>2023-12-12T03:10:04.771Z</updated>
-        <content type="html"><![CDATA[뉴욕 브루클린을 기반으로 활동하는 크리에이터 집단 미스치프. 패션과 아트를 넘나들며 예술과 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해는 블랙이 다시 유행? 블랙 코트의 귀환! (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82774</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82774"/>
-        <updated>2023-12-11T15:10:11.670Z</updated>
-        <content type="html"><![CDATA[완전무결의 색, 고아한 아름다움을 품은 블랙 코트의 귀환.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023! 베스트 오브 베스트 맨즈 뷰티템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82946</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82946"/>
-        <updated>2023-12-20T07:07:23.854Z</updated>
-        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 향수 & 헤어 & 바디템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82916</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82916"/>
-        <updated>2023-12-18T09:10:22.622Z</updated>
-        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 해의 대미를 장식할 12월의 뷰티 소식 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82889</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82889"/>
-        <updated>2023-12-18T07:09:46.872Z</updated>
-        <content type="html"><![CDATA[연말을 찬란하게 빛내줄 12월의 패션 뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허벅지에 울퉁불퉁 계곡이 생겼다고? 셀룰라이트 경고신호가 켜졌다! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82907</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82907"/>
-        <updated>2023-12-18T02:23:55.243Z</updated>
-        <content type="html"><![CDATA[바디 관리에 철저한 한혜진·미나도 늘 경계한다는 셀룰라이트. 내 몸에 울퉁불퉁 계곡이 생겼다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진은 셀룰라이트 없는 이유, 따로 있다고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82902</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82902"/>
-        <updated>2023-12-13T03:10:50.713Z</updated>
-        <content type="html"><![CDATA[셀룰 파괴는 기본, 보습은 덤인 뷰티 루틴 공개.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스·아이브·르세라핌의 겨울 헤어 트렌드 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82900</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82900"/>
-        <updated>2023-12-13T01:52:46.541Z</updated>
-        <content type="html"><![CDATA[여돌들의 겨울 탈색 필수 공식, 애쉬 블론디 헤어 짚어 봅니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 스킨케어템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82877</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82877"/>
-        <updated>2023-12-12T01:53:33.868Z</updated>
-        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 컬러 & 베이스 메이크업템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82878</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82878"/>
-        <updated>2023-12-11T16:12:32.598Z</updated>
-        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규형, 서인국, 고은성, 김성철, <몬테크리스토> 단테스들의 모임 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83076</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83076"/>
-        <updated>2023-12-20T06:10:26.732Z</updated>
-        <content type="html"><![CDATA[선물할게, 4인 4색의 에드몬드 단테스. 올 뉴 &lt;몬테크리스토&gt;가 완벽할 수밖에 없는 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머리채 잡고 앨범을 던져? 극성팬 논란된 셀렙 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83089</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83089"/>
-        <updated>2023-12-20T03:08:28.112Z</updated>
-        <content type="html"><![CDATA[결코 팬심이라 부를 수 없는 폭력.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후회한다고? 가슴 성형을 고백한 셀렙 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83088</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83088"/>
-        <updated>2023-12-20T02:08:40.256Z</updated>
-        <content type="html"><![CDATA[있는 그대로의 너를 사랑해.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테러 막는 해커가 됐다고요? 김윤지에게 듣는 리프트 촬영 비하인드! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83071</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83071"/>
-        <updated>2023-12-20T00:33:50.372Z</updated>
-        <content type="html"><![CDATA[내 마음도 털림(?) 주의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준 집 공사 때문에 뷔 집에서 2개월 거주? 우가팸 근황! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82989</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82989"/>
-        <updated>2023-12-19T10:10:41.167Z</updated>
-        <content type="html"><![CDATA[뷔 군입대를 기념해 모인 우가팸의 근황을 알려드립니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조니워커와 기네스까지! 🥃 No.1 주류회사 디아지오의 모든 것 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82965</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82965"/>
-        <updated>2023-12-18T03:11:24.908Z</updated>
-        <content type="html"><![CDATA[커머셜팀, 마케팅팀, R&amp;CG팀, HR팀 사원들과 함께 했습니다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전혀 몰랐네? 암을 극복하고 돌아온 셀렙 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82955</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82955"/>
-        <updated>2023-12-18T10:11:19.066Z</updated>
-        <content type="html"><![CDATA[우리 곁에 돌아와 줘서 고마워~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환승연애3’ 커밍순! 현재도 연애 중인 환승연애 커플은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82928</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82928"/>
-        <updated>2023-12-18T10:11:19.067Z</updated>
-        <content type="html"><![CDATA[희두 나연 결혼식은 당연 고척돔이겠죠?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80720</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80720"/>
-        <updated>2023-12-19T09:09:48.013Z</updated>
-        <content type="html"><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80719</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80719"/>
-        <updated>2023-11-13T19:08:24.103Z</updated>
-        <content type="html"><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선섹후사는 필수? 대만 2030 청춘들의 사랑법 (코스모폴리탄 코리아 ─ 러브)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80548</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80548"/>
-        <updated>2023-11-13T19:08:24.109Z</updated>
-        <content type="html"><![CDATA[&lt;성+인물 대만편&gt;에서 귀가 달아오른 ‘썸’ 이야기들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대 연애 시 ‘000’만은 하지 말자? 전현무의 조언 (코스모폴리탄 코리아 ─ 러브)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80407</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80407"/>
-        <updated>2023-11-13T19:08:24.114Z</updated>
-        <content type="html"><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑보다 무서운 건 정? <환연2> 해은의 장기 연애 꿀팁 대방출! (코스모폴리탄 코리아 ─ 러브)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80369</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80369"/>
-        <updated>2023-11-13T19:08:24.118Z</updated>
-        <content type="html"><![CDATA[그놈의 정이 뭐라고!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘은 어플보다 데이트 문서가 대세? 애인 구합니다 (코스모폴리탄 코리아 ─ 러브)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80248</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80248"/>
-        <updated>2023-11-13T19:08:24.122Z</updated>
-        <content type="html"><![CDATA[구인광고와 100문100답의 만남.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이들 어서오고. 반려 토이, 부르부르의 모든 것을 알려드림 (코스모폴리탄 코리아 ─ 러브)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80149</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80149"/>
-        <updated>2023-11-13T19:08:24.126Z</updated>
-        <content type="html"><![CDATA[애들은 가! 애들은 가!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임에 져서 왔어요. 최악의 헌팅 멘트 톱 오브 톱 (코스모폴리탄 코리아 ─ 러브)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80054</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80054"/>
-        <updated>2023-11-13T19:08:24.131Z</updated>
-        <content type="html"><![CDATA[최악의 헌팅 멘트 날리는 남자, 어떻게 거절하지?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인생샷’ 가능! 따라 하고 싶은 셀렙들의 트리 샷 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83083</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83083"/>
-        <updated>2023-12-20T02:09:07.956Z</updated>
-        <content type="html"><![CDATA[겨울에 트리 샷 하나쯤은 남겨야지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홈파티에 제격! 정재형의 JMT 레시피 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83078</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83078"/>
-        <updated>2023-12-19T10:10:56.729Z</updated>
-        <content type="html"><![CDATA[“요리 좀 하는데?” 소리가 절로 나온다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닭가슴살이 지겨울 땐? 다이어트 제철 음식 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83077</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83077"/>
-        <updated>2023-12-19T09:09:59.709Z</updated>
-        <content type="html"><![CDATA[살도 빼고 건강에도 좋고 일석이조!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말에 딱! 좋은 럭셔리 한식 다이닝 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83069</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83069"/>
-        <updated>2023-12-19T08:12:29.170Z</updated>
-        <content type="html"><![CDATA[한 해 동안 지친 나를 위한 몸보신에도 좋은 고급 식당들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내향인도 즐길 수 있다! 연말 문화 힐링 코스 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83067</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83067"/>
-        <updated>2023-12-18T08:13:28.746Z</updated>
-        <content type="html"><![CDATA[조용히 문화를 즐기고 생각하기 좋은 멍 때리기 핫스팟.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하와이 감성 가득! 하와이안항공의 A to Z (코스모폴리탄 코리아 ─ 라이프)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83061</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83061"/>
-        <updated>2023-12-18T07:10:15.772Z</updated>
-        <content type="html"><![CDATA[비행기만 탔는데, 여기가 하와이?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기가 지상낙원? 하와이 끝판왕 호텔 2 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83062</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83062"/>
-        <updated>2023-12-18T07:10:15.774Z</updated>
-        <content type="html"><![CDATA[저 집 안가도 될까요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 휴가로 핫한 신상 호캉스 어때? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82991</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82991"/>
-        <updated>2023-12-18T07:10:15.774Z</updated>
-        <content type="html"><![CDATA[더블트리 바이 힐튼 판교 대신 가드림!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/66996</id>
-        <link href="https://www.cosmopolitan.co.kr/article/66996"/>
-        <updated>2023-11-13T19:08:51.233Z</updated>
-        <content type="html"><![CDATA[더 이상 못 참겠다 VS 눈치게임 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워라밸 다음은 워케이션? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/66295</id>
-        <link href="https://www.cosmopolitan.co.kr/article/66295"/>
-        <updated>2023-11-13T19:08:51.270Z</updated>
-        <content type="html"><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/65331</id>
-        <link href="https://www.cosmopolitan.co.kr/article/65331"/>
-        <updated>2023-11-13T19:08:51.288Z</updated>
-        <content type="html"><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/65142</id>
-        <link href="https://www.cosmopolitan.co.kr/article/65142"/>
-        <updated>2023-11-13T19:08:51.295Z</updated>
-        <content type="html"><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/64487</id>
-        <link href="https://www.cosmopolitan.co.kr/article/64487"/>
-        <updated>2023-11-13T19:08:51.303Z</updated>
-        <content type="html"><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/63642</id>
-        <link href="https://www.cosmopolitan.co.kr/article/63642"/>
-        <updated>2023-11-13T19:08:51.305Z</updated>
-        <content type="html"><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/63099</id>
-        <link href="https://www.cosmopolitan.co.kr/article/63099"/>
-        <updated>2023-11-13T19:08:51.306Z</updated>
-        <content type="html"><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[질투하는 남친이 위험한 이유 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/62775</id>
-        <link href="https://www.cosmopolitan.co.kr/article/62775"/>
-        <updated>2023-11-13T19:08:51.309Z</updated>
-        <content type="html"><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를 ...]]></content>
-    </entry>
-</feed>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37032494&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37032494&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 13 Dec 2023 08:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[눈이 내려도, 칼바람이 불어도 유효한 배리의 데님 홀리데이 룩▼ 클릭 ▼ 초현실주의 패션 기법인 트롱프뢰유를 사용해 금속 단추, 포켓 디테일, 오버스티칭까지 완벽하게 데님 베스트 형태를 구현했다. 뻔한 캐시미···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오래도록 함께할 선물을 전하고 싶다면 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37030282&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37030282&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 13 Dec 2023 01:52:28 GMT</pubDate>
+            <content:encoded><![CDATA[한겨울의 고요한 푸른 밤을 닮은 몽블랑의 클래식 에센셜 아이템.▼ 클릭 ▼몽블랑의 시그너처인 마이스터트튁 필기구에서 영감받았다. 만년필 닙 모양의 레더 디테일과 탈부착 가능한 숄더 스트랩이 특징인 잉크 블루···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[달콤한 룩으로 가득 채운 겨울 이야기 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82890</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82890</guid>
+            <pubDate>Tue, 19 Dec 2023 08:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[어느 몽상가의 달콤쌉싸래한 겨울 이야기.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엄마 미소 장착! 패피 셀렙과 자녀 커플 스타일링 3 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82921</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82921</guid>
+            <pubDate>Mon, 18 Dec 2023 11:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[남녀 커플 부럽지 않다!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아름다운 실루엣을 완성하는 윈터 아우터 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82909</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82909</guid>
+            <pubDate>Mon, 18 Dec 2023 03:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[몸을 타고 흐르는 윈터 실루엣.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제니·안유진·차정원까지 입었다! 올 겨울 확신의 아우터는? (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82901</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82901</guid>
+            <pubDate>Thu, 14 Dec 2023 06:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[코트도 패딩도 아닌 시어링 코트라고?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영원한 우아함의 상징! 트위드 재킷의 모든 것 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82845</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82845</guid>
+            <pubDate>Wed, 13 Dec 2023 15:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[영원한 우아함의 상징, 트위드 재킷에 대한 모든 것.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[자유분방한 로큰롤 감성이 느껴지는 셀린느의 톰보이 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82810</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82810</guid>
+            <pubDate>Tue, 12 Dec 2023 15:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[자유분방한 로큰롤 감성과 조우한 셀린느의 톰보이.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화제의 아톰 부츠를 만든 예술집단! '미스치프'를 만나다 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82793</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82793</guid>
+            <pubDate>Tue, 12 Dec 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕 브루클린을 기반으로 활동하는 크리에이터 집단 미스치프. 패션과 아트를 넘나들며 예술과 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올해는 블랙이 다시 유행? 블랙 코트의 귀환! (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82774</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82774</guid>
+            <pubDate>Mon, 11 Dec 2023 15:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[완전무결의 색, 고아한 아름다움을 품은 블랙 코트의 귀환.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코스모 뷰티 어워즈 2023! 베스트 오브 베스트 맨즈 뷰티템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82946</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82946</guid>
+            <pubDate>Wed, 20 Dec 2023 07:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어워즈 2023! 베스트 오브 베스트 향수 & 헤어 & 바디템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82916</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82916</guid>
+            <pubDate>Mon, 18 Dec 2023 09:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한 해의 대미를 장식할 12월의 뷰티 소식 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82889</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82889</guid>
+            <pubDate>Mon, 18 Dec 2023 07:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[연말을 찬란하게 빛내줄 12월의 패션 뉴스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허벅지에 울퉁불퉁 계곡이 생겼다고? 셀룰라이트 경고신호가 켜졌다! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82907</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82907</guid>
+            <pubDate>Mon, 18 Dec 2023 02:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[바디 관리에 철저한 한혜진·미나도 늘 경계한다는 셀룰라이트. 내 몸에 울퉁불퉁 계곡이 생겼다...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한혜진은 셀룰라이트 없는 이유, 따로 있다고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82902</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82902</guid>
+            <pubDate>Wed, 13 Dec 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[셀룰 파괴는 기본, 보습은 덤인 뷰티 루틴 공개.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스·아이브·르세라핌의 겨울 헤어 트렌드 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82900</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82900</guid>
+            <pubDate>Wed, 13 Dec 2023 01:52:46 GMT</pubDate>
+            <content:encoded><![CDATA[여돌들의 겨울 탈색 필수 공식, 애쉬 블론디 헤어 짚어 봅니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어워즈 2023! 베스트 오브 베스트 스킨케어템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82877</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82877</guid>
+            <pubDate>Tue, 12 Dec 2023 01:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어워즈 2023! 베스트 오브 베스트 컬러 & 베이스 메이크업템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82878</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82878</guid>
+            <pubDate>Mon, 11 Dec 2023 16:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이규형, 서인국, 고은성, 김성철, <몬테크리스토> 단테스들의 모임 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83076</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83076</guid>
+            <pubDate>Wed, 20 Dec 2023 06:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[선물할게, 4인 4색의 에드몬드 단테스. 올 뉴 &lt;몬테크리스토&gt;가 완벽할 수밖에 없는 이유.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[머리채 잡고 앨범을 던져? 극성팬 논란된 셀렙 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83089</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83089</guid>
+            <pubDate>Wed, 20 Dec 2023 03:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[결코 팬심이라 부를 수 없는 폭력.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후회한다고? 가슴 성형을 고백한 셀렙 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83088</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83088</guid>
+            <pubDate>Wed, 20 Dec 2023 02:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[있는 그대로의 너를 사랑해.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[테러 막는 해커가 됐다고요? 김윤지에게 듣는 리프트 촬영 비하인드! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83071</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83071</guid>
+            <pubDate>Wed, 20 Dec 2023 00:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[내 마음도 털림(?) 주의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박서준 집 공사 때문에 뷔 집에서 2개월 거주? 우가팸 근황! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82989</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82989</guid>
+            <pubDate>Tue, 19 Dec 2023 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[뷔 군입대를 기념해 모인 우가팸의 근황을 알려드립니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조니워커와 기네스까지! 🥃 No.1 주류회사 디아지오의 모든 것 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82965</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82965</guid>
+            <pubDate>Mon, 18 Dec 2023 03:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[커머셜팀, 마케팅팀, R&amp;CG팀, HR팀 사원들과 함께 했습니다!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전혀 몰랐네? 암을 극복하고 돌아온 셀렙 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82955</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82955</guid>
+            <pubDate>Mon, 18 Dec 2023 10:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[우리 곁에 돌아와 줘서 고마워~.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘환승연애3’ 커밍순! 현재도 연애 중인 환승연애 커플은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82928</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82928</guid>
+            <pubDate>Mon, 18 Dec 2023 10:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[희두 나연 결혼식은 당연 고척돔이겠죠?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80720</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80720</guid>
+            <pubDate>Tue, 19 Dec 2023 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80719</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80719</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[선섹후사는 필수? 대만 2030 청춘들의 사랑법 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80548</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80548</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;성+인물 대만편&gt;에서 귀가 달아오른 ‘썸’ 이야기들.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[30대 연애 시 ‘000’만은 하지 말자? 전현무의 조언 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80407</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80407</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사랑보다 무서운 건 정? <환연2> 해은의 장기 연애 꿀팁 대방출! (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80369</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80369</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[그놈의 정이 뭐라고!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘은 어플보다 데이트 문서가 대세? 애인 구합니다 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80248</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80248</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[구인광고와 100문100답의 만남.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어른이들 어서오고. 반려 토이, 부르부르의 모든 것을 알려드림 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80149</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80149</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[애들은 가! 애들은 가!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[게임에 져서 왔어요. 최악의 헌팅 멘트 톱 오브 톱 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80054</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80054</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[최악의 헌팅 멘트 날리는 남자, 어떻게 거절하지?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘인생샷’ 가능! 따라 하고 싶은 셀렙들의 트리 샷 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83083</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83083</guid>
+            <pubDate>Wed, 20 Dec 2023 02:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[겨울에 트리 샷 하나쯤은 남겨야지.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[홈파티에 제격! 정재형의 JMT 레시피 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83078</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83078</guid>
+            <pubDate>Tue, 19 Dec 2023 10:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[“요리 좀 하는데?” 소리가 절로 나온다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[닭가슴살이 지겨울 땐? 다이어트 제철 음식 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83077</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83077</guid>
+            <pubDate>Tue, 19 Dec 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[살도 빼고 건강에도 좋고 일석이조!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연말에 딱! 좋은 럭셔리 한식 다이닝 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83069</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83069</guid>
+            <pubDate>Tue, 19 Dec 2023 08:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[한 해 동안 지친 나를 위한 몸보신에도 좋은 고급 식당들.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내향인도 즐길 수 있다! 연말 문화 힐링 코스 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83067</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83067</guid>
+            <pubDate>Mon, 18 Dec 2023 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[조용히 문화를 즐기고 생각하기 좋은 멍 때리기 핫스팟.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하와이 감성 가득! 하와이안항공의 A to Z (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83061</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83061</guid>
+            <pubDate>Mon, 18 Dec 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[비행기만 탔는데, 여기가 하와이?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여기가 지상낙원? 하와이 끝판왕 호텔 2 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83062</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83062</guid>
+            <pubDate>Mon, 18 Dec 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[저 집 안가도 될까요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연말 휴가로 핫한 신상 호캉스 어때? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/82991</link>
+            <guid>https://www.cosmopolitan.co.kr/article/82991</guid>
+            <pubDate>Mon, 18 Dec 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[더블트리 바이 힐튼 판교 대신 가드림!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66996</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66996</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[더 이상 못 참겠다 VS 눈치게임 중]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/ef39e916-2881-4268-9ffa-16fcc65094a4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워라밸 다음은 워케이션? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66295</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66295</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/4174c705-a19d-4e65-8069-d57fcf7ec6f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65331</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65331</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/7f65d5d2-800a-4b6f-85e1-e5d1f2638452.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65142</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65142</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64487</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/fdef0949-753f-4b68-8736-97965b951957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63642</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63642</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/aa057e16-327b-41d8-b659-a5b643d33cce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63099</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63099</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/765a3322-7839-4aec-bbe0-4eab080760a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[질투하는 남친이 위험한 이유 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62775</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62775</guid>
+            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
