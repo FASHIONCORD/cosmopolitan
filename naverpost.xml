@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-20T02:09:17.286Z</updated>
+    <updated>2023-12-20T03:09:05.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홈파티에 제격! 정재형의 JMT 레시피 4]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37063718&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37063718&amp;memberNo=11800362"/>
+        <updated>2023-12-20T03:08:02.292Z</updated>
+        <content type="html"><![CDATA[“요리 좀 하는데?” 소리가 절로 나온다.▼ 클릭 ▼ 홈파티에 제격! 정재형의 JMT 레시피 4 “요리 좀 하는데?” 소리가 절로 나온다. www.cosmopolitan.co.kr 비프 부르기뇽 프랑스식 스튜인&nbsp;비프&nbsp;부르기뇽은 원래 하루 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말에 딱! 좋은 럭셔리 한식 다이닝 4]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37062435&amp;memberNo=11800362</id>
@@ -148,12 +155,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37030282&amp;memberNo=11800362"/>
         <updated>2023-12-13T01:52:28.995Z</updated>
         <content type="html"><![CDATA[한겨울의 고요한 푸른 밤을 닮은 몽블랑의 클래식 에센셜 아이템.▼ 클릭 ▼몽블랑의 시그너처인 마이스터트튁 필기구에서 영감받았다. 만년필 닙 모양의 레더 디테일과 탈부착 가능한 숄더 스트랩이 특징인 잉크 블루···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매끈한 내일을 위한 마법같은 한 방울]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37026858&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37026858&amp;memberNo=11800362"/>
-        <updated>2023-12-12T08:12:15.396Z</updated>
-        <content type="html"><![CDATA[클라랑스 더블세럼과 엑스트라 퍼밍 넥크림의 넘치는 플랜트 파워로 얼굴부터 목 라인까지 매끈하고 탄력 있게.▼ 클릭 ▼오일과 워터, 두 가지 세럼을 한 병에 담은 파워풀 안티에이징 세럼. 440개 이상의 어워드를 ···]]></content>
     </entry>
 </feed>
