@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-20T05:08:27.613Z</updated>
+    <updated>2023-12-20T06:10:54.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이규형, 서인국, 고은성, 김성철, <몬테크리스토> 단테스들의 모임]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83076</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83076"/>
+        <updated>2023-12-20T06:10:26.732Z</updated>
+        <content type="html"><![CDATA[선물할게, 4인 4색의 에드몬드 단테스. 올 뉴 &lt;몬테크리스토&gt;가 완벽할 수밖에 없는 이유.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머리채 잡고 앨범을 던져? 극성팬 논란된 셀렙 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83089</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82928"/>
         <updated>2023-12-18T10:11:19.067Z</updated>
         <content type="html"><![CDATA[희두 나연 결혼식은 당연 고척돔이겠죠?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주드로 딸은 먹잘알? 아이리스로가 한국에서 먹고 간 디저트 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82906</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82906"/>
-        <updated>2023-12-18T05:10:29.665Z</updated>
-        <content type="html"><![CDATA[지금은 당충전이 필요해.]]></content>
     </entry>
 </feed>
