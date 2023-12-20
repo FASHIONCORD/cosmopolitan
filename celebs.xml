@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-20T01:31:11.808Z</updated>
+    <updated>2023-12-20T02:09:17.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후회한다고? 가슴 성형을 고백한 셀렙 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83088</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83088"/>
+        <updated>2023-12-20T02:08:40.256Z</updated>
+        <content type="html"><![CDATA[있는 그대로의 너를 사랑해.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테러 막는 해커가 됐다고요? 김윤지에게 듣는 리프트 촬영 비하인드!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83071</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82853"/>
         <updated>2023-12-14T06:12:20.398Z</updated>
         <content type="html"><![CDATA[이효리가 지닌 건강한 피부 비밀이 궁금하다면?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리지아&김진경의 '찐' 옷장 털기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82812</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82812"/>
-        <updated>2023-12-13T08:13:12.642Z</updated>
-        <content type="html"><![CDATA[언니들이 왜 여기서 나와..?]]></content>
     </entry>
 </feed>

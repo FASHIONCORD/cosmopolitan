@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-20T01:31:11.687Z</updated>
+    <updated>2023-12-20T02:09:17.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인생샷’ 가능! 따라 하고 싶은 셀렙들의 트리 샷]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83083</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83083"/>
+        <updated>2023-12-20T02:09:07.956Z</updated>
+        <content type="html"><![CDATA[겨울에 트리 샷 하나쯤은 남겨야지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홈파티에 제격! 정재형의 JMT 레시피 4]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83078</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82991"/>
         <updated>2023-12-18T07:10:15.774Z</updated>
         <content type="html"><![CDATA[더블트리 바이 힐튼 판교 대신 가드림!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 대세 여행지 대만! 아늑한 여행을 위한 호텔 추천 리스트 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82984</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82984"/>
-        <updated>2023-12-18T04:13:12.434Z</updated>
-        <content type="html"><![CDATA[볼거리, 먹거리로 가득한 대만 속 또 하나의 여행지!]]></content>
     </entry>
 </feed>
