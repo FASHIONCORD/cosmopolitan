@@ -1,69 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 16:15:46 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[코스모 뷰티 어워즈 2023! 베스트 오브 베스트 맨즈 뷰티템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82946</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82946</guid>
-            <pubDate>Wed, 20 Dec 2023 07:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어워즈 2023! 베스트 오브 베스트 향수 & 헤어 & 바디템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82916</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82916</guid>
-            <pubDate>Mon, 18 Dec 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한 해의 대미를 장식할 12월의 뷰티 소식]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82889</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82889</guid>
-            <pubDate>Mon, 18 Dec 2023 07:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[연말을 찬란하게 빛내줄 12월의 패션 뉴스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[허벅지에 울퉁불퉁 계곡이 생겼다고? 셀룰라이트 경고신호가 켜졌다!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82907</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82907</guid>
-            <pubDate>Mon, 18 Dec 2023 02:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[바디 관리에 철저한 한혜진·미나도 늘 경계한다는 셀룰라이트. 내 몸에 울퉁불퉁 계곡이 생겼다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한혜진은 셀룰라이트 없는 이유, 따로 있다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82902</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82902</guid>
-            <pubDate>Wed, 13 Dec 2023 03:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[셀룰 파괴는 기본, 보습은 덤인 뷰티 루틴 공개.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스·아이브·르세라핌의 겨울 헤어 트렌드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82900</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82900</guid>
-            <pubDate>Wed, 13 Dec 2023 01:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[여돌들의 겨울 탈색 필수 공식, 애쉬 블론디 헤어 짚어 봅니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어워즈 2023! 베스트 오브 베스트 스킨케어템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82877</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82877</guid>
-            <pubDate>Tue, 12 Dec 2023 01:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/11/957a0ef0-589f-41d3-99ad-999abddcad7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어워즈 2023! 베스트 오브 베스트 컬러 & 베이스 메이크업템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82878</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82878</guid>
-            <pubDate>Mon, 11 Dec 2023 16:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/11/e0c3cacb-150a-4cf3-bb97-4617420c6f18.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-12-21T17:09:53.668Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023! 베스트 오브 베스트 맨즈 뷰티템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82946</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82946"/>
+        <updated>2023-12-20T07:07:23.854Z</updated>
+        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 향수 & 헤어 & 바디템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82916</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82916"/>
+        <updated>2023-12-18T09:10:22.622Z</updated>
+        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 해의 대미를 장식할 12월의 뷰티 소식]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82889</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82889"/>
+        <updated>2023-12-18T07:09:46.872Z</updated>
+        <content type="html"><![CDATA[연말을 찬란하게 빛내줄 12월의 패션 뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허벅지에 울퉁불퉁 계곡이 생겼다고? 셀룰라이트 경고신호가 켜졌다!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82907</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82907"/>
+        <updated>2023-12-18T02:23:55.243Z</updated>
+        <content type="html"><![CDATA[바디 관리에 철저한 한혜진·미나도 늘 경계한다는 셀룰라이트. 내 몸에 울퉁불퉁 계곡이 생겼다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진은 셀룰라이트 없는 이유, 따로 있다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82902</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82902"/>
+        <updated>2023-12-13T03:10:50.713Z</updated>
+        <content type="html"><![CDATA[셀룰 파괴는 기본, 보습은 덤인 뷰티 루틴 공개.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스·아이브·르세라핌의 겨울 헤어 트렌드]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82900</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82900"/>
+        <updated>2023-12-13T01:52:46.541Z</updated>
+        <content type="html"><![CDATA[여돌들의 겨울 탈색 필수 공식, 애쉬 블론디 헤어 짚어 봅니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 스킨케어템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82877</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82877"/>
+        <updated>2023-12-12T01:53:33.868Z</updated>
+        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 컬러 & 베이스 메이크업템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82878</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82878"/>
+        <updated>2023-12-11T16:12:32.598Z</updated>
+        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
+    </entry>
+</feed>
