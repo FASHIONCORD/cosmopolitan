@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/cofficial</id>
-    <title>코스모폴리탄 코리아 ─ 코피셜</title>
-    <updated>2023-12-21T01:49:18.645Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[올해 여름 휴가는 해외로?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/66996</id>
-        <link href="https://www.cosmopolitan.co.kr/article/66996"/>
-        <updated>2023-10-04T10:11:19.047Z</updated>
-        <content type="html"><![CDATA[더 이상 못 참겠다 VS 눈치게임 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워라밸 다음은 워케이션?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/66295</id>
-        <link href="https://www.cosmopolitan.co.kr/article/66295"/>
-        <updated>2023-10-04T09:10:25.060Z</updated>
-        <content type="html"><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/65331</id>
-        <link href="https://www.cosmopolitan.co.kr/article/65331"/>
-        <updated>2023-06-13T11:09:03.830Z</updated>
-        <content type="html"><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/65142</id>
-        <link href="https://www.cosmopolitan.co.kr/article/65142"/>
-        <updated>2023-06-13T11:09:03.832Z</updated>
-        <content type="html"><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 채식해?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/64487</id>
-        <link href="https://www.cosmopolitan.co.kr/article/64487"/>
-        <updated>2023-05-06T16:12:12.021Z</updated>
-        <content type="html"><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/63642</id>
-        <link href="https://www.cosmopolitan.co.kr/article/63642"/>
-        <updated>2023-02-13T04:22:41.842Z</updated>
-        <content type="html"><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/63099</id>
-        <link href="https://www.cosmopolitan.co.kr/article/63099"/>
-        <updated>2023-02-13T04:22:41.848Z</updated>
-        <content type="html"><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[질투하는 남친이 위험한 이유]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/62775</id>
-        <link href="https://www.cosmopolitan.co.kr/article/62775"/>
-        <updated>2023-02-13T04:22:41.852Z</updated>
-        <content type="html"><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를 ...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 코피셜</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 21 Dec 2023 02:22:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 여름 휴가는 해외로?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66996</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66996</guid>
+            <pubDate>Wed, 04 Oct 2023 10:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[더 이상 못 참겠다 VS 눈치게임 중]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/ef39e916-2881-4268-9ffa-16fcc65094a4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워라밸 다음은 워케이션?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/66295</link>
+            <guid>https://www.cosmopolitan.co.kr/article/66295</guid>
+            <pubDate>Wed, 04 Oct 2023 09:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/4174c705-a19d-4e65-8069-d57fcf7ec6f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65331</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65331</guid>
+            <pubDate>Tue, 13 Jun 2023 11:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/7f65d5d2-800a-4b6f-85e1-e5d1f2638452.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/65142</link>
+            <guid>https://www.cosmopolitan.co.kr/article/65142</guid>
+            <pubDate>Tue, 13 Jun 2023 11:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 채식해?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/64487</link>
+            <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
+            <pubDate>Sat, 06 May 2023 16:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/fdef0949-753f-4b68-8736-97965b951957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63642</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63642</guid>
+            <pubDate>Mon, 13 Feb 2023 04:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/aa057e16-327b-41d8-b659-a5b643d33cce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/63099</link>
+            <guid>https://www.cosmopolitan.co.kr/article/63099</guid>
+            <pubDate>Mon, 13 Feb 2023 04:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/765a3322-7839-4aec-bbe0-4eab080760a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[질투하는 남친이 위험한 이유]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/62775</link>
+            <guid>https://www.cosmopolitan.co.kr/article/62775</guid>
+            <pubDate>Mon, 13 Feb 2023 04:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[내 옷차림을 지적한다? 친구 만나는 것까지 질투한다? 휴대폰을 검사한다? 파트너폭력의 징후를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/8ebe7e43-3769-46e9-8621-deda5989cbf4.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
