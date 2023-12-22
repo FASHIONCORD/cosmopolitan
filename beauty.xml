@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2023-12-22T06:13:07.444Z</updated>
+    <updated>2023-12-22T07:09:39.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양치승과 다이어트한 김숙? 팔근육 무슨 일!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83145</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83145"/>
+        <updated>2023-12-22T07:08:54.935Z</updated>
+        <content type="html"><![CDATA[‘근수저’는 이럴 때 쓰는 말 인가 봐.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운동 전문가가 콕! 집어주는 다이어트 지속 가능한 연말 회식 비법은?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83087</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82889"/>
         <updated>2023-12-18T07:09:46.872Z</updated>
         <content type="html"><![CDATA[연말을 찬란하게 빛내줄 12월의 패션 뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허벅지에 울퉁불퉁 계곡이 생겼다고? 셀룰라이트 경고신호가 켜졌다!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82907</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82907"/>
-        <updated>2023-12-18T02:23:55.243Z</updated>
-        <content type="html"><![CDATA[바디 관리에 철저한 한혜진·미나도 늘 경계한다는 셀룰라이트. 내 몸에 울퉁불퉁 계곡이 생겼다...]]></content>
     </entry>
 </feed>
