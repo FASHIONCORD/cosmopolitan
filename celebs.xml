@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-23T02:18:36.131Z</updated>
+    <updated>2023-12-23T03:11:16.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역대급 비주얼! 솔로지옥3 출연진 정보 모음.zip]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83223</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83223"/>
+        <updated>2023-12-23T03:10:51.518Z</updated>
+        <content type="html"><![CDATA[시즌 통틀어 가장 미스코리아 출신이 많다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손흥민이랑 또 누구? 한국인이 고른 올해의 스포츠 선수!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83222</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83082"/>
         <updated>2023-12-21T09:09:31.550Z</updated>
         <content type="html"><![CDATA[배우 김윤지가 알려주는 운동 루틴? 아니, 스스로를 넘치게 사랑하는 법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반갑다 친구야! 성공해서 만난 의외의 동창 셀렙들]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83115</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83115"/>
-        <updated>2023-12-21T01:48:55.898Z</updated>
-        <content type="html"><![CDATA[내 친구 완전 멋있지?!]]></content>
     </entry>
 </feed>
