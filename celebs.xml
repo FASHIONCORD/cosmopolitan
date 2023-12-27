@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-27T07:09:16.390Z</updated>
+    <updated>2023-12-27T08:12:02.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연이은 활동 중단? 지석진, 민니 등 연예계 건강주의보]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83250</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83250"/>
+        <updated>2023-12-27T08:11:37.626Z</updated>
+        <content type="html"><![CDATA[셀렙들의 잇다른 활동 중단 소식과 겨울철 건강 관리법.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정규 2집 앨범 'POWER ANDRE 99'를 발표한 밴드 실리카겔과의 만남!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83127</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83136"/>
         <updated>2023-12-21T11:08:01.074Z</updated>
         <content type="html"><![CDATA[오타니, 이정후, 문동주의 반려견 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 송강이 더 좋아? '스위트홈' VS '마이데몬']]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83130</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83130"/>
-        <updated>2023-12-21T09:09:31.546Z</updated>
-        <content type="html"><![CDATA[송강 is 뭔들.]]></content>
     </entry>
 </feed>
