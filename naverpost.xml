@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2023-12-27T23:10:18.931Z</updated>
+    <updated>2023-12-28T00:39:46.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이규형, 서인국, 고은성, 김성철, <몬테크리스토> 단테스들의 모임]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37071440&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37071440&amp;memberNo=11800362"/>
+        <updated>2023-12-28T00:38:36.144Z</updated>
+        <content type="html"><![CDATA[선물할게, 4인 4색의 에드몬드 단테스. 올 뉴 &lt;몬테크리스토&gt;가 완벽할 수밖에 없는 이유. ▼ 클릭 ▼ 이규형, 서인국, 고은성, 김성철, &lt;몬테크리스토&gt; 단테스들의 모임 선물할게, 4인 4색의 에드몬드 단···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<솔로지옥3>로 알아보는 천국도행 스킬 네가지]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37071307&amp;memberNo=11800362</id>
@@ -144,14 +151,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37036530&amp;memberNo=11800362"/>
         <updated>2023-12-14T02:22:28.497Z</updated>
         <content type="html"><![CDATA[탄력과 볼륨을 잃어가는 피부에 탁! 젊음의 스위치를 켜는 법, 폴라의 크리스마스 컬렉션.▼ 클릭 ▼ 비교 불가한 효능의 눈가 고민 해결사, B.A 아이존 크림을 고급스러운 패키지의 크리스마스 컬렉션으로 출시했다. ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023, 
-영광의 1위를 차지한 베스트 오브 
-베스트 뷰티템 1]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37032678&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37032678&amp;memberNo=11800362"/>
-        <updated>2023-12-13T08:12:20.298Z</updated>
-        <content type="html"><![CDATA[K-뷰티 스피릿이 거침없이 항해하며 전 세계인의 화장대 깊숙한 곳으로 스며든 한 해였다. 이에 많은 브랜드와 플랫폼도 격전을 벌인 2023년의 뷰티 마겟. 단순한 유행템과 진짜의 식별이 절대적으로 필요한 지금, &amp;···]]></content>
     </entry>
 </feed>
