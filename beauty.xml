@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 00:39:46 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[겨울은 비수기? 갓벽 복근 자랑하는 언니들 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83239</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83239</guid>
-            <pubDate>Tue, 26 Dec 2023 06:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[나만 비수기였어?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/c64a1c70-7166-47f9-b5bb-53074cfbda83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양치승과 다이어트한 김숙? 팔근육 무슨 일!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83145</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83145</guid>
-            <pubDate>Fri, 22 Dec 2023 07:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[‘근수저’는 이럴 때 쓰는 말 인가 봐.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/20/abd35617-8c9f-4819-8a6f-ba90f4a0a469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운동 전문가가 콕! 집어주는 다이어트 지속 가능한 연말 회식 비법은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83087</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83087</guid>
-            <pubDate>Fri, 22 Dec 2023 05:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[회식 피할 수 없다면 즐기자! 핏블리·김계란 운동 전문가가 쏙쏙 골라주는 건강한 음주 노하우....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/18/189650b0-9731-49cf-ad7b-1539c14a6ef5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40kg 감량은 껌? 100kg대 셀렙들의 다이어트 팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83081</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83081</guid>
-            <pubDate>Fri, 22 Dec 2023 05:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[거액을 들여 전문가 도움을 받기도!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/18/624c2f1f-76df-4913-9baf-231456bd254a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것만 끊어도 다이어트가 된다고?!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83064</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83064</guid>
-            <pubDate>Fri, 22 Dec 2023 05:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[놀라운 효과로 가득한 밀가루 제한 후기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/18/56bc652c-e058-4878-883e-1dfce4afe3e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['00' 시술도 받았다고? 방부제 미모 셀렙들의 관리 꿀팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82954</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82954</guid>
-            <pubDate>Fri, 22 Dec 2023 04:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[나이를 거꾸로 먹네~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/54d563ef-0e77-470a-bf88-a9c9f47ae920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모 뷰티 어워즈 2023! 베스트 오브 베스트 맨즈 뷰티템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82946</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82946</guid>
-            <pubDate>Wed, 20 Dec 2023 07:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/15/a59d0cbb-5b75-45ec-838c-5a099fe518f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어워즈 2023! 베스트 오브 베스트 향수 & 헤어 & 바디템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/82916</link>
-            <guid>https://www.cosmopolitan.co.kr/article/82916</guid>
-            <pubDate>Mon, 18 Dec 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/12/a6d487e8-fd36-45a0-97ff-435e10f319c0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2023-12-28T01:45:35.839Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울은 비수기? 갓벽 복근 자랑하는 언니들 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83239</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83239"/>
+        <updated>2023-12-26T06:12:15.373Z</updated>
+        <content type="html"><![CDATA[나만 비수기였어?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양치승과 다이어트한 김숙? 팔근육 무슨 일!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83145</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83145"/>
+        <updated>2023-12-22T07:08:54.935Z</updated>
+        <content type="html"><![CDATA[‘근수저’는 이럴 때 쓰는 말 인가 봐.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[운동 전문가가 콕! 집어주는 다이어트 지속 가능한 연말 회식 비법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83087</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83087"/>
+        <updated>2023-12-22T05:09:23.912Z</updated>
+        <content type="html"><![CDATA[회식 피할 수 없다면 즐기자! 핏블리·김계란 운동 전문가가 쏙쏙 골라주는 건강한 음주 노하우....]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40kg 감량은 껌? 100kg대 셀렙들의 다이어트 팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83081</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83081"/>
+        <updated>2023-12-22T05:09:23.914Z</updated>
+        <content type="html"><![CDATA[거액을 들여 전문가 도움을 받기도!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것만 끊어도 다이어트가 된다고?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83064</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83064"/>
+        <updated>2023-12-22T05:09:23.915Z</updated>
+        <content type="html"><![CDATA[놀라운 효과로 가득한 밀가루 제한 후기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['00' 시술도 받았다고? 방부제 미모 셀렙들의 관리 꿀팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82954</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82954"/>
+        <updated>2023-12-22T04:11:44.354Z</updated>
+        <content type="html"><![CDATA[나이를 거꾸로 먹네~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023! 베스트 오브 베스트 맨즈 뷰티템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82946</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82946"/>
+        <updated>2023-12-20T07:07:23.854Z</updated>
+        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어워즈 2023! 베스트 오브 베스트 향수 & 헤어 & 바디템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/82916</id>
+        <link href="https://www.cosmopolitan.co.kr/article/82916"/>
+        <updated>2023-12-18T09:10:22.622Z</updated>
+        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
+    </entry>
+</feed>
