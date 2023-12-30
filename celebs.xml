@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2023-12-30T08:11:30.759Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[나만 알고 싶은 밴드? 실리카겔 등판!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83262</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83262"/>
-        <updated>2023-12-28T05:09:46.745Z</updated>
-        <content type="html"><![CDATA[얼렁뚱땅 귀여움 가득 케미맛ZIP 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연이은 활동 중단? 지석진, 민니 등 연예계 건강주의보]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83250</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83250"/>
-        <updated>2023-12-27T08:11:37.626Z</updated>
-        <content type="html"><![CDATA[셀렙들의 잇다른 활동 중단 소식과 겨울철 건강 관리법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정규 2집 앨범 'POWER ANDRE 99'를 발표한 밴드 실리카겔과의 만남!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83127</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83127"/>
-        <updated>2023-12-27T00:39:03.360Z</updated>
-        <content type="html"><![CDATA[실리카겔의 음, 실리카겔의 언어 그 모든 건 실리카겔이 되어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노홍철 놀라운 근황 공개! 지팡이에 휠체어까지?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83230</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83230"/>
-        <updated>2023-12-26T01:45:04.231Z</updated>
-        <content type="html"><![CDATA[아파도 유쾌한 긍정왕!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대급 비주얼! 솔로지옥3 출연진 정보 모음.zip]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83223</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83223"/>
-        <updated>2023-12-23T03:10:51.518Z</updated>
-        <content type="html"><![CDATA[시즌 통틀어 가장 미스코리아 출신이 많다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손흥민이랑 또 누구? 한국인이 고른 올해의 스포츠 선수!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83222</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83222"/>
-        <updated>2023-12-22T09:09:26.564Z</updated>
-        <content type="html"><![CDATA[사랑해요 캡틴쏜.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 장동윤이 세상을 바라보는 시선]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83134</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83134"/>
-        <updated>2023-12-22T07:09:01.634Z</updated>
-        <content type="html"><![CDATA[말갛고 순수한 얼굴로만 그를 판단하면 곤란하다. 솔직하고, 불의를 참지 못하고, 옳고 그름을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<스위트홈> 시즌 2의 두 배우, 고민시&진영의 달콤살벌한 조우!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83125</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83125"/>
-        <updated>2023-12-22T01:46:48.500Z</updated>
-        <content type="html"><![CDATA[욕망이 괴물이 되는 세계, 자신의 운명을 치열하게 개척해나가는 이들이 있다. &lt;스위트홈 시즌2&gt;...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 30 Dec 2023 09:09:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만 알고 싶은 밴드? 실리카겔 등판!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83262</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83262</guid>
+            <pubDate>Thu, 28 Dec 2023 05:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[얼렁뚱땅 귀여움 가득 케미맛ZIP 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/1f1d80a7-1a6d-4c23-ab32-60fea58fe6e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연이은 활동 중단? 지석진, 민니 등 연예계 건강주의보]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83250</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83250</guid>
+            <pubDate>Wed, 27 Dec 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[셀렙들의 잇다른 활동 중단 소식과 겨울철 건강 관리법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/4d02d029-6e64-4d9a-9166-edffa96ea949.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정규 2집 앨범 'POWER ANDRE 99'를 발표한 밴드 실리카겔과의 만남!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83127</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83127</guid>
+            <pubDate>Wed, 27 Dec 2023 00:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[실리카겔의 음, 실리카겔의 언어 그 모든 건 실리카겔이 되어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/3d44b131-96a0-4788-b5f6-d45eb3a458d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노홍철 놀라운 근황 공개! 지팡이에 휠체어까지?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83230</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83230</guid>
+            <pubDate>Tue, 26 Dec 2023 01:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[아파도 유쾌한 긍정왕!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/288175f9-75d8-4a8e-8445-9aee3956215d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역대급 비주얼! 솔로지옥3 출연진 정보 모음.zip]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83223</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83223</guid>
+            <pubDate>Sat, 23 Dec 2023 03:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[시즌 통틀어 가장 미스코리아 출신이 많다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/df365b9f-d4ab-4694-81d3-09a92ba9bcc6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손흥민이랑 또 누구? 한국인이 고른 올해의 스포츠 선수!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83222</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83222</guid>
+            <pubDate>Fri, 22 Dec 2023 09:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[사랑해요 캡틴쏜.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/3342020f-8fab-4e64-8107-3066c3089023.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 장동윤이 세상을 바라보는 시선]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83134</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83134</guid>
+            <pubDate>Fri, 22 Dec 2023 07:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[말갛고 순수한 얼굴로만 그를 판단하면 곤란하다. 솔직하고, 불의를 참지 못하고, 옳고 그름을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/3b732c2e-bdce-471d-9b60-b8efab6ab9b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스위트홈> 시즌 2의 두 배우, 고민시&진영의 달콤살벌한 조우!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83125</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83125</guid>
+            <pubDate>Fri, 22 Dec 2023 01:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[욕망이 괴물이 되는 세계, 자신의 운명을 치열하게 개척해나가는 이들이 있다. &lt;스위트홈 시즌2&gt;...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/54011466-f0dd-4c8a-a0dc-230891b9978c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
