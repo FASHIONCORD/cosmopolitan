@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2023-12-31T08:11:24.604Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[새해 호캉스에 제격! 한 살 미만 새삥 호텔 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83247</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83247"/>
-        <updated>2023-12-25T08:12:54.224Z</updated>
-        <content type="html"><![CDATA[오픈한 지 1년도 안 된 서울 경기 신상 호텔 몰아보기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼어 죽어도 못 참아! 겨울 아이스크림 핫플 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83246</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83246"/>
-        <updated>2023-12-22T08:12:13.992Z</updated>
-        <content type="html"><![CDATA[영하에 밖에서 웨이팅 가능? 서울 곳곳 아이스크림 맛집 탐방.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파부터 온천까지! 가족 여행 핫스폿 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83244</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83244"/>
-        <updated>2023-12-22T07:09:32.502Z</updated>
-        <content type="html"><![CDATA[따뜻한 탕에서 휴식 한번 제대로 해볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[침 싹 고이는 <나혼산> 팜유 트래블! 이번엔 타이중이다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83229</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83229"/>
-        <updated>2023-12-22T07:09:32.503Z</updated>
-        <content type="html"><![CDATA[팜유가 검증했기에 더 믿을 수 있는 타이중 맛집들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막 찍어도 킹벽한 사진 만들어주는 서울 단독 주택 렌탈 스튜디오 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83227</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83227"/>
-        <updated>2023-12-22T07:09:32.505Z</updated>
-        <content type="html"><![CDATA[촬영 로케이션 고민하는 사람들 다 주목! 코스모가 딱 골라드림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형마트에서 줍줍하자! 홈파티 필수 아이템 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83226</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83226"/>
-        <updated>2023-12-22T06:12:58.394Z</updated>
-        <content type="html"><![CDATA[주문할 시간도 없을 땐 대형마트에서 쟁이자!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 여행 피로를 싹! 녹여버릴 노천탕·인피니티풀 숙소 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83225</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83225"/>
-        <updated>2023-12-22T06:12:58.397Z</updated>
-        <content type="html"><![CDATA[겨울 물놀이 여행 좌표 알려드림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손흥민이랑 또 누구? 한국인이 고른 올해의 스포츠 선수!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83222</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83222"/>
-        <updated>2023-12-22T05:10:16.305Z</updated>
-        <content type="html"><![CDATA[사랑해요 캡틴쏜.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 31 Dec 2023 09:09:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 호캉스에 제격! 한 살 미만 새삥 호텔 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83247</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83247</guid>
+            <pubDate>Mon, 25 Dec 2023 08:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[오픈한 지 1년도 안 된 서울 경기 신상 호텔 몰아보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/3fbfbaef-5fec-4bc9-be90-2fbac067e57f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼어 죽어도 못 참아! 겨울 아이스크림 핫플 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83246</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83246</guid>
+            <pubDate>Fri, 22 Dec 2023 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[영하에 밖에서 웨이팅 가능? 서울 곳곳 아이스크림 맛집 탐방.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/98ec9a95-e207-48c2-b821-d1a3b6dd0b90.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파부터 온천까지! 가족 여행 핫스폿 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83244</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83244</guid>
+            <pubDate>Fri, 22 Dec 2023 07:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[따뜻한 탕에서 휴식 한번 제대로 해볼까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/93b3cd45-45fe-4419-925c-045c811050cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[침 싹 고이는 <나혼산> 팜유 트래블! 이번엔 타이중이다]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83229</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83229</guid>
+            <pubDate>Fri, 22 Dec 2023 07:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[팜유가 검증했기에 더 믿을 수 있는 타이중 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/751a07b3-a393-4ec1-b8d5-c9b4dde5019d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막 찍어도 킹벽한 사진 만들어주는 서울 단독 주택 렌탈 스튜디오 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83227</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83227</guid>
+            <pubDate>Fri, 22 Dec 2023 07:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[촬영 로케이션 고민하는 사람들 다 주목! 코스모가 딱 골라드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/e9ca7e73-bc82-4bef-9993-fcd9bd06cebc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대형마트에서 줍줍하자! 홈파티 필수 아이템 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83226</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83226</guid>
+            <pubDate>Fri, 22 Dec 2023 06:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[주문할 시간도 없을 땐 대형마트에서 쟁이자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/cd573e79-6e6a-48df-af11-7852f648660c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 여행 피로를 싹! 녹여버릴 노천탕·인피니티풀 숙소 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83225</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83225</guid>
+            <pubDate>Fri, 22 Dec 2023 06:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[겨울 물놀이 여행 좌표 알려드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/7d10c273-565a-4472-aa1c-6f709bc022bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손흥민이랑 또 누구? 한국인이 고른 올해의 스포츠 선수!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83222</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83222</guid>
+            <pubDate>Fri, 22 Dec 2023 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[사랑해요 캡틴쏜.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/3342020f-8fab-4e64-8107-3066c3089023.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
