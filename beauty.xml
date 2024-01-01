@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-01-01T14:09:11.754Z</updated>
+    <updated>2024-01-01T15:09:31.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톱스타는 다 모여! 공유, 유재석도 다니는 헬스장의 정체]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83242</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83242"/>
+        <updated>2024-01-01T15:08:59.076Z</updated>
+        <content type="html"><![CDATA[여기 체육관 관원들 다 모으면 거품, 언빌리버블!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약속 전날 필수! 한지민의 시상식 홈케어 공개]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83240</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/82954"/>
         <updated>2023-12-22T04:11:44.354Z</updated>
         <content type="html"><![CDATA[나이를 거꾸로 먹네~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 뷰티 어워즈 2023! 베스트 오브 베스트 맨즈 뷰티템은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82946</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82946"/>
-        <updated>2023-12-20T07:07:23.854Z</updated>
-        <content type="html"><![CDATA[2023년을 가장 빛낸 48개 카테고리의 1위·2위·3위 수상 제품들과 디지털 플랫폼상에서 큰 인기를...]]></content>
     </entry>
 </feed>
