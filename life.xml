@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-02T07:10:17.987Z</updated>
+    <updated>2024-01-02T08:13:31.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라이즈(RIIZE) 신곡 ‘Love 119’, 알고 보니 ‘응급실’이라고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83393</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83393"/>
+        <updated>2024-01-02T08:12:52.502Z</updated>
+        <content type="html"><![CDATA[노래방 띵곡 ‘응급실’의 재탄생.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겟생할래요? 잘 사는 'MZ'들의 겟생 노하우]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83212</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83212"/>
+        <updated>2024-01-02T08:12:52.503Z</updated>
+        <content type="html"><![CDATA[열심히 말고 ‘잘’ 사는 요즘 MZ들의 겟생 노하우.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COSMO PICK! 놓치면 안 되는 라이프스타일 소식 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83183</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83183"/>
+        <updated>2024-01-02T08:12:52.505Z</updated>
+        <content type="html"><![CDATA[지금 주목해야 할 패션·뷰티·라이프스타일 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스에 진심인 도쿄의 모습이 궁금해?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83286</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83286"/>
+        <updated>2024-01-02T08:12:52.509Z</updated>
+        <content type="html"><![CDATA[메리 도쿄 크리스마스~!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선물 센스 키우고 싶다면? 연말 꽃다발 맛집 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83259</id>
@@ -32,33 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83254"/>
         <updated>2023-12-31T15:09:16.491Z</updated>
         <content type="html"><![CDATA[난이도는 최하, 맛은 극상!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 호캉스에 제격! 한 살 미만 새삥 호텔 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83247</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83247"/>
-        <updated>2023-12-25T08:12:54.224Z</updated>
-        <content type="html"><![CDATA[오픈한 지 1년도 안 된 서울 경기 신상 호텔 몰아보기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼어 죽어도 못 참아! 겨울 아이스크림 핫플 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83246</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83246"/>
-        <updated>2023-12-22T08:12:13.992Z</updated>
-        <content type="html"><![CDATA[영하에 밖에서 웨이팅 가능? 서울 곳곳 아이스크림 맛집 탐방.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파부터 온천까지! 가족 여행 핫스폿 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83244</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83244"/>
-        <updated>2023-12-22T07:09:32.502Z</updated>
-        <content type="html"><![CDATA[따뜻한 탕에서 휴식 한번 제대로 해볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[침 싹 고이는 <나혼산> 팜유 트래블! 이번엔 타이중이다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83229</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83229"/>
-        <updated>2023-12-22T07:09:32.503Z</updated>
-        <content type="html"><![CDATA[팜유가 검증했기에 더 믿을 수 있는 타이중 맛집들.]]></content>
     </entry>
 </feed>
