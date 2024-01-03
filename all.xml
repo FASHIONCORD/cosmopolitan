@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 00:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 01:50:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,6 +268,13 @@
             <content:encoded><![CDATA[나만 비수기였어?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[개그우먼? 사격 국가대표? 김민경에 대한 모든 것! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83334</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83334</guid>
+            <pubDate>Wed, 03 Jan 2024 01:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[Fun, Fearless, Female!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[냥집사 장동윤의 반려묘 동이 사진 대방출?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83322</link>
             <guid>https://www.cosmopolitan.co.kr/article/83322</guid>
@@ -315,13 +322,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83127</guid>
             <pubDate>Wed, 27 Dec 2023 00:39:03 GMT</pubDate>
             <content:encoded><![CDATA[실리카겔의 음, 실리카겔의 언어 그 모든 건 실리카겔이 되어.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노홍철 놀라운 근황 공개! 지팡이에 휠체어까지? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83230</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83230</guid>
-            <pubDate>Tue, 26 Dec 2023 01:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[아파도 유쾌한 긍정왕!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
