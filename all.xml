@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 02:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 03:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,6 +268,20 @@
             <content:encoded><![CDATA[나만 비수기였어?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[YG에 대적! 블랙핑크 지수가 엔터를 차린다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83415</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83415</guid>
+            <pubDate>Wed, 03 Jan 2024 03:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[3대 기획사 입성 가나요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[티켓 전체 취소? 콘서트 암표와 전쟁을 선언한 스타들 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83410</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83410</guid>
+            <pubDate>Wed, 03 Jan 2024 03:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[장범준, 성시경, 아이유가 뿔났다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[올해 첫 열애설에 휩싸인 셀렙은 누구?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83398</link>
             <guid>https://www.cosmopolitan.co.kr/article/83398</guid>
@@ -308,20 +322,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83147</guid>
             <pubDate>Tue, 02 Jan 2024 07:09:54 GMT</pubDate>
             <content:encoded><![CDATA[개그우먼 김민경은 힘이 세다. 근력만을 이야기하는 건 아니다. 뉴 코스모의 첫 번째 ‘Fun F...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <몬테크리스토> 몬테즈의 찐 형제 케미 보러오세요 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83277</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83277</guid>
-            <pubDate>Tue, 02 Jan 2024 07:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[이 조합 여기서만 볼 수 있음.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 밴드? 실리카겔 등판! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83262</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83262</guid>
-            <pubDate>Thu, 28 Dec 2023 05:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[얼렁뚱땅 귀여움 가득 케미맛ZIP 공개!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
