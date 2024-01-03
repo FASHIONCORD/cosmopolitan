@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 08:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 09:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,6 +268,13 @@
             <content:encoded><![CDATA[나만 비수기였어?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[셀렙들의 2024 새해 메시지, 닝닝이 이런 걸 올렸다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83429</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83429</guid>
+            <pubDate>Wed, 03 Jan 2024 09:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[훈훈하거나 웃기거나 뿌듯하거나.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[YG에 대적! 블랙핑크 지수가 엔터를 차린다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83415</link>
             <guid>https://www.cosmopolitan.co.kr/article/83415</guid>
@@ -315,13 +322,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83132</guid>
             <pubDate>Tue, 02 Jan 2024 08:12:39 GMT</pubDate>
             <content:encoded><![CDATA[후회 속에서 고결히 피어나는 성장. 배우 이재욱의 푸르른 서사시.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[용감하고 유쾌한 그녀! 김민경과의 한바탕 수다 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83147</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83147</guid>
-            <pubDate>Tue, 02 Jan 2024 07:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[개그우먼 김민경은 힘이 세다. 근력만을 이야기하는 건 아니다. 뉴 코스모의 첫 번째 ‘Fun F...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
