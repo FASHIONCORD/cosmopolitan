@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-01-04T08:12:35.607Z</updated>
+    <updated>2024-01-04T09:10:32.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[연휴에 찐 급찐 살 타파! 윤혜진 추천 홈트 루틴]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83400</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83400"/>
-        <updated>2024-01-04T08:11:50.440Z</updated>
-        <content type="html"><![CDATA[발레 동작을 더했더니 운동 효과 UP!]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['카카오톡 선물하기' 인기 뷰티템 TOP5는 뭘까?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83396</id>
@@ -60,5 +53,12 @@
         <link href="https://www.cosmopolitan.co.kr/article/83242"/>
         <updated>2024-01-01T15:08:59.076Z</updated>
         <content type="html"><![CDATA[여기 체육관 관원들 다 모으면 거품, 언빌리버블!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약속 전날 필수! 한지민의 시상식 홈케어 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83240</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83240"/>
+        <updated>2024-01-04T09:09:16.602Z</updated>
+        <content type="html"><![CDATA[피부에 뭘 한 거야?]]></content>
     </entry>
 </feed>
