@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 07:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 08:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,13 @@
             <content:encoded><![CDATA[몸을 타고 흐르는 윈터 실루엣.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연휴에 찐 급찐 살 타파! 윤혜진 추천 홈트 루틴 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83400</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83400</guid>
+            <pubDate>Thu, 04 Jan 2024 08:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[발레 동작을 더했더니 운동 효과 UP!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['카카오톡 선물하기' 인기 뷰티템 TOP5는 뭘까? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83396</link>
             <guid>https://www.cosmopolitan.co.kr/article/83396</guid>
@@ -259,13 +266,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83242</guid>
             <pubDate>Mon, 01 Jan 2024 15:08:59 GMT</pubDate>
             <content:encoded><![CDATA[여기 체육관 관원들 다 모으면 거품, 언빌리버블!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[약속 전날 필수! 한지민의 시상식 홈케어 공개 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83240</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83240</guid>
-            <pubDate>Sun, 31 Dec 2023 15:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[피부에 뭘 한 거야?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[셀렙들의 2024 새해 메시지, 닝닝이 이런 걸 올렸다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
