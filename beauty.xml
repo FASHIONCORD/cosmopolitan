@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-01-07T14:08:50.794Z</updated>
+    <updated>2024-01-07T15:09:38.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맨즈 뷰티가 왔다. 6명의 트민남이 뽑은 하입보이는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83237</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83237"/>
+        <updated>2024-01-07T15:09:02.769Z</updated>
+        <content type="html"><![CDATA[6명의 하입보이가 말하는 아름다움에 대하여.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 대세는 이것! 뷰티계에 불어온 '콰이어트 뷰티' 신드롬]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83218</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83181"/>
         <updated>2024-01-02T08:12:33.339Z</updated>
         <content type="html"><![CDATA[지금 주목해야 할 패션·뷰티·라이프스타일 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이어터가 지방을 꼭 먹는 이유! 진서연, 소유가 포만감 높이는 비법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83290</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83290"/>
-        <updated>2024-01-02T08:12:33.339Z</updated>
-        <content type="html"><![CDATA[배고픔을 이기는 진서연, 소유의 다이어트 식단 필수템! ‘지방’을 꼭 채워라.]]></content>
     </entry>
 </feed>
