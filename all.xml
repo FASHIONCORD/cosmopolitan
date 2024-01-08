@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 06:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,27 @@
             <content:encoded><![CDATA[요즘은 이런 목도리가 대세!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[꾸.안.꾸 SSAP 가능! 우아하고 시크한 슬릭백 헤어 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83472</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83472</guid>
+            <pubDate>Mon, 08 Jan 2024 06:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[단순함의 미학, 결코 촌스럽지 않은 마성의 슬릭백 헤어.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NEW, NEED, NOW! 새해를 장식할 1월 뷰티 신상은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83514</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83514</guid>
+            <pubDate>Mon, 08 Jan 2024 06:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[새해부터 코덕들의 심장을 요동치게 할 따끈따끈한 1월의 뷰티 신상.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신비로움 그 자체! 바이올렛 글리터 룩의 세계 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83508</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83508</guid>
+            <pubDate>Mon, 08 Jan 2024 06:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[두 눈과 뺨, 입술과 손끝까지 신비로움을 더하는 보랏빛 글리터. 몽환적으로 빛나는 바이올렛 글...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아이케어는 선택 아닌 필수! 놓치면 안될 쇼핑 리스트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83386</link>
             <guid>https://www.cosmopolitan.co.kr/article/83386</guid>
@@ -246,27 +267,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83409</guid>
             <pubDate>Fri, 05 Jan 2024 15:09:18 GMT</pubDate>
             <content:encoded><![CDATA[국대 아내는 다르다 달라.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['00'으로 세안? 60대 황신혜의 꿀피부 관리팁 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83408</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83408</guid>
-            <pubDate>Thu, 04 Jan 2024 15:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[30대라고 해도 믿겠네~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연휴에 찐 급찐 살 타파! 윤혜진 추천 홈트 루틴 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83400</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83400</guid>
-            <pubDate>Thu, 04 Jan 2024 10:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[발레 동작을 더했더니 운동 효과 UP!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['카카오톡 선물하기' 인기 뷰티템 TOP5는 뭘까? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83396</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83396</guid>
-            <pubDate>Wed, 03 Jan 2024 15:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 주고받는 뷰티 선물 랭킹 5 알려드림.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1월도 벌써 예약 끝! 민경훈 만날 수 있는 캠핑장이 있다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -381,6 +381,13 @@
             <content:encoded><![CDATA[최악의 헌팅 멘트 날리는 남자, 어떻게 거절하지?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[다이어트 중 집들이에 제격! 관리왕 진서연의 홈파티 레시피 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83405</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83405</guid>
+            <pubDate>Mon, 08 Jan 2024 06:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[보기 좋고 맛도 좋은데 살까지 빠진다!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[환승연애 김광태 X는 메기? 환승연애 TMI 10 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83403</link>
             <guid>https://www.cosmopolitan.co.kr/article/83403</guid>
@@ -428,13 +435,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83286</guid>
             <pubDate>Tue, 02 Jan 2024 08:12:52 GMT</pubDate>
             <content:encoded><![CDATA[메리 도쿄 크리스마스~!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[선물 센스 키우고 싶다면? 연말 꽃다발 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83259</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83259</guid>
-            <pubDate>Tue, 02 Jan 2024 07:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[트리 꽃다발이라고 들어 봤어..?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 KBO 개막 기념! 야구 영화 속 인물 10인 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
