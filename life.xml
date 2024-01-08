@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-08T02:26:07.863Z</updated>
+    <updated>2024-01-08T03:11:01.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해 모임 장소로 딱! 이색 코스 레스토랑 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83402</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83402"/>
+        <updated>2024-01-08T03:10:52.904Z</updated>
+        <content type="html"><![CDATA[백주 맡김 차림부터 스모크 코스까지?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3,40년째 간식계 기강 잡고 있는 레트로 과자들의 변신!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83397</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83258"/>
         <updated>2024-01-02T07:10:10.004Z</updated>
         <content type="html"><![CDATA[이런 곳이 있었어?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예쁜데 심지어 저렴해? 가성비 크리스마스 케이크 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83257</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83257"/>
-        <updated>2024-01-01T15:09:22.487Z</updated>
-        <content type="html"><![CDATA[올해 크리스마스 파티에는 이거!]]></content>
     </entry>
 </feed>
