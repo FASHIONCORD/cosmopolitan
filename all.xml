@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 01:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 02:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,13 @@
             <content:encoded><![CDATA[요즘은 이런 목도리가 대세!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[피치퍼즈로 탈색할 사람? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83480</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83480</guid>
+            <pubDate>Mon, 08 Jan 2024 02:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[저요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[맨즈 뷰티가 왔다. 6명의 트민남이 뽑은 하입보이는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83237</link>
             <guid>https://www.cosmopolitan.co.kr/article/83237</guid>
@@ -260,13 +267,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83185</guid>
             <pubDate>Tue, 02 Jan 2024 15:09:21 GMT</pubDate>
             <content:encoded><![CDATA[삶의 단짠단짠을 핑계로 새해 결심을 작심삼일로 만든 이들은 주목! 새해가 정말 ‘새로운 해’...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신상부터 팝업까지! 지금 주목해야 할 뷰티 이슈는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83181</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83181</guid>
-            <pubDate>Tue, 02 Jan 2024 08:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[지금 주목해야 할 패션·뷰티·라이프스타일 뉴스.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공연 논란에 AI진행까지?! 연말 시상식 아이돌 UP&DOWN (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>

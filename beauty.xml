@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-01-08T01:54:26.409Z</updated>
+    <updated>2024-01-08T02:26:07.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피치퍼즈로 탈색할 사람?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83480</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83480"/>
+        <updated>2024-01-08T02:24:49.775Z</updated>
+        <content type="html"><![CDATA[저요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맨즈 뷰티가 왔다. 6명의 트민남이 뽑은 하입보이는?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83237</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83185"/>
         <updated>2024-01-02T15:09:21.978Z</updated>
         <content type="html"><![CDATA[삶의 단짠단짠을 핑계로 새해 결심을 작심삼일로 만든 이들은 주목! 새해가 정말 ‘새로운 해’...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신상부터 팝업까지! 지금 주목해야 할 뷰티 이슈는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83181</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83181"/>
-        <updated>2024-01-02T08:12:33.339Z</updated>
-        <content type="html"><![CDATA[지금 주목해야 할 패션·뷰티·라이프스타일 뉴스.]]></content>
     </entry>
 </feed>
