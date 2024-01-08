@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-01-08T07:10:50.562Z</updated>
+    <updated>2024-01-08T08:13:40.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘청룡의 해’, 용띠 스타들의 근황은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83453</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83453"/>
+        <updated>2024-01-08T08:13:17.816Z</updated>
+        <content type="html"><![CDATA[용의 기운으로 힘차게 날아오를 준비 완료!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1억원 기부?! 새해 맞이 기부를 실천한 셀렙 4]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83436</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83410"/>
         <updated>2024-01-03T03:10:31.263Z</updated>
         <content type="html"><![CDATA[장범준, 성시경, 아이유가 뿔났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 첫 열애설에 휩싸인 셀렙은 누구?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83398</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83398"/>
-        <updated>2024-01-03T02:21:33.816Z</updated>
-        <content type="html"><![CDATA[주인공은 축구 선수 이강인과 에이프릴 출신 배우 이나은!]]></content>
     </entry>
 </feed>
