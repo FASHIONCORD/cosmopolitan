@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-01-08T09:11:20.620Z</updated>
+    <updated>2024-01-08T10:11:21.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패.알.못 다 모여. 2024년 패션은 '이것'만 알면 끝!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83196</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83196"/>
+        <updated>2024-01-08T10:10:30.105Z</updated>
+        <content type="html"><![CDATA[코스모가 예측하는 2024년의 패션계.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warm & Cozy 니트의 포근함에 푹 빠져 볼 시간!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83184</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83065"/>
         <updated>2024-01-01T15:08:51.898Z</updated>
         <content type="html"><![CDATA[제니·김나영·소연의 겨울 룩엔 이게 있다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 3만원대 목도리? 카리나·차정원 등 셀럽 겨울 머플러 룩]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/82990</id>
-        <link href="https://www.cosmopolitan.co.kr/article/82990"/>
-        <updated>2023-12-31T15:08:25.695Z</updated>
-        <content type="html"><![CDATA[요즘은 이런 목도리가 대세!]]></content>
     </entry>
 </feed>
