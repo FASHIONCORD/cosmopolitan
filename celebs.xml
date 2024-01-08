@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-01-08T06:13:25.543Z</updated>
+    <updated>2024-01-08T07:10:50.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1억원 기부?! 새해 맞이 기부를 실천한 셀렙 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83436</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83436"/>
+        <updated>2024-01-08T07:10:25.715Z</updated>
+        <content type="html"><![CDATA[읽기만 해도 가슴이 뜨뜻해진다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1월도 벌써 예약 끝! 민경훈 만날 수 있는 캠핑장이 있다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83434</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83398"/>
         <updated>2024-01-03T02:21:33.816Z</updated>
         <content type="html"><![CDATA[주인공은 축구 선수 이강인과 에이프릴 출신 배우 이나은!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈(RIIZE) 신곡 ‘Love 119’, 알고 보니 ‘응급실’이라고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83393</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83393"/>
-        <updated>2024-01-03T02:21:33.818Z</updated>
-        <content type="html"><![CDATA[노래방 띵곡 ‘응급실’의 재탄생.]]></content>
     </entry>
 </feed>
