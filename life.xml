@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-09T08:13:24.388Z</updated>
+    <updated>2024-01-09T09:10:21.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1월 핵꿀잼 예약한 초 기대작 시리즈들!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83540</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83540"/>
+        <updated>2024-01-09T09:10:13.545Z</updated>
+        <content type="html"><![CDATA[OTT와 TV 드라마 경쟁이 뜨거워지는 만큼 우리 눈은 즐거워질 예정!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해 옷장 정리는? 옷장테크로 시작하시죠!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83538</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83538"/>
+        <updated>2024-01-09T09:10:13.546Z</updated>
+        <content type="html"><![CDATA[곧 우르르 쏟아질 거 같은 내 옷장, 똑똑하게 정리 하는 방법, 옷장테크!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해에 새 소식! 2024년에 달라지는 것은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83454</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83454"/>
+        <updated>2024-01-09T09:10:13.547Z</updated>
+        <content type="html"><![CDATA[올해는 366일이라고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신동엽 단골집? 새해에 꼭 먹어야 할 떡국 맛집 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83411</id>
@@ -39,26 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83397"/>
         <updated>2024-01-03T10:10:16.490Z</updated>
         <content type="html"><![CDATA[2024년에도 새롭게 사랑받을 핵인싸 간식들의 요즘.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈(RIIZE) 신곡 ‘Love 119’, 알고 보니 ‘응급실’이라고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83393</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83393"/>
-        <updated>2024-01-02T08:12:52.502Z</updated>
-        <content type="html"><![CDATA[노래방 띵곡 ‘응급실’의 재탄생.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겟생할래요? 잘 사는 'MZ'들의 겟생 노하우]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83212</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83212"/>
-        <updated>2024-01-02T08:12:52.503Z</updated>
-        <content type="html"><![CDATA[열심히 말고 ‘잘’ 사는 요즘 MZ들의 겟생 노하우.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COSMO PICK! 놓치면 안 되는 라이프스타일 소식 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83183</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83183"/>
-        <updated>2024-01-02T08:12:52.505Z</updated>
-        <content type="html"><![CDATA[지금 주목해야 할 패션·뷰티·라이프스타일 뉴스.]]></content>
     </entry>
 </feed>
