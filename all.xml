@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 22:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 23:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,7 +198,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83184</guid>
             <pubDate>Sun, 07 Jan 2024 15:08:55 GMT</pubDate>
             <content:encoded><![CDATA[니트의 포근함에 푹 빠진 윈터 데이즈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/03/d43d1b8d-0cd9-45c8-8d23-a8f332136785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[COSMO LIKE! 지금 주목해야 할 패션 이슈는? (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -206,7 +205,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83157</guid>
             <pubDate>Sat, 06 Jan 2024 15:08:42 GMT</pubDate>
             <content:encoded><![CDATA[지금 주목해야 할 패션·뷰티·라이프스타일 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/02/b37b07d9-de35-4c42-be35-21680de0d406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WHAT'S HOT! 코스모가 픽한 1월 아이템은? (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -214,7 +212,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83146</guid>
             <pubDate>Fri, 05 Jan 2024 15:09:10 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 1월 아이템은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/01/cd127bc4-a227-43eb-b9ee-fa477d528c7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동안의 비결은 이것? 여배우의 관리 치트키 대공개! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
