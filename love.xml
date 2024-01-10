@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/love</id>
     <title>코스모폴리탄 코리아 ─ 러브</title>
-    <updated>2024-01-10T01:54:40.849Z</updated>
+    <updated>2024-01-10T02:25:16.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80856</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80856"/>
+        <updated>2024-01-10T02:24:53.606Z</updated>
+        <content type="html"><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술]]></title>
         <id>https://www.cosmopolitan.co.kr/article/80720</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80149"/>
         <updated>2023-09-20T02:16:40.775Z</updated>
         <content type="html"><![CDATA[애들은 가! 애들은 가!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임에 져서 왔어요. 최악의 헌팅 멘트 톱 오브 톱]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80054</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80054"/>
-        <updated>2023-09-12T03:10:11.322Z</updated>
-        <content type="html"><![CDATA[최악의 헌팅 멘트 날리는 남자, 어떻게 거절하지?]]></content>
     </entry>
 </feed>
