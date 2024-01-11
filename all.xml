@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 13:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 14:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83146</guid>
             <pubDate>Fri, 05 Jan 2024 15:09:10 GMT</pubDate>
             <content:encoded><![CDATA[코스모가 픽한 1월 아이템은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/01/cd127bc4-a227-43eb-b9ee-fa477d528c7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스낵이야 비타민이야? 귀엽고 깜찍한 요즘 영양제 6 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
