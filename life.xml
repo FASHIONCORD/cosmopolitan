@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-11T02:26:28.346Z</updated>
+    <updated>2024-01-11T03:11:25.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울 여행에 제격! 뜨끈한 노천탕 품은 숙소 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83578</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83578"/>
+        <updated>2024-01-11T03:11:17.832Z</updated>
+        <content type="html"><![CDATA[겨울 숙소 구해줘 홈즈~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청룡 해 맞이 용 보러 갈래?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83576</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83411"/>
         <updated>2024-01-08T09:10:40.906Z</updated>
         <content type="html"><![CDATA[나이 먹는 건 싫지만 떡국은 먹고 싶다고?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이어트 중 집들이에 제격! 관리왕 진서연의 홈파티 레시피]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83405</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83405"/>
-        <updated>2024-01-08T06:13:17.045Z</updated>
-        <content type="html"><![CDATA[보기 좋고 맛도 좋은데 살까지 빠진다!]]></content>
     </entry>
 </feed>
