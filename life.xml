@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-12T00:42:19.963Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[젠지의 식사는 어딘가 다르다? 남다른 2024년의 식탁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83491</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83491"/>
-        <updated>2024-01-11T15:10:13.349Z</updated>
-        <content type="html"><![CDATA[가감 없이 ‘나’를 드러내고 브랜딩하는 시대. 이제 그 영역은 패션과 뷰티, 라이프를 넘어 매...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예술 작품의 탄생? MZ들의 꾸미기 트렌드]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83579</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83579"/>
-        <updated>2024-01-11T11:08:36.035Z</updated>
-        <content type="html"><![CDATA[별다줄 아니고 별다꾸!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 여행에 제격! 뜨끈한 노천탕 품은 숙소 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83578</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83578"/>
-        <updated>2024-01-11T03:11:17.832Z</updated>
-        <content type="html"><![CDATA[겨울 숙소 구해줘 홈즈~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청룡 해 맞이 용 보러 갈래?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83576</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83576"/>
-        <updated>2024-01-11T01:54:36.142Z</updated>
-        <content type="html"><![CDATA[이번 주말은 용 여행이다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가박스 굿즈, 나 너 좋아하냐]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83551</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83551"/>
-        <updated>2024-01-10T15:10:22.390Z</updated>
-        <content type="html"><![CDATA[예쁘면 다 내꺼.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무료인데 정확하다고? 2024 신년 운세 사이트 5]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83544</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83544"/>
-        <updated>2024-01-09T15:10:58.107Z</updated>
-        <content type="html"><![CDATA[올해는 잘 풀리게 해주세요…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월 핵꿀잼 예약한 초 기대작 시리즈들!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83540</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83540"/>
-        <updated>2024-01-09T09:10:13.545Z</updated>
-        <content type="html"><![CDATA[OTT와 TV 드라마 경쟁이 뜨거워지는 만큼 우리 눈은 즐거워질 예정!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 옷장 정리는? 옷장테크로 시작하시죠!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83538</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83538"/>
-        <updated>2024-01-09T09:10:13.546Z</updated>
-        <content type="html"><![CDATA[곧 우르르 쏟아질 거 같은 내 옷장, 똑똑하게 정리 하는 방법, 옷장테크!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 12 Jan 2024 01:54:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠지의 식사는 어딘가 다르다? 남다른 2024년의 식탁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83491</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83491</guid>
+            <pubDate>Thu, 11 Jan 2024 15:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[가감 없이 ‘나’를 드러내고 브랜딩하는 시대. 이제 그 영역은 패션과 뷰티, 라이프를 넘어 매...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/10/b7c98e5e-2e4f-41c6-9b78-94ea2a6139c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술 작품의 탄생? MZ들의 꾸미기 트렌드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83579</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83579</guid>
+            <pubDate>Thu, 11 Jan 2024 11:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[별다줄 아니고 별다꾸!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/cce308b6-359b-45a3-bc97-eeea2dc420b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 여행에 제격! 뜨끈한 노천탕 품은 숙소 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83578</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83578</guid>
+            <pubDate>Thu, 11 Jan 2024 03:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[겨울 숙소 구해줘 홈즈~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/802c992e-0d06-42b5-924c-7a62557828ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청룡 해 맞이 용 보러 갈래?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83576</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83576</guid>
+            <pubDate>Thu, 11 Jan 2024 01:54:36 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말은 용 여행이다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/2bb4bf6e-2370-4fea-bfae-19081a095aa5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 굿즈, 나 너 좋아하냐]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83551</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83551</guid>
+            <pubDate>Wed, 10 Jan 2024 15:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[예쁘면 다 내꺼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/d21ed7ea-2765-4ee0-bdd1-6461ae73217b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무료인데 정확하다고? 2024 신년 운세 사이트 5]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83544</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83544</guid>
+            <pubDate>Tue, 09 Jan 2024 15:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[올해는 잘 풀리게 해주세요…]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/3cbd4097-43c4-4921-887a-1b587327e23a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1월 핵꿀잼 예약한 초 기대작 시리즈들!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83540</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83540</guid>
+            <pubDate>Tue, 09 Jan 2024 09:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[OTT와 TV 드라마 경쟁이 뜨거워지는 만큼 우리 눈은 즐거워질 예정!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/38896916-6302-430b-9ebe-726a5fd0e0db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해 옷장 정리는? 옷장테크로 시작하시죠!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83538</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83538</guid>
+            <pubDate>Tue, 09 Jan 2024 09:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[곧 우르르 쏟아질 거 같은 내 옷장, 똑똑하게 정리 하는 방법, 옷장테크!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/fb533bb3-6c4e-4f9a-87fc-0e1a60602a84.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
