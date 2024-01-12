@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-01-12T07:10:05.658Z</updated>
+    <updated>2024-01-12T08:12:31.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케빈 오♥️공블리가 2일 동안 눈물 흘린 이유는?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83574</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83574"/>
+        <updated>2024-01-12T08:12:10.736Z</updated>
+        <content type="html"><![CDATA[이 언니들이 다 곰신?!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브에 ‘미친 강아지’ 쳐 본 사람! 이탈리안 그레이하운드 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83566</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83495"/>
         <updated>2024-01-08T09:10:16.650Z</updated>
         <content type="html"><![CDATA[쌍둥바오 보러 나들이 갈 사람?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청룡의 해’, 용띠 스타들의 근황은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83453</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83453"/>
-        <updated>2024-01-08T08:13:17.816Z</updated>
-        <content type="html"><![CDATA[용의 기운으로 힘차게 날아오를 준비 완료!]]></content>
     </entry>
 </feed>
