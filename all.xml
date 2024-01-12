@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 14:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 15:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,13 @@
             <content:encoded><![CDATA[한 해 동안 지친 나를 위한 몸보신에도 좋은 고급 식당들.▼ 클릭 ▼비채나 잠실 롯데월드 타워 81층, 웅장한 시티뷰를 자랑하는 미슐랭 식당 비채나. 단아함 끝판 왕 한식과 보기만 해도 정성이 느껴지는 진중한 음식···]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SUPER! 있는 그대로의 신현지와 루이비통의 만남 (코스모폴리탄 코리아 ─ 패션)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83560</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83560</guid>
+            <pubDate>Fri, 12 Jan 2024 15:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[있는 그대로의 신현지.그리고 루이 비통.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[복슬복슬한 매력! 겨울 털모자 스타일링 법은? (코스모폴리탄 코리아 ─ 패션)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83553</link>
             <guid>https://www.cosmopolitan.co.kr/article/83553</guid>
@@ -205,13 +212,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83184</guid>
             <pubDate>Sun, 07 Jan 2024 15:08:55 GMT</pubDate>
             <content:encoded><![CDATA[니트의 포근함에 푹 빠진 윈터 데이즈.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[COSMO LIKE! 지금 주목해야 할 패션 이슈는? (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83157</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83157</guid>
-            <pubDate>Sat, 06 Jan 2024 15:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[지금 주목해야 할 패션·뷰티·라이프스타일 뉴스.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[휘핑크림으로 가능? 이색 다이어트 선언한 스타들 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
