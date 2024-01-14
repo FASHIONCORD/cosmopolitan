@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-01-14T14:09:17.631Z</updated>
+    <updated>2024-01-14T15:09:49.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HER EYES! 고요한 카리스마가 빛나는 서현과 구찌의 조우]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83527</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83527"/>
+        <updated>2024-01-14T15:08:17.119Z</updated>
+        <content type="html"><![CDATA[구찌의 2024 크루즈 컬렉션과 함께한 서현의 고요한 카리스마.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행사요정 박경림의 역대급 MC룩 모음ZIP]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83591</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83391"/>
         <updated>2024-01-14T08:11:34.166Z</updated>
         <content type="html"><![CDATA[코스모가 제안하는 이달의 백&amp;슈즈 키워드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOREVER PUNK! 펑크에 대한 모든 것]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83385</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83385"/>
-        <updated>2024-01-14T08:11:34.169Z</updated>
-        <content type="html"><![CDATA[펑크 룩은 과격한 아웃사이더, 중2병 같은 다크한 사람들의 패션이라고? 사실 펑크의 정신은 오...]]></content>
     </entry>
 </feed>
