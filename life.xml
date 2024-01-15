@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-15T01:57:35.191Z</updated>
+    <updated>2024-01-15T02:29:15.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자신감 풀충! 쿵야 마인드로 나답게 살아가는 법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83531</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83531"/>
+        <updated>2024-01-15T02:29:07.277Z</updated>
+        <content type="html"><![CDATA[2024년에도 자신감 ‘풀충’하고, 스스로를 사랑하며, 거침없이 살아가자. 쿵야 마인드로!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덱스, 드라마 남주되다!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83630</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83491"/>
         <updated>2024-01-11T15:10:13.349Z</updated>
         <content type="html"><![CDATA[가감 없이 ‘나’를 드러내고 브랜딩하는 시대. 이제 그 영역은 패션과 뷰티, 라이프를 넘어 매...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예술 작품의 탄생? MZ들의 꾸미기 트렌드]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83579</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83579"/>
-        <updated>2024-01-11T11:08:36.035Z</updated>
-        <content type="html"><![CDATA[별다줄 아니고 별다꾸!]]></content>
     </entry>
 </feed>
