@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-01-15T09:11:04.755Z</updated>
+    <updated>2024-01-15T10:11:21.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드디어 왔다! 박보검 ❤️ 김소현 '굿보이' 캐스팅 완료~]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83612</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83612"/>
+        <updated>2024-01-15T10:10:55.658Z</updated>
+        <content type="html"><![CDATA[이 조합 기다렸잖아.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<솔로지옥> 세계관, 이게 이렇게 엮여있다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83593</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83550"/>
         <updated>2024-01-10T01:53:59.538Z</updated>
         <content type="html"><![CDATA[이이경은 A4용지로 병뚜껑을 딴다는데..?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든디스크 영광의 수상자는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83547</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83547"/>
-        <updated>2024-01-09T08:13:01.784Z</updated>
-        <content type="html"><![CDATA[세븐틴, 뉴진스, 스키즈 축하합니다!]]></content>
     </entry>
 </feed>
