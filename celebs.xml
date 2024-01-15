@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-01-15T00:43:57.354Z</updated>
+    <updated>2024-01-15T01:57:35.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송혜교가 작품마다 인증?! 의외로 절친인 셀렙들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83575</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83575"/>
+        <updated>2024-01-15T01:56:56.060Z</updated>
+        <content type="html"><![CDATA[OO 한다니까 한걸음에 달려와준 내 친구, 고마워!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케빈 오♥️공블리가 2일 동안 눈물 흘린 이유는?!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83574</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83496"/>
         <updated>2024-01-09T03:10:41.528Z</updated>
         <content type="html"><![CDATA[미남들 얼굴의 축복이 쏟아져.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이바오 후이바오 에버랜드 진출!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83495</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83495"/>
-        <updated>2024-01-08T09:10:16.650Z</updated>
-        <content type="html"><![CDATA[쌍둥바오 보러 나들이 갈 사람?]]></content>
     </entry>
 </feed>
