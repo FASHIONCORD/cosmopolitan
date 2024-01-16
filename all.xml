@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 02:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 03:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,13 @@
             <content:encoded><![CDATA[자꾸 눈이 가는 여돌들의 손끝! 너로 정했다 새해 네일!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[드디어 온다! 아이유 'Love wins' 티저 공개 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83657</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83657</guid>
+            <pubDate>Tue, 16 Jan 2024 02:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[언니, 기다렸어요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[덱스, 드라마 남주되다! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83630</link>
             <guid>https://www.cosmopolitan.co.kr/article/83630</guid>
@@ -319,13 +326,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83566</guid>
             <pubDate>Thu, 11 Jan 2024 01:54:07 GMT</pubDate>
             <content:encoded><![CDATA[동네 사람들! 이 귀여운 강아지 좀 보세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[따로 또 같이? 엑소 그룹 활동은 앞으로도 쭉~ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83552</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83552</guid>
-            <pubDate>Wed, 10 Jan 2024 02:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 완전체 무대 벌써 기대 중!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
