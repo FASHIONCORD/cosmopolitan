@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-01-16T00:41:46.748Z</updated>
+    <updated>2024-01-16T01:54:45.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[점점 더 어려져! 배우 소이현의 홈케어 루틴은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83596</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83596"/>
+        <updated>2024-01-16T01:53:30.123Z</updated>
+        <content type="html"><![CDATA[내 피부는 소중하니까~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEGIN VEGAN! 몸도 마음도 가꾸는 비건 뷰티]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83588</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83588"/>
+        <updated>2024-01-16T01:53:30.124Z</updated>
+        <content type="html"><![CDATA[‘나를 가꾸는 행위’ 전에 우선돼야 하는 일. 생명에 대한 존중과 올바른 태도, 조화로운 세상...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휘핑크림으로 가능? 이색 다이어트 선언한 스타들]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83580</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83539"/>
         <updated>2024-01-09T08:12:54.924Z</updated>
         <content type="html"><![CDATA[자꾸 눈이 가는 여돌들의 손끝! 너로 정했다 새해 네일!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이키즈 필릭스 <가요대제전> 메이크업으로 화제?!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83535</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83535"/>
-        <updated>2024-01-08T15:09:31.067Z</updated>
-        <content type="html"><![CDATA[호불호 갈린다는 &lt;가요대제전&gt; 필릭스 메이크업.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꾸.안.꾸 SSAP 가능! 우아하고 시크한 슬릭백 헤어]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83472</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83472"/>
-        <updated>2024-01-08T06:12:45.837Z</updated>
-        <content type="html"><![CDATA[단순함의 미학, 결코 촌스럽지 않은 마성의 슬릭백 헤어.]]></content>
     </entry>
 </feed>
