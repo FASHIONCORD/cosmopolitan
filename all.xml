@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 05:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 06:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,13 @@
             <content:encoded><![CDATA[자꾸 눈이 가는 여돌들의 손끝! 너로 정했다 새해 네일!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[걸그룹 축복이 끊이질 않네! 올해 데뷔를 앞둔 신인돌은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83660</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83660</guid>
+            <pubDate>Tue, 16 Jan 2024 06:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[브레이브걸스 이후 13년 만에 선보이는 걸그룹이라고?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[드디어 온다! 아이유 'Love wins' 티저 공개 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83657</link>
             <guid>https://www.cosmopolitan.co.kr/article/83657</guid>
@@ -319,13 +326,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83574</guid>
             <pubDate>Fri, 12 Jan 2024 08:12:10 GMT</pubDate>
             <content:encoded><![CDATA[이 언니들이 다 곰신?!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유튜브에 ‘미친 강아지’ 쳐 본 사람! 이탈리안 그레이하운드 3 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83566</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83566</guid>
-            <pubDate>Thu, 11 Jan 2024 01:54:07 GMT</pubDate>
-            <content:encoded><![CDATA[동네 사람들! 이 귀여운 강아지 좀 보세요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -384,6 +384,13 @@
             <content:encoded><![CDATA[애들은 가! 애들은 가!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[설 연휴에 딱! 좋은 여행사 추천 이색 여행지 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83658</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83658</guid>
+            <pubDate>Tue, 16 Jan 2024 06:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[소중한 구정 연휴를 특별히 보내는 방법은?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[드디어 온다! 아이유 'Love wins' 티저 공개 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83657</link>
             <guid>https://www.cosmopolitan.co.kr/article/83657</guid>
@@ -433,11 +440,11 @@
             <content:encoded><![CDATA[굿즈 완판 행렬 이어가는 가수들의 팝업스토어.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[드디어 왔다! 박보검 ❤️ 김소현 '굿보이' 캐스팅 완료~ (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83612</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83612</guid>
-            <pubDate>Sat, 13 Jan 2024 16:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[이 조합 기다렸잖아.]]></content:encoded>
+            <title><![CDATA[인간극장급 인생예능 최강야구 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/78351</link>
+            <guid>https://www.cosmopolitan.co.kr/article/78351</guid>
+            <pubDate>Tue, 16 Jan 2024 06:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[야구를 떠난 팬들은 물론 야.알.못.들까지 야구앓이로 만들어버린 인생 예능 등장, 최강야구.  ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 KBO 개막 기념! 야구 영화 속 인물 10인 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -487,13 +494,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/63642</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/63099</link>
-            <guid>https://www.cosmopolitan.co.kr/article/63099</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content:encoded>
         </item>
     </channel>
 </rss>
