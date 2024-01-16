@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 01:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 02:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,13 @@
             <content:encoded><![CDATA[자꾸 눈이 가는 여돌들의 손끝! 너로 정했다 새해 네일!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[덱스, 드라마 남주되다! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83630</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83630</guid>
+            <pubDate>Mon, 15 Jan 2024 01:57:26 GMT</pubDate>
+            <content:encoded><![CDATA[이럴수가 벌떨..]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[드디어 왔다! 박보검 ❤️ 김소현 '굿보이' 캐스팅 완료~ (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83612</link>
             <guid>https://www.cosmopolitan.co.kr/article/83612</guid>
@@ -319,13 +326,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83552</guid>
             <pubDate>Wed, 10 Jan 2024 02:24:31 GMT</pubDate>
             <content:encoded><![CDATA[엑소 완전체 무대 벌써 기대 중!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이이경 폼 미쳤다. ‘결혼해YOU’ 주연까지 꿰찬 매력남 이이경 탐구 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83550</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83550</guid>
-            <pubDate>Wed, 10 Jan 2024 01:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[이이경은 A4용지로 병뚜껑을 딴다는데..?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -384,6 +384,13 @@
             <content:encoded><![CDATA[애들은 가! 애들은 가!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[드디어 온다! 아이유 'Love wins' 티저 공개 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83657</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83657</guid>
+            <pubDate>Tue, 16 Jan 2024 02:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[언니, 기다렸어요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[새해, 새 마음, 새 소식! 1월의 라이프스타일 뉴스 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83654</link>
             <guid>https://www.cosmopolitan.co.kr/article/83654</guid>
@@ -433,19 +440,11 @@
             <content:encoded><![CDATA[이 조합 기다렸잖아.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파란색이 대세?! 2024년의 신차 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83606</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83606</guid>
-            <pubDate>Fri, 12 Jan 2024 08:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[푸른 용의 기세로 문을 연 2024년, 올 한 해를 압도할 신차 4대를 도심 곳곳에서 포착했다.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2023 KBO 개막 기념! 야구 영화 속 인물 10인 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/77379</link>
             <guid>https://www.cosmopolitan.co.kr/article/77379</guid>
             <pubDate>Thu, 21 Dec 2023 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[이 라인업이 우리 팀 주전 라인업이라면 얼마나 좋을까? 2023 KBO 개막 기념으로 살펴보는 야...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/64dff61a-19e1-4db3-96cd-d25bdc2d4269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -453,7 +452,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/66996</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[더 이상 못 참겠다 VS 눈치게임 중]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/ef39e916-2881-4268-9ffa-16fcc65094a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워라밸 다음은 워케이션? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -461,7 +459,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/66295</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/4174c705-a19d-4e65-8069-d57fcf7ec6f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -469,7 +466,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/65331</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/7f65d5d2-800a-4b6f-85e1-e5d1f2638452.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -477,7 +473,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/65142</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -485,7 +480,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/fdef0949-753f-4b68-8736-97965b951957.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애 리얼리티에서 당신이 응원했던 커플은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -493,7 +487,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/63642</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/aa057e16-327b-41d8-b659-a5b643d33cce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방역 패스와 적용 대상에 대한 나의 생각은? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -501,7 +494,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/63099</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[18일, 방역 패스를 확대 시행했던 마트, 백화점 등의 일부 시설을 다시 해제하였습니다. 또한, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/765a3322-7839-4aec-bbe0-4eab080760a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
