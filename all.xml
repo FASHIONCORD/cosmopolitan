@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 18:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 19:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,7 +496,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/63642</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[연애는 내가 안 해요, 티비가 해요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/aa057e16-327b-41d8-b659-a5b643d33cce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
