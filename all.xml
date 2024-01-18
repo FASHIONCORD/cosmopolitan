@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 07:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 08:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,13 @@
             <content:encoded><![CDATA[있는 그대로의 신현지.그리고 루이 비통.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[새해를 희망차게! 1월의 뷰티 뉴스는? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83528</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83528</guid>
+            <pubDate>Thu, 18 Jan 2024 08:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[새해를 맞이하는 희망찬 1월의 뷰티 뉴스.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[체중감량의 달인 배우 이정하, 박서준 다이어트 식단의 비밀은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83617</link>
             <guid>https://www.cosmopolitan.co.kr/article/83617</guid>
@@ -265,13 +272,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83545</guid>
             <pubDate>Wed, 10 Jan 2024 15:09:40 GMT</pubDate>
             <content:encoded><![CDATA[피부도 좋아지고 건강도 회복하고!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10일 5kg 감량의 비밀! 진서연표 간식 레서피 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83543</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83543</guid>
-            <pubDate>Wed, 10 Jan 2024 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터는 휘핑 크림을 먹어야 한다고?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[밀란 패션위크에 참여한 셀렙은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
