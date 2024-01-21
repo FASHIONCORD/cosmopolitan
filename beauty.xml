@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 03:10:33 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[새해를 희망차게! 1월의 뷰티 뉴스는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83528</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83528</guid>
-            <pubDate>Thu, 18 Jan 2024 08:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[새해를 맞이하는 희망찬 1월의 뷰티 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/10404ecb-330a-42f1-8d06-70f5154fddca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체중감량의 달인 배우 이정하, 박서준 다이어트 식단의 비밀은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83617</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83617</guid>
-            <pubDate>Wed, 17 Jan 2024 07:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[30kg 증량했다가 감량? 스타들의 다이어트 비법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/11/536d59af-d247-42ce-92df-47f44b02374d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE NEW WAVE! 블랙핑크 지수와 다이슨의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83607</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83607</guid>
-            <pubDate>Wed, 17 Jan 2024 05:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[독보적 아우라를 품은 지수와 다이슨의 절묘한 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/11/48837e93-3917-4433-a4f1-353c00c99d37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점점 더 어려져! 배우 소이현의 홈케어 루틴은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83596</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83596</guid>
-            <pubDate>Tue, 16 Jan 2024 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[내 피부는 소중하니까~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/10/a95354e4-1257-4cf7-a1a2-f3027777ae8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEGIN VEGAN! 몸도 마음도 가꾸는 비건 뷰티]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83588</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83588</guid>
-            <pubDate>Tue, 16 Jan 2024 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[‘나를 가꾸는 행위’ 전에 우선돼야 하는 일. 생명에 대한 존중과 올바른 태도, 조화로운 세상...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/10/fbc0d4b9-ac8d-42e1-a57d-0e02d62836be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휘핑크림으로 가능? 이색 다이어트 선언한 스타들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83580</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83580</guid>
-            <pubDate>Thu, 11 Jan 2024 16:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[어디 한번 따라 해 볼까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/cb024ca0-6375-40a0-ac7e-17cdf837da64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스낵이야 비타민이야? 귀엽고 깜찍한 요즘 영양제 6]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83477</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83477</guid>
-            <pubDate>Thu, 11 Jan 2024 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운 건 세상을 구한다는데 요즘 건기식이 세상을 구할 태세다. 웬만한 스낵보다 귀엽고 깜찍...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/75700151-2bb7-472b-ac12-bda986df7a74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동안의 비결은 이것? 여배우의 관리 치트키 대공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83545</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83545</guid>
-            <pubDate>Wed, 10 Jan 2024 15:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[피부도 좋아지고 건강도 회복하고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/5f7285d5-9d35-40a8-86ee-03a5bdef9b84.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2024-01-21T04:12:13.172Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해를 희망차게! 1월의 뷰티 뉴스는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83528</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83528"/>
+        <updated>2024-01-18T08:12:07.132Z</updated>
+        <content type="html"><![CDATA[새해를 맞이하는 희망찬 1월의 뷰티 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체중감량의 달인 배우 이정하, 박서준 다이어트 식단의 비밀은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83617</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83617"/>
+        <updated>2024-01-17T07:09:37.756Z</updated>
+        <content type="html"><![CDATA[30kg 증량했다가 감량? 스타들의 다이어트 비법!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE NEW WAVE! 블랙핑크 지수와 다이슨의 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83607</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83607"/>
+        <updated>2024-01-17T05:09:27.695Z</updated>
+        <content type="html"><![CDATA[독보적 아우라를 품은 지수와 다이슨의 절묘한 만남.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[점점 더 어려져! 배우 소이현의 홈케어 루틴은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83596</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83596"/>
+        <updated>2024-01-16T01:53:30.123Z</updated>
+        <content type="html"><![CDATA[내 피부는 소중하니까~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEGIN VEGAN! 몸도 마음도 가꾸는 비건 뷰티]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83588</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83588"/>
+        <updated>2024-01-16T01:53:30.124Z</updated>
+        <content type="html"><![CDATA[‘나를 가꾸는 행위’ 전에 우선돼야 하는 일. 생명에 대한 존중과 올바른 태도, 조화로운 세상...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휘핑크림으로 가능? 이색 다이어트 선언한 스타들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83580</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83580"/>
+        <updated>2024-01-11T16:12:14.411Z</updated>
+        <content type="html"><![CDATA[어디 한번 따라 해 볼까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스낵이야 비타민이야? 귀엽고 깜찍한 요즘 영양제 6]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83477</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83477"/>
+        <updated>2024-01-11T03:10:26.413Z</updated>
+        <content type="html"><![CDATA[귀여운 건 세상을 구한다는데 요즘 건기식이 세상을 구할 태세다. 웬만한 스낵보다 귀엽고 깜찍...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동안의 비결은 이것? 여배우의 관리 치트키 대공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83545</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83545"/>
+        <updated>2024-01-10T15:09:40.658Z</updated>
+        <content type="html"><![CDATA[피부도 좋아지고 건강도 회복하고!]]></content>
+    </entry>
+</feed>
