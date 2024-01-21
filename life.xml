@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-21T19:08:13.759Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[‘환승연애3’ 데이트 코스 따라잡기 #맛집편]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83666</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83666"/>
-        <updated>2024-01-17T05:10:07.093Z</updated>
-        <content type="html"><![CDATA[기억나..? 바다에서 떠들다 같이 조개구이 먹던 우리 둘..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀엽고 뽀짝해! 젠지들 취향 저격할 키링 브랜드는 여기!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83661</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83661"/>
-        <updated>2024-01-17T03:11:07.884Z</updated>
-        <content type="html"><![CDATA[손흥민도 반한 키링이라고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벌써 웨이팅 스멜? 오픈런 각 잡는 성수 신상 맛집 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83659</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83659"/>
-        <updated>2024-01-16T09:10:54.666Z</updated>
-        <content type="html"><![CDATA[말해 뭐해 할 만한 눈과 미각 사로잡는 성수 새 맛집.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 연휴에 딱! 좋은 여행사 추천 이색 여행지]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83658</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83658"/>
-        <updated>2024-01-16T06:13:16.270Z</updated>
-        <content type="html"><![CDATA[소중한 구정 연휴를 특별히 보내는 방법은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 온다! 아이유 'Love wins' 티저 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83657</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83657"/>
-        <updated>2024-01-16T02:25:34.939Z</updated>
-        <content type="html"><![CDATA[언니, 기다렸어요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해, 새 마음, 새 소식! 1월의 라이프스타일 뉴스]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83654</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83654"/>
-        <updated>2024-01-15T08:13:44.849Z</updated>
-        <content type="html"><![CDATA[새해, 새 마음, 새 소식, 새 즐거움! 1월의 라이프스타일 뉴스!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신감 풀충! 쿵야 마인드로 나답게 살아가는 법은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83531</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83531"/>
-        <updated>2024-01-15T02:29:07.277Z</updated>
-        <content type="html"><![CDATA[2024년에도 자신감 ‘풀충’하고, 스스로를 사랑하며, 거침없이 살아가자. 쿵야 마인드로!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스, 드라마 남주되다!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83630</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83630"/>
-        <updated>2024-01-15T01:57:26.319Z</updated>
-        <content type="html"><![CDATA[이럴수가 벌떨..]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 21 Jan 2024 20:10:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘환승연애3’ 데이트 코스 따라잡기 #맛집편]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83666</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83666</guid>
+            <pubDate>Wed, 17 Jan 2024 05:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[기억나..? 바다에서 떠들다 같이 조개구이 먹던 우리 둘..]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/571e720b-ae0c-48e8-9ef0-6bb65bc2238a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀엽고 뽀짝해! 젠지들 취향 저격할 키링 브랜드는 여기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83661</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83661</guid>
+            <pubDate>Wed, 17 Jan 2024 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[손흥민도 반한 키링이라고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/6c771cd6-16e5-4395-9e51-66c0fb8b5111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌써 웨이팅 스멜? 오픈런 각 잡는 성수 신상 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83659</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83659</guid>
+            <pubDate>Tue, 16 Jan 2024 09:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[말해 뭐해 할 만한 눈과 미각 사로잡는 성수 새 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/afcb2d4c-d6da-4ba0-b11b-55728566f8d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴에 딱! 좋은 여행사 추천 이색 여행지]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83658</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83658</guid>
+            <pubDate>Tue, 16 Jan 2024 06:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[소중한 구정 연휴를 특별히 보내는 방법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/4153648e-1d38-48b9-bdf3-ebf4c3410670.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 온다! 아이유 'Love wins' 티저 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83657</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83657</guid>
+            <pubDate>Tue, 16 Jan 2024 02:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[언니, 기다렸어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/660e03a6-b008-4a42-985f-5ca4c69df06b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해, 새 마음, 새 소식! 1월의 라이프스타일 뉴스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83654</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83654</guid>
+            <pubDate>Mon, 15 Jan 2024 08:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[새해, 새 마음, 새 소식, 새 즐거움! 1월의 라이프스타일 뉴스!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/15/9e8d61d9-f9b0-4afc-ad01-24b0cda94bd8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자신감 풀충! 쿵야 마인드로 나답게 살아가는 법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83531</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83531</guid>
+            <pubDate>Mon, 15 Jan 2024 02:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024년에도 자신감 ‘풀충’하고, 스스로를 사랑하며, 거침없이 살아가자. 쿵야 마인드로!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/14/7da82252-cebe-4abd-9ac9-d6914ce640c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덱스, 드라마 남주되다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83630</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83630</guid>
+            <pubDate>Mon, 15 Jan 2024 01:57:26 GMT</pubDate>
+            <content:encoded><![CDATA[이럴수가 벌떨..]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/c60a6866-c63a-4a59-b646-1ce8df111797.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
