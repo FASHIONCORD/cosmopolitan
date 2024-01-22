@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 10:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 11:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -387,6 +387,13 @@
             <content:encoded><![CDATA[애들은 가! 애들은 가!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[블핑도 빠졌다♥️ 지금 먹어야 할 카니미소구이 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83706</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83706</guid>
+            <pubDate>Mon, 22 Jan 2024 11:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[밥도둑의 변신은 무죄!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[라면 먹고 갈래? 한혜진도 흡입한 굴라면 맛집의 정체 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83705</link>
             <guid>https://www.cosmopolitan.co.kr/article/83705</guid>
@@ -434,13 +441,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83659</guid>
             <pubDate>Tue, 16 Jan 2024 09:10:54 GMT</pubDate>
             <content:encoded><![CDATA[말해 뭐해 할 만한 눈과 미각 사로잡는 성수 새 맛집.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴에 딱! 좋은 여행사 추천 이색 여행지 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83658</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83658</guid>
-            <pubDate>Tue, 16 Jan 2024 06:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[소중한 구정 연휴를 특별히 보내는 방법은?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인간극장급 인생예능 최강야구 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
