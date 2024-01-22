@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-01-22T08:14:12.677Z</updated>
+    <updated>2024-01-22T09:11:24.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<나혼산> 키의 외국인 친구 카니는 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83806</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83806"/>
+        <updated>2024-01-22T09:10:27.619Z</updated>
+        <content type="html"><![CDATA[마이클 잭슨의 안무 감독이었다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조세호, 드디어 결혼식에 참석한다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83804</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83804"/>
+        <updated>2024-01-22T09:10:27.620Z</updated>
+        <content type="html"><![CDATA[조세호의 럽스타그램이 결혼스타그램으로 되는 그날까지~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[던 다음은 너! 직접 밝힌 현아♥용준형 열애]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83757</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83757"/>
+        <updated>2024-01-22T09:10:27.620Z</updated>
+        <content type="html"><![CDATA[소속사는 말을 아낄 뿐..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대체불가 뮤지컬 여제 옥주현의 21세기 댄버스]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83733</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83733"/>
+        <updated>2024-01-22T09:10:27.622Z</updated>
+        <content type="html"><![CDATA[대체 불가능한 배우, 옥주현이 되새기는 뮤지컬 &lt;레베카&gt; 10주년의 의미.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 조합 ‘쮸아!’ NMIXX 설윤 & 지우 쮸야즈 유닛 화보]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83709</id>
@@ -32,33 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83686"/>
         <updated>2024-01-19T01:54:17.343Z</updated>
         <content type="html"><![CDATA[이러니 반할 수밖에!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼굴 천재 등장! 이효리, 김지훈도 찾아본다는 라이즈 원빈 용안]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83681</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83681"/>
-        <updated>2024-01-19T00:41:18.154Z</updated>
-        <content type="html"><![CDATA[데뷔 20년차 배우도 헤메 따라하게 만드는 미친 외모.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀란 패션위크에 참여한 셀렙은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83671</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83671"/>
-        <updated>2024-01-18T00:40:53.018Z</updated>
-        <content type="html"><![CDATA[카리나, 아이유, 더보이즈 렛츠고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환승연애3’ 데이트 코스 따라잡기 #맛집편]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83666</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83666"/>
-        <updated>2024-01-16T09:10:28.825Z</updated>
-        <content type="html"><![CDATA[기억나..? 바다에서 떠들다 같이 조개구이 먹던 우리 둘..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸그룹 축복이 끊이질 않네! 올해 데뷔를 앞둔 신인돌은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83660</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83660"/>
-        <updated>2024-01-16T06:12:44.140Z</updated>
-        <content type="html"><![CDATA[브레이브걸스 이후 13년 만에 선보이는 걸그룹이라고?]]></content>
     </entry>
 </feed>
