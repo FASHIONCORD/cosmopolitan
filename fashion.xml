@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 03:12:45 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[자신감 풀충! 쿵야 마인드로 나답게 살아가는 법은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83531</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83531</guid>
-            <pubDate>Wed, 17 Jan 2024 06:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024년에도 자신감 ‘풀충’하고, 스스로를 사랑하며, 거침없이 살아가자. 쿵야 마인드로!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/14/7da82252-cebe-4abd-9ac9-d6914ce640c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STRONG WILLED! 고요함 속 강인함을 드러내는 김도현과 펜디]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83530</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83530</guid>
-            <pubDate>Wed, 17 Jan 2024 03:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[고요함 속 강인함. 김도현 그 자체, 그리고 펜디.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/14/e471161a-1f10-44ff-bbb1-820e1f850558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HEY GIRL! 미우미우와 모델 윤보미의 사랑스러운 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83642</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83642</guid>
-            <pubDate>Mon, 15 Jan 2024 15:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[미우미우와 모델 윤보미의 아주 그럴 듯한 조우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/13/9695833c-859a-4ec2-8cf6-9cdf0fc36299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IN THE MOOD. 까르띠에 백을 멘 배윤영의 일상]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83626</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83626</guid>
-            <pubDate>Mon, 15 Jan 2024 10:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[까르띠에 백을 메고 마주한 일상의 찰나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/011da33c-2e98-4797-a69e-abee1b15f6b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HER EYES! 고요한 카리스마가 빛나는 서현과 구찌의 조우]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83527</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83527</guid>
-            <pubDate>Sun, 14 Jan 2024 15:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[구찌의 2024 크루즈 컬렉션과 함께한 서현의 고요한 카리스마.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/11/884129f5-847e-4809-99ac-3683cc359979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행사요정 박경림의 역대급 MC룩 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83591</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83591</guid>
-            <pubDate>Sun, 14 Jan 2024 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 25주년. MC 박경림은 무엇이든 될 수 있어!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/10/114cca2a-995d-4380-8b3d-6581ed330e22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BACKSTAGE AT A SHOOT! 모델 조안과 로에베의 봄]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83589</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83589</guid>
-            <pubDate>Sun, 14 Jan 2024 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[패션의 경계를 허무는 로에베의 변칙과 유머.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/10/6be65734-67a6-4997-afbe-880db28d43e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER! 있는 그대로의 신현지와 루이비통의 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83560</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83560</guid>
-            <pubDate>Sun, 14 Jan 2024 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[있는 그대로의 신현지.그리고 루이 비통.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/09/d82be299-d8f0-4dec-a001-48a2490cb23f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2024-01-22T04:13:11.793Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자신감 풀충! 쿵야 마인드로 나답게 살아가는 법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83531</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83531"/>
+        <updated>2024-01-17T06:12:20.777Z</updated>
+        <content type="html"><![CDATA[2024년에도 자신감 ‘풀충’하고, 스스로를 사랑하며, 거침없이 살아가자. 쿵야 마인드로!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRONG WILLED! 고요함 속 강인함을 드러내는 김도현과 펜디]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83530</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83530"/>
+        <updated>2024-01-17T03:10:18.914Z</updated>
+        <content type="html"><![CDATA[고요함 속 강인함. 김도현 그 자체, 그리고 펜디.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HEY GIRL! 미우미우와 모델 윤보미의 사랑스러운 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83642</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83642"/>
+        <updated>2024-01-15T15:09:31.769Z</updated>
+        <content type="html"><![CDATA[미우미우와 모델 윤보미의 아주 그럴 듯한 조우.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IN THE MOOD. 까르띠에 백을 멘 배윤영의 일상]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83626</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83626"/>
+        <updated>2024-01-15T10:10:39.954Z</updated>
+        <content type="html"><![CDATA[까르띠에 백을 메고 마주한 일상의 찰나.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HER EYES! 고요한 카리스마가 빛나는 서현과 구찌의 조우]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83527</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83527"/>
+        <updated>2024-01-14T15:08:17.119Z</updated>
+        <content type="html"><![CDATA[구찌의 2024 크루즈 컬렉션과 함께한 서현의 고요한 카리스마.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행사요정 박경림의 역대급 MC룩 모음ZIP]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83591</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83591"/>
+        <updated>2024-01-14T08:11:34.155Z</updated>
+        <content type="html"><![CDATA[데뷔 25주년. MC 박경림은 무엇이든 될 수 있어!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BACKSTAGE AT A SHOOT! 모델 조안과 로에베의 봄]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83589</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83589"/>
+        <updated>2024-01-14T08:11:34.156Z</updated>
+        <content type="html"><![CDATA[패션의 경계를 허무는 로에베의 변칙과 유머.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPER! 있는 그대로의 신현지와 루이비통의 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83560</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83560"/>
+        <updated>2024-01-14T08:11:34.158Z</updated>
+        <content type="html"><![CDATA[있는 그대로의 신현지.그리고 루이 비통.]]></content>
+    </entry>
+</feed>
