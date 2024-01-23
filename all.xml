@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 03:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 04:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -275,6 +275,13 @@
             <content:encoded><![CDATA[어디 한번 따라 해 볼까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[박재범 VS 김민수, 아이유 손민수 배틀 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83808</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83808</guid>
+            <pubDate>Tue, 23 Jan 2024 04:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[왜 이러는 걸까요?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[<나혼산> 키의 외국인 친구 카니는 누구? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83806</link>
             <guid>https://www.cosmopolitan.co.kr/article/83806</guid>
@@ -322,13 +329,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83688</guid>
             <pubDate>Mon, 22 Jan 2024 07:09:29 GMT</pubDate>
             <content:encoded><![CDATA[시청률로 함께 키운 슛돌이의 이상형은?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유정재 못 보내! 덕통사고 유발자 이무생의 멜로 모멘트 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83686</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83686</guid>
-            <pubDate>Fri, 19 Jan 2024 01:54:17 GMT</pubDate>
-            <content:encoded><![CDATA[이러니 반할 수밖에!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/c24a6420-427c-4d4e-b862-529e03656f3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
