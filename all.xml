@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 04:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 05:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,13 @@
             <content:encoded><![CDATA[패션의 경계를 허무는 로에베의 변칙과 유머.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[피부에 억대 투자? 자기 관리 만렙 스타 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83707</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83707</guid>
+            <pubDate>Tue, 23 Jan 2024 05:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[이서진·한예슬이 꼭 지키는 관리 비법은?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2024 대세 헤어스타일 키티컷! 윈터와 안유진도 했다고? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83679</link>
             <guid>https://www.cosmopolitan.co.kr/article/83679</guid>
@@ -266,13 +273,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83588</guid>
             <pubDate>Tue, 16 Jan 2024 01:53:30 GMT</pubDate>
             <content:encoded><![CDATA[‘나를 가꾸는 행위’ 전에 우선돼야 하는 일. 생명에 대한 존중과 올바른 태도, 조화로운 세상...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[휘핑크림으로 가능? 이색 다이어트 선언한 스타들 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83580</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83580</guid>
-            <pubDate>Thu, 11 Jan 2024 16:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[어디 한번 따라 해 볼까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박재범 VS 김민수, 아이유 손민수 배틀 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -329,7 +329,13 @@
             <guid>https://www.cosmopolitan.co.kr/article/83688</guid>
             <pubDate>Mon, 22 Jan 2024 07:09:29 GMT</pubDate>
             <content:encoded><![CDATA[시청률로 함께 키운 슛돌이의 이상형은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/c24a6420-427c-4d4e-b862-529e03656f3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡 (코스모폴리탄 코리아 ─ 러브)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80945</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80945</guid>
+            <pubDate>Tue, 23 Jan 2024 05:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -379,13 +385,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80248</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[구인광고와 100문100답의 만남.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어른이들 어서오고. 반려 토이, 부르부르의 모든 것을 알려드림 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80149</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80149</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[애들은 가! 애들은 가!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블핑도 빠졌다♥️ 지금 먹어야 할 카니미소구이 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
