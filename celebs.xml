@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-01-23T05:11:03.383Z</updated>
+    <updated>2024-01-23T06:13:24.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[등근육 실화야? 유지어터 최강희의 시크릿 팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83812</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83812"/>
+        <updated>2024-01-23T06:12:40.494Z</updated>
+        <content type="html"><![CDATA[이 언니의 다이어트 비결이 궁금하다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박재범 VS 김민수, 아이유 손민수 배틀]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83808</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83697"/>
         <updated>2024-01-22T08:13:28.664Z</updated>
         <content type="html"><![CDATA[뮤직비디오에 광고까지! 미리 끓여둔 떡밥이 끊이질 않네~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시안컵 이강인 멀티 골! 사랑해요 이강인 TMI 10]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83688</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83688"/>
-        <updated>2024-01-22T07:09:29.043Z</updated>
-        <content type="html"><![CDATA[시청률로 함께 키운 슛돌이의 이상형은?]]></content>
     </entry>
 </feed>
