@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 01:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 02:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,6 +276,20 @@
             <content:encoded><![CDATA[독보적 아우라를 품은 지수와 다이슨의 절묘한 만남.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MOTTO로 컴백한 김종현의 대체불가 매력 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83730</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83730</guid>
+            <pubDate>Wed, 24 Jan 2024 02:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[눈부신 기세로 도약한 김종현의 두 번째 시즌.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[농구 선수 맞아? 떠오르는 훈남 운동선수 배구 임성진, 농구 박무빈! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83831</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83831</guid>
+            <pubDate>Wed, 24 Jan 2024 02:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[루이비통, 불가리에서 러브콜한 훈훈한 선수 2명을 소개한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[달다구리 좋아하는 미미, 항상 날씬한 비법은? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83816</link>
             <guid>https://www.cosmopolitan.co.kr/article/83816</guid>
@@ -316,20 +330,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83806</guid>
             <pubDate>Mon, 22 Jan 2024 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[마이클 잭슨의 안무 감독이었다고?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조세호, 드디어 결혼식에 참석한다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83804</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83804</guid>
-            <pubDate>Mon, 22 Jan 2024 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[조세호의 럽스타그램이 결혼스타그램으로 되는 그날까지~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[던 다음은 너! 직접 밝힌 현아♥용준형 열애 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83757</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83757</guid>
-            <pubDate>Mon, 22 Jan 2024 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[소속사는 말을 아낄 뿐..]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -388,6 +388,20 @@
             <content:encoded><![CDATA[구인광고와 100문100답의 만남.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[그렇게 맛있어? 두아 리파·세븐틴도 반한 해외 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83814</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83814</guid>
+            <pubDate>Tue, 23 Jan 2024 08:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[도쿄, 이탈리아, 미국 렛츠고.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[젠지 레이더 꽉! 잡는 고대역 커피 핫플 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83810</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83810</guid>
+            <pubDate>Wed, 24 Jan 2024 02:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[안암동 젠지들 꼭 가봐야 하는 신상 카페들]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[블핑도 빠졌다♥️ 지금 먹어야 할 카니미소구이 맛집 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/83706</link>
             <guid>https://www.cosmopolitan.co.kr/article/83706</guid>
@@ -428,20 +442,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83666</guid>
             <pubDate>Tue, 16 Jan 2024 09:10:28 GMT</pubDate>
             <content:encoded><![CDATA[기억나..? 바다에서 떠들다 같이 조개구이 먹던 우리 둘..]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[귀엽고 뽀짝해! 젠지들 취향 저격할 키링 브랜드는 여기! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83661</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83661</guid>
-            <pubDate>Wed, 17 Jan 2024 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[손흥민도 반한 키링이라고?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[벌써 웨이팅 스멜? 오픈런 각 잡는 성수 신상 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83659</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83659</guid>
-            <pubDate>Tue, 16 Jan 2024 09:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[말해 뭐해 할 만한 눈과 미각 사로잡는 성수 새 맛집.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인간극장급 인생예능 최강야구 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
