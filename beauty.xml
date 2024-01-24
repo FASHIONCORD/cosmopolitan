@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-01-24T02:26:48.848Z</updated>
+    <updated>2024-01-24T03:11:23.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[등근육 실화야? 유지어터 최강희의 시크릿 팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83812</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83812"/>
+        <updated>2024-01-24T03:10:17.716Z</updated>
+        <content type="html"><![CDATA[이 언니의 다이어트 비결이 궁금하다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해의 컬러! ‘피치 퍼즈’로 염색한 여돌은 누구?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83743</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83617"/>
         <updated>2024-01-17T07:09:37.756Z</updated>
         <content type="html"><![CDATA[30kg 증량했다가 감량? 스타들의 다이어트 비법!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NEW WAVE! 블랙핑크 지수와 다이슨의 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83607</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83607"/>
-        <updated>2024-01-17T05:09:27.695Z</updated>
-        <content type="html"><![CDATA[독보적 아우라를 품은 지수와 다이슨의 절묘한 만남.]]></content>
     </entry>
 </feed>
