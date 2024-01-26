@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-01-26T10:10:02.873Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[등근육 실화야? 유지어터 최강희의 시크릿 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83812</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83812"/>
-        <updated>2024-01-24T03:10:17.716Z</updated>
-        <content type="html"><![CDATA[이 언니의 다이어트 비결이 궁금하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해의 컬러! ‘피치 퍼즈’로 염색한 여돌은 누구?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83743</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83743"/>
-        <updated>2024-01-24T01:54:52.459Z</updated>
-        <content type="html"><![CDATA[사랑스럽거나 시크하거나.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전성기 때 41kg였다는 현아의 다이어트 꿀팁!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83716</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83716"/>
-        <updated>2024-01-23T06:12:32.689Z</updated>
-        <content type="html"><![CDATA[직접 해본 것만 알려줘서 신뢰도 1000%!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피부에 억대 투자? 자기 관리 만렙 스타 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83707</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83707"/>
-        <updated>2024-01-23T05:09:59.104Z</updated>
-        <content type="html"><![CDATA[이서진·한예슬이 꼭 지키는 관리 비법은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 대세 헤어스타일 키티컷! 윈터와 안유진도 했다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83679</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83679"/>
-        <updated>2024-01-22T09:10:20.365Z</updated>
-        <content type="html"><![CDATA[얼굴 윤곽 보정 단발, 키티 컷이 뜬다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이렇게 스트레칭만 해도 살이 빠진다? (feat. 제이제이)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83678</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83678"/>
-        <updated>2024-01-22T09:10:20.366Z</updated>
-        <content type="html"><![CDATA[오늘부터 1일 1스트레칭~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해를 희망차게! 1월의 뷰티 뉴스는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83528</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83528"/>
-        <updated>2024-01-18T08:12:07.132Z</updated>
-        <content type="html"><![CDATA[새해를 맞이하는 희망찬 1월의 뷰티 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체중감량의 달인 배우 이정하, 박서준 다이어트 식단의 비밀은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83617</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83617"/>
-        <updated>2024-01-17T07:09:37.756Z</updated>
-        <content type="html"><![CDATA[30kg 증량했다가 감량? 스타들의 다이어트 비법!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 26 Jan 2024 11:08:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등근육 실화야? 유지어터 최강희의 시크릿 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83812</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83812</guid>
+            <pubDate>Wed, 24 Jan 2024 03:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[이 언니의 다이어트 비결이 궁금하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/c88c8efa-e299-492f-a410-bd9147346807.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해의 컬러! ‘피치 퍼즈’로 염색한 여돌은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83743</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83743</guid>
+            <pubDate>Wed, 24 Jan 2024 01:54:52 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스럽거나 시크하거나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/f5e3f0ba-4132-4f44-b387-86fe99f826df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전성기 때 41kg였다는 현아의 다이어트 꿀팁!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83716</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83716</guid>
+            <pubDate>Tue, 23 Jan 2024 06:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[직접 해본 것만 알려줘서 신뢰도 1000%!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/4d095079-4e64-4010-a2fa-4c917c9b2076.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피부에 억대 투자? 자기 관리 만렙 스타 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83707</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83707</guid>
+            <pubDate>Tue, 23 Jan 2024 05:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[이서진·한예슬이 꼭 지키는 관리 비법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/1c71d32c-ac8b-4294-bb28-d67ee4b3ef1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 대세 헤어스타일 키티컷! 윈터와 안유진도 했다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83679</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83679</guid>
+            <pubDate>Mon, 22 Jan 2024 09:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴 윤곽 보정 단발, 키티 컷이 뜬다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/3d7611a2-438f-4a87-b1cf-29de46c6e039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이렇게 스트레칭만 해도 살이 빠진다? (feat. 제이제이)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83678</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83678</guid>
+            <pubDate>Mon, 22 Jan 2024 09:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[오늘부터 1일 1스트레칭~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/288990bf-69e2-41b0-b8e4-f5f18f0f472b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해를 희망차게! 1월의 뷰티 뉴스는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83528</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83528</guid>
+            <pubDate>Thu, 18 Jan 2024 08:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[새해를 맞이하는 희망찬 1월의 뷰티 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/12/10404ecb-330a-42f1-8d06-70f5154fddca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[체중감량의 달인 배우 이정하, 박서준 다이어트 식단의 비밀은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83617</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83617</guid>
+            <pubDate>Wed, 17 Jan 2024 07:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[30kg 증량했다가 감량? 스타들의 다이어트 비법!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/11/536d59af-d247-42ce-92df-47f44b02374d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
