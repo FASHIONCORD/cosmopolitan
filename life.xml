@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 21:09:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[국내 오픈을 앞둔 해외 유명 맛집 리스트 2]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83818</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83818</guid>
-            <pubDate>Thu, 25 Jan 2024 07:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[벌써부터 오픈런 각!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/16fb44a8-774e-487a-a0b3-0db7687da51c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠지들의 놀거리로 넘치는 마곡 핫플 리스트 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83817</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83817</guid>
-            <pubDate>Wed, 24 Jan 2024 10:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[마곡 젠지 코스 추천해드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/6ce3382c-67ca-4bb1-85c4-5ed4a04eca0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그렇게 맛있어? 두아 리파·세븐틴도 반한 해외 맛집 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83814</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83814</guid>
-            <pubDate>Wed, 24 Jan 2024 02:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[도쿄, 이탈리아, 미국 렛츠고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/4f2555f8-6e9b-4983-916f-0824d8f12717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠지 레이더 꽉! 잡는 고대역 커피 핫플 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83810</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83810</guid>
-            <pubDate>Wed, 24 Jan 2024 02:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[안암동 젠지들 꼭 가봐야 하는 신상 카페들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/10311574-8e57-473b-bd1f-9c3ab99e68f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블핑도 빠졌다♥️ 지금 먹어야 할 카니미소구이 맛집 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83706</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83706</guid>
-            <pubDate>Mon, 22 Jan 2024 11:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[밥도둑의 변신은 무죄!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/39de687e-d384-4a4c-90a2-353f0c52932b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라면 먹고 갈래? 한혜진도 흡입한 굴라면 맛집의 정체]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83705</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83705</guid>
-            <pubDate>Mon, 22 Jan 2024 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[빨간 맛? 하얀 맛?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/02f18c68-6961-46f9-9f52-ba875b2e40f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딸기 마니아 주목! 호텔가 딸기 뷔페 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83696</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83696</guid>
-            <pubDate>Mon, 22 Jan 2024 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[딸기는 우리를 실망시키는 법이 없지~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/01f3f314-20db-41c2-b0ce-e43b01a3e88b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시안컵 이강인 멀티 골! 사랑해요 이강인 TMI 10]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83688</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83688</guid>
-            <pubDate>Mon, 22 Jan 2024 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[시청률로 함께 키운 슛돌이의 이상형은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/16/c24a6420-427c-4d4e-b862-529e03656f3a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2024-01-28T22:09:03.429Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 오픈을 앞둔 해외 유명 맛집 리스트 2]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83818</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83818"/>
+        <updated>2024-01-25T07:09:40.943Z</updated>
+        <content type="html"><![CDATA[벌써부터 오픈런 각!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠지들의 놀거리로 넘치는 마곡 핫플 리스트 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83817</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83817"/>
+        <updated>2024-01-24T10:11:12.349Z</updated>
+        <content type="html"><![CDATA[마곡 젠지 코스 추천해드림.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그렇게 맛있어? 두아 리파·세븐틴도 반한 해외 맛집 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83814</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83814"/>
+        <updated>2024-01-24T02:26:39.251Z</updated>
+        <content type="html"><![CDATA[도쿄, 이탈리아, 미국 렛츠고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠지 레이더 꽉! 잡는 고대역 커피 핫플 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83810</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83810"/>
+        <updated>2024-01-24T02:26:39.252Z</updated>
+        <content type="html"><![CDATA[안암동 젠지들 꼭 가봐야 하는 신상 카페들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블핑도 빠졌다♥️ 지금 먹어야 할 카니미소구이 맛집 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83706</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83706"/>
+        <updated>2024-01-22T11:08:51.373Z</updated>
+        <content type="html"><![CDATA[밥도둑의 변신은 무죄!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라면 먹고 갈래? 한혜진도 흡입한 굴라면 맛집의 정체]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83705</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83705"/>
+        <updated>2024-01-22T09:11:16.349Z</updated>
+        <content type="html"><![CDATA[빨간 맛? 하얀 맛?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딸기 마니아 주목! 호텔가 딸기 뷔페 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83696</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83696"/>
+        <updated>2024-01-22T09:11:16.349Z</updated>
+        <content type="html"><![CDATA[딸기는 우리를 실망시키는 법이 없지~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아시안컵 이강인 멀티 골! 사랑해요 이강인 TMI 10]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83688</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83688"/>
+        <updated>2024-01-22T09:11:16.350Z</updated>
+        <content type="html"><![CDATA[시청률로 함께 키운 슛돌이의 이상형은?]]></content>
+    </entry>
+</feed>
