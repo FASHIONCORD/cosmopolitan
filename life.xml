@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-29T00:39:24.584Z</updated>
+    <updated>2024-01-29T01:42:56.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메르세데스 벤츠 더 뉴 이클래스를 한국에서 만날 수 있다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83819</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83819"/>
+        <updated>2024-01-29T01:42:49.992Z</updated>
+        <content type="html"><![CDATA[가장 지능적인 비즈니스 세단이 등장했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 오픈을 앞둔 해외 유명 맛집 리스트 2]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83818</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83696"/>
         <updated>2024-01-22T09:11:16.349Z</updated>
         <content type="html"><![CDATA[딸기는 우리를 실망시키는 법이 없지~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시안컵 이강인 멀티 골! 사랑해요 이강인 TMI 10]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83688</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83688"/>
-        <updated>2024-01-22T09:11:16.350Z</updated>
-        <content type="html"><![CDATA[시청률로 함께 키운 슛돌이의 이상형은?]]></content>
     </entry>
 </feed>

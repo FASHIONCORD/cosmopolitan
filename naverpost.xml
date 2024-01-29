@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-01-29T00:39:24.578Z</updated>
+    <updated>2024-01-29T01:42:56.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘텀꾸’가 뭔데? 
+젠지들 사이 유행하는 텀블러 꾸미기!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37258955&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37258955&amp;memberNo=11800362"/>
+        <updated>2024-01-29T01:42:07.905Z</updated>
+        <content type="html"><![CDATA[폰꾸, 다꾸도 아닌 텀꾸가 왔다.▼ 클릭 ▼젠지들 취향 저격! 폰케이스, 다이어리 다음으로 DIY 열풍을 일으킨 주인공은 바로 텀블러! 틱톡에서 핫한 일명 ‘텀꾸’(텀블러 꾸미기)는 인형, 스티커,···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<내 남편과 결혼해줘> 
 박민영 오피스룩 논란?]]></title>
@@ -153,12 +161,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37139604&amp;memberNo=11800362"/>
         <updated>2024-01-14T05:08:32.992Z</updated>
         <content type="html"><![CDATA[용의 기운으로 힘차게 날아오를 준비 완료! ▼ 클릭 ▼ ‘청룡의 해’, 용띠 스타들의 근황은? 용의 기운으로 힘차게 날아오를 준비 완료! www.cosmopolitan.co.kr &nbsp;‘푸른 용의 해’가 밝은 만큼 용띠 셀렙들도 활기차게 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라이빗한 노천탕있는 국내 숙소 추천 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37080261&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37080261&amp;memberNo=11800362"/>
-        <updated>2024-01-14T05:08:32.994Z</updated>
-        <content type="html"><![CDATA[겨울 물놀이 여행 좌표 알려드림.▼ 클릭 ▼ 겨울 여행 피로를 싹! 녹여버릴 노천탕·인피니티풀 숙소 3 겨울 물놀이 여행 좌표 알려드림. www.cosmopolitan.co.kr 오롯이 휴식만 즐기는부산 휴가 스테이 인스타그램 @h···]]></content>
     </entry>
 </feed>
