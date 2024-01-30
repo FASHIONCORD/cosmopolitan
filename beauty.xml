@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-01-30T02:15:52.820Z</updated>
+    <updated>2024-01-30T03:11:03.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해는 달라질 거라고? 이청아, 안소희의 갓생 프로젝트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83832</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83832"/>
+        <updated>2024-01-30T03:09:33.038Z</updated>
+        <content type="html"><![CDATA[건강과 배움, 놓치지 않을 거예요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지갑 털이범! 1월의 신상 립 컬러는 무엇?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83813</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83678"/>
         <updated>2024-01-22T09:10:20.366Z</updated>
         <content type="html"><![CDATA[오늘부터 1일 1스트레칭~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해를 희망차게! 1월의 뷰티 뉴스는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83528</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83528"/>
-        <updated>2024-01-18T08:12:07.132Z</updated>
-        <content type="html"><![CDATA[새해를 맞이하는 희망찬 1월의 뷰티 뉴스.]]></content>
     </entry>
 </feed>
