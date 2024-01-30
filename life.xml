@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-01-30T07:09:57.660Z</updated>
+    <updated>2024-01-30T08:11:59.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스위스 부럽지 않은 국내 웅장한 뷰 맛집 카페 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83961</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83961"/>
+        <updated>2024-01-30T08:11:47.385Z</updated>
+        <content type="html"><![CDATA[SNS 배경으로 유명한 스팟들이 있다는데?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소식좌도 입맛 돌게 하는 회기, 외대 앞 글로벌 맛집 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83960</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83960"/>
+        <updated>2024-01-30T08:11:47.388Z</updated>
+        <content type="html"><![CDATA[공복 불가 신상 맛집 투어 도와드립니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뜨끈한 사우나에 나 홀로! 프라이빗 사우나 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83897</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83818"/>
         <updated>2024-01-25T07:09:40.943Z</updated>
         <content type="html"><![CDATA[벌써부터 오픈런 각!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠지들의 놀거리로 넘치는 마곡 핫플 리스트 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83817</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83817"/>
-        <updated>2024-01-24T10:11:12.349Z</updated>
-        <content type="html"><![CDATA[마곡 젠지 코스 추천해드림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그렇게 맛있어? 두아 리파·세븐틴도 반한 해외 맛집 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83814</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83814"/>
-        <updated>2024-01-24T02:26:39.251Z</updated>
-        <content type="html"><![CDATA[도쿄, 이탈리아, 미국 렛츠고.]]></content>
     </entry>
 </feed>
