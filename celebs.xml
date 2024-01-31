@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-01-31T05:10:51.458Z</updated>
+    <updated>2024-01-31T06:12:19.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인생은 즐거워! 멋쁨의 인간화 모니카의 무반주 댄스?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83998</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83998"/>
+        <updated>2024-01-31T06:11:53.567Z</updated>
+        <content type="html"><![CDATA[풀버전은 코스모폴리탄 유튜브에서.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물+덱스=극락, 믿고 보는 물덱스 모음집]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83997</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83734"/>
         <updated>2024-01-29T09:09:57.431Z</updated>
         <content type="html"><![CDATA[모니카에게 물었다. 당신은 강한가요? “네, 강해요. 쓰러져도 다시 일어나기만 하면 됩니다. 그...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔로지옥4 뜬다!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83865</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83865"/>
-        <updated>2024-01-29T08:11:48.658Z</updated>
-        <content type="html"><![CDATA[현기증 나. 빨리 와 줘.]]></content>
     </entry>
 </feed>
