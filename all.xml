@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 14:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 15:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83966</guid>
             <pubDate>Wed, 31 Jan 2024 15:08:40 GMT</pubDate>
             <content:encoded><![CDATA[비포 애프터 확실한 케어만 모았다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/9e26fded-5252-4148-82c4-8dd2c5ffe6d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LOVE IS A SUPERPOWER! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -248,6 +249,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83803</guid>
             <pubDate>Wed, 31 Jan 2024 02:16:08 GMT</pubDate>
             <content:encoded><![CDATA[비오템 옴므와 려운이 함께한 달콤한 발렌타인데이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/29d1fd1e-be9b-490a-8810-250fa9be7b73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마네킹 몸매 장윤주도 살기 위해 운동한다는데? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -255,6 +257,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83866</guid>
             <pubDate>Wed, 31 Jan 2024 02:16:08 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 최고의 톱모델들이 주고 받는 다이어트와 운동썰.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/12fc44cf-688c-448f-ba48-3d8dee616aea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[-20kg 감량?! 서준 맘 박세미의 다이어트 꿀팁 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -262,6 +265,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83863</guid>
             <pubDate>Tue, 30 Jan 2024 08:11:22 GMT</pubDate>
             <content:encoded><![CDATA[쉽게 빠지는 살은 없다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/bc8dbd9a-3700-4bee-aa47-ad0421a19799.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[-6kg 뺐다는 규현의 저당 다이어트 식단 공개! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -269,6 +273,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83834</guid>
             <pubDate>Tue, 30 Jan 2024 08:11:22 GMT</pubDate>
             <content:encoded><![CDATA[요리 똥손도 할 수 있는 초간단 레시피가 여기 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/3afd15a7-4dee-45a0-a765-58efd740d46e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해는 달라질 거라고? 이청아, 안소희의 갓생 프로젝트 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -276,6 +281,14 @@
             <guid>https://www.cosmopolitan.co.kr/article/83832</guid>
             <pubDate>Tue, 30 Jan 2024 03:09:33 GMT</pubDate>
             <content:encoded><![CDATA[건강과 배움, 놓치지 않을 거예요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/64745c13-3445-477a-9c59-40e5ded89efd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고음 폭발 '레베카' 부를 때 옥주현의 속마음은?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84036</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84036</guid>
+            <pubDate>Thu, 01 Feb 2024 15:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[사실은 인간미 넘치는 댄버스 부인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뷔 ♥️ 아이유 하고 싶은 거 다한 ‘럽윈올’ 뮤비 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -318,7 +331,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83997</guid>
             <pubDate>Wed, 31 Jan 2024 03:10:01 GMT</pubDate>
             <content:encoded><![CDATA[귀엽고 멋지고 아주 다해버리는 덱스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/203d83db-6f73-4a83-b34c-e8ae290a83c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 내일 공개! 넷플릭스 ‘Eye Love You’ 남주 채종협 알아보기! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -326,15 +338,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83976</guid>
             <pubDate>Tue, 30 Jan 2024 07:09:15 GMT</pubDate>
             <content:encoded><![CDATA[나 연하남 좋아했네.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/24a0f11d-b8c4-404b-956f-08936bd42773.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 한 쌍의 연예계 부부 탄생? 김기리♥문지인 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83975</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83975</guid>
-            <pubDate>Tue, 30 Jan 2024 07:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[두 분 행복만 하세요♡]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/a8f1115f-89c1-47da-a39a-6bbfe9cbe84f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBTI 매칭 시 커플 확률 100%? (코스모폴리탄 코리아 ─ 러브)]]></title>

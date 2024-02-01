@@ -1,64 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/beauty</id>
-    <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-01T14:09:32.154Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[세안만 바꿨는데 트러블과 작별? 윤혜진 피부 관리 팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84008</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84008"/>
-        <updated>2024-02-01T02:19:43.377Z</updated>
-        <content type="html"><![CDATA[피부에 도대체 뭘 한 거야?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이는 잊은지 오래! 10살 어려진 한예슬, 레이디제인의 시술비법 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83989</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83989"/>
-        <updated>2024-01-31T15:08:40.880Z</updated>
-        <content type="html"><![CDATA[타고난 미모에도 부지런히 관리하는 예쁜 언니들의 똑똑한 시술 비법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것만 해도 남 모르게 이뻐진다고? 환승연애 이나연 뷰티 Tip]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83966</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83966"/>
-        <updated>2024-01-31T15:08:40.880Z</updated>
-        <content type="html"><![CDATA[비포 애프터 확실한 케어만 모았다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOVE IS A SUPERPOWER!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83803</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83803"/>
-        <updated>2024-01-31T02:16:08.130Z</updated>
-        <content type="html"><![CDATA[비오템 옴므와 려운이 함께한 달콤한 발렌타인데이.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마네킹 몸매 장윤주도 살기 위해 운동한다는데?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83866</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83866"/>
-        <updated>2024-01-31T02:16:08.137Z</updated>
-        <content type="html"><![CDATA[대한민국 최고의 톱모델들이 주고 받는 다이어트와 운동썰.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[-20kg 감량?! 서준 맘 박세미의 다이어트 꿀팁]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83863</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83863"/>
-        <updated>2024-01-30T08:11:22.400Z</updated>
-        <content type="html"><![CDATA[쉽게 빠지는 살은 없다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[-6kg 뺐다는 규현의 저당 다이어트 식단 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83834</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83834"/>
-        <updated>2024-01-30T08:11:22.401Z</updated>
-        <content type="html"><![CDATA[요리 똥손도 할 수 있는 초간단 레시피가 여기 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해는 달라질 거라고? 이청아, 안소희의 갓생 프로젝트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83832</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83832"/>
-        <updated>2024-01-30T03:09:33.038Z</updated>
-        <content type="html"><![CDATA[건강과 배움, 놓치지 않을 거예요.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 01 Feb 2024 15:09:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세안만 바꿨는데 트러블과 작별? 윤혜진 피부 관리 팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84008</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84008</guid>
+            <pubDate>Thu, 01 Feb 2024 02:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[피부에 도대체 뭘 한 거야?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이는 잊은지 오래! 10살 어려진 한예슬, 레이디제인의 시술비법 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83989</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83989</guid>
+            <pubDate>Wed, 31 Jan 2024 15:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[타고난 미모에도 부지런히 관리하는 예쁜 언니들의 똑똑한 시술 비법.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이것만 해도 남 모르게 이뻐진다고? 환승연애 이나연 뷰티 Tip]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83966</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83966</guid>
+            <pubDate>Wed, 31 Jan 2024 15:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[비포 애프터 확실한 케어만 모았다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/9e26fded-5252-4148-82c4-8dd2c5ffe6d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE IS A SUPERPOWER!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83803</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83803</guid>
+            <pubDate>Wed, 31 Jan 2024 02:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[비오템 옴므와 려운이 함께한 달콤한 발렌타인데이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/29d1fd1e-be9b-490a-8810-250fa9be7b73.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마네킹 몸매 장윤주도 살기 위해 운동한다는데?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83866</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83866</guid>
+            <pubDate>Wed, 31 Jan 2024 02:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 최고의 톱모델들이 주고 받는 다이어트와 운동썰.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/12fc44cf-688c-448f-ba48-3d8dee616aea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[-20kg 감량?! 서준 맘 박세미의 다이어트 꿀팁]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83863</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83863</guid>
+            <pubDate>Tue, 30 Jan 2024 08:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[쉽게 빠지는 살은 없다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/bc8dbd9a-3700-4bee-aa47-ad0421a19799.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[-6kg 뺐다는 규현의 저당 다이어트 식단 공개!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83834</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83834</guid>
+            <pubDate>Tue, 30 Jan 2024 08:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[요리 똥손도 할 수 있는 초간단 레시피가 여기 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/3afd15a7-4dee-45a0-a765-58efd740d46e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해는 달라질 거라고? 이청아, 안소희의 갓생 프로젝트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83832</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83832</guid>
+            <pubDate>Tue, 30 Jan 2024 03:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[건강과 배움, 놓치지 않을 거예요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/64745c13-3445-477a-9c59-40e5ded89efd.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
