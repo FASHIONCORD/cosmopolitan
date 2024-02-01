@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 13:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 14:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,6 +318,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83997</guid>
             <pubDate>Wed, 31 Jan 2024 03:10:01 GMT</pubDate>
             <content:encoded><![CDATA[귀엽고 멋지고 아주 다해버리는 덱스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/203d83db-6f73-4a83-b34c-e8ae290a83c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 내일 공개! 넷플릭스 ‘Eye Love You’ 남주 채종협 알아보기! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -325,6 +326,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83976</guid>
             <pubDate>Tue, 30 Jan 2024 07:09:15 GMT</pubDate>
             <content:encoded><![CDATA[나 연하남 좋아했네.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/24a0f11d-b8c4-404b-956f-08936bd42773.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또 한 쌍의 연예계 부부 탄생? 김기리♥문지인 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
@@ -332,6 +334,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/83975</guid>
             <pubDate>Tue, 30 Jan 2024 07:09:15 GMT</pubDate>
             <content:encoded><![CDATA[두 분 행복만 하세요♡]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/a8f1115f-89c1-47da-a39a-6bbfe9cbe84f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBTI 매칭 시 커플 확률 100%? (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -395,7 +398,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83963</guid>
             <pubDate>Thu, 01 Feb 2024 08:12:54 GMT</pubDate>
             <content:encoded><![CDATA[치팅 데이에 먹기 딱인데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/5bb88f81-4d7d-4912-942f-2162cbe046f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스위스 부럽지 않은 국내 웅장한 뷰 맛집 카페 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -403,7 +405,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83961</guid>
             <pubDate>Tue, 30 Jan 2024 08:11:47 GMT</pubDate>
             <content:encoded><![CDATA[SNS 배경으로 유명한 스팟들이 있다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/285cd8fa-35de-4cb9-a56d-db6c9d362008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소식좌도 입맛 돌게 하는 회기, 외대 앞 글로벌 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -411,7 +412,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83960</guid>
             <pubDate>Tue, 30 Jan 2024 08:11:47 GMT</pubDate>
             <content:encoded><![CDATA[공복 불가 신상 맛집 투어 도와드립니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/a35c5ce9-68f5-4122-8bc8-bc40a4f49913.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뜨끈한 사우나에 나 홀로! 프라이빗 사우나 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -419,7 +419,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83897</guid>
             <pubDate>Tue, 30 Jan 2024 06:13:10 GMT</pubDate>
             <content:encoded><![CDATA[hoxy,,이곳이 천국인가요..?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/25/2c5fac61-7492-45e9-9a52-c6e435472d7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘텀꾸’가 뭔데? 젠지들 사이 유행하는 텀블러 꾸미기! (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -427,7 +426,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83878</guid>
             <pubDate>Mon, 29 Jan 2024 09:10:20 GMT</pubDate>
             <content:encoded><![CDATA[폰꾸, 다꾸도 아닌 텀꾸가 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/61096e19-dd1b-4119-93e0-7353bc706670.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솔로지옥4 뜬다! (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -435,7 +433,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83865</guid>
             <pubDate>Mon, 29 Jan 2024 03:09:53 GMT</pubDate>
             <content:encoded><![CDATA[현기증 나. 빨리 와 줘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/1e03a3f1-e4bc-4995-a9b2-b1feb0874e2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차 타고 세계 속으로! 해외 감성 낭낭한 국내 핫플 3 (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -443,7 +440,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83864</guid>
             <pubDate>Mon, 29 Jan 2024 03:09:53 GMT</pubDate>
             <content:encoded><![CDATA[한국에서 해외여행 기분 내볼까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/1878ca0a-5bd9-454b-8708-4787859d6620.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메르세데스 벤츠 더 뉴 이클래스를 한국에서 만날 수 있다고? (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -451,7 +447,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83819</guid>
             <pubDate>Mon, 29 Jan 2024 01:42:49 GMT</pubDate>
             <content:encoded><![CDATA[가장 지능적인 비즈니스 세단이 등장했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/9d89b8e2-c069-4859-ba3f-ef4062fdc68b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카메라만 354대? <사이렌: 불의 섬> 입덕 포인트 (코스모폴리탄 코리아 ─ 코피셜)]]></title>

@@ -1,64 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-02-01T13:10:02.964Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[뷔 ♥️ 아이유 하고 싶은 거 다한 ‘럽윈올’ 뮤비]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84032</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84032"/>
-        <updated>2024-02-01T02:19:51.425Z</updated>
-        <content type="html"><![CDATA[그 동안 쌓은 인복 이 앨범에 다 썼다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈은 이루어진다! 한소희·유재석 드디어 성덕되다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84005</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84005"/>
-        <updated>2024-01-31T09:09:05.667Z</updated>
-        <content type="html"><![CDATA[엄마, 나 드디어 덕계못 탈출했어!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시안컵 16강 경기 일정! 한국은 누구와 언제?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84004</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84004"/>
-        <updated>2024-01-31T09:09:05.668Z</updated>
-        <content type="html"><![CDATA[대한민국 파이팅!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 제발 그만해. 김재중·정은지가 팬에게 경고한 이유?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84002</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84002"/>
-        <updated>2024-01-31T09:09:05.669Z</updated>
-        <content type="html"><![CDATA[자택 방문부터 편지, 택시까지?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인생은 즐거워! 멋쁨의 인간화 모니카의 무반주 댄스?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83998</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83998"/>
-        <updated>2024-01-31T06:11:53.567Z</updated>
-        <content type="html"><![CDATA[풀버전은 코스모폴리탄 유튜브에서.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물+덱스=극락, 믿고 보는 물덱스 모음집]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83997</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83997"/>
-        <updated>2024-01-31T03:10:01.009Z</updated>
-        <content type="html"><![CDATA[귀엽고 멋지고 아주 다해버리는 덱스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 내일 공개! 넷플릭스 ‘Eye Love You’ 남주 채종협 알아보기!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83976</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83976"/>
-        <updated>2024-01-30T07:09:15.457Z</updated>
-        <content type="html"><![CDATA[나 연하남 좋아했네.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 한 쌍의 연예계 부부 탄생? 김기리♥문지인]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83975</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83975"/>
-        <updated>2024-01-30T07:09:15.459Z</updated>
-        <content type="html"><![CDATA[두 분 행복만 하세요♡]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 01 Feb 2024 14:09:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷔 ♥️ 아이유 하고 싶은 거 다한 ‘럽윈올’ 뮤비]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84032</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84032</guid>
+            <pubDate>Thu, 01 Feb 2024 02:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[그 동안 쌓은 인복 이 앨범에 다 썼다!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[꿈은 이루어진다! 한소희·유재석 드디어 성덕되다?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84005</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84005</guid>
+            <pubDate>Wed, 31 Jan 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[엄마, 나 드디어 덕계못 탈출했어!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아시안컵 16강 경기 일정! 한국은 누구와 언제?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84004</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84004</guid>
+            <pubDate>Wed, 31 Jan 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 파이팅!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제 제발 그만해. 김재중·정은지가 팬에게 경고한 이유?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84002</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84002</guid>
+            <pubDate>Wed, 31 Jan 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[자택 방문부터 편지, 택시까지?!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인생은 즐거워! 멋쁨의 인간화 모니카의 무반주 댄스?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83998</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83998</guid>
+            <pubDate>Wed, 31 Jan 2024 06:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[풀버전은 코스모폴리탄 유튜브에서.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[물+덱스=극락, 믿고 보는 물덱스 모음집]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83997</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83997</guid>
+            <pubDate>Wed, 31 Jan 2024 03:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[귀엽고 멋지고 아주 다해버리는 덱스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/30/203d83db-6f73-4a83-b34c-e8ae290a83c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 내일 공개! 넷플릭스 ‘Eye Love You’ 남주 채종협 알아보기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83976</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83976</guid>
+            <pubDate>Tue, 30 Jan 2024 07:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[나 연하남 좋아했네.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/24a0f11d-b8c4-404b-956f-08936bd42773.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 한 쌍의 연예계 부부 탄생? 김기리♥문지인]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83975</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83975</guid>
+            <pubDate>Tue, 30 Jan 2024 07:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[두 분 행복만 하세요♡]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/a8f1115f-89c1-47da-a39a-6bbfe9cbe84f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
