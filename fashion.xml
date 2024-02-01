@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-02-01T15:09:37.563Z</updated>
+    <updated>2024-02-01T16:11:48.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHAT'S HOT! 새해를 맞이한 1월의 패션 뉴스]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83801</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83801"/>
+        <updated>2024-02-01T16:11:03.947Z</updated>
+        <content type="html"><![CDATA[새해와 함께 맞이할 1월의 패션 뉴스.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡에서 옷 산다고? 가성비 넘치는 한소희 사복템 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83711</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83642"/>
         <updated>2024-01-15T15:09:31.769Z</updated>
         <content type="html"><![CDATA[미우미우와 모델 윤보미의 아주 그럴 듯한 조우.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IN THE MOOD. 까르띠에 백을 멘 배윤영의 일상]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83626</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83626"/>
-        <updated>2024-01-15T10:10:39.954Z</updated>
-        <content type="html"><![CDATA[까르띠에 백을 메고 마주한 일상의 찰나.]]></content>
     </entry>
 </feed>
