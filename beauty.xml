@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-01T01:46:48.349Z</updated>
+    <updated>2024-02-01T02:20:34.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세안만 바꿨는데 트러블과 작별? 윤혜진 피부 관리 팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84008</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84008"/>
+        <updated>2024-02-01T02:19:43.377Z</updated>
+        <content type="html"><![CDATA[피부에 도대체 뭘 한 거야?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나이는 잊은지 오래! 10살 어려진 한예슬, 레이디제인의 시술비법 공개!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83989</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83832"/>
         <updated>2024-01-30T03:09:33.038Z</updated>
         <content type="html"><![CDATA[건강과 배움, 놓치지 않을 거예요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지갑 털이범! 1월의 신상 립 컬러는 무엇?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83813</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83813"/>
-        <updated>2024-01-29T03:09:29.592Z</updated>
-        <content type="html"><![CDATA[발색 왕, 지속 왕, 손민수 왕! 아이돌 PICK 신상립 알려드림.]]></content>
     </entry>
 </feed>
