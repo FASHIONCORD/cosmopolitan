@@ -1,64 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-02-01T02:20:34.459Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[스위스 부럽지 않은 국내 웅장한 뷰 맛집 카페 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83961</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83961"/>
-        <updated>2024-01-30T08:11:47.385Z</updated>
-        <content type="html"><![CDATA[SNS 배경으로 유명한 스팟들이 있다는데?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소식좌도 입맛 돌게 하는 회기, 외대 앞 글로벌 맛집 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83960</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83960"/>
-        <updated>2024-01-30T08:11:47.388Z</updated>
-        <content type="html"><![CDATA[공복 불가 신상 맛집 투어 도와드립니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨끈한 사우나에 나 홀로! 프라이빗 사우나 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83897</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83897"/>
-        <updated>2024-01-30T06:13:10.642Z</updated>
-        <content type="html"><![CDATA[hoxy,,이곳이 천국인가요..?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘텀꾸’가 뭔데? 젠지들 사이 유행하는 텀블러 꾸미기!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83878</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83878"/>
-        <updated>2024-01-29T09:10:20.351Z</updated>
-        <content type="html"><![CDATA[폰꾸, 다꾸도 아닌 텀꾸가 왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔로지옥4 뜬다!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83865</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83865"/>
-        <updated>2024-01-29T03:09:53.021Z</updated>
-        <content type="html"><![CDATA[현기증 나. 빨리 와 줘.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차 타고 세계 속으로! 해외 감성 낭낭한 국내 핫플 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83864</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83864"/>
-        <updated>2024-01-29T03:09:53.022Z</updated>
-        <content type="html"><![CDATA[한국에서 해외여행 기분 내볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메르세데스 벤츠 더 뉴 이클래스를 한국에서 만날 수 있다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83819</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83819"/>
-        <updated>2024-01-29T01:42:49.992Z</updated>
-        <content type="html"><![CDATA[가장 지능적인 비즈니스 세단이 등장했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 오픈을 앞둔 해외 유명 맛집 리스트 2]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83818</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83818"/>
-        <updated>2024-01-25T07:09:40.943Z</updated>
-        <content type="html"><![CDATA[벌써부터 오픈런 각!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 01 Feb 2024 03:11:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스위스 부럽지 않은 국내 웅장한 뷰 맛집 카페 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83961</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83961</guid>
+            <pubDate>Tue, 30 Jan 2024 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[SNS 배경으로 유명한 스팟들이 있다는데?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소식좌도 입맛 돌게 하는 회기, 외대 앞 글로벌 맛집 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83960</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83960</guid>
+            <pubDate>Tue, 30 Jan 2024 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[공복 불가 신상 맛집 투어 도와드립니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뜨끈한 사우나에 나 홀로! 프라이빗 사우나 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83897</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83897</guid>
+            <pubDate>Tue, 30 Jan 2024 06:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[hoxy,,이곳이 천국인가요..?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘텀꾸’가 뭔데? 젠지들 사이 유행하는 텀블러 꾸미기!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83878</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83878</guid>
+            <pubDate>Mon, 29 Jan 2024 09:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[폰꾸, 다꾸도 아닌 텀꾸가 왔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[솔로지옥4 뜬다!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83865</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83865</guid>
+            <pubDate>Mon, 29 Jan 2024 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[현기증 나. 빨리 와 줘.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[차 타고 세계 속으로! 해외 감성 낭낭한 국내 핫플 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83864</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83864</guid>
+            <pubDate>Mon, 29 Jan 2024 03:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[한국에서 해외여행 기분 내볼까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메르세데스 벤츠 더 뉴 이클래스를 한국에서 만날 수 있다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83819</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83819</guid>
+            <pubDate>Mon, 29 Jan 2024 01:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[가장 지능적인 비즈니스 세단이 등장했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국내 오픈을 앞둔 해외 유명 맛집 리스트 2]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/83818</link>
+            <guid>https://www.cosmopolitan.co.kr/article/83818</guid>
+            <pubDate>Thu, 25 Jan 2024 07:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[벌써부터 오픈런 각!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/16fb44a8-774e-487a-a0b3-0db7687da51c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
