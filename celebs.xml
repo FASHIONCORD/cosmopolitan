@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-02-04T02:20:38.983Z</updated>
+    <updated>2024-02-04T03:10:26.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투어스, 엑소, 방탄까지! 역대 레전드 교복 무대 ZIP]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84042</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84042"/>
+        <updated>2024-02-04T03:09:58.570Z</updated>
+        <content type="html"><![CDATA[나 이 학교로 전학 갈래~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우의 그녀, 인디아 아이슬리는 누구?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84041</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83998"/>
         <updated>2024-01-31T06:11:53.567Z</updated>
         <content type="html"><![CDATA[풀버전은 코스모폴리탄 유튜브에서.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물+덱스=극락, 믿고 보는 물덱스 모음집]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83997</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83997"/>
-        <updated>2024-01-31T03:10:01.009Z</updated>
-        <content type="html"><![CDATA[귀엽고 멋지고 아주 다해버리는 덱스.]]></content>
     </entry>
 </feed>
