@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-05T15:09:37.599Z</updated>
+    <updated>2024-02-05T16:11:10.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찌릿찌릿! 잦은 정전기로부터 모발 사수하는 법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84120</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84120"/>
+        <updated>2024-02-05T16:10:23.697Z</updated>
+        <content type="html"><![CDATA[잦은 정전기로 사방팔방 흩날리는 모발 춤사위가 기승부리는 계절이다. 속수무책 모발 정전기는 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이건 알아야 해! 봄이 오기 전 주목할 뷰티 트렌드]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84114</id>
@@ -52,12 +59,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84030"/>
         <updated>2024-02-02T16:09:48.290Z</updated>
         <content type="html"><![CDATA[피부 미인으로 거듭날 시간!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믹서기가 최애템? 축구 선수들의 자기 관리 비법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84029</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84029"/>
-        <updated>2024-02-01T16:11:11.907Z</updated>
-        <content type="html"><![CDATA[관리도 월클이네~.]]></content>
     </entry>
 </feed>
