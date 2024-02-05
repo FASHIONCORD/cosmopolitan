@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-02-05T08:14:01.695Z</updated>
+    <updated>2024-02-05T09:11:01.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아시안컵 16강 경기 일정! 한국은 누구와 언제?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84004</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84004"/>
+        <updated>2024-02-05T09:10:54.707Z</updated>
+        <content type="html"><![CDATA[대한민국 파이팅!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힙 충전은 힙지로에서! 분위기 끌어올리는 을지로 BAR 3]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83999</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83878"/>
         <updated>2024-01-29T09:10:20.351Z</updated>
         <content type="html"><![CDATA[폰꾸, 다꾸도 아닌 텀꾸가 왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔로지옥4 뜬다!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83865</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83865"/>
-        <updated>2024-01-29T03:09:53.021Z</updated>
-        <content type="html"><![CDATA[현기증 나. 빨리 와 줘.]]></content>
     </entry>
 </feed>
