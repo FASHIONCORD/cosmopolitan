@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 06:12:24 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[파워풀하고 세련된 멋! 레더 재킷 스타일링 5]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83758</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83758</guid>
-            <pubDate>Mon, 05 Feb 2024 16:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[파워풀하고 세련된 레더 재킷 드레싱 5.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/979db9f4-ff0b-487b-80c9-ad8a04f32b20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫하다 핫해! 코스모 픽 2월 아이템은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83971</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83971</guid>
-            <pubDate>Mon, 05 Feb 2024 09:10:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/afe527ba-13c0-495a-8c28-b7d9dfdd261c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드미 장착?! 셀렙들의 무테안경 스타일링 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84028</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84028</guid>
-            <pubDate>Sun, 04 Feb 2024 15:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[유행은 돌고 돌아~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/5b313238-620a-4454-ba3c-ac05c2f5c98a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바지를 입지 않는 게 정말 대세? 노팬츠룩 알아보기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83851</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83851</guid>
-            <pubDate>Sat, 03 Feb 2024 15:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[핫한 언니들은 모두 바지를 입지 않는다(?)]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/c9b084ab-ab89-4969-85dd-35e6dd30c8a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<내 남편과 결혼해줘> 박민영 오피스룩 논란?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83829</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83829</guid>
-            <pubDate>Fri, 02 Feb 2024 15:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[직장인들 동공 지진 오게 만들었다는 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/2e49f74e-279b-4e0e-98a7-a372b666e844.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHAT'S HOT! 새해를 맞이한 1월의 패션 뉴스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83801</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83801</guid>
-            <pubDate>Thu, 01 Feb 2024 16:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[새해와 함께 맞이할 1월의 패션 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/7a14bc83-4f0b-4faa-afc2-dba38d5d716a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡에서 옷 산다고? 가성비 넘치는 한소희 사복템 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83711</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83711</guid>
-            <pubDate>Wed, 31 Jan 2024 15:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[정말 10만 원도 안 한다고?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/34e62b4e-4d3f-4727-ab38-d747526c6973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간죽간살 한소희처럼 되고 싶다면 이렇게!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83704</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83704</guid>
-            <pubDate>Wed, 31 Jan 2024 02:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[나영석 PD가 물었다. “소희 씨는 왜 옷을 잘 입는 거예요?”]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/89254d25-1567-4981-acd2-7b6c1bee5b23.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2024-02-06T07:08:42.533Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파워풀하고 세련된 멋! 레더 재킷 스타일링 5]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83758</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83758"/>
+        <updated>2024-02-05T16:10:14.596Z</updated>
+        <content type="html"><![CDATA[파워풀하고 세련된 레더 재킷 드레싱 5.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핫하다 핫해! 코스모 픽 2월 아이템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83971</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83971"/>
+        <updated>2024-02-05T09:10:03.766Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너드미 장착?! 셀렙들의 무테안경 스타일링 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84028</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84028"/>
+        <updated>2024-02-04T15:08:00.416Z</updated>
+        <content type="html"><![CDATA[유행은 돌고 돌아~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바지를 입지 않는 게 정말 대세? 노팬츠룩 알아보기!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83851</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83851"/>
+        <updated>2024-02-03T15:08:23.038Z</updated>
+        <content type="html"><![CDATA[핫한 언니들은 모두 바지를 입지 않는다(?)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<내 남편과 결혼해줘> 박민영 오피스룩 논란?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83829</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83829"/>
+        <updated>2024-02-02T15:09:33.787Z</updated>
+        <content type="html"><![CDATA[직장인들 동공 지진 오게 만들었다는 패션.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHAT'S HOT! 새해를 맞이한 1월의 패션 뉴스]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83801</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83801"/>
+        <updated>2024-02-01T16:11:03.947Z</updated>
+        <content type="html"><![CDATA[새해와 함께 맞이할 1월의 패션 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠팡에서 옷 산다고? 가성비 넘치는 한소희 사복템 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83711</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83711"/>
+        <updated>2024-01-31T15:08:30.761Z</updated>
+        <content type="html"><![CDATA[정말 10만 원도 안 한다고?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간죽간살 한소희처럼 되고 싶다면 이렇게!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83704</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83704"/>
+        <updated>2024-01-31T02:16:01.589Z</updated>
+        <content type="html"><![CDATA[나영석 PD가 물었다. “소희 씨는 왜 옷을 잘 입는 거예요?”]]></content>
+    </entry>
+</feed>
