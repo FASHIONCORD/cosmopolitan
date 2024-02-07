@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-07T02:15:43.869Z</updated>
+    <updated>2024-02-07T03:11:19.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이슨 에어스트레이트 스트레이트너로 금손 되기!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84150</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84150"/>
+        <updated>2024-02-07T03:10:28.971Z</updated>
+        <content type="html"><![CDATA[제가 직접 써봤습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인센스가 대세! 눈과 코가 즐거운 향테리어 제품 모음ZIP]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84053</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84053"/>
+        <updated>2024-02-07T03:10:28.974Z</updated>
+        <content type="html"><![CDATA[타오르는 향을 바라보며 시간을 보내는 ‘향멍’이 요즘 대세. 인센스에 대한 관심도가 높아진 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이건 품절 각! 한혜진의 찐 애정템 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84133</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84133"/>
+        <updated>2024-02-07T03:10:28.981Z</updated>
+        <content type="html"><![CDATA[다이어터 간식부터 신박한 향기템까지!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10일 만에 -4kg 감량? 장영란의 10일 식단 루틴]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84131</id>
@@ -39,26 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84114"/>
         <updated>2024-02-05T09:10:11.206Z</updated>
         <content type="html"><![CDATA[반짝이는 클린한 피부부터 입술과 눈, 손끝까지 점령한 스칼렛 레드, 아이코닉한 아이라인 룩과 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긱시크? 발레코어가 뭔데? 지금 알아야 할 뷰티 키워드 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83972</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83972"/>
-        <updated>2024-02-05T08:13:34.485Z</updated>
-        <content type="html"><![CDATA[셀피로 담아본 리얼웨이 뷰티 키워드. 하나, 둘, 셋, 찰칵!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톤망진창러 모여라! 아이, 치크, 립별 필승템은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84087</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84087"/>
-        <updated>2024-02-05T08:13:34.486Z</updated>
-        <content type="html"><![CDATA[여기가 색조 맛집! 톤망진창 유목민도 정착 가능한 아이-치크-립 부위별 필승템을 모았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대의 다이어트법은 다르다?! 김새롬 다이어트 비법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84055</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84055"/>
-        <updated>2024-02-05T07:10:05.009Z</updated>
-        <content type="html"><![CDATA[김새롬이 직접 밝힌 피부과 시술 &amp; 다이어트 노하우.]]></content>
     </entry>
 </feed>
