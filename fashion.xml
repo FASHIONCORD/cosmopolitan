@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-02-07T14:09:49.793Z</updated>
+    <updated>2024-02-07T15:09:25.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번에는 '00' 유행한다? 지금 옷장을 정리해야 하는 이유]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83811</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83811"/>
+        <updated>2024-02-07T15:08:41.011Z</updated>
+        <content type="html"><![CDATA[새로운 시즌, 새로운 트렌드와 함께 당신의 스타일을 업데이트하라.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LESS IS MORE! 블랙 터틀넥의 A to Z]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83769</id>
@@ -52,12 +59,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83829"/>
         <updated>2024-02-02T15:09:33.787Z</updated>
         <content type="html"><![CDATA[직장인들 동공 지진 오게 만들었다는 패션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHAT'S HOT! 새해를 맞이한 1월의 패션 뉴스]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/83801</id>
-        <link href="https://www.cosmopolitan.co.kr/article/83801"/>
-        <updated>2024-02-01T16:11:03.947Z</updated>
-        <content type="html"><![CDATA[새해와 함께 맞이할 1월의 패션 뉴스.]]></content>
     </entry>
 </feed>
