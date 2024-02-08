@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-08T06:13:44.794Z</updated>
+    <updated>2024-02-08T07:10:41.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달바의 해피 밸런타인 이벤트 𝑮𝒍𝒐𝒘 & 𝑻𝒐𝒏𝒆 𝑼𝒑 𝒘𝒊𝒕𝒉 𝒅’𝑨𝒍𝒃𝒂]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84174</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84174"/>
+        <updated>2024-02-08T07:10:06.899Z</updated>
+        <content type="html"><![CDATA[셀렙들이 애정하는 인생 선크림 만나러 가즈아~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11자 복근 실화냐? 지수, 박규영의 다이어트 자극 복근]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84172</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84131"/>
         <updated>2024-02-06T16:10:32.416Z</updated>
         <content type="html"><![CDATA[설마 아직도 굶는 다이어트 하니?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 가능해? 골반 여신 유나, 직각 어깨 제니의 비결은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84128</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84128"/>
-        <updated>2024-02-06T09:09:30.958Z</updated>
-        <content type="html"><![CDATA[자기관리 만렙은 다르다 달라.]]></content>
     </entry>
 </feed>
