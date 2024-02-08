@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-08T14:09:36.371Z</updated>
+    <updated>2024-02-08T15:10:38.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가루 클렌저가 비법? 40세 박한별의 동안 관리 노하우]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84175</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84175"/>
+        <updated>2024-02-08T15:09:55.470Z</updated>
+        <content type="html"><![CDATA[광고 없음 주의!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달바의 해피 밸런타인 이벤트 𝑮𝒍𝒐𝒘 & 𝑻𝒐𝒏𝒆 𝑼𝒑 𝒘𝒊𝒕𝒉 𝒅’𝑨𝒍𝒃𝒂]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84174</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84133"/>
         <updated>2024-02-07T03:10:28.981Z</updated>
         <content type="html"><![CDATA[다이어터 간식부터 신박한 향기템까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10일 만에 -4kg 감량? 장영란의 10일 식단 루틴]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84131</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84131"/>
-        <updated>2024-02-06T16:10:32.416Z</updated>
-        <content type="html"><![CDATA[설마 아직도 굶는 다이어트 하니?]]></content>
     </entry>
 </feed>
