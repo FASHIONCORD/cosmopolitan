@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 03:11:13 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가루 클렌저가 비법? 40세 박한별의 동안 관리 노하우]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84175</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84175</guid>
-            <pubDate>Thu, 08 Feb 2024 15:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[광고 없음 주의!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/912ba5de-cedd-4175-b289-fdb05f752a72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달바의 해피 밸런타인 이벤트 𝑮𝒍𝒐𝒘 & 𝑻𝒐𝒏𝒆 𝑼𝒑 𝒘𝒊𝒕𝒉 𝒅’𝑨𝒍𝒃𝒂]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84174</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84174</guid>
-            <pubDate>Thu, 08 Feb 2024 07:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[셀렙들이 애정하는 인생 선크림 만나러 가즈아~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/1cc81a1a-69e1-476c-8f1a-fe3c6d9c3d49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11자 복근 실화냐? 지수, 박규영의 다이어트 자극 복근]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84172</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84172</guid>
-            <pubDate>Thu, 08 Feb 2024 02:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[중요한 건 꺾이지 않는 운동 의지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/b1efb4e5-7e35-4214-a621-0e1cd8c57071.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 장은 안녕하신지? 장이 무너졌다는 신호]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84166</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84166</guid>
-            <pubDate>Wed, 07 Feb 2024 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[칙칙한 안색, 불쑥 올라온 트러블. 어쩌면 이는 장에서 보내는 시그널일지 모른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/381c43ab-d4ee-4d27-b810-f0de3000230c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설날 ‘이것’ 마시면 살찌는 걸 막아준다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84153</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84153</guid>
-            <pubDate>Wed, 07 Feb 2024 08:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터라면 무방비로 설날 맞이하지 않기! 속이 편안한 설날 체중관리법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/5bd016c6-84ba-4c87-8498-f4d11a3d6e66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이슨 에어스트레이트 스트레이트너로 금손 되기!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84150</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84150</guid>
-            <pubDate>Wed, 07 Feb 2024 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[제가 직접 써봤습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/a9a61305-ba02-44a4-9a6d-7bf0338a8d14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인센스가 대세! 눈과 코가 즐거운 향테리어 제품 모음ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84053</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84053</guid>
-            <pubDate>Wed, 07 Feb 2024 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[타오르는 향을 바라보며 시간을 보내는 ‘향멍’이 요즘 대세. 인센스에 대한 관심도가 높아진 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/9dfc3e33-1128-4087-b39e-7b5d00520e0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 품절 각! 한혜진의 찐 애정템 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84133</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84133</guid>
-            <pubDate>Wed, 07 Feb 2024 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터 간식부터 신박한 향기템까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/921bca4c-2dc0-47b7-acc9-2fa783138946.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2024-02-13T04:11:14.480Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 게 최고야! 놓치면 안될 2월의 뷰티 신상]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84195</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84195"/>
+        <updated>2024-02-13T04:10:41.694Z</updated>
+        <content type="html"><![CDATA[사랑이 샘솟는 계절, 설렘을 가득 담은 2월의 뷰티 신상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 정도면 운동 중독? 강민경, 신세경 운동에 미친 셀럽들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84183</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84183"/>
+        <updated>2024-02-13T04:10:41.699Z</updated>
+        <content type="html"><![CDATA[먹기 위해 운동한다는 그녀들이 전하는 팁!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가루 클렌저가 비법? 40세 박한별의 동안 관리 노하우]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84175</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84175"/>
+        <updated>2024-02-08T15:09:55.470Z</updated>
+        <content type="html"><![CDATA[광고 없음 주의!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달바의 해피 밸런타인 이벤트 𝑮𝒍𝒐𝒘 & 𝑻𝒐𝒏𝒆 𝑼𝒑 𝒘𝒊𝒕𝒉 𝒅’𝑨𝒍𝒃𝒂]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84174</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84174"/>
+        <updated>2024-02-08T07:10:06.899Z</updated>
+        <content type="html"><![CDATA[셀렙들이 애정하는 인생 선크림 만나러 가즈아~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11자 복근 실화냐? 지수, 박규영의 다이어트 자극 복근]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84172</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84172"/>
+        <updated>2024-02-08T02:15:03.913Z</updated>
+        <content type="html"><![CDATA[중요한 건 꺾이지 않는 운동 의지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 장은 안녕하신지? 장이 무너졌다는 신호]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84166</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84166"/>
+        <updated>2024-02-07T15:08:49.378Z</updated>
+        <content type="html"><![CDATA[칙칙한 안색, 불쑥 올라온 트러블. 어쩌면 이는 장에서 보내는 시그널일지 모른다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설날 ‘이것’ 마시면 살찌는 걸 막아준다?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84153</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84153"/>
+        <updated>2024-02-07T08:11:23.998Z</updated>
+        <content type="html"><![CDATA[다이어터라면 무방비로 설날 맞이하지 않기! 속이 편안한 설날 체중관리법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이슨 에어스트레이트 스트레이트너로 금손 되기!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84150</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84150"/>
+        <updated>2024-02-07T03:10:28.971Z</updated>
+        <content type="html"><![CDATA[제가 직접 써봤습니다.]]></content>
+    </entry>
+</feed>
