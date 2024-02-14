@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-02-14T02:16:43.323Z</updated>
+    <updated>2024-02-14T03:11:27.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박신양, 유퀴즈 출연한다고? 박신양 필모 복습하러 애기야 가자!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84203</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84203"/>
+        <updated>2024-02-14T03:10:45.908Z</updated>
+        <content type="html"><![CDATA[박신양이 내 사람이다! 내 남자다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상상도 못했어! 설현, 황희찬이 친한 사이일 줄!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84184</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/83735"/>
         <updated>2024-02-07T06:12:40.982Z</updated>
         <content type="html"><![CDATA[착한 여자는 천국에 가지만 나쁜 여자는 어디로든 간다. 베를린을 기반으로 세계 각국의 도시에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴머리 싹둑! 최근 숏컷한 여배우 김태리, 정은채]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84054</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84054"/>
-        <updated>2024-02-07T03:10:38.520Z</updated>
-        <content type="html"><![CDATA[갑자기 숏컷으로 자른 이유는?]]></content>
     </entry>
 </feed>
