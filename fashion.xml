@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-02-14T14:10:20.758Z</updated>
+    <updated>2024-02-14T15:10:00.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 떠오르는 키워드! '긱시크' 패션이란?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84070</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84070"/>
+        <updated>2024-02-14T15:09:05.806Z</updated>
+        <content type="html"><![CDATA[안과 밖이 뒤바뀐 곳에서 마주한 요즘식 긱 시크.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이른 봄맞이! 서울 거리에서 포착한 봄 스타일링]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84071</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84130"/>
         <updated>2024-02-11T15:08:51.159Z</updated>
         <content type="html"><![CDATA[여성 컨템포러리 브랜드 셀렙샵 에디션의 새로운 얼굴이 된 배우 안은진. 안은진과 셀렙샵 에디...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈호강 각! 푸른 용의 해를 빛낼 찬란한 주얼리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84077</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84077"/>
-        <updated>2024-02-10T15:07:50.855Z</updated>
-        <content type="html"><![CDATA[푸른 용의 해가 열린 2024년 갑진년. 찬란하게 빛나는 주얼리와 함께한 설날의 기원.]]></content>
     </entry>
 </feed>
