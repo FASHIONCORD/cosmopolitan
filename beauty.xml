@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-14T01:43:10.227Z</updated>
+    <updated>2024-02-14T02:16:43.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명절 고칼로리 가볍게 쳐내는 셀럽 PICK 꿀팁들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84205</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84205"/>
+        <updated>2024-02-14T02:16:10.928Z</updated>
+        <content type="html"><![CDATA[연휴 급찐살, 죄책감 제로에 도전한다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈뜨면 타! 무조건 살 빠지는 실내 바이크 다이어트]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84200</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84166"/>
         <updated>2024-02-07T15:08:49.378Z</updated>
         <content type="html"><![CDATA[칙칙한 안색, 불쑥 올라온 트러블. 어쩌면 이는 장에서 보내는 시그널일지 모른다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설날 ‘이것’ 마시면 살찌는 걸 막아준다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84153</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84153"/>
-        <updated>2024-02-07T08:11:23.998Z</updated>
-        <content type="html"><![CDATA[다이어터라면 무방비로 설날 맞이하지 않기! 속이 편안한 설날 체중관리법.]]></content>
     </entry>
 </feed>
