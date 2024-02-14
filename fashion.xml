@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-02-14T08:12:43.185Z</updated>
+    <updated>2024-02-14T09:10:00.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Forever Young! 영하고 쿨한 주얼리 스타일링 팁은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84073</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84073"/>
+        <updated>2024-02-14T09:09:08.116Z</updated>
+        <content type="html"><![CDATA[빛나는 청춘과 주얼리의 영원한 반짝임.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최고의 휴식은 집콕! 편안하고 아늑한 패션의 정석]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84074</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84168"/>
         <updated>2024-02-09T15:09:01.957Z</updated>
         <content type="html"><![CDATA[새로운 시즌, 새로운 트렌드와 함께 당신의 스타일을 업데이트하라.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옷도 잘 입는 씨찬이 형! 황희찬 사복패션 모아보기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84152</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84152"/>
-        <updated>2024-02-08T15:09:48.642Z</updated>
-        <content type="html"><![CDATA[국대 옷잘러 황희찬 사복패션 모음.]]></content>
     </entry>
 </feed>
