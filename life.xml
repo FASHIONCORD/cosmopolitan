@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-02-14T00:39:31.015Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[알고 보면 더 재밌는 ‘닥터슬럼프’, 남자주인공 박형식 TMI!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84179</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84179"/>
-        <updated>2024-02-10T15:08:54.733Z</updated>
-        <content type="html"><![CDATA[옥주현과 6촌 관계라고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ들은 ‘설 선물’도 남달라! 명절 먹거리 선물 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84176</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84176"/>
-        <updated>2024-02-09T16:11:13.820Z</updated>
-        <content type="html"><![CDATA[고급진데 맛있기까지?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이건 꼭 사야 돼! 여배우들이 빠진 면세점 1리터 위스키]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84171</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84171"/>
-        <updated>2024-02-08T08:12:06.848Z</updated>
-        <content type="html"><![CDATA[김고은부터 이지아까지?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소광 모여라! 알짜배기 청소 수납 아이템]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84056</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84056"/>
-        <updated>2024-02-08T06:13:37.182Z</updated>
-        <content type="html"><![CDATA[청소광 브라이언보다 청소에 진심인 알짜배기 청소 · 수납 아이템.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 PICK! 지금 읽기 딱 좋은 도서는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84142</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84142"/>
-        <updated>2024-02-07T17:09:02.694Z</updated>
-        <content type="html"><![CDATA[새로운 1월도, 환희에 찬 3월도 아닌 2월에 읽으면 좋은 책. 지금 우리가 들여다봐야 할 그늘...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떡국부터 나물까지! 밀키트로 명절 음식 즐기기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84132</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84132"/>
-        <updated>2024-02-07T06:12:57.944Z</updated>
-        <content type="html"><![CDATA[손맛까지 꾹꾹 담겼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감성 도파민 채워주는 압구정 로데오역 전시 핫플 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84126</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84126"/>
-        <updated>2024-02-07T04:11:35.124Z</updated>
-        <content type="html"><![CDATA[신진작가 신작들이 넘쳐나는 새해 문화생활 로드맵.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 폼 미쳤다! 혜화역 브런치 맛집 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84125</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84125"/>
-        <updated>2024-02-07T03:10:56.569Z</updated>
-        <content type="html"><![CDATA[평온한 마음까지 챙겨주는 소울 푸드 예약각 브런치 카페들.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 14 Feb 2024 01:43:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해는 다이어리가 국룰! 애플의 첫 일기 앱 '저널']]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84196</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84196</guid>
+            <pubDate>Wed, 14 Feb 2024 01:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 발표한 첫 일기 앱, ‘저널’과 함께한 신년의 상념.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/6e41b629-2ef1-49cc-80c4-78f85aa1190c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알고 보면 더 재밌는 ‘닥터슬럼프’, 남자주인공 박형식 TMI!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84179</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84179</guid>
+            <pubDate>Sat, 10 Feb 2024 15:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[옥주현과 6촌 관계라고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/841befde-4e6b-4bfc-bb51-08fb02858a34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ들은 ‘설 선물’도 남달라! 명절 먹거리 선물 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84176</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84176</guid>
+            <pubDate>Fri, 09 Feb 2024 16:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[고급진데 맛있기까지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/b52c37cf-be62-4327-9898-076ef180d0ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이건 꼭 사야 돼! 여배우들이 빠진 면세점 1리터 위스키]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84171</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84171</guid>
+            <pubDate>Thu, 08 Feb 2024 08:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[김고은부터 이지아까지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/e913f07e-d220-48c4-b18c-b4f20a0bd10a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청소광 모여라! 알짜배기 청소 수납 아이템]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84056</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84056</guid>
+            <pubDate>Thu, 08 Feb 2024 06:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[청소광 브라이언보다 청소에 진심인 알짜배기 청소 · 수납 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/9b2d8c8f-ed6c-4d0b-9b26-a20c0d46a862.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모 PICK! 지금 읽기 딱 좋은 도서는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84142</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84142</guid>
+            <pubDate>Wed, 07 Feb 2024 17:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 1월도, 환희에 찬 3월도 아닌 2월에 읽으면 좋은 책. 지금 우리가 들여다봐야 할 그늘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/d4c28b55-556a-43ca-bb79-056779058e7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떡국부터 나물까지! 밀키트로 명절 음식 즐기기]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84132</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84132</guid>
+            <pubDate>Wed, 07 Feb 2024 06:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[손맛까지 꾹꾹 담겼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/1ba484fc-fe4d-4aa7-bee6-cc5dff3ea13f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감성 도파민 채워주는 압구정 로데오역 전시 핫플 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84126</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84126</guid>
+            <pubDate>Wed, 07 Feb 2024 04:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[신진작가 신작들이 넘쳐나는 새해 문화생활 로드맵.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/e67b3350-cfb0-48d5-bb99-0f08c93aaaff.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
