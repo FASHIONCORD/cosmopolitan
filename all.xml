@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 13:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 14:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,7 +192,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84073</guid>
             <pubDate>Wed, 14 Feb 2024 09:09:08 GMT</pubDate>
             <content:encoded><![CDATA[빛나는 청춘과 주얼리의 영원한 반짝임.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/12/ee7e0682-f776-40f8-a851-f69692ad3d7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최고의 휴식은 집콕! 편안하고 아늑한 패션의 정석 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -200,7 +199,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84074</guid>
             <pubDate>Wed, 14 Feb 2024 06:12:21 GMT</pubDate>
             <content:encoded><![CDATA[집에서 보낸 달콤 쌉싸름한 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/11/cb429f27-a1d9-409e-ba5f-5cd65d04f064.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[COSMO FOCUS! 다미아니를 빛낼 뉴 앰배서더 이성경의 아우라 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -208,7 +206,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84075</guid>
             <pubDate>Wed, 14 Feb 2024 06:12:21 GMT</pubDate>
             <content:encoded><![CDATA[다미아니의 뉴 앰배서더 이성경의 눈부신 아우라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/10/8c18f4df-4f7e-4521-b949-8c47875d9058.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실용성 갑! 패션 브랜드의 파인 주얼리 컬렉션 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -216,7 +213,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84058</guid>
             <pubDate>Tue, 13 Feb 2024 15:08:16 GMT</pubDate>
             <content:encoded><![CDATA[패션적 코드와 실용성, 브랜드의 DNA로 빛나는 패션 하우스의 파인 주얼리 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/09/d8e4b997-613c-4374-a67b-26f53559fa8a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백호X오니츠카타이거 촬영 현장 습격하다?! (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -224,7 +220,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84206</guid>
             <pubDate>Mon, 12 Feb 2024 15:10:01 GMT</pubDate>
             <content:encoded><![CDATA[은밀한 대기실 투어 시작합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/07355a89-bda2-4bd0-8be4-7349f27fd418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술 마셨다고 살찌면 안되지~ 해장도 관리로 대신하는 소유의 비법 공개 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -344,6 +339,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/81248</guid>
             <pubDate>Thu, 01 Feb 2024 08:12:15 GMT</pubDate>
             <content:encoded><![CDATA[진짜 이게 돼?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/3c234ae0-bd52-44bd-9aca-af8b783fe021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -351,6 +347,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80945</guid>
             <pubDate>Tue, 23 Jan 2024 05:10:45 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/7ab35694-db81-4ae7-8fb6-66afe7b662c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -358,6 +355,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80856</guid>
             <pubDate>Wed, 10 Jan 2024 02:24:53 GMT</pubDate>
             <content:encoded><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/7d1bbb94-4806-4a55-8859-b68626749e45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -365,6 +363,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80720</guid>
             <pubDate>Tue, 19 Dec 2023 09:09:48 GMT</pubDate>
             <content:encoded><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/adda514c-2d44-4cb6-8405-950ef85db877.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -372,6 +371,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80719</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/ba4bc353-5316-48d8-a9f9-8c37ba83945d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선섹후사는 필수? 대만 2030 청춘들의 사랑법 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -379,6 +379,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80548</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[&lt;성+인물 대만편&gt;에서 귀가 달아오른 ‘썸’ 이야기들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/1472a68f-30bf-41be-b5bb-6dc2f46818f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[30대 연애 시 ‘000’만은 하지 말자? 전현무의 조언 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -386,6 +387,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80407</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/c6f55eef-72a8-47ba-831d-752dad47ac86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑보다 무서운 건 정? <환연2> 해은의 장기 연애 꿀팁 대방출! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -393,6 +395,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80369</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[그놈의 정이 뭐라고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a400fcec-3ae9-4dfc-a989-404b14aeab61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박신양, 유퀴즈 출연한다고? 박신양 필모 복습하러 애기야 가자! (코스모폴리탄 코리아 ─ 라이프)]]></title>
