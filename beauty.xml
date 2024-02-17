@@ -1,70 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 15:09:36 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[술 마셨다고 살찌면 안되지~ 해장도 관리로 대신하는 소유의 비법 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84253</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84253</guid>
-            <pubDate>Wed, 14 Feb 2024 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[붓기부터 칼로리 소모까지 쌉가능.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 계절 맞이 전! 눈여겨봐야 할 2월의 뷰티 뉴스는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84217</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84217</guid>
-            <pubDate>Wed, 14 Feb 2024 06:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 계절을 맞이하기 전 눈여겨봐야 할 2월의 뷰티 뉴스.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[명절 고칼로리 가볍게 쳐내는 셀럽 PICK 꿀팁들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84205</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84205</guid>
-            <pubDate>Wed, 14 Feb 2024 02:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[연휴 급찐살, 죄책감 제로에 도전한다!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[눈뜨면 타! 무조건 살 빠지는 실내 바이크 다이어트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84200</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84200</guid>
-            <pubDate>Wed, 14 Feb 2024 01:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[매일 한시간 쭉쭉 실내 바이크로 칼로리, 붓기 모조리 폭발시키기!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 게 최고야! 놓치면 안될 2월의 뷰티 신상]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84195</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84195</guid>
-            <pubDate>Tue, 13 Feb 2024 04:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[사랑이 샘솟는 계절, 설렘을 가득 담은 2월의 뷰티 신상.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이 정도면 운동 중독? 강민경, 신세경 운동에 미친 셀럽들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84183</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84183</guid>
-            <pubDate>Tue, 13 Feb 2024 04:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[먹기 위해 운동한다는 그녀들이 전하는 팁!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/8ae17331-374a-44f2-a2cd-61d43a35e4dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가루 클렌저가 비법? 40세 박한별의 동안 관리 노하우]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84175</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84175</guid>
-            <pubDate>Thu, 08 Feb 2024 15:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[광고 없음 주의!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/912ba5de-cedd-4175-b289-fdb05f752a72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달바의 해피 밸런타인 이벤트 𝑮𝒍𝒐𝒘 & 𝑻𝒐𝒏𝒆 𝑼𝒑 𝒘𝒊𝒕𝒉 𝒅’𝑨𝒍𝒃𝒂]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84174</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84174</guid>
-            <pubDate>Thu, 08 Feb 2024 07:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[셀렙들이 애정하는 인생 선크림 만나러 가즈아~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/1cc81a1a-69e1-476c-8f1a-fe3c6d9c3d49.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2024-02-17T16:12:03.111Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[술 마셨다고 살찌면 안되지~ 해장도 관리로 대신하는 소유의 비법 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84253</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84253"/>
+        <updated>2024-02-14T07:09:49.038Z</updated>
+        <content type="html"><![CDATA[붓기부터 칼로리 소모까지 쌉가능.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 계절 맞이 전! 눈여겨봐야 할 2월의 뷰티 뉴스는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84217</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84217"/>
+        <updated>2024-02-14T06:12:29.786Z</updated>
+        <content type="html"><![CDATA[새로운 계절을 맞이하기 전 눈여겨봐야 할 2월의 뷰티 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명절 고칼로리 가볍게 쳐내는 셀럽 PICK 꿀팁들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84205</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84205"/>
+        <updated>2024-02-14T02:16:10.928Z</updated>
+        <content type="html"><![CDATA[연휴 급찐살, 죄책감 제로에 도전한다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈뜨면 타! 무조건 살 빠지는 실내 바이크 다이어트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84200</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84200"/>
+        <updated>2024-02-14T01:42:25.358Z</updated>
+        <content type="html"><![CDATA[매일 한시간 쭉쭉 실내 바이크로 칼로리, 붓기 모조리 폭발시키기!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 게 최고야! 놓치면 안될 2월의 뷰티 신상]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84195</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84195"/>
+        <updated>2024-02-13T04:10:41.694Z</updated>
+        <content type="html"><![CDATA[사랑이 샘솟는 계절, 설렘을 가득 담은 2월의 뷰티 신상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 정도면 운동 중독? 강민경, 신세경 운동에 미친 셀럽들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84183</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84183"/>
+        <updated>2024-02-13T04:10:41.699Z</updated>
+        <content type="html"><![CDATA[먹기 위해 운동한다는 그녀들이 전하는 팁!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가루 클렌저가 비법? 40세 박한별의 동안 관리 노하우]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84175</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84175"/>
+        <updated>2024-02-08T15:09:55.470Z</updated>
+        <content type="html"><![CDATA[광고 없음 주의!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달바의 해피 밸런타인 이벤트 𝑮𝒍𝒐𝒘 & 𝑻𝒐𝒏𝒆 𝑼𝒑 𝒘𝒊𝒕𝒉 𝒅’𝑨𝒍𝒃𝒂]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84174</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84174"/>
+        <updated>2024-02-08T07:10:06.899Z</updated>
+        <content type="html"><![CDATA[셀렙들이 애정하는 인생 선크림 만나러 가즈아~.]]></content>
+    </entry>
+</feed>
