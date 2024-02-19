@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 04:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 05:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,13 @@
             <content:encoded><![CDATA[먹기 위해 운동한다는 그녀들이 전하는 팁!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[역대급 케미 예고? 아이유 x 탕웨이가 만났다! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84267</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84267</guid>
+            <pubDate>Mon, 19 Feb 2024 05:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[2월 23일만 기다려요~.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[곧 40살 실화야? <내남결> 송하윤의 붓기 관리 TIP (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/84266</link>
             <guid>https://www.cosmopolitan.co.kr/article/84266</guid>
@@ -328,13 +335,6 @@
             <content:encoded><![CDATA[타로 카드부터 퇴근길 일상까지.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[봄처럼 빛나는 둘! 오니츠카타이거와 백호가 완성한 24SS 컬렉션 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84134</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84134</guid>
-            <pubDate>Thu, 08 Feb 2024 03:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[오니츠카타이거 24SS 룩 미리보기!]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[MBTI 매칭 시 커플 확률 100%? (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81248</link>
             <guid>https://www.cosmopolitan.co.kr/article/81248</guid>
@@ -368,6 +368,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80719</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/ba4bc353-5316-48d8-a9f9-8c37ba83945d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선섹후사는 필수? 대만 2030 청춘들의 사랑법 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -375,6 +376,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80548</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[&lt;성+인물 대만편&gt;에서 귀가 달아오른 ‘썸’ 이야기들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/1472a68f-30bf-41be-b5bb-6dc2f46818f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[30대 연애 시 ‘000’만은 하지 말자? 전현무의 조언 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -382,6 +384,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80407</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/c6f55eef-72a8-47ba-831d-752dad47ac86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑보다 무서운 건 정? <환연2> 해은의 장기 연애 꿀팁 대방출! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -389,6 +392,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80369</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[그놈의 정이 뭐라고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a400fcec-3ae9-4dfc-a989-404b14aeab61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박신양, 유퀴즈 출연한다고? 박신양 필모 복습하러 애기야 가자! (코스모폴리탄 코리아 ─ 라이프)]]></title>
@@ -452,7 +456,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78352</guid>
             <pubDate>Tue, 30 Jan 2024 07:09:56 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 본 적 없는 여성 서바이벌 예능이 탄생했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/3bc6148d-c40b-4beb-85ca-07f8ad83b636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인간극장급 인생예능 최강야구 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -460,7 +463,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/78351</guid>
             <pubDate>Tue, 16 Jan 2024 06:13:23 GMT</pubDate>
             <content:encoded><![CDATA[야구를 떠난 팬들은 물론 야.알.못.들까지 야구앓이로 만들어버린 인생 예능 등장, 최강야구.  ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/26becae4-79e5-4bf0-b731-627b71e09fa4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 KBO 개막 기념! 야구 영화 속 인물 10인 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -468,7 +470,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/77379</guid>
             <pubDate>Thu, 21 Dec 2023 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[이 라인업이 우리 팀 주전 라인업이라면 얼마나 좋을까? 2023 KBO 개막 기념으로 살펴보는 야...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/64dff61a-19e1-4db3-96cd-d25bdc2d4269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -476,7 +477,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/66996</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[더 이상 못 참겠다 VS 눈치게임 중]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/ef39e916-2881-4268-9ffa-16fcc65094a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워라밸 다음은 워케이션? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -484,7 +484,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/66295</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/4174c705-a19d-4e65-8069-d57fcf7ec6f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -492,7 +491,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/65331</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/7f65d5d2-800a-4b6f-85e1-e5d1f2638452.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -500,7 +498,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/65142</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -508,7 +505,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/fdef0949-753f-4b68-8736-97965b951957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
