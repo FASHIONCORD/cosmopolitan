@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 17:10:29 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아침 10분 운동으로 복근이? 엄지원의 타바타 운동]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84273</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84273</guid>
-            <pubDate>Tue, 20 Feb 2024 06:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[필요한 건 매트와 10분. 우리도 복근을 가질 수 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/a03fea2a-96b4-4572-8b25-55be5d277247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명절 폭식러 다 모여! 한혜진·홍진경의 급빠 다이어트 팁 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84270</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84270</guid>
-            <pubDate>Tue, 20 Feb 2024 03:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[운동, 커피, 클렌즈 주스면 살이 빠진다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/ade0e151-f6c5-4d8a-a578-13756bc830df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설현이 하루 5시간씩 한다고 밝힌 MZ 운동법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84265</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84265</guid>
-            <pubDate>Mon, 19 Feb 2024 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[식단 관리 없이 이것만 한다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/cdce2831-6e90-4151-b203-5e83e1e4c2f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살크업 비켜! 한혜진, 권은비 나를 반성하게 하는 피드 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84263</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84263</guid>
-            <pubDate>Mon, 19 Feb 2024 02:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[구정 연휴는 끝났다. 남은 것은 반성 뿐.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/18cee9a3-f93d-4f8c-8f41-9804a3b59fe7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 언니 왜 안 늙어? 윤승아의 꾸안꾸 메이크업]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84254</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84254</guid>
-            <pubDate>Mon, 19 Feb 2024 02:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[비결은 여기 있었네~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/d2eca44e-14de-4c16-9214-3864337c0d95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술 마셨다고 살찌면 안되지~ 해장도 관리로 대신하는 소유의 비법 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84253</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84253</guid>
-            <pubDate>Wed, 14 Feb 2024 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[붓기부터 칼로리 소모까지 쌉가능.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/849c56d7-f3a8-4b62-bbac-e660a5d6e4f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 계절 맞이 전! 눈여겨봐야 할 2월의 뷰티 뉴스는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84217</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84217</guid>
-            <pubDate>Wed, 14 Feb 2024 06:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 계절을 맞이하기 전 눈여겨봐야 할 2월의 뷰티 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/09/0a205bee-3a6a-4bfe-abbe-512db43cdbff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명절 고칼로리 가볍게 쳐내는 셀럽 PICK 꿀팁들]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84205</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84205</guid>
-            <pubDate>Wed, 14 Feb 2024 02:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[연휴 급찐살, 죄책감 제로에 도전한다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/212d9a1a-8780-4640-b14f-7dbc4020944c.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2024-02-21T18:12:08.578Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아침 10분 운동으로 복근이? 엄지원의 타바타 운동]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84273</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84273"/>
+        <updated>2024-02-20T06:12:07.617Z</updated>
+        <content type="html"><![CDATA[필요한 건 매트와 10분. 우리도 복근을 가질 수 있다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명절 폭식러 다 모여! 한혜진·홍진경의 급빠 다이어트 팁 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84270</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84270"/>
+        <updated>2024-02-20T03:09:48.967Z</updated>
+        <content type="html"><![CDATA[운동, 커피, 클렌즈 주스면 살이 빠진다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설현이 하루 5시간씩 한다고 밝힌 MZ 운동법]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84265</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84265"/>
+        <updated>2024-02-19T06:12:55.019Z</updated>
+        <content type="html"><![CDATA[식단 관리 없이 이것만 한다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살크업 비켜! 한혜진, 권은비 나를 반성하게 하는 피드 모음]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84263</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84263"/>
+        <updated>2024-02-19T02:17:31.221Z</updated>
+        <content type="html"><![CDATA[구정 연휴는 끝났다. 남은 것은 반성 뿐.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 언니 왜 안 늙어? 윤승아의 꾸안꾸 메이크업]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84254</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84254"/>
+        <updated>2024-02-19T02:17:31.221Z</updated>
+        <content type="html"><![CDATA[비결은 여기 있었네~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[술 마셨다고 살찌면 안되지~ 해장도 관리로 대신하는 소유의 비법 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84253</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84253"/>
+        <updated>2024-02-14T07:09:49.038Z</updated>
+        <content type="html"><![CDATA[붓기부터 칼로리 소모까지 쌉가능.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 계절 맞이 전! 눈여겨봐야 할 2월의 뷰티 뉴스는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84217</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84217"/>
+        <updated>2024-02-14T06:12:29.786Z</updated>
+        <content type="html"><![CDATA[새로운 계절을 맞이하기 전 눈여겨봐야 할 2월의 뷰티 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명절 고칼로리 가볍게 쳐내는 셀럽 PICK 꿀팁들]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84205</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84205"/>
+        <updated>2024-02-14T02:16:10.928Z</updated>
+        <content type="html"><![CDATA[연휴 급찐살, 죄책감 제로에 도전한다!]]></content>
+    </entry>
+</feed>
