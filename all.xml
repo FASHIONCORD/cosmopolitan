@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 02:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 03:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -201,7 +201,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84070</guid>
             <pubDate>Wed, 14 Feb 2024 15:09:05 GMT</pubDate>
             <content:encoded><![CDATA[안과 밖이 뒤바뀐 곳에서 마주한 요즘식 긱 시크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/66284b5b-f267-49bf-bbb7-f338c47a2b03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이른 봄맞이! 서울 거리에서 포착한 봄 스타일링 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -209,7 +208,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84071</guid>
             <pubDate>Wed, 14 Feb 2024 11:08:24 GMT</pubDate>
             <content:encoded><![CDATA[이른 봄옷을 입고 나선 오후, 시간이 멈춘 듯한 서울의 거리에서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/c4aa19f1-0e0e-4221-a9ff-f4723cdbc6f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Forever Young! 영하고 쿨한 주얼리 스타일링 팁은? (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -217,7 +215,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84073</guid>
             <pubDate>Wed, 14 Feb 2024 09:09:08 GMT</pubDate>
             <content:encoded><![CDATA[빛나는 청춘과 주얼리의 영원한 반짝임.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/12/ee7e0682-f776-40f8-a851-f69692ad3d7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최고의 휴식은 집콕! 편안하고 아늑한 패션의 정석 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -225,7 +222,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84074</guid>
             <pubDate>Wed, 14 Feb 2024 06:12:21 GMT</pubDate>
             <content:encoded><![CDATA[집에서 보낸 달콤 쌉싸름한 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/11/cb429f27-a1d9-409e-ba5f-5cd65d04f064.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아침 10분 운동으로 복근이? 엄지원의 타바타 운동 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -284,6 +280,20 @@
             <content:encoded><![CDATA[연휴 급찐살, 죄책감 제로에 도전한다!]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[확신의 연예인 상! 엄마빠 꼭 닮은 스타 2세 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84364</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84364</guid>
+            <pubDate>Thu, 22 Feb 2024 03:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[이 집 DNA 미쳤다!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI 유명 유튜버 정체가 조정석?! 셀렙의 AI커버 열풍 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84361</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84361</guid>
+            <pubDate>Thu, 22 Feb 2024 03:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[요즘은 ‘AI 커버’도 ‘커버’한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[큰 거 온다! 티모시 샬라메·마룬5 등 내한 예정 셀럽 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/84334</link>
             <guid>https://www.cosmopolitan.co.kr/article/84334</guid>
@@ -326,25 +336,12 @@
             <content:encoded><![CDATA[운동이 체질인 배우들?!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[못난이 채소의 재발견! 어글리어스 최현주 대표가 말하는 핵심 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84080</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84080</guid>
-            <pubDate>Wed, 14 Feb 2024 09:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[생김새 때문에 버려질 뻔한 못난이 채소가 알고 보니 유통업계 게임 체인저라면? 어글리어스 최...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백호X오니츠카타이거 촬영 현장 습격하다?! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84206</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84206</guid>
-            <pubDate>Mon, 12 Feb 2024 15:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[은밀한 대기실 투어 시작합니다.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[MBTI 매칭 시 커플 확률 100%? (코스모폴리탄 코리아 ─ 러브)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/81248</link>
             <guid>https://www.cosmopolitan.co.kr/article/81248</guid>
             <pubDate>Thu, 01 Feb 2024 08:12:15 GMT</pubDate>
             <content:encoded><![CDATA[진짜 이게 돼?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/3c234ae0-bd52-44bd-9aca-af8b783fe021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -352,6 +349,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80945</guid>
             <pubDate>Tue, 23 Jan 2024 05:10:45 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/7ab35694-db81-4ae7-8fb6-66afe7b662c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -359,6 +357,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80856</guid>
             <pubDate>Wed, 10 Jan 2024 02:24:53 GMT</pubDate>
             <content:encoded><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/7d1bbb94-4806-4a55-8859-b68626749e45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -366,6 +365,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80720</guid>
             <pubDate>Tue, 19 Dec 2023 09:09:48 GMT</pubDate>
             <content:encoded><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/adda514c-2d44-4cb6-8405-950ef85db877.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -373,6 +373,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80719</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/ba4bc353-5316-48d8-a9f9-8c37ba83945d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선섹후사는 필수? 대만 2030 청춘들의 사랑법 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -380,6 +381,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80548</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[&lt;성+인물 대만편&gt;에서 귀가 달아오른 ‘썸’ 이야기들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/1472a68f-30bf-41be-b5bb-6dc2f46818f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[30대 연애 시 ‘000’만은 하지 말자? 전현무의 조언 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -387,6 +389,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80407</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/c6f55eef-72a8-47ba-831d-752dad47ac86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑보다 무서운 건 정? <환연2> 해은의 장기 연애 꿀팁 대방출! (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -394,6 +397,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/80369</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
             <content:encoded><![CDATA[그놈의 정이 뭐라고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a400fcec-3ae9-4dfc-a989-404b14aeab61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인스타각 제대로 나오는 도서관 투어! (코스모폴리탄 코리아 ─ 라이프)]]></title>
