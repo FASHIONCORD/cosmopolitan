@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-02-22T00:38:44.237Z</updated>
+    <updated>2024-02-22T01:41:02.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[큰 거 온다! 티모시 샬라메·마룬5 등 내한 예정 셀럽 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84334</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84334"/>
+        <updated>2024-02-22T01:40:34.912Z</updated>
+        <content type="html"><![CDATA[실물 영접은 어디서 할 수 있나요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청순 보스 라이즈  뮤비 속 여주의 정체는?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84278</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84206"/>
         <updated>2024-02-14T06:12:37.075Z</updated>
         <content type="html"><![CDATA[은밀한 대기실 투어 시작합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신양, 유퀴즈 출연한다고? 박신양 필모 복습하러 애기야 가자!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84203</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84203"/>
-        <updated>2024-02-14T03:10:45.908Z</updated>
-        <content type="html"><![CDATA[박신양이 내 사람이다! 내 남자다!]]></content>
     </entry>
 </feed>
