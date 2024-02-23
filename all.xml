@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 11:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 12:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84205</guid>
             <pubDate>Wed, 14 Feb 2024 02:16:10 GMT</pubDate>
             <content:encoded><![CDATA[연휴 급찐살, 죄책감 제로에 도전한다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/212d9a1a-8780-4640-b14f-7dbc4020944c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드디어 떴다! 티모시 샬라메, 젠데이아가 유퀴즈에 나온다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
