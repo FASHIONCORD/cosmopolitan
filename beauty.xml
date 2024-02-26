@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-26T09:10:30.913Z</updated>
+    <updated>2024-02-26T10:10:48.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존예 본좌 한예슬의 자기 관리 노하우 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84333</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84333"/>
+        <updated>2024-02-26T10:10:15.331Z</updated>
+        <content type="html"><![CDATA[유지 식단에 추천템까지, 예뻐지는 방법 여기 다 있네~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어트 만렙 한혜진의 대체당 간식 평가?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84332</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84253"/>
         <updated>2024-02-14T07:09:49.038Z</updated>
         <content type="html"><![CDATA[붓기부터 칼로리 소모까지 쌉가능.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 계절 맞이 전! 눈여겨봐야 할 2월의 뷰티 뉴스는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84217</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84217"/>
-        <updated>2024-02-14T06:12:29.786Z</updated>
-        <content type="html"><![CDATA[새로운 계절을 맞이하기 전 눈여겨봐야 할 2월의 뷰티 뉴스.]]></content>
     </entry>
 </feed>
