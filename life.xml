@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-02-26T10:10:48.625Z</updated>
+    <updated>2024-02-26T11:08:14.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시랑 영국 여행 각? ‘웡카’ 실제 촬영지 총정리]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84367</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84367"/>
+        <updated>2024-02-26T11:08:05.272Z</updated>
+        <content type="html"><![CDATA[초콜릿 하나 사서 떠나볼까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 4대 김볶? 김치볶음밥 핵맛탱 로드맵]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84359</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84204"/>
         <updated>2024-02-20T03:10:43.434Z</updated>
         <content type="html"><![CDATA[설 연휴부터 2월 내내 축복이 끝이 없네~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신양, 유퀴즈 출연한다고? 박신양 필모 복습하러 애기야 가자!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84203</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84203"/>
-        <updated>2024-02-15T03:11:39.765Z</updated>
-        <content type="html"><![CDATA[박신양이 내 사람이다! 내 남자다!]]></content>
     </entry>
 </feed>
