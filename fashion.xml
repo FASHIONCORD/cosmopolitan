@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 13:09:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[알렉산더 맥퀸의 새로운 브랜드 캠페인 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84279</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84279</guid>
-            <pubDate>Wed, 21 Feb 2024 10:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 크리에티브 디렉터 션 맥기르와 함께한 알렉산더 맥퀸의 뉴 챕터.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/ca93412a-add0-4de6-8d9d-1569f956a3f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 하와이 여행간 절친 권은비, 김민주 바캉스룩!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84276</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84276</guid>
-            <pubDate>Wed, 21 Feb 2024 10:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[해변 시밀러룩으로 포착한 찐친 여행 모멘트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/e6d9dc70-4aee-40df-a2f1-2341ed1874da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 매장 안 부러워! 설현, 이청아의 운동화 사랑]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84272</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84272</guid>
-            <pubDate>Mon, 19 Feb 2024 06:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[안방, 선반 말고 옷방 진열장에 모신 내 나이키!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/2ee6cde7-bf25-4724-9885-7f53da28401f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 정도는 돼야 진짜 민폐?! 시선 스틸 하객룩 모음.ZIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84271</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84271</guid>
-            <pubDate>Thu, 15 Feb 2024 15:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[신부보다 시선을 받는 게 민폐라면 민폐?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/09e66153-0ab8-4f09-b6e9-12919e6f80d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 떠오르는 키워드! '긱시크' 패션이란?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84070</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84070</guid>
-            <pubDate>Wed, 14 Feb 2024 15:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[안과 밖이 뒤바뀐 곳에서 마주한 요즘식 긱 시크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/66284b5b-f267-49bf-bbb7-f338c47a2b03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이른 봄맞이! 서울 거리에서 포착한 봄 스타일링]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84071</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84071</guid>
-            <pubDate>Wed, 14 Feb 2024 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[이른 봄옷을 입고 나선 오후, 시간이 멈춘 듯한 서울의 거리에서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/c4aa19f1-0e0e-4221-a9ff-f4723cdbc6f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forever Young! 영하고 쿨한 주얼리 스타일링 팁은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84073</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84073</guid>
-            <pubDate>Wed, 14 Feb 2024 09:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[빛나는 청춘과 주얼리의 영원한 반짝임.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/12/ee7e0682-f776-40f8-a851-f69692ad3d7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최고의 휴식은 집콕! 편안하고 아늑한 패션의 정석]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84074</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84074</guid>
-            <pubDate>Wed, 14 Feb 2024 06:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 보낸 달콤 쌉싸름한 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/11/cb429f27-a1d9-409e-ba5f-5cd65d04f064.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/fashion</id>
+    <title>코스모폴리탄 코리아 ─ 패션</title>
+    <updated>2024-02-26T14:10:23.190Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알렉산더 맥퀸의 새로운 브랜드 캠페인 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84279</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84279"/>
+        <updated>2024-02-21T10:10:14.709Z</updated>
+        <content type="html"><![CDATA[새로운 크리에티브 디렉터 션 맥기르와 함께한 알렉산더 맥퀸의 뉴 챕터.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[함께 하와이 여행간 절친 권은비, 김민주 바캉스룩!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84276</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84276"/>
+        <updated>2024-02-21T10:10:14.711Z</updated>
+        <content type="html"><![CDATA[해변 시밀러룩으로 포착한 찐친 여행 모멘트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 매장 안 부러워! 설현, 이청아의 운동화 사랑]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84272</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84272"/>
+        <updated>2024-02-19T06:12:48.270Z</updated>
+        <content type="html"><![CDATA[안방, 선반 말고 옷방 진열장에 모신 내 나이키!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 정도는 돼야 진짜 민폐?! 시선 스틸 하객룩 모음.ZIP]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84271</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84271"/>
+        <updated>2024-02-15T15:09:12.590Z</updated>
+        <content type="html"><![CDATA[신부보다 시선을 받는 게 민폐라면 민폐?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 떠오르는 키워드! '긱시크' 패션이란?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84070</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84070"/>
+        <updated>2024-02-14T15:09:05.806Z</updated>
+        <content type="html"><![CDATA[안과 밖이 뒤바뀐 곳에서 마주한 요즘식 긱 시크.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이른 봄맞이! 서울 거리에서 포착한 봄 스타일링]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84071</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84071"/>
+        <updated>2024-02-14T11:08:24.051Z</updated>
+        <content type="html"><![CDATA[이른 봄옷을 입고 나선 오후, 시간이 멈춘 듯한 서울의 거리에서.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forever Young! 영하고 쿨한 주얼리 스타일링 팁은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84073</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84073"/>
+        <updated>2024-02-14T09:09:08.116Z</updated>
+        <content type="html"><![CDATA[빛나는 청춘과 주얼리의 영원한 반짝임.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 휴식은 집콕! 편안하고 아늑한 패션의 정석]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84074</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84074"/>
+        <updated>2024-02-14T06:12:21.109Z</updated>
+        <content type="html"><![CDATA[집에서 보낸 달콤 쌉싸름한 하루.]]></content>
+    </entry>
+</feed>
