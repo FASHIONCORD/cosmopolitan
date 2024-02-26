@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 01:44:59 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[드디어 떴다! 티모시 샬라메, 젠데이아가 유퀴즈에 나온다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84399</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84399</guid>
-            <pubDate>Fri, 23 Feb 2024 06:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[21일 본방사수 각~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/21/a38fd999-f095-47fe-b978-df7038af52bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번엔 체대생 싸움이다! <대학체전: 소년선수촌> 관전포인트]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84379</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84379</guid>
-            <pubDate>Fri, 23 Feb 2024 00:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;피지컬:100&gt;, &lt;강철부대&gt; 거기에 &lt;스우파&gt;를 더해 꿀잼이라고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/017f9171-073a-467e-9ded-10155594915f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확신의 연예인 상! 엄마빠 꼭 닮은 스타 2세]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84364</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84364</guid>
-            <pubDate>Thu, 22 Feb 2024 03:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[이 집 DNA 미쳤다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/d22c146b-80c8-429c-bad7-35e08720dd52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 유명 유튜버 정체가 조정석?! 셀렙의 AI커버 열풍]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84361</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84361</guid>
-            <pubDate>Thu, 22 Feb 2024 03:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[요즘은 ‘AI 커버’도 ‘커버’한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/63c59b55-67d1-4c71-a2ab-4763e9106567.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큰 거 온다! 티모시 샬라메·마룬5 등 내한 예정 셀럽 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84334</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84334</guid>
-            <pubDate>Thu, 22 Feb 2024 01:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[실물 영접은 어디서 할 수 있나요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/c5678b58-864d-4015-b66d-91ec59569c6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청순 보스 라이즈  뮤비 속 여주의 정체는?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84278</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84278</guid>
-            <pubDate>Wed, 21 Feb 2024 12:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[단발 머리가 잘 어울리는 그녀는 누구?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/3e500c45-8223-47c4-b067-211a7c4759a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨겨진 끼 폭발? 연예계와 유튜브에 진출한 재벌 자녀 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84269</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84269</guid>
-            <pubDate>Tue, 20 Feb 2024 09:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹부터 인턴 활동까지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/b428a046-7c6f-482e-b19f-e745aa6fb844.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 얘 좋아하네…'첫사랑 재질' 성찬, 신유 극락 비주얼 모음집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84268</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84268</guid>
-            <pubDate>Tue, 20 Feb 2024 03:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[할머니 지갑 속에서 발견한 아련한 첫사랑상이 이런 것?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/b3e3d20b-8d74-4086-8cce-a4d545d9e905.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2024-02-26T02:20:13.542Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드디어 떴다! 티모시 샬라메, 젠데이아가 유퀴즈에 나온다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84399</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84399"/>
+        <updated>2024-02-23T06:13:06.741Z</updated>
+        <content type="html"><![CDATA[21일 본방사수 각~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번엔 체대생 싸움이다! <대학체전: 소년선수촌> 관전포인트]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84379</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84379"/>
+        <updated>2024-02-23T00:37:44.515Z</updated>
+        <content type="html"><![CDATA[&lt;피지컬:100&gt;, &lt;강철부대&gt; 거기에 &lt;스우파&gt;를 더해 꿀잼이라고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확신의 연예인 상! 엄마빠 꼭 닮은 스타 2세]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84364</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84364"/>
+        <updated>2024-02-22T03:10:40.549Z</updated>
+        <content type="html"><![CDATA[이 집 DNA 미쳤다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 유명 유튜버 정체가 조정석?! 셀렙의 AI커버 열풍]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84361</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84361"/>
+        <updated>2024-02-22T03:10:40.556Z</updated>
+        <content type="html"><![CDATA[요즘은 ‘AI 커버’도 ‘커버’한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큰 거 온다! 티모시 샬라메·마룬5 등 내한 예정 셀럽 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84334</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84334"/>
+        <updated>2024-02-22T01:40:34.912Z</updated>
+        <content type="html"><![CDATA[실물 영접은 어디서 할 수 있나요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청순 보스 라이즈  뮤비 속 여주의 정체는?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84278</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84278"/>
+        <updated>2024-02-21T12:15:31.965Z</updated>
+        <content type="html"><![CDATA[단발 머리가 잘 어울리는 그녀는 누구?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숨겨진 끼 폭발? 연예계와 유튜브에 진출한 재벌 자녀 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84269</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84269"/>
+        <updated>2024-02-20T09:09:45.226Z</updated>
+        <content type="html"><![CDATA[걸그룹부터 인턴 활동까지?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나 얘 좋아하네…'첫사랑 재질' 성찬, 신유 극락 비주얼 모음집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84268</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84268"/>
+        <updated>2024-02-20T03:10:27.313Z</updated>
+        <content type="html"><![CDATA[할머니 지갑 속에서 발견한 아련한 첫사랑상이 이런 것?]]></content>
+    </entry>
+</feed>
