@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-02-27T11:08:33.537Z</updated>
+    <updated>2024-02-27T12:16:15.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 시간만에 0.5kg 감량? 전현무 바프 도전기]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84368</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84368"/>
+        <updated>2024-02-27T12:15:27.888Z</updated>
+        <content type="html"><![CDATA[이런 운동법이 있었어?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모닝 커피 대신 마테차? 톱모델은 이렇게 관리한다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84363</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84363"/>
+        <updated>2024-02-27T12:15:27.902Z</updated>
+        <content type="html"><![CDATA[신년 다이어트에 돌입한 한혜진, 지현정, 요요, 차수민. 2주 동안 뭘 먹었을까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[33살 맞아? 안소희의 데이 & 나이트 케어 루틴 대공개!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84335</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84265"/>
         <updated>2024-02-19T06:12:55.019Z</updated>
         <content type="html"><![CDATA[식단 관리 없이 이것만 한다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살크업 비켜! 한혜진, 권은비 나를 반성하게 하는 피드 모음]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84263</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84263"/>
-        <updated>2024-02-19T02:17:31.221Z</updated>
-        <content type="html"><![CDATA[구정 연휴는 끝났다. 남은 것은 반성 뿐.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 언니 왜 안 늙어? 윤승아의 꾸안꾸 메이크업]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84254</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84254"/>
-        <updated>2024-02-19T02:17:31.221Z</updated>
-        <content type="html"><![CDATA[비결은 여기 있었네~.]]></content>
     </entry>
 </feed>
