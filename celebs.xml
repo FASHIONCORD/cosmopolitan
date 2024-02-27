@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-02-27T05:12:04.161Z</updated>
+    <updated>2024-02-27T06:12:11.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벌써부터 흥행 질주? 영화 파묘 관전 포인트 3.]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84437</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84437"/>
+        <updated>2024-02-27T06:11:42.470Z</updated>
+        <content type="html"><![CDATA[이제 모두 ‘파’며들 시간~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아나운서 강지영은 백발이 되어도 토크쇼를 하고싶다]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84430</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84364"/>
         <updated>2024-02-22T03:10:40.549Z</updated>
         <content type="html"><![CDATA[이 집 DNA 미쳤다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 유명 유튜버 정체가 조정석?! 셀렙의 AI커버 열풍]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84361</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84361"/>
-        <updated>2024-02-22T03:10:40.556Z</updated>
-        <content type="html"><![CDATA[요즘은 ‘AI 커버’도 ‘커버’한다.]]></content>
     </entry>
 </feed>
