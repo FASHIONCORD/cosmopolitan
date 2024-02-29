@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-02-29T15:10:07.209Z</updated>
+    <updated>2024-02-29T16:11:27.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찐친 셀렙들이 여행 가서 인증샷 건지는 법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84394</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84394"/>
+        <updated>2024-02-29T16:10:47.048Z</updated>
+        <content type="html"><![CDATA[우정 사진은 이렇게 찍는 것!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생파에 무대의상을? 소녀시대의 이색 드레스코드]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84336</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84271"/>
         <updated>2024-02-15T15:09:12.590Z</updated>
         <content type="html"><![CDATA[신부보다 시선을 받는 게 민폐라면 민폐?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 떠오르는 키워드! '긱시크' 패션이란?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84070</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84070"/>
-        <updated>2024-02-14T15:09:05.806Z</updated>
-        <content type="html"><![CDATA[안과 밖이 뒤바뀐 곳에서 마주한 요즘식 긱 시크.]]></content>
     </entry>
 </feed>

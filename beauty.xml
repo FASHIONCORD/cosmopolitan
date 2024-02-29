@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 15:10:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한 시간만에 0.5kg 감량? 전현무 바프 도전기]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84368</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84368</guid>
-            <pubDate>Tue, 27 Feb 2024 12:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[이런 운동법이 있었어?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/718a5b0f-13e7-440e-b608-e5fdd64024f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모닝 커피 대신 마테차? 톱모델은 이렇게 관리한다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84363</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84363</guid>
-            <pubDate>Tue, 27 Feb 2024 12:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[신년 다이어트에 돌입한 한혜진, 지현정, 요요, 차수민. 2주 동안 뭘 먹었을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/b76ed4b8-1f6e-44a0-94ff-a883510e4457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[33살 맞아? 안소희의 데이 & 나이트 케어 루틴 대공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84335</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84335</guid>
-            <pubDate>Tue, 27 Feb 2024 11:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[동안 비결은 바로 이것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/8802f353-78fa-4f58-868a-0d30fff353a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존예 본좌 한예슬의 자기 관리 노하우 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84333</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84333</guid>
-            <pubDate>Mon, 26 Feb 2024 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[유지 식단에 추천템까지, 예뻐지는 방법 여기 다 있네~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/bb0f2d14-172e-4758-8a21-be4fac1ff0de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 만렙 한혜진의 대체당 간식 평가?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84332</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84332</guid>
-            <pubDate>Mon, 26 Feb 2024 08:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터도 맘 놓고 드시길!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/c0704f36-d353-4d02-b343-8d4b16177d9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아침 10분 운동으로 복근이? 엄지원의 타바타 운동]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84273</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84273</guid>
-            <pubDate>Tue, 20 Feb 2024 06:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[필요한 건 매트와 10분. 우리도 복근을 가질 수 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/a03fea2a-96b4-4572-8b25-55be5d277247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명절 폭식러 다 모여! 한혜진·홍진경의 급빠 다이어트 팁 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84270</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84270</guid>
-            <pubDate>Tue, 20 Feb 2024 03:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[운동, 커피, 클렌즈 주스면 살이 빠진다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/ade0e151-f6c5-4d8a-a578-13756bc830df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설현이 하루 5시간씩 한다고 밝힌 MZ 운동법]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84265</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84265</guid>
-            <pubDate>Mon, 19 Feb 2024 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[식단 관리 없이 이것만 한다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/cdce2831-6e90-4151-b203-5e83e1e4c2f2.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2024-02-29T16:11:27.239Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2주면 배가 쏙 들어간다는 제이제이표 복근 운동 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84474</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84474"/>
+        <updated>2024-02-29T16:10:55.880Z</updated>
+        <content type="html"><![CDATA[납작 배 렛츠 고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 시간만에 0.5kg 감량? 전현무 바프 도전기]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84368</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84368"/>
+        <updated>2024-02-27T12:15:27.888Z</updated>
+        <content type="html"><![CDATA[이런 운동법이 있었어?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모닝 커피 대신 마테차? 톱모델은 이렇게 관리한다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84363</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84363"/>
+        <updated>2024-02-27T12:15:27.902Z</updated>
+        <content type="html"><![CDATA[신년 다이어트에 돌입한 한혜진, 지현정, 요요, 차수민. 2주 동안 뭘 먹었을까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[33살 맞아? 안소희의 데이 & 나이트 케어 루틴 대공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84335</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84335"/>
+        <updated>2024-02-27T11:07:45.326Z</updated>
+        <content type="html"><![CDATA[동안 비결은 바로 이것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존예 본좌 한예슬의 자기 관리 노하우 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84333</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84333"/>
+        <updated>2024-02-26T10:10:15.331Z</updated>
+        <content type="html"><![CDATA[유지 식단에 추천템까지, 예뻐지는 방법 여기 다 있네~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이어트 만렙 한혜진의 대체당 간식 평가?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84332</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84332"/>
+        <updated>2024-02-26T08:12:14.739Z</updated>
+        <content type="html"><![CDATA[다이어터도 맘 놓고 드시길!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아침 10분 운동으로 복근이? 엄지원의 타바타 운동]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84273</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84273"/>
+        <updated>2024-02-20T06:12:07.617Z</updated>
+        <content type="html"><![CDATA[필요한 건 매트와 10분. 우리도 복근을 가질 수 있다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명절 폭식러 다 모여! 한혜진·홍진경의 급빠 다이어트 팁 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84270</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84270"/>
+        <updated>2024-02-20T03:09:48.967Z</updated>
+        <content type="html"><![CDATA[운동, 커피, 클렌즈 주스면 살이 빠진다고?]]></content>
+    </entry>
+</feed>
