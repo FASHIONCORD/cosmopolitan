@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-03-01T14:09:47.164Z</updated>
+    <updated>2024-03-01T15:10:32.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[40대 맞아? 관리보다 습관, 한가인 동안 비결 5가지]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84508</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84508"/>
+        <updated>2024-03-01T15:09:54.807Z</updated>
+        <content type="html"><![CDATA[평생 먹은 라면이 10봉지가 안 된다는데?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[복근은 살리고 부기는 빼고, 유이의 절식 식단]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84480</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84332"/>
         <updated>2024-02-26T08:12:14.739Z</updated>
         <content type="html"><![CDATA[다이어터도 맘 놓고 드시길!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침 10분 운동으로 복근이? 엄지원의 타바타 운동]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84273</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84273"/>
-        <updated>2024-02-20T06:12:07.617Z</updated>
-        <content type="html"><![CDATA[필요한 건 매트와 10분. 우리도 복근을 가질 수 있다!]]></content>
     </entry>
 </feed>
