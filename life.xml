@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-03-02T21:08:24.942Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후쿠오카 블랙라떼 상륙! K-패치 중인 해외 유명 카페 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84369</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84369"/>
-        <updated>2024-02-27T12:16:06.211Z</updated>
-        <content type="html"><![CDATA[커피 전쟁이 시작됐다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시랑 영국 여행 각? ‘웡카’ 실제 촬영지 총정리]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84367</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84367"/>
-        <updated>2024-02-26T11:08:05.272Z</updated>
-        <content type="html"><![CDATA[초콜릿 하나 사서 떠나볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 4대 김볶? 김치볶음밥 핵맛탱 로드맵]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84359</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84359"/>
-        <updated>2024-02-26T10:10:40.356Z</updated>
-        <content type="html"><![CDATA[1일 1김볶 가능하게 만드는 글로벌한 마력의 김볶집들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과자 러버 비상! 봄 딸기 과자 맛도리 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84358</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84358"/>
-        <updated>2024-02-26T08:12:39.322Z</updated>
-        <content type="html"><![CDATA[제철 음식(?)은 제철에 먹어줘야 합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타각 제대로 나오는 도서관 투어!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84294</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84294"/>
-        <updated>2024-02-20T08:12:21.895Z</updated>
-        <content type="html"><![CDATA[SNS에 꼭 남기고 싶은 특별한 도서관 추천해드림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘웡카’가 다녀갔나? 마술 같은 맛의 초콜릿 전문점 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84264</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84264"/>
-        <updated>2024-02-20T07:10:12.590Z</updated>
-        <content type="html"><![CDATA[밸런타인데이 기념, 여기 어때?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알뜰살뜰 핵심만 쏙쏙 담은 2월의 라이프스타일 뉴스!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84237</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84237"/>
-        <updated>2024-02-20T06:13:00.866Z</updated>
-        <content type="html"><![CDATA[알뜰살뜰 행운만 쏙쏙 담아 가도록! 2월의 라이프스타일 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롤스로이스부터 에스턴마틴까지? 나만의 드림 카 4]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84232</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84232"/>
-        <updated>2024-02-20T03:10:43.422Z</updated>
-        <content type="html"><![CDATA[‘나만의 드림 카를 타고 어디든 달릴 수 있다면?’ 코스모 피처 에디터들이 펼친 엉뚱하고도 ...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 02 Mar 2024 22:09:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후쿠오카 블랙라떼 상륙! K-패치 중인 해외 유명 카페 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84369</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84369</guid>
+            <pubDate>Tue, 27 Feb 2024 12:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[커피 전쟁이 시작됐다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/48b812a6-8fc9-4e05-8d72-df1e93eda00d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티모시랑 영국 여행 각? ‘웡카’ 실제 촬영지 총정리]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84367</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84367</guid>
+            <pubDate>Mon, 26 Feb 2024 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[초콜릿 하나 사서 떠나볼까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/a7f0fb48-268b-4621-94db-a8ecddde4390.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 4대 김볶? 김치볶음밥 핵맛탱 로드맵]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84359</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84359</guid>
+            <pubDate>Mon, 26 Feb 2024 10:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[1일 1김볶 가능하게 만드는 글로벌한 마력의 김볶집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/d3c7dccd-5a6d-404b-8c25-6c26b1239565.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과자 러버 비상! 봄 딸기 과자 맛도리 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84358</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84358</guid>
+            <pubDate>Mon, 26 Feb 2024 08:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[제철 음식(?)은 제철에 먹어줘야 합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/9c4eda37-e311-47a3-aa60-267160633b49.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타각 제대로 나오는 도서관 투어!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84294</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84294</guid>
+            <pubDate>Tue, 20 Feb 2024 08:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[SNS에 꼭 남기고 싶은 특별한 도서관 추천해드림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/4df87619-bd1d-4f08-aa29-3327184f5774.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘웡카’가 다녀갔나? 마술 같은 맛의 초콜릿 전문점 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84264</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84264</guid>
+            <pubDate>Tue, 20 Feb 2024 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[밸런타인데이 기념, 여기 어때?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/d0feb37a-c093-43fb-831c-cceead51e914.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알뜰살뜰 핵심만 쏙쏙 담은 2월의 라이프스타일 뉴스!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84237</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84237</guid>
+            <pubDate>Tue, 20 Feb 2024 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[알뜰살뜰 행운만 쏙쏙 담아 가도록! 2월의 라이프스타일 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/11/b4619e1d-daa1-4e3e-9478-fed72a069753.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롤스로이스부터 에스턴마틴까지? 나만의 드림 카 4]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84232</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84232</guid>
+            <pubDate>Tue, 20 Feb 2024 03:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[‘나만의 드림 카를 타고 어디든 달릴 수 있다면?’ 코스모 피처 에디터들이 펼친 엉뚱하고도 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/88072a07-1c5f-424c-8426-9262ce185161.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
