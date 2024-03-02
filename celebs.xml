@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 22:09:04 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[어쩌다 프로불참러? 최민식이 무대 인사 중 찾은 톱배우 3인]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84472</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84472</guid>
-            <pubDate>Fri, 01 Mar 2024 11:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[한소희? 강동원? 차은우?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/4cc767dc-4fcf-4e92-a712-d96620cc9639.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민이 10위? 전세계 축구 선수 외모 TOP10]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84469</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84469</guid>
-            <pubDate>Wed, 28 Feb 2024 05:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국은 실력과 인성에, 잘생김까지 갖춘 손흥민 보유국.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/43f6c836-d454-4d61-8ce0-f826dd027edd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공명♥김도연 열애설! 처음 만난 곳은 000?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84463</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84463</guid>
-            <pubDate>Wed, 28 Feb 2024 00:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[살짝 설렜어 난.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/6dd53f80-0f77-4e97-ba9b-b374836ba36b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써부터 흥행 질주? 영화 파묘 관전 포인트 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84437</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84437</guid>
-            <pubDate>Tue, 27 Feb 2024 06:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[이제 모두 ‘파’며들 시간~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/5890c290-3f93-439b-9f9d-3efc0877acd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아나운서 강지영은 백발이 되어도 토크쇼를 하고싶다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84430</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84430</guid>
-            <pubDate>Mon, 26 Feb 2024 10:10:24 GMT</pubDate>
-            <content:encoded><![CDATA['jtbc 뉴스룸'의 주말 앵커, 강지영은 처음부터 지금까지 전형성을 탈피해왔고, 그 반골 기질은...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/1609c3c6-c702-45d0-bab3-086b0f4ac5d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한혜진 다이어트할 때 ‘이것’으로 스트레스 푼다?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84404</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84404</guid>
-            <pubDate>Mon, 26 Feb 2024 08:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[2주 만에 체지방 9kg대 만든 그녀의 비법]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/22/79b051a5-8da0-47ed-bf66-1324744eacfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소문난 셀고라는 <내남결> 나인우 SNS 근황]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84403</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84403</guid>
-            <pubDate>Mon, 26 Feb 2024 08:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴 이렇게 쓸 거면 제가 압수합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/22/7c3757ab-7ab0-4fa4-be12-32b7694e56d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 <고려 거란 전쟁> '양규'로 터닝 포인트를 맞은 배우 지승현, 카리스마 넘치는 화보 공개!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84370</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84370</guid>
-            <pubDate>Mon, 26 Feb 2024 03:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[지난한 시간과 몇 번의 변곡점을 지나 드라마 &lt;고려 거란 전쟁&gt;의 ‘양규’로 궤도에 오르기까지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/22/cee0c173-99dd-4129-85b8-11115402fabd.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2024-03-02T23:09:38.959Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어쩌다 프로불참러? 최민식이 무대 인사 중 찾은 톱배우 3인]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84472</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84472"/>
+        <updated>2024-03-01T11:07:56.754Z</updated>
+        <content type="html"><![CDATA[한소희? 강동원? 차은우?!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손흥민이 10위? 전세계 축구 선수 외모 TOP10]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84469</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84469"/>
+        <updated>2024-02-28T05:10:29.334Z</updated>
+        <content type="html"><![CDATA[대한민국은 실력과 인성에, 잘생김까지 갖춘 손흥민 보유국.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공명♥김도연 열애설! 처음 만난 곳은 000?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84463</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84463"/>
+        <updated>2024-02-28T00:37:45.064Z</updated>
+        <content type="html"><![CDATA[살짝 설렜어 난.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벌써부터 흥행 질주? 영화 파묘 관전 포인트 3]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84437</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84437"/>
+        <updated>2024-02-27T06:11:42.470Z</updated>
+        <content type="html"><![CDATA[이제 모두 ‘파’며들 시간~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아나운서 강지영은 백발이 되어도 토크쇼를 하고싶다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84430</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84430"/>
+        <updated>2024-02-26T10:10:24.032Z</updated>
+        <content type="html"><![CDATA['jtbc 뉴스룸'의 주말 앵커, 강지영은 처음부터 지금까지 전형성을 탈피해왔고, 그 반골 기질은...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진 다이어트할 때 ‘이것’으로 스트레스 푼다?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84404</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84404"/>
+        <updated>2024-02-26T08:12:22.288Z</updated>
+        <content type="html"><![CDATA[2주 만에 체지방 9kg대 만든 그녀의 비법]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소문난 셀고라는 <내남결> 나인우 SNS 근황]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84403</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84403"/>
+        <updated>2024-02-26T08:12:22.289Z</updated>
+        <content type="html"><![CDATA[얼굴 이렇게 쓸 거면 제가 압수합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마 <고려 거란 전쟁> '양규'로 터닝 포인트를 맞은 배우 지승현, 카리스마 넘치는 화보 공개!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84370</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84370"/>
+        <updated>2024-02-26T03:10:57.622Z</updated>
+        <content type="html"><![CDATA[지난한 시간과 몇 번의 변곡점을 지나 드라마 &lt;고려 거란 전쟁&gt;의 ‘양규’로 궤도에 오르기까지...]]></content>
+    </entry>
+</feed>
