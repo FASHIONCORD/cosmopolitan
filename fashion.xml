@@ -1,64 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-03-04T17:10:24.808Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[최근 나란히 백금발하고 분위기 레전드 찍은 아이돌들!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84521</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84521"/>
-        <updated>2024-03-04T15:10:37.863Z</updated>
-        <content type="html"><![CDATA[아이유, 채원, 윈터 하얀 금발로 돌아오다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보부상 추천! 셀렙들이 픽한 빅백은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84395</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84395"/>
-        <updated>2024-03-04T10:36:29.739Z</updated>
-        <content type="html"><![CDATA[보부상이 부러워할 만한 XL 사이즈 백들을 모아봤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찐친 셀렙들이 여행 가서 인증샷 건지는 법은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84394</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84394"/>
-        <updated>2024-02-29T16:10:47.048Z</updated>
-        <content type="html"><![CDATA[우정 사진은 이렇게 찍는 것!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생파에 무대의상을? 소녀시대의 이색 드레스코드]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84336</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84336"/>
-        <updated>2024-02-29T08:10:59.573Z</updated>
-        <content type="html"><![CDATA[모임 있어? 드레스코드에 진심인 수영과 티파니를 참고하자.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHAT'S HOT! 초콜릿보다 달콤한 2월의 패션 뉴스]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84312</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84312"/>
-        <updated>2024-02-28T03:10:12.094Z</updated>
-        <content type="html"><![CDATA[초콜릿보다 달콤한 2월의 패션 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심플하고 강력하다! 모더니티와 미니멀 패션의 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84069</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84069"/>
-        <updated>2024-02-28T03:10:12.095Z</updated>
-        <content type="html"><![CDATA[모더니티와 미니멀의 시대, 1990년대를 향한 노스탤지어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉산더 맥퀸의 새로운 브랜드 캠페인 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84279</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84279"/>
-        <updated>2024-02-21T10:10:14.709Z</updated>
-        <content type="html"><![CDATA[새로운 크리에티브 디렉터 션 맥기르와 함께한 알렉산더 맥퀸의 뉴 챕터.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 하와이 여행간 절친 권은비, 김민주 바캉스룩!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84276</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84276"/>
-        <updated>2024-02-21T10:10:14.711Z</updated>
-        <content type="html"><![CDATA[해변 시밀러룩으로 포착한 찐친 여행 모멘트.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 04 Mar 2024 18:13:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 나란히 백금발하고 분위기 레전드 찍은 아이돌들!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84521</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84521</guid>
+            <pubDate>Mon, 04 Mar 2024 15:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[아이유, 채원, 윈터 하얀 금발로 돌아오다!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보부상 추천! 셀렙들이 픽한 빅백은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84395</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84395</guid>
+            <pubDate>Mon, 04 Mar 2024 10:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[보부상이 부러워할 만한 XL 사이즈 백들을 모아봤다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[찐친 셀렙들이 여행 가서 인증샷 건지는 법은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84394</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84394</guid>
+            <pubDate>Thu, 29 Feb 2024 16:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[우정 사진은 이렇게 찍는 것!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[생파에 무대의상을? 소녀시대의 이색 드레스코드]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84336</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84336</guid>
+            <pubDate>Thu, 29 Feb 2024 08:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[모임 있어? 드레스코드에 진심인 수영과 티파니를 참고하자.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WHAT'S HOT! 초콜릿보다 달콤한 2월의 패션 뉴스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84312</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84312</guid>
+            <pubDate>Wed, 28 Feb 2024 03:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[초콜릿보다 달콤한 2월의 패션 뉴스.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[심플하고 강력하다! 모더니티와 미니멀 패션의 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84069</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84069</guid>
+            <pubDate>Wed, 28 Feb 2024 03:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[모더니티와 미니멀의 시대, 1990년대를 향한 노스탤지어.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알렉산더 맥퀸의 새로운 브랜드 캠페인 공개]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84279</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84279</guid>
+            <pubDate>Wed, 21 Feb 2024 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 크리에티브 디렉터 션 맥기르와 함께한 알렉산더 맥퀸의 뉴 챕터.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[함께 하와이 여행간 절친 권은비, 김민주 바캉스룩!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84276</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84276</guid>
+            <pubDate>Wed, 21 Feb 2024 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[해변 시밀러룩으로 포착한 찐친 여행 모멘트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/e6d9dc70-4aee-40df-a2f1-2341ed1874da.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
