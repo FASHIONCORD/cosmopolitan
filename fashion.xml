@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-03-04T14:09:09.432Z</updated>
+    <updated>2024-03-04T15:11:50.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 나란히 백금발하고 분위기 레전드 찍은 아이돌들!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84521</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84521"/>
+        <updated>2024-03-04T15:10:37.863Z</updated>
+        <content type="html"><![CDATA[아이유, 채원, 윈터 하얀 금발로 돌아오다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보부상 추천! 셀렙들이 픽한 빅백은?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84395</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84276"/>
         <updated>2024-02-21T10:10:14.711Z</updated>
         <content type="html"><![CDATA[해변 시밀러룩으로 포착한 찐친 여행 모멘트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 매장 안 부러워! 설현, 이청아의 운동화 사랑]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84272</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84272"/>
-        <updated>2024-02-19T06:12:48.270Z</updated>
-        <content type="html"><![CDATA[안방, 선반 말고 옷방 진열장에 모신 내 나이키!]]></content>
     </entry>
 </feed>
