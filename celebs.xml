@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-04T08:17:09.319Z</updated>
+    <updated>2024-03-04T10:37:25.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 <로기완>의 마리, 최성은의 봄]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84468</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84468"/>
+        <updated>2024-03-04T10:36:46.281Z</updated>
+        <content type="html"><![CDATA[영화 &lt;로기완&gt;과 함께 찾아온 배우 최성은의 찬란한 봄날.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재욱🖤카리나 열애 인정! 둘이 여기서 만났다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84497</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84430"/>
         <updated>2024-02-26T10:10:24.032Z</updated>
         <content type="html"><![CDATA['jtbc 뉴스룸'의 주말 앵커, 강지영은 처음부터 지금까지 전형성을 탈피해왔고, 그 반골 기질은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진 다이어트할 때 ‘이것’으로 스트레스 푼다?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84404</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84404"/>
-        <updated>2024-02-26T08:12:22.288Z</updated>
-        <content type="html"><![CDATA[2주 만에 체지방 9kg대 만든 그녀의 비법]]></content>
     </entry>
 </feed>
