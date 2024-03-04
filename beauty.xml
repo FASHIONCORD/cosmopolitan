@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-03-04T05:44:23.377Z</updated>
+    <updated>2024-03-04T06:58:00.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무·최화정도 먹는다? 셀럽들이 선택한 다이어트 음료]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84511</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84511"/>
+        <updated>2024-03-04T06:57:11.345Z</updated>
+        <content type="html"><![CDATA[‘애사비’라고 들어봤어?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[복근 관리는 카즈하처럼 우아하게, 카즈하 루틴 따라하기]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84510</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84335"/>
         <updated>2024-02-27T11:07:45.326Z</updated>
         <content type="html"><![CDATA[동안 비결은 바로 이것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존예 본좌 한예슬의 자기 관리 노하우 공개!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84333</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84333"/>
-        <updated>2024-02-26T10:10:15.331Z</updated>
-        <content type="html"><![CDATA[유지 식단에 추천템까지, 예뻐지는 방법 여기 다 있네~.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-04T05:44:23.379Z</updated>
+    <updated>2024-03-04T06:58:00.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재욱🖤카리나 열애 인정! 둘이 여기서 만났다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84497</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84497"/>
+        <updated>2024-03-04T06:57:19.983Z</updated>
+        <content type="html"><![CDATA[얼굴 합 미쳤다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 조합 칭찬해! 탕웨이가 만난 한류 스타들은?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84478</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84404"/>
         <updated>2024-02-26T08:12:22.288Z</updated>
         <content type="html"><![CDATA[2주 만에 체지방 9kg대 만든 그녀의 비법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소문난 셀고라는 <내남결> 나인우 SNS 근황]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84403</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84403"/>
-        <updated>2024-02-26T08:12:22.289Z</updated>
-        <content type="html"><![CDATA[얼굴 이렇게 쓸 거면 제가 압수합니다.]]></content>
     </entry>
 </feed>

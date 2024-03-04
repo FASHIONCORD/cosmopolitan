@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-03-04T05:44:23.378Z</updated>
+    <updated>2024-03-04T06:58:00.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이게 아이돌 숙소라고? 뉴진스, 슬기의 감각적인 숙소 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84470</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84470"/>
+        <updated>2024-03-04T06:57:50.410Z</updated>
+        <content type="html"><![CDATA[핫템 가득! 셀렙 랜선 집들이.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밥 먹으면서 보기 좋은 무한 수다 유튜브 추천!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84372</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84264"/>
         <updated>2024-02-20T07:10:12.590Z</updated>
         <content type="html"><![CDATA[밸런타인데이 기념, 여기 어때?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알뜰살뜰 핵심만 쏙쏙 담은 2월의 라이프스타일 뉴스!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84237</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84237"/>
-        <updated>2024-02-20T06:13:00.866Z</updated>
-        <content type="html"><![CDATA[알뜰살뜰 행운만 쏙쏙 담아 가도록! 2월의 라이프스타일 뉴스.]]></content>
     </entry>
 </feed>
