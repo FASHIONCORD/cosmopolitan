@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 03:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 04:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -201,7 +201,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84336</guid>
             <pubDate>Thu, 29 Feb 2024 08:10:59 GMT</pubDate>
             <content:encoded><![CDATA[모임 있어? 드레스코드에 진심인 수영과 티파니를 참고하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/baf867f2-cedd-4aef-8631-f4912e2c1cf5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WHAT'S HOT! 초콜릿보다 달콤한 2월의 패션 뉴스 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -209,7 +208,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84312</guid>
             <pubDate>Wed, 28 Feb 2024 03:10:12 GMT</pubDate>
             <content:encoded><![CDATA[초콜릿보다 달콤한 2월의 패션 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/784db9ce-d4b4-4071-bdda-4fd89f11569f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심플하고 강력하다! 모더니티와 미니멀 패션의 만남 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -217,7 +215,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84069</guid>
             <pubDate>Wed, 28 Feb 2024 03:10:12 GMT</pubDate>
             <content:encoded><![CDATA[모더니티와 미니멀의 시대, 1990년대를 향한 노스탤지어.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/0e2d8889-030b-43ab-990c-d353f05bad48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알렉산더 맥퀸의 새로운 브랜드 캠페인 공개 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -225,7 +222,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84279</guid>
             <pubDate>Wed, 21 Feb 2024 10:10:14 GMT</pubDate>
             <content:encoded><![CDATA[새로운 크리에티브 디렉터 션 맥기르와 함께한 알렉산더 맥퀸의 뉴 챕터.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/ca93412a-add0-4de6-8d9d-1569f956a3f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역주행하는 숨겨진 뷰티 꿀템은? (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -485,6 +481,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/66295</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/4174c705-a19d-4e65-8069-d57fcf7ec6f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -492,6 +489,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/65331</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/7f65d5d2-800a-4b6f-85e1-e5d1f2638452.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -499,6 +497,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/65142</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 채식해? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
@@ -506,6 +505,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/64487</guid>
             <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
             <content:encoded><![CDATA[채식한다고 했을 때 가장 킹받게 한 주변 반응은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/fdef0949-753f-4b68-8736-97965b951957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
