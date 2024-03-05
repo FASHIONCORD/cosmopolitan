@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-03-05T14:10:40.365Z</updated>
+    <updated>2024-03-05T15:09:49.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새학기는 이렇게! 허성범 & 김지영의 룩북 능력 평가]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84558</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84558"/>
+        <updated>2024-03-05T15:08:58.770Z</updated>
+        <content type="html"><![CDATA[과팅 백전백승?!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<내 남편과 결혼해줘> 유지혁 여동생 최규리 사복패션]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84522</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84069"/>
         <updated>2024-02-28T03:10:12.095Z</updated>
         <content type="html"><![CDATA[모더니티와 미니멀의 시대, 1990년대를 향한 노스탤지어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉산더 맥퀸의 새로운 브랜드 캠페인 공개]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84279</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84279"/>
-        <updated>2024-02-21T10:10:14.709Z</updated>
-        <content type="html"><![CDATA[새로운 크리에티브 디렉터 션 맥기르와 함께한 알렉산더 맥퀸의 뉴 챕터.]]></content>
     </entry>
 </feed>
