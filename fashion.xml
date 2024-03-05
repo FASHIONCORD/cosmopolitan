@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/fashion</id>
     <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-03-05T15:09:49.165Z</updated>
+    <updated>2024-03-05T16:12:25.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핫하다 핫해! 코스모 픽 3월 아이템은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84551</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84551"/>
+        <updated>2024-03-05T16:11:26.919Z</updated>
+        <content type="html"><![CDATA[2000년대를 휩쓴 스피디 백의 화려한 귀환! 옐로, 레드, 블루, 그린 등 팝한 비비드 컬러로 재...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새학기는 이렇게! 허성범 & 김지영의 룩북 능력 평가]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84558</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84312"/>
         <updated>2024-02-28T03:10:12.094Z</updated>
         <content type="html"><![CDATA[초콜릿보다 달콤한 2월의 패션 뉴스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심플하고 강력하다! 모더니티와 미니멀 패션의 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84069</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84069"/>
-        <updated>2024-02-28T03:10:12.095Z</updated>
-        <content type="html"><![CDATA[모더니티와 미니멀의 시대, 1990년대를 향한 노스탤지어.]]></content>
     </entry>
 </feed>
