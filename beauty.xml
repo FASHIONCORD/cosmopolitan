@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-03-05T06:12:11.130Z</updated>
+    <updated>2024-03-05T07:10:04.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웜핑, 쿨핑 다른거 알지? 핑크 감성 모르면 나가라]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84561</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84561"/>
+        <updated>2024-03-05T07:08:39.233Z</updated>
+        <content type="html"><![CDATA[햇살을 머금은 듯 따스한 웜 핑크와 보랏빛이 뒤엉켜 오묘한 매력을 발산하는 쿨 핑크! 눈가와...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역주행하는 숨겨진 뷰티 꿀템은?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84559</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84474"/>
         <updated>2024-02-29T16:10:55.880Z</updated>
         <content type="html"><![CDATA[납작 배 렛츠 고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 시간만에 0.5kg 감량? 전현무 바프 도전기]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84368</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84368"/>
-        <updated>2024-02-27T12:15:27.888Z</updated>
-        <content type="html"><![CDATA[이런 운동법이 있었어?]]></content>
     </entry>
 </feed>
