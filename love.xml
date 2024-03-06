@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/love</id>
-    <title>코스모폴리탄 코리아 ─ 러브</title>
-    <updated>2024-03-06T14:09:31.402Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[녹화하다 헤어진 커플?! 극악 연애 밸런스 게임]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81409</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81409"/>
-        <updated>2024-03-06T06:13:43.550Z</updated>
-        <content type="html"><![CDATA[진짜 커플이 출연해 만날지 헤어질지 결정한다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBTI 매칭 시 커플 확률 100%?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/81248</id>
-        <link href="https://www.cosmopolitan.co.kr/article/81248"/>
-        <updated>2024-02-01T08:12:15.904Z</updated>
-        <content type="html"><![CDATA[진짜 이게 돼?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80945</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80945"/>
-        <updated>2024-01-23T05:10:45.100Z</updated>
-        <content type="html"><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80856</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80856"/>
-        <updated>2024-01-10T02:24:53.606Z</updated>
-        <content type="html"><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80720</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80720"/>
-        <updated>2023-12-19T09:09:48.013Z</updated>
-        <content type="html"><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80719</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80719"/>
-        <updated>2023-10-17T11:08:28.337Z</updated>
-        <content type="html"><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선섹후사는 필수? 대만 2030 청춘들의 사랑법]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80548</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80548"/>
-        <updated>2023-10-10T09:10:48.973Z</updated>
-        <content type="html"><![CDATA[&lt;성+인물 대만편&gt;에서 귀가 달아오른 ‘썸’ 이야기들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대 연애 시 ‘000’만은 하지 말자? 전현무의 조언]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80407</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80407"/>
-        <updated>2023-09-26T11:09:03.238Z</updated>
-        <content type="html"><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 러브</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 06 Mar 2024 15:11:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[녹화하다 헤어진 커플?! 극악 연애 밸런스 게임]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81409</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81409</guid>
+            <pubDate>Wed, 06 Mar 2024 06:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 커플이 출연해 만날지 헤어질지 결정한다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/e47748ff-28cb-4158-b3f7-19de9174b0f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MBTI 매칭 시 커플 확률 100%?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/81248</link>
+            <guid>https://www.cosmopolitan.co.kr/article/81248</guid>
+            <pubDate>Thu, 01 Feb 2024 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 이게 돼?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/3c234ae0-bd52-44bd-9aca-af8b783fe021.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80945</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80945</guid>
+            <pubDate>Tue, 23 Jan 2024 05:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/7ab35694-db81-4ae7-8fb6-66afe7b662c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80856</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80856</guid>
+            <pubDate>Wed, 10 Jan 2024 02:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/7d1bbb94-4806-4a55-8859-b68626749e45.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80720</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80720</guid>
+            <pubDate>Tue, 19 Dec 2023 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/adda514c-2d44-4cb6-8405-950ef85db877.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80719</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80719</guid>
+            <pubDate>Tue, 17 Oct 2023 11:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/ba4bc353-5316-48d8-a9f9-8c37ba83945d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선섹후사는 필수? 대만 2030 청춘들의 사랑법]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80548</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80548</guid>
+            <pubDate>Tue, 10 Oct 2023 09:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;성+인물 대만편&gt;에서 귀가 달아오른 ‘썸’ 이야기들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/1472a68f-30bf-41be-b5bb-6dc2f46818f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30대 연애 시 ‘000’만은 하지 말자? 전현무의 조언]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/80407</link>
+            <guid>https://www.cosmopolitan.co.kr/article/80407</guid>
+            <pubDate>Tue, 26 Sep 2023 11:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[님아, 데이트 통장은 만들지 마오.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/c6f55eef-72a8-47ba-831d-752dad47ac86.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
