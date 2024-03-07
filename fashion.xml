@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/fashion</id>
-    <title>코스모폴리탄 코리아 ─ 패션</title>
-    <updated>2024-03-07T14:10:18.038Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[새로운 컬러를 찾고 있다면 '버터'를 주목할 것]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84615</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84615"/>
-        <updated>2024-03-06T15:10:52.815Z</updated>
-        <content type="html"><![CDATA[트렌드로 떠오른 뉴 컬러, 버터를 주목하라.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌 사쿠라 뜨개 공방이 열렸다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84624</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84624"/>
-        <updated>2024-03-06T03:09:31.081Z</updated>
-        <content type="html"><![CDATA[손님은 트와이스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핫하다 핫해! 코스모 픽 3월 아이템은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84551</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84551"/>
-        <updated>2024-03-05T16:11:26.919Z</updated>
-        <content type="html"><![CDATA[2000년대를 휩쓴 스피디 백의 화려한 귀환! 옐로, 레드, 블루, 그린 등 팝한 비비드 컬러로 재...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새학기는 이렇게! 허성범 & 김지영의 룩북 능력 평가]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84558</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84558"/>
-        <updated>2024-03-05T15:08:58.770Z</updated>
-        <content type="html"><![CDATA[과팅 백전백승?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<내 남편과 결혼해줘> 유지혁 여동생 최규리 사복패션]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84522</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84522"/>
-        <updated>2024-03-05T02:14:46.025Z</updated>
-        <content type="html"><![CDATA[매력넘치는 그녀의 일상룩 살펴보기!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 나란히 백금발하고 분위기 레전드 찍은 아이돌들!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84521</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84521"/>
-        <updated>2024-03-04T15:10:37.863Z</updated>
-        <content type="html"><![CDATA[아이유, 채원, 윈터 하얀 금발로 돌아오다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보부상 추천! 셀렙들이 픽한 빅백은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84395</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84395"/>
-        <updated>2024-03-04T10:36:29.739Z</updated>
-        <content type="html"><![CDATA[보부상이 부러워할 만한 XL 사이즈 백들을 모아봤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찐친 셀렙들이 여행 가서 인증샷 건지는 법은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84394</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84394"/>
-        <updated>2024-02-29T16:10:47.048Z</updated>
-        <content type="html"><![CDATA[우정 사진은 이렇게 찍는 것!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 07 Mar 2024 15:10:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What's Hot! 3월의 패션 뉴스]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84628</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84628</guid>
+            <pubDate>Thu, 07 Mar 2024 15:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[산뜻한 봄처럼 풍성한 3월의 패션 뉴스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/85b58a16-a771-44bf-9402-dd8b69181a17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 컬러를 찾고 있다면 '버터'를 주목할 것]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84615</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84615</guid>
+            <pubDate>Wed, 06 Mar 2024 15:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[트렌드로 떠오른 뉴 컬러, 버터를 주목하라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/6856db3b-1be4-4531-ae8d-252d515467ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌 사쿠라 뜨개 공방이 열렸다고?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84624</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84624</guid>
+            <pubDate>Wed, 06 Mar 2024 03:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[손님은 트와이스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/cbceeee8-ef15-478d-996b-cdbc8e0b0b47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫하다 핫해! 코스모 픽 3월 아이템은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84551</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84551</guid>
+            <pubDate>Tue, 05 Mar 2024 16:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2000년대를 휩쓴 스피디 백의 화려한 귀환! 옐로, 레드, 블루, 그린 등 팝한 비비드 컬러로 재...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/01/9b86d958-4ffb-4927-ac74-7a3b6513fdb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새학기는 이렇게! 허성범 & 김지영의 룩북 능력 평가]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84558</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84558</guid>
+            <pubDate>Tue, 05 Mar 2024 15:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[과팅 백전백승?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/7f5ff726-635f-4ea5-a5b0-0ec5e8f9d3d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<내 남편과 결혼해줘> 유지혁 여동생 최규리 사복패션]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84522</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84522</guid>
+            <pubDate>Tue, 05 Mar 2024 02:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[매력넘치는 그녀의 일상룩 살펴보기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/f0c3ad47-fff0-4a52-916b-0e585c7dd057.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 나란히 백금발하고 분위기 레전드 찍은 아이돌들!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84521</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84521</guid>
+            <pubDate>Mon, 04 Mar 2024 15:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[아이유, 채원, 윈터 하얀 금발로 돌아오다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/b271ff8e-c9b4-4153-bffa-ae50c2d7f2f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보부상 추천! 셀렙들이 픽한 빅백은?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84395</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84395</guid>
+            <pubDate>Mon, 04 Mar 2024 10:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[보부상이 부러워할 만한 XL 사이즈 백들을 모아봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/21/338b6064-bd2f-4c7d-897f-ce34dbb38848.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
