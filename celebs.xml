@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-07T07:09:30.836Z</updated>
+    <updated>2024-03-07T08:10:48.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카리나가 자필 사과문을 올렸다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84662</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84662"/>
+        <updated>2024-03-07T08:09:54.995Z</updated>
+        <content type="html"><![CDATA[카리나님 행복만 하세요♡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스카이캐슬’ 김보라, ‘괴기맨숀’ 감독과 6월 결혼! 김보라 TMI 10]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84651</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84468"/>
         <updated>2024-03-04T10:36:46.281Z</updated>
         <content type="html"><![CDATA[영화 &lt;로기완&gt;과 함께 찾아온 배우 최성은의 찬란한 봄날.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱🖤카리나 열애 인정! 둘이 여기서 만났다고?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84497</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84497"/>
-        <updated>2024-03-04T06:57:19.983Z</updated>
-        <content type="html"><![CDATA[얼굴 합 미쳤다.]]></content>
     </entry>
 </feed>
