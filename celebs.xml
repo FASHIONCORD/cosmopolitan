@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-07T01:27:10.170Z</updated>
+    <updated>2024-03-07T02:10:00.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스카이캐슬’ 김보라, ‘괴기맨숀’ 감독과 6월 결혼! 김보라 TMI 10]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84651</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84651"/>
+        <updated>2024-03-07T02:09:19.729Z</updated>
+        <content type="html"><![CDATA[인하대학교 연극영화과를 수석 입학했다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌 사쿠라 뜨개 공방이 열렸다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84624</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84497"/>
         <updated>2024-03-04T06:57:19.983Z</updated>
         <content type="html"><![CDATA[얼굴 합 미쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 조합 칭찬해! 탕웨이가 만난 한류 스타들은?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84478</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84478"/>
-        <updated>2024-03-04T01:58:35.409Z</updated>
-        <content type="html"><![CDATA[아이유와 손편지까지 주고받은 사이?]]></content>
     </entry>
 </feed>
