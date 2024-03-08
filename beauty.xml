@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-03-08T14:10:17.272Z</updated>
+    <updated>2024-03-08T15:10:30.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한혜진 촬영 전에 ‘이것’으로 붓기 싹 뺀다?!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84663</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84663"/>
+        <updated>2024-03-08T15:09:56.449Z</updated>
+        <content type="html"><![CDATA[촬영 앞두고 단기간에 붓기 빼는 그녀의 꿀팁 공개.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄철 모공 관리는 어떻게? 셀럽 노하우 대방출]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84646</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84559"/>
         <updated>2024-03-04T10:36:37.260Z</updated>
         <content type="html"><![CDATA[나만 몰랐어? 출시 당시엔 대접받지 못했지만 탁월한 제품력으로 내돈내산 간증 리뷰 폭발! 품절...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스칼렛 레드 컬러가 대세!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84552</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84552"/>
-        <updated>2024-03-04T10:36:37.264Z</updated>
-        <content type="html"><![CDATA[2024 S/S 시즌에 얼굴 위를 물들일 가장 순수하고도 선명한 색, 스칼렛 레드.]]></content>
     </entry>
 </feed>
