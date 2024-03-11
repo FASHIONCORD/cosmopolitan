@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-11T04:12:22.610Z</updated>
+    <updated>2024-03-11T05:11:31.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인스타그램 폭로?! 이혼 소식을 알린 셀럽 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84686</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84686"/>
+        <updated>2024-03-11T05:10:59.340Z</updated>
+        <content type="html"><![CDATA[도대체 무슨 일이 있었던걸까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘파묘’ 최민식 동생도 배우? 의외의 연예계 형제자매]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84676</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84676"/>
+        <updated>2024-03-11T05:10:59.342Z</updated>
+        <content type="html"><![CDATA[역시 피는 못 속여~]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 농구선수 일본인? 오타니의 배우자를 소개합니다]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84675</id>
@@ -46,19 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84611"/>
         <updated>2024-03-06T11:08:24.353Z</updated>
         <content type="html"><![CDATA[탕웨이, 유재석, 이종석 그리고 뉴진스에 라이즈까지?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국노래자랑 MC 김신영, 갑작스러운 하차 통보?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84597</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84597"/>
-        <updated>2024-03-06T07:08:37.569Z</updated>
-        <content type="html"><![CDATA[다음 MC는 남희석이 유력하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보면 볼수록 매력있어! 고나리자 강지영 아나운서 등판!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84582</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84582"/>
-        <updated>2024-03-06T03:10:16.385Z</updated>
-        <content type="html"><![CDATA[풀버전은 코스모폴리탄 유튜브에서.]]></content>
     </entry>
 </feed>
