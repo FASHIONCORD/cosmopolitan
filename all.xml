@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 06:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,13 @@
             <content:encoded><![CDATA[햇살을 머금은 듯 따스한 웜 핑크와 보랏빛이 뒤엉켜 오묘한 매력을 발산하는 쿨 핑크! 눈가와...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[홍석천, 미공개 보석함 단독 공개! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84691</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84691</guid>
+            <pubDate>Mon, 11 Mar 2024 06:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[풀버전은 코스모폴리탄 유튜브에서.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인스타그램 폭로?! 이혼 소식을 알린 셀럽 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.cosmopolitan.co.kr/article/84686</link>
             <guid>https://www.cosmopolitan.co.kr/article/84686</guid>
@@ -326,13 +333,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/84624</guid>
             <pubDate>Wed, 06 Mar 2024 03:09:31 GMT</pubDate>
             <content:encoded><![CDATA[손님은 트와이스.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이유 콘서트에 누가 왔다고요? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84611</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84611</guid>
-            <pubDate>Wed, 06 Mar 2024 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[탕웨이, 유재석, 이종석 그리고 뉴진스에 라이즈까지?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[녹화하다 헤어진 커플?! 극악 연애 밸런스 게임 (코스모폴리탄 코리아 ─ 러브)]]></title>
