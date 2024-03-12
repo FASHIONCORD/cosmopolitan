@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-12T10:10:22.999Z</updated>
+    <updated>2024-03-12T11:08:23.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 김수현! 아이유 팬 영상에 목소리 박제됐다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84766</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84766"/>
+        <updated>2024-03-12T11:07:57.092Z</updated>
+        <content type="html"><![CDATA[김수현은 중앙대를 4수해서 입학했다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 사랑 응원해! 결혼 골인하는 박위♥️송지은]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84765</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84711"/>
         <updated>2024-03-11T11:09:49.836Z</updated>
         <content type="html"><![CDATA[멋지다 멋져~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중동의 한 가운데에서 커리어를 펼치다]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84632</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84632"/>
-        <updated>2024-03-11T08:13:09.820Z</updated>
-        <content type="html"><![CDATA[아랍에미리트 원전 운영사에 재직 중인 정지은 스페셜리스트. 70여 개국 출신의 직원을  아우르...]]></content>
     </entry>
 </feed>
