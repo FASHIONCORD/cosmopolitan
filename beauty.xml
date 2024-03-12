@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-03-12T02:16:21.017Z</updated>
+    <updated>2024-03-12T03:11:55.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 S/S 백스테이지에서 찾은 헤어 샘플러]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84641</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84641"/>
+        <updated>2024-03-12T03:10:40.683Z</updated>
+        <content type="html"><![CDATA[계절이 바뀔 땐 두피도 삼중고를 겪는다. 성난 두피를 다독여줄 헤어 어벤져스와 속절없이 빠지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이생망 두피를 구원해 줄 헤어케어 수칙]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84633</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84622"/>
         <updated>2024-03-06T15:11:00.394Z</updated>
         <content type="html"><![CDATA[치팅 후 관리, 유지 식단까지 다 풀었다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈터, 김채원도 하는 눈 밑 스티커의 정체는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84620</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84620"/>
-        <updated>2024-03-06T11:08:15.817Z</updated>
-        <content type="html"><![CDATA[요즘엔 눈 밑에도 블링블링하게~.]]></content>
     </entry>
 </feed>
