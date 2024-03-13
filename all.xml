@@ -1,514 +1,502 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 09:10:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[인스타그램 폭로?! 
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://FASHIONCORD.github.io/cosmopolitan/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2024-03-13T10:10:33.682Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[인스타그램 폭로?! 
 이혼 소식을 알린 셀럽 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37463071&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37463071&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 13 Mar 2024 00:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[도대체 무슨 일이 있었던걸까? ▼ 클릭 ▼ 인스타그램 폭로?! 이혼 소식을 알린 셀럽 4 도대체 무슨 일이 있었던걸까? www.cosmopolitan.co.kr 황정음 인스타그램 @jungeum84 결혼 8년 차 부부였던&nbsp;황정음과&nbsp;이영돈. ···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하다하다 K 남매 연애까지? 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37463071&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37463071&amp;memberNo=11800362"/>
+        <updated>2024-03-13T00:38:32.129Z</updated>
+        <content type="html"><![CDATA[도대체 무슨 일이 있었던걸까? ▼ 클릭 ▼ 인스타그램 폭로?! 이혼 소식을 알린 셀럽 4 도대체 무슨 일이 있었던걸까? www.cosmopolitan.co.kr 황정음 인스타그램 @jungeum84 결혼 8년 차 부부였던&nbsp;황정음과&nbsp;이영돈. ···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하다하다 K 남매 연애까지? 
 새로운데 재밌어! <연애남매> 관전포인트 9 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37463036&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37463036&amp;memberNo=11800362</guid>
-            <pubDate>Tue, 12 Mar 2024 00:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[지금까지 이런 연프는 없었다… ▼ 클릭 ▼ 하다하다 K 남매 연애까지? 새로운데 재밌어! &lt;연애남매&gt; 관전포인트 9 지금까지 이런 연프는 없었다… www.cosmopolitan.co.kr 1. 연프 천재이진주 PD의 신작 JTBC 도···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김수현에 송중기까지? 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37463036&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37463036&amp;memberNo=11800362"/>
+        <updated>2024-03-12T00:37:44.794Z</updated>
+        <content type="html"><![CDATA[지금까지 이런 연프는 없었다… ▼ 클릭 ▼ 하다하다 K 남매 연애까지? 새로운데 재밌어! &lt;연애남매&gt; 관전포인트 9 지금까지 이런 연프는 없었다… www.cosmopolitan.co.kr 1. 연프 천재이진주 PD의 신작 JTBC 도···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수현에 송중기까지? 
 3월 신작 파헤치기 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37433494&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37433494&amp;memberNo=11800362</guid>
-            <pubDate>Mon, 11 Mar 2024 00:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[주목받는 신작 속 남주들, 온앤오프 설렘 모먼트.zip. ▼ 클릭 ▼ 김수현에 송중기까지? 3월 신작 파헤치기 주목받는 신작 속 남주들, 온앤오프 설렘 모먼트.zip. www.cosmopolitan.co.kr  〈눈물의 여왕〉 김수현 인스···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[라면 완봉해도 마른 이유? 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37433494&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37433494&amp;memberNo=11800362"/>
+        <updated>2024-03-11T00:40:56.495Z</updated>
+        <content type="html"><![CDATA[주목받는 신작 속 남주들, 온앤오프 설렘 모먼트.zip. ▼ 클릭 ▼ 김수현에 송중기까지? 3월 신작 파헤치기 주목받는 신작 속 남주들, 온앤오프 설렘 모먼트.zip. www.cosmopolitan.co.kr  〈눈물의 여왕〉 김수현 인스···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라면 완봉해도 마른 이유? 
 신세경의 관리법 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37433450&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37433450&amp;memberNo=11800362</guid>
-            <pubDate>Fri, 08 Mar 2024 00:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[치팅 후 관리, 유지 식단까지 다 풀었다! ▼ 클릭 ▼ 라면 완봉해도 마른 이유? 신세경의 관리법 치팅 후 관리, 유지 식단까지 다 풀었다! www.cosmopolitan.co.kr 행사 전 관리법 유튜브 〈일일칠 - 117〉 파리에서 열···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최근 나란히 백금발하고 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37433450&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37433450&amp;memberNo=11800362"/>
+        <updated>2024-03-08T00:37:54.890Z</updated>
+        <content type="html"><![CDATA[치팅 후 관리, 유지 식단까지 다 풀었다! ▼ 클릭 ▼ 라면 완봉해도 마른 이유? 신세경의 관리법 치팅 후 관리, 유지 식단까지 다 풀었다! www.cosmopolitan.co.kr 행사 전 관리법 유튜브 〈일일칠 - 117〉 파리에서 열···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근 나란히 백금발하고 
 분위기 레전드 찍은 아이돌들! (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37433434&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37433434&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 07 Mar 2024 00:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[아이유, 채원, 윈터 하얀 금발로 돌아오다! ▼ 클릭 ▼ 최근 나란히 백금발하고 분위기 레전드 찍은 아이돌들! 아이유, 채원, 윈터 하얀 금발로 돌아오다! www.cosmopolitan.co.kr 아이유와&nbsp;에스파&nbsp;윈터, 그리고&nbsp;르세···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이유 콘서트에 누가 왔다고요? (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37427448&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37427448&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 06 Mar 2024 00:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[탕웨이, 유재석, 이종석 그리고 뉴진스에 라이즈까지? ▼ 클릭 ▼ 아이유 콘서트에 누가 왔다고요? 탕웨이, 유재석, 이종석 그리고 뉴진스에 라이즈까지? www.cosmopolitan.co.kr &nbsp;서울 송파구 KSPO DOME(구 체조경기···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전국노래자랑 MC 김신영, 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37433434&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37433434&amp;memberNo=11800362"/>
+        <updated>2024-03-07T00:31:34.779Z</updated>
+        <content type="html"><![CDATA[아이유, 채원, 윈터 하얀 금발로 돌아오다! ▼ 클릭 ▼ 최근 나란히 백금발하고 분위기 레전드 찍은 아이돌들! 아이유, 채원, 윈터 하얀 금발로 돌아오다! www.cosmopolitan.co.kr 아이유와&nbsp;에스파&nbsp;윈터, 그리고&nbsp;르세···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유 콘서트에 누가 왔다고요? (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37427448&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37427448&amp;memberNo=11800362"/>
+        <updated>2024-03-06T00:40:05.947Z</updated>
+        <content type="html"><![CDATA[탕웨이, 유재석, 이종석 그리고 뉴진스에 라이즈까지? ▼ 클릭 ▼ 아이유 콘서트에 누가 왔다고요? 탕웨이, 유재석, 이종석 그리고 뉴진스에 라이즈까지? www.cosmopolitan.co.kr &nbsp;서울 송파구 KSPO DOME(구 체조경기···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국노래자랑 MC 김신영, 
 갑작스러운 하차 통보? (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37427384&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37427384&amp;memberNo=11800362</guid>
-            <pubDate>Tue, 05 Mar 2024 00:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[다음 MC는 남희석이 유력하다. ▼ 클릭 ▼ 전국노래자랑 MC 김신영, 갑작스러운 하차 통보? 다음 MC는 남희석이 유력하다. www.cosmopolitan.co.kr 김신영이 하차한다고? KBS 〈전국노래자랑〉 KBS 1TV 〈전국노래자랑〉의···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[40대 맞아? 관리보다 습관, 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37427384&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37427384&amp;memberNo=11800362"/>
+        <updated>2024-03-05T00:38:03.290Z</updated>
+        <content type="html"><![CDATA[다음 MC는 남희석이 유력하다. ▼ 클릭 ▼ 전국노래자랑 MC 김신영, 갑작스러운 하차 통보? 다음 MC는 남희석이 유력하다. www.cosmopolitan.co.kr 김신영이 하차한다고? KBS 〈전국노래자랑〉 KBS 1TV 〈전국노래자랑〉의···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40대 맞아? 관리보다 습관, 
 한가인 동안 비결 5가지 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37404198&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37404198&amp;memberNo=11800362</guid>
-            <pubDate>Mon, 04 Mar 2024 00:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[평생 먹은 라면이 10봉지가 안 된다는데? ▼ 클릭 ▼ 40대 맞아? 관리보다 습관, 한가인 동안 비결 5가지 평생 먹은 라면이 10봉지가 안 된다는데? www.cosmopolitan.co.kr No 카페라테, 라면, 콜라? 유튜브 tvn ‘텐트···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스태프들이 단체로 아팠다고? 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37404198&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37404198&amp;memberNo=11800362"/>
+        <updated>2024-03-04T00:38:52.363Z</updated>
+        <content type="html"><![CDATA[평생 먹은 라면이 10봉지가 안 된다는데? ▼ 클릭 ▼ 40대 맞아? 관리보다 습관, 한가인 동안 비결 5가지 평생 먹은 라면이 10봉지가 안 된다는데? www.cosmopolitan.co.kr No 카페라테, 라면, 콜라? 유튜브 tvn ‘텐트···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스태프들이 단체로 아팠다고? 
 ‘파묘’ 비하인드 대방출! (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37404070&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37404070&amp;memberNo=11800362</guid>
-            <pubDate>Fri, 01 Mar 2024 00:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[파면 팔수록 재밌네! ▼ 클릭 ▼ 스태프들이 단체로 아팠다고? ‘파묘’ 비하인드 대방출! 파면 팔수록 재밌네! www.cosmopolitan.co.kr 올해 최단기간 200만 관객을 돌파한 영화 〈파묘〉의 흥행이 심상치 않다. 〈검은 사···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2차로 딱 좋아! 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37404070&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37404070&amp;memberNo=11800362"/>
+        <updated>2024-03-01T00:42:15.187Z</updated>
+        <content type="html"><![CDATA[파면 팔수록 재밌네! ▼ 클릭 ▼ 스태프들이 단체로 아팠다고? ‘파묘’ 비하인드 대방출! 파면 팔수록 재밌네! www.cosmopolitan.co.kr 올해 최단기간 200만 관객을 돌파한 영화 〈파묘〉의 흥행이 심상치 않다. 〈검은 사···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2차로 딱 좋아! 
 성수동 극락 안주 맛집 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37403993&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37403993&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 29 Feb 2024 00:37:40 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이티브가 살아있는 심야 감성 요리 주점들. ▼ 클릭 ▼ 2차로 딱 좋아! 성수동 극락 안주 맛집 4 크리에이티브가 살아있는 심야 감성 요리 주점들. www.cosmopolitan.co.kr 중앙 가속기 인스타그램 @central_acc···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이게 아이돌 숙소라고? 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37403993&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37403993&amp;memberNo=11800362"/>
+        <updated>2024-02-29T00:37:40.991Z</updated>
+        <content type="html"><![CDATA[크리에이티브가 살아있는 심야 감성 요리 주점들. ▼ 클릭 ▼ 2차로 딱 좋아! 성수동 극락 안주 맛집 4 크리에이티브가 살아있는 심야 감성 요리 주점들. www.cosmopolitan.co.kr 중앙 가속기 인스타그램 @central_acc···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이게 아이돌 숙소라고? 
 뉴진스, 슬기의 감각적인 숙소 공개 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37394346&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37394346&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 28 Feb 2024 00:37:23 GMT</pubDate>
-            <content:encoded><![CDATA[핫템 가득! 셀렙 랜선 집들이. ▼ 클릭 ▼ 이게 아이돌 숙소라고? 뉴진스, 슬기의 감각적인 숙소 공개 핫템 가득! 셀렙 랜선 집들이. www.cosmopolitan.co.kr  뉴진스 인스타그램 @andersonc_design 얼마전 가구 갤러···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[벌써부터 흥행 질주? 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37394346&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37394346&amp;memberNo=11800362"/>
+        <updated>2024-02-28T00:37:23.191Z</updated>
+        <content type="html"><![CDATA[핫템 가득! 셀렙 랜선 집들이. ▼ 클릭 ▼ 이게 아이돌 숙소라고? 뉴진스, 슬기의 감각적인 숙소 공개 핫템 가득! 셀렙 랜선 집들이. www.cosmopolitan.co.kr  뉴진스 인스타그램 @andersonc_design 얼마전 가구 갤러···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벌써부터 흥행 질주? 
 영화 파묘 관전 포인트 3. (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37394272&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37394272&amp;memberNo=11800362</guid>
-            <pubDate>Tue, 27 Feb 2024 00:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[이제 모두 ‘파’며들 시간~. ▼ 클릭 ▼ 벌써부터 흥행 질주? 영화 파묘 관전 포인트 3. 이제 모두 ‘파’며들 시간~. www.cosmopolitan.co.kr K-오컬트 장인이 돌아왔다! 영화 〈사바하〉, 〈검은 사제들〉을 제작한 K-오컬···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한 시간만에 0.5kg 감량? 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37394272&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37394272&amp;memberNo=11800362"/>
+        <updated>2024-02-27T00:37:32.508Z</updated>
+        <content type="html"><![CDATA[이제 모두 ‘파’며들 시간~. ▼ 클릭 ▼ 벌써부터 흥행 질주? 영화 파묘 관전 포인트 3. 이제 모두 ‘파’며들 시간~. www.cosmopolitan.co.kr K-오컬트 장인이 돌아왔다! 영화 〈사바하〉, 〈검은 사제들〉을 제작한 K-오컬···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 시간만에 0.5kg 감량? 
 전현무 바프 도전기 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37366965&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37366965&amp;memberNo=11800362</guid>
-            <pubDate>Mon, 26 Feb 2024 00:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[이런 운동법이 있었어? ▼ 클릭 ▼ 한 시간만에 0.5kg 감량? 전현무 바프 도전기 이런 운동법이 있었어? www.cosmopolitan.co.kr  팜유즈 다이어트 선언?! Instagram의 나 혼자 산다 official님 : "⠀ 두 달도 안 ···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[확신의 연예인 상! 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37366965&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37366965&amp;memberNo=11800362"/>
+        <updated>2024-02-26T00:39:12.102Z</updated>
+        <content type="html"><![CDATA[이런 운동법이 있었어? ▼ 클릭 ▼ 한 시간만에 0.5kg 감량? 전현무 바프 도전기 이런 운동법이 있었어? www.cosmopolitan.co.kr  팜유즈 다이어트 선언?! Instagram의 나 혼자 산다 official님 : "⠀ 두 달도 안 ···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확신의 연예인 상! 
 엄마빠 꼭 닮은 스타 2세 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37367013&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37367013&amp;memberNo=11800362</guid>
-            <pubDate>Fri, 23 Feb 2024 00:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[이 집 DNA 미쳤다! ▼ 클릭 ▼ 확신의 연예인 상! 엄마빠 꼭 닮은 스타 2세 이 집 DNA 미쳤다! www.cosmopolitan.co.kr 배우 한가인 아들 제우 인스타그램 @hangaingagari 유튜브 〈tvN 텐트밖은 유럽〉 그동안 한번도 ···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과자 러버 비상! 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37367013&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37367013&amp;memberNo=11800362"/>
+        <updated>2024-02-23T00:37:17.973Z</updated>
+        <content type="html"><![CDATA[이 집 DNA 미쳤다! ▼ 클릭 ▼ 확신의 연예인 상! 엄마빠 꼭 닮은 스타 2세 이 집 DNA 미쳤다! www.cosmopolitan.co.kr 배우 한가인 아들 제우 인스타그램 @hangaingagari 유튜브 〈tvN 텐트밖은 유럽〉 그동안 한번도 ···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과자 러버 비상! 
 봄 딸기 과자 맛도리 4 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37362737&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37362737&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 22 Feb 2024 00:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[제철 음식(?)은 제철에 먹어줘야 합니다. ▼ 클릭 ▼ 과자 러버 비상! 봄 딸기 과자 맛도리 4 제철 음식(?)은 제철에 먹어줘야 합니다. www.cosmopolitan.co.kr 딥딸기 초코를 입은핑크 버터링 쿠키 @haitai_co @haita···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 만렙 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37362737&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37362737&amp;memberNo=11800362"/>
+        <updated>2024-02-22T00:37:38.001Z</updated>
+        <content type="html"><![CDATA[제철 음식(?)은 제철에 먹어줘야 합니다. ▼ 클릭 ▼ 과자 러버 비상! 봄 딸기 과자 맛도리 4 제철 음식(?)은 제철에 먹어줘야 합니다. www.cosmopolitan.co.kr 딥딸기 초코를 입은핑크 버터링 쿠키 @haitai_co @haita···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이어트 만렙 
 한혜진의 대체당 간식 평가? (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37362715&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37362715&amp;memberNo=11800362</guid>
-            <pubDate>Wed, 21 Feb 2024 00:39:08 GMT</pubDate>
-            <content:encoded><![CDATA[▼ 클릭 ▼ 다이어트 만렙 한혜진의 대체당 간식 평가? 다이어터도 맘 놓고 드시길! www.cosmopolitan.co.kr 알룰로스 탕후루 유튜브 〈한혜진 Han Hye Jin〉 간식 중 가장 인기 많은&nbsp;탕후루의 대체당 버전이 나왔다. 바···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[곧 40살 실화야? 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37362715&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37362715&amp;memberNo=11800362"/>
+        <updated>2024-02-21T00:39:08.289Z</updated>
+        <content type="html"><![CDATA[▼ 클릭 ▼ 다이어트 만렙 한혜진의 대체당 간식 평가? 다이어터도 맘 놓고 드시길! www.cosmopolitan.co.kr 알룰로스 탕후루 유튜브 〈한혜진 Han Hye Jin〉 간식 중 가장 인기 많은&nbsp;탕후루의 대체당 버전이 나왔다. 바···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곧 40살 실화야? 
 <내남결> 송하윤의 붓기 관리 TIP (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37362684&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37362684&amp;memberNo=11800362</guid>
-            <pubDate>Tue, 20 Feb 2024 04:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[▼ 클릭 ▼ 곧 40살 실화야? &lt;내남결&gt; 송하윤의 붓기 관리 TIP 운동이 체질인 배우들?! www.cosmopolitan.co.kr 박민영 인스타그램 @rachel_mypark 〈내남결〉에서 암 환자 설정을 소화하기 위해 체중을 37kg까지 ···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나 얘 좋아하네…'첫사랑 재질' 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37362684&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37362684&amp;memberNo=11800362"/>
+        <updated>2024-02-20T04:12:22.309Z</updated>
+        <content type="html"><![CDATA[▼ 클릭 ▼ 곧 40살 실화야? &lt;내남결&gt; 송하윤의 붓기 관리 TIP 운동이 체질인 배우들?! www.cosmopolitan.co.kr 박민영 인스타그램 @rachel_mypark 〈내남결〉에서 암 환자 설정을 소화하기 위해 체중을 37kg까지 ···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나 얘 좋아하네…'첫사랑 재질' 
 성찬, 신유 극락 비주얼 모음집 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37342410&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37342410&amp;memberNo=11800362</guid>
-            <pubDate>Mon, 19 Feb 2024 00:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[할머니 지갑 속에서 발견한 아련한 첫사랑상이 이런 것? ▼ 클릭 ▼ 나 얘 좋아하네…'첫사랑 재질' 성찬, 신유 극락 비주얼 모음집 할머니 지갑 속에서 발견한 아련한 첫사랑상이 이런 것? www.cosmopolitan.c···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인생 2막 시작! 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37342410&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37342410&amp;memberNo=11800362"/>
+        <updated>2024-02-19T00:39:26.959Z</updated>
+        <content type="html"><![CDATA[할머니 지갑 속에서 발견한 아련한 첫사랑상이 이런 것? ▼ 클릭 ▼ 나 얘 좋아하네…'첫사랑 재질' 성찬, 신유 극락 비주얼 모음집 할머니 지갑 속에서 발견한 아련한 첫사랑상이 이런 것? www.cosmopolitan.c···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생 2막 시작! 
 최근 이혼한 스타들의 NEW 근황 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37332755&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37332755&amp;memberNo=11800362</guid>
-            <pubDate>Fri, 16 Feb 2024 00:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[타로 카드부터 퇴근길 일상까지. ▼ 클릭 ▼ 인생 2막 시작! 최근 이혼한 스타들의 NEW 근황 타로 카드부터 퇴근길 일상까지. www.cosmopolitan.co.kr 이혼 후타로카드에 빠진 율희? 인스타그램 @yul._.hee 인스타그램···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[눈뜨면 타! 
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37332755&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37332755&amp;memberNo=11800362"/>
+        <updated>2024-02-16T00:37:59.987Z</updated>
+        <content type="html"><![CDATA[타로 카드부터 퇴근길 일상까지. ▼ 클릭 ▼ 인생 2막 시작! 최근 이혼한 스타들의 NEW 근황 타로 카드부터 퇴근길 일상까지. www.cosmopolitan.co.kr 이혼 후타로카드에 빠진 율희? 인스타그램 @yul._.hee 인스타그램···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈뜨면 타! 
 무조건 살 빠지는 실내 바이크 다이어트 (네이버 포스트 ─ 코스모폴리탄 코리아)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37332739&amp;memberNo=11800362</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37332739&amp;memberNo=11800362</guid>
-            <pubDate>Thu, 15 Feb 2024 00:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[매일 한시간 쭉쭉 실내 바이크로 칼로리, 붓기 모조리 폭발시키기! ▼ 클릭 ▼ 눈뜨면 타! 무조건 살 빠지는 실내 바이크 다이어트 매일 한시간 쭉쭉 실내 바이크로 칼로리, 붓기 모조리 폭발시키기! www.cosmopolitan···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주얼리도 커스텀이 대세!  걸스 주얼리 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84647</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84647</guid>
-            <pubDate>Tue, 12 Mar 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[커스텀 주얼리를 걸친 네 소녀의 빛나는 초상.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이런 것까지 알려준다고? 셀럽들의 찐템 소개 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84707</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84707</guid>
-            <pubDate>Tue, 12 Mar 2024 11:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[랜선 집들이를 가장한 드레스룸 투어.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[앤더슨벨 김도훈은 이제 막 첫 장을 넘겼다 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84634</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84634</guid>
-            <pubDate>Mon, 11 Mar 2024 08:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[밀라노에서의 첫 데뷔쇼에 이어 2024 F/W 컬렉션까지 성공적으로 마친 앤더슨벨. 론칭 10년이 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Back to 2005, 할리우드 파파라치 패션이 돌아왔다! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84631</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84631</guid>
-            <pubDate>Mon, 11 Mar 2024 05:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[1990년대 미니멀리즘의 부활과 함께 Y2K의 종말을 선언한 패션계. 하지만 언제나 그 아류가 잔...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<파묘> 김고은의 시크한 무당 패션 파헤치기! (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84661</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84661</guid>
-            <pubDate>Sun, 10 Mar 2024 15:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[역대급 시크한 무당 패션이 탄생했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이제는 모두의 옷! 워크재킷 A to Z (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84629</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84629</guid>
-            <pubDate>Sat, 09 Mar 2024 15:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[노동자들의 옷에서 모두의 옷이 된 워크 재킷에 대한 모든 것.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지금 이 순간 가장 핫한 패션 아이템 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84630</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84630</guid>
-            <pubDate>Fri, 08 Mar 2024 01:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[과거 안경은 감추고 싶은 아이템이었다. 하지만 더 이상 숨기지 않아도 된다. 지금 이 순간 가...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What's Hot! 3월의 패션 뉴스 (코스모폴리탄 코리아 ─ 패션)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84628</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84628</guid>
-            <pubDate>Thu, 07 Mar 2024 15:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[산뜻한 봄처럼 풍성한 3월의 패션 뉴스.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뱃살이 쏙 들어가는 이나연의 초콜릿 다이어트 팁! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84750</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84750</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[입 터질 때 먹으면 딱~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[힙 라인 폼 미쳤다! 소유 추천 힙 운동 루틴 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84747</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84747</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[엉덩이 제대로 화나는 꿀팁까지!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[봄, 봄, 봄, 봄! 봄 향수가 왔어요 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84649</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84649</guid>
-            <pubDate>Tue, 12 Mar 2024 15:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[플로럴 향조가 만들어낸 의외의 하모니에 빠져들 차례.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 S/S 백스테이지에서 찾은 헤어 샘플러 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84641</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84641</guid>
-            <pubDate>Tue, 12 Mar 2024 03:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[계절이 바뀔 땐 두피도 삼중고를 겪는다. 성난 두피를 다독여줄 헤어 어벤져스와 속절없이 빠지...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이생망 두피를 구원해 줄 헤어케어 수칙 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84633</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84633</guid>
-            <pubDate>Mon, 11 Mar 2024 15:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[계절이 바뀔 땐 두피도 삼중고를 겪는다. 성난 두피를 다독여줄 헤어 어벤져스와 속절없이 빠지...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[왓츠 인 마이 백! 궁금하면 드루와 드루와 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84562</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84562</guid>
-            <pubDate>Mon, 11 Mar 2024 09:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[확고한 취향을 가진 사람이 되고 싶다면 그날의 추구미에 맞춰 가방 속을 채워볼 것.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[13kg 감량의 비법! 김무열♥️윤승아의 아침 식사 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84680</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84680</guid>
-            <pubDate>Mon, 11 Mar 2024 08:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[탄단지 비율 완벽한데?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엄정화·신애라·하희라도 한다! 50대 톱배우의 다이어트 노하우 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84679</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84679</guid>
-            <pubDate>Sat, 09 Mar 2024 16:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[최강 동안 이유 있었네~]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 골저스 레이디~💍 (여자)아이들 댕댕댕 등장! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84782</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84782</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[미연, 민니, 우기의 반짝이는 TMI 대방출!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[9n년대생 다 모여. 셀렙들이 소환한 ‘그때 그 시절’ 감성 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84775</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84775</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[기사 퍼가요~♥️]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송혜교♥️임지연? 찐 언니들의 커피차 조공 모음zip (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84772</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84772</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[송혜교의 커피차가 찐친들에게 미치는 영향.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[짠한형에서 뱉은 말 주워담은 스타들…하지원,이효리,장도연(feat. 깜짝등장인물) (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84770</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84770</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[의리 하나로 뭉쳤다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘눈물의 여왕’ 김수현! 아이유 팬 영상에 목소리 박제됐다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84766</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84766</guid>
-            <pubDate>Tue, 12 Mar 2024 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[김수현은 중앙대를 4수해서 입학했다!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이 사랑 응원해! 결혼 골인하는 박위♥️송지은 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84765</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84765</guid>
-            <pubDate>Tue, 12 Mar 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[너는 내 별빛~ 내 마음의 달빛~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연애 9년차 정호연♥이동휘, 달달한 에피소드가 추가됐다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84753</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84753</guid>
-            <pubDate>Tue, 12 Mar 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 꿀 떨어진다~.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[결별은 NO! 아이유♥이종석, 셀럽 커플들의 데이트 목격담 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84748</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84748</guid>
-            <pubDate>Tue, 12 Mar 2024 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[1분 1초마다 꿀 떨어진다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올해는 솔로 탈출! 홍진경이 알려주는 연애 TIP (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83595</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83595</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[그 누구도 알려주지 않은 그 남자의 진심.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<솔로지옥3>로 알아보는 천국도행 스킬 네가지 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83111</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83111</guid>
-            <pubDate>Tue, 12 Mar 2024 09:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 만남에도 불구하고 그녀들이 천국도에 갈 수 있었던 비결.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[녹화하다 헤어진 커플?! 극악 연애 밸런스 게임 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81409</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81409</guid>
-            <pubDate>Wed, 06 Mar 2024 06:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 커플이 출연해 만날지 헤어질지 결정한다고?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MBTI 매칭 시 커플 확률 100%? (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81248</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81248</guid>
-            <pubDate>Thu, 01 Feb 2024 08:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 이게 돼?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80945</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80945</guid>
-            <pubDate>Tue, 23 Jan 2024 05:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80856</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80856</guid>
-            <pubDate>Wed, 10 Jan 2024 02:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80720</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80720</guid>
-            <pubDate>Tue, 19 Dec 2023 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80719</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80719</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 강력해진 한 끗! 업그레이드 된 2024 신차 4대 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84554</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84554</guid>
-            <pubDate>Tue, 12 Mar 2024 09:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[강력한 한 끗을 가지고 돌아온 2024년 신차 4대의 새 얼굴.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What's Hot! 3월의 라이프스타일 뉴스 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84612</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84612</guid>
-            <pubDate>Mon, 11 Mar 2024 15:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[매일을 화사하게 밝혀줄 3월의 라이프스타일 뉴스.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전국노래자랑 MC 김신영, 갑작스러운 하차 통보? (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84597</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84597</guid>
-            <pubDate>Wed, 06 Mar 2024 07:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[다음 MC는 남희석이 유력하다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스태프들이 단체로 아팠다고? ‘파묘’ 비하인드 대방출! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84509</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84509</guid>
-            <pubDate>Wed, 06 Mar 2024 12:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[파면 팔수록 재밌네!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[막 찍어도 예뻐! 인스타각 살아있는 송파 신상 디저트 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84485</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84485</guid>
-            <pubDate>Wed, 06 Mar 2024 11:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[메뉴들이 다 맛있기까지 한 건 안 비밀!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2차로 딱 좋아! 성수동 극락 안주 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84479</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84479</guid>
-            <pubDate>Mon, 04 Mar 2024 15:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이티브가 살아있는 심야 감성 요리 주점들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이게 아이돌 숙소라고? 뉴진스, 슬기의 감각적인 숙소 공개 (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84470</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84470</guid>
-            <pubDate>Mon, 04 Mar 2024 06:57:50 GMT</pubDate>
-            <content:encoded><![CDATA[핫템 가득! 셀렙 랜선 집들이.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밥 먹으면서 보기 좋은 무한 수다 유튜브 추천! (코스모폴리탄 코리아 ─ 라이프)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84372</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84372</guid>
-            <pubDate>Mon, 04 Mar 2024 01:59:19 GMT</pubDate>
-            <content:encoded><![CDATA[적당히 조근조근 심심함을 달래주는 수다 ASMR 플레이리스트.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김우민·황선우 등 박태환을 잇는 뉴 마린보이들은 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81101</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81101</guid>
-            <pubDate>Mon, 11 Mar 2024 15:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[여심 흔들고 메달까지 쥐어진 아시안 게임 주역들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/98d26c34-0099-4868-9d5d-257835a46f2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카메라만 354대? <사이렌: 불의 섬> 입덕 포인트 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78352</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78352</guid>
-            <pubDate>Tue, 30 Jan 2024 07:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[지금까지 본 적 없는 여성 서바이벌 예능이 탄생했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/3bc6148d-c40b-4beb-85ca-07f8ad83b636.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간극장급 인생예능 최강야구 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/78351</link>
-            <guid>https://www.cosmopolitan.co.kr/article/78351</guid>
-            <pubDate>Tue, 16 Jan 2024 06:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[야구를 떠난 팬들은 물론 야.알.못.들까지 야구앓이로 만들어버린 인생 예능 등장, 최강야구.  ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/26becae4-79e5-4bf0-b731-627b71e09fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 KBO 개막 기념! 야구 영화 속 인물 10인 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/77379</link>
-            <guid>https://www.cosmopolitan.co.kr/article/77379</guid>
-            <pubDate>Thu, 21 Dec 2023 09:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[이 라인업이 우리 팀 주전 라인업이라면 얼마나 좋을까? 2023 KBO 개막 기념으로 살펴보는 야...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/64dff61a-19e1-4db3-96cd-d25bdc2d4269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66996</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66996</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[더 이상 못 참겠다 VS 눈치게임 중]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/ef39e916-2881-4268-9ffa-16fcc65094a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워라밸 다음은 워케이션? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/66295</link>
-            <guid>https://www.cosmopolitan.co.kr/article/66295</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/4174c705-a19d-4e65-8069-d57fcf7ec6f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65331</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65331</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/7f65d5d2-800a-4b6f-85e1-e5d1f2638452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/65142</link>
-            <guid>https://www.cosmopolitan.co.kr/article/65142</guid>
-            <pubDate>Mon, 13 Nov 2023 19:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/1a796627-013a-473c-adc9-925103e04418.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37332739&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37332739&amp;memberNo=11800362"/>
+        <updated>2024-02-15T00:38:38.960Z</updated>
+        <content type="html"><![CDATA[매일 한시간 쭉쭉 실내 바이크로 칼로리, 붓기 모조리 폭발시키기! ▼ 클릭 ▼ 눈뜨면 타! 무조건 살 빠지는 실내 바이크 다이어트 매일 한시간 쭉쭉 실내 바이크로 칼로리, 붓기 모조리 폭발시키기! www.cosmopolitan···]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주얼리도 커스텀이 대세!  걸스 주얼리 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84647</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84647"/>
+        <updated>2024-03-12T15:08:52.326Z</updated>
+        <content type="html"><![CDATA[커스텀 주얼리를 걸친 네 소녀의 빛나는 초상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이런 것까지 알려준다고? 셀럽들의 찐템 소개 (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84707</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84707"/>
+        <updated>2024-03-12T11:07:43.119Z</updated>
+        <content type="html"><![CDATA[랜선 집들이를 가장한 드레스룸 투어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤더슨벨 김도훈은 이제 막 첫 장을 넘겼다 (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84634</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84634"/>
+        <updated>2024-03-11T08:12:24.936Z</updated>
+        <content type="html"><![CDATA[밀라노에서의 첫 데뷔쇼에 이어 2024 F/W 컬렉션까지 성공적으로 마친 앤더슨벨. 론칭 10년이 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back to 2005, 할리우드 파파라치 패션이 돌아왔다! (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84631</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84631"/>
+        <updated>2024-03-11T05:10:42.641Z</updated>
+        <content type="html"><![CDATA[1990년대 미니멀리즘의 부활과 함께 Y2K의 종말을 선언한 패션계. 하지만 언제나 그 아류가 잔...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<파묘> 김고은의 시크한 무당 패션 파헤치기! (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84661</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84661"/>
+        <updated>2024-03-10T15:07:44.798Z</updated>
+        <content type="html"><![CDATA[역대급 시크한 무당 패션이 탄생했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제는 모두의 옷! 워크재킷 A to Z (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84629</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84629"/>
+        <updated>2024-03-09T15:07:27.425Z</updated>
+        <content type="html"><![CDATA[노동자들의 옷에서 모두의 옷이 된 워크 재킷에 대한 모든 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 이 순간 가장 핫한 패션 아이템 (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84630</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84630"/>
+        <updated>2024-03-08T01:40:42.812Z</updated>
+        <content type="html"><![CDATA[과거 안경은 감추고 싶은 아이템이었다. 하지만 더 이상 숨기지 않아도 된다. 지금 이 순간 가...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Hot! 3월의 패션 뉴스 (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84628</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84628"/>
+        <updated>2024-03-07T15:09:13.621Z</updated>
+        <content type="html"><![CDATA[산뜻한 봄처럼 풍성한 3월의 패션 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뱃살이 쏙 들어가는 이나연의 초콜릿 다이어트 팁! (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84750</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84750"/>
+        <updated>2024-03-13T09:10:06.658Z</updated>
+        <content type="html"><![CDATA[입 터질 때 먹으면 딱~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힙 라인 폼 미쳤다! 소유 추천 힙 운동 루틴 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84747</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84747"/>
+        <updated>2024-03-13T09:10:06.659Z</updated>
+        <content type="html"><![CDATA[엉덩이 제대로 화나는 꿀팁까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄, 봄, 봄, 봄! 봄 향수가 왔어요 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84649</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84649"/>
+        <updated>2024-03-12T15:08:59.612Z</updated>
+        <content type="html"><![CDATA[플로럴 향조가 만들어낸 의외의 하모니에 빠져들 차례.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 S/S 백스테이지에서 찾은 헤어 샘플러 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84641</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84641"/>
+        <updated>2024-03-12T03:10:40.683Z</updated>
+        <content type="html"><![CDATA[계절이 바뀔 땐 두피도 삼중고를 겪는다. 성난 두피를 다독여줄 헤어 어벤져스와 속절없이 빠지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이생망 두피를 구원해 줄 헤어케어 수칙 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84633</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84633"/>
+        <updated>2024-03-11T15:10:31.120Z</updated>
+        <content type="html"><![CDATA[계절이 바뀔 땐 두피도 삼중고를 겪는다. 성난 두피를 다독여줄 헤어 어벤져스와 속절없이 빠지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왓츠 인 마이 백! 궁금하면 드루와 드루와 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84562</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84562"/>
+        <updated>2024-03-11T09:10:41.888Z</updated>
+        <content type="html"><![CDATA[확고한 취향을 가진 사람이 되고 싶다면 그날의 추구미에 맞춰 가방 속을 채워볼 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13kg 감량의 비법! 김무열♥️윤승아의 아침 식사 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84680</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84680"/>
+        <updated>2024-03-11T08:12:31.143Z</updated>
+        <content type="html"><![CDATA[탄단지 비율 완벽한데?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄정화·신애라·하희라도 한다! 50대 톱배우의 다이어트 노하우 3 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84679</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84679"/>
+        <updated>2024-03-09T16:10:08.017Z</updated>
+        <content type="html"><![CDATA[최강 동안 이유 있었네~]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘은 골저스 레이디~💍 (여자)아이들 댕댕댕 등장! (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84782</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84782"/>
+        <updated>2024-03-13T09:10:14.326Z</updated>
+        <content type="html"><![CDATA[미연, 민니, 우기의 반짝이는 TMI 대방출!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9n년대생 다 모여. 셀렙들이 소환한 ‘그때 그 시절’ 감성 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84775</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84775"/>
+        <updated>2024-03-13T09:10:14.328Z</updated>
+        <content type="html"><![CDATA[기사 퍼가요~♥️]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교♥️임지연? 찐 언니들의 커피차 조공 모음zip (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84772</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84772"/>
+        <updated>2024-03-13T09:10:14.332Z</updated>
+        <content type="html"><![CDATA[송혜교의 커피차가 찐친들에게 미치는 영향.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[짠한형에서 뱉은 말 주워담은 스타들…하지원,이효리,장도연(feat. 깜짝등장인물) (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84770</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84770"/>
+        <updated>2024-03-13T09:10:14.334Z</updated>
+        <content type="html"><![CDATA[의리 하나로 뭉쳤다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 김수현! 아이유 팬 영상에 목소리 박제됐다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84766</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84766"/>
+        <updated>2024-03-12T11:07:57.092Z</updated>
+        <content type="html"><![CDATA[김수현은 중앙대를 4수해서 입학했다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 사랑 응원해! 결혼 골인하는 박위♥️송지은 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84765</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84765"/>
+        <updated>2024-03-12T09:12:33.154Z</updated>
+        <content type="html"><![CDATA[너는 내 별빛~ 내 마음의 달빛~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애 9년차 정호연♥이동휘, 달달한 에피소드가 추가됐다고? (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84753</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84753"/>
+        <updated>2024-03-12T09:12:33.155Z</updated>
+        <content type="html"><![CDATA[여전히 꿀 떨어진다~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결별은 NO! 아이유♥이종석, 셀럽 커플들의 데이트 목격담 4 (코스모폴리탄 코리아 ─ 셀레브리티)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84748</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84748"/>
+        <updated>2024-03-12T08:11:56.438Z</updated>
+        <content type="html"><![CDATA[1분 1초마다 꿀 떨어진다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해는 솔로 탈출! 홍진경이 알려주는 연애 TIP (코스모폴리탄 코리아 ─ 러브)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83595</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83595"/>
+        <updated>2024-03-13T09:10:22.582Z</updated>
+        <content type="html"><![CDATA[그 누구도 알려주지 않은 그 남자의 진심.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<솔로지옥3>로 알아보는 천국도행 스킬 네가지 (코스모폴리탄 코리아 ─ 러브)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83111</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83111"/>
+        <updated>2024-03-12T09:12:41.008Z</updated>
+        <content type="html"><![CDATA[짧은 만남에도 불구하고 그녀들이 천국도에 갈 수 있었던 비결.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹화하다 헤어진 커플?! 극악 연애 밸런스 게임 (코스모폴리탄 코리아 ─ 러브)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81409</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81409"/>
+        <updated>2024-03-06T06:13:43.550Z</updated>
+        <content type="html"><![CDATA[진짜 커플이 출연해 만날지 헤어질지 결정한다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBTI 매칭 시 커플 확률 100%? (코스모폴리탄 코리아 ─ 러브)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81248</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81248"/>
+        <updated>2024-02-01T08:12:15.904Z</updated>
+        <content type="html"><![CDATA[진짜 이게 돼?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡 (코스모폴리탄 코리아 ─ 러브)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80945</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80945"/>
+        <updated>2024-01-23T05:10:45.100Z</updated>
+        <content type="html"><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80856</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80856"/>
+        <updated>2024-01-10T02:24:53.606Z</updated>
+        <content type="html"><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔로 탈출하고 싶다면? 김새롬의 플러팅 기술 (코스모폴리탄 코리아 ─ 러브)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80720</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80720"/>
+        <updated>2023-12-19T09:09:48.013Z</updated>
+        <content type="html"><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트 (코스모폴리탄 코리아 ─ 러브)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80719</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80719"/>
+        <updated>2023-11-13T19:08:24.103Z</updated>
+        <content type="html"><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 강력해진 한 끗! 업그레이드 된 2024 신차 4대 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84554</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84554"/>
+        <updated>2024-03-12T09:12:49.030Z</updated>
+        <content type="html"><![CDATA[강력한 한 끗을 가지고 돌아온 2024년 신차 4대의 새 얼굴.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Hot! 3월의 라이프스타일 뉴스 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84612</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84612"/>
+        <updated>2024-03-11T15:10:54.886Z</updated>
+        <content type="html"><![CDATA[매일을 화사하게 밝혀줄 3월의 라이프스타일 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국노래자랑 MC 김신영, 갑작스러운 하차 통보? (코스모폴리탄 코리아 ─ 라이프)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84597</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84597"/>
+        <updated>2024-03-06T07:08:37.569Z</updated>
+        <content type="html"><![CDATA[다음 MC는 남희석이 유력하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스태프들이 단체로 아팠다고? ‘파묘’ 비하인드 대방출! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84509</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84509"/>
+        <updated>2024-03-06T12:17:21.170Z</updated>
+        <content type="html"><![CDATA[파면 팔수록 재밌네!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막 찍어도 예뻐! 인스타각 살아있는 송파 신상 디저트 맛집 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84485</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84485"/>
+        <updated>2024-03-06T11:08:44.487Z</updated>
+        <content type="html"><![CDATA[메뉴들이 다 맛있기까지 한 건 안 비밀!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2차로 딱 좋아! 성수동 극락 안주 맛집 4 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84479</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84479"/>
+        <updated>2024-03-04T15:11:40.838Z</updated>
+        <content type="html"><![CDATA[크리에이티브가 살아있는 심야 감성 요리 주점들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이게 아이돌 숙소라고? 뉴진스, 슬기의 감각적인 숙소 공개 (코스모폴리탄 코리아 ─ 라이프)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84470</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84470"/>
+        <updated>2024-03-04T06:57:50.410Z</updated>
+        <content type="html"><![CDATA[핫템 가득! 셀렙 랜선 집들이.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밥 먹으면서 보기 좋은 무한 수다 유튜브 추천! (코스모폴리탄 코리아 ─ 라이프)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84372</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84372"/>
+        <updated>2024-03-04T01:59:19.754Z</updated>
+        <content type="html"><![CDATA[적당히 조근조근 심심함을 달래주는 수다 ASMR 플레이리스트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김우민·황선우 등 박태환을 잇는 뉴 마린보이들은 누구? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81101</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81101"/>
+        <updated>2024-03-11T15:11:18.806Z</updated>
+        <content type="html"><![CDATA[여심 흔들고 메달까지 쥐어진 아시안 게임 주역들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카메라만 354대? <사이렌: 불의 섬> 입덕 포인트 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78352</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78352"/>
+        <updated>2024-01-30T07:09:56.980Z</updated>
+        <content type="html"><![CDATA[지금까지 본 적 없는 여성 서바이벌 예능이 탄생했다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간극장급 인생예능 최강야구 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/78351</id>
+        <link href="https://www.cosmopolitan.co.kr/article/78351"/>
+        <updated>2024-01-16T06:13:23.759Z</updated>
+        <content type="html"><![CDATA[야구를 떠난 팬들은 물론 야.알.못.들까지 야구앓이로 만들어버린 인생 예능 등장, 최강야구.  ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 KBO 개막 기념! 야구 영화 속 인물 10인 (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/77379</id>
+        <link href="https://www.cosmopolitan.co.kr/article/77379"/>
+        <updated>2023-12-21T09:09:54.383Z</updated>
+        <content type="html"><![CDATA[이 라인업이 우리 팀 주전 라인업이라면 얼마나 좋을까? 2023 KBO 개막 기념으로 살펴보는 야...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 여름 휴가는 해외로? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/66996</id>
+        <link href="https://www.cosmopolitan.co.kr/article/66996"/>
+        <updated>2023-11-13T19:08:51.233Z</updated>
+        <content type="html"><![CDATA[더 이상 못 참겠다 VS 눈치게임 중]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워라밸 다음은 워케이션? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/66295</id>
+        <link href="https://www.cosmopolitan.co.kr/article/66295"/>
+        <updated>2023-11-13T19:08:51.270Z</updated>
+        <content type="html"><![CDATA[이것은 다 된 휴가에 업무 뿌리기인가, 아니면 업무로 팍팍한 삶에 휴가 솔솔 뿌리기인가?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실외 마스크 착용 의무 해제되면 나는 OOO할 것이다? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/65331</id>
+        <link href="https://www.cosmopolitan.co.kr/article/65331"/>
+        <updated>2023-11-13T19:08:51.288Z</updated>
+        <content type="html"><![CDATA[마스크, 드디어 벗나요?! 실외 마스크 착용 의무화가 해제될 가능성이 커지면서 기대와 우려가 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[깻잎 논쟁에 이은 OO 논쟁 시리즈, 어디까지 허용 가능? (코스모폴리탄 코리아 ─ 코피셜)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/65142</id>
+        <link href="https://www.cosmopolitan.co.kr/article/65142"/>
+        <updated>2023-11-13T19:08:51.295Z</updated>
+        <content type="html"><![CDATA[내 애인, 이성친구의 패딩 지퍼가 끼어 고생하고 있을 때 패딩 지퍼 올려줄 수 있다 VS 절대...]]></content>
+    </entry>
+</feed>
