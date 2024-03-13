@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 03:11:41 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[더 강력해진 한 끗! 업그레이드 된 2024 신차 4대]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84554</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84554</guid>
-            <pubDate>Tue, 12 Mar 2024 09:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[강력한 한 끗을 가지고 돌아온 2024년 신차 4대의 새 얼굴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/f6acb50a-fac3-4e9e-a68a-c500a1d51375.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What's Hot! 3월의 라이프스타일 뉴스]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84612</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84612</guid>
-            <pubDate>Mon, 11 Mar 2024 15:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[매일을 화사하게 밝혀줄 3월의 라이프스타일 뉴스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/dcc4676f-c93a-4a4e-a87c-bef475a36da4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국노래자랑 MC 김신영, 갑작스러운 하차 통보?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84597</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84597</guid>
-            <pubDate>Fri, 08 Mar 2024 10:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[다음 MC는 남희석이 유력하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/a2659938-bf06-40b9-83bc-86a1ff69acda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스태프들이 단체로 아팠다고? ‘파묘’ 비하인드 대방출!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84509</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84509</guid>
-            <pubDate>Wed, 06 Mar 2024 12:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[파면 팔수록 재밌네!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/8976ea72-d439-4fbb-8d42-974a873e169f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막 찍어도 예뻐! 인스타각 살아있는 송파 신상 디저트 맛집]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84485</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84485</guid>
-            <pubDate>Wed, 06 Mar 2024 11:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[메뉴들이 다 맛있기까지 한 건 안 비밀!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/cbe8b8c5-1284-43e2-8303-e6572354dac6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2차로 딱 좋아! 성수동 극락 안주 맛집 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84479</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84479</guid>
-            <pubDate>Mon, 04 Mar 2024 15:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이티브가 살아있는 심야 감성 요리 주점들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/e69513af-c505-44ee-86dc-3642dacb23f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 아이돌 숙소라고? 뉴진스, 슬기의 감각적인 숙소 공개]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84470</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84470</guid>
-            <pubDate>Mon, 04 Mar 2024 06:57:50 GMT</pubDate>
-            <content:encoded><![CDATA[핫템 가득! 셀렙 랜선 집들이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/dbc97ae7-45c0-4925-bef3-aaa266fe2061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밥 먹으면서 보기 좋은 무한 수다 유튜브 추천!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84372</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84372</guid>
-            <pubDate>Mon, 04 Mar 2024 01:59:19 GMT</pubDate>
-            <content:encoded><![CDATA[적당히 조근조근 심심함을 달래주는 수다 ASMR 플레이리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/39497b74-4c01-467f-9117-35ad48a539b2.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/life</id>
+    <title>코스모폴리탄 코리아 ─ 라이프</title>
+    <updated>2024-03-13T04:12:51.333Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 강력해진 한 끗! 업그레이드 된 2024 신차 4대]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84554</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84554"/>
+        <updated>2024-03-12T09:12:49.030Z</updated>
+        <content type="html"><![CDATA[강력한 한 끗을 가지고 돌아온 2024년 신차 4대의 새 얼굴.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Hot! 3월의 라이프스타일 뉴스]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84612</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84612"/>
+        <updated>2024-03-11T15:10:54.886Z</updated>
+        <content type="html"><![CDATA[매일을 화사하게 밝혀줄 3월의 라이프스타일 뉴스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국노래자랑 MC 김신영, 갑작스러운 하차 통보?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84597</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84597"/>
+        <updated>2024-03-08T10:11:57.757Z</updated>
+        <content type="html"><![CDATA[다음 MC는 남희석이 유력하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스태프들이 단체로 아팠다고? ‘파묘’ 비하인드 대방출!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84509</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84509"/>
+        <updated>2024-03-06T12:17:21.170Z</updated>
+        <content type="html"><![CDATA[파면 팔수록 재밌네!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막 찍어도 예뻐! 인스타각 살아있는 송파 신상 디저트 맛집]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84485</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84485"/>
+        <updated>2024-03-06T11:08:44.487Z</updated>
+        <content type="html"><![CDATA[메뉴들이 다 맛있기까지 한 건 안 비밀!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2차로 딱 좋아! 성수동 극락 안주 맛집 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84479</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84479"/>
+        <updated>2024-03-04T15:11:40.838Z</updated>
+        <content type="html"><![CDATA[크리에이티브가 살아있는 심야 감성 요리 주점들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이게 아이돌 숙소라고? 뉴진스, 슬기의 감각적인 숙소 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84470</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84470"/>
+        <updated>2024-03-04T06:57:50.410Z</updated>
+        <content type="html"><![CDATA[핫템 가득! 셀렙 랜선 집들이.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밥 먹으면서 보기 좋은 무한 수다 유튜브 추천!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84372</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84372"/>
+        <updated>2024-03-04T01:59:19.754Z</updated>
+        <content type="html"><![CDATA[적당히 조근조근 심심함을 달래주는 수다 ASMR 플레이리스트.]]></content>
+    </entry>
+</feed>
