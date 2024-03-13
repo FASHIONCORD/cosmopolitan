@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 07:09:20 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[‘눈물의 여왕’ 김수현! 아이유 팬 영상에 목소리 박제됐다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84766</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84766</guid>
-            <pubDate>Tue, 12 Mar 2024 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[김수현은 중앙대를 4수해서 입학했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/f1d97fb5-5c6f-45c0-9339-b472c0d1511f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 사랑 응원해! 결혼 골인하는 박위♥️송지은]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84765</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84765</guid>
-            <pubDate>Tue, 12 Mar 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[너는 내 별빛~ 내 마음의 달빛~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/d5b47252-a5dd-4cc6-bb41-26683724c800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 9년차 정호연♥이동휘, 달달한 에피소드가 추가됐다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84753</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84753</guid>
-            <pubDate>Tue, 12 Mar 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 꿀 떨어진다~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/4ad67f6e-6762-4f47-98b1-b2c57308185d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결별은 NO! 아이유♥이종석, 셀럽 커플들의 데이트 목격담 4]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84748</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84748</guid>
-            <pubDate>Tue, 12 Mar 2024 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[1분 1초마다 꿀 떨어진다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/218d9387-c1f4-4ea6-8f25-0f2d060e9ce0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지드래곤 열애설의 주인공, 미코 김고은은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84745</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84745</guid>
-            <pubDate>Tue, 12 Mar 2024 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[띠동갑 커플이 있었는데 없었습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/b76674c1-1b2b-4033-9903-735936d95180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탱탄절 기념, 틱톡 개설한 태연?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84744</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84744</guid>
-            <pubDate>Tue, 12 Mar 2024 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[To.X 원작자 챌린지 드.디.어.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/8f32281f-0ef4-4c65-9c64-453c2f369e5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 미국 아카데미 시상식! 여배우 패션 총정리]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84743</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84743</guid>
-            <pubDate>Tue, 12 Mar 2024 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[엠마스톤의 여우주연상을 축하합니다~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/988f7612-c928-4d0e-99fe-bd4c8d75ab69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성의 날 기념! 코스모가 만난 4명의 여성들은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84711</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84711</guid>
-            <pubDate>Mon, 11 Mar 2024 11:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[멋지다 멋져~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/3820c403-aa5d-4c13-bda6-5d6baf9cfffd.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2024-03-13T08:12:54.145Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 김수현! 아이유 팬 영상에 목소리 박제됐다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84766</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84766"/>
+        <updated>2024-03-12T11:07:57.092Z</updated>
+        <content type="html"><![CDATA[김수현은 중앙대를 4수해서 입학했다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 사랑 응원해! 결혼 골인하는 박위♥️송지은]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84765</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84765"/>
+        <updated>2024-03-12T09:12:33.154Z</updated>
+        <content type="html"><![CDATA[너는 내 별빛~ 내 마음의 달빛~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애 9년차 정호연♥이동휘, 달달한 에피소드가 추가됐다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84753</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84753"/>
+        <updated>2024-03-12T09:12:33.155Z</updated>
+        <content type="html"><![CDATA[여전히 꿀 떨어진다~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결별은 NO! 아이유♥이종석, 셀럽 커플들의 데이트 목격담 4]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84748</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84748"/>
+        <updated>2024-03-12T08:11:56.438Z</updated>
+        <content type="html"><![CDATA[1분 1초마다 꿀 떨어진다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지드래곤 열애설의 주인공, 미코 김고은은 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84745</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84745"/>
+        <updated>2024-03-12T08:11:56.439Z</updated>
+        <content type="html"><![CDATA[띠동갑 커플이 있었는데 없었습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탱탄절 기념, 틱톡 개설한 태연?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84744</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84744"/>
+        <updated>2024-03-12T08:11:56.441Z</updated>
+        <content type="html"><![CDATA[To.X 원작자 챌린지 드.디.어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 미국 아카데미 시상식! 여배우 패션 총정리]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84743</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84743"/>
+        <updated>2024-03-12T08:11:56.442Z</updated>
+        <content type="html"><![CDATA[엠마스톤의 여우주연상을 축하합니다~!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여성의 날 기념! 코스모가 만난 4명의 여성들은 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84711</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84711"/>
+        <updated>2024-03-11T11:09:49.836Z</updated>
+        <content type="html"><![CDATA[멋지다 멋져~.]]></content>
+    </entry>
+</feed>
