@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-03-13T14:09:50.286Z</updated>
+    <updated>2024-03-13T15:11:35.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잡채밥 다음은 양참덮밥?! 유지어터 규현의 NEW레시피]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84674</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84674"/>
+        <updated>2024-03-13T15:10:56.517Z</updated>
+        <content type="html"><![CDATA[다이어트 할 맛 난다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 강력해진 한 끗! 업그레이드 된 2024 신차 4대]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84554</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84470"/>
         <updated>2024-03-04T06:57:50.410Z</updated>
         <content type="html"><![CDATA[핫템 가득! 셀렙 랜선 집들이.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밥 먹으면서 보기 좋은 무한 수다 유튜브 추천!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84372</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84372"/>
-        <updated>2024-03-04T01:59:19.754Z</updated>
-        <content type="html"><![CDATA[적당히 조근조근 심심함을 달래주는 수다 ASMR 플레이리스트.]]></content>
     </entry>
 </feed>
