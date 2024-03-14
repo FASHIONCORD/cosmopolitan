@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-03-14T07:11:57.785Z</updated>
+    <updated>2024-03-14T08:12:39.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좋은 잠, 나쁜 잠, 이상한 잠! 꿀잠을 위한 가이드]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84664</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84664"/>
+        <updated>2024-03-14T08:12:11.554Z</updated>
+        <content type="html"><![CDATA[잠자리가 평안해야 건강도 지키는 법. 뜬눈으로 지새우는 불면의 밤을 뒤로하고 꿈나라 직행열차...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뱃살이 쏙 들어가는 이나연의 초콜릿 다이어트 팁!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84750</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84680"/>
         <updated>2024-03-11T08:12:31.143Z</updated>
         <content type="html"><![CDATA[탄단지 비율 완벽한데?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화·신애라·하희라도 한다! 50대 톱배우의 다이어트 노하우 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84679</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84679"/>
-        <updated>2024-03-09T16:10:08.017Z</updated>
-        <content type="html"><![CDATA[최강 동안 이유 있었네~]]></content>
     </entry>
 </feed>
