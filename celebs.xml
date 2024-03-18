@@ -1,64 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/celebs</id>
-    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-18T02:16:32.439Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[솔로지옥3 윤하정과 달바의 러블리한 만남]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84804</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84804"/>
-        <updated>2024-03-18T00:40:28.072Z</updated>
-        <content type="html"><![CDATA[코스모폴리탄 유튜브에선 이벤트까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안광이 싹 도네, 태어날 때부터 눈에 별을 지닌 셀럽은 누구?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84803</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84803"/>
-        <updated>2024-03-15T05:11:19.038Z</updated>
-        <content type="html"><![CDATA[현대 의학 기술로도 만들 수 없다는 안광을 지닌 그녀들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원은 교도소, 한소희는 빚투? 가정사 밝힌 스타 3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84801</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84801"/>
-        <updated>2024-03-15T04:12:27.910Z</updated>
-        <content type="html"><![CDATA[가족이 웬수네!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱글맘과 열애 중? 티모시의 구여친 VS 현여친]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84799</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84799"/>
-        <updated>2024-03-15T04:12:27.911Z</updated>
-        <content type="html"><![CDATA[알고 보니 사랑꾼이네~.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보석함 홍석천 화보 왔다. 다들 긴장해.]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84783</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84783"/>
-        <updated>2024-03-14T03:11:09.613Z</updated>
-        <content type="html"><![CDATA[뭐야 뭐야 이 오빠 왜 이렇게 멋있대?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘은 골저스 레이디~💍 (여자)아이들 댕댕댕 등장!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84782</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84782"/>
-        <updated>2024-03-13T09:10:14.326Z</updated>
-        <content type="html"><![CDATA[미연, 민니, 우기의 반짝이는 TMI 대방출!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9n년대생 다 모여. 셀렙들이 소환한 ‘그때 그 시절’ 감성]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84775</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84775"/>
-        <updated>2024-03-13T09:10:14.328Z</updated>
-        <content type="html"><![CDATA[기사 퍼가요~♥️]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교♥️임지연? 찐 언니들의 커피차 조공 모음zip]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84772</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84772"/>
-        <updated>2024-03-13T09:10:14.332Z</updated>
-        <content type="html"><![CDATA[송혜교의 커피차가 찐친들에게 미치는 영향.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 18 Mar 2024 03:11:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두 소리 질러~ <시그널> 시즌 2 제작 확정!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84817</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84817</guid>
+            <pubDate>Mon, 18 Mar 2024 03:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[8년을 기다렸다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[솔로지옥3 윤하정과 달바의 러블리한 만남]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84804</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84804</guid>
+            <pubDate>Mon, 18 Mar 2024 00:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[코스모폴리탄 유튜브에선 이벤트까지!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안광이 싹 도네, 태어날 때부터 눈에 별을 지닌 셀럽은 누구?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84803</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84803</guid>
+            <pubDate>Fri, 15 Mar 2024 05:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[현대 의학 기술로도 만들 수 없다는 안광을 지닌 그녀들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정동원은 교도소, 한소희는 빚투? 가정사 밝힌 스타 3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84801</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84801</guid>
+            <pubDate>Fri, 15 Mar 2024 04:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[가족이 웬수네!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싱글맘과 열애 중? 티모시의 구여친 VS 현여친]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84799</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84799</guid>
+            <pubDate>Fri, 15 Mar 2024 04:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[알고 보니 사랑꾼이네~.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보석함 홍석천 화보 왔다. 다들 긴장해.]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84783</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84783</guid>
+            <pubDate>Thu, 14 Mar 2024 03:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[뭐야 뭐야 이 오빠 왜 이렇게 멋있대?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 골저스 레이디~💍 (여자)아이들 댕댕댕 등장!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84782</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84782</guid>
+            <pubDate>Wed, 13 Mar 2024 09:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[미연, 민니, 우기의 반짝이는 TMI 대방출!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[9n년대생 다 모여. 셀렙들이 소환한 ‘그때 그 시절’ 감성]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84775</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84775</guid>
+            <pubDate>Wed, 13 Mar 2024 09:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[기사 퍼가요~♥️]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/e4c68455-8d48-41b1-bb25-cecb009b1d44.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

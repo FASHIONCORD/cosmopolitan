@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/love</id>
     <title>코스모폴리탄 코리아 ─ 러브</title>
-    <updated>2024-03-18T02:16:32.429Z</updated>
+    <updated>2024-03-18T03:11:54.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해줘, 안 들어올 거야?  고자극 섹스팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83833</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83833"/>
+        <updated>2024-03-18T03:11:40.298Z</updated>
+        <content type="html"><![CDATA[“라면 먹을래요?”는 가고, “깊게 들어와야지”가 온다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해는 솔로 탈출! 홍진경이 알려주는 연애 TIP]]></title>
         <id>https://www.cosmopolitan.co.kr/article/83595</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/80720"/>
         <updated>2023-12-19T09:09:48.013Z</updated>
         <content type="html"><![CDATA[핑크빛 연애 하고 싶어? 이 언니 말 좀 들어봐.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영숙 or 상철? MBTI보다 핫한 <나는 SOLO> 테스트]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/80719</id>
-        <link href="https://www.cosmopolitan.co.kr/article/80719"/>
-        <updated>2023-10-17T11:08:28.337Z</updated>
-        <content type="html"><![CDATA[내가 만약 &lt;나는 SOLO&gt;에 출연한다면?]]></content>
     </entry>
 </feed>
