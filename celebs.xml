@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 07:10:36 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[빙상에 다시 선 김연아? 김연아 최근 근황 모음]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84840</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84840</guid>
-            <pubDate>Tue, 19 Mar 2024 03:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[은퇴 후 김연아의 일상은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/5aecfb6c-e24a-4627-a702-99db658df9e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 성사된 만남! 손석구&장도연]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84838</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84838</guid>
-            <pubDate>Mon, 18 Mar 2024 10:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[이거 방송 아니고 미팅 맞죠?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/a0c6511e-2238-4e1c-8bcd-a29935004ce6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희와 류준열은 하와이 여행중?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84836</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84836</guid>
-            <pubDate>Mon, 18 Mar 2024 10:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[한소희🖤류준열 하와이 목격담.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/d3131b8b-0c93-417c-ba4d-4694321af82a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두 소리 질러~ <시그널> 시즌 2 제작 확정!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84817</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84817</guid>
-            <pubDate>Mon, 18 Mar 2024 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[8년을 기다렸다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/8b711a89-ebf5-48ed-868c-6110bf686daf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로지옥3 윤하정과 달바의 러블리한 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84804</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84804</guid>
-            <pubDate>Mon, 18 Mar 2024 00:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[코스모폴리탄 유튜브에선 이벤트까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/e7cb6c15-1269-4cb0-94f5-728660650a1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안광이 싹 도네, 태어날 때부터 눈에 별을 지닌 셀럽은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84803</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84803</guid>
-            <pubDate>Fri, 15 Mar 2024 05:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[현대 의학 기술로도 만들 수 없다는 안광을 지닌 그녀들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/44d753f3-092d-44e6-b9ea-9adfdd1ecec5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정동원은 교도소, 한소희는 빚투? 가정사 밝힌 스타 3]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84801</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84801</guid>
-            <pubDate>Fri, 15 Mar 2024 04:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[가족이 웬수네!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/564df3ea-d41e-4ee3-a167-9c01d3d19107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱글맘과 열애 중? 티모시의 구여친 VS 현여친]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84799</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84799</guid>
-            <pubDate>Fri, 15 Mar 2024 04:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[알고 보니 사랑꾼이네~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/b11914fc-83e7-47de-a468-a4dcdea83b9a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2024-03-19T08:13:05.062Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[발레 코어에 도전한 투모로우바이투게더!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84879</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84879"/>
+        <updated>2024-03-19T08:12:17.973Z</updated>
+        <content type="html"><![CDATA[이번 콘셉트 찰떡인데?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로다주가 삭발을? 박찬욱 신작 <동조자> TMI]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84866</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84866"/>
+        <updated>2024-03-19T08:12:17.979Z</updated>
+        <content type="html"><![CDATA[1인 4역이나 소화한 로다주, 대단해!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 장하오&한유진, 꿈의 미소년 그 자체! <코스모폴리탄> 커버 공개]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84865</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84865"/>
+        <updated>2024-03-19T08:12:17.980Z</updated>
+        <content type="html"><![CDATA[“무대에 오르는 일과 사랑에 빠졌죠. 지금은 제가 원하던 인생 그 자체에요.” (장하오), “운...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빙상에 다시 선 김연아? 김연아 최근 근황 모음]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84840</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84840"/>
+        <updated>2024-03-19T03:10:43.058Z</updated>
+        <content type="html"><![CDATA[은퇴 후 김연아의 일상은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드디어 성사된 만남! 손석구&장도연]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84838</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84838"/>
+        <updated>2024-03-18T10:10:16.474Z</updated>
+        <content type="html"><![CDATA[이거 방송 아니고 미팅 맞죠?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희와 류준열은 하와이 여행중?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84836</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84836"/>
+        <updated>2024-03-18T10:10:16.475Z</updated>
+        <content type="html"><![CDATA[한소희🖤류준열 하와이 목격담.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두 소리 질러~ <시그널> 시즌 2 제작 확정!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84817</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84817"/>
+        <updated>2024-03-18T03:11:32.814Z</updated>
+        <content type="html"><![CDATA[8년을 기다렸다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔로지옥3 윤하정과 달바의 러블리한 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84804</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84804"/>
+        <updated>2024-03-18T00:40:28.072Z</updated>
+        <content type="html"><![CDATA[코스모폴리탄 유튜브에선 이벤트까지!]]></content>
+    </entry>
+</feed>
