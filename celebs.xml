@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-20T09:10:32.133Z</updated>
+    <updated>2024-03-20T10:10:26.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[느슨해진 가요계에 긴장감 주러 온 데이식스 완전체!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84887</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84887"/>
+        <updated>2024-03-20T10:10:02.747Z</updated>
+        <content type="html"><![CDATA[어제부터 눈물 흘리며 전곡 재생 중.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 태용, 4월 15일 해군 입대한다고?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84880</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84836"/>
         <updated>2024-03-18T10:10:16.475Z</updated>
         <content type="html"><![CDATA[한소희🖤류준열 하와이 목격담.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두 소리 질러~ <시그널> 시즌 2 제작 확정!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84817</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84817"/>
-        <updated>2024-03-18T03:11:32.814Z</updated>
-        <content type="html"><![CDATA[8년을 기다렸다.]]></content>
     </entry>
 </feed>
