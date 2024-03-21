@@ -1,64 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cosmopolitan.co.kr/life</id>
-    <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-03-21T04:12:58.772Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[느슨해진 가요계에 긴장감 주러 온 데이식스 완전체!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84887</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84887"/>
-        <updated>2024-03-19T10:10:50.003Z</updated>
-        <content type="html"><![CDATA[어제부터 눈물 흘리며 전곡 재생 중.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄을 알리는 것은 벚꽃이 아니라 OO?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84839</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84839"/>
-        <updated>2024-03-19T09:09:51.787Z</updated>
-        <content type="html"><![CDATA[벚꽃과는 또 다른 매력! 매화 나들이 어때요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 스며든 미래의 일상은? CES 2024 속 문제의 AI 제품!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84776</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84776"/>
-        <updated>2024-03-19T09:09:51.789Z</updated>
-        <content type="html"><![CDATA[세계 최대의 가전·정보기술(IT) 전시회 ‘CES 2024’에서 올해 가장 혁신적이고도 변화무쌍한 기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도파민 폭발! 원더풀 월드 vs 피라미드게임]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84781</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84781"/>
-        <updated>2024-03-19T08:12:55.440Z</updated>
-        <content type="html"><![CDATA[잔잔한 서사에는 감흥 없어진 지 오래! 도파민 폭발 드라마가 또 나타났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로야구 개막 전, 이것만 알면 준비 끝!]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84667</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84667"/>
-        <updated>2024-03-19T07:10:25.972Z</updated>
-        <content type="html"><![CDATA[2024 프로야구 개막 D-30. 2023 KBO 한국 시리즈 이후 약 4개월간 쏟아져 나온 스토브리그 빅...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 최초 공개? 한국에 처음 등장한 전시3]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84716</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84716"/>
-        <updated>2024-03-19T03:10:59.837Z</updated>
-        <content type="html"><![CDATA[봄맞이 전시 투어 가보자고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권상우도 반했다♥️ 뉴요커 손태영의 몸보신 레시피는?]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84681</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84681"/>
-        <updated>2024-03-15T05:11:50.806Z</updated>
-        <content type="html"><![CDATA[떨어진 체력이 고민이라면 한번 먹어볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잡채밥 다음은 양참덮밥?! 유지어터 규현의 NEW레시피]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84674</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84674"/>
-        <updated>2024-03-13T15:10:56.517Z</updated>
-        <content type="html"><![CDATA[다이어트 할 맛 난다!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>코스모폴리탄 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 21 Mar 2024 05:09:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[느슨해진 가요계에 긴장감 주러 온 데이식스 완전체!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84887</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84887</guid>
+            <pubDate>Tue, 19 Mar 2024 10:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[어제부터 눈물 흘리며 전곡 재생 중.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[봄을 알리는 것은 벚꽃이 아니라 OO?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84839</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84839</guid>
+            <pubDate>Tue, 19 Mar 2024 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[벚꽃과는 또 다른 매력! 매화 나들이 어때요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI가 스며든 미래의 일상은? CES 2024 속 문제의 AI 제품!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84776</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84776</guid>
+            <pubDate>Tue, 19 Mar 2024 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대의 가전·정보기술(IT) 전시회 ‘CES 2024’에서 올해 가장 혁신적이고도 변화무쌍한 기...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도파민 폭발! 원더풀 월드 vs 피라미드게임]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84781</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84781</guid>
+            <pubDate>Tue, 19 Mar 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[잔잔한 서사에는 감흥 없어진 지 오래! 도파민 폭발 드라마가 또 나타났다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프로야구 개막 전, 이것만 알면 준비 끝!]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84667</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84667</guid>
+            <pubDate>Tue, 19 Mar 2024 07:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024 프로야구 개막 D-30. 2023 KBO 한국 시리즈 이후 약 4개월간 쏟아져 나온 스토브리그 빅...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계 최초 공개? 한국에 처음 등장한 전시3]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84716</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84716</guid>
+            <pubDate>Tue, 19 Mar 2024 03:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[봄맞이 전시 투어 가보자고.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[권상우도 반했다♥️ 뉴요커 손태영의 몸보신 레시피는?]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84681</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84681</guid>
+            <pubDate>Fri, 15 Mar 2024 05:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[떨어진 체력이 고민이라면 한번 먹어볼까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잡채밥 다음은 양참덮밥?! 유지어터 규현의 NEW레시피]]></title>
+            <link>https://www.cosmopolitan.co.kr/article/84674</link>
+            <guid>https://www.cosmopolitan.co.kr/article/84674</guid>
+            <pubDate>Wed, 13 Mar 2024 15:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트 할 맛 난다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/3c2ae493-2d85-4788-ae42-4bc9f7952ac8.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
