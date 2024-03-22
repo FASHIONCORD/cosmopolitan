@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-03-22T06:12:34.955Z</updated>
+    <updated>2024-03-22T07:10:01.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비건 5년 차 임세미의 식단, 이렇게 맛있을 수가!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84891</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84891"/>
+        <updated>2024-03-22T07:09:54.010Z</updated>
+        <content type="html"><![CDATA[채식이라고 했지, 소식이라고 안 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[느슨해진 가요계에 긴장감 주러 온 데이식스 완전체!]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84887</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84681"/>
         <updated>2024-03-15T05:11:50.806Z</updated>
         <content type="html"><![CDATA[떨어진 체력이 고민이라면 한번 먹어볼까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잡채밥 다음은 양참덮밥?! 유지어터 규현의 NEW레시피]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84674</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84674"/>
-        <updated>2024-03-13T15:10:56.517Z</updated>
-        <content type="html"><![CDATA[다이어트 할 맛 난다!]]></content>
     </entry>
 </feed>
