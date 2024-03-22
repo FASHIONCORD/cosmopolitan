@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 11:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 12:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,6 +171,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84789</guid>
             <pubDate>Fri, 22 Mar 2024 00:37:59 GMT</pubDate>
             <content:encoded><![CDATA[들고, 신고, 벗고. 패션쇼 피팅 현장에서 포착한 뉴 시즌의 백&amp;슈즈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/b95e9b23-007f-402b-a101-7c8c73919836.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그라운드에서도 패션 포기 못해! (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -178,6 +179,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84763</guid>
             <pubDate>Tue, 19 Mar 2024 02:15:55 GMT</pubDate>
             <content:encoded><![CDATA[뉴 시즌의 그라운드 위에 펼쳐진 패션 드라마.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/1adcf905-d721-4019-8e93-bc43c855011c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보석함 홍석천 화보 왔다. 다들 긴장해. (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -185,6 +187,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84783</guid>
             <pubDate>Thu, 14 Mar 2024 03:11:09 GMT</pubDate>
             <content:encoded><![CDATA[뭐야 뭐야 이 오빠 왜 이렇게 멋있대?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/3efd0d95-5c8f-46bf-899a-10c7c4504c16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올 봄 패션 치트키는 스커트! 장원영, 태연이 입는 법? (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -192,6 +195,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84746</guid>
             <pubDate>Fri, 15 Mar 2024 09:09:18 GMT</pubDate>
             <content:encoded><![CDATA[꼭 시도해야 할 스커트 트렌드 총정리~.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/2b15ad20-2ce4-4187-ba79-c401fe848d11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 미국 아카데미 시상식! 여배우 패션 총정리 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -199,6 +203,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84743</guid>
             <pubDate>Thu, 14 Mar 2024 15:09:39 GMT</pubDate>
             <content:encoded><![CDATA[엠마스톤의 여우주연상을 축하합니다~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/988f7612-c928-4d0e-99fe-bd4c8d75ab69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손 끝을 물들인 봄의 컬러와 빛 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -206,6 +211,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84660</guid>
             <pubDate>Wed, 13 Mar 2024 15:09:59 GMT</pubDate>
             <content:encoded><![CDATA[손끝을 물들인 봄의 컬러와 빛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/ea56d48d-f3ea-4256-af2d-183282b490ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주얼리도 커스텀이 대세!  걸스 주얼리 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -213,6 +219,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84647</guid>
             <pubDate>Tue, 12 Mar 2024 15:08:52 GMT</pubDate>
             <content:encoded><![CDATA[커스텀 주얼리를 걸친 네 소녀의 빛나는 초상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/10/7274c212-502d-432c-bf19-61f52f1e9db3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이런 것까지 알려준다고? 셀럽들의 찐템 소개 (코스모폴리탄 코리아 ─ 패션)]]></title>
@@ -220,6 +227,7 @@
             <guid>https://www.cosmopolitan.co.kr/article/84707</guid>
             <pubDate>Tue, 12 Mar 2024 11:07:43 GMT</pubDate>
             <content:encoded><![CDATA[랜선 집들이를 가장한 드레스룸 투어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/b7b944ee-4b2a-45a2-815c-a23744051969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솔로지옥3 윤하정과 달바의 러블리한 만남 (코스모폴리탄 코리아 ─ 뷰티)]]></title>
@@ -353,7 +361,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83595</guid>
             <pubDate>Wed, 13 Mar 2024 09:10:22 GMT</pubDate>
             <content:encoded><![CDATA[그 누구도 알려주지 않은 그 남자의 진심.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/10/e919cfb3-7df4-4083-8f9e-46af823ce18e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<솔로지옥3>로 알아보는 천국도행 스킬 네가지 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -361,7 +368,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/83111</guid>
             <pubDate>Tue, 12 Mar 2024 09:12:41 GMT</pubDate>
             <content:encoded><![CDATA[짧은 만남에도 불구하고 그녀들이 천국도에 갈 수 있었던 비결.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/95187cba-6ef9-4910-ae4f-9a691aa5a11f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[녹화하다 헤어진 커플?! 극악 연애 밸런스 게임 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -369,7 +375,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81409</guid>
             <pubDate>Wed, 06 Mar 2024 06:13:43 GMT</pubDate>
             <content:encoded><![CDATA[진짜 커플이 출연해 만날지 헤어질지 결정한다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/e47748ff-28cb-4158-b3f7-19de9174b0f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBTI 매칭 시 커플 확률 100%? (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -377,7 +382,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/81248</guid>
             <pubDate>Thu, 01 Feb 2024 08:12:15 GMT</pubDate>
             <content:encoded><![CDATA[진짜 이게 돼?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/3c234ae0-bd52-44bd-9aca-af8b783fe021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -385,7 +389,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80945</guid>
             <pubDate>Tue, 23 Jan 2024 05:10:45 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/7ab35694-db81-4ae7-8fb6-66afe7b662c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모 (코스모폴리탄 코리아 ─ 러브)]]></title>
@@ -393,7 +396,6 @@
             <guid>https://www.cosmopolitan.co.kr/article/80856</guid>
             <pubDate>Wed, 10 Jan 2024 02:24:53 GMT</pubDate>
             <content:encoded><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/7d1bbb94-4806-4a55-8859-b68626749e45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[댕댕이 데리고 캠핑가자, 샤이니 키의 우당탕탕 혼캠 (코스모폴리탄 코리아 ─ 라이프)]]></title>
