@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 03:12:01 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[솔로지옥3 윤하정과 달바의 러블리한 만남]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84804</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84804</guid>
-            <pubDate>Tue, 19 Mar 2024 09:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[코스모폴리탄 유튜브에선 이벤트까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/e7cb6c15-1269-4cb0-94f5-728660650a1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부과 안 다녀도 가능! 손태영의 홈 케어 루틴]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84802</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84802</guid>
-            <pubDate>Tue, 19 Mar 2024 08:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[따라 하면 무조건 예뻐진다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/3bf8e12a-6d72-429e-9d05-2718611cc355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태국 방콕에서 열린 시세이도 글로벌 이벤트 현장]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84764</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84764</guid>
-            <pubDate>Mon, 18 Mar 2024 03:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[혁신적인 과학과 기술력, 품질 그리고 150년간 이어진 스킨케어 노하우를 접목한 시세이도의 새로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/13/919ff87b-1b00-4aad-935c-6ec5180e58d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 향기로운 선물]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84709</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84709</guid>
-            <pubDate>Fri, 15 Mar 2024 05:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[입학부터 화이트 데이까지. 축하할 일이 많은 3월, '미스 디올'과 '쟈도르'로 향기로운 마음을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/131a2b74-d34d-46a9-97f5-8feada7d489e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋은 잠, 나쁜 잠, 이상한 잠! 꿀잠을 위한 가이드]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84664</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84664</guid>
-            <pubDate>Thu, 14 Mar 2024 08:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[잠자리가 평안해야 건강도 지키는 법. 뜬눈으로 지새우는 불면의 밤을 뒤로하고 꿈나라 직행열차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/f0da9258-3226-4990-9ff6-ce2d1b8f0410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱃살이 쏙 들어가는 이나연의 초콜릿 다이어트 팁!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84750</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84750</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[입 터질 때 먹으면 딱~.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/5bf3893e-fa0f-4a9c-a412-7644b121052e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙 라인 폼 미쳤다! 소유 추천 힙 운동 루틴]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84747</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84747</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[엉덩이 제대로 화나는 꿀팁까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/05922f40-8f52-4bda-8ba8-2f3c5becbc1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄, 봄, 봄, 봄! 봄 향수가 왔어요]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84649</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84649</guid>
-            <pubDate>Tue, 12 Mar 2024 15:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[플로럴 향조가 만들어낸 의외의 하모니에 빠져들 차례.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/10/48be7fe0-5a22-40fe-ba27-984724e074da.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/beauty</id>
+    <title>코스모폴리탄 코리아 ─ 뷰티</title>
+    <updated>2024-03-23T04:13:25.602Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔로지옥3 윤하정과 달바의 러블리한 만남]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84804</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84804"/>
+        <updated>2024-03-19T09:09:29.397Z</updated>
+        <content type="html"><![CDATA[코스모폴리탄 유튜브에선 이벤트까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피부과 안 다녀도 가능! 손태영의 홈 케어 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84802</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84802"/>
+        <updated>2024-03-19T08:12:10.244Z</updated>
+        <content type="html"><![CDATA[따라 하면 무조건 예뻐진다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태국 방콕에서 열린 시세이도 글로벌 이벤트 현장]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84764</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84764"/>
+        <updated>2024-03-18T03:10:53.793Z</updated>
+        <content type="html"><![CDATA[혁신적인 과학과 기술력, 품질 그리고 150년간 이어진 스킨케어 노하우를 접목한 시세이도의 새로...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이토록 향기로운 선물]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84709</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84709"/>
+        <updated>2024-03-15T05:11:11.900Z</updated>
+        <content type="html"><![CDATA[입학부터 화이트 데이까지. 축하할 일이 많은 3월, '미스 디올'과 '쟈도르'로 향기로운 마음을...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 잠, 나쁜 잠, 이상한 잠! 꿀잠을 위한 가이드]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84664</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84664"/>
+        <updated>2024-03-14T08:12:11.554Z</updated>
+        <content type="html"><![CDATA[잠자리가 평안해야 건강도 지키는 법. 뜬눈으로 지새우는 불면의 밤을 뒤로하고 꿈나라 직행열차...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뱃살이 쏙 들어가는 이나연의 초콜릿 다이어트 팁!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84750</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84750"/>
+        <updated>2024-03-13T09:10:06.658Z</updated>
+        <content type="html"><![CDATA[입 터질 때 먹으면 딱~.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힙 라인 폼 미쳤다! 소유 추천 힙 운동 루틴]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84747</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84747"/>
+        <updated>2024-03-13T09:10:06.659Z</updated>
+        <content type="html"><![CDATA[엉덩이 제대로 화나는 꿀팁까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄, 봄, 봄, 봄! 봄 향수가 왔어요]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84649</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84649"/>
+        <updated>2024-03-12T15:08:59.612Z</updated>
+        <content type="html"><![CDATA[플로럴 향조가 만들어낸 의외의 하모니에 빠져들 차례.]]></content>
+    </entry>
+</feed>
