@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 러브</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 00:41:15 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[밸런타인데이 초콜릿 만들기? 직접 도즈언!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84081</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84081</guid>
-            <pubDate>Thu, 21 Mar 2024 03:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[썸남에게 고백한 후기는 유튜브에.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/962350a4-31c8-47e8-a179-df58ec8b538e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해줘, 안 들어올 거야?  고자극 섹스팁]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83833</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83833</guid>
-            <pubDate>Mon, 18 Mar 2024 03:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[“라면 먹을래요?”는 가고, “깊게 들어와야지”가 온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/4c94d3f8-3606-4d55-9735-7fb9a8f761bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해는 솔로 탈출! 홍진경이 알려주는 연애 TIP]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83595</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83595</guid>
-            <pubDate>Wed, 13 Mar 2024 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[그 누구도 알려주지 않은 그 남자의 진심.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/10/e919cfb3-7df4-4083-8f9e-46af823ce18e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<솔로지옥3>로 알아보는 천국도행 스킬 네가지]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/83111</link>
-            <guid>https://www.cosmopolitan.co.kr/article/83111</guid>
-            <pubDate>Tue, 12 Mar 2024 09:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 만남에도 불구하고 그녀들이 천국도에 갈 수 있었던 비결.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/95187cba-6ef9-4910-ae4f-9a691aa5a11f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[녹화하다 헤어진 커플?! 극악 연애 밸런스 게임]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81409</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81409</guid>
-            <pubDate>Wed, 06 Mar 2024 06:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 커플이 출연해 만날지 헤어질지 결정한다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/e47748ff-28cb-4158-b3f7-19de9174b0f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBTI 매칭 시 커플 확률 100%?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/81248</link>
-            <guid>https://www.cosmopolitan.co.kr/article/81248</guid>
-            <pubDate>Thu, 01 Feb 2024 08:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 이게 돼?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/3c234ae0-bd52-44bd-9aca-af8b783fe021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80945</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80945</guid>
-            <pubDate>Tue, 23 Jan 2024 05:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/7ab35694-db81-4ae7-8fb6-66afe7b662c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/80856</link>
-            <guid>https://www.cosmopolitan.co.kr/article/80856</guid>
-            <pubDate>Wed, 10 Jan 2024 02:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/7d1bbb94-4806-4a55-8859-b68626749e45.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/love</id>
+    <title>코스모폴리탄 코리아 ─ 러브</title>
+    <updated>2024-03-25T02:19:39.231Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밸런타인데이 초콜릿 만들기? 직접 도즈언!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84081</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84081"/>
+        <updated>2024-03-21T03:11:39.110Z</updated>
+        <content type="html"><![CDATA[썸남에게 고백한 후기는 유튜브에.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해줘, 안 들어올 거야?  고자극 섹스팁]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83833</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83833"/>
+        <updated>2024-03-18T03:11:40.298Z</updated>
+        <content type="html"><![CDATA[“라면 먹을래요?”는 가고, “깊게 들어와야지”가 온다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해는 솔로 탈출! 홍진경이 알려주는 연애 TIP]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83595</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83595"/>
+        <updated>2024-03-13T09:10:22.582Z</updated>
+        <content type="html"><![CDATA[그 누구도 알려주지 않은 그 남자의 진심.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<솔로지옥3>로 알아보는 천국도행 스킬 네가지]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/83111</id>
+        <link href="https://www.cosmopolitan.co.kr/article/83111"/>
+        <updated>2024-03-12T09:12:41.008Z</updated>
+        <content type="html"><![CDATA[짧은 만남에도 불구하고 그녀들이 천국도에 갈 수 있었던 비결.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹화하다 헤어진 커플?! 극악 연애 밸런스 게임]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81409</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81409"/>
+        <updated>2024-03-06T06:13:43.550Z</updated>
+        <content type="html"><![CDATA[진짜 커플이 출연해 만날지 헤어질지 결정한다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBTI 매칭 시 커플 확률 100%?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/81248</id>
+        <link href="https://www.cosmopolitan.co.kr/article/81248"/>
+        <updated>2024-02-01T08:12:15.904Z</updated>
+        <content type="html"><![CDATA[진짜 이게 돼?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴약기가 필요 없다고? 피임약에 관한 알쓸별잡]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80945</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80945"/>
+        <updated>2024-01-23T05:10:45.100Z</updated>
+        <content type="html"><![CDATA[알아두면 쓸 데 있는 피임약에 관한 잡학지식.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼 적령기가 있다고? <양브로의 정신세계>에서 밝힌 결혼 이모저모]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/80856</id>
+        <link href="https://www.cosmopolitan.co.kr/article/80856"/>
+        <updated>2024-01-10T02:24:53.606Z</updated>
+        <content type="html"><![CDATA[찐 전문가들 제이제이·성지인 대표와 연애 상담소 오픈!]]></content>
+    </entry>
+</feed>
