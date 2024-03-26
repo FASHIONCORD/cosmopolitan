@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-03-25T23:09:14.839Z</updated>
+    <updated>2024-03-26T00:39:17.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번 봄, 나도 야구장 한 번 가볼까?]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37537167&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37537167&amp;memberNo=11800362"/>
+        <updated>2024-03-26T00:38:04.773Z</updated>
+        <content type="html"><![CDATA[프로야구 내일 개막! 구단별 핵심 정보 모음zip. ▼ 클릭 ▼ 이번 봄, 나도 야구장 한 번 가볼까? 프로야구 내일 개막! 구단별 핵심 정보 모음zip. www.cosmopolitan.co.kr LG 인스타그램 @mbcsportsplus 지난해 29년···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포주의! ‘연애남매’ TMI 12]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37524575&amp;memberNo=11800362</id>
@@ -153,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37394346&amp;memberNo=11800362"/>
         <updated>2024-02-28T00:37:23.191Z</updated>
         <content type="html"><![CDATA[핫템 가득! 셀렙 랜선 집들이. ▼ 클릭 ▼ 이게 아이돌 숙소라고? 뉴진스, 슬기의 감각적인 숙소 공개 핫템 가득! 셀렙 랜선 집들이. www.cosmopolitan.co.kr  뉴진스 인스타그램 @andersonc_design 얼마전 가구 갤러···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벌써부터 흥행 질주? 
-영화 파묘 관전 포인트 3.]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37394272&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37394272&amp;memberNo=11800362"/>
-        <updated>2024-02-27T00:37:32.508Z</updated>
-        <content type="html"><![CDATA[이제 모두 ‘파’며들 시간~. ▼ 클릭 ▼ 벌써부터 흥행 질주? 영화 파묘 관전 포인트 3. 이제 모두 ‘파’며들 시간~. www.cosmopolitan.co.kr K-오컬트 장인이 돌아왔다! 영화 〈사바하〉, 〈검은 사제들〉을 제작한 K-오컬···]]></content>
     </entry>
 </feed>
