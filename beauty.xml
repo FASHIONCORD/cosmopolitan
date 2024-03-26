@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-03-26T04:11:34.226Z</updated>
+    <updated>2024-03-26T05:09:53.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지연과 소희의 피부 관리 비법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84896</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84896"/>
+        <updated>2024-03-26T05:09:25.644Z</updated>
+        <content type="html"><![CDATA[꿀 피부는 이렇게~.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍진경이 몸매 유지하는 법, 다 담았다]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84870</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84709"/>
         <updated>2024-03-15T05:11:11.900Z</updated>
         <content type="html"><![CDATA[입학부터 화이트 데이까지. 축하할 일이 많은 3월, '미스 디올'과 '쟈도르'로 향기로운 마음을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 잠, 나쁜 잠, 이상한 잠! 꿀잠을 위한 가이드]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84664</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84664"/>
-        <updated>2024-03-14T08:12:11.554Z</updated>
-        <content type="html"><![CDATA[잠자리가 평안해야 건강도 지키는 법. 뜬눈으로 지새우는 불면의 밤을 뒤로하고 꿈나라 직행열차...]]></content>
     </entry>
 </feed>
