@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-27T07:09:04.410Z</updated>
+    <updated>2024-03-27T08:13:53.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현과 무슨 사이? 배우 김새론 근황]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/85014</id>
+        <link href="https://www.cosmopolitan.co.kr/article/85014"/>
+        <updated>2024-03-27T08:13:03.279Z</updated>
+        <content type="html"><![CDATA[연기 선생님으로 활동중?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라미란은 숨기지 않는다]]></title>
         <id>https://www.cosmopolitan.co.kr/article/85003</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84955"/>
         <updated>2024-03-25T11:10:12.150Z</updated>
         <content type="html"><![CDATA[2004년생, 현재 할리우드 영화 산업에서 가장 강력한 스무 살! 여성 참정권 운동과 최초의 여성...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 <기생수>로 돌아온 전소니의 기묘하고 아름다운 세계]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84943</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84943"/>
-        <updated>2024-03-25T11:10:12.152Z</updated>
-        <content type="html"><![CDATA[좋아하는 마음은 크게, 순간은 영원처럼. 배우 전소니가 이 세상을 마주하는 법.]]></content>
     </entry>
 </feed>
