@@ -1,71 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 16:14:22 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김수현과 무슨 사이? 배우 김새론 근황]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/85014</link>
-            <guid>https://www.cosmopolitan.co.kr/article/85014</guid>
-            <pubDate>Wed, 27 Mar 2024 08:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[연기 선생님으로 활동중?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[라미란은 숨기지 않는다]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/85003</link>
-            <guid>https://www.cosmopolitan.co.kr/article/85003</guid>
-            <pubDate>Wed, 27 Mar 2024 06:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 라미란은 자신을 포장하지 않는다. 있는 그대로의 자신을 숨기지 않는다. 그것이 아름답기 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우월한 유전자! 고소영·최수종의 자녀가 공개됐다고?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/85006</link>
-            <guid>https://www.cosmopolitan.co.kr/article/85006</guid>
-            <pubDate>Wed, 27 Mar 2024 02:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[Ctrl+C &amp; Ctrl+V 그 잡채!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나만 연애 안 해, 트와이스 지효X 윤성빈 둘의 접점은?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/85005</link>
-            <guid>https://www.cosmopolitan.co.kr/article/85005</guid>
-            <pubDate>Wed, 27 Mar 2024 01:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[나혼산, 같은 동네, 운동이라는 세 개의 공통분모.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[열애 인정한 이채민♥류다인 커플은 누구?]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/85004</link>
-            <guid>https://www.cosmopolitan.co.kr/article/85004</guid>
-            <pubDate>Tue, 26 Mar 2024 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[고등학교 친구에서 연인으로?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/27/fba5e7f5-623f-45cd-b960-6c38009a466c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별 출연이라고? 정경호, 송중기의 폼 미친 등장]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84971</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84971</guid>
-            <pubDate>Tue, 26 Mar 2024 05:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[바쁠 텐데 대체 무슨 이유로?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/c53b96a1-fbb0-4d26-b842-d4ffa27b4424.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로얄로더 이준영 인터뷰가 드디어!]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84963</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84963</guid>
-            <pubDate>Tue, 26 Mar 2024 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[뭘 좋아할지 몰라 다 준비했다. 애교, 노래, 홍보까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/09fcc156-0937-46f6-b7a2-5e6893061a13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <댐즐> 제작 및 주연! 밀리 바비 브라운 한국 독점 인터뷰]]></title>
-            <link>https://www.cosmopolitan.co.kr/article/84955</link>
-            <guid>https://www.cosmopolitan.co.kr/article/84955</guid>
-            <pubDate>Mon, 25 Mar 2024 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[2004년생, 현재 할리우드 영화 산업에서 가장 강력한 스무 살! 여성 참정권 운동과 최초의 여성...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/22/330a206f-740b-4104-87d4-3f3d84ed3525.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cosmopolitan.co.kr/celebs</id>
+    <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
+    <updated>2024-03-27T17:08:40.693Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현과 무슨 사이? 배우 김새론 근황]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/85014</id>
+        <link href="https://www.cosmopolitan.co.kr/article/85014"/>
+        <updated>2024-03-27T08:13:03.279Z</updated>
+        <content type="html"><![CDATA[연기 선생님으로 활동중?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라미란은 숨기지 않는다]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/85003</id>
+        <link href="https://www.cosmopolitan.co.kr/article/85003"/>
+        <updated>2024-03-27T06:11:49.143Z</updated>
+        <content type="html"><![CDATA[배우 라미란은 자신을 포장하지 않는다. 있는 그대로의 자신을 숨기지 않는다. 그것이 아름답기 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우월한 유전자! 고소영·최수종의 자녀가 공개됐다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/85006</id>
+        <link href="https://www.cosmopolitan.co.kr/article/85006"/>
+        <updated>2024-03-27T02:16:05.720Z</updated>
+        <content type="html"><![CDATA[Ctrl+C &amp; Ctrl+V 그 잡채!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만 연애 안 해, 트와이스 지효X 윤성빈 둘의 접점은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/85005</id>
+        <link href="https://www.cosmopolitan.co.kr/article/85005"/>
+        <updated>2024-03-27T01:42:24.755Z</updated>
+        <content type="html"><![CDATA[나혼산, 같은 동네, 운동이라는 세 개의 공통분모.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열애 인정한 이채민♥류다인 커플은 누구?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/85004</id>
+        <link href="https://www.cosmopolitan.co.kr/article/85004"/>
+        <updated>2024-03-26T09:10:44.027Z</updated>
+        <content type="html"><![CDATA[고등학교 친구에서 연인으로?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[특별 출연이라고? 정경호, 송중기의 폼 미친 등장]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84971</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84971"/>
+        <updated>2024-03-26T05:09:32.753Z</updated>
+        <content type="html"><![CDATA[바쁠 텐데 대체 무슨 이유로?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로얄로더 이준영 인터뷰가 드디어!]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84963</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84963"/>
+        <updated>2024-03-26T01:41:46.870Z</updated>
+        <content type="html"><![CDATA[뭘 좋아할지 몰라 다 준비했다. 애교, 노래, 홍보까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <댐즐> 제작 및 주연! 밀리 바비 브라운 한국 독점 인터뷰]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84955</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84955"/>
+        <updated>2024-03-25T11:10:12.150Z</updated>
+        <content type="html"><![CDATA[2004년생, 현재 할리우드 영화 산업에서 가장 강력한 스무 살! 여성 참정권 운동과 최초의 여성...]]></content>
+    </entry>
+</feed>
