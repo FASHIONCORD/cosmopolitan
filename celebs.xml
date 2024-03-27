@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/celebs</id>
     <title>코스모폴리탄 코리아 ─ 셀레브리티</title>
-    <updated>2024-03-27T01:42:47.314Z</updated>
+    <updated>2024-03-27T02:16:27.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우월한 유전자! 고소영·최수종의 자녀가 공개됐다고?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/85006</id>
+        <link href="https://www.cosmopolitan.co.kr/article/85006"/>
+        <updated>2024-03-27T02:16:05.720Z</updated>
+        <content type="html"><![CDATA[Ctrl+C &amp; Ctrl+V 그 잡채!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나만 연애 안 해, 트와이스 지효X 윤성빈 둘의 접점은?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/85005</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84928"/>
         <updated>2024-03-25T11:10:12.153Z</updated>
         <content type="html"><![CDATA[지난해부터 럽스타그램 중.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠틀우먼, 이청아]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84926</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84926"/>
-        <updated>2024-03-22T09:12:29.536Z</updated>
-        <content type="html"><![CDATA[내가 내 곁에 있을 것. 나와 당신 사이의 거리를 지키되 다정할 것. 젠틀우먼, 배우 이청아와...]]></content>
     </entry>
 </feed>
