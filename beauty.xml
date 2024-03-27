@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/beauty</id>
     <title>코스모폴리탄 코리아 ─ 뷰티</title>
-    <updated>2024-03-27T02:16:27.950Z</updated>
+    <updated>2024-03-27T03:11:27.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세안 후 건티슈! 이혜원의 피부 관리 비법은?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84897</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84897"/>
+        <updated>2024-03-27T03:09:59.519Z</updated>
+        <content type="html"><![CDATA[심지어 안정환도 효과를 봤다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지연과 소희의 피부 관리 비법은?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84896</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84764"/>
         <updated>2024-03-18T03:10:53.793Z</updated>
         <content type="html"><![CDATA[혁신적인 과학과 기술력, 품질 그리고 150년간 이어진 스킨케어 노하우를 접목한 시세이도의 새로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이토록 향기로운 선물]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84709</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84709"/>
-        <updated>2024-03-15T05:11:11.900Z</updated>
-        <content type="html"><![CDATA[입학부터 화이트 데이까지. 축하할 일이 많은 3월, '미스 디올'과 '쟈도르'로 향기로운 마음을...]]></content>
     </entry>
 </feed>
