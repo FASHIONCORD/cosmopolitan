@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmopolitan.co.kr/life</id>
     <title>코스모폴리탄 코리아 ─ 라이프</title>
-    <updated>2024-03-27T08:13:53.513Z</updated>
+    <updated>2024-03-27T09:11:25.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmopolitan.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분컷 도시락 가능! 김나영, 홍진경의 00김밥?]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/84904</id>
+        <link href="https://www.cosmopolitan.co.kr/article/84904"/>
+        <updated>2024-03-27T09:11:18.228Z</updated>
+        <content type="html"><![CDATA[봄인데 소풍 가야지?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오타니와 박찬호까지! MLB 개막전 관전 포인트는?]]></title>
         <id>https://www.cosmopolitan.co.kr/article/84899</id>
@@ -53,12 +60,5 @@
         <link href="https://www.cosmopolitan.co.kr/article/84776"/>
         <updated>2024-03-19T09:09:51.789Z</updated>
         <content type="html"><![CDATA[세계 최대의 가전·정보기술(IT) 전시회 ‘CES 2024’에서 올해 가장 혁신적이고도 변화무쌍한 기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도파민 폭발! 원더풀 월드 vs 피라미드게임]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/84781</id>
-        <link href="https://www.cosmopolitan.co.kr/article/84781"/>
-        <updated>2024-03-19T08:12:55.440Z</updated>
-        <content type="html"><![CDATA[잔잔한 서사에는 감흥 없어진 지 오래! 도파민 폭발 드라마가 또 나타났다.]]></content>
     </entry>
 </feed>
