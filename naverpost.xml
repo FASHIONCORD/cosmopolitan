@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-04-02T23:14:08.569Z</updated>
+    <updated>2024-04-03T00:41:46.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피드 고정 각! 
+벚꽃과 인생샷 남기는 법]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37576417&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37576417&amp;memberNo=11800362"/>
+        <updated>2024-04-03T00:38:21.126Z</updated>
+        <content type="html"><![CDATA[셀럽들의 인증샷 따라잡기~. ▼ 클릭 ▼ 피드 고정 각! 벚꽃과 인생샷 남기는 법 - LIFE 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 피드 고정 각! 벚꽃과 인생샷 남기···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만우절 장난 아니죠? 
 축! 한화 이글스 7연승!]]></title>
@@ -151,12 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37433434&amp;memberNo=11800362"/>
         <updated>2024-03-07T00:31:34.779Z</updated>
         <content type="html"><![CDATA[아이유, 채원, 윈터 하얀 금발로 돌아오다! ▼ 클릭 ▼ 최근 나란히 백금발하고 분위기 레전드 찍은 아이돌들! 아이유, 채원, 윈터 하얀 금발로 돌아오다! www.cosmopolitan.co.kr 아이유와&nbsp;에스파&nbsp;윈터, 그리고&nbsp;르세···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유 콘서트에 누가 왔다고요?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37427448&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37427448&amp;memberNo=11800362"/>
-        <updated>2024-03-06T00:40:05.947Z</updated>
-        <content type="html"><![CDATA[탕웨이, 유재석, 이종석 그리고 뉴진스에 라이즈까지? ▼ 클릭 ▼ 아이유 콘서트에 누가 왔다고요? 탕웨이, 유재석, 이종석 그리고 뉴진스에 라이즈까지? www.cosmopolitan.co.kr &nbsp;서울 송파구 KSPO DOME(구 체조경기···]]></content>
     </entry>
 </feed>
