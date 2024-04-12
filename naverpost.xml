@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-04-11T23:14:24.341Z</updated>
+    <updated>2024-04-12T00:42:45.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올드머니의 정석? 
+드라마 속 ‘재벌 3세’ 룩]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37626462&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37626462&amp;memberNo=11800362"/>
+        <updated>2024-04-12T00:39:21.371Z</updated>
+        <content type="html"><![CDATA[개성 강해진 재벌들의 패션~ ▼ 클릭 ▼ 올드머니의 정석? 드라마 속 ‘재벌 3세’ 룩 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 올드머니의 정석? 드라마 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인증샷은 이렇게! 
 셀럽들의 슬기로운 사전 투표 샷]]></title>
@@ -149,13 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37482283&amp;memberNo=11800362"/>
         <updated>2024-03-18T00:39:59.325Z</updated>
         <content type="html"><![CDATA[지금까지 이런 연프는 없었다… ▼ 클릭 ▼ 하다하다 K 남매 연애까지? 새로운데 재밌어! &lt;연애남매&gt; 관전포인트 9 지금까지 이런 연프는 없었다… www.cosmopolitan.co.kr 1. 연프 천재이진주 PD의 신작 JTBC 도···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로야구 개막 전, 
-이것만 알면 준비 끝!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37468159&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37468159&amp;memberNo=11800362"/>
-        <updated>2024-03-15T00:38:15.331Z</updated>
-        <content type="html"><![CDATA[2024 프로야구 개막 D-30. 2023 KBO 한국 시리즈 이후 약 4개월간 쏟아져 나온 스토브리그 빅 이슈를 6개 키워드로 정리했다. 구장별 직관 꿀팁은 덤! ▼ 클릭 ▼ 프로야구 개막 전, 이것만 알면 준비 끝! 2024 프로야···]]></content>
     </entry>
 </feed>
