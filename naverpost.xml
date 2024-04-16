@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-04-15T23:12:27.148Z</updated>
+    <updated>2024-04-16T00:41:56.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄 스타일링? 
+김나영 여행룩으로 해결해드림]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37648574&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37648574&amp;memberNo=11800362"/>
+        <updated>2024-04-16T00:38:31.467Z</updated>
+        <content type="html"><![CDATA[옷잘알 언니의 떠먹팁 가져가세요! ▼ 클릭 ▼ 봄 스타일링? 김나영 여행룩으로 해결해드림 - FASHION 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 봄 스타일링? 김나영···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[활동 중단 이유가 이거였어? 
 알고 보니 투병 중인 셀럽 4]]></title>
@@ -149,13 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37500159&amp;memberNo=11800362"/>
         <updated>2024-03-20T00:38:04.922Z</updated>
         <content type="html"><![CDATA[이거 방송 아니고 미팅 맞죠? ▼ 클릭 ▼ 드디어 성사된 만남! 손석구&amp;장도연 이거 방송 아니고 미팅 맞죠? www.cosmopolitan.co.kr 오래 기다린 투 샷 유튜브 〈TEO 테오〉 모두가 기다려 온 만남이&nbsp;〈살롱드립〉에서···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원은 교도소, 한소희는 빚투? 
-가정사 밝힌 스타 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37482293&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37482293&amp;memberNo=11800362"/>
-        <updated>2024-03-19T00:38:15.080Z</updated>
-        <content type="html"><![CDATA[가족이 웬수네! ▼ 클릭 ▼ 정동원은 교도소, 한소희는 빚투? 가정사 밝힌 스타 3 가족이 웬수네! www.cosmopolitan.co.kr 정동원 인스타그램 @dongwon_15 최근&nbsp;정동원의 아버지가 교도소에 수감 중이며, 트로트 가수 ···]]></content>
     </entry>
 </feed>
