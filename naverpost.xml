@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-04-16T23:13:32.080Z</updated>
+    <updated>2024-04-17T00:43:03.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[본 사람은 호평뿐! 
+‘선재 업고 튀어’ TMI 10]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37657938&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37657938&amp;memberNo=11800362"/>
+        <updated>2024-04-17T00:39:38.596Z</updated>
+        <content type="html"><![CDATA[원작 웹소설에는 서브 남주가 없었다고?▼ 클릭 ▼ 본 사람은 호평뿐! ‘선재 업고 튀어’ TMI 10 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 본 사람은 호···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄 스타일링? 
 김나영 여행룩으로 해결해드림]]></title>
@@ -150,12 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37500197&amp;memberNo=11800362"/>
         <updated>2024-03-21T00:39:45.655Z</updated>
         <content type="html"><![CDATA[연애남매의 관전 포인트 3.  #이진주pd의 귀환 유튜브 〈 WAVVE 웨이브〉 〈환승연애 1, 2〉로 남다른 감각을 보여주며&nbsp;‘환친자’까지 생성했던 이진주 pd가 새롭게 기획한 프로그램이 바로&nbsp;〈연애남매〉. 익숙한 듯 새로워···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 성사된 만남! 손석구&장도연]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37500159&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37500159&amp;memberNo=11800362"/>
-        <updated>2024-03-20T00:38:04.922Z</updated>
-        <content type="html"><![CDATA[이거 방송 아니고 미팅 맞죠? ▼ 클릭 ▼ 드디어 성사된 만남! 손석구&amp;장도연 이거 방송 아니고 미팅 맞죠? www.cosmopolitan.co.kr 오래 기다린 투 샷 유튜브 〈TEO 테오〉 모두가 기다려 온 만남이&nbsp;〈살롱드립〉에서···]]></content>
     </entry>
 </feed>
