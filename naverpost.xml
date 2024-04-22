@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-04-21T23:13:24.951Z</updated>
+    <updated>2024-04-22T00:44:17.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫사랑 대세 변우석, 
+이제 그를 알아볼 시간]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37677168&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37677168&amp;memberNo=11800362"/>
+        <updated>2024-04-22T00:40:52.845Z</updated>
+        <content type="html"><![CDATA[알고리즘에&nbsp;뜨게 될 그의 최신작부터 전작들까지 모두 살펴봤다. ▼ 클릭 ▼ 첫사랑 대세 변우석, 이제 그를 알아볼 시간 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월 1,500만원은 기본? 
 아이돌 저작권 TOP10]]></title>
@@ -151,12 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37537167&amp;memberNo=11800362"/>
         <updated>2024-03-26T00:38:04.773Z</updated>
         <content type="html"><![CDATA[프로야구 내일 개막! 구단별 핵심 정보 모음zip. ▼ 클릭 ▼ 이번 봄, 나도 야구장 한 번 가볼까? 프로야구 내일 개막! 구단별 핵심 정보 모음zip. www.cosmopolitan.co.kr LG 인스타그램 @mbcsportsplus 지난해 29년···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포주의! ‘연애남매’ TMI 12]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37524575&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37524575&amp;memberNo=11800362"/>
-        <updated>2024-03-25T00:40:12.605Z</updated>
-        <content type="html"><![CDATA[요즘 &lt;연애남매&gt; 안 보는 사람 없지? ▼ 클릭 ▼ 스포주의! ‘연애남매’ TMI 12 요즘 &lt;연애남매&gt; 안 보는 사람 없지? www.cosmopolitan.co.kr JTBC 1. 출연자의 MBTI는 재형 ENTJ, 세승 ENFJ, 용우 ENTJ 혹···]]></content>
     </entry>
 </feed>
