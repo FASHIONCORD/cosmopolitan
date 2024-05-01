@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-04-30T23:12:31.722Z</updated>
+    <updated>2024-05-01T00:46:24.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[00헤어를 해야 리즈 찍는다고?]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37737168&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37737168&amp;memberNo=11800362"/>
+        <updated>2024-05-01T00:43:00.379Z</updated>
+        <content type="html"><![CDATA[있지부터 아이브까지, 한 명은 꼭 있더라~. ▼ 클릭 ▼ 00헤어를 해야 리즈 찍는다고? - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 00헤어를 해야 리즈 찍···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['니삭스' 코디는 지금이 딱! 
 태연, 미주의 니삭스 활용법]]></title>
@@ -155,12 +162,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37584167&amp;memberNo=11800362"/>
         <updated>2024-04-05T00:39:30.830Z</updated>
         <content type="html"><![CDATA[광고 촬영 전에도 이건 먹는다고. ▼ 클릭 ▼ 다이어터용 안주? 한혜진이 골라준다 - BEAUTY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 다이어터용 안주? 한혜진이 골···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공효진♥케빈오, 신혼집 첫 공개?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37584158&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37584158&amp;memberNo=11800362"/>
-        <updated>2024-04-04T00:39:57.430Z</updated>
-        <content type="html"><![CDATA[여기가 한국이야 외국이야? 너무 예쁘다! ▼ 클릭 ▼ 공효진♥케빈오, 신혼집 첫 공개? - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 공효진♥케빈오, 신혼집 ···]]></content>
     </entry>
 </feed>
