@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-05-02T23:13:51.703Z</updated>
+    <updated>2024-05-03T00:45:35.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하나는 가야지! 
+5월에 열리는 NEW 페스티벌 4]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37744046&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37744046&amp;memberNo=11800362"/>
+        <updated>2024-05-03T00:42:11.250Z</updated>
+        <content type="html"><![CDATA[돌아온 축제의 계절~. ▼ 클릭 ▼ 하나는 가야지! 5월에 열리는 NEW 페스티벌 4 - LIFE 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 하나는 가야지! 5월에 열리는 NEW ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벌써 600만 달성? 
 <범죄도시4> 관전 포인트 10]]></title>
@@ -155,13 +163,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37596369&amp;memberNo=11800362"/>
         <updated>2024-04-09T00:38:56.549Z</updated>
         <content type="html"><![CDATA[약국 연고, 피부에 양보하세요~ ▼ 클릭 ▼ 동안 비법 여기 있네! 이혜원의 약국템 관리 - BEAUTY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 동안 비법 여기 있네! 이···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구교환·이효리, 고현정·강민경?! 
-연예계 신상 친목 4]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37596327&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37596327&amp;memberNo=11800362"/>
-        <updated>2024-04-08T00:40:17.966Z</updated>
-        <content type="html"><![CDATA[친구 자리 하나 더 있을까요? ▼ 클릭 ▼ 구교환·이효리, 고현정·강민경?! 연예계 신상 친목 4 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 구교환·이효리,···]]></content>
     </entry>
 </feed>
