@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-05-08T23:13:41.257Z</updated>
+    <updated>2024-05-09T00:43:49.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금도 알콩달콩? 
+연애 리얼리티 현커 근황 모음 zip]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37780342&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37780342&amp;memberNo=11800362"/>
+        <updated>2024-05-09T00:40:24.352Z</updated>
+        <content type="html"><![CDATA[여럿 설레게 했던 그들의 현재는? ▼ 클릭 ▼ 지금도 알콩달콩? 연애 리얼리티 현커 근황 모음 zip - LIFE 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 지금도 알콩달콩···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[큰 거 온다! 수지♡박보검 <원더랜드>]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37771411&amp;memberNo=11800362</id>
@@ -154,13 +162,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37626491&amp;memberNo=11800362"/>
         <updated>2024-04-15T02:58:37.000Z</updated>
         <content type="html"><![CDATA[아파서 쉬었을 뿐! 은퇴 아니에요~. ▼ 클릭 ▼ 활동 중단 이유가 이거였어? 알고 보니 투병 중인 셀럽 4 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 활동···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올드머니의 정석? 
-드라마 속 ‘재벌 3세’ 룩]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37626462&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37626462&amp;memberNo=11800362"/>
-        <updated>2024-04-12T00:39:21.371Z</updated>
-        <content type="html"><![CDATA[개성 강해진 재벌들의 패션~ ▼ 클릭 ▼ 올드머니의 정석? 드라마 속 ‘재벌 3세’ 룩 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 올드머니의 정석? 드라마 ···]]></content>
     </entry>
 </feed>
