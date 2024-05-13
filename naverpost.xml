@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-05-13T00:45:07.736Z</updated>
+    <updated>2024-05-13T01:56:58.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백상예술대상을 웃기고 울린 
+말, 말, 말!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37805001&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37805001&amp;memberNo=11800362"/>
+        <updated>2024-05-13T01:53:33.560Z</updated>
+        <content type="html"><![CDATA[기승전 “지연아 고맙다.”▼ 클릭 ▼인스타그램 @baeksang.official 60회를 맞이한 백상예술대상, 올해 영화 부문 대상은 &lt;서울의 봄&gt;. &lt;서울의 봄&gt;은 대상에 이어 작품상, 최우수연기상(···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이건 열애 인정? 
 블핑 리사가 올린 미술관 사진의 비밀]]></title>
@@ -154,13 +162,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37657938&amp;memberNo=11800362"/>
         <updated>2024-04-17T00:39:38.596Z</updated>
         <content type="html"><![CDATA[원작 웹소설에는 서브 남주가 없었다고?▼ 클릭 ▼ 본 사람은 호평뿐! ‘선재 업고 튀어’ TMI 10 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 본 사람은 호···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄 스타일링? 
-김나영 여행룩으로 해결해드림]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37648574&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37648574&amp;memberNo=11800362"/>
-        <updated>2024-04-16T00:38:31.467Z</updated>
-        <content type="html"><![CDATA[옷잘알 언니의 떠먹팁 가져가세요! ▼ 클릭 ▼ 봄 스타일링? 김나영 여행룩으로 해결해드림 - FASHION 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 봄 스타일링? 김나영···]]></content>
     </entry>
 </feed>
