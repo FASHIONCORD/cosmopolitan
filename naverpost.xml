@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-05-13T23:13:10.808Z</updated>
+    <updated>2024-05-14T00:44:17.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘선재 업고 튀어’ 김혜윤 TMI 10]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37805034&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37805034&amp;memberNo=11800362"/>
+        <updated>2024-05-14T00:40:52.207Z</updated>
+        <content type="html"><![CDATA[월요일은 김혜윤 업고 튀어. ▼ 클릭 ▼ ‘선재 업고 튀어’ 김혜윤 TMI 10 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 ‘선재 업고 튀어’ 김혜윤 TMI 10 - 월요일은 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백상예술대상을 웃기고 울린 
 말, 말, 말!]]></title>
@@ -154,13 +161,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37657959&amp;memberNo=11800362"/>
         <updated>2024-04-18T00:38:51.494Z</updated>
         <content type="html"><![CDATA[혜리는 못 먹는 음식이라는데! ▼ 클릭 ▼ 태연이 ‘놀토'에서 꼽은 가장 맛있었던 음식은? - LIFE 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 태연이 ‘놀토'에···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본 사람은 호평뿐! 
-‘선재 업고 튀어’ TMI 10]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37657938&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37657938&amp;memberNo=11800362"/>
-        <updated>2024-04-17T00:39:38.596Z</updated>
-        <content type="html"><![CDATA[원작 웹소설에는 서브 남주가 없었다고?▼ 클릭 ▼ 본 사람은 호평뿐! ‘선재 업고 튀어’ TMI 10 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 본 사람은 호···]]></content>
     </entry>
 </feed>
