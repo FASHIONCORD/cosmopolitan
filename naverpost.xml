@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-05-15T23:14:01.509Z</updated>
+    <updated>2024-05-16T00:43:59.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 가장 핫한 낭만, 
+서울 음주 책방 3]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37815404&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37815404&amp;memberNo=11800362"/>
+        <updated>2024-05-16T00:40:35.808Z</updated>
+        <content type="html"><![CDATA[독서하며 위스키 한 잔? ▼ 클릭 ▼ 요즘 가장 핫한 낭만, 서울 음주 책방 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 요즘 가장 핫한 낭만, 서울 음주 책방 3 - 독서···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올여름엔 ‘뽀글’거려야 느낌 있다고?]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37805070&amp;memberNo=11800362</id>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37677168&amp;memberNo=11800362"/>
         <updated>2024-04-22T00:40:52.845Z</updated>
         <content type="html"><![CDATA[알고리즘에&nbsp;뜨게 될 그의 최신작부터 전작들까지 모두 살펴봤다. ▼ 클릭 ▼ 첫사랑 대세 변우석, 이제 그를 알아볼 시간 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월 1,500만원은 기본? 
-아이돌 저작권 TOP10]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37673983&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37673983&amp;memberNo=11800362"/>
-        <updated>2024-04-19T03:10:04.479Z</updated>
-        <content type="html"><![CDATA[영케이는 3위!▼ 클릭 ▼숨은 저작권 부자_영케이인스타그램 @from_youngk 최근 &lt;전지적 참견 시점&gt;에 출연한 영케이를 “숨은 저작권 부자”라고 소개한 송은이. “참고로 (2024년 4월 기준···]]></content>
     </entry>
 </feed>
