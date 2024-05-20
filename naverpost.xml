@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-05-19T23:14:12.459Z</updated>
+    <updated>2024-05-20T00:44:46.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태성, 네가 내 별이다! 
+송건희 TMI 10]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37815467&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37815467&amp;memberNo=11800362"/>
+        <updated>2024-05-20T00:41:21.619Z</updated>
+        <content type="html"><![CDATA['인소 재질' 송건희의 모든 것. ▼ 클릭 ▼ 김태성, 네가 내 별이다! 송건희 TMI 10 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 김태성, 네가 내 별이다! ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사겨라 짝! 
 진짜로 사귀었으면 좋겠다 싶은 셀럽들]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37697827&amp;memberNo=11800362"/>
         <updated>2024-04-24T00:40:02.073Z</updated>
         <content type="html"><![CDATA[꽁꽁 숨겨두고 싶은 20~30년 여의도 맛집 순례! ▼ 클릭 ▼ 전현무, 박명수도 찾는 여의도 원조 맛집 4 - LIFE 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 전현무, 박···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덩치 케미 장인, 
-김혜윤이 만드는 설레는 키 차이]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37691240&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37691240&amp;memberNo=11800362"/>
-        <updated>2024-04-23T00:39:47.452Z</updated>
-        <content type="html"><![CDATA[160cm와 갖가지 그림 만드는 남자 배우들의 컬래버레이션. ▼ 클릭 ▼ 덩치 케미 장인, 김혜윤이 만드는 설레는 키 차이 - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지,···]]></content>
     </entry>
 </feed>
