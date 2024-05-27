@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-05-26T23:12:43.626Z</updated>
+    <updated>2024-05-27T00:46:18.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누적 기부만 50억? 
+제니·아이유의 특별한 기부 방법]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37861012&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37861012&amp;memberNo=11800362"/>
+        <updated>2024-05-27T00:42:53.393Z</updated>
+        <content type="html"><![CDATA[팬덤명으로 억대 기부라니! 팬들이 부럽다. ▼ 클릭 ▼ 누적 기부만 50억? 제니·아이유의 특별한 기부 방법 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 누적 기부만···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈런 준비! 
 ‘선재 업고 튀어’ 팝업, 무엇이 있을까?]]></title>
@@ -151,13 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37729257&amp;memberNo=11800362"/>
         <updated>2024-04-30T00:39:19.280Z</updated>
         <content type="html"><![CDATA[봄과 여름 사이 그 어딘가. 미니스커트 입고 싶을 때! ▼ 클릭 ▼ '니삭스' 코디는 지금이 딱! 태연, 미주의 니삭스 활용법 - FASHION 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심으뜸, 강하나, 배윤정 등 
-최고의 선생님과 운동하는 '시포레 2024']]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37727348&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37727348&amp;memberNo=11800362"/>
-        <updated>2024-04-29T01:48:01.035Z</updated>
-        <content type="html"><![CDATA[도심 속 건강한 활기를 불어넣는 '시포레 2024'가 5월, 한강 노들섬에서 펼쳐진다!▼ 클릭 ▼오는 5월 18일 한강 노들섬에서 펼쳐지는 ‘시티포레스티벌 2024(이하 ‘시포레 2024’)’이 ···]]></content>
     </entry>
 </feed>
