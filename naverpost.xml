@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-05-30T23:13:47.142Z</updated>
+    <updated>2024-05-31T00:45:33.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이효리, ‘엄마, 단둘이 여행 갈래?’ 
+관전포인트 3]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37912296&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37912296&amp;memberNo=11800362"/>
+        <updated>2024-05-31T00:42:10.289Z</updated>
+        <content type="html"><![CDATA[왜인지 자꾸 눈물이 나.. ▼ 클릭 ▼ 이효리, ‘엄마, 단둘이 여행 갈래?’ 관전포인트 3 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 이효리, ‘엄마, 단둘이 여행 갈···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재료비 오천 원! 
 김나영·구성환의 여름 면 요리 레시피]]></title>
@@ -152,13 +160,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37746248&amp;memberNo=11800362"/>
         <updated>2024-05-06T00:40:56.132Z</updated>
         <content type="html"><![CDATA[또다시 화제가 된 뉴진스 신곡 ▼ 클릭 ▼ 코스모폴리탄 코리아 | COSMOPOLITAN KOREA 코스모폴리탄 코리아, COSMOPOLITAN KOREA 공식 사이트. 세계 최초의 패션 잡지, 최신 트렌드 소식 제공 www.cosmopolitan.co.kr ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나는 가야지! 
-5월에 열리는 NEW 페스티벌 4]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37744046&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37744046&amp;memberNo=11800362"/>
-        <updated>2024-05-03T00:42:11.250Z</updated>
-        <content type="html"><![CDATA[돌아온 축제의 계절~. ▼ 클릭 ▼ 하나는 가야지! 5월에 열리는 NEW 페스티벌 4 - LIFE 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 하나는 가야지! 5월에 열리는 NEW ···]]></content>
     </entry>
 </feed>
