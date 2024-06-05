@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-06-04T23:14:11.752Z</updated>
+    <updated>2024-06-05T00:45:03.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벌써 품절! 
+민희진 2차 기자회견 패션 정보]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37935027&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37935027&amp;memberNo=11800362"/>
+        <updated>2024-06-05T00:41:40.358Z</updated>
+        <content type="html"><![CDATA[입고 나오는 것마다 화제가 되는 그녀. ▼ 클릭 ▼ 벌써 품절! 민희진 2차 기자회견 패션 정보 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 벌써 품절! 민희진 2차 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모니카부터 솔비, 박나래까지. 
 난자 냉동을 택한 셀럽]]></title>
@@ -153,12 +161,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37780342&amp;memberNo=11800362"/>
         <updated>2024-05-09T00:40:24.352Z</updated>
         <content type="html"><![CDATA[여럿 설레게 했던 그들의 현재는? ▼ 클릭 ▼ 지금도 알콩달콩? 연애 리얼리티 현커 근황 모음 zip - LIFE 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 지금도 알콩달콩···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큰 거 온다! 수지♡박보검 <원더랜드>]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37771411&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37771411&amp;memberNo=11800362"/>
-        <updated>2024-05-08T00:33:45.318Z</updated>
-        <content type="html"><![CDATA[얼굴 합 무슨 일? 보기만 해도 미소가~. ▼ 클릭 ▼ 큰 거 온다! 수지♡박보검 &lt;원더랜드&gt; - CELEBRITY 읽을거리 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 큰 거 온다! ···]]></content>
     </entry>
 </feed>
