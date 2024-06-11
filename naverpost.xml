@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-06-10T23:13:05.440Z</updated>
+    <updated>2024-06-11T00:46:13.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니 & 장원영의 쿨한 여름 스타일링 아이템 '미디스커트']]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37965976&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37965976&amp;memberNo=11800362"/>
+        <updated>2024-06-11T00:42:48.765Z</updated>
+        <content type="html"><![CDATA[대체 불가 미디스커트 매력 탐구!▼ 클릭 ▼ 제니 &amp; 장원영의 쿨한 여름 스타일링 아이템 '미디스커트' - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 제···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개안 그 자체! 
 운동 후 모습 공개한 변우석 & 위하준]]></title>
@@ -154,12 +161,5 @@ NEW 맑은 곰탕 맛집 3]]></title>
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37805070&amp;memberNo=11800362"/>
         <updated>2024-05-15T00:41:02.253Z</updated>
         <content type="html"><![CDATA[뉴진스부터 블랙핑크까지, 지금 가장 핫한 머리 ▼ 클릭 ▼ 올여름엔 ‘뽀글’거려야 느낌 있다고? - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 올여름엔 ‘뽀글’거려야···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘선재 업고 튀어’ 김혜윤 TMI 10]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37805034&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37805034&amp;memberNo=11800362"/>
-        <updated>2024-05-14T00:40:52.207Z</updated>
-        <content type="html"><![CDATA[월요일은 김혜윤 업고 튀어. ▼ 클릭 ▼ ‘선재 업고 튀어’ 김혜윤 TMI 10 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 ‘선재 업고 튀어’ 김혜윤 TMI 10 - 월요일은 ···]]></content>
     </entry>
 </feed>
