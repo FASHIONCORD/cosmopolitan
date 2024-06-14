@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-06-13T23:13:46.198Z</updated>
+    <updated>2024-06-14T00:45:53.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니와 김나영의 스카프 활용법!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37977372&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37977372&amp;memberNo=11800362"/>
+        <updated>2024-06-14T00:42:30.654Z</updated>
+        <content type="html"><![CDATA[이번 여름엔 머리에 두르자~.▼ 클릭 ▼ 제니와 김나영의 스카프 활용법! - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 제니와 김나영의 스카프 활용법! - 이번 여름엔 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족끼리 왜 이래! 
 <연애남매>의 반전]]></title>
@@ -153,13 +160,5 @@ NEW 맑은 곰탕 맛집 3]]></title>
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37815467&amp;memberNo=11800362"/>
         <updated>2024-05-20T00:41:21.619Z</updated>
         <content type="html"><![CDATA['인소 재질' 송건희의 모든 것. ▼ 클릭 ▼ 김태성, 네가 내 별이다! 송건희 TMI 10 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 김태성, 네가 내 별이다! ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사겨라 짝! 
-진짜로 사귀었으면 좋겠다 싶은 셀럽들]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37815438&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37815438&amp;memberNo=11800362"/>
-        <updated>2024-05-17T00:41:22.168Z</updated>
-        <content type="html"><![CDATA[결혼은 고척돔에서 해줘! ▼ 클릭 ▼ 사겨라 짝! 진짜로 사귀었으면 좋겠다 싶은 셀럽들 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 사겨라 짝! 진짜로 사귀었으면 ···]]></content>
     </entry>
 </feed>
