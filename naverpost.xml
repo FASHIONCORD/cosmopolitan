@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-06-16T23:13:28.914Z</updated>
+    <updated>2024-06-17T00:47:57.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시상식 아냐? 
+김연경 국대 은퇴식에 모인 톱 셀럽]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37990654&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37990654&amp;memberNo=11800362"/>
+        <updated>2024-06-17T00:44:34.848Z</updated>
+        <content type="html"><![CDATA[유재석도 갔고 나PD도 갔다. ▼ 클릭 ▼ 시상식 아냐? 김연경 국대 은퇴식에 모인 톱 셀럽 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 시상식 아냐? 김연경 국대 은···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니와 김나영의 스카프 활용법!]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=37977372&amp;memberNo=11800362</id>
@@ -152,13 +160,5 @@ NEW 맑은 곰탕 맛집 3]]></title>
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37851620&amp;memberNo=11800362"/>
         <updated>2024-05-21T01:51:40.044Z</updated>
         <content type="html"><![CDATA[지금 가장 핫한 송다은의 SNS.▼ 클릭 ▼송다은 인스타그램 본 사람?인스타그램 @da.eun.da.eun인스타그램 @da.eun.da.eun 최근 송다은의 SNS가 연일 화제다. 마치 지민을 암시하는 듯한 사진과 영상을 인스타그램 스···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태성, 네가 내 별이다! 
-송건희 TMI 10]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37815467&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37815467&amp;memberNo=11800362"/>
-        <updated>2024-05-20T00:41:21.619Z</updated>
-        <content type="html"><![CDATA['인소 재질' 송건희의 모든 것. ▼ 클릭 ▼ 김태성, 네가 내 별이다! 송건희 TMI 10 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 김태성, 네가 내 별이다! ···]]></content>
     </entry>
 </feed>
