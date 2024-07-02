@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-07-01T23:13:35.717Z</updated>
+    <updated>2024-07-02T00:46:21.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최화정 찐먹템은 못 참지! 
+맛없없 피크닉 도시락]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38064249&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38064249&amp;memberNo=11800362"/>
+        <updated>2024-07-02T00:42:57.480Z</updated>
+        <content type="html"><![CDATA[#도시락. 최화정표 피크닉 레시피.▼ 클릭 ▼ 최화정 찐먹템은 못 참지! 맛없없 피크닉 도시락 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 최화정 찐먹템은 못 참지! 맛···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무당도 연애하고 싶어! 
 <신들린 연애> TMI 8]]></title>
@@ -153,13 +161,5 @@ NEW 맑은 곰탕 맛집 3]]></title>
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37935027&amp;memberNo=11800362"/>
         <updated>2024-06-05T00:41:40.358Z</updated>
         <content type="html"><![CDATA[입고 나오는 것마다 화제가 되는 그녀. ▼ 클릭 ▼ 벌써 품절! 민희진 2차 기자회견 패션 정보 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 벌써 품절! 민희진 2차 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모니카부터 솔비, 박나래까지. 
-난자 냉동을 택한 셀럽]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=37934990&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=37934990&amp;memberNo=11800362"/>
-        <updated>2024-06-04T00:42:11.572Z</updated>
-        <content type="html"><![CDATA[지금이 아닌 미래를 위한 선택!▼ 클릭 ▼모니카인스타그램 @monika_shin “난자를 얼릴 생각이 없었어. 아이를 낳을 생각이 전혀 없었으니까.” 최근 &lt;슈퍼맨이 돌아왔다&gt;에서 허니제이에게 난자 냉···]]></content>
     </entry>
 </feed>
