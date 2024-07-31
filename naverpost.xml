@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-07-30T23:13:48.297Z</updated>
+    <updated>2024-07-31T00:40:42.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두바이 초콜릿 대신 이거! 
+전국 피스타치오 디저트 4]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38302856&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38302856&amp;memberNo=11800362"/>
+        <updated>2024-07-31T00:37:14.198Z</updated>
+        <content type="html"><![CDATA[올여름 디저트는 너로 정했다.▼ 클릭 ▼ 두바이 초콜릿 대신 이거! 전국 피스타치오 디저트 4 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 두바이 초콜릿 대신 이거! 전···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가슴이 웅장해지는 2024 파리올림픽, 이모저모]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=38302775&amp;memberNo=11800362</id>
@@ -150,13 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38102170&amp;memberNo=11800362"/>
         <updated>2024-07-04T00:43:18.427Z</updated>
         <content type="html"><![CDATA[더보이즈 현재의 싱그러운 하루 ▼ 클릭 ▼Q. 카메라 앞에서 마리떼 프랑소와 저버(이하 ‘마리떼’) 착장으로 여름을 만끽하는 모습이 인상적이었어요. A. 마리떼의 옷이 제 옷장에도 몇 벌 있거든···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번엔 아이슬란드! 
-돌아온 <서진이네 2> 관전 포인트 5]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38095499&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38095499&amp;memberNo=11800362"/>
-        <updated>2024-07-03T00:43:12.331Z</updated>
-        <content type="html"><![CDATA[역대 매출 최고도 경신했다고?!▼ 클릭 ▼ 이번엔 아이슬란드! 돌아온 &lt;서진이네 2&gt; 관전 포인트 5 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 이번엔 아이슬란드!···]]></content>
     </entry>
 </feed>
