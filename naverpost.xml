@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-07-31T23:13:50.620Z</updated>
+    <updated>2024-08-01T00:53:44.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올림픽에서 돋보인 여자 선수들의 활약!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38302994&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38302994&amp;memberNo=11800362"/>
+        <updated>2024-08-01T00:50:12.207Z</updated>
+        <content type="html"><![CDATA[Fun, Fearless, Female 그 잡채 아니냐구~.▼ 클릭 ▼ 올림픽에서 돋보인 여자 선수들의 활약! - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 올림픽에서 돋보인 여자 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두바이 초콜릿 대신 이거! 
 전국 피스타치오 디저트 4]]></title>
@@ -151,12 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38095533&amp;memberNo=11800362"/>
         <updated>2024-07-05T00:43:16.146Z</updated>
         <content type="html"><![CDATA[찾았다! 무더위 맛있게 이기는 법.▼ 클릭 ▼ 뜨거운 여름엔 시원한 모밀이지~ - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 뜨거운 여름엔 시원한 모밀이지~ - 찾았다! 무···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WALKING ON SUNSHINE]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38102170&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38102170&amp;memberNo=11800362"/>
-        <updated>2024-07-04T00:43:18.427Z</updated>
-        <content type="html"><![CDATA[더보이즈 현재의 싱그러운 하루 ▼ 클릭 ▼Q. 카메라 앞에서 마리떼 프랑소와 저버(이하 ‘마리떼’) 착장으로 여름을 만끽하는 모습이 인상적이었어요. A. 마리떼의 옷이 제 옷장에도 몇 벌 있거든···]]></content>
     </entry>
 </feed>
