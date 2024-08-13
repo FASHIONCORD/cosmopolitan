@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-08-12T23:15:09.848Z</updated>
+    <updated>2024-08-13T00:49:52.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이어트 꿀팁? 
+강민경, 안소희가 말아주는 샐러드 레시피!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38431904&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38431904&amp;memberNo=11800362"/>
+        <updated>2024-08-13T00:46:24.584Z</updated>
+        <content type="html"><![CDATA[올여름은&nbsp;행복한&nbsp;다이어터&nbsp;될래.▼ 클릭 ▼ 다이어트 꿀팁? 강민경, 안소희가 말아주는 샐러드 레시피! - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 다이어트 꿀팁? 강민···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민 ❤️ 잔나비 최정훈 열애 인정!]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=38431841&amp;memberNo=11800362</id>
@@ -150,13 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38157489&amp;memberNo=11800362"/>
         <updated>2024-07-17T00:44:39.583Z</updated>
         <content type="html"><![CDATA[매일 세 끼 가능!▼ 클릭 ▼ 여긴 모를걸? 규현, 한지민의 단골 떡볶이집 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 여긴 모를걸? 규현, 한지민의 단골 떡볶이집 - 매일···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금이 제철! 
-서울 초당 옥수수 아이스크림 맛집 6]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38157465&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38157465&amp;memberNo=11800362"/>
-        <updated>2024-07-16T00:44:22.491Z</updated>
-        <content type="html"><![CDATA[고소하고 시원하고 다 해.▼ 클릭 ▼ 지금이 제철! 서울 초당 옥수수 아이스크림 맛집 6 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 지금이 제철! 서울 초당 옥수수 아이···]]></content>
     </entry>
 </feed>
