@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-08-21T23:14:21.488Z</updated>
+    <updated>2024-08-22T00:50:14.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지수&슬기의 양평 맛집? 
+셀럽이 찾은 국내 여행지 3]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38587596&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38587596&amp;memberNo=11800362"/>
+        <updated>2024-08-22T00:46:41.697Z</updated>
+        <content type="html"><![CDATA[갈만한 국내 여행지를 찾고 있다면 이곳!▼ 클릭 ▼ 지수&amp;슬기의 양평 맛집? 셀럽이 찾은 국내 여행지 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 지수&amp;슬기의···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올가을 레이, 민니처럼 히피펌 도전?]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=38568946&amp;memberNo=11800362</id>
@@ -149,13 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38228195&amp;memberNo=11800362"/>
         <updated>2024-07-25T00:44:40.159Z</updated>
         <content type="html"><![CDATA[나는 언제나 네 편이야!▼ 클릭 ▼ 줄게♥조현아 악플 세례에 수지가 등판했다고? - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 줄게♥조현아 악플 세례에 수지가 등판···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평양냉면계 알파 세대? 
-젊은 우리 평냉집 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38193135&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38193135&amp;memberNo=11800362"/>
-        <updated>2024-07-24T00:45:16.140Z</updated>
-        <content type="html"><![CDATA[역사는 짧지만 맛에는 누구보다 진심인 3세대 평양냉면 맛집▼ 클릭 ▼ 평양냉면계 알파 세대? 젊은 우리 평냉집 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 평양냉면···]]></content>
     </entry>
 </feed>
