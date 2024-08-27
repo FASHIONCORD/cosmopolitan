@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-08-26T23:14:42.911Z</updated>
+    <updated>2024-08-27T00:50:00.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 선물? 
+5만 원 이하로 가볍게 선물하자!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38714680&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38714680&amp;memberNo=11800362"/>
+        <updated>2024-08-27T00:46:27.559Z</updated>
+        <content type="html"><![CDATA[주머니랑 마음 모두 챙겨~. ▼ 클릭 ▼호호당호호당 홈페이지호호당 홈페이지 희수복 자수 원형 누비함 4만 2천 원(소) 기쁜 마음으로 다복하고 건강하게 살라는 마음을 담은 희수복(囍壽福) 시리즈 누비···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최화정이 동안일 수 있던 이유는 바로 이것?]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=38587685&amp;memberNo=11800362</id>
@@ -149,12 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38228267&amp;memberNo=11800362"/>
         <updated>2024-07-29T00:46:05.427Z</updated>
         <content type="html"><![CDATA[아이템도 찐이지만 조언은 찐찐찐!▼ 클릭 ▼ 살 안 찌는 간식은 뭐? 최화정의 꿀템 대방출 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 살 안 찌는 간식은 뭐? 최화정의 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 핫플은 여기! 서순라길 맛집 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38228230&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38228230&amp;memberNo=11800362"/>
-        <updated>2024-07-26T00:44:16.178Z</updated>
-        <content type="html"><![CDATA[트민남, 전현무도 반했다.▼ 클릭 ▼ 요즘 핫플은 여기! 서순라길 맛집 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 요즘 핫플은 여기! 서순라길 맛집 3 - 트민남, 전현···]]></content>
     </entry>
 </feed>
