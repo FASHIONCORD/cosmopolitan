@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-09-03T23:15:15.839Z</updated>
+    <updated>2024-09-04T00:51:40.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 책 어디서 읽어? 
+가을을 위한 독서 스폿 3!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38859083&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38859083&amp;memberNo=11800362"/>
+        <updated>2024-09-04T00:48:05.871Z</updated>
+        <content type="html"><![CDATA[바야흐로 가을은 독서의 계절.▼ 클릭 ▼ 요즘 책 어디서 읽어? 가을을 위한 독서 스폿 3! - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 요즘 책 어디서 읽어? 가을을 위한···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서브병 유발자 등장이요. 
 김준한의 서브 남주 연대기]]></title>
@@ -149,13 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38351322&amp;memberNo=11800362"/>
         <updated>2024-08-06T00:44:49.816Z</updated>
         <content type="html"><![CDATA[드립 실력이 신세계인데?▼ 클릭 ▼ 쿨해도 너무 쿨해! 고현정의 전남편 언급들 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 쿨해도 너무 쿨해! 고현정의 전남편 언···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 선수들 스타성 무엇? 
-전세계가 주목하는 이유]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38351292&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38351292&amp;memberNo=11800362"/>
-        <updated>2024-08-05T00:47:03.365Z</updated>
-        <content type="html"><![CDATA[이러니 입덕할 수 밖에~.▼ 클릭 ▼ 우리나라 선수들 스타성 무엇? 전세계가 주목하는 이유 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 우리나라 선수들 스타성 무엇? 전···]]></content>
     </entry>
 </feed>
