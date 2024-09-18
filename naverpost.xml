@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-09-17T23:15:39.932Z</updated>
+    <updated>2024-09-18T00:52:30.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패션 피플들이 손수 꼽은 이번 시즌 놓치지 말아야할 트렌드!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39030215&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39030215&amp;memberNo=11800362"/>
+        <updated>2024-09-18T00:48:57.585Z</updated>
+        <content type="html"><![CDATA[패션 인사이더 4인이 픽한 2024 F/W 시즌 키 트렌드. 패션 피플들이 손수 꼽은 이번 시즌 놓치지 말아야할 트렌드! - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 패션···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레오파드의 계절]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=39030065&amp;memberNo=11800362</id>
@@ -145,12 +152,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38568946&amp;memberNo=11800362"/>
         <updated>2024-08-21T00:46:01.963Z</updated>
         <content type="html"><![CDATA[뽀글뽀글 귀여워.▼ 클릭 ▼ 올가을 레이, 민니처럼 히피펌 도전? - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 올가을 레이, 민니처럼 히피펌 도전? - 뽀글뽀글 귀여···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈터와 조이는 여름에 이걸 즐겨 입는다?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38568844&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38568844&amp;memberNo=11800362"/>
-        <updated>2024-08-20T00:45:13.952Z</updated>
-        <content type="html"><![CDATA[냉방병&nbsp;헤이러는&nbsp;커몬!▼ 클릭 ▼ 윈터와 조이는 여름에 이걸 즐겨 입는다? - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 윈터와 조이는 여름에 이걸 즐겨 입는다? - ···]]></content>
     </entry>
 </feed>
