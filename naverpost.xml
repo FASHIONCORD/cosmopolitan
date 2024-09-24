@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-09-23T23:14:02.748Z</updated>
+    <updated>2024-09-24T00:55:26.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을엔 역시 니트! 
+셀럽들의 니트 스타일링 5]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39211641&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39211641&amp;memberNo=11800362"/>
+        <updated>2024-09-24T00:51:58.255Z</updated>
+        <content type="html"><![CDATA[분위기 있는 셀럽 가을 니트 패션.▼ 클릭 ▼ 가을엔 역시 니트! 셀럽들의 니트 스타일링 5 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 가을엔 역시 니트! 셀럽들의···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노화까지 늦춘다? 
 킴 카다시안의 다이어트 약]]></title>
@@ -145,13 +153,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38715072&amp;memberNo=11800362"/>
         <updated>2024-08-28T00:46:47.890Z</updated>
         <content type="html"><![CDATA[어서 오십시오. 제대로 모시겠습니다.▼ 클릭 ▼ ‘지드래곤 컴백’ 어디까지 온 거예요? - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 ‘지드래곤 컴백’ 어디까지 온 거···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 선물? 
-5만 원 이하로 가볍게 선물하자!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38714680&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38714680&amp;memberNo=11800362"/>
-        <updated>2024-08-27T00:46:27.559Z</updated>
-        <content type="html"><![CDATA[주머니랑 마음 모두 챙겨~. ▼ 클릭 ▼호호당호호당 홈페이지호호당 홈페이지 희수복 자수 원형 누비함 4만 2천 원(소) 기쁜 마음으로 다복하고 건강하게 살라는 마음을 담은 희수복(囍壽福) 시리즈 누비···]]></content>
     </entry>
 </feed>
