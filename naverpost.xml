@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-09-24T23:14:16.003Z</updated>
+    <updated>2024-09-25T00:56:00.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아침 러닝 후 들르기 좋은 서울 스폿 4]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39211799&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39211799&amp;memberNo=11800362"/>
+        <updated>2024-09-25T00:52:27.936Z</updated>
+        <content type="html"><![CDATA[운동하고 커피 한 잔, 얼마나 좋게요~.▼ 클릭 ▼ 아침 러닝 후 들르기 좋은 서울 스폿 4 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 아침 러닝 후 들르기 좋은 서울 스···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을엔 역시 니트! 
 셀럽들의 니트 스타일링 5]]></title>
@@ -146,12 +153,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38715121&amp;memberNo=11800362"/>
         <updated>2024-08-29T00:47:25.446Z</updated>
         <content type="html"><![CDATA[다리가 2m처럼 보이는 수트 스타일링 비법~.▼ 클릭 ▼ 장나라의 &lt;굿파트너&gt; 수트 패션 따라잡기! - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 장나라의 &lt;굿···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘지드래곤 컴백’ 어디까지 온 거예요?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38715072&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38715072&amp;memberNo=11800362"/>
-        <updated>2024-08-28T00:46:47.890Z</updated>
-        <content type="html"><![CDATA[어서 오십시오. 제대로 모시겠습니다.▼ 클릭 ▼ ‘지드래곤 컴백’ 어디까지 온 거예요? - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 ‘지드래곤 컴백’ 어디까지 온 거···]]></content>
     </entry>
 </feed>
