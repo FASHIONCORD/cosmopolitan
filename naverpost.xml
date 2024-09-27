@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-09-26T23:15:08.860Z</updated>
+    <updated>2024-09-27T00:55:26.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꼭 가봐야 할 '흑백요리사' 식당 리스트]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39278665&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39278665&amp;memberNo=11800362"/>
+        <updated>2024-09-27T00:51:50.858Z</updated>
+        <content type="html"><![CDATA[일단 맛보면 평생 단골각! ▼ 클릭 ▼ 꼭 가봐야 할 '흑백요리사' 식당 리스트 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 꼭 가봐야 할 '흑백요리사' ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘부터 프로야구 팬! 
 연프재질 야구 선수 4]]></title>
@@ -146,13 +153,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38758471&amp;memberNo=11800362"/>
         <updated>2024-09-02T00:50:12.487Z</updated>
         <content type="html"><![CDATA[시간차 공격 들어간다.▼ 클릭 ▼ 이래도 돼? 셀럽들의 고자극 럽스타그램 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 이래도 돼? 셀럽들의 고자극 럽스타그램 - 시간차 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니는 6억 원? 
-셀럽의 인스타그램 수익 대공개]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38758073&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38758073&amp;memberNo=11800362"/>
-        <updated>2024-08-30T00:47:44.926Z</updated>
-        <content type="html"><![CDATA[‘억’소리가&nbsp;난다,&nbsp;나!▼ 클릭 ▼ 제니는 6억 원? 셀럽의 인스타그램 수익 대공개 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 제니는 6억 원? 셀럽의 인스타그램 수···]]></content>
     </entry>
 </feed>
