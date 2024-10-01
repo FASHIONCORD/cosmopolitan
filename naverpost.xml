@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-01T02:26:50.987Z</updated>
+    <updated>2024-10-01T03:29:04.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['흑백요리사' 안성재 셰프 TMI 대방출!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39330718&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39330718&amp;memberNo=11800362"/>
+        <updated>2024-10-01T03:25:33.125Z</updated>
+        <content type="html"><![CDATA[그가 궁금하다 ‘ALL ABOUT 안성재’.▼ 클릭 ▼ '흑백요리사' 안성재 셰프 TMI 대방출! - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 '흑백요리사' 안···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스치면 논란이 된다? 
 배우 이나은 의외의 친분 3]]></title>
@@ -145,13 +152,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38859083&amp;memberNo=11800362"/>
         <updated>2024-09-04T00:48:05.871Z</updated>
         <content type="html"><![CDATA[바야흐로 가을은 독서의 계절.▼ 클릭 ▼ 요즘 책 어디서 읽어? 가을을 위한 독서 스폿 3! - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 요즘 책 어디서 읽어? 가을을 위한···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서브병 유발자 등장이요. 
-김준한의 서브 남주 연대기]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38758553&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38758553&amp;memberNo=11800362"/>
-        <updated>2024-09-03T00:47:26.953Z</updated>
-        <content type="html"><![CDATA[자꾸 신경 쓰여~.▼ 클릭 ▼ 서브병 유발자 등장이요. 김준한의 서브 남주 연대기 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 서브병 유발자 등장이요. 김준한의 서···]]></content>
     </entry>
 </feed>
