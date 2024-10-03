@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-02T23:14:55.399Z</updated>
+    <updated>2024-10-03T00:55:08.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연휴에 정주행? 취향별 드라마 추천]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39367223&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39367223&amp;memberNo=11800362"/>
+        <updated>2024-10-03T00:51:33.598Z</updated>
+        <content type="html"><![CDATA[쉬는 날엔 드라마 몰아봐야지~▼ 클릭 ▼ 연휴에 정주행? 취향별 드라마 추천 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 연휴에 정주행? 취향별 드라마 추천 - 쉬는 날···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이토록 쿨한 만남!]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=39364166&amp;memberNo=11800362</id>
@@ -143,13 +150,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38859315&amp;memberNo=11800362"/>
         <updated>2024-09-06T00:47:48.635Z</updated>
         <content type="html"><![CDATA[작지만 확실한 축하. 셀럽들이 결혼기념일을 자축하는 법.▼ 클릭 ▼ 벌써 11년? 이효리♥이상순의 리마인드 웨딩 비하인드 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 벌···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자취생 주목! 
-한식 러버를 위한 반찬가게 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38859151&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38859151&amp;memberNo=11800362"/>
-        <updated>2024-09-05T00:48:30.059Z</updated>
-        <content type="html"><![CDATA[이게 바로 엄마의 맛…?▼ 클릭 ▼ 자취생 주목! 한식 러버를 위한 반찬가게 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 자취생 주목! 한식 러버를 위한 반찬가게 3 - ···]]></content>
     </entry>
 </feed>
