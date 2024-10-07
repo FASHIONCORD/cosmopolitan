@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-06T23:14:05.595Z</updated>
+    <updated>2024-10-07T00:57:22.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<흑백요리사> 출연진 유튜브 채널 모음!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39367410&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39367410&amp;memberNo=11800362"/>
+        <updated>2024-10-07T00:53:51.144Z</updated>
+        <content type="html"><![CDATA[구독, 좋아요, 알림설정까지!▼ 클릭 ▼ &lt;흑백요리사&gt; 출연진 유튜브 채널 모음! - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 &lt;흑백요리사&gt; 출연진 유튜브 채···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[굴의 계절! 당장 가야 할 서울 굴 맛집 3]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=39367290&amp;memberNo=11800362</id>
@@ -142,12 +149,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38992992&amp;memberNo=11800362"/>
         <updated>2024-09-10T00:49:11.312Z</updated>
         <content type="html"><![CDATA[윤혜진&nbsp;루틴만&nbsp;따라&nbsp;하면&nbsp;발레리나&nbsp;팔뚝&nbsp;도달도&nbsp;easy~. 윤혜진처럼 가녀린 '발레리나 팔' 만드는 비법? - BEAUTY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 윤혜진처···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을 러닝 가이드 총망라!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=38992089&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=38992089&amp;memberNo=11800362"/>
-        <updated>2024-09-09T12:20:15.054Z</updated>
-        <content type="html"><![CDATA[하반기 러닝 대회부터 러너들의 최애 러닝 코스까지, 러닝에 대한 모든 것RUNNING LESSONS ─ 러닝 코치 이진이 전하는 가을 러닝 꿀팁.무더운 여름이 지난 가을은 몸의 컨디션이 다시 살아나는 시기다. 어디든 가볍···]]></content>
     </entry>
 </feed>
