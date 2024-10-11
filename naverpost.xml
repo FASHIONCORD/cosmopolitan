@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-10T23:15:02.356Z</updated>
+    <updated>2024-10-11T00:55:46.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GD·제니가 한자리에? 
+2NE1 콘서트에 참석한 의외의 셀럽]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39481307&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39481307&amp;memberNo=11800362"/>
+        <updated>2024-10-11T00:52:15.475Z</updated>
+        <content type="html"><![CDATA[역시 아이돌의 아이돌.▼ 클릭 ▼ GD·제니가 한자리에? 2NE1 콘서트에 참석한 의외의 셀럽 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 GD·제니가 한자리에? 2NE1 콘···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흑백 요리사 버프, 
 꼭 가야할 밤 디저트 맛집 3]]></title>
@@ -146,12 +154,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39030065&amp;memberNo=11800362"/>
         <updated>2024-09-17T00:40:13.812Z</updated>
         <content type="html"><![CDATA[대담한 매력의 레오파드! 일상에서 쉽게 즐기는 방법 레오파드의 계절 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 레오파드의 계절 - 대담한 매력의 레오파드! 일상···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을 패션은 ’드뮤어‘가 점령? 그게 뭔데!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39029914&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39029914&amp;memberNo=11800362"/>
-        <updated>2024-09-16T00:53:03.282Z</updated>
-        <content type="html"><![CDATA[브랫 가고 ‘드뮤어’ 왔다. 가을 패션은 ’드뮤어‘가 점령? 그게 뭔데! - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 가을 패션은 ’드뮤어‘가 점령? 그게 뭔데! - 브랫 ···]]></content>
     </entry>
 </feed>
