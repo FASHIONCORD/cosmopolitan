@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-14T23:14:23.345Z</updated>
+    <updated>2024-10-15T00:56:02.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하니 이전에 백종원? 
+국정감사에 출석 요청을 받은 셀럽은 누구?]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39569963&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39569963&amp;memberNo=11800362"/>
+        <updated>2024-10-15T00:52:33.366Z</updated>
+        <content type="html"><![CDATA[하니의 출석일은 바로 오늘 15일, 어떤 이야기를 할까?▼ 클릭 ▼ 하니 이전에 백종원? 국정감사에 출석 요청을 받은 셀럽은 누구? - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GD·제니가 한자리에? 
 2NE1 콘서트에 참석한 의외의 셀럽]]></title>
@@ -147,12 +155,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39030215&amp;memberNo=11800362"/>
         <updated>2024-09-18T00:48:57.585Z</updated>
         <content type="html"><![CDATA[패션 인사이더 4인이 픽한 2024 F/W 시즌 키 트렌드. 패션 피플들이 손수 꼽은 이번 시즌 놓치지 말아야할 트렌드! - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 패션···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레오파드의 계절]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39030065&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39030065&amp;memberNo=11800362"/>
-        <updated>2024-09-17T00:40:13.812Z</updated>
-        <content type="html"><![CDATA[대담한 매력의 레오파드! 일상에서 쉽게 즐기는 방법 레오파드의 계절 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 레오파드의 계절 - 대담한 매력의 레오파드! 일상···]]></content>
     </entry>
 </feed>
