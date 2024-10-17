@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-16T23:15:27.175Z</updated>
+    <updated>2024-10-17T00:55:34.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SUPER! 모델 신현지의 가을 룩]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39670188&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39670188&amp;memberNo=11800362"/>
+        <updated>2024-10-17T00:52:08.959Z</updated>
+        <content type="html"><![CDATA[에잇세컨즈와 함께한 신현지의 패셔너블 모먼트.▼ 클릭 ▼세계적 톱 모델 신현지가 에잇세컨즈의 가을 룩을 입고 &lt;코스모폴리탄&gt;의 카메라 앞에 섰습니다. 강렬한 눈빛으로 시선을 사로잡는가 하면, 때론 천진···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 떠오르는 헤어는 이것? 
 셀럽의 '빈티지 헤어']]></title>
@@ -149,12 +156,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39134308&amp;memberNo=11800362"/>
         <updated>2024-09-20T00:49:58.245Z</updated>
         <content type="html"><![CDATA[지금 아니면 못 먹어요.▼ 클릭 ▼ 바야흐로 대하의 계절. 대하 맛집 여기요! - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 바야흐로 대하의 계절. 대하 맛집 여기요! - 지···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상을 바꾼 티셔츠]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39030307&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39030307&amp;memberNo=11800362"/>
-        <updated>2024-09-19T00:49:59.682Z</updated>
-        <content type="html"><![CDATA[조용히 침투해, 선명히 기억된다. 세상을 바꾸는 슬로건 티셔츠의 힘! 세상을 바꾼 티셔츠 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 세상을 바꾼 티셔츠 - 조용히···]]></content>
     </entry>
 </feed>
