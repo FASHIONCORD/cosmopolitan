@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-20T23:15:10.059Z</updated>
+    <updated>2024-10-21T00:57:30.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맛이 이븐하네요. 
+안성재 PICK 서울 레스토랑 3]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39670358&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39670358&amp;memberNo=11800362"/>
+        <updated>2024-10-21T00:54:04.268Z</updated>
+        <content type="html"><![CDATA[나야, 맛집 정보!▼ 클릭 ▼ 맛이 이븐하네요. 안성재 PICK 서울 레스토랑 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 맛이 이븐하네요. 안성재 PICK 서울 레스토랑 3 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평창댁 이효리, 정재형이 픽한 가구점은?]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=39670311&amp;memberNo=11800362</id>
@@ -147,13 +155,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39211799&amp;memberNo=11800362"/>
         <updated>2024-09-25T00:52:27.936Z</updated>
         <content type="html"><![CDATA[운동하고 커피 한 잔, 얼마나 좋게요~.▼ 클릭 ▼ 아침 러닝 후 들르기 좋은 서울 스폿 4 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 아침 러닝 후 들르기 좋은 서울 스···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을엔 역시 니트! 
-셀럽들의 니트 스타일링 5]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39211641&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39211641&amp;memberNo=11800362"/>
-        <updated>2024-09-24T00:51:58.255Z</updated>
-        <content type="html"><![CDATA[분위기 있는 셀럽 가을 니트 패션.▼ 클릭 ▼ 가을엔 역시 니트! 셀럽들의 니트 스타일링 5 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 가을엔 역시 니트! 셀럽들의···]]></content>
     </entry>
 </feed>
