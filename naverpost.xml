@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-24T23:15:27.765Z</updated>
+    <updated>2024-10-25T00:55:51.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘악뮤’말고 더 있다? 
+작가 한강의 추천 플레이리스트!]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39780507&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39780507&amp;memberNo=11800362"/>
+        <updated>2024-10-25T00:52:21.764Z</updated>
+        <content type="html"><![CDATA[노벨문학상 수상 작가 한강은 어떤 노래를 들으며 글을 썼을까?▼ 클릭 ▼ ‘악뮤’말고 더 있다? 작가 한강의 추천 플레이리스트! - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지혜, 서지영 불화 인정? 
 15년 만에 재회!]]></title>
@@ -149,13 +157,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39330718&amp;memberNo=11800362"/>
         <updated>2024-10-01T03:25:33.125Z</updated>
         <content type="html"><![CDATA[그가 궁금하다 ‘ALL ABOUT 안성재’.▼ 클릭 ▼ '흑백요리사' 안성재 셰프 TMI 대방출! - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 '흑백요리사' 안···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스치면 논란이 된다? 
-배우 이나은 의외의 친분 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39279704&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39279704&amp;memberNo=11800362"/>
-        <updated>2024-09-30T00:53:30.006Z</updated>
-        <content type="html"><![CDATA[덱스부터 SNL 크루까지!▼ 클릭 ▼ 스치면 논란이 된다? 배우 이나은 의외의 친분 3 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 스치면 논란이 된다? 배우 이나은 ···]]></content>
     </entry>
 </feed>
