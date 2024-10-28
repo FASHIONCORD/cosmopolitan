@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-27T23:15:45.873Z</updated>
+    <updated>2024-10-28T00:58:31.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[텍스트힙 뿜뿜! 
+감성 넘치는 책 플레이스 3]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39866209&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39866209&amp;memberNo=11800362"/>
+        <updated>2024-10-28T00:55:00.840Z</updated>
+        <content type="html"><![CDATA[이번 주말엔 이곳에서 책 1권 어때?▼ 클릭 ▼ 텍스트힙 뿜뿜! 감성 넘치는 책 플레이스 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 텍스트힙 뿜뿜! 감성 넘치는 책 플···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘악뮤’말고 더 있다? 
 작가 한강의 추천 플레이리스트!]]></title>
@@ -150,12 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39364166&amp;memberNo=11800362"/>
         <updated>2024-10-02T03:16:32.519Z</updated>
         <content type="html"><![CDATA[권은비만의 매력으로 소화한 와이드앵글 골프 웨어 룩.▼ 클릭 ▼울 혼방 소재의 쉐브론 아트웍 반넥 풀오버, 사이드 플리츠 퀼로트 모두 Wideangle.하이브리드 풀 집업 후디 스웨터, 은은한 광택감의 스웨이드 랩 플···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['흑백요리사' 안성재 셰프 TMI 대방출!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39330718&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39330718&amp;memberNo=11800362"/>
-        <updated>2024-10-01T03:25:33.125Z</updated>
-        <content type="html"><![CDATA[그가 궁금하다 ‘ALL ABOUT 안성재’.▼ 클릭 ▼ '흑백요리사' 안성재 셰프 TMI 대방출! - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 '흑백요리사' 안···]]></content>
     </entry>
 </feed>
