@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-28T23:14:26.052Z</updated>
+    <updated>2024-10-29T00:57:11.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정은채도 반한♥︎ 
+박나래 다이어트 김밥 레시피]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39866501&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39866501&amp;memberNo=11800362"/>
+        <updated>2024-10-29T00:53:47.167Z</updated>
+        <content type="html"><![CDATA[대체 어떻게 만들길래!▼ 클릭 ▼ 정은채도 반한♥︎ 박나래 다이어트 김밥 레시피 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 정은채도 반한♥︎ 박나래 다이어트 김밥 레시···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텍스트힙 뿜뿜! 
 감성 넘치는 책 플레이스 3]]></title>
@@ -151,12 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39367223&amp;memberNo=11800362"/>
         <updated>2024-10-03T00:51:33.598Z</updated>
         <content type="html"><![CDATA[쉬는 날엔 드라마 몰아봐야지~▼ 클릭 ▼ 연휴에 정주행? 취향별 드라마 추천 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 연휴에 정주행? 취향별 드라마 추천 - 쉬는 날···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이토록 쿨한 만남!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39364166&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39364166&amp;memberNo=11800362"/>
-        <updated>2024-10-02T03:16:32.519Z</updated>
-        <content type="html"><![CDATA[권은비만의 매력으로 소화한 와이드앵글 골프 웨어 룩.▼ 클릭 ▼울 혼방 소재의 쉐브론 아트웍 반넥 풀오버, 사이드 플리츠 퀼로트 모두 Wideangle.하이브리드 풀 집업 후디 스웨터, 은은한 광택감의 스웨이드 랩 플···]]></content>
     </entry>
 </feed>
