@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-10-31T23:16:32.393Z</updated>
+    <updated>2024-11-01T01:00:25.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제 곧 코트의 계절. 
+겨울 코트 스타일링 팁 5]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39947868&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39947868&amp;memberNo=11800362"/>
+        <updated>2024-11-01T00:57:00.622Z</updated>
+        <content type="html"><![CDATA[작년에 산 코트, 어떻게 스타일링 할지 고민이라면?▼ 클릭 ▼ 이제 곧 코트의 계절. 겨울 코트 스타일링 팁 5 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 이제 곧 코···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대도시의 사랑법 다음엔? 
 정주행 부르는 퀴어 드라마 4]]></title>
@@ -154,12 +162,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39448385&amp;memberNo=11800362"/>
         <updated>2024-10-08T00:51:40.239Z</updated>
         <content type="html"><![CDATA[어머! 이건 꼭 사야 해~.▼ 클릭 ▼ 고급 그 자체! 따라 사고 싶은 셀럽 주방템 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 고급 그 자체! 따라 사고 싶은 셀럽 주···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<흑백요리사> 출연진 유튜브 채널 모음!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39367410&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39367410&amp;memberNo=11800362"/>
-        <updated>2024-10-07T00:53:51.144Z</updated>
-        <content type="html"><![CDATA[구독, 좋아요, 알림설정까지!▼ 클릭 ▼ &lt;흑백요리사&gt; 출연진 유튜브 채널 모음! - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 &lt;흑백요리사&gt; 출연진 유튜브 채···]]></content>
     </entry>
 </feed>
