@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-11-04T23:14:57.586Z</updated>
+    <updated>2024-11-05T00:55:12.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힙당동' 가봤어? 
+감성 넘치는 신당동 하루 코스]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39998726&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39998726&amp;memberNo=11800362"/>
+        <updated>2024-11-05T00:51:44.011Z</updated>
+        <content type="html"><![CDATA[떡볶이는 이제 그만!▼ 클릭 ▼ '힙당동' 가봤어? 감성 넘치는 신당동 하루 코스 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 '힙당동' 가봤어? 감성 넘···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김나영, 강민경, 진서연의 
 요요 없는 식사법?]]></title>
@@ -154,13 +162,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39448412&amp;memberNo=11800362"/>
         <updated>2024-10-09T00:51:41.775Z</updated>
         <content type="html"><![CDATA[내일부터 이렇게만 입어.▼ 클릭 ▼ 갑자기 뚝 떨어진 기온? 날씨별 옷차림 총정리 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 갑자기 뚝 떨어진 기온? 날씨별 옷차림···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현금 다발에 점괘까지? 
-윤여정의 왓츠인마이백]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39481448&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39481448&amp;memberNo=11800362"/>
-        <updated>2024-10-08T06:16:27.701Z</updated>
-        <content type="html"><![CDATA[어쩌니, 백 안에 00 들었는데? ▼ 클릭 ▼스마이슨 멀티집 케이스유튜브 &lt;안녕하세요 최화정이에요&gt;유튜브 &lt;안녕하세요 최화정이에요&gt; 최화정의 유튜브 채널 초대 손님은 30년째 절친인 윤여정 선생님. 최···]]></content>
     </entry>
 </feed>
