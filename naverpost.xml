@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-11-12T06:19:24.328Z</updated>
+    <updated>2024-11-12T07:14:42.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번에도 오겜이 오겜할까? 
+<오징어 게임> 시즌 2 관전포인트 9]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40497189&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40497189&amp;memberNo=11800362"/>
+        <updated>2024-11-12T07:11:17.411Z</updated>
+        <content type="html"><![CDATA[이제 남은 것은 12월 26일 떡밥을 회수하는 것 뿐!\▼ 클릭 ▼ 이번에도 오겜이 오겜할까? &lt;오징어 게임&gt; 시즌 2 관전포인트 9 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희, 이시영도? 
 실제 나이 속이고 데뷔한 셀럽 4]]></title>
@@ -153,13 +161,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39670188&amp;memberNo=11800362"/>
         <updated>2024-10-17T00:52:08.959Z</updated>
         <content type="html"><![CDATA[에잇세컨즈와 함께한 신현지의 패셔너블 모먼트.▼ 클릭 ▼세계적 톱 모델 신현지가 에잇세컨즈의 가을 룩을 입고 &lt;코스모폴리탄&gt;의 카메라 앞에 섰습니다. 강렬한 눈빛으로 시선을 사로잡는가 하면, 때론 천진···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 떠오르는 헤어는 이것? 
-셀럽의 '빈티지 헤어']]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39569995&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39569995&amp;memberNo=11800362"/>
-        <updated>2024-10-16T00:52:16.487Z</updated>
-        <content type="html"><![CDATA[자연스러운데 예쁘잖아?▼ 클릭 ▼ 요즘 떠오르는 헤어는 이것? 셀럽의 '빈티지 헤어' - BEAUTY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 요즘 떠오르는 헤어는 이것?···]]></content>
     </entry>
 </feed>
