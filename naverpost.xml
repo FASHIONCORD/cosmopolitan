@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-11-14T05:15:08.945Z</updated>
+    <updated>2024-11-14T06:19:42.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hi Kristin! Who are you Today?]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40602693&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40602693&amp;memberNo=11800362"/>
+        <updated>2024-11-14T06:16:16.206Z</updated>
+        <content type="html"><![CDATA[하루 종일 자연스럽게 빛나는 눈빛! 하파크리스틴에서 새롭게 출시하는 ‘빈 크리스틴’ 컬렉션은 일상에서 매일 즐겨 찾는 커피처럼 데일리한 브라운 컬러 베리에이션으로 선보인다. 브랜드 앰배서더 장···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 해린이 수험생? 
 2024 수능 응시 셀럽 6]]></title>
@@ -155,12 +162,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39670358&amp;memberNo=11800362"/>
         <updated>2024-10-21T00:54:04.268Z</updated>
         <content type="html"><![CDATA[나야, 맛집 정보!▼ 클릭 ▼ 맛이 이븐하네요. 안성재 PICK 서울 레스토랑 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 맛이 이븐하네요. 안성재 PICK 서울 레스토랑 3 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평창댁 이효리, 정재형이 픽한 가구점은?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39670311&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39670311&amp;memberNo=11800362"/>
-        <updated>2024-10-18T00:51:58.798Z</updated>
-        <content type="html"><![CDATA[요즘 가구 쇼핑은 여기서 한다고? 갈게!▼ 클릭 ▼ 평창댁 이효리, 정재형이 픽한 가구점은? - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 평창댁 이효리, 정재형이 ···]]></content>
     </entry>
 </feed>
