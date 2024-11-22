@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-11-21T23:14:56.598Z</updated>
+    <updated>2024-11-22T00:58:45.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돌아온 어그의 계절! 
+셀럽 어그 스타일링 4]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40843978&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40843978&amp;memberNo=11800362"/>
+        <updated>2024-11-22T00:55:15.587Z</updated>
+        <content type="html"><![CDATA[어그 뽐뿌 잔뜩 받고 감~.▼ 클릭 ▼ 돌아온 어그의 계절! 셀럽 어그 스타일링 4 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 어그 뽐뿌 잔뜩 받고 감~. www.cosmopoli···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머플러 
 어떻게 매야 잘 맸다고 소문날까?]]></title>
@@ -153,13 +161,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39866501&amp;memberNo=11800362"/>
         <updated>2024-10-29T00:53:47.167Z</updated>
         <content type="html"><![CDATA[대체 어떻게 만들길래!▼ 클릭 ▼ 정은채도 반한♥︎ 박나래 다이어트 김밥 레시피 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 정은채도 반한♥︎ 박나래 다이어트 김밥 레시···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텍스트힙 뿜뿜! 
-감성 넘치는 책 플레이스 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39866209&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39866209&amp;memberNo=11800362"/>
-        <updated>2024-10-28T00:55:00.840Z</updated>
-        <content type="html"><![CDATA[이번 주말엔 이곳에서 책 1권 어때?▼ 클릭 ▼ 텍스트힙 뿜뿜! 감성 넘치는 책 플레이스 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 텍스트힙 뿜뿜! 감성 넘치는 책 플···]]></content>
     </entry>
 </feed>
