@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-11-26T23:15:08.193Z</updated>
+    <updated>2024-11-27T00:59:16.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 겨울의 굴보쌈 맛집 3]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41217004&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41217004&amp;memberNo=11800362"/>
+        <updated>2024-11-27T00:55:48.250Z</updated>
+        <content type="html"><![CDATA[굴과 김치는 못 참지.▼ 클릭 ▼ 이 겨울의 굴보쌈 맛집 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 굴과 김치는 못 참지. www.cosmopolitan.co.kr 맛자랑 네이버 지도···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스 한정! 음료, 주류 모음]]></title>
         <id>https://post.naver.com/viewer/postView.naver?volumeNo=41216831&amp;memberNo=11800362</id>
@@ -152,13 +159,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39947868&amp;memberNo=11800362"/>
         <updated>2024-11-01T00:57:00.622Z</updated>
         <content type="html"><![CDATA[작년에 산 코트, 어떻게 스타일링 할지 고민이라면?▼ 클릭 ▼ 이제 곧 코트의 계절. 겨울 코트 스타일링 팁 5 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 이제 곧 코···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대도시의 사랑법 다음엔? 
-정주행 부르는 퀴어 드라마 4]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39947783&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39947783&amp;memberNo=11800362"/>
-        <updated>2024-10-31T00:52:58.783Z</updated>
-        <content type="html"><![CDATA[&lt;대도시의 사랑법&gt;이 쏘아올린 작은 공.▼ 클릭 ▼ 대도시의 사랑법 다음엔? 정주행 부르는 퀴어 드라마 4 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 대도시의 사···]]></content>
     </entry>
 </feed>
