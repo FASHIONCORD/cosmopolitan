@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://post.naver.com/my.naver?memberNo=11800362</id>
     <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-11-28T10:16:31.222Z</updated>
+    <updated>2024-11-28T11:13:55.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 분위기 끌어올려~ 성탄 분위기 즐기기 좋은 카페 3]]></title>
+        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41449890&amp;memberNo=11800362</id>
+        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41449890&amp;memberNo=11800362"/>
+        <updated>2024-11-28T11:10:27.610Z</updated>
+        <content type="html"><![CDATA[어디서 찍어도 인생샷 건지기 가능.#핏크연남동에 위치한 카페 핏크의 내부는 고급짐 그 자체. 외관 벽을 둘러싸는 조명과 대형 트리가 만나 먼발치에서 봐도 존재감이 독보적인 모습을 완성했다. 내부에선 북극곰 ···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 마마 어워즈, 
 화제의 이슈 Top 5 (feat. 비하인드 스토리)]]></title>
@@ -151,13 +158,5 @@
         <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39998726&amp;memberNo=11800362"/>
         <updated>2024-11-05T00:51:44.011Z</updated>
         <content type="html"><![CDATA[떡볶이는 이제 그만!▼ 클릭 ▼ '힙당동' 가봤어? 감성 넘치는 신당동 하루 코스 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 '힙당동' 가봤어? 감성 넘···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나영, 강민경, 진서연의 
-요요 없는 식사법?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=39998622&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=39998622&amp;memberNo=11800362"/>
-        <updated>2024-11-04T00:54:12.892Z</updated>
-        <content type="html"><![CDATA[이대로만 해도 유지어터 쌉가능~.▼ 클릭 ▼ 김나영, 강민경, 진서연의 요요 없는 식사법? - BEAUTY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 김나영, 강민경, 진서연의 요요 ···]]></content>
     </entry>
 </feed>
