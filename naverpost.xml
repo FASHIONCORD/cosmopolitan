@@ -1,159 +1,163 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my.naver?memberNo=11800362</id>
-    <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
-    <updated>2024-12-04T01:00:43.354Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[겨울 코디? 제니한테 영감 받았어요]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41856544&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41856544&amp;memberNo=11800362"/>
-        <updated>2024-12-03T23:12:13.941Z</updated>
-        <content type="html"><![CDATA[응~ 쇼핑 영감! 겨울 코디? 제니한테 영감 받았어요 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 응~ 쇼핑 영감! www.cosmopolitan.co.kr 매서운 찬 바람에 눈보라···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무심코 사용한 족집게! 눈썹 건강엔 최악이라고?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41774452&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41774452&amp;memberNo=11800362"/>
-        <updated>2024-12-02T23:13:22.592Z</updated>
-        <content type="html"><![CDATA[이거슨 스스로 불러온 재앙. 무심코 사용한 족집게! 눈썹 건강엔 최악이라고? - BEAUTY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 이거슨 스스로 불러온 재앙. www.cosmopoli···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '위키드' 보기 전 알아야 할 필수 정보 4]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41774189&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41774189&amp;memberNo=11800362"/>
-        <updated>2024-12-02T11:10:33.234Z</updated>
-        <content type="html"><![CDATA[이거 알면 넌 파퓰러!&lt;위키드&gt;는 &lt;오즈의 마법사&gt;에서 탄생한 이야기네이버 영화 &lt;위키드&gt; 거대한 태풍에 실려 오즈에 도착하게 된 ‘도로시’가 두뇌 없는 허수아비, 용기 없는 사자, ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 분위기 끌어올려~ 성탄 분위기 즐기기 좋은 카페 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41449890&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41449890&amp;memberNo=11800362"/>
-        <updated>2024-11-28T11:10:27.610Z</updated>
-        <content type="html"><![CDATA[어디서 찍어도 인생샷 건지기 가능.#핏크연남동에 위치한 카페 핏크의 내부는 고급짐 그 자체. 외관 벽을 둘러싸는 조명과 대형 트리가 만나 먼발치에서 봐도 존재감이 독보적인 모습을 완성했다. 내부에선 북극곰 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 마마 어워즈, 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 코스모폴리탄 코리아</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Dec 2024 02:29:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬의 로맨틱 홀리데이 기프트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41739133&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41739133&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 04 Dec 2024 02:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[파티 분위기를 고조시키는 샤넬의 홀리데이 향수 컬렉션. ▼ 클릭 ▼ 샤넬의 로맨틱 홀리데이 기프트 - BEAUTY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 파티 분위기를 고조시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDJfMzAw/MDAxNzMzMTA1NzA1MTY0.y8WG9s6MX2RbaalHTHXhWDI9HVAuE1qPxJQ8zHvefnQg.r4HZfs3su1u2_OoM-y7Fjp-xRSX2ECgil-eyvcYDuaog.JPEG/IklSR77czqwyMg0H2P6S6iJHFsc4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 코디? 제니한테 영감 받았어요]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41856544&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41856544&amp;memberNo=11800362</guid>
+            <pubDate>Tue, 03 Dec 2024 23:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[응~ 쇼핑 영감! 겨울 코디? 제니한테 영감 받았어요 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 응~ 쇼핑 영감! www.cosmopolitan.co.kr 매서운 찬 바람에 눈보라···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무심코 사용한 족집게! 눈썹 건강엔 최악이라고?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41774452&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41774452&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 02 Dec 2024 23:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[이거슨 스스로 불러온 재앙. 무심코 사용한 족집게! 눈썹 건강엔 최악이라고? - BEAUTY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 이거슨 스스로 불러온 재앙. www.cosmopoli···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영화 '위키드' 보기 전 알아야 할 필수 정보 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41774189&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41774189&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 02 Dec 2024 11:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[이거 알면 넌 파퓰러!&lt;위키드&gt;는 &lt;오즈의 마법사&gt;에서 탄생한 이야기네이버 영화 &lt;위키드&gt; 거대한 태풍에 실려 오즈에 도착하게 된 ‘도로시’가 두뇌 없는 허수아비, 용기 없는 사자, ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연말 분위기 끌어올려~ 성탄 분위기 즐기기 좋은 카페 3]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41449890&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41449890&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 28 Nov 2024 11:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[어디서 찍어도 인생샷 건지기 가능.#핏크연남동에 위치한 카페 핏크의 내부는 고급짐 그 자체. 외관 벽을 둘러싸는 조명과 대형 트리가 만나 먼발치에서 봐도 존재감이 독보적인 모습을 완성했다. 내부에선 북극곰 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 마마 어워즈, 
 화제의 이슈 Top 5 (feat. 비하인드 스토리)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41340721&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41340721&amp;memberNo=11800362"/>
-        <updated>2024-11-28T00:55:58.099Z</updated>
-        <content type="html"><![CDATA[주말 내내 SNS 피드를 달군 순간들.▼ 클릭 ▼ 2024 마마 어워즈, 화제의 이슈 Top 5 (feat. 비하인드 스토리) - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 주말 내내 SNS···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 겨울의 굴보쌈 맛집 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41217004&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41217004&amp;memberNo=11800362"/>
-        <updated>2024-11-27T00:55:48.250Z</updated>
-        <content type="html"><![CDATA[굴과 김치는 못 참지.▼ 클릭 ▼ 이 겨울의 굴보쌈 맛집 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 굴과 김치는 못 참지. www.cosmopolitan.co.kr 맛자랑 네이버 지도···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 한정! 음료, 주류 모음]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41216831&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41216831&amp;memberNo=11800362"/>
-        <updated>2024-11-26T00:55:44.169Z</updated>
-        <content type="html"><![CDATA[완판됐던 그 에디션 다시 온다!▼ 클릭 ▼ 크리스마스 한정! 음료, 주류 모음 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 완판됐던 그 에디션 다시 온다! www.cosmopolit···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리짓 존스, 삼순이 이즈 백! 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41340721&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41340721&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 28 Nov 2024 00:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[주말 내내 SNS 피드를 달군 순간들.▼ 클릭 ▼ 2024 마마 어워즈, 화제의 이슈 Top 5 (feat. 비하인드 스토리) - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 주말 내내 SNS···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이 겨울의 굴보쌈 맛집 3]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41217004&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41217004&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 27 Nov 2024 00:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[굴과 김치는 못 참지.▼ 클릭 ▼ 이 겨울의 굴보쌈 맛집 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 굴과 김치는 못 참지. www.cosmopolitan.co.kr 맛자랑 네이버 지도···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 한정! 음료, 주류 모음]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41216831&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41216831&amp;memberNo=11800362</guid>
+            <pubDate>Tue, 26 Nov 2024 00:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[완판됐던 그 에디션 다시 온다!▼ 클릭 ▼ 크리스마스 한정! 음료, 주류 모음 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 완판됐던 그 에디션 다시 온다! www.cosmopolit···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브리짓 존스, 삼순이 이즈 백! 
 그 시절 우리가 사랑한 언니들]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=41216096&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=41216096&amp;memberNo=11800362"/>
-        <updated>2024-11-25T05:12:57.818Z</updated>
-        <content type="html"><![CDATA[기억나니? 그 시절 우리의 로코 워너비들. 1인칭 주인공 시점으로 소환했다. ▼ 클릭 ▼&lt;브리짓 존스의 일기&gt;(2001) ‘브리짓 존스’&lt;브리짓 존스의 일기&gt;기억나니? 콜린 퍼스와 휴 그···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 어그의 계절! 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41216096&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41216096&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 25 Nov 2024 05:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[기억나니? 그 시절 우리의 로코 워너비들. 1인칭 주인공 시점으로 소환했다. ▼ 클릭 ▼&lt;브리짓 존스의 일기&gt;(2001) ‘브리짓 존스’&lt;브리짓 존스의 일기&gt;기억나니? 콜린 퍼스와 휴 그···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 어그의 계절! 
 셀럽 어그 스타일링 4]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40843978&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40843978&amp;memberNo=11800362"/>
-        <updated>2024-11-22T00:55:15.587Z</updated>
-        <content type="html"><![CDATA[어그 뽐뿌 잔뜩 받고 감~.▼ 클릭 ▼ 돌아온 어그의 계절! 셀럽 어그 스타일링 4 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 어그 뽐뿌 잔뜩 받고 감~. www.cosmopoli···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머플러 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40843978&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40843978&amp;memberNo=11800362</guid>
+            <pubDate>Fri, 22 Nov 2024 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[어그 뽐뿌 잔뜩 받고 감~.▼ 클릭 ▼ 돌아온 어그의 계절! 셀럽 어그 스타일링 4 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 어그 뽐뿌 잔뜩 받고 감~. www.cosmopoli···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[머플러 
 어떻게 매야 잘 맸다고 소문날까?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40843870&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40843870&amp;memberNo=11800362"/>
-        <updated>2024-11-21T00:54:28.218Z</updated>
-        <content type="html"><![CDATA[있던 머플러도 다시 보자!▼ 클릭 ▼ 머플러 어떻게 매야 잘 맸다고 소문날까? - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 있던 머플러도 다시 보자! www.cosmopolita···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 골랐다고 소문나는 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40843870&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40843870&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 21 Nov 2024 00:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[있던 머플러도 다시 보자!▼ 클릭 ▼ 머플러 어떻게 매야 잘 맸다고 소문날까? - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 있던 머플러도 다시 보자! www.cosmopolita···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 골랐다고 소문나는 
 연말 파티 선물 추천]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40843742&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40843742&amp;memberNo=11800362"/>
-        <updated>2024-11-20T00:54:29.186Z</updated>
-        <content type="html"><![CDATA[크리스마스 감성 듬뿍 담았어요.▼ 클릭 ▼ 잘 골랐다고 소문나는 연말 파티 선물 추천 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 크리스마스 감성 듬뿍 담았어요. www.···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올겨울 드뮤어하게 클래식 니트 입는 법]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40602997&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40602997&amp;memberNo=11800362"/>
-        <updated>2024-11-18T00:56:47.590Z</updated>
-        <content type="html"><![CDATA[실패 없는 클래식 니트 조합 5.▼ 클릭 ▼ 올겨울 드뮤어하게 클래식 니트 입는 법 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 실패 없는 클래식 니트 조합 5. www.co···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 예약해야 해! 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40843742&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40843742&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 20 Nov 2024 00:54:29 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 감성 듬뿍 담았어요.▼ 클릭 ▼ 잘 골랐다고 소문나는 연말 파티 선물 추천 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 크리스마스 감성 듬뿍 담았어요. www.···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올겨울 드뮤어하게 클래식 니트 입는 법]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40602997&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40602997&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 18 Nov 2024 00:56:47 GMT</pubDate>
+            <content:encoded><![CDATA[실패 없는 클래식 니트 조합 5.▼ 클릭 ▼ 올겨울 드뮤어하게 클래식 니트 입는 법 - FASHION | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 실패 없는 클래식 니트 조합 5. www.co···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지금 예약해야 해! 
 요즘 핫한 크리스마스 케이크 5]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40602816&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40602816&amp;memberNo=11800362"/>
-        <updated>2024-11-15T00:54:57.373Z</updated>
-        <content type="html"><![CDATA[올 연말 케이크는 너다!▼ 클릭 ▼ 지금 예약해야 해! 요즘 핫한 크리스마스 케이크 5 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 올 연말 케이크는 너다! www.cosmopoli···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올 겨울은 머리에 쓰세요. 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40602816&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40602816&amp;memberNo=11800362</guid>
+            <pubDate>Fri, 15 Nov 2024 00:54:57 GMT</pubDate>
+            <content:encoded><![CDATA[올 연말 케이크는 너다!▼ 클릭 ▼ 지금 예약해야 해! 요즘 핫한 크리스마스 케이크 5 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 올 연말 케이크는 너다! www.cosmopoli···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올 겨울은 머리에 쓰세요. 
 제니, 원빈이 착용한 방한템!]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40603472&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40603472&amp;memberNo=11800362"/>
-        <updated>2024-11-14T07:12:11.496Z</updated>
-        <content type="html"><![CDATA[귀마개부터 니트 보닛까지! 셀럽들의 겨울 액세서리 4 ▼ 클릭 ▼제니 - 귀마개인스타그램 @jennierubyjane 지난 11일 2024 슈퍼팝재팬 참석을 위해 공항에 나타난 제니. 그녀의 공항 룩은 언제나 그랬듯 뜨거운 화제···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi Kristin! Who are you Today?]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40602693&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40602693&amp;memberNo=11800362"/>
-        <updated>2024-11-14T06:16:16.206Z</updated>
-        <content type="html"><![CDATA[하루 종일 자연스럽게 빛나는 눈빛! 하파크리스틴에서 새롭게 출시하는 ‘빈 크리스틴’ 컬렉션은 일상에서 매일 즐겨 찾는 커피처럼 데일리한 브라운 컬러 베리에이션으로 선보인다. 브랜드 앰배서더 장···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 해린이 수험생? 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40603472&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40603472&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 14 Nov 2024 07:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[귀마개부터 니트 보닛까지! 셀럽들의 겨울 액세서리 4 ▼ 클릭 ▼제니 - 귀마개인스타그램 @jennierubyjane 지난 11일 2024 슈퍼팝재팬 참석을 위해 공항에 나타난 제니. 그녀의 공항 룩은 언제나 그랬듯 뜨거운 화제···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hi Kristin! Who are you Today?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40602693&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40602693&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 14 Nov 2024 06:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[하루 종일 자연스럽게 빛나는 눈빛! 하파크리스틴에서 새롭게 출시하는 ‘빈 크리스틴’ 컬렉션은 일상에서 매일 즐겨 찾는 커피처럼 데일리한 브라운 컬러 베리에이션으로 선보인다. 브랜드 앰배서더 장···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 해린이 수험생? 
 2024 수능 응시 셀럽 6]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40497639&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40497639&amp;memberNo=11800362"/>
-        <updated>2024-11-14T00:51:57.653Z</updated>
-        <content type="html"><![CDATA[본업 대박, 대학 합격 모두 기원!▼ 클릭 ▼ 뉴진스 해린이 수험생? 2024 수능 응시 셀럽 6 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 뉴진스 해린이 수험생? 2024···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미식가들은 다 먹는다? 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40497639&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40497639&amp;memberNo=11800362</guid>
+            <pubDate>Thu, 14 Nov 2024 00:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[본업 대박, 대학 합격 모두 기원!▼ 클릭 ▼ 뉴진스 해린이 수험생? 2024 수능 응시 셀럽 6 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 뉴진스 해린이 수험생? 2024···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미식가들은 다 먹는다? 
 정재형의 최애 올리브유]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40497436&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40497436&amp;memberNo=11800362"/>
-        <updated>2024-11-13T00:51:51.856Z</updated>
-        <content type="html"><![CDATA[따라 사다 거덜 나도 좋아!▼ 클릭 ▼ 미식가들은 다 먹는다? 정재형의 최애 올리브유 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 미식가들은 다 먹는다? 정재형의 최애 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번에도 오겜이 오겜할까? 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40497436&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40497436&amp;memberNo=11800362</guid>
+            <pubDate>Wed, 13 Nov 2024 00:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[따라 사다 거덜 나도 좋아!▼ 클릭 ▼ 미식가들은 다 먹는다? 정재형의 최애 올리브유 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 미식가들은 다 먹는다? 정재형의 최애 ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이번에도 오겜이 오겜할까? 
 <오징어 게임> 시즌 2 관전포인트 9]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40497189&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40497189&amp;memberNo=11800362"/>
-        <updated>2024-11-12T07:11:17.411Z</updated>
-        <content type="html"><![CDATA[이제 남은 것은 12월 26일 떡밥을 회수하는 것 뿐!\▼ 클릭 ▼ 이번에도 오겜이 오겜할까? &lt;오징어 게임&gt; 시즌 2 관전포인트 9 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희, 이시영도? 
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40497189&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40497189&amp;memberNo=11800362</guid>
+            <pubDate>Tue, 12 Nov 2024 07:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[이제 남은 것은 12월 26일 떡밥을 회수하는 것 뿐!\▼ 클릭 ▼ 이번에도 오겜이 오겜할까? &lt;오징어 게임&gt; 시즌 2 관전포인트 9 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, ···]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한소희, 이시영도? 
 실제 나이 속이고 데뷔한 셀럽 4]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40167067&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40167067&amp;memberNo=11800362"/>
-        <updated>2024-11-11T00:53:06.188Z</updated>
-        <content type="html"><![CDATA[우린 이걸 고무줄 나이라 부르기로 했어요.▼ 클릭 ▼ 한소희, 이시영도? 실제 나이 속이고 데뷔한 셀럽 4 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 한소희, 이시···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬바람 부는 계절의 온천 숙소 3]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=40167125&amp;memberNo=11800362</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=40167125&amp;memberNo=11800362"/>
-        <updated>2024-11-08T00:51:19.598Z</updated>
-        <content type="html"><![CDATA[몸은 뜨겁게, 머리는 차갑게.▼ 클릭 ▼ 찬바람 부는 계절의 온천 숙소 3 - LIFE | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 찬바람 부는 계절의 온천 숙소 3 - 몸은 뜨겁게, 머···]]></content>
-    </entry>
-</feed>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40167067&amp;memberNo=11800362</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40167067&amp;memberNo=11800362</guid>
+            <pubDate>Mon, 11 Nov 2024 00:53:06 GMT</pubDate>
+            <content:encoded><![CDATA[우린 이걸 고무줄 나이라 부르기로 했어요.▼ 클릭 ▼ 한소희, 이시영도? 실제 나이 속이고 데뷔한 셀럽 4 - CELEBRITY | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA) | 패션 매거진, 패션 잡지, 화보맛집 한소희, 이시···]]></content:encoded>
+        </item>
+    </channel>
+</rss>
